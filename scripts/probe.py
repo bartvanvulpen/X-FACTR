@@ -174,7 +174,7 @@ class CsvLogFileContext:
 
     def __enter__(self):
         if self.filename:
-            self.file = open(self.filename, 'w')
+            self.file = open(self.filename, 'w', encoding='utf-8')
             self.file.write(','.join(self.headers) + '\n')
             csv_file = csv.writer(self.file)
             return csv_file
