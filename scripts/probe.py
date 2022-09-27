@@ -777,7 +777,7 @@ class ProbeIterator(object):
 
 def load_entity_lang(filename: str) -> Dict[str, Dict[str, str]]:
     entity2lang = defaultdict(lambda: {})
-    with open(filename, 'r') as fin:
+    with open(filename, 'r', encoding='utf-8') as fin:
         for l in fin:
             l = l.strip().split('\t')
             entity = l[0]

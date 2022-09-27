@@ -1,0 +1,996 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] The capital of Denmark is [MASK] [MASK] . [SEP],the capital,Copenhagen,0,Copenhagen,0,-1.54657
+[CLS] The capital of Sweden is [MASK] . [SEP],Stockholm,Stockholm,1,Stockholm,1,-0.55493
+[CLS] The capital of Japan is [MASK] . [SEP],Tokyo,Tokyo,1,Tokyo,1,-1.52854
+[CLS] The capital of South Korea is [MASK] . [SEP],Seoul,Seoul,1,Seoul,1,-1.35760
+[CLS] The capital of Norway is [MASK] [MASK] [MASK] . [SEP],the in Norway,Oslo,0,Oslo,0,-2.07330
+[CLS] The capital of Ireland is [MASK] . [SEP],Dublin,Dublin,1,Dublin,1,-1.02303
+[CLS] The capital of Argentina is [MASK] [MASK] . [SEP],Buenos Aires,Buenos Aires,1,Buenos Aires,1,-0.11704
+[CLS] The capital of Canada is [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .,Ottawa,0,Ottawa,0,-1.83899
+[CLS] The capital of Czech Republic is [MASK] . [SEP],Prague,Prague,1,Prague,1,-1.62831
+[CLS] The capital of France is [MASK] [MASK] . [SEP],the Paris,Paris,0,Paris,0,-1.75393
+[CLS] The capital of People ' s Republic of China is [MASK] . [SEP],Beijing,Beijing,1,Beijing,1,-1.82161
+[CLS] The capital of Scotland is [MASK] . [SEP],Edinburgh,Edinburgh,1,Edinburgh,1,-1.15898
+[CLS] The capital of Poland is [MASK] . [SEP],Warsaw,Warsaw,1,Warsaw,1,-1.13658
+[CLS] The capital of Finland is [MASK] . [SEP],Helsinki,Helsinki,1,Helsinki,1,-0.63167
+[CLS] The capital of Soviet Union is [MASK] . [SEP],Moscow,Moscow,1,Moscow,1,-1.39734
+[CLS] The capital of Spain is [MASK] . [SEP],Madrid,Madrid,1,Madrid,1,-1.31771
+[CLS] The capital of Russian Empire is [MASK] . [SEP],Petersburg,Saint Petersburg,0,Saint Petersburg,0,-1.74062
+[CLS] The capital of Hungary is [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.54020
+[CLS] The capital of England is [MASK] . [SEP],London,London,1,London,1,-1.50924
+[CLS] The capital of Netherlands is [MASK] [MASK] . [SEP],the Hague,Amsterdam,0,Amsterdam,0,-1.22405
+[CLS] The capital of India is [MASK] [MASK] . [SEP],the Delhi,New Delhi,0,New Delhi,0,-1.66530
+[CLS] The capital of New South Wales is [MASK] . [SEP],Sydney,Sydney,1,Sydney,1,-0.87876
+[CLS] The capital of Thailand is [MASK] . [SEP],Bangkok,Bangkok,1,Bangkok,1,-0.27036
+[CLS] The capital of Serbia is [MASK] . [SEP],Belgrade,Belgrade,1,Belgrade,1,-0.08424
+[CLS] The capital of Wales is [MASK] . [SEP],Wales,Cardiff,0,Cardiff,0,-1.41698
+[CLS] The capital of Bulgaria is [MASK] . [SEP],Belgrade,Sofia,0,Sofia,0,-1.77540
+[CLS] The capital of Northern Ireland is [MASK] . [SEP],Belfast,Belfast,1,Belfast,1,-0.84350
+[CLS] The capital of Italy is [MASK] [MASK] . [SEP],the city,Rome,0,Rome,0,-1.74721
+[CLS] The capital of South Africa is [MASK] . [SEP],Pretoria,Cape Town,0,Cape Town,0,-0.91589
+[CLS] The capital of Ukraine is [MASK] . [SEP],Kiev,Kiev,1,Kiev,1,-1.13803
+[CLS] The capital of Iran is [MASK] . [SEP],Tehran,Tehran,1,Tehran,1,-0.44317
+[CLS] The capital of Romania is [MASK] . [SEP],Bucharest,Bucharest,1,Bucharest,1,-1.11288
+[CLS] The capital of Portugal is [MASK] . [SEP],Lisbon,Lisbon,1,Lisbon,1,-0.16474
+[CLS] The capital of Second Polish Republic is [MASK] . [SEP],Szczecin,Warsaw,0,Warsaw,0,-1.75155
+[CLS] The capital of Western Australia is [MASK] . [SEP],Perth,Perth,1,Perth,1,-0.85535
+[CLS] The capital of Malaysia is [MASK] [MASK] . [SEP],Kuala Lumpur,Kuala Lumpur,1,Kuala Lumpur,1,-0.71127
+[CLS] The capital of Latvia is [MASK] . [SEP],Riga,Riga,1,Riga,1,-0.34636
+[CLS] The capital of Estonia is [MASK] . [SEP],Tallinn,Tallinn,1,Tallinn,1,-0.07808
+[CLS] The capital of Lebanon is [MASK] . [SEP],Beirut,Beirut,1,Beirut,1,-0.82177
+[CLS] The capital of Israel is [MASK] . [SEP],Jerusalem,Jerusalem,1,Jerusalem,1,-1.86256
+[CLS] The capital of Azerbaijan is [MASK] . [SEP],Baku,Baku,1,Baku,1,-0.34599
+[CLS] The capital of Croatia is [MASK] . [SEP],Dubrovnik,Zagreb,0,Zagreb,0,-0.82297
+[CLS] The capital of Indonesia is [MASK] . [SEP],Jakarta,Jakarta,1,Jakarta,1,-0.38801
+[CLS] The capital of Egypt is [MASK] . [SEP],Egypt,Cairo,0,Cairo,0,-0.97465
+[CLS] The capital of Ontario is [MASK] . [SEP],Toronto,Toronto,1,Toronto,1,-1.15479
+[CLS] The capital of Australia is [MASK] . [SEP],Sydney,Canberra,0,Canberra,0,-1.23400
+[CLS] The capital of Qatar is [MASK] . [SEP],Doha,Doha,1,Doha,1,-0.03211
+[CLS] The capital of North Macedonia is [MASK] . [SEP],Skopje,Skopje,1,Skopje,1,-0.54467
+[CLS] The capital of Qing dynasty is [MASK] [MASK] . [SEP],Qingzhou:2,Beijing,0,Beijing,0,-1.53440
+[CLS] The capital of Ottoman Empire is [MASK] . [SEP],Istanbul,Istanbul,1,Istanbul,1,-1.13184
+[CLS] The capital of Slovenia is [MASK] . [SEP],Ljubljana,Ljubljana,1,Ljubljana,1,-0.31171
+[CLS] The capital of Sindh:2 is [MASK] . [SEP],Karachi,Karachi,1,Karachi,1,-0.47694
+[CLS] The capital of Sri Lanka is [MASK] [MASK] . [SEP],Sri Lanka,Colombo,0,Colombo,0,-0.48249
+[CLS] The capital of Slovakia is [MASK] . [SEP],Bratislava,Bratislava,1,Bratislava,1,-0.79949
+[CLS] The capital of Uruguay is [MASK] . [SEP],Montevideo,Montevideo,1,Montevideo,1,-0.00780
+[CLS] The capital of Queensland is [MASK] . [SEP],Brisbane,Brisbane,1,Brisbane,1,-0.04502
+[CLS] The capital of Victoria is [MASK] . [SEP],Melbourne,Melbourne,1,Melbourne,1,-1.13073
+[CLS] The capital of Catalonia is [MASK] [MASK] . [SEP],the city,Barcelona,0,Barcelona,0,-1.73319
+[CLS] The capital of Bosnia and Herzegovina is [MASK] . [SEP],Sarajevo,Sarajevo,1,Sarajevo,1,-0.83993
+[CLS] The capital of Mexico is [MASK] [MASK] [MASK] [MASK] . [SEP],the . de Mexico,Mexico City,0,Mexico City,0,-1.79085
+[CLS] The capital of Kenya is [MASK] . [SEP],Nairobi,Nairobi,1,Nairobi,1,-0.05564
+[CLS] The capital of United Kingdom is [MASK] . [SEP],London,London,1,London,1,-1.14962
+[CLS] The capital of Netherlands is [MASK] [MASK] . [SEP],the Hague,The Hague,0,The Hague,0,-1.22405
+[CLS] The capital of Bangladesh is [MASK] . [SEP],Dhaka,Dhaka,1,Dhaka,1,-0.10308
+[CLS] The capital of Lithuania is [MASK] . [SEP],Vilnius,Vilnius,1,Vilnius,1,-0.22958
+[CLS] The capital of Turkey is [MASK] . [SEP],Istanbul,Ankara,0,Ankara,0,-1.02677
+[CLS] The capital of West Bengal is [MASK] . [SEP],Kolkata,Kolkata,1,Kolkata,1,-1.40675
+[CLS] The capital of Massachusetts is [MASK] . [SEP],Boston,Boston,1,Boston,1,-0.43178
+[CLS] The capital of Iraq is [MASK] . [SEP],Baghdad,Baghdad,1,Baghdad,1,-0.04817
+[CLS] The capital of Greece is [MASK] . [SEP],Athens,Athens,1,Athens,1,-1.04435
+[CLS] The capital of Nazi Germany is [MASK] [MASK] [MASK] . [SEP],Frankfurt -tadt:2,Berlin,0,Berlin,0,-2.35577
+[CLS] The capital of Afghanistan is [MASK] . [SEP],Kabul,Kabul,1,Kabul,1,-0.23028
+[CLS] The capital of Vietnam is [MASK] . [SEP],Hanoi,Hanoi,1,Hanoi,1,-0.00840
+[CLS] The capital of South Australia is [MASK] . [SEP],Sydney,Adelaide,0,Adelaide,0,-1.41965
+[CLS] The capital of Albania is [MASK] . [SEP],Tirana,Tirana,1,Tirana,1,-0.09769
+[CLS] The capital of Pakistan is [MASK] . [SEP],Karachi,Islamabad:2,0,Islamabad:2,0,-0.12887
+[CLS] The capital of Armenia is [MASK] [MASK] . [SEP],aevan:2,Yerevan:2,0,Yerevan:2,0,-1.74491
+[CLS] The capital of Socialist Federal Republic of Yugoslavia is [MASK] . [SEP],Belgrade,Belgrade,1,Belgrade,1,-0.15594
+[CLS] The capital of Austria is [MASK] . [SEP],Vienna,Vienna,1,Vienna,1,-1.11627
+[CLS] The capital of Taiwan is [MASK] . [SEP],Taipei,Taipei,1,Taipei,1,-0.20723
+[CLS] The capital of Philippines is [MASK] [MASK] . [SEP],. Manila,Manila,0,Manila,0,-1.39229
+[CLS] The capital of Russia is [MASK] [MASK] . [SEP],the Petersburg,Moscow,0,Moscow,0,-1.91417
+[CLS] The capital of Manitoba is [MASK] . [SEP],Winnipeg,Winnipeg,1,Winnipeg,1,-0.55795
+[CLS] The capital of Cuba is [MASK] . [SEP],Havana,Havana,1,Havana,1,-0.27072
+[CLS] The capital of Switzerland is [MASK] [MASK] . [SEP],the Geneva,Bern,0,Bern,0,-1.71649
+[CLS] The capital of Kerala is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . - .r:2,Thiruvananthapuram:7,0,Thiruvananthapuram:7,0,-2.37808
+[CLS] The capital of Germany is [MASK] [MASK] [MASK] . [SEP],Frankfurt -tadt:2,Berlin,0,Berlin,0,-2.29430
+[CLS] The capital of Tamil Nadu is [MASK] . [SEP],Chennai,Chennai,1,Chennai,1,-0.42161
+[CLS] The capital of Syria is [MASK] . [SEP],Damascus,Damascus,1,Damascus,1,-0.26210
+[CLS] The capital of Uganda is [MASK] . [SEP],Uganda,Kampala:3,0,Kampala:3,0,-1.42300
+[CLS] The capital of Maharashtra is [MASK] . [SEP],Pune,Mumbai,0,Mumbai,0,-0.99657
+[CLS] The capital of Byzantine Empire is [MASK] . [SEP],Constantinople,Constantinople,1,Constantinople,1,-0.45115
+[CLS] The capital of Alberta is [MASK] [MASK] . [SEP],in Calgary,Edmonton,0,Edmonton,0,-1.93608
+[CLS] The capital of Belarus is [MASK] . [SEP],Minsk,Minsk,1,Minsk,1,-0.10054
+[CLS] The capital of Chile is [MASK] . [SEP],Santiago,Santiago,1,Santiago,1,-0.29832
+[CLS] The capital of South Africa is [MASK] . [SEP],Pretoria,Pretoria,1,Pretoria,1,-0.91589
+[CLS] The capital of Bavaria is [MASK] [MASK] . [SEP],in city,Munich,0,Munich,0,-1.98464
+[CLS] The capital of Ghana is [MASK] . [SEP],Ghana,Accra:3,0,Accra:3,0,-1.59443
+[CLS] The capital of British Raj is [MASK] [MASK] . [SEP],Raj Delhi,Kolkata,0,Kolkata,0,-1.54093
+[CLS] The capital of Tuscany:3 is [MASK] . [SEP],Florence,Florence,1,Florence,1,-1.08961
+[CLS] The capital of Karnataka is [MASK] . [SEP],Bangalore,Bengaluru:2,0,Bengaluru:2,0,-1.92722
+[CLS] The capital of Tasmania is [MASK] . [SEP],Hobart,Hobart,1,Hobart,1,-0.10066
+[CLS] The capital of Venezuela is [MASK] . [SEP],Caracas,Caracas,1,Caracas,1,-0.01963
+[CLS] The capital of Ecuador is [MASK] . [SEP],Quito,Quito,1,Quito,1,-0.03956
+[CLS] The capital of Norfolk is [MASK] . [SEP],Norwich,Norwich,1,Norwich,1,-0.28947
+[CLS] The capital of New York is [MASK] [MASK] . [SEP],New York,Albany,0,Albany,0,-0.42084
+[CLS] The capital of Nepal is [MASK] . [SEP],Dhaka,Kathmandu:3,0,Kathmandu:3,0,-2.54633
+[CLS] The capital of Czechoslovakia is [MASK] . [SEP],Bratislava,Prague,0,Prague,0,-1.01654
+[CLS] The capital of Zimbabwe is [MASK] . [SEP],Zimbabwe,Harare:2,0,Harare:2,0,-0.33231
+[CLS] The capital of Devon is [MASK] . [SEP],Exeter,Exeter,1,Exeter,1,-1.36051
+[CLS] The capital of Kingdom of England is [MASK] . [SEP],London,London,1,London,1,-1.17167
+[CLS] The capital of Aragon is [MASK] . [SEP],Zaragoza,Zaragoza,1,Zaragoza,1,-0.66198
+[CLS] The capital of United Arab Emirates is [MASK] [MASK] [MASK] . [SEP],a Arab Emirates,Abu Dhabi,0,Abu Dhabi,0,-1.58579
+[CLS] The capital of Hunan:2 is [MASK] [MASK] . [SEP],Hunan:2,Changsha:2,0,Changsha:2,0,-1.63063
+[CLS] The capital of Senegal is [MASK] . [SEP],Dakar,Dakar,1,Dakar,1,-0.05107
+[CLS] The capital of Guangdong is [MASK] . [SEP],Guangzhou,Guangzhou,1,Guangzhou,1,-0.42636
+[CLS] The capital of Hebei:2 is [MASK] [MASK] . [SEP],Hebei:2,Shijiazhuang:4,0,Shijiazhuang:4,0,-2.15742
+[CLS] The capital of Democratic Republic of the Congo is [MASK] . [SEP],Kinshasa,Kinshasa,1,Kinshasa,1,-0.27007
+[CLS] The capital of Sicily is [MASK] . [SEP],Messina,Palermo,0,Palermo,0,-0.57394
+[CLS] The capital of North Korea is [MASK] . [SEP],Seoul,Pyongyang:3,0,Pyongyang:3,0,-1.56959
+[CLS] The capital of Odisha:2 is [MASK] [MASK] . [SEP],Odisha:2,Bhubaneswar:5,0,Bhubaneswar:5,0,-0.28651
+[CLS] The capital of Republic of Cyprus is [MASK] . [SEP],Cyprus,Nicosia:2,0,Nicosia:2,0,-0.82553
+[CLS] The capital of Suffolk is [MASK] . [SEP],Ipswich,Ipswich,1,Ipswich,1,-0.11852
+[CLS] The capital of Uzbekistan is [MASK] [MASK] . [SEP],Uzkent:2,Tashkent:3,0,Tashkent:3,0,-0.78493
+[CLS] The capital of Cambodia is [MASK] . [SEP],Hanoi,Phnom:2 Penh:2,0,Phnom:2 Penh:2,0,-1.37055
+[CLS] The capital of Sichuan is [MASK] [MASK] . [SEP],Chenglin:2,Chengdu:2,0,Chengdu:2,0,-2.22018
+[CLS] The capital of Nova Scotia is [MASK] . [SEP],Halifax,Halifax,1,Halifax,1,-0.03933
+[CLS] The capital of Dominican Republic is [MASK] [MASK] . [SEP],Dominican Domingo,Santo Domingo,0,Santo Domingo,0,-0.93374
+[CLS] The capital of Namibia is [MASK] . [SEP],a,Windhoek:2,0,Windhoek:2,0,-2.15260
+[CLS] The capital of Indiana is [MASK] . [SEP],Indiana,Indianapolis,0,Indianapolis,0,-1.00148
+[CLS] The capital of Tunisia is [MASK] . [SEP],Tunis,Tunis,1,Tunis,1,-0.07602
+[CLS] The capital of Russian Soviet Federative:3 Socialist Republic is [MASK] . [SEP],Moscow,Saint Petersburg,0,Saint Petersburg,0,-1.19150
+[CLS] The capital of El Salvador is [MASK] . [SEP],Salvador,San Salvador,0,San Salvador,0,-0.09130
+[CLS] The capital of Colorado is [MASK] . [SEP],Denver,Denver,1,Denver,1,-1.84228
+[CLS] The capital of Somerset is [MASK] . [SEP],Somerset,Taunton:2,0,Taunton:2,0,-0.98261
+[CLS] The capital of Puerto Rico is [MASK] [MASK] . [SEP],Puerto Rico,San Juan,0,San Juan,0,-0.19448
+[CLS] The capital of Ethiopia is [MASK] . [SEP],Ethiopia,Addis Ababa:2,0,Addis Ababa:2,0,-1.57916
+[CLS] The capital of Somalia is [MASK] . [SEP],Somalia,Mogadishu:4,0,Mogadishu:4,0,-1.19614
+[CLS] The capital of Surrey is [MASK] . [SEP],London,Guildford:2,0,Guildford:2,0,-1.72276
+[CLS] The capital of Jiangsu:2 is [MASK] [MASK] . [SEP],Jiangzhou:2,Nanjing,0,Nanjing,0,-1.38746
+[CLS] The capital of Saudi Arabia is [MASK] [MASK] . [SEP],Saudi Arabia,Riyadh:3,0,Riyadh:3,0,-1.48835
+[CLS] The capital of Bihar is [MASK] . [SEP],Bihar,Patna:2,0,Patna:2,0,-1.56546
+[CLS] The capital of Sudan is [MASK] . [SEP],Sudan,Khartoum:3,0,Khartoum:3,0,-0.59924
+[CLS] The capital of Libya is [MASK] . [SEP],Tripoli,Tripoli,1,Tripoli,1,-0.20856
+[CLS] The capital of Uttar Pradesh is [MASK] . [SEP],Delhi,Lucknow:2,0,Lucknow:2,0,-1.06202
+[CLS] The capital of Panama is [MASK] . [SEP],Panama,Panama City,0,Panama City,0,-0.80430
+[CLS] The capital of Australian Capital Territory is [MASK] . [SEP],Canberra,Canberra,1,Canberra,1,-0.76452
+[CLS] The capital of Shropshire:4 is [MASK] . [SEP],Shrewsbury,Shrewsbury,1,Shrewsbury,1,-0.65320
+[CLS] The capital of Morocco is [MASK] . [SEP],Casablanca,Rabat,0,Rabat,0,-0.80311
+[CLS] The capital of Hampshire is [MASK] . [SEP],Hampshire,Winchester,0,Winchester,0,-1.10550
+[CLS] The capital of Quebec is [MASK] . [SEP],Montreal,Quebec City,0,Quebec City,0,-0.79082
+[CLS] The capital of Angola is [MASK] . [SEP],Luanda,Luanda,1,Luanda,1,-0.01602
+[CLS] The capital of Kosovo is [MASK] . [SEP],Kosovo,Pristina:2,0,Pristina:2,0,-0.37017
+[CLS] The capital of Rajasthan is [MASK] . [SEP],Rajasthan,Jaipur:3,0,Jaipur:3,0,-0.11685
+[CLS] The capital of Kingdom of France is [MASK] . [SEP],Paris,Paris,1,Paris,1,-1.21556
+[CLS] The capital of Montenegro is [MASK] . [SEP],Podgorica,Podgorica,1,Podgorica,1,-0.37060
+[CLS] The capital of Malta is [MASK] . [SEP],Malta,Valletta:2,0,Valletta:2,0,-0.02462
+[CLS] The capital of Veracruz is [MASK] . [SEP],Veracruz,Xalapa:3,0,Xalapa:3,0,-0.93143
+[CLS] The capital of Haiti is [MASK] . [SEP],Haiti,Port - au - Prince,0,Port - au - Prince,0,-0.62602
+[CLS] The capital of Madagascar is [MASK] . [SEP],Madagascar,Antananarivo:4,0,Antananarivo:4,0,-0.87328
+[CLS] The capital of Telangana:3 is [MASK] [MASK] [MASK] . [SEP],Telangana:3,Hyderabad,0,Hyderabad,0,-1.16070
+[CLS] The capital of Cook County is [MASK] . [SEP],Cook,Chicago,0,Chicago,0,-0.60325
+[CLS] The capital of Nigeria is [MASK] . [SEP],Lagos,Abuja:2,0,Abuja:2,0,-0.04852
+[CLS] The capital of Botswana is [MASK] . [SEP],Botswana,Gaborone:3,0,Gaborone:3,0,-2.13333
+[CLS] The capital of Mozambique is [MASK] . [SEP],Mozambique,Maputo:2,0,Maputo:2,0,-1.21505
+[CLS] The capital of Bahrain is [MASK] . [SEP],Bahrain,Manama:2,0,Manama:2,0,-0.21992
+[CLS] The capital of Hokkaidō:4 is [MASK] [MASK] [MASK] [MASK] . [SEP],Hokkaidō:4,Sapporo,0,Sapporo,0,-1.25695
+[CLS] The capital of Punjab is [MASK] . [SEP],Lahore,Lahore,1,Lahore,1,-1.06287
+[CLS] The capital of Mandatory:2 Palestine is [MASK] . [SEP],Jerusalem,Jerusalem,1,Jerusalem,1,-0.78479
+[CLS] The capital of Campania is [MASK] . [SEP],Naples,Naples,1,Naples,1,-1.06995
+[CLS] The capital of Lazio is [MASK] . [SEP],Rome,Rome,1,Rome,1,-0.50930
+[CLS] The capital of Nicaragua is [MASK] [MASK] [MASK] . [SEP],Ni of Nicaragua,Managua:2,0,Managua:2,0,-1.69661
+[CLS] The capital of Hubei:2 is [MASK] . [SEP],Hub,Wuhan:2,0,Wuhan:2,0,-1.39600
+[CLS] The capital of Sierra Leone is [MASK] . [SEP],Dakar,Freetown:2,0,Freetown:2,0,-1.19699
+[CLS] The capital of Hawaii is [MASK] . [SEP],Honolulu,Honolulu,1,Honolulu,1,-0.24882
+[CLS] The capital of Ukrainian Soviet Socialist Republic is [MASK] . [SEP],Kiev,Kiev,1,Kiev,1,-1.27055
+[CLS] The capital of Kent is [MASK] . [SEP],Kent,Maidstone:3,0,Maidstone:3,0,-0.91083
+[CLS] The capital of Pernambuco is [MASK] . [SEP],Recife,Recife,1,Recife,1,-0.00895
+[CLS] The capital of Kazakhstan is [MASK] . [SEP],Kazakhstan,Nur - Sultan,0,Nur - Sultan,0,-1.20392
+[CLS] The capital of Zhejiang is [MASK] . [SEP],Zhejiang,Hangzhou:2,0,Hangzhou:2,0,-1.79203
+[CLS] The capital of Western Cape is [MASK] [MASK] . [SEP],the Town,Cape Town,0,Cape Town,0,-1.99673
+[CLS] The capital of Azerbaijan Soviet Socialist Republic is [MASK] . [SEP],Baku,Baku,1,Baku,1,-0.20476
+[CLS] The capital of Guatemala is [MASK] [MASK] [MASK] . [SEP],Guatemala Guatemala Guatemala,Guatemala City,0,Guatemala City,0,-0.49378
+[CLS] The capital of Kyrgyzstan:5 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kyrgyzstan:5,Bishkek:3,0,Bishkek:3,0,-1.64737
+[CLS] The capital of Tajikistan:3 is [MASK] [MASK] [MASK] . [SEP],Tajikistan:3,Dushanbe:3,0,Dushanbe:3,0,-1.86972
+[CLS] The capital of Honduras is [MASK] . [SEP],Honduras,Tegucigalpa:5,0,Tegucigalpa:5,0,-0.11259
+[CLS] The capital of Heilongjiang:5 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Heilongjiang:5,Harbin:2,0,Harbin:2,0,-1.52918
+[CLS] The capital of Jordan is [MASK] . [SEP],Amman,Amman,1,Amman,1,-0.69111
+[CLS] The capital of Saxony is [MASK] . [SEP],Leipzig,Dresden,0,Dresden,0,-1.36747
+[CLS] The capital of Essex is [MASK] . [SEP],Essex,Chelmsford:3,0,Chelmsford:3,0,-1.38618
+[CLS] The capital of Turkmenistan is [MASK] . [SEP],Turkmenistan,Ashgabat:3,0,Ashgabat:3,0,-0.96916
+[CLS] The capital of Trentino is [MASK] . [SEP],Trento,Trento,1,Trento,1,-2.21819
+[CLS] The capital of Mali is [MASK] . [SEP],Mali,Bamako:3,0,Bamako:3,0,-0.22832
+[CLS] The capital of Andalusia:3 is [MASK] . [SEP],Málaga,Seville:2,0,Seville:2,0,-0.65226
+[CLS] The capital of Yunnan is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -g:2,Kunming:2,0,Kunming:2,0,-2.70364
+[CLS] The capital of New Castle County is [MASK] [MASK] [MASK] . [SEP],New Castle town,Wilmington,0,Wilmington,0,-1.68089
+[CLS] The capital of Gambia is [MASK] . [SEP],Gambia,Banjul:2,0,Banjul:2,0,-0.46247
+[CLS] The capital of Republic of the Congo is [MASK] . [SEP],Kinshasa,Brazzaville,0,Brazzaville,0,-0.30016
+[CLS] The capital of South Tyrol:2 is [MASK] [MASK] . [SEP],a town,Bolzano,0,Bolzano,0,-2.52283
+[CLS] The capital of Sardinia is [MASK] . [SEP],Cagliari,Cagliari,1,Cagliari,1,-0.06678
+[CLS] The capital of Greenland is [MASK] . [SEP],Greenland,Nuuk:2,0,Nuuk:2,0,-2.01437
+[CLS] The capital of Kingdom of Italy is [MASK] . [SEP],Florence,Rome,0,Rome,0,-1.53818
+[CLS] The capital of Zambia is [MASK] [MASK] . [SEP],Lusaka:2,Lusaka:2,1,Lusaka:2,1,-0.41201
+[CLS] The capital of United States of America is [MASK] [MASK] . [SEP],New York,"Washington , D . C .",0,"Washington , D . C .",0,-1.11528
+[CLS] The capital of Calabria is [MASK] . [SEP],Reggio,Catanzaro:3,0,Catanzaro:3,0,-0.75147
+[CLS] The capital of Spanish Empire is [MASK] [MASK] [MASK] [MASK] . [SEP],the capital of capital,Madrid,0,Madrid,0,-2.01630
+[CLS] The capital of Khyber:3 Pakhtunkhwa:4 is [MASK] . [SEP],Karachi,Peshawar:3,0,Peshawar:3,0,-1.29052
+[CLS] The capital of Laos is [MASK] . [SEP],Hanoi,Vientiane:3,0,Vientiane:3,0,-0.52125
+[CLS] The capital of Lower Saxony is [MASK] . [SEP],Leipzig,Hanover,0,Hanover,0,-1.76400
+[CLS] The capital of Chechen:2 Republic is [MASK] [MASK] [MASK] . [SEP],Che Chetadt:2,Grozny:3,0,Grozny:3,0,-1.14219
+[CLS] The capital of Canary Islands is [MASK] [MASK] . [SEP],the Palmas,Santa Cruz de Tenerife,0,Santa Cruz de Tenerife,0,-1.69323
+[CLS] The capital of Papua New Guinea is [MASK] [MASK] . [SEP],the City,Port Moresby:2,0,Port Moresby:2,0,-2.42178
+[CLS] The capital of Algeria is [MASK] . [SEP],Alger,Algiers:2,0,Algiers:2,0,-1.44559
+[CLS] The capital of Shaanxi:3 is [MASK] [MASK] [MASK] . [SEP],Shaanxi:3,Xi ' an,0,Xi ' an,0,-0.94859
+[CLS] The capital of Sabah is [MASK] . [SEP],Kota,Kota Kinabalu:3,0,Kota Kinabalu:3,0,-2.24022
+[CLS] The capital of Minas Gerais is [MASK] [MASK] . [SEP],Belo Horizonte,Belo Horizonte,1,Belo Horizonte,1,-1.48638
+[CLS] The capital of Crete:2 is [MASK] [MASK] . [SEP],Crete:2,Heraklion:3,0,Heraklion:3,0,-0.40352
+[CLS] The capital of Republic of Tatarstan:3 is [MASK] . [SEP],city,Kazan,0,Kazan,0,-2.16772
+[CLS] The capital of Tang Empire is [MASK] . [SEP],Tang,Chang ' an,0,Chang ' an,0,-1.39636
+[CLS] The capital of Burkina Faso is [MASK] [MASK] . [SEP],Burkina Faso,Ouagadougou:4,0,Ouagadougou:4,0,-1.47835
+[CLS] The capital of Allegheny:3 County is [MASK] [MASK] . [SEP],the city,Pittsburgh,0,Pittsburgh,0,-1.83458
+[CLS] The capital of Utah is [MASK] [MASK] . [SEP],. City,Salt Lake City,0,Salt Lake City,0,-1.52928
+[CLS] The capital of Buckinghamshire:2 is [MASK] . [SEP],Buckingham,Aylesbury:3,0,Aylesbury:3,0,-0.30051
+[CLS] The capital of Henan:2 is [MASK] [MASK] . [SEP],Henan:2,Zhengzhou:2,0,Zhengzhou:2,0,-0.69611
+[CLS] The capital of Bohemia is [MASK] . [SEP],Prague,Prague,1,Prague,1,-1.35987
+[CLS] The capital of Central African Republic is [MASK] . [SEP],Johannesburg,Bangui:2,0,Bangui:2,0,-1.68598
+[CLS] The capital of Madhya Pradesh is [MASK] . [SEP],Delhi,Bhopal:3,0,Bhopal:3,0,-1.40802
+[CLS] The capital of Sarawak is [MASK] . [SEP],Lu,Kuching:2,0,Kuching:2,0,-1.92541
+[CLS] The capital of Yemen is [MASK] . [SEP],Aden,Sana ' a,0,Sana ' a,0,-0.62352
+[CLS] The capital of Leicestershire:2 is [MASK] . [SEP],Leicester,Leicester,1,Leicester,1,-0.15613
+[CLS] The capital of Fiji is [MASK] . [SEP],Suva,Suva,1,Suva,1,-0.28852
+[CLS] The capital of Fujian is [MASK] [MASK] . [SEP],Fuzhou:2,Fuzhou:2,1,Fuzhou:2,1,-1.07491
+[CLS] The capital of Gauteng:3 is [MASK] [MASK] [MASK] . [SEP],Gauteng:3,Johannesburg,0,Johannesburg,0,-1.03841
+[CLS] The capital of Kingdom of Galicia and Lodomeria:3 is [MASK] . [SEP],Lugo,Lviv:2,0,Lviv:2,0,-1.34755
+[CLS] The capital of Goa is [MASK] . [SEP],Goa,Panjim:2,0,Panjim:2,0,-0.04587
+[CLS] The capital of Northamptonshire:2 is [MASK] . [SEP],Northampton,Northampton,1,Northampton,1,-0.07393
+[CLS] The capital of Otago:2 Region is [MASK] [MASK] . [SEP],Otago:2,Dunedin:3,0,Dunedin:3,0,-0.44594
+[CLS] The capital of Brunei is [MASK] . [SEP],Brunei,Bandar Seri Begawan:3,0,Bandar Seri Begawan:3,0,-0.24400
+[CLS] The capital of Suriname is [MASK] . [SEP],Suriname,Paramaribo:3,0,Paramaribo:3,0,-0.40590
+[CLS] The capital of Jiangxi:2 is [MASK] [MASK] . [SEP],Jiangzhou:2,Nanchang:2,0,Nanchang:2,0,-1.63409
+[CLS] The capital of Kingdom of Prussia is [MASK] . [SEP],Königsberg,Berlin,0,Berlin,0,-1.74455
+[CLS] The capital of Martinique is [MASK] . [SEP],Martinique,Fort - de - France,0,Fort - de - France,0,-0.75259
+[CLS] The capital of Bhutan is [MASK] . [SEP],Bhutan,Thimphu:4,0,Thimphu:4,0,-1.11269
+[CLS] The capital of Vojvodina:4 is [MASK] . [SEP],Belgrade,Novi Sad,0,Novi Sad,0,-0.79028
+[CLS] The capital of Alsace is [MASK] . [SEP],Strasbourg,Strasbourg,1,Strasbourg,1,-0.16729
+[CLS] The capital of Jammu and Kashmir is [MASK] . [SEP],Jammu,Srinagar:3,0,Srinagar:3,0,-0.18404
+[CLS] The capital of East Timor is [MASK] . [SEP],Timor,Dili:2,0,Dili:2,0,-0.50671
+[CLS] The capital of Inca Empire is [MASK] . [SEP],Inca,Cusco:2,0,Cusco:2,0,-2.20996
+[CLS] The capital of German Democratic Republic is [MASK] [MASK] [MASK] . [SEP],Frankfurt -tadt:2,East Berlin,0,East Berlin,0,-1.95097
+[CLS] The capital of Shanxi:2 is [MASK] [MASK] . [SEP],Shanlin:2,Taiyuan:2,0,Taiyuan:2,0,-2.53574
+[CLS] The capital of King ' s Lynn and West Norfolk is [MASK] . [SEP],Norwich,King ' s Lynn,0,King ' s Lynn,0,-0.56868
+[CLS] The capital of Ashanti:2 Region is [MASK] . [SEP],Ash,Kumasi:2,0,Kumasi:2,0,-0.40775
+[CLS] The capital of Province of Buenos Aires is [MASK] [MASK] . [SEP],Buenos Aires,La Plata,0,La Plata,0,-0.30971
+[CLS] The capital of Johor is [MASK] . [SEP],Johor,Johor Bahru:2,0,Johor Bahru:2,0,-1.62886
+[CLS] The capital of Kingdom of Saxony is [MASK] . [SEP],Leipzig,Dresden,0,Dresden,0,-1.32815
+[CLS] The capital of Hesse is [MASK] . [SEP],Frankfurt,Wiesbaden,0,Wiesbaden,0,-1.29895
+[CLS] The capital of Liberia is [MASK] . [SEP],Liberia,Monrovia:3,0,Monrovia:3,0,-0.89156
+[CLS] The capital of Jilin:2 is [MASK] [MASK] . [SEP],Jilin:2,Changchun:3,0,Changchun:3,0,-0.42427
+[CLS] The capital of Solomon Islands is [MASK] [MASK] [MASK] . [SEP],the ofa:2,Honiara:2,0,Honiara:2,0,-2.40807
+[CLS] The capital of Lombardy:2 is [MASK] . [SEP],Milan,Milan,1,Milan,1,-0.91409
+[CLS] The capital of South Africa is [MASK] . [SEP],Pretoria,Bloemfontein:4,0,Bloemfontein:4,0,-0.91589
+[CLS] The capital of East Sussex is [MASK] . [SEP],Brighton,Lewes:2,0,Lewes:2,0,-0.95242
+[CLS] The capital of Worcestershire:2 is [MASK] . [SEP],Worcester,Worcester,1,Worcester,1,-0.06718
+[CLS] The capital of Navarre is [MASK] . [SEP],Pamplona,Pamplona,1,Pamplona,1,-0.91056
+[CLS] The capital of Negros:2 Occidental is [MASK] [MASK] . [SEP],a town,Bacolod:3,0,Bacolod:3,0,-2.36606
+[CLS] The capital of Second Bulgarian Empire is [MASK] . [SEP],Sofia,Veliko Tarnovo:2,0,Veliko Tarnovo:2,0,-1.33510
+[CLS] The capital of Barbados is [MASK] . [SEP],Barbados,Bridgetown:2,0,Bridgetown:2,0,-0.21618
+[CLS] The capital of French Guiana is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Cayenne:3,0,Cayenne:3,0,-1.93330
+[CLS] The capital of Niger is [MASK] . [SEP],Lagos,Niamey:3,0,Niamey:3,0,-0.80611
+[CLS] The capital of Kingdom of Sardinia is [MASK] . [SEP],Cagliari,Turin,0,Turin,0,-0.08386
+[CLS] The capital of Perak is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . - .h:2,Ipoh:3,0,Ipoh:3,0,-2.57565
+[CLS] The capital of Herefordshire:3 is [MASK] [MASK] [MASK] . [SEP],Herefordford:3,Hereford:2,0,Hereford:2,0,-1.01425
+[CLS] The capital of Hennepin:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Hennepin:3 Town,Minneapolis,0,Minneapolis,0,-1.91131
+[CLS] The capital of Piedmont is [MASK] . [SEP],Rome,Turin,0,Turin,0,-1.94473
+[CLS] The capital of Jalisco is [MASK] . [SEP],Guadalajara,Guadalajara,1,Guadalajara,1,-0.50609
+[CLS] The capital of Bolivia is [MASK] . [SEP],Bolivia,Sucre,0,Sucre,0,-0.68129
+[CLS] The capital of Akershus is [MASK] . [SEP],Akershus,Oslo,0,Oslo,0,-0.61191
+[CLS] The capital of Styria:2 is [MASK] . [SEP],St,Graz,0,Graz,0,-1.59089
+[CLS] The capital of New Brunswick is [MASK] . [SEP],Brunswick,Fredericton:2,0,Fredericton:2,0,-0.63482
+[CLS] The capital of Kingdom of England is [MASK] . [SEP],London,Westminster,0,Westminster,0,-1.17167
+[CLS] The capital of Oklahoma is [MASK] [MASK] . [SEP],. City,Oklahoma City,0,Oklahoma City,0,-1.57754
+[CLS] The capital of Prince Edward Island is [MASK] [MASK] . [SEP],the Town,Charlottetown:2,0,Charlottetown:2,0,-2.18923
+[CLS] The capital of Azores:2 is [MASK] [MASK] [MASK] [MASK] . [SEP],the capital ofa:2,Ponta Delgada:2,0,Ponta Delgada:2,0,-2.55887
+[CLS] The capital of Uttarakhand:3 is [MASK] . [SEP],Delhi,Dehradun:3,0,Dehradun:3,0,-1.33187
+[CLS] The capital of Asturias is [MASK] . [SEP],Oviedo,Oviedo,1,Oviedo,1,-0.54775
+[CLS] The capital of Ceredigion:3 is [MASK] . [SEP],Newport,Aberystwyth:3,0,Aberystwyth:3,0,-0.70792
+[CLS] The capital of Madeira is [MASK] . [SEP],Madeira,Funchal:2,0,Funchal:2,0,-1.93138
+[CLS] The capital of Sikh Empire is [MASK] . [SEP],Lahore,Lahore,1,Lahore,1,-0.90021
+[CLS] The capital of Molise:2 is [MASK] [MASK] . [SEP],Molise:2,Campobasso:3,0,Campobasso:3,0,-0.44316
+[CLS] The capital of County Fermanagh:3 is [MASK] . [SEP],Derry,Enniskillen:3,0,Enniskillen:3,0,-1.49847
+[CLS] The capital of Malawi is [MASK] . [SEP],Malawi,Lilongwe:3,0,Lilongwe:3,0,-0.59103
+[CLS] The capital of Austria - Hungary is [MASK] . [SEP],Vienna,Vienna,1,Vienna,1,-0.74528
+[CLS] The capital of East Punjab is [MASK] . [SEP],Lahore,Himachal:3 Pradesh,0,Himachal:3 Pradesh,0,-1.79380
+[CLS] The capital of Meghalaya:3 is [MASK] [MASK] [MASK] . [SEP],Meghalaa:3,Shillong:3,0,Shillong:3,0,-2.17417
+[CLS] The capital of Eritrea is [MASK] . [SEP],Eritrea,Asmara:2,0,Asmara:2,0,-1.50085
+[CLS] The capital of King County is [MASK] [MASK] . [SEP],King town,Seattle,0,Seattle,0,-1.62104
+[CLS] The capital of Rwanda is [MASK] . [SEP],Rwanda,Kigali:2,0,Kigali:2,0,-0.27264
+[CLS] The capital of County Kerry is [MASK] . [SEP],Kerry,Tralee:2,0,Tralee:2,0,-0.80961
+[CLS] The capital of Nunavut is [MASK] [MASK] . [SEP],in Nunavut,Iqaluit:3,0,Iqaluit:3,0,-1.89348
+[CLS] The capital of East Java is [MASK] . [SEP],Surabaya,Surabaya,1,Surabaya,1,-0.89520
+[CLS] The capital of Chad is [MASK] . [SEP],Chad,N ' Djamena:3,0,N ' Djamena:3,0,-0.36722
+[CLS] The capital of Milwaukee County is [MASK] . [SEP],Milwaukee,Milwaukee,1,Milwaukee,1,-0.05626
+[CLS] The capital of Haryana:2 is [MASK] [MASK] . [SEP],Haryana:2,Chandigarh:4,0,Chandigarh:4,0,-0.33526
+[CLS] The capital of Kingdom of Italy is [MASK] . [SEP],Florence,Turin,0,Turin,0,-1.53818
+[CLS] The capital of Telford:2 and Wrekin:2 is [MASK] [MASK] . [SEP],inford:2,Telford:2,0,Telford:2,0,-2.78317
+[CLS] The capital of Biscay:2 is [MASK] . [SEP],Bilbao,Bilbao,1,Bilbao,1,-0.74757
+[CLS] The capital of North Sumatra is [MASK] . [SEP],Medan,Medan,1,Medan,1,-0.80247
+[CLS] The capital of Selangor is [MASK] [MASK] . [SEP],Sea:2,Shah Alam,0,Shah Alam,0,-1.86641
+[CLS] The capital of Byelorussian:4 Soviet Socialist Republic is [MASK] . [SEP],Minsk,Minsk,1,Minsk,1,-0.99478
+[CLS] The capital of Kurdistan Region is [MASK] . [SEP],Baghdad,Erbil:2,0,Erbil:2,0,-1.60411
+[CLS] The capital of Dutchess:2 County is [MASK] [MASK] . [SEP],Dutchess:2,Poughkeepsie:5,0,Poughkeepsie:5,0,-1.10015
+[CLS] The capital of Viceroyalty:4 of New Spain is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of New Spain,Mexico City,0,Mexico City,0,-2.14860
+[CLS] The capital of Belgium is [MASK] . [SEP],Brussels,Brussels,1,Brussels,1,-0.63472
+[CLS] The capital of Northern Mariana Islands is [MASK] . [SEP],Santiago,Saipan:2,0,Saipan:2,0,-1.96866
+[CLS] The capital of Brandenburg is [MASK] . [SEP],Berlin,Potsdam,0,Potsdam,0,-1.39479
+[CLS] The capital of Gansu:2 is [MASK] [MASK] . [SEP],Ganzhou:2,Lanzhou:2,0,Lanzhou:2,0,-1.21933
+[CLS] The capital of European Union is [MASK] [MASK] . [SEP],the capital,Strasbourg,0,Strasbourg,0,-1.95540
+[CLS] The capital of Republika Srpska is [MASK] . [SEP],Belgrade,Banja Luka,0,Banja Luka,0,-0.53010
+[CLS] The capital of Mauritius is [MASK] . [SEP],Mauritius,Port Louis,0,Port Louis,0,-1.87079
+[CLS] The capital of Tuvalu:3 is [MASK] . [SEP],Tu,Funafuti:3,0,Funafuti:3,0,-0.75082
+[CLS] The capital of Kingdom of England is [MASK] . [SEP],London,Winchester,0,Winchester,0,-1.17167
+[CLS] The capital of Sistan:2 and Baluchestan:3 Province is [MASK] [MASK] . [SEP],Siabad:2,Zahedan:3,0,Zahedan:3,0,-2.38594
+[CLS] The capital of KwaZulu:3 - Natal is [MASK] . [SEP],Durban,Pietermaritzburg:4,0,Pietermaritzburg:4,0,-1.01166
+[CLS] The capital of South Sudan is [MASK] . [SEP],Sudan,Juba,0,Juba,0,-0.88673
+[CLS] The capital of Samoa is [MASK] . [SEP],Samoa,Apia:2,0,Apia:2,0,-0.38648
+[CLS] The capital of Republic of Bashkortostan:5 is [MASK] . [SEP],city,Ufa:2,0,Ufa:2,0,-1.95551
+[CLS] The capital of Socialist Republic of Serbia is [MASK] . [SEP],Belgrade,Belgrade,1,Belgrade,1,-0.03753
+[CLS] The capital of Canterbury Region is [MASK] . [SEP],Canterbury,Christchurch,0,Christchurch,0,-0.49189
+[CLS] The capital of Hamilton County is [MASK] . [SEP],Hamilton,Cincinnati,0,Cincinnati,0,-0.04305
+[CLS] The capital of Anhui:2 is [MASK] [MASK] . [SEP],Baoui:2,Hefei:3,0,Hefei:3,0,-2.31035
+[CLS] The capital of Sikkim:3 is [MASK] [MASK] [MASK] . [SEP],Sikkim:3,Gangtok:2,0,Gangtok:2,0,-1.36787
+[CLS] The capital of Oxfordshire is [MASK] . [SEP],Oxford,Oxford,1,Oxford,1,-0.58722
+[CLS] The capital of North West England is [MASK] . [SEP],London,Manchester,0,Manchester,0,-1.99693
+[CLS] The capital of Kuwait is [MASK] . [SEP],Kuwait,Kuwait City,0,Kuwait City,0,-0.12204
+[CLS] The capital of Ōsaka:2 Prefecture is [MASK] [MASK] [MASK] . [SEP],Ōsaka:2 Prefecture,Ōsaka:2,0,Ōsaka:2,0,-1.10945
+[CLS] The capital of Republic of Venice is [MASK] . [SEP],Venice,Venice,1,Venice,1,-0.02681
+[CLS] The capital of Vanuatu is [MASK] . [SEP],Vanuatu,Port Vila,0,Port Vila,0,-0.15556
+[CLS] The capital of County Tyrone is [MASK] . [SEP],Tyrone,Omagh:2,0,Omagh:2,0,-0.91319
+[CLS] The capital of Imperial State of Iran is [MASK] . [SEP],Tehran,Tehran,1,Tehran,1,-0.19332
+[CLS] The capital of Austria - Hungary is [MASK] . [SEP],Vienna,Budapest,0,Budapest,0,-0.74528
+[CLS] The capital of Guinea - Bissau is [MASK] . [SEP],Bissau,Bissau,1,Bissau,1,-0.13004
+[CLS] The capital of Chuvash:3 Republic is [MASK] [MASK] [MASK] [MASK] . [SEP],Chuvash:3 city,Cheboksary:4,0,Cheboksary:4,0,-1.56336
+[CLS] The capital of Warwickshire:2 is [MASK] . [SEP],Warwick,Warwick,1,Warwick,1,-0.25803
+[CLS] The capital of Achaea:3 Regional Unit is [MASK] [MASK] [MASK] . [SEP],Achaea:3,Patras:2,0,Patras:2,0,-1.33226
+[CLS] The capital of Rif:2 Dimashq:4 Governorate:2 is [MASK] . [SEP],Baghdad,Damascus,0,Damascus,0,-2.38159
+[CLS] The capital of Sverdlovsk:4 Oblast is [MASK] [MASK] . [SEP],the city,Yekaterinburg:4,0,Yekaterinburg:4,0,-1.90410
+[CLS] The capital of Cambridgeshire:2 is [MASK] . [SEP],Cambridge,Cambridge,1,Cambridge,1,-0.11794
+[CLS] The capital of Kedah is [MASK] . [SEP],Kedah,Alor:2 Setar:2,0,Alor:2 Setar:2,0,-0.73352
+[CLS] The capital of Turkish Republic of Northern Cyprus is [MASK] . [SEP],Ankara,Nicosia:2,0,Nicosia:2,0,-1.79716
+[CLS] The capital of County Meath:2 is [MASK] [MASK] [MASK] . [SEP],in Meath:2,Navan:2,0,Navan:2,0,-1.30543
+[CLS] The capital of San Diego County is [MASK] [MASK] . [SEP],San Diego,San Diego,1,San Diego,1,-0.51284
+[CLS] The capital of Kyōto:3 Prefecture is [MASK] [MASK] [MASK] [MASK] . [SEP],Kyōto:3 Prefecture,Kyoto,0,Kyoto,0,-1.93567
+[CLS] The capital of Albemarle:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Albemarle:3 Town,Charlottesville:2,0,Charlottesville:2,0,-1.80096
+[CLS] The capital of Burundi is [MASK] [MASK] . [SEP],capital city,Bujumbura:4,0,Bujumbura:4,0,-1.80427
+[CLS] The capital of Liguria is [MASK] . [SEP],Liguria,Genoa,0,Genoa,0,-1.72223
+[CLS] The capital of Himachal:3 Pradesh is [MASK] . [SEP],Kota,Shimla:2,0,Shimla:2,0,-2.57668
+[CLS] The capital of Second Spanish Republic is [MASK] . [SEP],Madrid,Madrid,1,Madrid,1,-1.56013
+[CLS] The capital of Wood County is [MASK] [MASK] . [SEP],Wood town,Parkersburg:2,0,Parkersburg:2,0,-1.30648
+[CLS] The capital of Qinghai:2 is [MASK] [MASK] . [SEP],Qinghai:2,Xining:2,0,Xining:2,0,-1.33220
+[CLS] The capital of Pridnestrovie:4 is [MASK] [MASK] . [SEP],the town,Tiraspol:3,0,Tiraspol:3,0,-1.75624
+[CLS] The capital of Thuringia:3 is [MASK] [MASK] [MASK] . [SEP],Tu intadt:2,Erfurt,0,Erfurt,0,-2.55961
+[CLS] The capital of Wayne County is [MASK] . [SEP],Wayne,Detroit,0,Detroit,0,-1.09634
+[CLS] The capital of Harris County is [MASK] . [SEP],Harris,Houston,0,Houston,0,-0.26031
+[CLS] The capital of Berkeley County is [MASK] . [SEP],Berkeley,Martinsburg:2,0,Martinsburg:2,0,-0.44686
+[CLS] The capital of Orkney:3 Islands is [MASK] . [SEP],Dundee,Kirkwall:2,0,Kirkwall:2,0,-2.26418
+[CLS] The capital of Somaliland:2 is [MASK] . [SEP],Somali,Hargeisa:3,0,Hargeisa:3,0,-0.11416
+[CLS] The capital of County Mayo is [MASK] . [SEP],Mayo,Castlebar:2,0,Castlebar:2,0,-0.36927
+[CLS] The capital of Kelantan is [MASK] . [SEP],Kelantan,Kota Bharu:2,0,Kota Bharu:2,0,-1.20199
+[CLS] The capital of British Columbia is [MASK] [MASK] . [SEP],the City,Victoria,0,Victoria,0,-2.08716
+[CLS] The capital of Hiroshima Prefecture is [MASK] . [SEP],Hiroshima,Hiroshima,1,Hiroshima,1,-0.17045
+[CLS] The capital of North East England is [MASK] . [SEP],London,Newcastle upon Tyne,0,Newcastle upon Tyne,0,-1.74516
+[CLS] The capital of Burgundy:3 is [MASK] [MASK] [MASK] . [SEP],Burg iny:2,Dijon,0,Dijon,0,-2.11006
+[CLS] The capital of Benin is [MASK] . [SEP],Benin,Porto - Novo,0,Porto - Novo,0,-0.11029
+[CLS] The capital of Cuyahoga:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Cuyahoga:3 County,Cleveland,0,Cleveland,0,-1.13139
+[CLS] The capital of Carinthia:3 is [MASK] [MASK] [MASK] . [SEP],Carinta:3,Klagenfurt,0,Klagenfurt,0,-2.07178
+[CLS] The capital of Borgou:2 Department is [MASK] [MASK] . [SEP],Borgou:2,Parakou:2,0,Parakou:2,0,-1.47176
+[CLS] The capital of Adjara:2 is [MASK] [MASK] . [SEP],Adjara:2,Batumi:2,0,Batumi:2,0,-0.73943
+[CLS] The capital of Corsica is [MASK] . [SEP],Bastia,Ajaccio:3,0,Ajaccio:3,0,-1.21825
+[CLS] The capital of County Dublin is [MASK] . [SEP],Dublin,Dublin,1,Dublin,1,-0.13420
+[CLS] The capital of Bali is [MASK] . [SEP],Bali,Denpasar:3,0,Denpasar:3,0,-0.17666
+[CLS] The capital of Auvergne is [MASK] . [SEP],Lyon,Clermont - Ferrand,0,Clermont - Ferrand,0,-1.80475
+[CLS] The capital of Hertfordshire is [MASK] . [SEP],London,Hertford:3,0,Hertford:3,0,-1.72466
+[CLS] The capital of Emilia - Romagna is [MASK] . [SEP],Rimini,Bologna,0,Bologna,0,-1.15303
+[CLS] The capital of County Kildare:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],in Kildare:3,Naas:2,0,Naas:2,0,-1.19534
+[CLS] The capital of Province of Brandenburg is [MASK] . [SEP],Berlin,Berlin,1,Berlin,1,-0.88913
+[CLS] The capital of Sofia Province is [MASK] . [SEP],Sofia,Sofia,1,Sofia,1,-0.27819
+[CLS] The capital of Luzerne:2 County is [MASK] [MASK] . [SEP],Luzern town,Wilkes - Barre,0,Wilkes - Barre,0,-1.77998
+[CLS] The capital of Iloilo:3 is [MASK] [MASK] [MASK] . [SEP],Iloilo:3,Iloilo:3 City,0,Iloilo:3 City,0,-1.71118
+[CLS] The capital of Moscow Oblast is [MASK] . [SEP],Moscow,Moscow,1,Moscow,1,-1.09895
+[CLS] The capital of County Londonderry:3 is [MASK] [MASK] . [SEP],the town,Derry,0,Derry,0,-2.06548
+[CLS] The capital of Bihor:2 County is [MASK] [MASK] [MASK] . [SEP],Bihor:2 town,Oradea:2,0,Oradea:2,0,-1.23234
+[CLS] The capital of Second French Empire is [MASK] . [SEP],Metz,Paris,0,Paris,0,-1.68449
+[CLS] The capital of East Punjab is [MASK] . [SEP],Lahore,Chandigarh:4,0,Chandigarh:4,0,-1.79380
+[CLS] The capital of Artsakh:3 is [MASK] [MASK] [MASK] . [SEP],aakh:3,Stepanakert:3,0,Stepanakert:3,0,-2.12778
+[CLS] The capital of South West England is [MASK] . [SEP],London,Bristol,0,Bristol,0,-1.93954
+[CLS] The capital of Wiltshire is [MASK] . [SEP],Salisbury,Trowbridge:3,0,Trowbridge:3,0,-0.76629
+[CLS] The capital of Kazakh:3 Soviet Socialist Republic is [MASK] . [SEP],Astana,Almaty:2,0,Almaty:2,0,-2.04558
+[CLS] The capital of Kingdom of Navarre is [MASK] . [SEP],Pamplona,Pamplona,1,Pamplona,1,-0.74425
+[CLS] The capital of Rogaland is [MASK] . [SEP],Stavanger,Stavanger,1,Stavanger,1,-0.18870
+[CLS] The capital of Republic of Mordovia:2 is [MASK] . [SEP],Moscow,Saransk:2,0,Saransk:2,0,-2.28009
+[CLS] The capital of Vorarlberg is [MASK] [MASK] . [SEP],inz:2,Bregenz:3,0,Bregenz:3,0,-1.60728
+[CLS] The capital of Shang dynasty is [MASK] [MASK] . [SEP],Shangzhou:2,Yinxu:2,0,Yinxu:2,0,-0.59788
+[CLS] The capital of South Sulawesi is [MASK] . [SEP],Sulawesi,Makassar:2,0,Makassar:2,0,-1.32850
+[CLS] The capital of Republic of Adygea:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - Adyga:3,Maykop:2,0,Maykop:2,0,-1.96920
+[CLS] The capital of Taranaki:3 Region is [MASK] . [SEP],Tara,New Plymouth,0,New Plymouth,0,-0.61318
+[CLS] The capital of Kingdom of Bavaria is [MASK] . [SEP],Munich,Munich,1,Munich,1,-1.15915
+[CLS] The capital of Bohol:2 is [MASK] [MASK] . [SEP],Bohol:2,Tagbilaran:3,0,Tagbilaran:3,0,-0.18013
+[CLS] The capital of Carmarthenshire:5 is [MASK] [MASK] . [SEP],a town,Carmarthen:4,0,Carmarthen:4,0,-2.54611
+[CLS] The capital of Kingdom of Scotland is [MASK] . [SEP],Edinburgh,Edinburgh,1,Edinburgh,1,-0.88848
+[CLS] The capital of East Ayrshire:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],in Ayrshire:3,Kilmarnock:4,0,Kilmarnock:4,0,-2.21036
+[CLS] The capital of Chhattisgarh:5 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Chhattisgarh:5,Raipur:2,0,Raipur:2,0,-1.06784
+[CLS] The capital of First Bulgarian Empire is [MASK] . [SEP],Sofia,Pliska:2,0,Pliska:2,0,-1.30785
+[CLS] The capital of Judah:2 is [MASK] [MASK] . [SEP],Judah:2,Jerusalem,0,Jerusalem,0,-0.82819
+[CLS] The capital of Qajar:3 dynasty is [MASK] . [SEP],Lahore,Tehran,0,Tehran,0,-1.20530
+[CLS] The capital of French Polynesia:3 is [MASK] . [SEP],Tahiti,Papeete:2,0,Papeete:2,0,-2.30788
+[CLS] The capital of Republic of North Ossetia:3 - Alania:2 is [MASK] . [SEP],Moscow,Vladikavkaz:4,0,Vladikavkaz:4,0,-2.31758
+[CLS] The capital of Guernsey:3 is [MASK] [MASK] [MASK] . [SEP],Guernsey:3,Saint Peter Port,0,Saint Peter Port,0,-0.42799
+[CLS] The capital of Ticino is [MASK] [MASK] [MASK] . [SEP],"in ,a:2",Bellinzona:3,0,Bellinzona:3,0,-2.59818
+[CLS] The capital of Olyokminsky:5 District is [MASK] [MASK] . [SEP],the town,Olyokminsk:5,0,Olyokminsk:5,0,-1.48598
+[CLS] The capital of Kiribati:3 is [MASK] [MASK] [MASK] . [SEP],Kiribati:3,South Tarawa:2,0,South Tarawa:2,0,-1.78570
+[CLS] The capital of Mecklenburg - Vorpommern is [MASK] . [SEP],Szczecin,Schwerin,0,Schwerin,0,-0.79636
+[CLS] The capital of Cape Verde is [MASK] [MASK] . [SEP],Cape Verde,Praia,0,Praia,0,-0.91048
+[CLS] The capital of Rashtrakuta:4 Dynasty is [MASK] . [SEP],Delhi,Manyakheta:4,0,Manyakheta:4,0,-2.55815
+[CLS] The capital of Buskerud:3 is [MASK] [MASK] [MASK] . [SEP],Buskerud:3,Drammen:2,0,Drammen:2,0,-0.44050
+[CLS] The capital of Arunachal:3 Pradesh is [MASK] [MASK] [MASK] [MASK] . [SEP],Arunachalpur:4,Itanagar:3,0,Itanagar:3,0,-2.59181
+[CLS] The capital of Brong:2 - Ahafo:3 Region is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Brong:2 -afo:3,Sunyani:3,0,Sunyani:3,0,-1.65617
+[CLS] The capital of Negros:2 Oriental is [MASK] [MASK] . [SEP],a city,Dumaguete:3,0,Dumaguete:3,0,-2.62995
+[CLS] The capital of Burke County is [MASK] [MASK] . [SEP],Burke town,Morganton:2,0,Morganton:2,0,-1.77678
+[CLS] The capital of Svalbard is [MASK] [MASK] [MASK] . [SEP],Svalbard . Svalbard,Longyearbyen:4,0,Longyearbyen:4,0,-1.79297
+[CLS] The capital of County Galway is [MASK] . [SEP],Galway,Galway,1,Galway,1,-0.01577
+[CLS] The capital of Canton of Vaud is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Lausanne,0,Lausanne,0,-2.14358
+[CLS] The capital of Los Angeles County is [MASK] [MASK] . [SEP],Los Angeles,Los Angeles,1,Los Angeles,1,-0.69129
+[CLS] The capital of Parthian:2 Empire is [MASK] [MASK] . [SEP],Parta:2,Ctesiphon:3,0,Ctesiphon:3,0,-2.04502
+[CLS] The capital of Ille - et - Vilaine is [MASK] . [SEP],Rennes,Rennes,1,Rennes,1,-0.15185
+[CLS] The capital of Kingdom of Galicia is [MASK] . [SEP],Lugo,Santiago de Compostela,0,Santiago de Compostela,0,-0.48867
+[CLS] The capital of Central Bohemian:2 Region is [MASK] . [SEP],Prague,Prague,1,Prague,1,-0.94995
+[CLS] The capital of Dallas County is [MASK] . [SEP],Dallas,Dallas,1,Dallas,1,-0.07739
+[CLS] The capital of Kachin:2 State is [MASK] [MASK] . [SEP],Kachin:2,Myitkyina:4,0,Myitkyina:4,0,-0.29863
+[CLS] The capital of South Ayrshire:3 is [MASK] [MASK] . [SEP],Ay town,Ayr:2,0,Ayr:2,0,-2.23653
+[CLS] The capital of Kaliningrad Oblast is [MASK] . [SEP],Kaliningrad,Kaliningrad,1,Kaliningrad,1,-1.60692
+[CLS] The capital of Western Area is [MASK] . [SEP],Perth,Freetown:2,0,Freetown:2,0,-2.33114
+[CLS] The capital of Guerrero is [MASK] [MASK] . [SEP],in City,Chilpancingo:4,0,Chilpancingo:4,0,-1.73385
+[CLS] The capital of Portuguese Mozambique is [MASK] . [SEP],Luanda,Maputo:2,0,Maputo:2,0,-1.33270
+[CLS] The capital of Aargau:2 is [MASK] [MASK] . [SEP],Aa city,Aarau:2,0,Aarau:2,0,-2.44992
+[CLS] The capital of London Borough of Redbridge:2 is [MASK] [MASK] [MASK] . [SEP],in in town,Ilford:2,0,Ilford:2,0,-2.11354
+[CLS] The capital of Khorasan Province is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - Khorasanh:2,Mashhad:3,0,Mashhad:3,0,-2.10556
+[CLS] The capital of Ghaznavid:4 Empire is [MASK] . [SEP],Lahore,Ghazni:3,0,Ghazni:3,0,-2.09015
+[CLS] The capital of Nagaland:2 is [MASK] [MASK] . [SEP],Nagae:2,Kohima:2,0,Kohima:2,0,-1.83102
+[CLS] The capital of Cavite:2 is [MASK] [MASK] . [SEP],Cavite:2,Imus:2,0,Imus:2,0,-0.24781
+[CLS] The capital of North Sulawesi is [MASK] . [SEP],Sulawesi,Manado:2,0,Manado:2,0,-0.88740
+[CLS] The capital of Verkhoyansky:4 District is [MASK] [MASK] . [SEP],the city,Batagay:3,0,Batagay:3,0,-1.46457
+[CLS] The capital of Ivory Coast is [MASK] . [SEP],Lagos,Yamoussoukro:4,0,Yamoussoukro:4,0,-0.95005
+[CLS] The capital of Mpumalanga:4 is [MASK] [MASK] [MASK] [MASK] . [SEP],Mpumalanga:4,Mbombela:3,0,Mbombela:3,0,-1.21606
+[CLS] The capital of South Ossetia:3 is [MASK] [MASK] . [SEP],Se city,Tskhinvali:4,0,Tskhinvali:4,0,-2.19870
+[CLS] The capital of Oromia:2 Region is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Addis Ababa:2,0,Addis Ababa:2,0,-2.59072
+[CLS] The capital of Chechen:2 Republic of Ichkeria:3 is [MASK] [MASK] [MASK] . [SEP],Ichkeria:3,Grozny:3,0,Grozny:3,0,-1.31326
+[CLS] The capital of Jefferson County is [MASK] . [SEP],Jefferson,Watertown:2,0,Watertown:2,0,-0.42382
+[CLS] The capital of Clackmannanshire:5 is [MASK] [MASK] . [SEP],the town,Alloa:2,0,Alloa:2,0,-2.67185
+[CLS] The capital of Crown of Castile is [MASK] . [SEP],Valladolid,Burgos,0,Burgos,0,-1.59315
+[CLS] The capital of Northland:2 Region is [MASK] [MASK] . [SEP],Northland:2,Whangārei:4,0,Whangārei:4,0,-2.27112
+[CLS] The capital of South Kordofan:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - -rdofan:3,Kaduqli:3,0,Kaduqli:3,0,-2.32425
+[CLS] The capital of West Pomeranian:2 Voivodeship is [MASK] . [SEP],Szczecin,Szczecin,1,Szczecin,1,-0.24804
+[CLS] The capital of Portuguese Angola is [MASK] . [SEP],Luanda,Luanda,1,Luanda,1,-0.02590
+[CLS] The capital of Riau is [MASK] . [SEP],Riau,Pekanbaru:3,0,Pekanbaru:3,0,-0.13247
+[CLS] The capital of Hatay:2 is [MASK] [MASK] . [SEP],Hatay:2,Antakya:3,0,Antakya:3,0,-0.33015
+[CLS] The capital of Midlothian:3 is [MASK] [MASK] . [SEP],a town,Dalkeith:3,0,Dalkeith:3,0,-2.84604
+[CLS] The capital of Osona:2 is [MASK] [MASK] . [SEP],Osona:2,Vic,0,Vic,0,-0.22369
+[CLS] The capital of Eastern Samar:2 is [MASK] [MASK] [MASK] . [SEP],in Samar:2,Borongan:3,0,Borongan:3,0,-2.08172
+[CLS] The capital of Alpes - Maritimes:2 is [MASK] . [SEP],Nice,Nice,1,Nice,1,-1.37721
+[CLS] The capital of Saitama:2 Prefecture is [MASK] [MASK] [MASK] . [SEP],Saitama:2 city,Saitama:2,0,Saitama:2,0,-0.78992
+[CLS] The capital of Kirklees:3 is [MASK] [MASK] [MASK] . [SEP],Kirklees:3,Huddersfield:3,0,Huddersfield:3,0,-1.79231
+[CLS] The capital of Libertador:2 is [MASK] [MASK] . [SEP],Libertador:2,Caracas,0,Caracas,0,-1.45507
+[CLS] The capital of Katanga:2 Province is [MASK] [MASK] . [SEP],Katanga:2,Lubumbashi:4,0,Lubumbashi:4,0,-0.59048
+[CLS] The capital of Nara Prefecture is [MASK] . [SEP],Nara,Nara,1,Nara,1,-0.10997
+[CLS] The capital of Cortland:2 County is [MASK] [MASK] . [SEP],Cor town,Cortland:2,0,Cortland:2,0,-1.60105
+[CLS] The capital of Lippe is [MASK] . [SEP],Lippe,Detmold:3,0,Detmold:3,0,-0.85079
+[CLS] The capital of County Limerick is [MASK] . [SEP],Limerick,Limerick,1,Limerick,1,-0.14658
+[CLS] The capital of North Darfur:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - Dara:2,Al - Fashir:3,0,Al - Fashir:3,0,-2.45063
+[CLS] The capital of Community of Madrid is [MASK] . [SEP],Madrid,Madrid,1,Madrid,1,-0.11436
+[CLS] The capital of South Carolina is [MASK] . [SEP],Charleston,Columbia,0,Columbia,0,-0.34377
+[CLS] The capital of Komi:2 Republic is [MASK] . [SEP],Kom,Syktyvkar:5,0,Syktyvkar:5,0,-1.75886
+[CLS] The capital of Ilocos:3 Sur is [MASK] [MASK] [MASK] [MASK] . [SEP],inocos:3 Sur,Vigan:2,0,Vigan:2,0,-2.34043
+[CLS] The capital of South Goa District is [MASK] . [SEP],Goa,Margao:3,0,Margao:3,0,-0.14754
+[CLS] The capital of Upper East Region is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Bolgatanga:3,0,Bolgatanga:3,0,-2.53958
+[CLS] The capital of Duchy of Courland:2 and Semigallia:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of ofa:2,Jelgava:3,0,Jelgava:3,0,-2.49426
+[CLS] The capital of Baekje:3 is [MASK] [MASK] [MASK] . [SEP],Baekje:3,Wiryeseong:4,0,Wiryeseong:4,0,-1.31647
+[CLS] The capital of Kingdom of Hungary is [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.94993
+[CLS] The capital of Banten is [MASK] . [SEP],Banten,Serang:2,0,Serang:2,0,-1.12534
+[CLS] The capital of North Gyeongsang:4 Province is [MASK] . [SEP],Seoul,Andong:2,0,Andong:2,0,-1.19527
+[CLS] The capital of Highland is [MASK] . [SEP],Highland,Inverness:3,0,Inverness:3,0,-1.28850
+[CLS] The capital of Rivers State is [MASK] . [SEP],Rivers,Port Harcourt,0,Port Harcourt,0,-1.14213
+[CLS] The capital of Pas - de - Calais is [MASK] . [SEP],Calais,Arras,0,Arras,0,-0.53466
+[CLS] The capital of North Holland is [MASK] [MASK] . [SEP],the Hague,Haarlem,0,Haarlem,0,-1.70409
+[CLS] The capital of Razavi:3 Khorasan Province is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Raza:2 - Khorasan Province,Mashhad:3,0,Mashhad:3,0,-2.22391
+[CLS] The capital of Nagano Prefecture is [MASK] . [SEP],Nagano,Nagano,1,Nagano,1,-1.84336
+[CLS] The capital of New France is [MASK] [MASK] . [SEP],New France,Quebec City,0,Quebec City,0,-1.51303
+[CLS] The capital of Cagayan:3 is [MASK] [MASK] [MASK] . [SEP],Cagayan:3,Tuguegarao:4,0,Tuguegarao:4,0,-1.63617
+[CLS] The capital of Pennsylvania is [MASK] . [SEP],Philadelphia,Harrisburg:2,0,Harrisburg:2,0,-0.74629
+[CLS] The capital of Flemish:3 Brabant is [MASK] [MASK] . [SEP],the Hague,Leuven,0,Leuven,0,-2.20821
+[CLS] The capital of Paris Commune is [MASK] . [SEP],Paris,Paris,1,Paris,1,-0.20655
+[CLS] The capital of South Gyeongsang:4 Province is [MASK] . [SEP],Seoul,Changwon:2,0,Changwon:2,0,-1.27362
+[CLS] The capital of Salzburg is [MASK] . [SEP],Salzburg,Salzburg,1,Salzburg,1,-0.81838
+[CLS] The capital of Province of Medio Campidano:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofidano:3,Sanluri:3,0,Sanluri:3,0,-2.19968
+[CLS] The capital of Vigo County is [MASK] . [SEP],Vigo,Terre Haute,0,Terre Haute,0,-0.00794
+[CLS] The capital of City of Tshwane:3 Metropolitan Municipality is [MASK] [MASK] [MASK] . [SEP],Tshwane:3,Pretoria,0,Pretoria,0,-0.79902
+[CLS] The capital of Aube is [MASK] . [SEP],Troyes,Troyes,1,Troyes,1,-0.60756
+[CLS] The capital of Akita:2 Prefecture is [MASK] [MASK] . [SEP],Akita:2,Akita:2,1,Akita:2,1,-1.32056
+[CLS] The capital of Polk County is [MASK] . [SEP],Polk,Bartow:2,0,Bartow:2,0,-0.11739
+[CLS] The capital of City of Edinburgh is [MASK] . [SEP],Edinburgh,Edinburgh,1,Edinburgh,1,-0.26017
+[CLS] The capital of North Kordofan:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - -rdofan:3,Al - Ubayyid:3,0,Al - Ubayyid:3,0,-2.38917
+[CLS] The capital of Messenia:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the Messenia:2,Kalamata:3,0,Kalamata:3,0,-2.16066
+[CLS] The capital of Nawabs:3 of Bengal and Murshidabad:4 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Nawa:2 of of Bengal,Murshidabad:4,0,Murshidabad:4,0,-1.35405
+[CLS] The capital of Yamhad:3 is [MASK] [MASK] [MASK] . [SEP],Yamhad:3,Aleppo,0,Aleppo,0,-1.51191
+[CLS] The capital of South African Republic is [MASK] . [SEP],Pretoria,Pretoria,1,Pretoria,1,-0.81848
+[CLS] The capital of Mayotte is [MASK] . [SEP],Mayotte,Mamoudzou:4,0,Mamoudzou:4,0,-0.04491
+[CLS] The capital of South Kivu:2 is [MASK] [MASK] [MASK] . [SEP],the Kivu:2,Bukavu:3,0,Bukavu:3,0,-2.08083
+[CLS] The capital of Territory of Papua is [MASK] . [SEP],Papua,Port Moresby:2,0,Port Moresby:2,0,-1.79768
+[CLS] The capital of Electoral Palatinate:2 is [MASK] . [SEP],Mainz,Heidelberg,0,Heidelberg,0,-1.43491
+[CLS] The capital of Khuzestan:3 Province is [MASK] [MASK] [MASK] . [SEP],Khuzesz:3,Ahvaz:3,0,Ahvaz:3,0,-2.25069
+[CLS] The capital of Andaman:2 and Nicobar:2 Islands is [MASK] . [SEP],Nico,Port Blair,0,Port Blair,0,-2.40833
+[CLS] The capital of County Waterford:2 is [MASK] [MASK] . [SEP],Waterford:2,Waterford:2,1,Waterford:2,1,-0.72479
+[CLS] The capital of Royal Borough of Greenwich is [MASK] . [SEP],Greenwich,Woolwich:3,0,Woolwich:3,0,-0.51981
+[CLS] The capital of Bataan:2 is [MASK] [MASK] . [SEP],Bataan:2,Balanga:2,0,Balanga:2,0,-1.08371
+[CLS] The capital of Sonora is [MASK] . [SEP],a,Hermosillo:3,0,Hermosillo:3,0,-1.88805
+[CLS] The capital of Gaza Strip is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -a:2,Gaza City,0,Gaza City,0,-2.05811
+[CLS] The capital of Burgenland:2 is [MASK] [MASK] . [SEP],Burg city,Eisenstadt:2,0,Eisenstadt:2,0,-1.70542
+[CLS] The capital of New Taipei City is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the Taipei Taipei Taipei Taipei,Banqiao:3 District,0,Banqiao:3 District,0,-1.59536
+[CLS] The capital of Rostov Oblast is [MASK] . [SEP],Rostov,Rostov - on - Don,0,Rostov - on - Don,0,-0.35199
+[CLS] The capital of Bauchi:2 State is [MASK] [MASK] . [SEP],Bauchi:2,Bauchi:2,1,Bauchi:2,1,-0.82471
+[CLS] The capital of Samanid:3 dynasty is [MASK] [MASK] . [SEP],Samafahan:2,Bukhara:3,0,Bukhara:3,0,-2.54632
+[CLS] The capital of province of Milan is [MASK] . [SEP],Milan,Milan,1,Milan,1,-0.00993
+[CLS] The capital of Nyurbinsky:4 District is [MASK] [MASK] . [SEP],the town,Nyurba:3,0,Nyurba:3,0,-1.30294
+[CLS] The capital of Verkhnevilyuysky:6 District is [MASK] [MASK] . [SEP],the town,Verkhnevilyuysk:6,0,Verkhnevilyuysk:6,0,-1.49209
+[CLS] The capital of Bibb:2 County is [MASK] [MASK] [MASK] . [SEP],Bibb:2 town,Macon:2,0,Macon:2,0,-1.15801
+[CLS] The capital of La Paz Department is [MASK] [MASK] . [SEP],La Paz,La Paz,1,La Paz,1,-0.20497
+[CLS] The capital of Crawford County is [MASK] . [SEP],Crawford,Meadville:2,0,Meadville:2,0,-1.01470
+[CLS] The capital of Netherlands Antilles is [MASK] [MASK] [MASK] [MASK] . [SEP],the capital ofe:2,Willemstad:2,0,Willemstad:2,0,-2.33115
+[CLS] The capital of Democratic Republic of Afghanistan is [MASK] . [SEP],Kabul,Kabul,1,Kabul,1,-0.10917
+[CLS] The capital of Kingdom of Bohemia is [MASK] . [SEP],Prague,Prague,1,Prague,1,-0.47393
+[CLS] The capital of South Ossetian:3 Autonomous Oblast is [MASK] [MASK] . [SEP],Sesk:2,Tskhinvali:4,0,Tskhinvali:4,0,-2.06622
+[CLS] The capital of South Moravian:2 Region is [MASK] . [SEP],Katowice,Brno,0,Brno,0,-1.86881
+[CLS] The capital of County Wexford:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],the Wexford:3,Wexford:3,0,Wexford:3,0,-1.11554
+[CLS] The capital of Santa Fe Province is [MASK] [MASK] . [SEP],Santa city,Santa Fe,0,Santa Fe,0,-1.40360
+[CLS] The capital of Kagoshima:3 Prefecture is [MASK] [MASK] [MASK] [MASK] . [SEP],Kagoshima:3 city,Kagoshima:3,0,Kagoshima:3,0,-1.68485
+[CLS] The capital of Klamath:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Klamath:3 City,Klamath:3 Falls,0,Klamath:3 Falls,0,-1.89734
+[CLS] The capital of Marrakesh:3 - Tensift:3 - El Haouz:3 is [MASK] . [SEP],also,Marrakesh:3,0,Marrakesh:3,0,-2.25776
+[CLS] The capital of Hyderabad State is [MASK] . [SEP],Hyderabad,Hyderabad,1,Hyderabad,1,-0.12236
+[CLS] The capital of Bass Coast Shire is [MASK] [MASK] . [SEP],Bass town,Wonthaggi:3,0,Wonthaggi:3,0,-1.79266
+[CLS] The capital of Bages:2 is [MASK] [MASK] . [SEP],Bages:2,Manresa:2,0,Manresa:2,0,-1.37730
+[CLS] The capital of Valencian:2 Community is [MASK] . [SEP],Valencia,Valencia,1,Valencia,1,-0.09276
+[CLS] The capital of Uusimaa:3 is [MASK] [MASK] . [SEP],a town,Helsinki,0,Helsinki,0,-1.90423
+[CLS] The capital of Malaya is [MASK] [MASK] . [SEP],Kuala Lumpur,Kuala Lumpur,1,Kuala Lumpur,1,-2.16173
+[CLS] The capital of Davao:2 Region is [MASK] . [SEP],Manila,Davao:2 City,0,Davao:2 City,0,-1.12700
+[CLS] The capital of Fukuoka Prefecture is [MASK] . [SEP],Fukuoka,Fukuoka,1,Fukuoka,1,-0.11287
+[CLS] The capital of Caldas:2 Department is [MASK] [MASK] . [SEP],Caldas:2,Manizales:3,0,Manizales:3,0,-0.29213
+[CLS] The capital of Raleigh County is [MASK] . [SEP],Raleigh,Beckley:2,0,Beckley:2,0,-0.16977
+[CLS] The capital of Khanty:2 - Mansi:2 Autonomous Okrug:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - Mansk:2,Khanty:2 - Mansiysk:3,0,Khanty:2 - Mansiysk:3,0,-2.33283
+[CLS] The capital of Davao:2 del Norte is [MASK] [MASK] [MASK] [MASK] . [SEP],Davao:2 del Norte,Tagum:2,0,Tagum:2,0,-2.24689
+[CLS] The capital of Safavid:3 dynasty is [MASK] . [SEP],Baghdad,Tabriz:3,0,Tabriz:3,0,-1.28934
+[CLS] The capital of Rio de Janeiro is [MASK] [MASK] [MASK] . [SEP],the the Janeiro,Rio de Janeiro,0,Rio de Janeiro,0,-1.82084
+[CLS] The capital of Tehama:2 County is [MASK] [MASK] . [SEP],Tehama:2,Red Bluff,0,Red Bluff,0,-0.47326
+[CLS] The capital of El Dorado County is [MASK] [MASK] . [SEP],the Dorado,Placerville:3,0,Placerville:3,0,-1.14753
+[CLS] The capital of Tamaulipas:3 is [MASK] [MASK] . [SEP],the city,Ciudad Victoria,0,Ciudad Victoria,0,-1.82921
+[CLS] The capital of Pocahontas:4 County is [MASK] [MASK] . [SEP],the town,Marlinton:3,0,Marlinton:3,0,-1.29815
+[CLS] The capital of Hood River County is [MASK] [MASK] . [SEP],Hoodtown:2,Hood River,0,Hood River,0,-1.99630
+[CLS] The capital of Lee County is [MASK] . [SEP],Lee,Bishopville:2,0,Bishopville:2,0,-0.90341
+[CLS] The capital of Masbate:2 is [MASK] [MASK] . [SEP],Masbate:2,Masbate:2 City,0,Masbate:2 City,0,-0.23255
+[CLS] The capital of Tarlac:3 is [MASK] [MASK] [MASK] . [SEP],Tarlac:3,Tarlac:3 City,0,Tarlac:3 City,0,-1.30153
+[CLS] The capital of Flevoland:3 is [MASK] [MASK] . [SEP],the city,Lelystad:3,0,Lelystad:3,0,-2.07306
+[CLS] The capital of Menifee:3 County is [MASK] [MASK] . [SEP],the town,Frenchburg:2,0,Frenchburg:2,0,-1.82980
+[CLS] The capital of County Cavan:2 is [MASK] [MASK] . [SEP],Ca town,Cavan:2,0,Cavan:2,0,-1.64727
+[CLS] The capital of Union Parish is [MASK] [MASK] . [SEP],Union City,Farmerville:2,0,Farmerville:2,0,-1.66644
+[CLS] The capital of East Bengal is [MASK] . [SEP],Kolkata,Dhaka,0,Dhaka,0,-1.73800
+[CLS] The capital of Seine - Maritime is [MASK] . [SEP],Rouen,Rouen,1,Rouen,1,-0.34110
+[CLS] The capital of County of Holland is [MASK] [MASK] [MASK] . [SEP],in of Holland,The Hague,0,The Hague,0,-2.48197
+[CLS] The capital of County Sligo:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],the Sligo:3,Sligo:3,0,Sligo:3,0,-1.19292
+[CLS] The capital of Upper Bavaria is [MASK] [MASK] [MASK] . [SEP],a -tadt:2,Munich,0,Munich,0,-2.20092
+[CLS] The capital of Nassau County is [MASK] . [SEP],Nassau,Mineola:2,0,Mineola:2,0,-0.03013
+[CLS] The capital of Nevada County is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Nevada City,0,Nevada City,0,-1.87882
+[CLS] The capital of Crook:2 County is [MASK] [MASK] [MASK] . [SEP],Crook:2 City,Prineville:2,0,Prineville:2,0,-1.79992
+[CLS] The capital of Morgan County is [MASK] [MASK] . [SEP],Morgan town,Berkeley Springs,0,Berkeley Springs,0,-2.09052
+[CLS] The capital of Al Madinah:3 Region is [MASK] [MASK] [MASK] [MASK] . [SEP],Al Madinah:3,Medina,0,Medina,0,-1.43284
+[CLS] The capital of Lolland:2 Municipality is [MASK] [MASK] . [SEP],Lo town,Maribo:2,0,Maribo:2,0,-1.43245
+[CLS] The capital of Tutong:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Tutong:3 District,Tutong:3,0,Tutong:3,0,-1.27087
+[CLS] The capital of Mudug:3 is [MASK] [MASK] [MASK] . [SEP],Mudug:3,Galkayo:3,0,Galkayo:3,0,-0.73162
+[CLS] The capital of Qabala:3 District is [MASK] [MASK] [MASK] . [SEP],Qabala:3,Qabala:3,1,Qabala:3,1,-1.01820
+[CLS] The capital of Duchy of Sandomierz:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of Sandomierz:3,Sandomierz:3,0,Sandomierz:3,0,-1.77265
+[CLS] The capital of Sakhalin:3 Oblast is [MASK] . [SEP],Moscow,Yuzhno:3 - Sakhalinsk:4,0,Yuzhno:3 - Sakhalinsk:4,0,-1.84700
+[CLS] The capital of South Cotabato:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],South Cotabato:3,Koronadal:3,0,Koronadal:3,0,-1.25579
+[CLS] The capital of Mersin:2 Province is [MASK] [MASK] . [SEP],Mersin:2,Mersin:2,1,Mersin:2,1,-1.32427
+[CLS] The capital of Kasaï:3 - Oriental is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ka - - -k:2,Mbuji:3 - Mayi:2,0,Mbuji:3 - Mayi:2,0,-2.71357
+[CLS] The capital of Waupaca:4 County is [MASK] [MASK] . [SEP],the town,Waupaca:4,0,Waupaca:4,0,-1.15172
+[CLS] The capital of Cotopaxi:4 Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Cotopaxi:4,Latacunga:4,0,Latacunga:4,0,-1.65310
+[CLS] The capital of Guria:2 is [MASK] [MASK] . [SEP],Ga:2,Ozurgeti:3,0,Ozurgeti:3,0,-2.32281
+[CLS] The capital of Surigao:2 del Norte is [MASK] [MASK] [MASK] [MASK] . [SEP],theigao:2 deo:2,Surigao:2 City,0,Surigao:2 City,0,-2.61296
+[CLS] The capital of Tashkent:3 Region is [MASK] [MASK] [MASK] . [SEP],Tashkent:3,Tashkent:3,1,Tashkent:3,1,-0.52333
+[CLS] The capital of Graham County is [MASK] . [SEP],Graham,Safford:2,0,Safford:2,0,-1.80822
+[CLS] The capital of Lublin Voivodeship is [MASK] . [SEP],Lublin,Lublin,1,Lublin,1,-0.13595
+[CLS] The capital of Blaine:2 County is [MASK] [MASK] . [SEP],thelaine:2,Hailey:2,0,Hailey:2,0,-1.57827
+[CLS] The capital of Kingdom of Bulgaria is [MASK] . [SEP],Sofia,Sofia,1,Sofia,1,-0.73233
+[CLS] The capital of German - speaking Community of Belgium is [MASK] . [SEP],Brussels,Eupen:2,0,Eupen:2,0,-0.50805
+[CLS] The capital of Aragatsotn:4 Region is [MASK] [MASK] [MASK] [MASK] . [SEP],Aragatsotn:4,Ashtarak:3,0,Ashtarak:3,0,-1.11215
+[CLS] The capital of Shire of Baw:2 Baw:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of thew:2,Warragul:3,0,Warragul:3,0,-2.60405
+[CLS] The capital of Isabela:2 is [MASK] [MASK] . [SEP],Isabela:2,Ilagan:2,0,Ilagan:2,0,-1.12112
+[CLS] The capital of Stockholm Municipality is [MASK] . [SEP],Stockholm,Stockholm,1,Stockholm,1,-0.39485
+[CLS] The capital of Upper Canada is [MASK] . [SEP],Ottawa,"York , Upper Canada",0,"York , Upper Canada",0,-1.18311
+[CLS] The capital of California is [MASK] [MASK] [MASK] . [SEP],the . City,Sacramento,0,Sacramento,0,-2.05996
+[CLS] The capital of Central Equatoria:3 is [MASK] . [SEP],Quito,Juba,0,Juba,0,-1.76309
+[CLS] The capital of Pointe Coupee:2 Parish is [MASK] [MASK] [MASK] . [SEP],Pointe -e:2,New Roads,0,New Roads,0,-1.79860
+[CLS] The capital of Northern Savonia:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . Sa -a:2,Kuopio:2,0,Kuopio:2,0,-2.76277
+[CLS] The capital of Hauts - de - Seine is [MASK] . [SEP],Rouen,Nanterre:3,0,Nanterre:3,0,-1.26169
+[CLS] The capital of Dacia is [MASK] . [SEP],Dacia,Sarmizegetusa:5 Regia,0,Sarmizegetusa:5 Regia,0,-1.72493
+[CLS] The capital of Imathia:3 Regional Unit is [MASK] [MASK] [MASK] . [SEP],Imathia:3,Veroia:2,0,Veroia:2,0,-1.09158
+[CLS] The capital of Western Ganga:2 Dynasty is [MASK] [MASK] . [SEP],Ganga:2,Kolar:2,0,Kolar:2,0,-2.01162
+[CLS] The capital of North Waziristan:4 is [MASK] . [SEP],Karachi,Miranshah:3,0,Miranshah:3,0,-2.35299
+[CLS] The capital of Saare:2 County is [MASK] [MASK] . [SEP],Saare:2,Kuressaare:3,0,Kuressaare:3,0,-1.00734
+[CLS] The capital of Maurya:2 Empire is [MASK] [MASK] . [SEP],Maurya:2,Pataliputra:4,0,Pataliputra:4,0,-0.98354
+[CLS] The capital of Lower Normandy is [MASK] . [SEP],Rouen,Caen,0,Caen,0,-1.06107
+[CLS] The capital of Nauru is [MASK] . [SEP],Nauru,Yaren:2 District,0,Yaren:2 District,0,-0.25849
+[CLS] The capital of Wasit:2 Governorate:2 is [MASK] [MASK] . [SEP],Wasit:2,Kut:2,0,Kut:2,0,-0.95192
+[CLS] The capital of Quba:2 District is [MASK] [MASK] . [SEP],Quba:2,Quba:2,1,Quba:2,1,-0.38274
+[CLS] The capital of Sainyabuli:4 Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Sainyabuli:4,Sainyabuli:4,1,Sainyabuli:4,1,-1.72131
+[CLS] The capital of Donetsk Oblast is [MASK] . [SEP],Donetsk,Kramatorsk:4,0,Kramatorsk:4,0,-1.54682
+[CLS] The capital of Sefton:3 is [MASK] [MASK] [MASK] . [SEP],Sefton:3,Bootle:2,0,Bootle:2,0,-0.74502
+[CLS] The capital of Gajapati:3 district is [MASK] [MASK] [MASK] [MASK] . [SEP],Gajapati:3 district,Paralakhemundi:5,0,Paralakhemundi:5,0,-1.80336
+[CLS] The capital of Odessa Oblast is [MASK] . [SEP],Odessa,Odessa,1,Odessa,1,-0.82364
+[CLS] The capital of Mississippi County is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Blytheville:4,0,Blytheville:4,0,-1.79257
+[CLS] The capital of Anson:2 County is [MASK] [MASK] [MASK] . [SEP],Anson:2 town,Wadesboro:3,0,Wadesboro:3,0,-1.27635
+[CLS] The capital of Austrian Silesia is [MASK] . [SEP],Vienna,Opava:2,0,Opava:2,0,-1.79628
+[CLS] The capital of South Kesteven:3 is [MASK] [MASK] . [SEP],the town,Grantham:2,0,Grantham:2,0,-2.04730
+[CLS] The capital of Sevier:2 County is [MASK] [MASK] [MASK] . [SEP],Sevier:2 town,Sevierville:3,0,Sevierville:3,0,-1.77684
+[CLS] The capital of Wellington Region is [MASK] . [SEP],Wellington,Wellington,1,Wellington,1,-0.05474
+[CLS] The capital of Dhule:3 district is [MASK] [MASK] [MASK] . [SEP],Dhule:3,Dhule:3,1,Dhule:3,1,-1.22942
+[CLS] The capital of Pottawattamie:4 County is [MASK] [MASK] . [SEP],the town,Council Bluffs:2,0,Council Bluffs:2,0,-1.21307
+[CLS] The capital of Pando:2 Department is [MASK] [MASK] . [SEP],Pando:2,Cobija:2,0,Cobija:2,0,-0.37235
+[CLS] The capital of Morbihan is [MASK] . [SEP],Lorient,Vannes:2,0,Vannes:2,0,-0.68666
+[CLS] The capital of Province of Genoa is [MASK] . [SEP],Genoa,Genoa,1,Genoa,1,-0.06315
+[CLS] The capital of Wallis and Futuna:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - of Futuna:2,Mata - Utu:2,0,Mata - Utu:2,0,-2.53809
+[CLS] The capital of Leribe:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Leribe:3 District,Hlotse:3,0,Hlotse:3,0,-1.05612
+[CLS] The capital of Jubaland:2 is [MASK] . [SEP],Juba,Kismayo:3,0,Kismayo:3,0,-0.07176
+[CLS] The capital of Venda:2 is [MASK] [MASK] . [SEP],Venda:2,Thohoyandou:5,0,Thohoyandou:5,0,-0.32275
+[CLS] The capital of Abu Dhabi Emirate:2 is [MASK] [MASK] . [SEP],Abu Dhabi,Abu Dhabi,1,Abu Dhabi,1,-1.27910
+[CLS] The capital of Kollam:3 district is [MASK] [MASK] [MASK] . [SEP],Kollam:3,Kollam:3,1,Kollam:3,1,-0.43351
+[CLS] The capital of Republic of Florence is [MASK] . [SEP],Florence,Florence,1,Florence,1,-0.01348
+[CLS] The capital of Barry County is [MASK] . [SEP],Barry,Cassville:2,0,Cassville:2,0,-0.18797
+[CLS] The capital of Magadha:3 is [MASK] [MASK] [MASK] . [SEP],Magadha:3,Rajgir:2,0,Rajgir:2,0,-1.03174
+[CLS] The capital of Kolkata district is [MASK] . [SEP],Kolkata,Kolkata,1,Kolkata,1,-0.22900
+[CLS] The capital of Navarro County is [MASK] . [SEP],Pamplona,Corsicana:2,0,Corsicana:2,0,-1.57896
+[CLS] The capital of DeKalb:4 County is [MASK] [MASK] . [SEP],the town,Fort Payne,0,Fort Payne,0,-1.64506
+[CLS] The capital of Bamyan:3 is [MASK] [MASK] [MASK] . [SEP],Bamyan:3,Bamyan:3,1,Bamyan:3,1,-0.43405
+[CLS] The capital of Los Lagos Region is [MASK] . [SEP],Lagos,Puerto Montt:2,0,Puerto Montt:2,0,-0.04778
+[CLS] The capital of Bassetlaw:3 is [MASK] [MASK] [MASK] . [SEP],Bassetlaw:3,Worksop:2,0,Worksop:2,0,-1.97934
+[CLS] The capital of Tomponsky:3 District is [MASK] [MASK] . [SEP],the town,Khandyga:3,0,Khandyga:3,0,-1.59017
+[CLS] The capital of Copperbelt:2 Province is [MASK] [MASK] . [SEP],Copperbelt:2,Ndola:2,0,Ndola:2,0,-1.43189
+[CLS] The capital of Chimborazo:4 Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Chimborazo:4,Riobamba:2,0,Riobamba:2,0,-0.75408
+[CLS] The capital of Alaska is [MASK] . [SEP],a,Juneau:2,0,Juneau:2,0,-1.50279
+[CLS] The capital of Kunene:2 Region is [MASK] . [SEP],Kun,Opuwo:3,0,Opuwo:3,0,-1.24689
+[CLS] The capital of Tagant:2 Region is [MASK] [MASK] . [SEP],Tag city,Tidjikja:4,0,Tidjikja:4,0,-2.33061
+[CLS] The capital of Beltrami:2 County is [MASK] [MASK] . [SEP],the city,Bemidji:3,0,Bemidji:3,0,-1.79970
+[CLS] The capital of Rhein - Neckar is [MASK] . [SEP],Heidelberg,Heidelberg,1,Heidelberg,1,-1.57928
+[CLS] The capital of Pune district is [MASK] . [SEP],Pune,Pune,1,Pune,1,-0.03903
+[CLS] The capital of Haarlemmermeer:3 is [MASK] [MASK] . [SEP],the town,Hoofddorp:4,0,Hoofddorp:4,0,-1.84741
+[CLS] The capital of Nord - Pas - de - Calais is [MASK] . [SEP],Calais,Lille,0,Lille,0,-0.69932
+[CLS] The capital of Province of Lecce is [MASK] . [SEP],Lecce,Lecce,1,Lecce,1,-0.01340
+[CLS] The capital of Adiabene:3 is [MASK] [MASK] [MASK] . [SEP],Adikha:3,Erbil:2,0,Erbil:2,0,-2.72146
+[CLS] The capital of Charaideo:3 is [MASK] [MASK] [MASK] . [SEP],Charaideo:3,Ahom:2 kingdom,0,Ahom:2 kingdom,0,-1.34710
+[CLS] The capital of Webb County is [MASK] [MASK] . [SEP],theville:2,Laredo:2,0,Laredo:2,0,-2.42438
+[CLS] The capital of Federated:2 Malay States is [MASK] [MASK] . [SEP],Kuala Lumpur,Kuala Lumpur,1,Kuala Lumpur,1,-2.53720
+[CLS] The capital of Rupnagar:4 district is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theupnagar:4 district,Rupnagar:4,0,Rupnagar:4,0,-1.73104
+[CLS] The capital of Ammon:2 is [MASK] [MASK] . [SEP],Ammon:2,Amman,0,Amman,0,-1.07174
+[CLS] The capital of Erewash:3 is [MASK] [MASK] [MASK] . [SEP],Erewash:3,Ilkeston:3,0,Ilkeston:3,0,-0.96252
+[CLS] The capital of Chimor:2 is [MASK] [MASK] . [SEP],Chimor:2,Chan Chan,0,Chan Chan,0,-0.64711
+[CLS] The capital of Alpes - de - Haute - Provence is [MASK] . [SEP],Nice,Digne:2 - les - Bains,0,Digne:2 - les - Bains,0,-1.05610
+[CLS] The capital of Crockett:3 County is [MASK] [MASK] . [SEP],the town,Ozona:2,0,Ozona:2,0,-1.72738
+[CLS] The capital of Willacy:2 County is [MASK] [MASK] [MASK] . [SEP],Willacy:2 town,Raymondville:2,0,Raymondville:2,0,-1.56419
+[CLS] The capital of Stockholm County is [MASK] . [SEP],Stockholm,Stockholm,1,Stockholm,1,-0.20486
+[CLS] The capital of Greater Bilbao is [MASK] . [SEP],Bilbao,Bilbao,1,Bilbao,1,-0.02507
+[CLS] The capital of City of Ballarat:2 is [MASK] [MASK] . [SEP],Ballarat:2,Ballarat:2,1,Ballarat:2,1,-0.97918
+[CLS] The capital of Shire of East Gippsland:4 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the G ofpsland:3,Bairnsdale:3,0,Bairnsdale:3,0,-2.70744
+[CLS] The capital of Western Yan is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -g:2,Chang ' an,0,Chang ' an,0,-2.70176
+[CLS] The capital of Swedish Pomerania is [MASK] . [SEP],Szczecin,Szczecin,1,Szczecin,1,-0.90806
+[CLS] The capital of Marinduque:3 is [MASK] [MASK] [MASK] . [SEP],Marinduque:3,Boac:2,0,Boac:2,0,-0.88961
+[CLS] The capital of Liverpool Plains Shire is [MASK] . [SEP],Liverpool,Quirindi:3,0,Quirindi:3,0,-1.46938
+[CLS] The capital of Fayette County is [MASK] . [SEP],Fayette,Washington Court House,0,Washington Court House,0,-0.64226
+[CLS] The capital of Bukhara:3 Region is [MASK] [MASK] [MASK] . [SEP],Bukhara:3,Bukhara:3,1,Bukhara:3,1,-1.11837
+[CLS] The capital of Kingdom of Libya is [MASK] . [SEP],Tripoli,Tripoli,1,Tripoli,1,-0.06051
+[CLS] The capital of Kamchatka:4 Krai:2 is [MASK] [MASK] . [SEP],thek:2,Petropavlovsk:5 - Kamchatsky:4,0,Petropavlovsk:5 - Kamchatsky:4,0,-2.64458
+[CLS] The capital of Southern Tang is [MASK] . [SEP],Tang,Nanjing,0,Nanjing,0,-1.17776
+[CLS] The capital of Western Region is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Sekondi:3 - Takoradi:2,0,Sekondi:3 - Takoradi:2,0,-2.21969
+[CLS] The capital of Guntur:2 district is [MASK] [MASK] . [SEP],Guntur:2,Guntur:2,1,Guntur:2,1,-0.95162
+[CLS] The capital of Sucre Department is [MASK] . [SEP],Sucre,Sincelejo:3,0,Sincelejo:3,0,-0.02275
+[CLS] The capital of Dubrovnik - Neretva:3 County is [MASK] . [SEP],Dubrovnik,Dubrovnik,1,Dubrovnik,1,-0.03424
+[CLS] The capital of Western Highlands Province is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -e:2,Mount Hagen,0,Mount Hagen,0,-2.88968
+[CLS] The capital of Shire of Strathbogie:4 is [MASK] [MASK] . [SEP],the town,Euroa:2,0,Euroa:2,0,-2.45406
+[CLS] The capital of First Czechoslovak:4 Republic is [MASK] . [SEP],Prague,Prague,1,Prague,1,-0.54881
+[CLS] The capital of Vijaypura:2 District is [MASK] [MASK] . [SEP],Vijaypur:2,Vijayapura:3 district,0,Vijayapura:3 district,0,-1.66170
+[CLS] The capital of Dodoma:3 Region is [MASK] [MASK] [MASK] . [SEP],Dodoma:3,Dodoma:3,1,Dodoma:3,1,-0.95030
+[CLS] The capital of Moradabad:3 district is [MASK] [MASK] [MASK] [MASK] . [SEP],Moradabad:3 district,Muradabad:2,0,Muradabad:2,0,-1.18374
+[CLS] The capital of Bas - Saint - Laurent is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - Saint -a:2,Rimouski:3,0,Rimouski:3,0,-2.09520
+[CLS] The capital of Kushiro:3 Subprefecture:4 is [MASK] [MASK] [MASK] . [SEP],Kushiro:3,Kushiro:3,1,Kushiro:3,1,-0.62297
+[CLS] The capital of South Georgia and the South Sandwich:2 Islands is [MASK] . [SEP],Athens,King Edward Point,0,King Edward Point,0,-1.96304
+[CLS] The capital of Rokycany:4 District is [MASK] [MASK] . [SEP],the town,Rokycany:4,0,Rokycany:4,0,-1.36116
+[CLS] The capital of Stanislaus:3 County is [MASK] . [SEP],Stan,Modesto:2,0,Modesto:2,0,-2.03624
+[CLS] The capital of Greene County is [MASK] . [SEP],Greene,Stanardsville:3,0,Stanardsville:3,0,-1.18151
+[CLS] The capital of Anjouan:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - Anjoua:2,Mutsamudu:4,0,Mutsamudu:4,0,-2.57869
+[CLS] The capital of Glynn:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Glynn:3 town,Brunswick,0,Brunswick,0,-1.67709
+[CLS] The capital of North Sinai Governorate:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - Governorate:2,Arish:2,0,Arish:2,0,-2.37616
+[CLS] The capital of Irbid:2 Governorate:2 is [MASK] [MASK] . [SEP],Irbid:2,Irbid:2,1,Irbid:2,1,-0.58203
+[CLS] The capital of Trans - Nzoia:3 county is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Trans - Nzoa:3,Kitale:2,0,Kitale:2,0,-1.42439
+[CLS] The capital of Province of Reggio Calabria is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the town of Reggio Calabria,Reggio Calabria,0,Reggio Calabria,0,-1.32213
+[CLS] The capital of Bermuda is [MASK] . [SEP],Bermuda,Hamilton,0,Hamilton,0,-0.05984
+[CLS] The capital of Rudersdal:4 Municipality is [MASK] [MASK] [MASK] [MASK] . [SEP],Rudersdal:4,Holte:2,0,Holte:2,0,-1.62393
+[CLS] The capital of Buri:2 Ram is [MASK] [MASK] [MASK] . [SEP],Buri:2 Ram,Buri:2 Ram,1,Buri:2 Ram,1,-0.90620
+[CLS] The capital of Allied - occupied Germany is [MASK] . [SEP],Cologne,Berlin,0,Berlin,0,-1.63953
+[CLS] The capital of Flathead:2 County is [MASK] [MASK] [MASK] . [SEP],Flathead:2 City,Kalispell:3,0,Kalispell:3,0,-1.40945
+[CLS] The capital of Qeqqata:5 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Qeqqata:5,Sisimiut:4,0,Sisimiut:4,0,-1.25177
+[CLS] The capital of Anija:2 Rural Municipality is [MASK] [MASK] . [SEP],Anija:2,Kehra:2,0,Kehra:2,0,-0.64974
+[CLS] The capital of Boyd County is [MASK] [MASK] . [SEP],Boyd town,Catlettsburg:3,0,Catlettsburg:3,0,-1.58025
+[CLS] The capital of Languedoc is [MASK] . [SEP],Nîmes,Montpellier,0,Montpellier,0,-1.49315
+[CLS] The capital of Oe:2 - Cusse:2 Ambeno:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in of theeno:2,Pante:2 Macassar:3,0,Pante:2 Macassar:3,0,-2.46844
+[CLS] The capital of Croatia in personal union with Hungary is [MASK] . [SEP],Dubrovnik,Biograd:2 na Moru:2,0,Biograd:2 na Moru:2,0,-1.73126
+[CLS] The capital of Eastern Equatoria:3 is [MASK] [MASK] [MASK] [MASK] . [SEP],the inquaa:3,Torit:2,0,Torit:2,0,-2.46466
+[CLS] The capital of Gaume:2 is [MASK] [MASK] . [SEP],Gaume:2,Virton:2,0,Virton:2,0,-0.21054
+[CLS] The capital of Jefferson County is [MASK] . [SEP],Jefferson,Brookville:2,0,Brookville:2,0,-0.42382
+[CLS] The capital of Caddo:2 Parish is [MASK] [MASK] [MASK] . [SEP],Caddo:2 City,Shreveport:4,0,Shreveport:4,0,-1.29589
+[CLS] The capital of Johnson County is [MASK] [MASK] . [SEP],Johnson town,Paintsville:3,0,Paintsville:3,0,-1.60030
+[CLS] The capital of Dakhlet:3 Nouadhibou:4 is [MASK] [MASK] . [SEP],the town,Nouadhibou:4,0,Nouadhibou:4,0,-2.35322
+[CLS] The capital of Tombouctou:4 Region is [MASK] [MASK] [MASK] [MASK] . [SEP],Tombouctou:4,Timbuktu:3,0,Timbuktu:3,0,-1.39353
+[CLS] The capital of Northern Province is [MASK] [MASK] . [SEP],Northern Province,Jaffna:3,0,Jaffna:3,0,-2.40216
+[CLS] The capital of Koochiching:4 County is [MASK] [MASK] . [SEP],the town,International Falls,0,International Falls,0,-1.55420
+[CLS] The capital of Hafizabad:4 District is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hafizabad:4 District,Hafizabad:4,0,Hafizabad:4,0,-1.38666
+[CLS] The capital of Jersey County is [MASK] . [SEP],Newark,Jerseyville:2,0,Jerseyville:2,0,-1.71993
+[CLS] The capital of Pine County is [MASK] [MASK] . [SEP],Pine town,Pine City,0,Pine City,0,-1.17994
+[CLS] The capital of Province of Ascoli:2 Piceno:2 is [MASK] [MASK] [MASK] [MASK] . [SEP],Ascoli:2 ofeno:2,Ascoli:2 Piceno:2,0,Ascoli:2 Piceno:2,0,-1.96530
+[CLS] The capital of Long County is [MASK] . [SEP],Long,Ludowici:3,0,Ludowici:3,0,-0.78277
+[CLS] The capital of Agsu:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Agu:3 District,Agsu:3,0,Agsu:3,0,-1.55094
+[CLS] The capital of Achaemenid:4 Empire is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A theemen:2 of capital,Pasargadae:3,0,Pasargadae:3,0,-2.42911
+[CLS] The capital of Ahom:2 kingdom is [MASK] [MASK] . [SEP],Ahom:2,Charaideo:3,0,Charaideo:3,0,-0.88233
+[CLS] The capital of Ratchaburi:3 is [MASK] [MASK] [MASK] . [SEP],Ratchaburi:3,Ratchaburi:3,1,Ratchaburi:3,1,-1.09150
+[CLS] The capital of Stratford - on - Avon is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Stratford - the - Avon,Stratford - upon - Avon,0,Stratford - upon - Avon,0,-1.54977
+[CLS] The capital of Plaines:2 Wilhems:4 District is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of thes:2,Beau Bassin:2 - Rose Hill,0,Beau Bassin:2 - Rose Hill,0,-2.90070
+[CLS] The capital of Glades:2 County is [MASK] [MASK] . [SEP],the town,Moore Haven,0,Moore Haven,0,-2.04533
+[CLS] The capital of Garrotxa:4 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the Ga of thea:2,Olot:2,0,Olot:2,0,-2.47848
+[CLS] The capital of Lyngen:2 is [MASK] [MASK] . [SEP],Lyngen:2,Lyngseidet:4,0,Lyngseidet:4,0,-0.61474
+[CLS] The capital of Redwood:2 County is [MASK] [MASK] [MASK] . [SEP],Redwood:2 City,Redwood:2 Falls,0,Redwood:2 Falls,0,-1.77383
+[CLS] The capital of Sequoyah:3 County is [MASK] [MASK] . [SEP],the town,Sallisaw:3,0,Sallisaw:3,0,-2.11213
+[CLS] The capital of Veliko Tarnovo:2 Municipality is [MASK] [MASK] . [SEP],the town,Veliko Tarnovo:2,0,Veliko Tarnovo:2,0,-1.40362
+[CLS] The capital of Saint Petersburg Governorate:2 is [MASK] [MASK] . [SEP],the city,Saint Petersburg,0,Saint Petersburg,0,-1.44680
+[CLS] The capital of Sergiyevo:4 - Posadsky:3 District is [MASK] [MASK] . [SEP],the town,Sergiyev:3 Posad:2,0,Sergiyev:3 Posad:2,0,-1.75999
+[CLS] The capital of Vogtlandkreis:3 is [MASK] [MASK] [MASK] . [SEP],Vogtzz:3,Plauen:2,0,Plauen:2,0,-2.37964
+[CLS] The capital of Greene County is [MASK] . [SEP],Greene,Paragould:3,0,Paragould:3,0,-1.18151
+[CLS] The capital of Sauk:2 County is [MASK] [MASK] . [SEP],Sauk:2,Baraboo:3,0,Baraboo:3,0,-1.21136
+[CLS] The capital of Baranavichy:4 Voblast:2 is [MASK] [MASK] . [SEP],the town,Baranavichy:4,0,Baranavichy:4,0,-2.43434
+[CLS] The capital of Alto Amazonas Province is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of of Province,Yurimaguas:3,0,Yurimaguas:3,0,-2.37088
+[CLS] The capital of Kingdom of Redonda:2 is [MASK] [MASK] . [SEP],Redonda:2,Redonda:2,1,Redonda:2,1,-1.22534
+[CLS] The capital of Leeds is [MASK] . [SEP],Leeds,Leeds,1,Leeds,1,-0.04255
+[CLS] The capital of Racine County is [MASK] . [SEP],Racine,Racine,1,Racine,1,-0.11472
+[CLS] The capital of Kanawha:3 County is [MASK] [MASK] . [SEP],the town,Charleston,0,Charleston,0,-1.56468
+[CLS] The capital of Ubon:2 Ratchathani:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ubon:2 Ratchathan:3,Ubon:2 Ratchathani:3,0,Ubon:2 Ratchathani:3,0,-1.93728
+[CLS] The capital of Spanish Guinea is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -a:2,Malabo:2,0,Malabo:2,0,-2.58521
+[CLS] The capital of Vozhegodsky:5 District is [MASK] [MASK] . [SEP],the town,Vozhega:3,0,Vozhega:3,0,-1.49406
+[CLS] The capital of Jackson County is [MASK] . [SEP],Jackson,Black River Falls,0,Black River Falls,0,-0.38865
+[CLS] The capital of Maverick:3 County is [MASK] [MASK] . [SEP],the town,Eagle Pass,0,Eagle Pass,0,-1.63836
+[CLS] The capital of Kose:2 Rural Municipality is [MASK] [MASK] . [SEP],Kose:2,Kose:2,1,Kose:2,1,-0.73784
+[CLS] The capital of Waushara:3 County is [MASK] [MASK] . [SEP],the town,Wautoma:3,0,Wautoma:3,0,-1.46942
+[CLS] The capital of Mstsislaw:4 Voivodeship is [MASK] . [SEP],Białystok,Mscislaŭ:4,0,Mscislaŭ:4,0,-2.37894
+[CLS] The capital of Quito Metro is [MASK] . [SEP],Quito,Quito,1,Quito,1,-0.03864
+[CLS] The capital of Val - d ' Oise is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - d - Oise,Cergy:3,0,Cergy:3,0,-2.07801
+[CLS] The capital of Ili:2 Kazakh:3 Autonomous Prefecture is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ili:2 - -h:2,Yining:2 City,0,Yining:2 City,0,-2.74145
+[CLS] The capital of Liu Song dynasty is [MASK] [MASK] . [SEP],Liuzhou:2,Jiankang:3,0,Jiankang:3,0,-1.79140
+[CLS] The capital of canton of Castelsarrasin:4 - 1 is [MASK] [MASK] [MASK] [MASK] . [SEP],the capital ofn:2,Castelsarrasin:4,0,Castelsarrasin:4,0,-2.12731
+[CLS] The capital of Huaura:2 Province is [MASK] [MASK] . [SEP],Huaura:2,Huacho:2,0,Huacho:2,0,-0.46755
+[CLS] The capital of Collier County is [MASK] [MASK] . [SEP],Collier town,East Naples,0,East Naples,0,-1.19590
+[CLS] The capital of Cusco:2 is [MASK] [MASK] . [SEP],Cusco:2,Cusco:2,1,Cusco:2,1,-0.63767
+[CLS] The capital of Spanish Netherlands is [MASK] [MASK] . [SEP],the Madrid,Brussels - Capital Region,0,Brussels - Capital Region,0,-2.20833
+[CLS] The capital of Qashqadaryo:5 Region is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Qashqadaryo:5,Qarshi:2,0,Qarshi:2,0,-1.45242
+[CLS] The capital of Fayette County is [MASK] . [SEP],Fayette,Uniontown:2,0,Uniontown:2,0,-0.64226
+[CLS] The capital of Freeborn:2 County is [MASK] [MASK] . [SEP],the town,Albert Lea,0,Albert Lea,0,-2.21697
+[CLS] The capital of Habo:2 Municipality is [MASK] [MASK] . [SEP],Habo:2,Habo:2,1,Habo:2,1,-0.51862
+[CLS] The capital of Vetlanda:3 Municipality is [MASK] [MASK] [MASK] . [SEP],Vetlanda:3,Vetlanda:3,1,Vetlanda:3,1,-1.21235
+[CLS] The capital of Katrineholm:3 Municipality is [MASK] [MASK] [MASK] . [SEP],Katrineholm:3,Katrineholm:3,1,Katrineholm:3,1,-1.12648
+[CLS] The capital of Miller County is [MASK] [MASK] . [SEP],the town,Texarkana:3,0,Texarkana:3,0,-2.02679
+[CLS] The capital of Enkarterri:4 is [MASK] [MASK] [MASK] [MASK] . [SEP],Enkarterri:4,Balmaseda:3,0,Balmaseda:3,0,-1.27071
+[CLS] The capital of Alajuela:3 Canton is [MASK] [MASK] [MASK] . [SEP],Alajuela:3,Alajuela:3,1,Alajuela:3,1,-1.01794
+[CLS] The capital of Clackamas:3 County is [MASK] [MASK] . [SEP],the town,Oregon City,0,Oregon City,0,-1.74822
+[CLS] The capital of Kolubara:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Kolubara:3 District,Valjevo:2,0,Valjevo:2,0,-2.05757
+[CLS] The capital of Karnobat:3 Municipality is [MASK] [MASK] [MASK] [MASK] . [SEP],Karnobat:3 Municipality,Karnobat:3,0,Karnobat:3,0,-1.65414
+[CLS] The capital of Camp de Morvedre:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Camp de Morvedre:3,Sagunto:3,0,Sagunto:3,0,-1.93307
+[CLS] The capital of Toamasina:3 Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Toamasina:3 city,Toamasina:3,0,Toamasina:3,0,-1.65259
+[CLS] The capital of Kabul is [MASK] [MASK] . [SEP],Kabul Kabul,Kabul,0,Kabul,0,-0.91643
+[CLS] The capital of Timiskaming:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Timiskaming:3 District,Temiskaming:3 Shores:2,0,Temiskaming:3 Shores:2,0,-2.04447
+[CLS] The capital of Gatchinsky:4 District is [MASK] [MASK] . [SEP],the town,Gatchina:3,0,Gatchina:3,0,-1.52563
+[CLS] The capital of Sharkey:2 County is [MASK] [MASK] [MASK] . [SEP],Sharkey:2 town,Rolling Fork,0,Rolling Fork,0,-1.74892
+[CLS] The capital of British Somaliland:2 is [MASK] . [SEP],Somali,Berbera:3,0,Berbera:3,0,-1.94555
+[CLS] The capital of Nueva Vizcaya is [MASK] . [SEP],Bilbao,Bayombong:3,0,Bayombong:3,0,-1.69026
+[CLS] The capital of Tarnogsky:3 District is [MASK] [MASK] . [SEP],the town,Tarnogsky:3 Gorodok:3,0,Tarnogsky:3 Gorodok:3,0,-1.30695
+[CLS] The capital of Eijsden:3 - Margraten:3 is [MASK] [MASK] . [SEP],the town,Eijsden:3,0,Eijsden:3,0,-1.89560
+[CLS] The capital of Natanz:2 County is [MASK] [MASK] [MASK] . [SEP],Natanz:2 town,Natanz:2,0,Natanz:2,0,-1.22101
+[CLS] The capital of Gorlice:3 County is [MASK] [MASK] . [SEP],the town,Gorlice:3,0,Gorlice:3,0,-1.60125
+[CLS] The capital of Tararua:2 District is [MASK] [MASK] . [SEP],Tararua:2,Dannevirke:3,0,Dannevirke:3,0,-0.61453
+[CLS] The capital of Dorchester:2 County is [MASK] [MASK] . [SEP],Dorchester:2,Cambridge,0,Cambridge,0,-0.72261
+[CLS] The capital of Mono Department is [MASK] . [SEP],Mono,Lokossa:2,0,Lokossa:2,0,-0.62862
+[CLS] The capital of ZF:2 Mgcawu:3 District Municipality is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ZF:2 ofcawu:3,Upington:2,0,Upington:2,0,-2.40424
+[CLS] The capital of Metropolis of Greater Paris is [MASK] . [SEP],Paris,Paris,1,Paris,1,-0.57890
+[CLS] The capital of Saada:2 Governorate:2 is [MASK] [MASK] . [SEP],Saada:2,Sa ' dah:2,0,Sa ' dah:2,0,-0.50334
+[CLS] The capital of Kazan Governorate:2 is [MASK] . [SEP],Kazan,Kazan,1,Kazan,1,-0.02559
+[CLS] The capital of Targovishte:4 Province is [MASK] [MASK] . [SEP],the town,Targovishte:4,0,Targovishte:4,0,-1.78278
+[CLS] The capital of Bludenz:3 District is [MASK] [MASK] [MASK] . [SEP],Bludenz:3,Bludenz:3,1,Bludenz:3,1,-1.34539
+[CLS] The capital of Agra:2 district is [MASK] [MASK] . [SEP],Agra:2,Agra:2,1,Agra:2,1,-0.57967
+[CLS] The capital of Leon County is [MASK] . [SEP],Leon,Tallahassee:4,0,Tallahassee:4,0,-0.16034
+[CLS] The capital of Walloon:2 Brabant is [MASK] [MASK] . [SEP],the Hague,Wavre:3,0,Wavre:3,0,-2.23710
+[CLS] The capital of Red Lake County is [MASK] [MASK] . [SEP],Red city,Red Lake Falls,0,Red Lake Falls,0,-1.78966
+[CLS] The capital of Dryanovo:3 Municipality is [MASK] [MASK] . [SEP],the town,Dryanovo:3,0,Dryanovo:3,0,-1.38344
+[CLS] The capital of Copperas:2 Cove is [MASK] [MASK] [MASK] . [SEP],Copperas:2 Cove,Coryell:2 County,0,Coryell:2 County,0,-1.78769
+[CLS] The capital of Boise:2 County is [MASK] [MASK] [MASK] . [SEP],Boise:2 City,Idaho City,0,Idaho City,0,-1.60033
+[CLS] The capital of Bengtsfors:3 Municipality is [MASK] [MASK] . [SEP],the town,Bengtsfors:3,0,Bengtsfors:3,0,-1.73941
+[CLS] The capital of Valdemarsvik:3 Municipality is [MASK] [MASK] [MASK] [MASK] . [SEP],Valdemarsvik:3 Municipality,Valdemarsvik:3,0,Valdemarsvik:3,0,-1.47401
+[CLS] The capital of Hyderabad district is [MASK] . [SEP],Hyderabad,Hyderabad,1,Hyderabad,1,-0.11160
+[CLS] The capital of Kampong:2 Chhnang:3 Province is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kampong:2 Chhnang:3,Kampong:2 Chhnang:3,1,Kampong:2 Chhnang:3,1,-0.63522
+[CLS] The capital of Quirino:2 is [MASK] [MASK] . [SEP],Quirino:2,Cabarroguis:4,0,Cabarroguis:4,0,-0.72155
+[CLS] The capital of Kingdom of the Netherlands is [MASK] [MASK] . [SEP],the Hague,Amsterdam,0,Amsterdam,0,-1.28320
+[CLS] The capital of Billund:2 Municipality is [MASK] [MASK] [MASK] . [SEP],theund:2 Municipality,Grindsted:4,0,Grindsted:4,0,-2.15843
+[CLS] The capital of Bodenseekreis:3 is [MASK] [MASK] . [SEP],Boden town,Friedrichshafen:2,0,Friedrichshafen:2,0,-2.08339
+[CLS] The capital of Kashan:2 County is [MASK] [MASK] [MASK] . [SEP],Kashan:2 town,Kashan:2,0,Kashan:2,0,-1.15325
+[CLS] The capital of Van Buren:2 County is [MASK] [MASK] . [SEP],the town,Keosauqua:4,0,Keosauqua:4,0,-1.62832
+[CLS] The capital of Allen County is [MASK] . [SEP],Allen,Fort Wayne,0,Fort Wayne,0,-0.51579
+[CLS] The capital of Ocean County is [MASK] [MASK] . [SEP],Ocean City,Toms:2 River,0,Toms:2 River,0,-1.70401
+[CLS] The capital of Faxe:2 Municipality is [MASK] [MASK] . [SEP],Faxe:2,Haslev:2,0,Haslev:2,0,-0.77925
+[CLS] The capital of Le Sueur:2 County is [MASK] [MASK] . [SEP],the town,Le Center,0,Le Center,0,-1.67518
+[CLS] The capital of Sunflower:2 County is [MASK] [MASK] . [SEP],the town,Indianola:2,0,Indianola:2,0,-2.00893
+[CLS] The capital of Harku:2 Rural Municipality is [MASK] [MASK] . [SEP],Harku:2,Tabasalu:3,0,Tabasalu:3,0,-0.52885
+[CLS] The capital of Vientiane:3 Prefecture is [MASK] [MASK] [MASK] . [SEP],Vientiane:3,Vientiane:3,1,Vientiane:3,1,-1.46693
+[CLS] The capital of Opava:2 District is [MASK] [MASK] . [SEP],Opava:2,Opava:2,1,Opava:2,1,-0.60163
+[CLS] The capital of Breckinridge:4 County is [MASK] [MASK] . [SEP],the town,Hardinsburg:3,0,Hardinsburg:3,0,-1.76382
+[CLS] The capital of Menominee:3 County is [MASK] [MASK] . [SEP],the town,Menominee:3,0,Menominee:3,0,-1.65104
+[CLS] The capital of Hadzhidimovo:4 Municipality is [MASK] [MASK] . [SEP],a town,Hadzhidimovo:4,0,Hadzhidimovo:4,0,-1.45240
+[CLS] The capital of Medenine:3 Governorate:2 is [MASK] . [SEP],Moscow,Medenine:3,0,Medenine:3,0,-2.50514
+[CLS] The capital of Anjou is [MASK] . [SEP],Anjou,Angers,0,Angers,0,-1.78922
+[CLS] The capital of Choiseul:3 Province is [MASK] [MASK] [MASK] . [SEP],Choiseul:3,Taro:2 Island,0,Taro:2 Island,0,-1.20696
+[CLS] The capital of Bratislava Region is [MASK] . [SEP],Bratislava,Bratislava,1,Bratislava,1,-0.03033
+[CLS] The capital of Gmina Dmosin:3 is [MASK] [MASK] [MASK] . [SEP],Dmosin:3,Dmosin:3,1,Dmosin:3,1,-1.37929
+[CLS] The capital of Cochise:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Cochise:3 County,Bisbee:2,0,Bisbee:2,0,-1.38266
+[CLS] The capital of Thimphu:4 District is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Th Thphu:3 District,Thimphu:4,0,Thimphu:4,0,-1.86403
+[CLS] The capital of Bomi:2 County is [MASK] [MASK] . [SEP],Bomi:2,Tubmanburg:4,0,Tubmanburg:4,0,-1.17044
+[CLS] The capital of Quepos:2 Canton is [MASK] [MASK] . [SEP],Quepos:2,Quepos:2,1,Quepos:2,1,-1.06163
+[CLS] The capital of Canton 10 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - -o:2,Livno:2,0,Livno:2,0,-2.71630
+[CLS] The capital of Oconee:3 County is [MASK] [MASK] . [SEP],the town,Watkinsville:2,0,Watkinsville:2,0,-1.57609
+[CLS] The capital of Kavala:2 Regional Unit is [MASK] [MASK] . [SEP],Kavala:2,Kavala:2,1,Kavala:2,1,-0.49235
+[CLS] The capital of Zgharta:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Zgharta:3 District,Zgharta:3,0,Zgharta:3,0,-1.39001
+[CLS] The capital of Kvemo:3 Kartli:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kvemo:3 Kartli:2,Rustavi:3,0,Rustavi:3,0,-1.28261
+[CLS] The capital of Tweed:2 Shire is [MASK] [MASK] [MASK] . [SEP],Tweed:2 Shire,Murwillumbah:4,0,Murwillumbah:4,0,-1.63389
+[CLS] The capital of Volkhovsky:3 District is [MASK] [MASK] . [SEP],the town,Volkhov:2,0,Volkhov:2,0,-1.58782
+[CLS] The capital of Gramsh:2 District is [MASK] [MASK] . [SEP],Gramsh:2,Gramsh:2,1,Gramsh:2,1,-1.32903
+[CLS] The capital of Swabia:3 is [MASK] [MASK] [MASK] . [SEP],Swabia:3,Augsburg,0,Augsburg,0,-0.99047
+[CLS] The capital of Sysertsky:3 District is [MASK] [MASK] . [SEP],the city,Sysert:2,0,Sysert:2,0,-1.51140
+[CLS] The capital of Mandera:2 County is [MASK] [MASK] [MASK] . [SEP],Mandera:2 town,Mandera:2,0,Mandera:2,0,-1.75992
+[CLS] The capital of Jackson County is [MASK] . [SEP],Jackson,Murphysboro:3,0,Murphysboro:3,0,-0.38865
+[CLS] The capital of San Antonio de Areco:2 Partido is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San Antonio of Areco:2,San Antonio de Areco:2,0,San Antonio de Areco:2,0,-1.65931
+[CLS] The capital of Proszowice:4 County is [MASK] [MASK] . [SEP],the town,Proszowice:4,0,Proszowice:4,0,-1.29696
+[CLS] The capital of Schellenberg:4 is [MASK] [MASK] . [SEP],the town,Vaduz:2,0,Vaduz:2,0,-1.85528
+[CLS] The capital of Alfred Nzo:2 District Municipality is [MASK] [MASK] [MASK] . [SEP],Alfred Nzo:2,Mount Ayliff:2,0,Mount Ayliff:2,0,-1.01421
+[CLS] The capital of Chickasaw:3 County is [MASK] [MASK] . [SEP],the town,New Hampton,0,New Hampton,0,-1.53279
+[CLS] The capital of Lee County is [MASK] . [SEP],Lee,Beattyville:2,0,Beattyville:2,0,-0.90341
+[CLS] The capital of Macon:2 County is [MASK] . [SEP],Mac,Decatur:2,0,Decatur:2,0,-0.65329
+[CLS] The capital of Mosteiros:2 is [MASK] [MASK] . [SEP],Mosteiros:2,"Mosteiros:2 , Cape Verde",0,"Mosteiros:2 , Cape Verde",0,-1.94816
+[CLS] The capital of Sousse:2 Governorate:2 is [MASK] . [SEP],Sous,Sousse:2,0,Sousse:2,0,-1.73851
+[CLS] The capital of Caucasian:3 Albania is [MASK] . [SEP],Tirana,Qabala:3,0,Qabala:3,0,-1.87552
+[CLS] The capital of Central Province is [MASK] [MASK] . [SEP],Central Province,Port Moresby:2,0,Port Moresby:2,0,-2.40742
+[CLS] The capital of Southern District is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - - - District,Beersheba:3,0,Beersheba:3,0,-2.67601
+[CLS] The capital of Gmina Trzebnica:4 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the Trzebnica:4,Trzebnica:4,0,Trzebnica:4,0,-1.38009
+[CLS] The capital of Gmina Brzeg:2 Dolny:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Br Brzeg:2 Dolny:2,Brzeg:2 Dolny:2,0,Brzeg:2 Dolny:2,0,-1.38248
+[CLS] The capital of Balangir:3 district is [MASK] [MASK] [MASK] [MASK] . [SEP],Balangir:3 district,Balangir:3,0,Balangir:3,0,-1.57402
+[CLS] The capital of Minnesota is [MASK] . [SEP],Minneapolis,Saint Paul,0,Saint Paul,0,-0.71921
+[CLS] The capital of Knox County is [MASK] . [SEP],Knox,Barbourville:3,0,Barbourville:3,0,-0.38742
+[CLS] The capital of Trzebnica:4 County is [MASK] [MASK] . [SEP],the town,Trzebnica:4,0,Trzebnica:4,0,-1.00629
+[CLS] The capital of Kyogle:3 Council is [MASK] [MASK] [MASK] . [SEP],Kyogle:3,Kyogle:3,1,Kyogle:3,1,-1.32183
+[CLS] The capital of Gilchrist:3 County is [MASK] [MASK] . [SEP],the town,Trenton:2,0,Trenton:2,0,-2.34289
+[CLS] The capital of Neutral:2 Moresnet:3 is [MASK] [MASK] . [SEP],the town,Kelmis:3,0,Kelmis:3,0,-1.77443
+[CLS] The capital of Nouvelle - Aquitaine is [MASK] . [SEP],Poitiers,Bordeaux,0,Bordeaux,0,-1.00838
+[CLS] The capital of Firozpur:4 District is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Firozpurpur:5,Firozpur:4,0,Firozpur:4,0,-1.22467
+[CLS] The capital of Sargent:2 County is [MASK] [MASK] [MASK] . [SEP],Sargent:2 town,Forman:2,0,Forman:2,0,-1.20400
+[CLS] The capital of Ashtabula:3 County is [MASK] [MASK] [MASK] [MASK] . [SEP],Ashtabula:3 town,Jefferson,0,Jefferson,0,-1.61452
+[CLS] The capital of Jackson County is [MASK] . [SEP],Jackson,Kadoka:2,0,Kadoka:2,0,-0.38865
+[CLS] The capital of Brazos:3 County is [MASK] [MASK] . [SEP],the town,Bryan,0,Bryan,0,-1.58845
+[CLS] The capital of Llano County is [MASK] . [SEP],Llano,Llano,1,Llano,1,-1.10052
+[CLS] The capital of Southampton County is [MASK] . [SEP],Southampton,Courtland:2,0,Courtland:2,0,-0.05202
+[CLS] The capital of Main - Kinzig:3 - Kreis is [MASK] . [SEP],Frankfurt,Gelnhausen:3,0,Gelnhausen:3,0,-2.09043
+[CLS] The capital of Berovo:3 Municipality is [MASK] [MASK] [MASK] . [SEP],Berovo:3,Berovo:3,1,Berovo:3,1,-1.13436
+[CLS] The capital of Kirov:2 Oblast is [MASK] [MASK] [MASK] . [SEP],Kirovsk:3,Kirov:2,0,Kirov:2,0,-1.04228
+[CLS] The capital of Ghaziabad:4 district is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ghaziabad:4 district,Ghaziabad:4,0,Ghaziabad:4,0,-1.63056
+[CLS] The capital of Maury:2 County is [MASK] [MASK] . [SEP],Mau town,Columbia,0,Columbia,0,-1.19401
+[CLS] The capital of Pavlovo:4 - Posadsky:3 District is [MASK] [MASK] . [SEP],the town,Pavlovsky:4 Posad:2,0,Pavlovsky:4 Posad:2,0,-1.83126
+[CLS] The capital of Bioko:2 Norte Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Biokoo:3 Province,Malabo:2,0,Malabo:2,0,-2.38649
+[CLS] The capital of Mbale:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],thebale:3 District,Mbale:3,0,Mbale:3,0,-1.73414
+[CLS] The capital of Velizhsky:4 District is [MASK] [MASK] . [SEP],the town,Velizh:3,0,Velizh:3,0,-1.49822
+[CLS] The capital of Shinyanga:3 Region is [MASK] [MASK] [MASK] . [SEP],Shinyanga:3,Shinyanga:3,1,Shinyanga:3,1,-0.75142
+[CLS] The capital of Cloppenburg:3 is [MASK] [MASK] [MASK] . [SEP],Cloppenburg:3,Cloppenburg:3,1,Cloppenburg:3,1,-1.65256
+[CLS] The capital of Fylde:3 is [MASK] [MASK] [MASK] . [SEP],Fylde:3,Lytham:3 St Annes:2,0,Lytham:3 St Annes:2,0,-0.59191
+[CLS] The capital of Saint - Domingue:3 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - Domingue:3,Cap - Haïtien:3,0,Cap - Haïtien:3,0,-1.60376
+[CLS] The capital of Roman Catholic Diocese of Zrenjanin:4 is [MASK] [MASK] . [SEP],the town,Zrenjanin:4,0,Zrenjanin:4,0,-1.25654
+[CLS] The capital of Nerchinsky:4 District is [MASK] [MASK] . [SEP],the town,Nerchinsk:4,0,Nerchinsk:4,0,-1.37193
+[CLS] The capital of Lyubytinsky:5 District is [MASK] [MASK] . [SEP],the town,Lyubytino:4,0,Lyubytino:4,0,-1.38324
+[CLS] The capital of Jász:2 - Nagykun:2 - Szolnok:4 County is [MASK] . [SEP],Szeged,Szolnok:4,0,Szolnok:4,0,-1.20084
+[CLS] The capital of Ashe:2 County is [MASK] [MASK] [MASK] . [SEP],Ashe:2 town,Jefferson,0,Jefferson,0,-1.31205
+[CLS] The capital of Ucayali:3 is [MASK] [MASK] [MASK] . [SEP],Ucayali:3,Pucallpa:4,0,Pucallpa:4,0,-2.20905
+[CLS] The capital of Isanti:2 County is [MASK] [MASK] [MASK] . [SEP],Isanti:2 town,Cambridge,0,Cambridge,0,-1.45876
+[CLS] The capital of Roman Catholic Diocese of Mukacheve:3 is [MASK] [MASK] . [SEP],the town,Mukachevo:3,0,Mukachevo:3,0,-2.30892
+[CLS] The capital of Province of Imperia:2 is [MASK] [MASK] [MASK] [MASK] . [SEP],the of Imperia:2,Imperia:2,0,Imperia:2,0,-1.42749
+[CLS] The capital of Puntarenas:3 Province is [MASK] [MASK] [MASK] . [SEP],Puntarenas:3,Puntarenas:3,1,Puntarenas:3,1,-1.01623
+[CLS] The capital of Huesca Province is [MASK] . [SEP],Huesca,Huesca,1,Huesca,1,-0.12747
+[CLS] The capital of Klimavičy:4 District is [MASK] [MASK] . [SEP],the town,Klimavičy:4,0,Klimavičy:4,0,-1.40201
+[CLS] The capital of Wolmar:3 County is [MASK] [MASK] . [SEP],the town,Valmiera:3,0,Valmiera:3,0,-1.84383
+[CLS] The capital of Gharb:2 - Chrarda:2 - Béni:2 Hssen:2 is [MASK] . [SEP],also,Kenitra:2,0,Kenitra:2,0,-2.29068
+[CLS] The capital of Lom:2 Municipality is [MASK] [MASK] . [SEP],Lom:2,Lom:2,1,Lom:2,1,-0.67012
+[CLS] The capital of Orange County is [MASK] . [SEP],Orange,Orange,1,Orange,1,-0.03964
+[CLS] The capital of Rolette:2 County is [MASK] [MASK] . [SEP],the town,"Rolla:2 , North Dakota",0,"Rolla:2 , North Dakota",0,-1.49250
+[CLS] The capital of Blanco County is [MASK] [MASK] . [SEP],the City,Johnson City,0,Johnson City,0,-1.97143
+[CLS] The capital of Callahan:2 County is [MASK] [MASK] [MASK] . [SEP],Callahan:2 County,Baird,0,Baird,0,-1.14017
+[CLS] The capital of Panola:2 County is [MASK] [MASK] [MASK] . [SEP],Panola:2 town,Carthage,0,Carthage,0,-1.32775
+[CLS] The capital of Saale - Orla:2 - Kreis is [MASK] . [SEP],Halle,Schleiz:3,0,Schleiz:3,0,-1.98844
+[CLS] The capital of Siraha:2 District is [MASK] [MASK] [MASK] . [SEP],Siraha:2 District,Siraha:2,0,Siraha:2,0,-0.78980
+[CLS] The capital of Cibitoke:3 Province is [MASK] [MASK] [MASK] [MASK] . [SEP],Cibitoke:3 Province,Cibitoke:3,0,Cibitoke:3,0,-1.58889
+[CLS] The capital of gmina Skawina:4 is [MASK] [MASK] . [SEP],the town,Skawina:4,0,Skawina:4,0,-1.24162
+[CLS] The capital of Kingdom of Aragon is [MASK] . [SEP],Zaragoza,Zaragoza,1,Zaragoza,1,-0.38093
+[CLS] The capital of Provincia de Cartago:2 is [MASK] [MASK] . [SEP],Cartago:2,Cartago:2,1,Cartago:2,1,-0.57655
+[CLS] The capital of Goochland:3 County is [MASK] [MASK] . [SEP],the town,Goochland:3,0,Goochland:3,0,-2.06302
+[CLS] The capital of Dmitrovsky:4 District is [MASK] [MASK] . [SEP],the town,Dmitrovsk:4,0,Dmitrovsk:4,0,-1.47963
+[CLS] The capital of Kirzhachsky:5 District is [MASK] [MASK] . [SEP],the town,Kirzhach:4,0,Kirzhach:4,0,-1.53005
+[CLS] The capital of Verkhovyna:4 Raion:2 is [MASK] [MASK] . [SEP],a town,Verkhovyna:4,0,Verkhovyna:4,0,-1.87228
+[CLS] The capital of Warrick:2 County is [MASK] [MASK] [MASK] . [SEP],Warrick:2 town,Boonville:3,0,Boonville:3,0,-2.27291
+[CLS] The capital of Los Pedroches:2 is [MASK] [MASK] . [SEP],the town,Pozoblanco:4,0,Pozoblanco:4,0,-2.04261
+[CLS] The capital of White Pine County is [MASK] [MASK] [MASK] . [SEP],White Pine town,Ely:2,0,Ely:2,0,-1.75351
+[CLS] The capital of canton of Marseille - Saint - Lambert is [MASK] . [SEP],Marseille,Marseille,1,Marseille,1,-0.10172
+[CLS] The capital of El Progreso Department is [MASK] [MASK] . [SEP],El Progreso,Guastatoya:4,0,Guastatoya:4,0,-1.38666
+[CLS] The capital of Kherson:3 Oblast is [MASK] [MASK] [MASK] [MASK] . [SEP],Khersonsk:4,Kherson:3,0,Kherson:3,0,-1.69628
+[CLS] The capital of Marne is [MASK] . [SEP],Reims,Châlons:3 - en - Champagne,0,Châlons:3 - en - Champagne,0,-0.12321
+[CLS] The capital of Rosenheim:2 is [MASK] [MASK] . [SEP],Rosenheim:2,Rosenheim:2,1,Rosenheim:2,1,-0.33851
+[CLS] The capital of Balé:2 Province is [MASK] [MASK] . [SEP],Balé:2,Boromo:2,0,Boromo:2,0,-1.36334
+[CLS] The capital of Kiboga:2 District is [MASK] [MASK] . [SEP],Kiboga:2,Kiboga:2,1,Kiboga:2,1,-1.78431
+[CLS] The capital of Principality:2 of Seborga:3 is [MASK] [MASK] [MASK] . [SEP],Seborga:3,Seborga:3,1,Seborga:3,1,-1.39901
+[CLS] The capital of Gmina Malczyce:3 is [MASK] [MASK] . [SEP],the town,Malczyce:3,0,Malczyce:3,0,-1.50148
+[CLS] The capital of Uzgen:2 District is [MASK] [MASK] . [SEP],Uz town,Uzgen:2,0,Uzgen:2,0,-2.00712
+[CLS] The capital of canton of Douarnenez:4 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the Do ofnenez:3,Douarnenez:4,0,Douarnenez:4,0,-1.96111
+[CLS] The capital of Pueblo Nuevo is [MASK] [MASK] . [SEP],Pueblo Nuevo,"El Salto , Durango",0,"El Salto , Durango",0,-2.09795
+[CLS] The capital of Novomyrhorod:5 Raion:2 is [MASK] [MASK] . [SEP],the town,Novomyrhorod:5,0,Novomyrhorod:5,0,-1.94860
+[CLS] The capital of Ehlanzeni:4 District Municipality is [MASK] [MASK] [MASK] [MASK] . [SEP],Ehlanzeni:4,Mbombela:3,0,Mbombela:3,0,-2.02022
+[CLS] The capital of Tarashcha:3 Raion:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Tarashcha:3 Raion:2,Tarashcha:3,0,Tarashcha:3,0,-1.27933
+[CLS] The capital of Columbia County is [MASK] [MASK] . [SEP],Columbia town,Bloomsburg:2,0,Bloomsburg:2,0,-1.41010
+[CLS] The capital of canton of Barneville:2 - Carteret:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theeville:2 - -et:2,Barneville:2 - Carteret:2,0,Barneville:2 - Carteret:2,0,-1.66641
+[CLS] The capital of Anseba:2 Region is [MASK] [MASK] . [SEP],Anseba:2,"Keren:2 , Eritrea",0,"Keren:2 , Eritrea",0,-1.64745
+[CLS] The capital of Allen County is [MASK] . [SEP],Allen,Scottsville:2,0,Scottsville:2,0,-0.51579
+[CLS] The capital of canton of Sissonne:3 is [MASK] . [SEP],Saint,Sissonne:3,0,Sissonne:3,0,-1.25829
+[CLS] The capital of Kole:2 District is [MASK] [MASK] . [SEP],Kole:2,Kole:2,1,Kole:2,1,-0.95238
+[CLS] The capital of canton of Antrain:2 is [MASK] [MASK] . [SEP],Ant town,Antrain:2,0,Antrain:2,0,-1.12440
+[CLS] The capital of Storuman:3 Municipality is [MASK] [MASK] [MASK] [MASK] . [SEP],Storuman:3 Municipality,Storuman:3,0,Storuman:3,0,-1.59688
+[CLS] The capital of Rajsamand:3 district is [MASK] [MASK] [MASK] . [SEP],Rajsamand:3,Rajsamand:3,1,Rajsamand:3,1,-2.30869
+[CLS] The capital of canton of Roisel:2 is [MASK] [MASK] . [SEP],Roisel:2,Roisel:2,1,Roisel:2,1,-1.45716
+[CLS] The capital of Volta Region is [MASK] . [SEP],Volta,Ho,0,Ho,0,-1.17243
+[CLS] The capital of Sesia:2 is [MASK] [MASK] . [SEP],Sesia:2,Vercelli:2,0,Vercelli:2,0,-0.75857
+[CLS] The capital of arrondissement of Bayonne:2 is [MASK] [MASK] . [SEP],Bayonne:2,Bayonne:2,1,Bayonne:2,1,-1.26295
+[CLS] The capital of arrondissement of Libourne:2 is [MASK] [MASK] . [SEP],Libourne:2,Libourne:2,1,Libourne:2,1,-0.67221
+[CLS] The capital of arrondissement of Bellac:2 is [MASK] [MASK] . [SEP],Bellac:2,Bellac:2,1,Bellac:2,1,-1.34529
+[CLS] The capital of Nauta:2 District is [MASK] [MASK] . [SEP],Nauta:2,Nauta:2,1,Nauta:2,1,-0.32820
+[CLS] The capital of Kimrsky:3 District is [MASK] [MASK] . [SEP],the town,Kimry:2,0,Kimry:2,0,-1.52142
+[CLS] The capital of Nukhinsky:4 Uyezd:3 is [MASK] [MASK] . [SEP],the town,Shaki:2,0,Shaki:2,0,-2.13107
+[CLS] The capital of Gomba:2 District is [MASK] [MASK] . [SEP],Gomba:2,Kanoni:2,0,Kanoni:2,0,-0.57231
+[CLS] The capital of Tan - Tan Province is [MASK] [MASK] [MASK] . [SEP],Tan - town,Tan - Tan,0,Tan - Tan,0,-1.36759
+[CLS] The capital of Kostroma:3 Oblast is [MASK] [MASK] [MASK] [MASK] . [SEP],Kostromask:4,Kostroma:3,0,Kostroma:3,0,-2.19419
+[CLS] The capital of Thabo:2 Mofutsanyana:5 District Municipality is [MASK] [MASK] . [SEP],Thabo:2,Phuthaditjhaba:7,0,Phuthaditjhaba:7,0,-0.54378
+[CLS] The capital of Gmina Pcim:2 is [MASK] [MASK] [MASK] . [SEP],in Pcim:2,Pcim:2,0,Pcim:2,0,-1.00959
+[CLS] The capital of Mansehra:3 District is [MASK] [MASK] [MASK] . [SEP],Mansehra:3,Mansehra:3,1,Mansehra:3,1,-1.17151
+[CLS] The capital of Clark County is [MASK] . [SEP],Clark,Arkadelphia:3,0,Arkadelphia:3,0,-0.37147
+[CLS] The capital of Hualien:2 County is [MASK] [MASK] . [SEP],Hualien:2,Hualien:2 City,0,Hualien:2 City,0,-0.60072
+[CLS] The capital of Karlsruhe Government Region is [MASK] . [SEP],Karlsruhe,Karlsruhe,1,Karlsruhe,1,-0.00611
+[CLS] The capital of Świętokrzyskie:6 Voivodeship is [MASK] . [SEP],Katowice,Kielce:2,0,Kielce:2,0,-1.11221
+[CLS] The capital of Konotop:3 Raion:2 is [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Konotop:3 Raion:2,Konotop:3,0,Konotop:3,0,-0.93723
+[CLS] The capital of Marlborough District is [MASK] . [SEP],Marlborough,Blenheim:3,0,Blenheim:3,0,-0.39634
+[CLS] The capital of Pomorie:3 Municipality is [MASK] [MASK] [MASK] . [SEP],Pomorie:3,Pomorie:3,1,Pomorie:3,1,-0.85185
+[CLS] The capital of Les Basques:2 Regional County Municipality is [MASK] . [SEP],Bilbao,Trois - Pistoles:3,0,Trois - Pistoles:3,0,-1.22060
+[CLS] The capital of Gmina Sitkówka:3 - Nowiny:2 is [MASK] [MASK] . [SEP],the town,Osiedle:3 - Nowiny:2,0,Osiedle:3 - Nowiny:2,0,-1.39110
+[CLS] The capital of canton of Romilly:2 - sur - Seine - 1 is [MASK] [MASK] . [SEP],theilly:2,Romilly:2 - sur - Seine,0,Romilly:2 - sur - Seine,0,-1.30186
+[CLS] The capital of Hautes - Alpes is [MASK] . [SEP],Nice,Gap,0,Gap,0,-1.82299
+[CLS] The capital of Orange County is [MASK] . [SEP],Orange,Hillsborough:2,0,Hillsborough:2,0,-0.03964
+[CLS] The capital of Atbasar:3 District is [MASK] [MASK] [MASK] [MASK] . [SEP],Atbasar:3 District,Atbasar:3,0,Atbasar:3,0,-1.36464
+[CLS] The capital of arrondissement of Soissons:2 is [MASK] [MASK] . [SEP],Soissons:2,Soissons:2,1,Soissons:2,1,-1.09742
+[CLS] The capital of Quetta:2 District is [MASK] [MASK] . [SEP],Quetta:2,Quetta:2,1,Quetta:2,1,-0.38966
+[CLS] The capital of San Román Province is [MASK] [MASK] [MASK] . [SEP],San Román Province,Juliaca:2,0,Juliaca:2,0,-1.70432
+[CLS] The capital of Quneitra:3 Governorate:2 is [MASK] [MASK] [MASK] . [SEP],Quneitra:3,Quneitra:3,1,Quneitra:3,1,-1.69613
+[CLS] The capital of Donetsk - Krivoy:3 Rog:2 Soviet Republic is [MASK] . [SEP],Donetsk,Luhansk:3,0,Luhansk:3,0,-1.29564
+[CLS] The capital of Karachayevsky:4 District is [MASK] [MASK] . [SEP],the town,Karachayevsk:4,0,Karachayevsk:4,0,-1.53491
+[CLS] The capital of Gmina Radoszyce:3 is [MASK] [MASK] . [SEP],the town,"Radoszyce:3 , Świętokrzyskie:6 Voivodeship",0,"Radoszyce:3 , Świętokrzyskie:6 Voivodeship",0,-1.58987
+[CLS] The capital of Staryja:2 Darohi:3 District is [MASK] [MASK] . [SEP],the town,Staryja:2 Darohi:3,0,Staryja:2 Darohi:3,0,-1.56464
+[CLS] The capital of Zvenyhorodka:6 Raion:2 is [MASK] [MASK] . [SEP],the town,Zvenyhorodka:6,0,Zvenyhorodka:6,0,-1.90638
+[CLS] The capital of North Caucasian:3 Federal District is [MASK] . [SEP],Moscow,Pyatigorsk:4,0,Pyatigorsk:4,0,-2.39045
+[CLS] The capital of Tablelands:2 Region is [MASK] [MASK] . [SEP],Tablea:2,Malanda:2,0,Malanda:2,0,-2.67209

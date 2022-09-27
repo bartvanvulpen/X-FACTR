@@ -47,7 +47,7 @@ def get_instanceof(uris: List[str]) -> Dict[str, Set[Tuple[str, str]]]:
 
 def load_entity_instance(filename: str):
     entity2instance: Dict[str, str] = {}
-    with open(filename, 'r') as fin:
+    with open(filename, 'r', encoding='utf-8') as fin:
         for l in fin:
             l = l.strip().split('\t')
             entity2instance[l[0]] = ','.join(l[1:])
