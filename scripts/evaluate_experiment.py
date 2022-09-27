@@ -4,8 +4,8 @@ import argparse
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Analysis')
     parser.add_argument('--task', type=str,
-                        choices=['logprob', 'compare', 'multi_eval', 'reliability', 'rank', 'error', 'overlap', 'plot'],
-                        default='multi_eval')
+                        choices=['accuracy', 'MCR', 'visualization'],
+                        default='accuracy')
     parser.add_argument('--lang', type=str, help='language', default='en')
     parser.add_argument('--probe', type=str, help='probe dataset',
                         choices=['lama', 'lama-uhn', 'mlama', 'mlamaf'], default='mlamaf')
@@ -20,6 +20,10 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     print('Reading result files...')
+
+
+
+
 
     # TODO: specifiy our own, custom task/metrics to evaluate on and write evaluation code
 
