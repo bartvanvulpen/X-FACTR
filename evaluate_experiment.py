@@ -1,4 +1,4 @@
-from ana import load_result, compute_acc
+from scripts.ana import load_result, compute_acc
 import argparse
 
 if __name__ == '__main__':
