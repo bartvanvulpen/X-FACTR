@@ -608,7 +608,7 @@ class ProbeIterator(object):
 
                     # get prompt
                     if self.args.prompts:
-                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r') as fin:
+                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r', encoding='utf-8') as fin:
                             prompts = [json.loads(l)['template'] for l in fin][:50]  # TODO: top 50
                     else:
                         prompts = [self.prompt_lang[self.prompt_lang['pid'] == relation][LANG].iloc[0]]
@@ -683,14 +683,14 @@ class ProbeIterator(object):
                                 if is_correct:
                                     correct_facts.add((query_batch[i]['sub_uri'], query_batch[i]['obj_uri']))
 
-                                '''
+                                """
                                 print('===', tokenizer.convert_ids_to_tokens(obj), is_correct, '===')
                                 for j in range(NUM_MASK):
                                     print(tokenizer.convert_ids_to_tokens(inp_tensor[i, j].detach().cpu().numpy()))
                                     tpred = out_tensor[i, j].masked_select(mask_ind[i, j].eq(1)).detach().cpu().numpy().reshape(-1)
                                     print(tokenizer.convert_ids_to_tokens(tpred), avg_log[j])
                                 input()
-                                '''
+                                """
 
                                 if self.args.log_dir:
                                     csv_file.writerow([
