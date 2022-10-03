@@ -1,4 +1,8 @@
-X-FACTR is a multilingual benchmark for probing factual knowledge in language models.
-Prompts in 23 languages are created by native speakers to probe factual knowledge in LMs by having them fill in the blanks of prompts such as "Punta Cana is located in \_."
-We provide both the benchmark containing prompts and facts and the code to evaluate LMs.
-For more details, check out our paper [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189) and our [project page](https://x-factr.github.io/)
+Typical usage of probing (the script should be called from the base folder):
+python .\scripts\probetest.py --pids "P36" --pred_dir experiment_results --log_dir experiment_results --lang en --num_mask 1   
+useful arguments:
+pids - prompt ids connected with a , -> "P36,P20" |
+pred_dir & log_dir - path to save the prediction and log files (jsonl and csv) -> experiment_results |
+lang - language to use -> en |
+num_mask - number of word to predict (starting from 1) -> 1 |
+prompts - path of the folder which contains prompts for the model to use -> "own_prompts_en" |
