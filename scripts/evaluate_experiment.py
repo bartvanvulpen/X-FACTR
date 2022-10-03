@@ -3,6 +3,21 @@ from probe import tokenizer_wrap, LamaPredictions, EvalContext, CsvLogFileContex
     DATASET, PROMPT_LANG_PATH
 import argparse
 import os
+import json
+def get_top_five_preds(json_file):
+
+    data = [json.loads(line) for line in open(json_file,'r')]
+
+    for d in data:
+        print('----------')
+        print('Gold:', d['obj_label'])
+        for i, p in enumerate(d['pred']):
+            print
+            print(f'Prediction {i+1}:', ' '.join(p))
+        print('----------')
+
+
+
 
 
 if __name__ == '__main__':
@@ -30,6 +45,9 @@ if __name__ == '__main__':
     files = os.listdir(root_folder)
 
     eval = EvalContext(args)
+
+
+
     for result_file_name in files:
         if '.jsonl' not in result_file_name:
             continue
@@ -41,6 +59,9 @@ if __name__ == '__main__':
 
         print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
 
+        print('- #1 predictions for M 1-M -')
+
+        get_top_five_preds(root_folder + result_file_name)
 
 
 
