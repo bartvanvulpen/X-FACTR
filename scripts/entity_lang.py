@@ -112,7 +112,7 @@ class Alias(object):
 	@staticmethod
 	def load_alias_from_file(filename: str) -> Dict[str, List[str]]:
 		id2alias: Dict[str, List[str]] = defaultdict(list)
-		with open(filename, 'r') as fin:
+		with open(filename, 'r', encoding='utf-8') as fin:
 			for l in fin:
 				l = l.strip().split('\t')
 				id2alias[l[0]].extend(l[1:])
