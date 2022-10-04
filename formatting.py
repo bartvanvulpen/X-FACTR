@@ -19,9 +19,9 @@ def write_aliases(item):
             alias_f.close()
 
         if lang in item['labels'].keys():
-            labels.append( f"\t{item['labels'][lang]['value']}@{lang}")
+            labels.append( f"\t\"{item['labels'][lang]['value']}\"@{lang}")
     uni_f = open("own_unicode_escape.txt", "a", encoding='utf-8')
-    uni_f.write(f"{item['id']}\t{''.join(labels)}\n")
+    uni_f.write(f"{item['id']}{''.join(labels)}\n")
     uni_f.close()
 
 
