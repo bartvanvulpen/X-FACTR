@@ -406,6 +406,7 @@ class ProbeIterator(object):
         self.prompt_lang = pandas.read_csv(self.prompt_lang_path)
         self.custom_facts = args.custom_facts
 
+
         # load facts
         self.restricted_facts = None
         if args.facts is not None:
@@ -440,6 +441,7 @@ class ProbeIterator(object):
 
             if self.custom_facts is not None:
                 fact_path = self.custom_facts
+                self.entity2lang = load_entity_lang('own_unicode_escape.txt')
             else:
                 fact_path = self.entity_path.format(relation)
 
@@ -454,7 +456,7 @@ class ProbeIterator(object):
 
         queries: List[Dict] = []
         num_skip = not_exist = num_multi_word = num_single_word = 0
-        with open(fact_path) as fin:
+        with open(fact_path, encoding='utf-8') as fin:
             for l in fin:
                 l = json.loads(l)
                 sub_exist = LANG in self.entity2lang[l['sub_uri']]
@@ -1148,3 +1150,4 @@ if __name__ == '__main__':
         model.to('cuda')
 
     probe_iter.iter(pids=set(args.pids.strip().split(',')) if args.pids is not None else None)
+
