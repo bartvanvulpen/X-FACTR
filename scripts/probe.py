@@ -147,6 +147,7 @@ class EvalContext(object):
         self.lang: str = args.lang
         self.gold_len: bool = args.gold_len
 
+
         for k, v in DATASET[args.probe].items():
             setattr(self, k, v)
         self.lm = LM_NAME[args.model] if args.model in LM_NAME else args.model
@@ -403,6 +404,7 @@ class ProbeIterator(object):
         self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
         self.entity2instance: Dict[str, str] = load_entity_instance(self.entity_instance_path)
         self.prompt_lang = pandas.read_csv(self.prompt_lang_path)
+        self.custom_facts = args.custom_facts
 
         # load facts
         self.restricted_facts = None
@@ -435,7 +437,13 @@ class ProbeIterator(object):
             relation = pattern['relation']
             if pids is not None and relation not in pids:
                 continue
-            fact_path = self.entity_path.format(relation)
+
+            if self.custom_facts is not None:
+                fact_path = self.custom_facts
+            else:
+                fact_path = self.entity_path.format(relation)
+
+            print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
@@ -1081,6 +1089,7 @@ if __name__ == '__main__':
     parser.add_argument('--portion', type=str, choices=['all', 'trans', 'non'], default='trans',
                         help='which portion of facts to use')
     parser.add_argument('--facts', type=str, help='file path to facts', default=None)
+    parser.add_argument('--custom_facts', type=str, help='file path to facts', default=None)
     parser.add_argument('--prompts', type=str, default=None,
                         help='directory where multiple prompts are stored for each relation')
     parser.add_argument('--sub_obj_same_lang', action='store_true',
