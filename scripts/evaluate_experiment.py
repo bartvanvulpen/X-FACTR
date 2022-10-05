@@ -36,11 +36,13 @@ if __name__ == '__main__':
     parser.add_argument('--only_count', action='store_true')
     parser.add_argument('--inp', type=str, help='input')
     parser.add_argument('--out', type=str, help='output')
+    parser.add_argument('--show_preds', type=bool, help='print pred and gold')
+
     args = parser.parse_args()
 
     print('Reading result files...')
 
-    root_folder = "./experiment_results_en/"
+    root_folder = "./experiment_results/"
 
     files = os.listdir(root_folder)
 
@@ -49,19 +51,27 @@ if __name__ == '__main__':
 
 
     for result_file_name in files:
+
         if '.jsonl' not in result_file_name:
             continue
+
+
 
         pid_num = result_file_name.split(".")[0]
         acc, acc_single, acc_multi, total, total_single, total_multi = compute_acc(root_folder + result_file_name, eval,
                                                                                    prettify_out_file='test_{}'.format(pid_num),
                                                                                    only_count=args.only_count)
 
+
+        if args.show_preds:
+            print('- #1 predictions for M 1-M -')
+            get_top_five_preds(root_folder + result_file_name)
+
+        # print accuracy
         print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
 
-        print('- #1 predictions for M 1-M -')
 
-        get_top_five_preds(root_folder + result_file_name)
+
 
 
 
