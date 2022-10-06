@@ -2,6 +2,7 @@ from IPython.core.display import json
 from qwikidata.linked_data_interface import get_entity_dict_from_api
 import pickle
 import os
+from tqdm.auto import tqdm
 
 def write_unicode(item):
     labels = []
@@ -69,7 +70,7 @@ with open("jsondict.p", 'rb') as f:
         alias_f.write("")
         alias_f.close()
 
-        for predicate_id in jsondict[lang].keys():
+        for predicate_id in tqdm(jsondict[lang].keys(), position=0, leave=True):
         
             item = get_entity_dict_from_api(predicate_id)
             pred_label = item['labels'][lang]['value']
@@ -80,9 +81,9 @@ with open("jsondict.p", 'rb') as f:
             multi_f.write("")
             multi_f.close()
 
-            for identity in jsondict[lang][predicate_id]:
+            for identity in tqdm(jsondict[lang][predicate_id], position=1, leave=True):
 
-                for result in identity["results"]["bindings"]:
+                for result in tqdm(identity["results"]["bindings"], position=2, leave=True):
 
                     item = result["item"]["value"].split("/")[-1]
                     item = get_entity_dict_from_api(item)
