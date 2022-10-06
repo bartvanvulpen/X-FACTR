@@ -65,81 +65,80 @@ with open("jsondict.p", 'rb') as f:
     jsondict = pickle.load(f)
 
     for lang in jsondict.keys():
-        if lang != 'hu':
-            alias_f = open(f"own_alias/{lang}.txt", "w", encoding='utf-8')
-            alias_f.write("")
-            alias_f.close()
+        alias_f = open(f"own_alias/{lang}.txt", "w", encoding='utf-8')
+        alias_f.write("")
+        alias_f.close()
 
-            for predicate_id in jsondict[lang].keys():
-            
-                item = get_entity_dict_from_api(predicate_id)
-                pred_label = item['labels'][lang]['value']
+        for predicate_id in jsondict[lang].keys():
+        
+            item = get_entity_dict_from_api(predicate_id)
+            pred_label = item['labels'][lang]['value']
 
-                c = 0
+            c = 0
 
-                multi_f = open(f"own_facts_{lang}/{predicate_id}.jsonl", "w", encoding='utf-8')
-                multi_f.write("")
-                multi_f.close()
+            multi_f = open(f"own_facts_{lang}/{predicate_id}.jsonl", "w", encoding='utf-8')
+            multi_f.write("")
+            multi_f.close()
 
-                for identity in jsondict[lang][predicate_id]:
+            for identity in jsondict[lang][predicate_id]:
 
-                    for result in identity["results"]["bindings"]:
+                for result in identity["results"]["bindings"]:
 
-                        item = result["item"]["value"].split("/")[-1]
-                        item = get_entity_dict_from_api(item)
+                    item = result["item"]["value"].split("/")[-1]
+                    item = get_entity_dict_from_api(item)
 
-                        sub_uri = item["id"]
-                        if lang in item["labels"].keys():
-                            sub_label = item["labels"][lang]["value"]
-                        else: 
-                            for alt_lang in ['en', 'nl', 'hu']:
-                                if alt_lang in item["labels"].keys():
-                                    sub_label = item["labels"][alt_lang]["value"]
-                                    break
-
-
-                        objs = [i['mainsnak']['datavalue']['value']['id'] for i in item['claims'][predicate_id] if 'datavalue' in i['mainsnak'].keys()]
-
-                        final_objs = []
-                        for obj_id in objs:
-                            if obj_id not in entity_ids:
-                                obj_dict = get_entity_dict_from_api(obj_id)
-
-                                include_obj = write_unicode(obj_dict)
-
-                                if include_obj:
-                                    write_aliases(obj_dict)
-                                    write_gender(obj_dict)
-                                    entity_ids.add(obj_id)
-                                    final_objs.append(obj_dict)
-
-                        multi_f = open(f"own_multi_rel.txt", "a", encoding='utf-8')
-                        multi_f.write(
-                            f"{sub_uri}\t{predicate_id}\t{' '.join(objs)}\n")
-                        multi_f.close()
-
-                        obj_dict = get_entity_dict_from_api(objs[0])
-
-                        if lang in obj_dict["labels"].keys():
-                            obj_label = obj_dict["labels"][lang]["value"]
-                        else:
-                            obj_label = obj_dict["labels"][list(obj_dict["labels"].keys())[0]]["value"]
-                        
+                    sub_uri = item["id"]
+                    if lang in item["labels"].keys():
+                        sub_label = item["labels"][lang]["value"]
+                    else: 
+                        for alt_lang in ['en', 'nl', 'hu']:
+                            if alt_lang in item["labels"].keys():
+                                sub_label = item["labels"][alt_lang]["value"]
+                                break
 
 
+                    objs = [i['mainsnak']['datavalue']['value']['id'] for i in item['claims'][predicate_id] if 'datavalue' in i['mainsnak'].keys()]
 
-                        F_f = open(f"own_facts_{lang}/{predicate_id}.jsonl", "a", encoding='utf-8')
+                    final_objs = []
+                    for obj_id in objs:
+                        if obj_id not in entity_ids:
+                            obj_dict = get_entity_dict_from_api(obj_id)
 
-                        F_f.write(
-                            "{" + f'"uuid": "{predicate_id}_{c}", "predicate_id": "{predicate_id}", "sub_uri": "{sub_uri}", "sub_label": "{sub_label}", "obj_uri": "{objs[0]}", "obj_label": "{obj_label}"' + "}\n")
+                            include_obj = write_unicode(obj_dict)
 
-                        F_f.close()
+                            if include_obj:
+                                write_aliases(obj_dict)
+                                write_gender(obj_dict)
+                                entity_ids.add(obj_id)
+                                final_objs.append(obj_dict)
 
-                        write_unicode(item)
-                        write_gender(item)
-                        write_aliases(item)
+                    multi_f = open(f"own_multi_rel.txt", "a", encoding='utf-8')
+                    multi_f.write(
+                        f"{sub_uri}\t{predicate_id}\t{' '.join(objs)}\n")
+                    multi_f.close()
 
-                        c+=1
+                    obj_dict = get_entity_dict_from_api(objs[0])
+
+                    if lang in obj_dict["labels"].keys():
+                        obj_label = obj_dict["labels"][lang]["value"]
+                    else:
+                        obj_label = obj_dict["labels"][list(obj_dict["labels"].keys())[0]]["value"]
+                    
+
+
+
+                    F_f = open(f"own_facts_{lang}/{predicate_id}.jsonl", "a", encoding='utf-8')
+
+                    F_f.write(
+                        "{" + f'"uuid": "{predicate_id}_{c}", "predicate_id": "{predicate_id}", "sub_uri": "{sub_uri}", "sub_label": "{sub_label}", "obj_uri": "{objs[0]}", "obj_label": "{obj_label}"' + "}\n")
+
+                    F_f.close()
+
+                    write_unicode(item)
+                    write_gender(item)
+                    write_aliases(item)
+
+                    c+=1
 
 esc = {}
 with open('own_unicode_escape.txt', 'r', encoding='utf-8') as f:
