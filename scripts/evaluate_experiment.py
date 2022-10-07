@@ -27,7 +27,7 @@ if __name__ == '__main__':
                         default='accuracy')
     parser.add_argument('--lang', type=str, help='language', default='en')
     parser.add_argument('--probe', type=str, help='probe dataset',
-                        choices=['lama', 'lama-uhn', 'mlama', 'mlamaf'], default='mlamaf')
+                        choices=['lama', 'lama-uhn', 'mlama', 'mlamaf', 'own'], default='own')
     parser.add_argument('--model', type=str, help='LM to probe file', default='mbert_base')
     parser.add_argument('--norm', action='store_true')
     parser.add_argument('--multi_lang', type=str, help='use additional language in evaluation', default=None)
@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
     print('Reading result files...')
 
-    root_folder = "./experiment_results_en/"
+    root_folder = "./experiment_results/"
 
     files = os.listdir(root_folder)
 
@@ -59,9 +59,9 @@ if __name__ == '__main__':
 
         print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
 
-        print('- #1 predictions for M 1-M -')
-
-        get_top_five_preds(root_folder + result_file_name)
+        # print('- #1 predictions for M 1-M -')
+        #
+        # get_top_five_preds(root_folder + result_file_name)
 
 
 

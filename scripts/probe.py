@@ -87,6 +87,15 @@ DATASET = {
         'alias_root': 'data/alias/mTRExf',
         'multi_rel': 'data/mTRExf_multi_rel.txt',
         'is_cate': 'data/mTRExf_is_cate.txt',
+    },
+    'own': {
+        'entity_path': 'data/mTRExf/sub/{}.jsonl',
+        'entity_lang_path': 'own_unicode_escape.txt',
+        'entity_gender_path': 'own_gender.txt',
+        'entity_instance_path': 'data/mTRExf_instanceof.txt',
+        'alias_root': 'own_alias',
+        'multi_rel': 'own_multi_rel.txt',
+        'is_cate': 'data/mTRExf_is_cate.txt',
     }
 }
 
@@ -451,7 +460,7 @@ class ProbeIterator(object):
             else:
                 fact_path = self.entity_path.format(relation)
 
-            print(fact_path)
+            # print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
