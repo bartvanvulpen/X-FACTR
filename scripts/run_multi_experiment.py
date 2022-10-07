@@ -6,27 +6,25 @@ if __name__ == '__main__':
 
     langs = ["en", "hu", "nl"]
 
-    OS = platform.system()
-    if OS == 'Darwin' or OS == 'Linux':
+    if platform.system() in ['Darwin','Linux']:
         use_shell = False
     else:
         use_shell = True
 
     for mlang in langs:
-
         #loading dataset
         files = os.listdir('own_facts_' + mlang )
         pids = [file.split('.')[0] for file in files]
-        num_mask = (5 if mlang != "hu" else 10)
+        num_mask = 1
 
         for plang in langs:
             pid_num = 0
             for pid in pids:
 
-                experiment = subprocess.run(["python", "scripts/probe.py",
+                experiment = subprocess.run(["python", "scripts/probe_multi_pred.py",
                                              "--pids", pid,
-                                             "--log_dir", "experiment_results_"+mlang+"/"+plang,
-                                             "--pred_dir", "experiment_results_"+mlang+"/"+plang,
+                                             "--log_dir", "experiment_results_multi_"+mlang+"/"+plang,
+                                             "--pred_dir", "experiment_results_multi_"+mlang+"/"+plang,
                                              "--lang", mlang,
                                              "--num_mask", str(num_mask),
                                              "--portion", "all",
