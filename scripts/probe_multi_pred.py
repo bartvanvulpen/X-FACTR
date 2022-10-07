@@ -87,6 +87,15 @@ DATASET = {
         'alias_root': 'data/alias/mTRExf',
         'multi_rel': 'data/mTRExf_multi_rel.txt',
         'is_cate': 'data/mTRExf_is_cate.txt',
+    },
+    'own': {
+        'entity_path': 'data/mTRExf/sub/{}.jsonl',
+        'entity_lang_path': 'own_unicode_escape.txt',
+        'entity_gender_path': 'own_gender.txt',
+        'entity_instance_path': 'data/mTRExf_instanceof.txt',
+        'alias_root': 'own_alias',
+        'multi_rel': 'own_multi_rel.txt',
+        'is_cate': 'data/mTRExf_is_cate.txt',
     }
 }
 
@@ -369,6 +378,7 @@ class ProbeIterator(object):
 
         self.args = args
         self.tokenizer = tokenizer
+        self.custom_facts = args.custom_facts
 
         # special tokens
         self.mask_label = tokenizer.mask_token
@@ -399,8 +409,12 @@ class ProbeIterator(object):
         self.patterns = []
         with open(self.relation_path) as fin:
             self.patterns.extend([json.loads(l) for l in fin])
-        self.entity2lang = load_entity_lang(self.entity_lang_path)
-        self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
+        if self.custom_facts is not None:
+            self.entity2lang = load_entity_lang('own_unicode_escape.txt')
+            self.entity2gender = load_entity_gender('own_gender.txt')
+        else :
+            self.entity2lang = load_entity_lang(self.entity_lang_path)
+            self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
         self.entity2instance: Dict[str, str] = load_entity_instance(self.entity_instance_path)
         self.prompt_lang = pandas.read_csv(self.prompt_lang_path)
         self.custom_facts = args.custom_facts
@@ -443,7 +457,6 @@ class ProbeIterator(object):
             else:
                 fact_path = self.entity_path.format(relation)
 
-            print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
@@ -454,7 +467,7 @@ class ProbeIterator(object):
 
         queries: List[Dict] = []
         num_skip = not_exist = num_multi_word = num_single_word = 0
-        with open(fact_path) as fin:
+        with open(fact_path, encoding='utf-8') as fin:
             for l in fin:
                 l = json.loads(l)
                 sub_exist = LANG in self.entity2lang[l['sub_uri']]
@@ -474,8 +487,10 @@ class ProbeIterator(object):
                     l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if exist else 'en']
                     l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if exist else 'en']
                 else:
-                    l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
-                    l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    try :
+                        l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
+                        l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    except : continue
                 sub_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['sub_label'])
                 obj_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['obj_label'])
                 if self.unk in sub_label_t or self.unk in obj_label_t:
@@ -617,7 +632,7 @@ class ProbeIterator(object):
 
                     # get prompt
                     if self.args.prompts:
-                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r') as fin:
+                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r', encoding='utf-8') as fin:
                             prompts = [json.loads(l)['template'] for l in fin][:50]  # TODO: top 50
                     else:
                         prompts = [self.prompt_lang[self.prompt_lang['pid'] == relation][LANG].iloc[0]]
@@ -702,14 +717,14 @@ class ProbeIterator(object):
                                 if is_correct:
                                     correct_facts.add((query_batch[i]['sub_uri'], query_batch[i]['obj_uri']))
 
-                                if False:
-                                    print('===', tokenizer.convert_ids_to_tokens(obj), is_correct, '===')
-                                    for j in range(NUM_MASK):
-                                        print(tokenizer.convert_ids_to_tokens(inp_tensor[i, j].detach().cpu().numpy()))
-                                        tpred = out_tensor[i, j].masked_select(mask_ind[i, j].eq(1)).detach().cpu().numpy().reshape(-1)
-                                        print(tokenizer.convert_ids_to_tokens(tpred), avg_log[j])
-                                    input()
-
+                                """
+                                print('===', tokenizer.convert_ids_to_tokens(obj), is_correct, '===')
+                                for j in range(NUM_MASK):
+                                    print(tokenizer.convert_ids_to_tokens(inp_tensor[i, j].detach().cpu().numpy()))
+                                    tpred = out_tensor[i, j].masked_select(mask_ind[i, j].eq(1)).detach().cpu().numpy().reshape(-1)
+                                    print(tokenizer.convert_ids_to_tokens(tpred), avg_log[j])
+                                input()
+                                """
 
                                 if self.args.log_dir:
                                     csv_file.writerow([

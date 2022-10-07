@@ -156,7 +156,6 @@ class EvalContext(object):
         self.lang: str = args.lang
         self.gold_len: bool = args.gold_len
 
-
         for k, v in DATASET[args.probe].items():
             setattr(self, k, v)
         self.lm = LM_NAME[args.model] if args.model in LM_NAME else args.model
@@ -458,7 +457,6 @@ class ProbeIterator(object):
             else:
                 fact_path = self.entity_path.format(relation)
 
-            # print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
