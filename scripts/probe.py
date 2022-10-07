@@ -455,8 +455,6 @@ class ProbeIterator(object):
 
             if self.custom_facts is not None:
                 fact_path = self.custom_facts
-                # self.alias_manager = Alias('own_alias')
-                # self.multi_rel_manager = MultiRel('own_multi_rel.txt')
             else:
                 fact_path = self.entity_path.format(relation)
 
