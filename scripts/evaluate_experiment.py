@@ -27,7 +27,7 @@ if __name__ == '__main__':
                         default='accuracy')
     parser.add_argument('--lang', type=str, help='language', default='en')
     parser.add_argument('--probe', type=str, help='probe dataset',
-                        choices=['lama', 'lama-uhn', 'mlama', 'mlamaf'], default='mlamaf')
+                        choices=['lama', 'lama-uhn', 'mlama', 'mlamaf', 'own'], default='own')
     parser.add_argument('--model', type=str, help='LM to probe file', default='mbert_base')
     parser.add_argument('--norm', action='store_true')
     parser.add_argument('--multi_lang', type=str, help='use additional language in evaluation', default=None)
@@ -36,8 +36,6 @@ if __name__ == '__main__':
     parser.add_argument('--only_count', action='store_true')
     parser.add_argument('--inp', type=str, help='input')
     parser.add_argument('--out', type=str, help='output')
-    parser.add_argument('--show_preds', type=bool, help='print pred and gold')
-
     args = parser.parse_args()
 
     print('Reading result files...')
@@ -51,27 +49,19 @@ if __name__ == '__main__':
 
 
     for result_file_name in files:
-
         if '.jsonl' not in result_file_name:
             continue
-
-
 
         pid_num = result_file_name.split(".")[0]
         acc, acc_single, acc_multi, total, total_single, total_multi = compute_acc(root_folder + result_file_name, eval,
                                                                                    prettify_out_file='test_{}'.format(pid_num),
                                                                                    only_count=args.only_count)
 
-
-        if args.show_preds:
-            print('- #1 predictions for M 1-M -')
-            get_top_five_preds(root_folder + result_file_name)
-
-        # print accuracy
         print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
 
-
-
+        # print('- #1 predictions for M 1-M -')
+        #
+        # get_top_five_preds(root_folder + result_file_name)
 
 
 

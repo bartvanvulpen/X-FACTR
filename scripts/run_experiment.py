@@ -1,17 +1,10 @@
 import subprocess
 import platform
-
-
-log_dir = "experiment_results"
-# langs = ["en","hu","nl"]
-langs = ["en"] #for testing
-num_masks = ["5"]
-pids = ["P36","P39"]
-pids_arg = ",".join(pids)
-# TODO : Dynamic pid reading from external file
-
+import os
 
 if __name__ == '__main__':
+
+    langs = ["en", "hu", "nl"]
 
     OS = platform.system()
     if OS == 'Darwin' or OS == 'Linux':
@@ -19,8 +12,34 @@ if __name__ == '__main__':
     else:
         use_shell = True
 
-    for i, lang in enumerate(langs):
-        experiment = subprocess.run(["python", "scripts/probe.py", "--pids", pids_arg, "--log_dir", log_dir+"_"+lang,
-                         "--pred_dir", log_dir+"_"+lang, "--lang", lang, "--num_mask", num_masks[i]], shell=use_shell)
+    for mlang in langs:
 
-        if experiment.returncode != 0: raise RuntimeError("Experiment failed - Subprocess exit code 1")
+        #loading dataset
+        files = os.listdir('own_facts_' + mlang )
+        pids = [file.split('.')[0] for file in files]
+        num_mask = (5 if mlang != "hu" else 10)
+
+        for plang in langs:
+            pid_num = 0
+            for pid in pids:
+
+                experiment = subprocess.run(["python", "scripts/probe.py",
+                                             "--pids", pid,
+                                             "--log_dir", "experiment_results_"+mlang+"/"+plang,
+                                             "--pred_dir", "experiment_results_"+mlang+"/"+plang,
+                                             "--lang", mlang,
+                                             "--num_mask", str(num_mask),
+                                             "--portion", "all",
+                                            "--custom_facts", "own_facts_"+plang+"/"+pid+".jsonl"],
+                                            shell=use_shell)
+
+                if experiment.returncode != 0: raise RuntimeError("Experiment failed - Subprocess exit code 1")
+
+                pid_num += 1
+                print(f"Prompt {pid} done, {pid_num} out of {len(pids)} prompts.")
+
+            print(f"Prompt language {plang} done.")
+
+        print(f"Model language {mlang} done.")
+
+
