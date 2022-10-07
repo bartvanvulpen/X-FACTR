@@ -370,6 +370,7 @@ class ProbeIterator(object):
 
         self.args = args
         self.tokenizer = tokenizer
+        self.custom_facts = args.custom_facts
 
         # special tokens
         self.mask_label = tokenizer.mask_token
@@ -400,8 +401,12 @@ class ProbeIterator(object):
         self.patterns = []
         with open(self.relation_path) as fin:
             self.patterns.extend([json.loads(l) for l in fin])
-        self.entity2lang = load_entity_lang(self.entity_lang_path)
-        self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
+        if self.custom_facts is not None:
+            self.entity2lang = load_entity_lang('own_unicode_escape.txt')
+            self.entity2gender = load_entity_gender('own_gender.txt')
+        else :
+            self.entity2lang = load_entity_lang(self.entity_lang_path)
+            self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
         self.entity2instance: Dict[str, str] = load_entity_instance(self.entity_instance_path)
         self.prompt_lang = pandas.read_csv(self.prompt_lang_path)
         self.custom_facts = args.custom_facts
@@ -441,7 +446,8 @@ class ProbeIterator(object):
 
             if self.custom_facts is not None:
                 fact_path = self.custom_facts
-                self.entity2lang = load_entity_lang('own_unicode_escape.txt')
+                # self.alias_manager = Alias('own_alias')
+                # self.multi_rel_manager = MultiRel('own_multi_rel.txt')
             else:
                 fact_path = self.entity_path.format(relation)
 
@@ -476,8 +482,10 @@ class ProbeIterator(object):
                     l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if exist else 'en']
                     l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if exist else 'en']
                 else:
-                    l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
-                    l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    try :
+                        l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
+                        l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    except : continue
                 sub_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['sub_label'])
                 obj_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['obj_label'])
                 if self.unk in sub_label_t or self.unk in obj_label_t:
