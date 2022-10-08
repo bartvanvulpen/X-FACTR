@@ -15,7 +15,7 @@ if __name__ == '__main__':
         #loading dataset
         files = os.listdir('own_facts_' + mlang )
         pids = [file.split('.')[0] for file in files]
-        num_mask = 1
+        num_mask = 10
 
         for plang in langs:
             pid_num = 0
