@@ -24,7 +24,6 @@ from check_instanceof import load_entity_instance, load_entity_is_cate
 from entity_lang import Alias, MultiRel
 from tokenization_kobert import KoBertTokenizer
 
-
 logger = logging.getLogger('mLAMA')
 logger.setLevel(logging.ERROR)
 
@@ -86,6 +85,15 @@ DATASET = {
         'entity_instance_path': 'data/mTRExf_instanceof.txt',
         'alias_root': 'data/alias/mTRExf',
         'multi_rel': 'data/mTRExf_multi_rel.txt',
+        'is_cate': 'data/mTRExf_is_cate.txt',
+    },
+    'own': {
+        'entity_path': 'data/mTRExf/sub/{}.jsonl',
+        'entity_lang_path': 'own_unicode_escape.txt',
+        'entity_gender_path': 'own_gender.txt',
+        'entity_instance_path': 'data/mTRExf_instanceof.txt',
+        'alias_root': 'own_alias',
+        'multi_rel': 'own_multi_rel.txt',
         'is_cate': 'data/mTRExf_is_cate.txt',
     }
 }
@@ -369,6 +377,7 @@ class ProbeIterator(object):
 
         self.args = args
         self.tokenizer = tokenizer
+        self.custom_facts = args.custom_facts
 
         # special tokens
         self.mask_label = tokenizer.mask_token
@@ -399,8 +408,12 @@ class ProbeIterator(object):
         self.patterns = []
         with open(self.relation_path) as fin:
             self.patterns.extend([json.loads(l) for l in fin])
-        self.entity2lang = load_entity_lang(self.entity_lang_path)
-        self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
+        if self.custom_facts is not None:
+            self.entity2lang = load_entity_lang('own_unicode_escape.txt')
+            self.entity2gender = load_entity_gender('own_gender.txt')
+        else :
+            self.entity2lang = load_entity_lang(self.entity_lang_path)
+            self.entity2gender: Dict[str, Gender] = load_entity_gender(self.entity_gender_path)
         self.entity2instance: Dict[str, str] = load_entity_instance(self.entity_instance_path)
         self.prompt_lang = pandas.read_csv(self.prompt_lang_path)
         self.custom_facts = args.custom_facts
@@ -443,7 +456,6 @@ class ProbeIterator(object):
             else:
                 fact_path = self.entity_path.format(relation)
 
-            print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
@@ -454,7 +466,7 @@ class ProbeIterator(object):
 
         queries: List[Dict] = []
         num_skip = not_exist = num_multi_word = num_single_word = 0
-        with open(fact_path) as fin:
+        with open(fact_path, encoding='utf-8') as fin:
             for l in fin:
                 l = json.loads(l)
                 sub_exist = LANG in self.entity2lang[l['sub_uri']]
@@ -474,8 +486,10 @@ class ProbeIterator(object):
                     l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if exist else 'en']
                     l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if exist else 'en']
                 else:
-                    l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
-                    l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    try :
+                        l['sub_label'] = self.entity2lang[l['sub_uri']][LANG if sub_exist else 'en']
+                        l['obj_label'] = self.entity2lang[l['obj_uri']][LANG if obj_exist else 'en']
+                    except : continue
                 sub_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['sub_label'])
                 obj_label_t = tokenizer_wrap(self.tokenizer, LANG, False, l['obj_label'])
                 if self.unk in sub_label_t or self.unk in obj_label_t:
@@ -617,7 +631,7 @@ class ProbeIterator(object):
 
                     # get prompt
                     if self.args.prompts:
-                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r') as fin:
+                        with open(os.path.join(self.args.prompts, relation + '.jsonl'), 'r', encoding='utf-8') as fin:
                             prompts = [json.loads(l)['template'] for l in fin][:50]  # TODO: top 50
                     else:
                         prompts = [self.prompt_lang[self.prompt_lang['pid'] == relation][LANG].iloc[0]]
@@ -661,105 +675,106 @@ class ProbeIterator(object):
                             if self.args.sent:
                                 break
 
-
-                            new_out_tensors = [i for i in out_tensors[0]]
-                            out_tensors = new_out_tensors
-                            # print(out_tensors)
-                            new_logprob = [i for i in logprobs[0]]
-                            logprobs = new_logprob
-
                             # SHAPE: (batch_size, num_mask, seq_len)
                             mask_ind = mask_ind.float()
-                            logprob = torch.stack(logprobs, 1)
-                            out_tensor = torch.stack(out_tensors, 1)
+                            new_logprob = torch.stack(logprobs, 1)
+                            new_out_tensor = torch.stack(out_tensors, 1)
 
                             # mask len norm
                             mask_len = mask_ind.sum(-1)
                             mask_len_norm = 1.0 if self.args.no_len_norm else mask_len
 
-                            # find the best setting
-                            for i, avg_log in enumerate((logprob * mask_ind).sum(-1) / mask_len_norm):
-                                lp, best_num_mask = avg_log.max(0) #CHANGE THIS TO CHOOSE DIFFERENT PRED
-                                pred: np.ndarray = out_tensor[i, best_num_mask].masked_select(
-                                    mask_ind[i, 0].eq(1)).detach().cpu().numpy().reshape(-1)
-                                inp: np.ndarray = inp_tensor[i, 0].detach().cpu().numpy()
-                                # pred: np.ndarray = out_tensor[i, best_num_mask].masked_select(
-                                #     mask_ind[i, best_num_mask].eq(1)).detach().cpu().numpy().reshape(-1)
-                                # inp: np.ndarray = inp_tensor[i, best_num_mask].detach().cpu().numpy()
+                            pred_result: list = []
+                            log_result: list = []
 
-                                obj = obj_li[i]
-                                obj_ori = obj_ori_li[i]
+                            for out_tensor , logprob in zip(new_out_tensor,new_logprob):
+                                out_tensor = torch.reshape(out_tensor, (batch_size, NUM_MASK, len(out_tensor[0,0])))
+                                logprob = torch.reshape(logprob, (batch_size, NUM_MASK, len(logprob[0,0])))
 
-                                is_correct = int((len(pred) == len(obj)) and (pred == obj).all())
-                                is_correct_ori = int((len(pred) == len(obj_ori)) and (pred == obj_ori).all())
 
-                                len_acc.append(int((len(pred) == len(obj))))
-                                len_acc_ori.append(int((len(pred) == len(obj_ori))))
+                                # find the best setting
+                                for i, avg_log in enumerate((logprob * mask_ind).sum(-1) / mask_len_norm):
+                                    lp, best_num_mask = avg_log.max(0)
+                                    pred: np.ndarray = out_tensor[i, best_num_mask].masked_select(
+                                        mask_ind[i, best_num_mask].eq(1)).detach().cpu().numpy().reshape(-1)
+                                    inp: np.ndarray = inp_tensor[i, best_num_mask].detach().cpu().numpy()
 
-                                acc.append(is_correct)
-                                acc_ori.append(is_correct_ori)
+                                    obj = obj_li[i]
+                                    obj_ori = obj_ori_li[i]
 
-                                if is_correct:
-                                    correct_facts.add((query_batch[i]['sub_uri'], query_batch[i]['obj_uri']))
+                                    is_correct = int((len(pred) == len(obj)) and (pred == obj).all())
+                                    is_correct_ori = int((len(pred) == len(obj_ori)) and (pred == obj_ori).all())
 
-                                if False:
+                                    len_acc.append(int((len(pred) == len(obj))))
+                                    len_acc_ori.append(int((len(pred) == len(obj_ori))))
+
+                                    acc.append(is_correct)
+                                    acc_ori.append(is_correct_ori)
+
+                                    if is_correct:
+                                        correct_facts.add((query_batch[i]['sub_uri'], query_batch[i]['obj_uri']))
+
+                                    """
                                     print('===', tokenizer.convert_ids_to_tokens(obj), is_correct, '===')
                                     for j in range(NUM_MASK):
                                         print(tokenizer.convert_ids_to_tokens(inp_tensor[i, j].detach().cpu().numpy()))
                                         tpred = out_tensor[i, j].masked_select(mask_ind[i, j].eq(1)).detach().cpu().numpy().reshape(-1)
                                         print(tokenizer.convert_ids_to_tokens(tpred), avg_log[j])
                                     input()
+                                    """
 
-
-                                if self.args.log_dir:
-                                    csv_file.writerow([
-                                        load_word_ids(inp, self.tokenizer, self.pad_label),
-                                        load_word_ids(pred, self.tokenizer, self.pad_label),
-                                        load_word_ids(obj, self.tokenizer, self.pad_label), is_correct,
-                                        load_word_ids(obj_ori, self.tokenizer, self.pad_label), is_correct_ori,
-                                        '{:.5f}'.format(lp.item())])
+                                    if self.args.log_dir:
+                                        csv_file.writerow([
+                                            load_word_ids(inp, self.tokenizer, self.pad_label),
+                                            load_word_ids(pred, self.tokenizer, self.pad_label),
+                                            load_word_ids(obj, self.tokenizer, self.pad_label), is_correct,
+                                            load_word_ids(obj_ori, self.tokenizer, self.pad_label), is_correct_ori,
+                                            '{:.5f}'.format(lp.item())])
 
                                 def get_all_pred_score():
                                     results: List[str] = []
-                                    for nm in range(beam_size):
+                                    for nm in range(NUM_MASK):
                                         pred = logprob[i, nm].masked_select(
-                                            mask_ind[i, 0].eq(1)).detach().cpu().numpy().reshape(-1)
+                                            mask_ind[i, nm].eq(1)).detach().cpu().numpy().reshape(-1)
                                         results.append(pred.tolist())
                                     return results
 
                                 def get_all_pred():
                                     results: List[str] = []
-                                    for nm in range(beam_size):
+                                    for nm in range(NUM_MASK):
                                         pred = out_tensor[i, nm].masked_select(
-                                            mask_ind[i, 0].eq(1)).detach().cpu().numpy().reshape(-1)
+                                            mask_ind[i, nm].eq(1)).detach().cpu().numpy().reshape(-1)
                                         results.append(merge_subwords(pred, tokenizer, merge=False))
                                     return results
 
-                                if self.args.pred_dir:
-                                    json_file.write(str(LamaPredictions({
-                                        # raw data
-                                        'relation': relation,
-                                        'sub_uri': query_batch[i]['sub_uri'],
-                                        'obj_uri': query_batch[i]['obj_uri'],
-                                        'sub_label': query_batch[i]['sub_label'],
-                                        'obj_label': query_batch[i]['obj_label'],
-                                        'prompt': prompt,
-                                        # tokenized data
-                                        'num_mask': best_num_mask.item() + 1,
-                                        'sentence': merge_subwords(inp, tokenizer, merge=False),
-                                        'tokenized_obj_label_inflection': merge_subwords(obj, tokenizer, merge=False),
-                                        'tokenized_obj_label': merge_subwords(obj_ori, tokenizer, merge=False),
-                                        # predictions
-                                        'pred': get_all_pred(),
-                                        'pred_log_prob': get_all_pred_score(),
-                                    })) + '\n')
+                                pred_result.extend(get_all_pred())
+                                log_result.extend(get_all_pred_score())
 
-                                '''
-                                if len(pred) == len(obj):
-                                    print('pred {}\tgold {}'.format(
-                                        tokenizer.convert_ids_to_tokens(pred), tokenizer.convert_ids_to_tokens(obj)))
-                                    input()
-                                '''
+                            if self.args.pred_dir:
+                                json_file.write(str(LamaPredictions({
+                                    # raw data
+                                    'relation': relation,
+                                    'sub_uri': query_batch[i]['sub_uri'],
+                                    'obj_uri': query_batch[i]['obj_uri'],
+                                    'sub_label': query_batch[i]['sub_label'],
+                                    'obj_label': query_batch[i]['obj_label'],
+                                    'prompt': prompt,
+                                    # tokenized data
+                                    'num_mask': best_num_mask.item() + 1,
+                                    'sentence': merge_subwords(inp, tokenizer, merge=False),
+                                    'tokenized_obj_label_inflection': merge_subwords(obj, tokenizer, merge=False),
+                                    'tokenized_obj_label': merge_subwords(obj_ori, tokenizer, merge=False),
+                                    # predictions
+                                    'pred': pred_result,
+                                    'pred_log_prob': log_result,
+                                })) + '\n')
+
+                            '''
+                            if len(pred) == len(obj):
+                                print('pred {}\tgold {}'.format(
+                                    tokenizer.convert_ids_to_tokens(pred), tokenizer.convert_ids_to_tokens(obj)))
+                                input()
+                            '''
 
                         print('pid {}\tacc {:.4f}/{:.4f}\tlen_acc {:.4f}/{:.4f}\tprompt {}'.format(
                             relation, np.mean(acc), np.mean(acc_ori), np.mean(len_acc), np.mean(len_acc_ori), prompt))
@@ -1123,14 +1138,14 @@ if __name__ == '__main__':
     parser.add_argument('--iter_method', type=str, help='iteration method', default='none')
     parser.add_argument('--no_len_norm', action='store_true', help='not use length normalization')
     parser.add_argument('--reprob', action='store_true', help='recompute the prob finally')
-    parser.add_argument('--beam_size', type=int, help='beam search size', default=10)
+    parser.add_argument('--beam_size', type=int, help='beam search size', default=2)
 
     # others
     parser.add_argument('--use_gold', action='store_true', help='use gold objects')
     parser.add_argument('--dry_run', type=int, help='dry run the probe to show inflection results', default=None)
     parser.add_argument('--log_dir', type=str, help='directory to vis prediction results', default=None)
     parser.add_argument('--pred_dir', type=str, help='directory to store prediction results', default=None)
-    parser.add_argument('--batch_size', type=int, help='the real batch size is this times num_mask', default=20)
+    parser.add_argument('--batch_size', type=int, help='the real batch size is this times num_mask', default=1)
     parser.add_argument('--no_cuda', action='store_true', help='not use cuda')
     args = parser.parse_args()
 

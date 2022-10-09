@@ -156,7 +156,6 @@ class EvalContext(object):
         self.lang: str = args.lang
         self.gold_len: bool = args.gold_len
 
-
         for k, v in DATASET[args.probe].items():
             setattr(self, k, v)
         self.lm = LM_NAME[args.model] if args.model in LM_NAME else args.model
@@ -458,7 +457,6 @@ class ProbeIterator(object):
             else:
                 fact_path = self.entity_path.format(relation)
 
-            # print(fact_path)
             if not os.path.exists(fact_path):
                 continue
             yield pattern, fact_path
@@ -685,7 +683,10 @@ class ProbeIterator(object):
                             # mask len norm
                             mask_len = mask_ind.sum(-1)
                             mask_len_norm = 1.0 if self.args.no_len_norm else mask_len
-
+                            #
+                            # print(out_tensor)
+                            # print(out_tensor.shape)
+                            # sys.exit()
                             # find the best setting
                             for i, avg_log in enumerate((logprob * mask_ind).sum(-1) / mask_len_norm):
                                 lp, best_num_mask = avg_log.max(0)
@@ -982,12 +983,12 @@ def iter_decode_beam_search(model,
                 next_out_tensors.append(_out_tensor)
                 next_out_logprobs.append(_out_logprob)
 
-                '''
+                """
                 for i in range(bs):
                     print(tokenizer.convert_ids_to_tokens(inp_tensor[i].cpu().numpy()))
                     print(tokenizer.convert_ids_to_tokens(_out_tensor[i].cpu().numpy()))
                 input()
-                '''
+                """
 
         if stop:
             break

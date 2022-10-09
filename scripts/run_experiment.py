@@ -33,7 +33,7 @@ if __name__ == '__main__':
                                             "--custom_facts", "own_facts_"+plang+"/"+pid+".jsonl"],
                                             shell=use_shell)
 
-                if experiment.returncode != 0: raise RuntimeError("Experiment failed - Subprocess exit code 1")
+                if experiment.returncode != 0 : raise RuntimeError("Experiment failed - Subprocess exit code 1")
 
                 pid_num += 1
                 print(f"Prompt {pid} done, {pid_num} out of {len(pids)} prompts.")
