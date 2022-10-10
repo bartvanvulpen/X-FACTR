@@ -17,4 +17,4 @@ module load Anaconda3/2021.05
 source activate xfactr
 # Run your code
 echo 'START'
-python scripts/run_multi_experiment.py
+python scripts/run_experiment.py
