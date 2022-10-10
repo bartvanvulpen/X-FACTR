@@ -1,0 +1,340 @@
+START
+[dynet] random seed: 2512023656
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0000/0.0000	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 2.1
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 630678019
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0250/0.0250	prompt [X] plays [Y] .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 124,False	#singleword 76,False	oracle 0.0000	time 1.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 483270848
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.1000/0.1000	len_acc 0.2400/0.2400	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 200	#notrans 0	#notexist 0	#multiword 110,False	#singleword 90,False	oracle 0.1000	time 1.9
+acc per fact 20/200=0.1000	acc per relation 0.09999999999995	avg iter 1.0	num_max_mask 8
+[dynet] random seed: 489097140
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0000/0.0000	len_acc 0.1600/0.1600	prompt [X] is located in [Y] .
+pid P17	#fact 200	#notrans 0	#notexist 0	#multiword 196,False	#singleword 4,False	oracle 0.0000	time 1.8
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2503523280
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.0100/0.0100	prompt [X] is [Y] citizen .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 594,False	#singleword 6,False	oracle 0.0000	time 5.2
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 1
+[dynet] random seed: 1408339162
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0000/0.0000	len_acc 0.0657/0.0657	prompt [X] was originally aired on [Y] .
+pid P449	#fact 198	#notrans 0	#notexist 2	#multiword 188,False	#singleword 10,False	oracle 0.0000	time 1.9
+acc per fact 0/198=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 9
+[dynet] random seed: 1004131395
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.1414/0.1414	prompt [X] was created in [Y] .
+pid P495	#fact 198	#notrans 0	#notexist 2	#multiword 197,False	#singleword 1,False	oracle 0.0000	time 1.8
+acc per fact 0/198=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2331621930
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.3050/0.3050	prompt [X] plays with [Y] .
+pid P54	#fact 200	#notrans 0	#notexist 0	#multiword 189,False	#singleword 11,False	oracle 0.0000	time 1.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 35
+[dynet] random seed: 367631368
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0215/0.0215	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 186	#notrans 0	#notexist 0	#multiword 186,False	#singleword 0,False	oracle 0.0000	time 1.9
+acc per fact 0/186=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 16
+[dynet] random seed: 4001987469
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0863/0.0863	prompt [X] plays [Y] .
+pid P1303	#fact 197	#notrans 0	#notexist 0	#multiword 69,False	#singleword 128,False	oracle 0.0000	time 1.7
+acc per fact 0/197=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 3
+[dynet] random seed: 2726597237
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.2919/0.2919	len_acc 0.3784/0.3784	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 185	#notrans 0	#notexist 0	#multiword 52,False	#singleword 133,False	oracle 0.2919	time 2.0
+acc per fact 54/185=0.2919	acc per relation 0.29189189189173415	avg iter 1.0	num_max_mask 7
+[dynet] random seed: 3286236853
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0486/0.0486	len_acc 0.2000/0.2000	prompt [X] is located in [Y] .
+pid P17	#fact 185	#notrans 0	#notexist 0	#multiword 0,False	#singleword 185,False	oracle 0.0486	time 1.8
+acc per fact 9/185=0.0486	acc per relation 0.04864864864862235	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 4093341068
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.9845/0.9845	prompt [X] is [Y] citizen .
+pid P27	#fact 582	#notrans 0	#notexist 0	#multiword 1,False	#singleword 581,False	oracle 0.0000	time 5.1
+acc per fact 0/582=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2589679972
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0000/0.0000	len_acc 0.3654/0.3654	prompt [X] was originally aired on [Y] .
+pid P449	#fact 52	#notrans 0	#notexist 2	#multiword 35,False	#singleword 17,False	oracle 0.0000	time 0.6
+acc per fact 0/52=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3269857504
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.0000/0.0000	prompt [X] was created in [Y] .
+pid P495	#fact 52	#notrans 0	#notexist 2	#multiword 4,False	#singleword 48,False	oracle 0.0000	time 0.6
+acc per fact 0/52=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 804934284
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.1156/0.1156	prompt [X] plays with [Y] .
+pid P54	#fact 199	#notrans 0	#notexist 0	#multiword 194,False	#singleword 5,False	oracle 0.0000	time 1.8
+acc per fact 0/199=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 83
+[dynet] random seed: 3223910677
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0900/0.0900	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 2.2
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 30
+[dynet] random seed: 1204278130
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0750/0.0750	prompt [X] plays [Y] .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 109,False	#singleword 91,False	oracle 0.0000	time 1.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1441368165
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.0419/0.0419	len_acc 0.2670/0.2670	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 191	#notrans 0	#notexist 1	#multiword 92,False	#singleword 99,False	oracle 0.0419	time 2.0
+acc per fact 8/191=0.0419	acc per relation 0.04188481675390478	avg iter 1.0	num_max_mask 4
+[dynet] random seed: 639236166
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0000/0.0000	len_acc 0.0412/0.0412	prompt [X] is located in [Y] .
+pid P17	#fact 194	#notrans 0	#notexist 1	#multiword 6,False	#singleword 188,False	oracle 0.0000	time 1.8
+acc per fact 0/194=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2128599520
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.0100/0.0100	prompt [X] is [Y] citizen .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 593,False	#singleword 7,False	oracle 0.0000	time 5.3
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2268703466
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0000/0.0000	len_acc 0.1538/0.1538	prompt [X] was originally aired on [Y] .
+pid P449	#fact 91	#notrans 0	#notexist 1	#multiword 79,False	#singleword 12,False	oracle 0.0000	time 0.9
+acc per fact 0/91=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 13
+[dynet] random seed: 3063195278
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.0761/0.0761	prompt [X] was created in [Y] .
+pid P495	#fact 92	#notrans 0	#notexist 1	#multiword 1,False	#singleword 91,False	oracle 0.0000	time 0.9
+acc per fact 0/92=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3348753424
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.1900/0.1900	prompt [X] plays with [Y] .
+pid P54	#fact 200	#notrans 0	#notexist 0	#multiword 186,False	#singleword 14,False	oracle 0.0000	time 1.8
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 16
+[dynet] random seed: 2072399039
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0000/0.0000	prompt [X] tagja a [Y] politikai pártnak .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 4.4
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2370816039
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.1900/0.1900	prompt [X] [Y.ON+ESS] játszik .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 162,False	#singleword 38,False	oracle 0.0000	time 3.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 441471810
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.0000/0.0000	len_acc 0.4141/0.4141	prompt [X] központja [Y.IN+ESS] található .
+pid P159	#fact 198	#notrans 0	#notexist 2	#multiword 105,False	#singleword 93,False	oracle 0.0000	time 3.9
+acc per fact 0/198=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 4144088510
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0000/0.0000	len_acc 0.1100/0.1100	prompt [X] [Y.IN+ESS] található .
+pid P17	#fact 200	#notrans 0	#notexist 0	#multiword 197,False	#singleword 3,False	oracle 0.0000	time 3.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 4182840080
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.3283/0.3283	prompt [X] egy [Y] állampolgár .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 599,False	#singleword 1,False	oracle 0.0000	time 11.9
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1278958427
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0000/0.0000	len_acc 0.0609/0.0609	prompt [X] eredetileg [Y.ON+ESS] sugározták .
+pid P449	#fact 197	#notrans 0	#notexist 3	#multiword 187,False	#singleword 10,False	oracle 0.0000	time 4.3
+acc per fact 0/197=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 932814651
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+could not find: /home/lcur0519/unimorph_inflect_resources/hun
+Would you like to download the models for: hun now? (Y/n)
+Traceback (most recent call last):
+  File "scripts/probe.py", line 648, in iter
+    (obj_li, obj_ori_li)) in tqdm(enumerate(self.batcher(queries, prompt)), disable=True):
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/tqdm/std.py", line 1183, in __iter__
+    for obj in iterable:
+  File "scripts/probe.py", line 533, in batcher
+    prompt, query['sub_uri'], query['sub_label'])
+  File "/home/lcur0519/X-FACTR/scripts/prompt.py", line 1499, in fill_x
+    label = cache_inflect(label, f"N;ACC;{ent_number}", language='hun')[0]
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 594, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 537, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 779, in call
+    output = self.func(*args, **kwargs)
+  File "/home/lcur0519/X-FACTR/scripts/prompt.py", line 44, in cache_inflect
+    return inflect(*args, **kwargs)
+  File "/home/lcur0519/unimorph_inflect/src/inflection.py", line 445, in inflect
+    download(language, resource_dir=models_dir, force=force_download)
+  File "/home/lcur0519/unimorph_inflect/utils/resources.py", line 94, in download
+    version=version)
+  File "/home/lcur0519/unimorph_inflect/utils/resources.py", line 38, in download_dynet_model
+    should_download = 'y' if force else input()
+EOFError: EOF when reading a line
+bug for pid P495
+EOF when reading a line
+Traceback (most recent call last):
+  File "scripts/probe.py", line 1167, in <module>
+    probe_iter.iter(pids=set(args.pids.strip().split(',')) if args.pids is not None else None)
+  File "scripts/probe.py", line 790, in iter
+    raise e
+  File "scripts/probe.py", line 648, in iter
+    (obj_li, obj_ori_li)) in tqdm(enumerate(self.batcher(queries, prompt)), disable=True):
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/tqdm/std.py", line 1183, in __iter__
+    for obj in iterable:
+  File "scripts/probe.py", line 533, in batcher
+    prompt, query['sub_uri'], query['sub_label'])
+  File "/home/lcur0519/X-FACTR/scripts/prompt.py", line 1499, in fill_x
+    label = cache_inflect(label, f"N;ACC;{ent_number}", language='hun')[0]
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 594, in __call__
+    return self._cached_call(args, kwargs)[0]
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 537, in _cached_call
+    out, metadata = self.call(*args, **kwargs)
+  File "/home/lcur0519/.conda/envs/xfactr/lib/python3.7/site-packages/joblib/memory.py", line 779, in call
+    output = self.func(*args, **kwargs)
+  File "/home/lcur0519/X-FACTR/scripts/prompt.py", line 44, in cache_inflect
+    return inflect(*args, **kwargs)
+  File "/home/lcur0519/unimorph_inflect/src/inflection.py", line 445, in inflect
+    download(language, resource_dir=models_dir, force=force_download)
+  File "/home/lcur0519/unimorph_inflect/utils/resources.py", line 94, in download
+    version=version)
+  File "/home/lcur0519/unimorph_inflect/utils/resources.py", line 38, in download_dynet_model
+    should_download = 'y' if force else input()
+EOFError: EOF when reading a line
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+Prompt language en done.
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+Prompt language hu done.
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+Prompt language nl done.
+Model language en done.
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Traceback (most recent call last):
+  File "scripts/run_experiment.py", line 36, in <module>
+    if experiment.returncode != 0: raise RuntimeError("Experiment failed - Subprocess exit code 1")
+RuntimeError: Experiment failed - Subprocess exit code 1

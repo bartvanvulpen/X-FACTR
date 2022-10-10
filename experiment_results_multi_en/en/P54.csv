@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Vedad:2 Ibišević:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-1.90284
+[CLS] Vedad:2 Ibišević:4 plays with [MASK] . [SEP],handball,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-2.80522
+[CLS] Oguchi:2 Onyewu:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,R . A . A . Louviéroise:4,0,R . A . A . Louviéroise:4,0,-1.09300
+[CLS] Oguchi:2 Onyewu:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the to , , in in in club",R . A . A . Louviéroise:4,0,R . A . A . Louviéroise:4,0,-3.10158
+[CLS] Michael Bradley plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-0.99378
+[CLS] Michael Bradley plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.35589
+[CLS] Foluke:3 Akinradewo:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-1.66832
+[CLS] Foluke:3 Akinradewo:4 plays with [MASK] . [SEP],basketball,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-3.07120
+[CLS] Brian McBride:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.20533
+[CLS] Brian McBride:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of in the thes:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.19292
+[CLS] Brad Huff:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-1.08483
+[CLS] Brad Huff:2 plays with [MASK] [MASK] [MASK] . [SEP],Brad .s:2,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.19654
+[CLS] Scott Zwizanski:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-1.58832
+[CLS] Scott Zwizanski:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the to,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-2.95089
+[CLS] Kasey:2 Keller plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-1.38605
+[CLS] Kasey:2 Keller plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.24956
+[CLS] Claudio Reyna:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.16755
+[CLS] Claudio Reyna:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the to,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.98470
+[CLS] Adrian Griffin plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Milwaukee Bucks,0,Milwaukee Bucks,0,-1.07058
+[CLS] Adrian Griffin plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in as thes:2,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.12146
+[CLS] Bjørn Selander:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-1.18097
+[CLS] Bjørn Selander:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the to,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-3.21408
+[CLS] Ken Hanson plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-0.82854
+[CLS] Ken Hanson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.19664
+[CLS] Alfredo Morales plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-1.06857
+[CLS] Alfredo Morales plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the the,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-3.06907
+[CLS] Fabian Johnson plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-0.84686
+[CLS] Fabian Johnson plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the a,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.35350
+[CLS] Desmond Penigar:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Al - Hilal:2 SFC:2,0,Al - Hilal:2 SFC:2,0,-1.22578
+[CLS] Desmond Penigar:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is in in in in in in the is,Al - Hilal:2 SFC:2,0,Al - Hilal:2 SFC:2,0,-3.21486
+[CLS] Terrence:2 Boyd plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,SK Rapid Wien,0,SK Rapid Wien,0,-1.48842
+[CLS] Terrence:2 Boyd plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in as thes:2,SK Rapid Wien,0,SK Rapid Wien,0,-3.28881
+[CLS] Ansu:2 Sesay:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Greenville:2 Groove,0,Greenville:2 Groove,0,-1.33330
+[CLS] Ansu:2 Sesay:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in in in in in in in in in,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.06917
+[CLS] Mario Elie:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-0.98364
+[CLS] Mario Elie:2 plays with [MASK] [MASK] [MASK] . [SEP],the Elio:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-3.04732
+[CLS] Bryan Arguez:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-1.29438
+[CLS] Bryan Arguez:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the player,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-3.21306
+[CLS] Baye:2 Djiby:3 Fall plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,FC Lokomotiv:2 Moscow,0,FC Lokomotiv:2 Moscow,0,-1.37995
+[CLS] Baye:2 Djiby:3 Fall plays with [MASK] . [SEP],basketball,FC Lokomotiv:2 Moscow,0,FC Lokomotiv:2 Moscow,0,-3.25254
+[CLS] Chad Deering:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.11973
+[CLS] Chad Deering:2 plays with [MASK] [MASK] [MASK] . [SEP],Chad Deering:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.38074
+[CLS] Mike Friedman plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-0.99423
+[CLS] Mike Friedman plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the is,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-3.11904
+[CLS] Reggie Freeman plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-0.80737
+[CLS] Reggie Freeman plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of as thes:2,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-3.09129
+[CLS] Benjamin King plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-0.84164
+[CLS] Benjamin King plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-3.25926
+[CLS] John Brooks plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-0.85223
+[CLS] John Brooks plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of B,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.23027
+[CLS] Kamani:2 Hill plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.17530
+[CLS] Kamani:2 Hill plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in in in in in the in,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.37945
+[CLS] Joey Rosskopf:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,CCC:2 Team,0,CCC:2 Team,0,-1.15438
+[CLS] Joey Rosskopf:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the to,CCC:2 Team,0,CCC:2 Team,0,-3.15709
+[CLS] John Murphy plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,CCC:2 Team,0,CCC:2 Team,0,-0.94477
+[CLS] John Murphy plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is is is is is is is is,CCC:2 Team,0,CCC:2 Team,0,-3.07459
+[CLS] Mahmoud:3 Abdul - Rauf:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,Fenerbahçe Men ' s Basketball,0,Fenerbahçe Men ' s Basketball,0,-2.21350
+[CLS] Mahmoud:3 Abdul - Rauf:2 plays with [MASK] . [SEP],handball,Fenerbahçe Men ' s Basketball,0,Fenerbahçe Men ' s Basketball,0,-2.96829
+[CLS] Danny Pate:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Saeco:2,0,Saeco:2,0,-1.15776
+[CLS] Danny Pate:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the in in in the the the is,Saeco:2,0,Saeco:2,0,-3.37586
+[CLS] Luis Flores plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Golden State Warriors,0,Golden State Warriors,0,-1.18921
+[CLS] Luis Flores plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the to,Golden State Warriors,0,Golden State Warriors,0,-3.03664
+[CLS] Desmond Armstrong plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Maryland Bays:2,0,Maryland Bays:2,0,-0.99410
+[CLS] Desmond Armstrong plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Maryland Bays:2,0,Maryland Bays:2,0,-2.89883
+[CLS] Julian Kyer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-1.16886
+[CLS] Julian Kyer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the is,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-3.26936
+[CLS] John O ' Brien plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-1.14772
+[CLS] John O ' Brien plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in in thes:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.23129
+[CLS] Eric Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-0.87411
+[CLS] Eric Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.11993
+[CLS] Jovan:2 Kirovski:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Borussia Dortmund,0,Borussia Dortmund,0,-1.51417
+[CLS] Jovan:2 Kirovski:3 plays with [MASK] . [SEP],basketball,Borussia Dortmund,0,Borussia Dortmund,0,-2.96641
+[CLS] Michael Creed plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Discovery Channel,0,Discovery Channel,0,-1.06534
+[CLS] Michael Creed plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the is,Discovery Channel,0,Discovery Channel,0,-3.18253
+[CLS] Gale Agbossoumonde:5 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Djurgårdens:4 IF Fotboll:3,0,Djurgårdens:4 IF Fotboll:3,0,-1.40755
+[CLS] Gale Agbossoumonde:5 plays with [MASK] . [SEP],basketball,Djurgårdens:4 IF Fotboll:3,0,Djurgårdens:4 IF Fotboll:3,0,-3.25871
+[CLS] Evan Huffman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Astana Qazaqstan:4 Team,0,Astana Qazaqstan:4 Team,0,-1.18274
+[CLS] Evan Huffman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , as the D",Astana Qazaqstan:4 Team,0,Astana Qazaqstan:4 Team,0,-3.17302
+[CLS] Brandon Armstrong plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-0.96937
+[CLS] Brandon Armstrong plays with [MASK] . [SEP],baseball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.91586
+[CLS] Frank Williams plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Club Atlético Pilar,0,Club Atlético Pilar,0,-0.99339
+[CLS] Frank Williams plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is the the the the is the the is,Club Atlético Pilar,0,Club Atlético Pilar,0,-3.04050
+[CLS] Eric Riley plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-0.80631
+[CLS] Eric Riley plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-3.10818
+[CLS] Jesse Anthony plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Team Novo Nordisk,0,Team Novo Nordisk,0,-0.84298
+[CLS] Jesse Anthony plays with [MASK] [MASK] . [SEP],Jesses:2,Team Novo Nordisk,0,Team Novo Nordisk,0,-3.30127
+[CLS] Justin Spinelli:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,TVM:2,0,TVM:2,0,-0.86434
+[CLS] Justin Spinelli:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , as the D",TVM:2,0,TVM:2,0,-3.17279
+[CLS] Matthew Busche:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-0.98594
+[CLS] Matthew Busche:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of in thes:2,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.29695
+[CLS] Matt Luzunaris:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,SK Rapid Wien,0,SK Rapid Wien,0,-1.29437
+[CLS] Matt Luzunaris:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. to of in the thes:2,SK Rapid Wien,0,SK Rapid Wien,0,-3.10751
+[CLS] Mike Lapper:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.32449
+[CLS] Mike Lapper:2 plays with [MASK] [MASK] [MASK] . [SEP],Mike .s:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.07672
+[CLS] Nathan Brown plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-0.80458
+[CLS] Nathan Brown plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-3.28351
+[CLS] Eddy Hamel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,AFC Ajax,0,AFC Ajax,0,-1.17434
+[CLS] Eddy Hamel:2 plays with [MASK] [MASK] . [SEP],Hams:2,AFC Ajax,0,AFC Ajax,0,-3.26184
+[CLS] Tyler Magner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-1.00967
+[CLS] Tyler Magner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , as thes:2",Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-2.95378
+[CLS] Alex Candelario:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wildlife Generation Pro Cycling,0,Wildlife Generation Pro Cycling,0,-1.30909
+[CLS] Alex Candelario:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a . .o:2,Wildlife Generation Pro Cycling,0,Wildlife Generation Pro Cycling,0,-3.37289
+[CLS] Lydia Vandenbergh:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Central SC Cobras:2,0,Central SC Cobras:2,0,-1.18160
+[CLS] Lydia Vandenbergh:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of of , the ofh:2",Central SC Cobras:2,0,Central SC Cobras:2,0,-3.21137
+[CLS] Chad Haga:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Team DSM,0,Team DSM,0,-1.23984
+[CLS] Chad Haga:2 plays with [MASK] [MASK] . [SEP],Haa:2,Team DSM,0,Team DSM,0,-3.28078
+[CLS] Tiffany Weimer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Santos F . C .,0,Santos F . C .,0,-1.27116
+[CLS] Tiffany Weimer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],".nnn:4 in in , , ,n:2",Santos F . C .,0,Santos F . C .,0,-3.46166
+[CLS] Gavin Mannion:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wildlife Generation Pro Cycling,0,Wildlife Generation Pro Cycling,0,-1.02597
+[CLS] Gavin Mannion:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is on in in in on the is is,Wildlife Generation Pro Cycling,0,Wildlife Generation Pro Cycling,0,-3.44662
+[CLS] Jeremiah:3 White plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Panserraikos:4 F . C .,0,Panserraikos:4 F . C .,0,-1.26969
+[CLS] Jeremiah:3 White plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in in in in in the theth:2,Panserraikos:4 F . C .,0,Panserraikos:4 F . C .,0,-3.37322
+[CLS] Mike Hercus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Sale Sharks,0,Sale Sharks,0,-1.01060
+[CLS] Mike Hercus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , as thes:2",Sale Sharks,0,Sale Sharks,0,-3.31548
+[CLS] Paul Emerick:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Dragons,0,Dragons,0,-1.18550
+[CLS] Paul Emerick:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of in thes:2,Dragons,0,Dragons,0,-3.27463
+[CLS] Aaron Swinson:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-1.10914
+[CLS] Aaron Swinson:3 plays with [MASK] [MASK] [MASK] . [SEP],"S ,son:2",CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-3.18818
+[CLS] Ben Davis plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Idaho Stampede:3,0,Idaho Stampede:3,0,-1.04751
+[CLS] Ben Davis plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of as the D,Idaho Stampede:3,0,Idaho Stampede:3,0,-3.30222
+[CLS] Billy Keys plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-0.90557
+[CLS] Billy Keys plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of of .,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-3.32143
+[CLS] Rodney Monroe plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-0.70046
+[CLS] Rodney Monroe plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , as the D",Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-3.25928
+[CLS] Roscoe:2 Pondexter:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-1.40706
+[CLS] Roscoe:2 Pondexter:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of in the ofs:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.10955
+[CLS] Sylvester Norris plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-0.89737
+[CLS] Sylvester Norris plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is the is is is is is the is,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.33498
+[CLS] Alex Ely:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-1.14414
+[CLS] Alex Ely:2 plays with [MASK] [MASK] [MASK] . [SEP],Alex Ely:2,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-3.06731
+[CLS] D . J . Countess plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Provincial Osorno:2,0,Provincial Osorno:2,0,-1.03909
+[CLS] D . J . Countess plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of in of of of of of of,Provincial Osorno:2,0,Provincial Osorno:2,0,-3.28121
+[CLS] Danny Barrera:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Sacramento Republic FC,0,Sacramento Republic FC,0,-1.09688
+[CLS] Danny Barrera:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the to,Sacramento Republic FC,0,Sacramento Republic FC,0,-3.23951
+[CLS] David Quesada:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . .,LA Galaxy,0,LA Galaxy,0,-1.47367
+[CLS] David Quesada:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the theo:2,LA Galaxy,0,LA Galaxy,0,-3.05700
+[CLS] Ivan Mršić:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,FK Pelister:2,0,FK Pelister:2,0,-1.19255
+[CLS] Ivan Mršić:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the a,FK Pelister:2,0,FK Pelister:2,0,-3.12425
+[CLS] Korab:2 Syla:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,FK Kukësi:3,0,FK Kukësi:3,0,-1.29499
+[CLS] Korab:2 Syla:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the a,FK Kukësi:3,0,FK Kukësi:3,0,-3.15782
+[CLS] Ladule:3 Lako:2 LoSarah:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-1.64149
+[CLS] Ladule:3 Lako:2 LoSarah:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of of , in the ,h:2",FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-3.28227
+[CLS] Matt Okoh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,New England Revolution,0,New England Revolution,0,-1.31673
+[CLS] Matt Okoh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in as thes:2,New England Revolution,0,New England Revolution,0,-2.96997
+[CLS] Nigel Henry plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,CF Montréal,0,CF Montréal,0,-0.69704
+[CLS] Nigel Henry plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofs:2,CF Montréal,0,CF Montréal,0,-3.14413
+[CLS] Phillip Gaimon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-1.15205
+[CLS] Phillip Gaimon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of as thes:2,EF Education - Nippo:2,0,EF Education - Nippo:2,0,-3.34821
+[CLS] Windsor del Llano plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Botafogo F . R .,0,Botafogo F . R .,0,-1.14841
+[CLS] Windsor del Llano plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,Botafogo F . R .,0,Botafogo F . R .,0,-3.40678
+[CLS] Nancy Augustyniak:3 Goffi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-1.43068
+[CLS] Nancy Augustyniak:3 Goffi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , in the thes:2",VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-3.28208
+[CLS] Kenneth Kronholm:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-1.16121
+[CLS] Kenneth Kronholm:3 plays with [MASK] [MASK] [MASK] . [SEP],Kr .s:2,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-2.96739
+[CLS] Carter Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Team DSM,0,Team DSM,0,-1.09110
+[CLS] Carter Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is is is is is is is is,Team DSM,0,Team DSM,0,-3.08877
+[CLS] Garrett Muagututia:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Sporting CP,0,Sporting CP,0,-1.03199
+[CLS] Garrett Muagututia:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of in the thea:2,Sporting CP,0,Sporting CP,0,-3.34416
+[CLS] Karel Blits:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,AFC Ajax,0,AFC Ajax,0,-1.36820
+[CLS] Karel Blits:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,AFC Ajax,0,AFC Ajax,0,-3.45174
+[CLS] Tyrone Curnell:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Sociedade Esportiva:2 Palmeiras,0,Sociedade Esportiva:2 Palmeiras,0,-1.41307
+[CLS] Tyrone Curnell:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in in thes:2,Sociedade Esportiva:2 Palmeiras,0,Sociedade Esportiva:2 Palmeiras,0,-3.20499
+[CLS] Natalie Hagglund:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Volero:2 Zürich,0,Volero:2 Zürich,0,-1.18087
+[CLS] Natalie Hagglund:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. to of in the theh:2,Volero:2 Zürich,0,Volero:2 Zürich,0,-3.48959
+[CLS] Bruno Bonicontro:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Ipatinga:3 Futebol Clube,0,Ipatinga:3 Futebol Clube,0,-1.35380
+[CLS] Bruno Bonicontro:4 plays with [MASK] . [SEP],baseball,Ipatinga:3 Futebol Clube,0,Ipatinga:3 Futebol Clube,0,-3.22677
+[CLS] Robin Carpenter plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-0.95284
+[CLS] Robin Carpenter plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . thes:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.30722
+[CLS] Kyle Murphy plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Lupus:2 Racing,0,Lupus:2 Racing,0,-1.04107
+[CLS] Kyle Murphy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Lupus:2 Racing,0,Lupus:2 Racing,0,-3.09701
+[CLS] Keegan:2 Swirbul:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-1.91368
+[CLS] Keegan:2 Swirbul:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on on on in in in in on on in,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-2.98044
+[CLS] Stephen Bassett:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Jamis:2,0,Jamis:2,0,-1.33999
+[CLS] Stephen Bassett:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is in in in is is is is,Jamis:2,0,Jamis:2,0,-3.35872
+[CLS] Colin Joyce plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-0.80724
+[CLS] Colin Joyce plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of a,Hagens:2 Berman:2 Axeon:3,0,Hagens:2 Berman:2 Axeon:3,0,-3.12795
+[CLS] Emerson Oronte:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-1.11493
+[CLS] Emerson Oronte:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the in in in the the the to,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.27920
+[CLS] Brandon McNulty:5 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-1.12643
+[CLS] Brandon McNulty:5 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . . the ,s:2",Human Powered:2 Health,0,Human Powered:2 Health,0,-2.93247
+[CLS] Antwaine:3 Wiggins:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Sociedade Esportiva:2 Palmeiras,0,Sociedade Esportiva:2 Palmeiras,0,-1.19737
+[CLS] Antwaine:3 Wiggins:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of in the thes:2,Sociedade Esportiva:2 Palmeiras,0,Sociedade Esportiva:2 Palmeiras,0,-3.32952
+[CLS] Sepp:2 Kuss:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-1.10665
+[CLS] Sepp:2 Kuss:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of . ,s:2",Human Powered:2 Health,0,Human Powered:2 Health,0,-3.56930
+[CLS] Hannah Keane plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,S . C . Braga,0,S . C . Braga,0,-1.10079
+[CLS] Hannah Keane plays with [MASK] [MASK] . [SEP],Hannahs:2,S . C . Braga,0,S . C . Braga,0,-3.39349
+[CLS] Graham Smith plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Reading United A . C .,0,Reading United A . C .,0,-1.02842
+[CLS] Graham Smith plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,Reading United A . C .,0,Reading United A . C .,0,-3.27047
+[CLS] Gage:2 Hecht:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Aevolo:3,0,Aevolo:3,0,-1.41343
+[CLS] Gage:2 Hecht:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Ga of Hes:2,Aevolo:3,0,Aevolo:3,0,-3.42455
+[CLS] Sergiño:3 Dest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Jong Ajax,0,Jong Ajax,0,-1.27626
+[CLS] Sergiño:3 Dest:2 plays with [MASK] [MASK] . [SEP],Dess:2,Jong Ajax,0,Jong Ajax,0,-3.25886
+[CLS] Riley Sheehan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Aevolo:3,0,Aevolo:3,0,-1.30114
+[CLS] Riley Sheehan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Aevolo:3,0,Aevolo:3,0,-3.17990
+[CLS] Tyler Stites:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Aevolo:3,0,Aevolo:3,0,-0.94577
+[CLS] Tyler Stites:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , as the D",Aevolo:3,0,Aevolo:3,0,-3.26033
+[CLS] Magnus Sheffield plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Human Powered:2 Health,0,Human Powered:2 Health,0,-1.00974
+[CLS] Magnus Sheffield plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the club in in the club,Human Powered:2 Health,0,Human Powered:2 Health,0,-3.44337
+[CLS] Johnny Cardoso plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,S . C . Internacional,0,S . C . Internacional,0,-1.16313
+[CLS] Johnny Cardoso plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the is,S . C . Internacional,0,S . C . Internacional,0,-2.91665
+[CLS] Tony Woodcock:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Arsenal F . C .,0,Arsenal F . C .,0,-0.84395
+[CLS] Tony Woodcock:2 plays with [MASK] [MASK] [MASK] . [SEP],Tony .s:2,Arsenal F . C .,0,Arsenal F . C .,0,-3.08921
+[CLS] Shaun Wright - Phillips plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Queens Park Rangers F . C .,0,Queens Park Rangers F . C .,0,-1.16277
+[CLS] Shaun Wright - Phillips plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in as thes:2,Queens Park Rangers F . C .,0,Queens Park Rangers F . C .,0,-2.91140
+[CLS] Harry Welfare plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-0.60364
+[CLS] Harry Welfare plays with [MASK] . [SEP],cricket,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-3.34687
+[CLS] Susie:2 Wolff plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-1.37041
+[CLS] Susie:2 Wolff plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the to,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-3.17559
+[CLS] Mark Fotheringham:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Dundee F . C .,0,Dundee F . C .,0,-1.20400
+[CLS] Mark Fotheringham:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in in thes:2,Dundee F . C .,0,Dundee F . C .,0,-3.15222
+[CLS] Kevin Kerr plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Pittsburgh Riverhounds:3 SC,0,Pittsburgh Riverhounds:3 SC,0,-0.98339
+[CLS] Kevin Kerr plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in in thes:2,Pittsburgh Riverhounds:3 SC,0,Pittsburgh Riverhounds:3 SC,0,-3.17844
+[CLS] Gareth Cooper plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.18262
+[CLS] Gareth Cooper plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the a,Wales national rugby union team,0,Wales national rugby union team,0,-3.37995
+[CLS] Luke Charteris:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,USA Perpignan:3,0,USA Perpignan:3,0,-1.13749
+[CLS] Luke Charteris:2 plays with [MASK] [MASK] [MASK] . [SEP],"Luke ,is:2",USA Perpignan:3,0,USA Perpignan:3,0,-3.09329
+[CLS] Andy Powell plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Barbarians:3,0,Barbarians:3,0,-0.98702
+[CLS] Andy Powell plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Barbarians:3,0,Barbarians:3,0,-3.36942
+[CLS] Darren Mackie:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Inverness:3 Caledonian:2 Thistle:2 F . C .,0,Inverness:3 Caledonian:2 Thistle:2 F . C .,0,-1.29161
+[CLS] Darren Mackie:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in as thes:2,Inverness:3 Caledonian:2 Thistle:2 F . C .,0,Inverness:3 Caledonian:2 Thistle:2 F . C .,0,-3.22993
+[CLS] Lloyd Burns plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.84532
+[CLS] Lloyd Burns plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Wales national rugby union team,0,Wales national rugby union team,0,-3.10684
+[CLS] Ian Gough:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.28830
+[CLS] Ian Gough:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the theth:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.29098
+[CLS] Brian O ' Neil plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-1.10693
+[CLS] Brian O ' Neil plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in as thes:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.15639
+[CLS] Colin Charvis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.25727
+[CLS] Colin Charvis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in in thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.16818
+[CLS] Gareth Wyatt plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.22643
+[CLS] Gareth Wyatt plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in as thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.16585
+[CLS] Michael Owen plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.13807
+[CLS] Michael Owen plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the to to to to to to to to to,Wales national rugby union team,0,Wales national rugby union team,0,-3.15769
+[CLS] Colin Bell plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Leicester City F . C .,0,Leicester City F . C .,0,-1.01427
+[CLS] Colin Bell plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of .s:2,Leicester City F . C .,0,Leicester City F . C .,0,-3.12920
+[CLS] Dan Lydiate:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.94503
+[CLS] Dan Lydiate:2 plays with [MASK] [MASK] [MASK] . [SEP],the Lydiae:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.21784
+[CLS] Jim Blair plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Hibernian:3 F . C .,0,Hibernian:3 F . C .,0,-1.10732
+[CLS] Jim Blair plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Hibernian:3 F . C .,0,Hibernian:3 F . C .,0,-3.26454
+[CLS] Lee Byrne plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.14021
+[CLS] Lee Byrne plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in as theth:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.33062
+[CLS] Eric Dier:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Sporting CP B,0,Sporting CP B,0,-1.30288
+[CLS] Eric Dier:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of thes:2,Sporting CP B,0,Sporting CP B,0,-3.27029
+[CLS] Mark Farrington:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Willem II,0,Willem II,0,-1.06146
+[CLS] Mark Farrington:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in in a C",Willem II,0,Willem II,0,-3.35934
+[CLS] Ray Clarke plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,AFC Ajax,0,AFC Ajax,0,-1.08349
+[CLS] Ray Clarke plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the is,AFC Ajax,0,AFC Ajax,0,-3.27838
+[CLS] Sidney Pullen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Clube de Regatas:2 do Flamengo,0,Clube de Regatas:2 do Flamengo,0,-1.32458
+[CLS] Sidney Pullen:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Clube de Regatas:2 do Flamengo,0,Clube de Regatas:2 do Flamengo,0,-2.93553
+[CLS] Robin Sowden:3 - Taylor plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.16989
+[CLS] Robin Sowden:3 - Taylor plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . . the ,s:2",Wales national rugby union team,0,Wales national rugby union team,0,-3.11283
+[CLS] Rob McDonald plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Willem II,0,Willem II,0,-1.08298
+[CLS] Rob McDonald plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in thes:2,Willem II,0,Willem II,0,-3.25598
+[CLS] Aled:2 Brew:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.15921
+[CLS] Aled:2 Brew:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,s:2",Wales national rugby union team,0,Wales national rugby union team,0,-3.57859
+[CLS] Alix:2 Popham:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.41529
+[CLS] Alix:2 Popham:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the on in in in in in in the is,Wales national rugby union team,0,Wales national rugby union team,0,-3.26325
+[CLS] Andy Williams plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Cardiff RFC,0,Cardiff RFC,0,-1.15039
+[CLS] Andy Williams plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Cardiff RFC,0,Cardiff RFC,0,-3.06371
+[CLS] Ashley Smith plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.93855
+[CLS] Ashley Smith plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of the D,Dragons,0,Dragons,0,-3.26687
+[CLS] Ceri:2 Sweeney plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.06410
+[CLS] Ceri:2 Sweeney plays with [MASK] [MASK] [MASK] . [SEP],"Ce ,s:2",Wales national rugby union team,0,Wales national rugby union team,0,-3.41183
+[CLS] Chris Anthony plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Barbarians:3,0,Barbarians:3,0,-0.91796
+[CLS] Chris Anthony plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of the D,Barbarians:3,0,Barbarians:3,0,-3.23388
+[CLS] Daniel Evans plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.05205
+[CLS] Daniel Evans plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.14648
+[CLS] Dave Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Leicester Tigers,0,Leicester Tigers,0,-0.96913
+[CLS] Dave Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the is,Leicester Tigers,0,Leicester Tigers,0,-3.23965
+[CLS] Gavin Thomas plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.85896
+[CLS] Gavin Thomas plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the is,Wales national rugby union team,0,Wales national rugby union team,0,-3.36852
+[CLS] Jamie Corsi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Scarlets:2,0,Scarlets:2,0,-1.09873
+[CLS] Jamie Corsi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in in thes:2,Scarlets:2,0,Scarlets:2,0,-3.19475
+[CLS] Kevin Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.93957
+[CLS] Kevin Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in as thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.20784
+[CLS] Lee Jarvis:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.40398
+[CLS] Lee Jarvis:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of as thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.29642
+[CLS] Matthew Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.07938
+[CLS] Matthew Jones plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of . .,Wales national rugby union team,0,Wales national rugby union team,0,-3.23148
+[CLS] Matthew Watkins plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.00470
+[CLS] Matthew Watkins plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Wales national rugby union team,0,Wales national rugby union team,0,-2.93764
+[CLS] Richard Parks plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.86510
+[CLS] Richard Parks plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of as thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.28471
+[CLS] Robert Sidoli:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.42370
+[CLS] Robert Sidoli:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the in in in the the the is,Wales national rugby union team,0,Wales national rugby union team,0,-3.24932
+[CLS] Ross Beattie:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Scotland national rugby union team,0,Scotland national rugby union team,0,-1.48999
+[CLS] Ross Beattie:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the in in in in the the is,Scotland national rugby union team,0,Scotland national rugby union team,0,-3.29253
+[CLS] Scott Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.05300
+[CLS] Scott Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the is,Wales national rugby union team,0,Wales national rugby union team,0,-3.24279
+[CLS] Steve Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.06299
+[CLS] Steve Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is is is is is is is is,Wales national rugby union team,0,Wales national rugby union team,0,-3.10585
+[CLS] T . Rhys Thomas plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.65202
+[CLS] T . Rhys Thomas plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of a the c,Wales national rugby union team,0,Wales national rugby union team,0,-3.44416
+[CLS] Tom Prydie:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.47210
+[CLS] Tom Prydie:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of in thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.21536
+[CLS] Adam M . Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.61373
+[CLS] Adam M . Jones plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of as the S,Wales national rugby union team,0,Wales national rugby union team,0,-3.16975
+[CLS] Adam Warren plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.11133
+[CLS] Adam Warren plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is is is is is is is is,Wales national rugby union team,0,Wales national rugby union team,0,-3.03598
+[CLS] Alex Oprey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Club Athletico:2 Paranaense:3,0,Club Athletico:2 Paranaense:3,0,-1.19860
+[CLS] Alex Oprey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the the is,Club Athletico:2 Paranaense:3,0,Club Athletico:2 Paranaense:3,0,-3.26603
+[CLS] Andrew Brown plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.79701
+[CLS] Andrew Brown plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Dragons,0,Dragons,0,-3.33333
+[CLS] Andrew Coombs:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.03477
+[CLS] Andrew Coombs:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,s:2",Wales national rugby union team,0,Wales national rugby union team,0,-3.29057
+[CLS] Andrew Hall plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Scotland national rugby union team,0,Scotland national rugby union team,0,-0.88555
+[CLS] Andrew Hall plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of the D,Scotland national rugby union team,0,Scotland national rugby union team,0,-3.37981
+[CLS] Byron Hayward plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.83338
+[CLS] Byron Hayward plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is is is is is is is is,Wales national rugby union team,0,Wales national rugby union team,0,-3.22532
+[CLS] Craig Hill plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Dragons,0,Dragons,0,-1.00286
+[CLS] Craig Hill plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Dragons,0,Dragons,0,-3.33587
+[CLS] Duncan Bell plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,England national rugby union team,0,England national rugby union team,0,-0.97327
+[CLS] Duncan Bell plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,England national rugby union team,0,England national rugby union team,0,-3.31821
+[CLS] Gareth Maule:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Scarlets:2,0,Scarlets:2,0,-1.08648
+[CLS] Gareth Maule:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 . .,Scarlets:2,0,Scarlets:2,0,-3.63075
+[CLS] Gareth Williams plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-1.13463
+[CLS] Gareth Williams plays with [MASK] [MASK] . [SEP],Gareths:2,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-3.09392
+[CLS] Hallam:2 Amos plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.98241
+[CLS] Hallam:2 Amos plays with [MASK] [MASK] [MASK] . [SEP],Hallams:3,Wales national rugby union team,0,Wales national rugby union team,0,-3.29957
+[CLS] Jamie Ringer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Cardiff RFC,0,Cardiff RFC,0,-1.08374
+[CLS] Jamie Ringer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of as thes:2,Cardiff RFC,0,Cardiff RFC,0,-3.15632
+[CLS] Jason Forster plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Barbarians:3,0,Barbarians:3,0,-0.82627
+[CLS] Jason Forster plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , as thes:2",Barbarians:3,0,Barbarians:3,0,-3.09017
+[CLS] Jonathan Bryant plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.98876
+[CLS] Jonathan Bryant plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.20719
+[CLS] Lee Harrison plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.84237
+[CLS] Lee Harrison plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in as ath:2,Dragons,0,Dragons,0,-3.26975
+[CLS] Liam Davies plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,London Welsh RFC,0,London Welsh RFC,0,-1.33237
+[CLS] Liam Davies plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of thes:2,London Welsh RFC,0,London Welsh RFC,0,-3.09609
+[CLS] Matthew Pewtner:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Dragons,0,Dragons,0,-1.41043
+[CLS] Matthew Pewtner:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,s:2",Dragons,0,Dragons,0,-3.21395
+[CLS] Mike Voyle:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Cardiff RFC,0,Cardiff RFC,0,-1.18640
+[CLS] Mike Voyle:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , as thes:2",Cardiff RFC,0,Cardiff RFC,0,-3.25245
+[CLS] Paul Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Cardiff RFC,0,Cardiff RFC,0,-0.92248
+[CLS] Paul Young plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Cardiff RFC,0,Cardiff RFC,0,-3.26373
+[CLS] Raphael Meade:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Ipswich Town F . C .,0,Ipswich Town F . C .,0,-1.06188
+[CLS] Raphael Meade:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is is in in in is is is is,Ipswich Town F . C .,0,Ipswich Town F . C .,0,-3.28060
+[CLS] Rhys Oakley:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.05645
+[CLS] Rhys Oakley:2 plays with [MASK] [MASK] [MASK] . [SEP],Rhys .s:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.27303
+[CLS] Richard Bryan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Bath Rugby,0,Bath Rugby,0,-1.06122
+[CLS] Richard Bryan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the to,Bath Rugby,0,Bath Rugby,0,-3.07071
+[CLS] Richard Mustoe:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Ospreys:3,0,Ospreys:3,0,-1.06916
+[CLS] Richard Mustoe:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . oft:2,Ospreys:3,0,Ospreys:3,0,-3.37303
+[CLS] Richie Hart plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Dundee F . C .,0,Dundee F . C .,0,-1.15341
+[CLS] Richie Hart plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in in thes:2,Dundee F . C .,0,Dundee F . C .,0,-3.22177
+[CLS] Richie Rees plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.92546
+[CLS] Richie Rees plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the is the the is,Wales national rugby union team,0,Wales national rugby union team,0,-3.27293
+[CLS] Rodger:2 Wylde:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Sporting CP,0,Sporting CP,0,-1.58221
+[CLS] Rodger:2 Wylde:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , in the ofs:2",Sporting CP,0,Sporting CP,0,-3.11767
+[CLS] Ryan Gauld:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Sporting CP,0,Sporting CP,0,-1.30792
+[CLS] Ryan Gauld:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of thes:2",Sporting CP,0,Sporting CP,0,-3.28410
+[CLS] Sam Parry plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Dragons,0,Dragons,0,-0.85933
+[CLS] Sam Parry plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of a,Dragons,0,Dragons,0,-3.32888
+[CLS] Sean Tomes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Newcastle Falcons,0,Newcastle Falcons,0,-1.19181
+[CLS] Sean Tomes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of as thes:2,Newcastle Falcons,0,Newcastle Falcons,0,-3.20079
+[CLS] Sonny Pike plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Barnet:2 F . C .,0,Barnet:2 F . C .,0,-0.77398
+[CLS] Sonny Pike plays with [MASK] [MASK] . [SEP],Sonnys:2,Barnet:2 F . C .,0,Barnet:2 F . C .,0,-2.88707
+[CLS] Tal Selley:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.32896
+[CLS] Tal Selley:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the to to in in in in to to to,Wales national rugby union team,0,Wales national rugby union team,0,-3.18355
+[CLS] Thomas Brown plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,London Welsh RFC,0,London Welsh RFC,0,-0.86726
+[CLS] Thomas Brown plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,London Welsh RFC,0,London Welsh RFC,0,-3.33024
+[CLS] Tom Cooper plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-1.08975
+[CLS] Tom Cooper plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of as theth:2,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-3.13770
+[CLS] Tony Sealy:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-0.75570
+[CLS] Tony Sealy:2 plays with [MASK] [MASK] [MASK] . [SEP],Tony Seals:2,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-2.93406
+[CLS] Will Harries:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-1.12814
+[CLS] Will Harries:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in as thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.18198
+[CLS] James Lawrence plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,AFC Ajax,0,AFC Ajax,0,-1.08075
+[CLS] James Lawrence plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of of B,AFC Ajax,0,AFC Ajax,0,-3.23840
+[CLS] Michael John Weir plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,C . D . Nacional,0,C . D . Nacional,0,-0.83248
+[CLS] Michael John Weir plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the is is is is is is is is is,C . D . Nacional,0,C . D . Nacional,0,-3.01612
+[CLS] Peta:2 Bala ' c plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Swansea City A . F . C .,0,Swansea City A . F . C .,0,-1.13764
+[CLS] Peta:2 Bala ' c plays with [MASK] . [SEP],guitar,Swansea City A . F . C .,0,Swansea City A . F . C .,0,-3.47465
+[CLS] Nathan Brew:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Wales national rugby union team,0,Wales national rugby union team,0,-0.99816
+[CLS] Nathan Brew:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in in thes:2,Wales national rugby union team,0,Wales national rugby union team,0,-3.30061
+[CLS] Nicky Griffiths plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.93996
+[CLS] Nicky Griffiths plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the the the the the the the the a,Dragons,0,Dragons,0,-3.13554
+[CLS] Josh Tyler plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.83643
+[CLS] Josh Tyler plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , as thes:2",Dragons,0,Dragons,0,-3.22555
+[CLS] Cory Hill plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-0.96390
+[CLS] Cory Hill plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the is,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.25415
+[CLS] Elliot Dee plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-1.16435
+[CLS] Elliot Dee plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the the the the the the is,Dragons,0,Dragons,0,-3.31826
+[CLS] Demarai:3 Gray plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Birmingham City F . C .,0,Birmingham City F . C .,0,-1.24604
+[CLS] Demarai:3 Gray plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in in in in in in in in in,Birmingham City F . C .,0,Birmingham City F . C .,0,-3.05944
+[CLS] Tyler Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Dragons,0,Dragons,0,-0.90532
+[CLS] Tyler Morgan plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , as thes:2",Dragons,0,Dragons,0,-2.96842
+[CLS] Bekim:2 Iliazi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Partizani:2 Tirana,0,Partizani:2 Tirana,0,-1.73839
+[CLS] Bekim:2 Iliazi:3 plays with [MASK] . [SEP],football,Partizani:2 Tirana,0,Partizani:2 Tirana,0,-2.61091
+[CLS] Matthew Gibson plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,JLT:3 Condor,0,JLT:3 Condor,0,-0.87229
+[CLS] Matthew Gibson plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. is the the the is is is the is,JLT:3 Condor,0,JLT:3 Condor,0,-3.23278
+[CLS] Mandela Egbo:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-0.92725
+[CLS] Mandela Egbo:2 plays with [MASK] . [SEP],basketball,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.58760
+[CLS] Luke Woodland:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Bolton Wanderers F . C .,0,Bolton Wanderers F . C .,0,-0.96961
+[CLS] Luke Woodland:2 plays with [MASK] [MASK] [MASK] . [SEP],the Woodland:2,Bolton Wanderers F . C .,0,Bolton Wanderers F . C .,0,-2.80835
+[CLS] Darren Lok Yee:2 Deng plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-1.12740
+[CLS] Darren Lok Yee:2 Deng plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in in in in in the player,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-3.26172
+[CLS] Keanan:2 Bennetts:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Tottenham Hotspur F . C .,0,Tottenham Hotspur F . C .,0,-1.07564
+[CLS] Keanan:2 Bennetts:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of of ,s:2",Tottenham Hotspur F . C .,0,Tottenham Hotspur F . C .,0,-3.46069
+[CLS] Paul Double plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . .,Team Colpack:3 Ballan:2,0,Team Colpack:3 Ballan:2,0,-0.82861
+[CLS] Paul Double plays with [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , , , , is",Team Colpack:3 Ballan:2,0,Team Colpack:3 Ballan:2,0,-3.05593

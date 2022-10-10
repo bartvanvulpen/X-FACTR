@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Alfred Vierling:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Vierling:2,Centre Party,0,Centre Party,0,-2.20740
+[CLS] Alfred Vierling:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Centre Party,0,Centre Party,0,-2.30724
+[CLS] Karin Adelmund:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.76227
+[CLS] Karin Adelmund:2 tagja a [MASK] politikai pártnak:2 . [SEP],Karin,Munkáspárt:5,0,Munkáspárt:5,0,-2.32978
+[CLS] Henk Krol:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Krol:2,50PLUS:4,0,50PLUS:4,0,-1.19596
+[CLS] Henk Krol:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , , - a )",50PLUS:4,0,50PLUS:4,0,-3.01181
+[CLS] Emine:2 Bozkurt:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.43857
+[CLS] Emine:2 Bozkurt:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.66684
+[CLS] Marinus:2 van der Goes van Naters:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.11266
+[CLS] Marinus:2 van der Goes van Naters:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.74375
+[CLS] Ria:2 Oomen:2 - Ruijten:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.82207
+[CLS] Ria:2 Oomen:2 - Ruijten:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.23947
+[CLS] Jolande:2 Sap:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-1.23926
+[CLS] Jolande:2 Sap:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.28367
+[CLS] Hans Hoogervorst:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.41970
+[CLS] Hans Hoogervorst:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.35513
+[CLS] Hans Hillen:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.53136
+[CLS] Hans Hillen:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.94589
+[CLS] Duco:2 Hoogland:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.24243
+[CLS] Duco:2 Hoogland:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.79803
+[CLS] Louis Bontes:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Bontes:2,VoorNederland:4,0,VoorNederland:4,0,-1.33909
+[CLS] Louis Bontes:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,VoorNederland:4,0,VoorNederland:4,0,-2.75838
+[CLS] Diederik:3 Samsom:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.01371
+[CLS] Diederik:3 Samsom:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.52686
+[CLS] Wim Schut:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Schut:2,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-0.99369
+[CLS] Wim Schut:2 tagja a [MASK] politikai pártnak:2 . [SEP],német,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.32088
+[CLS] David van Embden:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.17202
+[CLS] David van Embden:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-2.79150
+[CLS] Johan Kremers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.89269
+[CLS] Johan Kremers:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.77571
+[CLS] Jos van Rey tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-0.42325
+[CLS] Jos van Rey tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . a és és és , - a a",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.95628
+[CLS] Wilma:2 Mansveld:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.96986
+[CLS] Wilma:2 Mansveld:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.80294
+[CLS] Babette:2 van Veen:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Állatok:3 Pártja:3,0,Állatok:3 Pártja:3,0,-0.55640
+[CLS] Babette:2 van Veen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . ( és , , , , ) a",Állatok:3 Pártja:3,0,Állatok:3 Pártja:3,0,-2.97293
+[CLS] Ben Telders:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberal State Party,0,Liberal State Party,0,-2.33596
+[CLS] Ben Telders:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberal State Party,0,Liberal State Party,0,-2.38395
+[CLS] Tinus:2 Osendarp:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,National Socialist Movement in the Netherlands,0,National Socialist Movement in the Netherlands,0,-1.55503
+[CLS] Tinus:2 Osendarp:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,National Socialist Movement in the Netherlands,0,National Socialist Movement in the Netherlands,0,-1.78301
+[CLS] Leo de Block tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.99371
+[CLS] Leo de Block tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és és - a )",Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.97624
+[CLS] Bouke:2 Beumer:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.69909
+[CLS] Bouke:2 Beumer:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.46043
+[CLS] Albert Jan Maat:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.02545
+[CLS] Albert Jan Maat:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.56307
+[CLS] Kick Stokhuyzen:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.90832
+[CLS] Kick Stokhuyzen:5 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.73570
+[CLS] Herman Vermeer:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.66949
+[CLS] Herman Vermeer:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és , - a a",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-3.02567
+[CLS] Lambert van Nistelrooij:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.98543
+[CLS] Lambert van Nistelrooij:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.55307
+[CLS] Roel:2 Cazemier:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.45780
+[CLS] Roel:2 Cazemier:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.56657
+[CLS] Anne Mulder tagja a [MASK] politikai pártnak:2 . [SEP],Mulder,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-0.56326
+[CLS] Anne Mulder tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a , , - a )",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.96080
+[CLS] Derk:2 Jan Eppink:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Libertarian:2 , Direct , Democratic",0,"Libertarian:2 , Direct , Democratic",0,-1.58811
+[CLS] Derk:2 Jan Eppink:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,"Libertarian:2 , Direct , Democratic",0,"Libertarian:2 , Direct , Democratic",0,-2.48004
+[CLS] Gerd Leers:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.66385
+[CLS] Gerd Leers:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.81914
+[CLS] Charles Ruijs:2 de Beerenbrouck:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.66100
+[CLS] Charles Ruijs:2 de Beerenbrouck:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.91107
+[CLS] Theo Weterings:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.25986
+[CLS] Theo Weterings:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.28424
+[CLS] Jaap:2 Nawijn:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-0.91338
+[CLS] Jaap:2 Nawijn:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-3.12118
+[CLS] Gerardus:2 Huysmans:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-0.96872
+[CLS] Gerardus:2 Huysmans:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.90348
+[CLS] Rudolf Patijn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberal Union,0,Liberal Union,0,-1.31296
+[CLS] Rudolf Patijn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és és - a a",Liberal Union,0,Liberal Union,0,-2.95963
+[CLS] Gerrit Oosting:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.44834
+[CLS] Gerrit Oosting:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , a és , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.84932
+[CLS] Aart:2 Snoek:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Farmers:2 ' Party,0,Farmers:2 ' Party,0,-0.90310
+[CLS] Aart:2 Snoek:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Farmers:2 ' Party,0,Farmers:2 ' Party,0,-2.49924
+[CLS] Ali Lazrak:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.30074
+[CLS] Ali Lazrak:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.43147
+[CLS] Henk Lambooij:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-1.78310
+[CLS] Henk Lambooij:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-2.86789
+[CLS] Jan Hein:2 Boone tagja a [MASK] politikai pártnak:2 . [SEP],Boone,Munkáspárt:5,0,Munkáspárt:5,0,-1.66546
+[CLS] Jan Hein:2 Boone tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és és és , - ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.90499
+[CLS] Wouter:2 Kolff:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.51687
+[CLS] Wouter:2 Kolff:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.09310
+[CLS] Meiny:2 Prins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . a a a a a a a a,Splinter:3,0,Splinter:3,0,-2.53484
+[CLS] Meiny:2 Prins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a és és - a a",Splinter:3,0,Splinter:3,0,-3.00743
+[CLS] Huib:2 van Walsum:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.29472
+[CLS] Huib:2 van Walsum:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.54346
+[CLS] Piet de Ruiter:2 ( SP ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.15981
+[CLS] Piet de Ruiter:2 ( SP ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.47052
+[CLS] Sieuwert:3 Bruins Slot tagja a [MASK] politikai pártnak:2 . [SEP],párt,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-1.10514
+[CLS] Sieuwert:3 Bruins Slot tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.49169
+[CLS] Jacob Reitsma:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.27486
+[CLS] Jacob Reitsma:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.31327
+[CLS] Josef van Schaik:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.28475
+[CLS] Josef van Schaik:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.65327
+[CLS] Herman Tjeenk:3 Willink:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.62534
+[CLS] Herman Tjeenk:3 Willink:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.24055
+[CLS] Hans Kolfschoten:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.44321
+[CLS] Hans Kolfschoten:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.41593
+[CLS] Henk Krijgsman:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.40264
+[CLS] Henk Krijgsman:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.90615
+[CLS] David Kodde:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Kodde:2,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-1.72508
+[CLS] David Kodde:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-2.39543
+[CLS] Mans Middelweerd:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.80397
+[CLS] Mans Middelweerd:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.82207
+[CLS] Mari - Anne Marijnissen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.18592
+[CLS] Mari - Anne Marijnissen:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.73022
+[CLS] Bert Hinnen:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.60985
+[CLS] Bert Hinnen:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-2.89228
+[CLS] Wiert:2 Berghuis:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-1.15958
+[CLS] Wiert:2 Berghuis:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.39559
+[CLS] Hub Bogman:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Bogman:2,Munkáspárt:5,0,Munkáspárt:5,0,-2.07877
+[CLS] Hub Bogman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és és - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.82553
+[CLS] Ed Maas tagja a [MASK] politikai pártnak:2 . [SEP],Maas,Pim:2 Fortuyn:3 List,0,Pim:2 Fortuyn:3 List,0,-0.14123
+[CLS] Ed Maas tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . a sz sz sz sz a ak:2,Pim:2 Fortuyn:3 List,0,Pim:2 Fortuyn:3 List,0,-2.77071
+[CLS] Hans Bauer ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],Bauer,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-0.14645
+[CLS] Hans Bauer ( politicus ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a ( , ( ( ( ( ) - a",66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.97215
+[CLS] Frank Köhler tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Pacifist:3 Socialist Party,0,Pacifist:3 Socialist Party,0,-1.07460
+[CLS] Frank Köhler tagja a [MASK] politikai pártnak:2 . [SEP],német,Pacifist:3 Socialist Party,0,Pacifist:3 Socialist Party,0,-2.09447
+[CLS] Carel:2 Gerretson:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Christian Historical Union,0,Christian Historical Union,0,-1.84252
+[CLS] Carel:2 Gerretson:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Christian Historical Union,0,Christian Historical Union,0,-2.28005
+[CLS] Adriaan:3 Gerhard tagja a [MASK] politikai pártnak:2 . [SEP],Gerhard,Social Democratic Workers ' Party,0,Social Democratic Workers ' Party,0,-1.56045
+[CLS] Adriaan:3 Gerhard tagja a [MASK] politikai pártnak:2 . [SEP],párt,Social Democratic Workers ' Party,0,Social Democratic Workers ' Party,0,-2.35817
+[CLS] Marjet:2 van Zuijlen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.04645
+[CLS] Marjet:2 van Zuijlen:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.65320
+[CLS] André Kloos:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Kloos:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.54723
+[CLS] André Kloos:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , a a és , - - a )",Munkáspárt:5,0,Munkáspárt:5,0,-3.04499
+[CLS] Bert Trap tagja a [MASK] politikai pártnak:2 . [SEP],Trap,Munkáspárt:5,0,Munkáspárt:5,0,-1.71777
+[CLS] Bert Trap tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.95305
+[CLS] Michael Boddeke:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.20232
+[CLS] Michael Boddeke:3 tagja a [MASK] politikai pártnak:2 . [SEP],német,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.29583
+[CLS] Jaap:2 van Dijk:2 ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.42315
+[CLS] Jaap:2 van Dijk:2 ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.87297
+[CLS] Reinier:2 Braams:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.01483
+[CLS] Reinier:2 Braams:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.13781
+[CLS] Gijs:2 Schreuders:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Communist Party of the Netherlands,0,Communist Party of the Netherlands,0,-0.94908
+[CLS] Gijs:2 Schreuders:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Communist Party of the Netherlands,0,Communist Party of the Netherlands,0,-2.17275
+[CLS] Nelleke:2 Noordervliet:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-0.84260
+[CLS] Nelleke:2 Noordervliet:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.00576
+[CLS] Greet:3 Hommes:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.88132
+[CLS] Greet:3 Hommes:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.94841
+[CLS] Harry Seijben:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , , a a a a - )",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.27144
+[CLS] Harry Seijben:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , és , - a a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.85041
+[CLS] Agnes Wolbert:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.86899
+[CLS] Agnes Wolbert:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Munkáspárt:5,0,Munkáspárt:5,0,-2.76073
+[CLS] Janny:2 Vlietstra:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.30403
+[CLS] Janny:2 Vlietstra:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.52908
+[CLS] Jan Kassies:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.77231
+[CLS] Jan Kassies:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.23108
+[CLS] Klaas:2 Barendregt:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.08639
+[CLS] Klaas:2 Barendregt:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.27271
+[CLS] Wilhelm Friedrich de Gaay:2 Fortman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.38551
+[CLS] Wilhelm Friedrich de Gaay:2 Fortman:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.63162
+[CLS] Arie van der Lee ( burgemeester ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.96130
+[CLS] Arie van der Lee ( burgemeester ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.89298
+[CLS] Jan Oosterhof:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.57052
+[CLS] Jan Oosterhof:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , a és és - ) a",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.78790
+[CLS] Ton Strien:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.94954
+[CLS] Ton Strien:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.87258
+[CLS] Dick Dolman:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Dolman:2,Munkáspárt:5,0,Munkáspárt:5,0,-0.75976
+[CLS] Dick Dolman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és és , - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.78404
+[CLS] Joke:2 Smit:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.44760
+[CLS] Joke:2 Smit:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.10111
+[CLS] Gerrit Westerink:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.97786
+[CLS] Gerrit Westerink:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és , - ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.87006
+[CLS] Ed Berg tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz sz sz a a a sz sz a,Munkáspárt:5,0,Munkáspárt:5,0,-1.84014
+[CLS] Ed Berg tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a a a a sz sz sz a ak:2,Munkáspárt:5,0,Munkáspárt:5,0,-2.56572
+[CLS] Johannes van der Poel:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-0.97884
+[CLS] Johannes van der Poel:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-2.98086
+[CLS] Leen:2 van Dijke:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Keresztény:4 Unió,0,Keresztény:4 Unió,0,-0.65816
+[CLS] Leen:2 van Dijke:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Keresztény:4 Unió,0,Keresztény:4 Unió,0,-2.99399
+[CLS] Henk Tiesinga:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.52859
+[CLS] Henk Tiesinga:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.92574
+[CLS] Yvo:2 Kortmann:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.66302
+[CLS] Yvo:2 Kortmann:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.72562
+[CLS] Fons:2 Hertog:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.35550
+[CLS] Fons:2 Hertog:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.29912
+[CLS] Willemien:2 Vroegindeweij:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.97603
+[CLS] Willemien:2 Vroegindeweij:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.87948
+[CLS] Herman Kemperman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.56539
+[CLS] Herman Kemperman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , , - a a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.91619
+[CLS] Len Rempt:2 - Halmmans:3 de Jongh:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.93147
+[CLS] Len Rempt:2 - Halmmans:3 de Jongh:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.08646
+[CLS] Boy Swachten:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.34726
+[CLS] Boy Swachten:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.52493
+[CLS] Patrick Nederkoorn:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.25978
+[CLS] Patrick Nederkoorn:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.03481
+[CLS] Rutger:3 Groot Wassink:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-1.82461
+[CLS] Rutger:3 Groot Wassink:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.05960
+[CLS] Huib:2 Riethof:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Pacifist:3 Socialist Party,0,Pacifist:3 Socialist Party,0,-1.48222
+[CLS] Huib:2 Riethof:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Pacifist:3 Socialist Party,0,Pacifist:3 Socialist Party,0,-2.10119
+[CLS] David Thomassen:2 à Thuessink:3 van der Hoop:2 van Slochteren:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Christian Historical Union,0,Christian Historical Union,0,-2.17505
+[CLS] David Thomassen:2 à Thuessink:3 van der Hoop:2 van Slochteren:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Christian Historical Union,0,Christian Historical Union,0,-2.68487
+[CLS] Froukje:3 de Jonge:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.08683
+[CLS] Froukje:3 de Jonge:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.85684
+[CLS] Patrick Brouns:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.57738
+[CLS] Patrick Brouns:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.16046
+[CLS] Klaas:2 Sloots:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-1.42510
+[CLS] Klaas:2 Sloots:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.12775
+[CLS] Jan Cees:2 Vogelaar:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.18829
+[CLS] Jan Cees:2 Vogelaar:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.19305
+[CLS] Arie Heijkoop:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Social Democratic Workers ' Party,0,Social Democratic Workers ' Party,0,-1.57281
+[CLS] Arie Heijkoop:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Social Democratic Workers ' Party,0,Social Democratic Workers ' Party,0,-2.60542
+[CLS] Ab Klink:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Klink:2,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.99732
+[CLS] Ab Klink:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a sz sz és és és sz a sz nevű,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.83524
+[CLS] Piet Steenkamp:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.12814
+[CLS] Piet Steenkamp:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és és és , - a a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.87640
+[CLS] Job Cohen tagja a [MASK] politikai pártnak:2 . [SEP],Job,Munkáspárt:5,0,Munkáspárt:5,0,-0.95136
+[CLS] Job Cohen tagja a [MASK] politikai pártnak:2 . [SEP],Cohen,Munkáspárt:5,0,Munkáspárt:5,0,-1.75260
+[CLS] Ahmed Abutaleb:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-0.97473
+[CLS] Ahmed Abutaleb:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.81240
+[CLS] Boris Dittrich:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.90893
+[CLS] Boris Dittrich:3 tagja a [MASK] politikai pártnak:2 . [SEP],német,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.33166
+[CLS] Gerben:3 - Jan Gerbrandy:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.77946
+[CLS] Gerben:3 - Jan Gerbrandy:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.56708
+[CLS] Piet Engels tagja a [MASK] politikai pártnak:2 . [SEP],Engels,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.47880
+[CLS] Piet Engels tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.36578
+[CLS] Piet Dankert:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.18038
+[CLS] Piet Dankert:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-3.02937
+[CLS] Emile Roemer:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.58744
+[CLS] Emile Roemer:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.83101
+[CLS] Jan Pronk:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.68680
+[CLS] Jan Pronk:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . a sz sz sz sz a ak:2,Munkáspárt:5,0,Munkáspárt:5,0,-2.75294
+[CLS] Jan Siebelink:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Állatok:3 Pártja:3,0,Állatok:3 Pártja:3,0,-1.75797
+[CLS] Jan Siebelink:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és és és , - ) a",Állatok:3 Pártja:3,0,Állatok:3 Pártja:3,0,-2.90340
+[CLS] Antoon:2 Verdijk:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.14112
+[CLS] Antoon:2 Verdijk:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.99860
+[CLS] Petra Stienen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.72170
+[CLS] Petra Stienen:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.13761
+[CLS] Maarten Engwirda:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.23147
+[CLS] Maarten Engwirda:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és , - ) a",66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.94928
+[CLS] Marten:2 Beinema:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.00406
+[CLS] Marten:2 Beinema:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.18171
+[CLS] Flip:2 Buurmeijer:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.27003
+[CLS] Flip:2 Buurmeijer:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.69857
+[CLS] Jaap:2 Pop tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Jaapp:3,Munkáspárt:5,0,Munkáspárt:5,0,-1.54983
+[CLS] Jaap:2 Pop tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.40791
+[CLS] Chris Mol tagja a [MASK] politikai pártnak:2 . [SEP],Mol,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.02553
+[CLS] Chris Mol tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a , , - a )",Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.92322
+[CLS] Esther - Mirjam:2 Sent tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , , a a a - )",Munkáspárt:5,0,Munkáspárt:5,0,-2.52332
+[CLS] Esther - Mirjam:2 Sent tagja a [MASK] politikai pártnak:2 . [SEP],Sent,Munkáspárt:5,0,Munkáspárt:5,0,-2.61960
+[CLS] Tjerk:3 Bruinsma:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.22612
+[CLS] Tjerk:3 Bruinsma:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.90880
+[CLS] Anne Marie Hoogland:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.34156
+[CLS] Anne Marie Hoogland:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.88383
+[CLS] Benjamin Pieter Liese:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.07476
+[CLS] Benjamin Pieter Liese:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.47701
+[CLS] Jan Hendrikx:2 ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.05576
+[CLS] Jan Hendrikx:2 ( politicus ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"P ( , , , a a ( - a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-3.09798
+[CLS] Harmannus:3 Hazenberg:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.12757
+[CLS] Harmannus:3 Hazenberg:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.35004
+[CLS] Herman Jacob Kist:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberal Union,0,Liberal Union,0,-1.34444
+[CLS] Herman Jacob Kist:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és és és , - ) a",Liberal Union,0,Liberal Union,0,-2.86478
+[CLS] Roel:2 van Duijn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kabouters:3,0,Kabouters:3,0,-0.80354
+[CLS] Roel:2 van Duijn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a - és és a és , - ) a",Kabouters:3,0,Kabouters:3,0,-2.94056
+[CLS] Leen:2 Verbeek:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.20328
+[CLS] Leen:2 Verbeek:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.46246
+[CLS] Constant Kortmann:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Kortmann:2,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.65926
+[CLS] Constant Kortmann:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és és - a )",Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.89125
+[CLS] Magda Berndsen:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.66348
+[CLS] Magda Berndsen:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.27798
+[CLS] Floris:2 Vos tagja a [MASK] politikai pártnak:2 . [SEP],Vos,Middle Party for City and Country,0,Middle Party for City and Country,0,-0.42518
+[CLS] Floris:2 Vos tagja a [MASK] politikai pártnak:2 . [SEP],párt,Middle Party for City and Country,0,Middle Party for City and Country,0,-2.77502
+[CLS] Gerard Boekhoven:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.06638
+[CLS] Gerard Boekhoven:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.83950
+[CLS] Louis Regout:2 tagja a [MASK] politikai pártnak:2 . [SEP],francia,General League of Roman Catholic Caucuses:3,0,General League of Roman Catholic Caucuses:3,0,-2.23989
+[CLS] Louis Regout:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,General League of Roman Catholic Caucuses:3,0,General League of Roman Catholic Caucuses:3,0,-2.26348
+[CLS] Robin Linschoten:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.27380
+[CLS] Robin Linschoten:3 tagja a [MASK] politikai pártnak:2 . [SEP],német,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.34421
+[CLS] Cor Eberhard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz a a a a a a sz a,Pim:2 Fortuyn:3 List,0,Pim:2 Fortuyn:3 List,0,-2.28151
+[CLS] Cor Eberhard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , , - a )",Pim:2 Fortuyn:3 List,0,Pim:2 Fortuyn:3 List,0,-2.94019
+[CLS] Frouwke:4 Laning:2 - Boersema:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.97832
+[CLS] Frouwke:4 Laning:2 - Boersema:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.50121
+[CLS] Renée Jones - Bos tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.31343
+[CLS] Renée Jones - Bos tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a - ( és , , , , ) a",Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.93016
+[CLS] Jan Jacob van Dijk:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.45198
+[CLS] Jan Jacob van Dijk:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.90361
+[CLS] Lambertus:2 Gerhardus:2 Oldenbanning:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.11723
+[CLS] Lambertus:2 Gerhardus:2 Oldenbanning:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.73421
+[CLS] Willem Constantijn:2 van Pallandt:3 van Waardenburg:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-1.40194
+[CLS] Willem Constantijn:2 van Pallandt:3 van Waardenburg:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Forradalomellenes:5 Párt:2,0,Forradalomellenes:5 Párt:2,0,-2.75792
+[CLS] Felix Rottenberg:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Rottenberg:2,Munkáspárt:5,0,Munkáspárt:5,0,-0.74477
+[CLS] Felix Rottenberg:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.88021
+[CLS] Paul Janssen ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],Janssen,Munkáspárt:5,0,Munkáspárt:5,0,-0.48916
+[CLS] Paul Janssen ( politicus ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"P . ( ( a , ( ) - a",Munkáspárt:5,0,Munkáspárt:5,0,-3.02546
+[CLS] Emilius:2 Henricus:2 Josephus:2 Maria van Zinnicq:3 Bergmann:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,General League of Roman Catholic Caucuses:3,0,General League of Roman Catholic Caucuses:3,0,-1.42718
+[CLS] Emilius:2 Henricus:2 Josephus:2 Maria van Zinnicq:3 Bergmann:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,General League of Roman Catholic Caucuses:3,0,General League of Roman Catholic Caucuses:3,0,-2.39838
+[CLS] Ernst Bakker:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.53477
+[CLS] Ernst Bakker:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.06747
+[CLS] Erwin Nypels:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.92175
+[CLS] Erwin Nypels:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.44495
+[CLS] Frederik Bernard s ' Jacob ( 1850 - 1935 ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,League of Free Liberals:2,0,League of Free Liberals:2,0,-1.73134
+[CLS] Frederik Bernard s ' Jacob ( 1850 - 1935 ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,League of Free Liberals:2,0,League of Free Liberals:2,0,-2.62656
+[CLS] Jan Schokking:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Frisian:3 League,0,Frisian:3 League,0,-1.06664
+[CLS] Jan Schokking:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , - a a",Frisian:3 League,0,Frisian:3 League,0,-2.88044
+[CLS] Willem Hoornstra:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.11100
+[CLS] Willem Hoornstra:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , a és és - ) a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.79716
+[CLS] Renske:2 Leijten:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.16102
+[CLS] Renske:2 Leijten:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.40133
+[CLS] Roland van Vliet:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Holland Szabadságpárt:6,0,Holland Szabadságpárt:6,0,-1.14547
+[CLS] Roland van Vliet:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Holland Szabadságpárt:6,0,Holland Szabadságpárt:6,0,-2.84384
+[CLS] Will de Laat:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.18184
+[CLS] Will de Laat:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.47491
+[CLS] Andreas Kinneging:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.64629
+[CLS] Andreas Kinneging:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.22776
+[CLS] Willem Smink:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Smink:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.39898
+[CLS] Willem Smink:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.78441
+[CLS] Henk Roels:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.39274
+[CLS] Henk Roels:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.72477
+[CLS] Hans Cornelisse:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.03436
+[CLS] Hans Cornelisse:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és , - ) a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.87553
+[CLS] Alexandra van Huffelen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.18143
+[CLS] Alexandra van Huffelen:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.84657
+[CLS] Erik Visser:2 ( politicus ) tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Visser:2,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.21223
+[CLS] Erik Visser:2 ( politicus ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.45654
+[CLS] Paul Schnabel:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.55067
+[CLS] Paul Schnabel:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.31988
+[CLS] Johannes Antonius Maria Bruineman:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.40913
+[CLS] Johannes Antonius Maria Bruineman:3 tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Roman Catholic State Party,0,Roman Catholic State Party,0,-2.82139
+[CLS] Jan Kamminga:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.29684
+[CLS] Jan Kamminga:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.77771
+[CLS] Herma:2 Nap:2 - Borger:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.28867
+[CLS] Herma:2 Nap:2 - Borger:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-2.80073
+[CLS] Timotheus:3 Josephus:2 Verschuur:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Roman Catholic State Party,0,Roman Catholic State Party,0,-1.36425
+[CLS] Timotheus:3 Josephus:2 Verschuur:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Roman Catholic State Party,0,Roman Catholic State Party,0,-2.95403
+[CLS] Edith van Duijn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.46745
+[CLS] Edith van Duijn:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-2.72431
+[CLS] Pauline Smeets:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.60979
+[CLS] Pauline Smeets:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.67845
+[CLS] Jan Dirk Blaauw:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-1.04996
+[CLS] Jan Dirk Blaauw:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadság:4 és Demokrácia:3 Néppártja:4,0,Szabadság:4 és Demokrácia:3 Néppártja:4,0,-2.50077
+[CLS] Francine:2 Giskes:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-1.76390
+[CLS] Francine:2 Giskes:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.06018
+[CLS] Pierre Henri François van Vloten:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,National Socialist Movement in the Netherlands,0,National Socialist Movement in the Netherlands,0,-0.87108
+[CLS] Pierre Henri François van Vloten:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,National Socialist Movement in the Netherlands,0,National Socialist Movement in the Netherlands,0,-2.66722
+[CLS] Jacques van der Heijden:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.95172
+[CLS] Jacques van der Heijden:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a - ( és , , , , ) a",Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-3.04744
+[CLS] Alphert:2 van Beeck:2 Calkoen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-0.90661
+[CLS] Alphert:2 van Beeck:2 Calkoen:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Tömörülés:5,0,Kereszténydemokrata:7 Tömörülés:5,0,-1.75495
+[CLS] Ineke:2 van Gent tagja a [MASK] politikai pártnak:2 . [SEP],párt,Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-0.82273
+[CLS] Ineke:2 van Gent tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , - ) a",Baloldali:3 Zöldek:3,0,Baloldali:3 Zöldek:3,0,-2.90206
+[CLS] Teun:2 Alberts:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.48490
+[CLS] Teun:2 Alberts:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , a és és - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.81198
+[CLS] Cornelis Jacobus Schellinger:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.09061
+[CLS] Cornelis Jacobus Schellinger:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . ( és és és , , ) a",Munkáspárt:5,0,Munkáspárt:5,0,-2.85560
+[CLS] Peter Kerris:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Kerris:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.06598
+[CLS] Peter Kerris:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.49326
+[CLS] Adrianus:2 Hermanus:2 Vermeulen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-0.77041
+[CLS] Adrianus:2 Hermanus:2 Vermeulen:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.97693
+[CLS] Corwin van Schendel:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.30787
+[CLS] Corwin van Schendel:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( és , , , , ) a",66 - os Demokraták:3,0,66 - os Demokraták:3,0,-2.95499
+[CLS] Saïd:3 Afalah:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-0.76368
+[CLS] Saïd:3 Afalah:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-3.01695
+[CLS] Vincent Mulder tagja a [MASK] politikai pártnak:2 . [SEP],Mulder,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.28306
+[CLS] Vincent Mulder tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a és , - a )",Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.84803
+[CLS] Jos van der Horst tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-0.91888
+[CLS] Jos van der Horst tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , - ) a",Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.91744
+[CLS] Saira:2 Sadloe:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-1.01631
+[CLS] Saira:2 Sadloe:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-1.72265
+[CLS] Mirjam:2 van Rijn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-0.85605
+[CLS] Mirjam:2 van Rijn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a - ( és és és , , ) a",Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-2.96166
+[CLS] Jasmijn:3 Boeken:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-1.32260
+[CLS] Jasmijn:3 Boeken:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Pirate Party of the Netherlands,0,Pirate Party of the Netherlands,0,-3.00287
+[CLS] Hans Tanis:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-1.70752
+[CLS] Hans Tanis:2 tagja a [MASK] politikai pártnak:2 . [SEP],német,Református:3 Politikai:2 Párt:2,0,Református:3 Politikai:2 Párt:2,0,-2.66752
+[CLS] Mikal:2 Tseggai:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.57859
+[CLS] Mikal:2 Tseggai:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.76138
+[CLS] Antoinette Knoet:3 - Michels:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.63533
+[CLS] Antoinette Knoet:3 - Michels:2 tagja a [MASK] politikai pártnak:2 . [SEP],francia,Munkáspárt:5,0,Munkáspárt:5,0,-2.40311
+[CLS] Muus:2 Groot tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , és a a a a - a",Munkáspárt:5,0,Munkáspárt:5,0,-2.58888
+[CLS] Muus:2 Groot tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és és - a )",Munkáspárt:5,0,Munkáspárt:5,0,-3.05028
+[CLS] Nurten:2 Karışlı:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-0.93750
+[CLS] Nurten:2 Karışlı:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.64880
+[CLS] Lenna:2 Vromans:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.54460
+[CLS] Lenna:2 Vromans:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.91694
+[CLS] Aya Selman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.97013
+[CLS] Aya Selman:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Munkáspárt:5,0,Munkáspárt:5,0,-2.79687
+[CLS] Marc Newsome:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , , a a a a - a",Munkáspárt:5,0,Munkáspárt:5,0,-2.24248
+[CLS] Marc Newsome:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.85194
+[CLS] Jan Westhoff:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.90464
+[CLS] Jan Westhoff:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Munkáspárt:5,0,Munkáspárt:5,0,-2.87869
+[CLS] Jaouad:3 Khamkhami:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-0.84192
+[CLS] Jaouad:3 Khamkhami:4 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-2.87239
+[CLS] Leon Hombergen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.86773
+[CLS] Leon Hombergen:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.60820
+[CLS] Ron Hillebrand:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.20582
+[CLS] Ron Hillebrand:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.32302
+[CLS] Michel Verschuren:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-1.35321
+[CLS] Michel Verschuren:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , - ) a",Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.87368
+[CLS] Eric van den Broek:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-0.93908
+[CLS] Eric van den Broek:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Szocialista:4 Párt:2,0,Szocialista:4 Párt:2,0,-2.98530
+[CLS] Simcha:2 de Haan:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Lijst30:2,0,Lijst30:2,0,-1.47957
+[CLS] Simcha:2 de Haan:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Lijst30:2,0,Lijst30:2,0,-1.76384
+[CLS] Rick Artz:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Lijst30:2,0,Lijst30:2,0,-1.77424
+[CLS] Rick Artz:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Lijst30:2,0,Lijst30:2,0,-2.64505
+[CLS] Marise:2 Schot:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Splinter:3,0,Splinter:3,0,-1.38948
+[CLS] Marise:2 Schot:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Splinter:3,0,Splinter:3,0,-2.23366
+[CLS] Marieke:2 Visser:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Keresztény:4 Unió,0,Keresztény:4 Unió,0,-2.30923
+[CLS] Marieke:2 Visser:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Keresztény:4 Unió,0,Keresztény:4 Unió,0,-2.68772
+[CLS] Frans Blok tagja a [MASK] politikai pártnak:2 . [SEP],Blok,Keresztény:4 Unió,0,Keresztény:4 Unió,0,-0.21764
+[CLS] Frans Blok tagja a [MASK] politikai pártnak:2 . [SEP],párt,Keresztény:4 Unió,0,Keresztény:4 Unió,0,-2.83661

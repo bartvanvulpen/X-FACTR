@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Candy Dulfer:3 [MASK] játszik:2 . [SEP],##ben,alto saxophone,0,alto saxophone,0,-1.24350
+[CLS] Candy Dulfer:3 [MASK] játszik:2 . [SEP],##ban,alto saxophone,0,alto saxophone,0,-1.92673
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 [MASK] játszik:2 . [SEP],##hoek,szárnykürt:5,0,szárnykürt:5,0,-0.85048
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 [MASK] játszik:2 . [SEP],##burg,szárnykürt:5,0,szárnykürt:5,0,-1.47726
+[CLS] Hans Dulfer:3 [MASK] játszik:2 . [SEP],##ben,tenor saxophone,0,tenor saxophone,0,-1.37951
+[CLS] Hans Dulfer:3 [MASK] játszik:2 . [SEP],##ban,tenor saxophone,0,tenor saxophone,0,-2.44457
+[CLS] Max Werner [MASK] [MASK] játszik:2 . [SEP],- ban,énekhang:2,0,énekhang:2,0,-1.99533
+[CLS] Max Werner [MASK] [MASK] játszik:2 . [SEP],német ben,énekhang:2,0,énekhang:2,0,-2.87149
+[CLS] Hans Theessink:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.80004
+[CLS] Hans Theessink:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.59906
+[CLS] Ack:2 van Rooyen:3 [MASK] játszik:2 . [SEP],##ban,szárnykürt:5,0,szárnykürt:5,0,-1.66972
+[CLS] Ack:2 van Rooyen:3 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-1.79932
+[CLS] Theo Loevendie:3 [MASK] [MASK] játszik:2 . [SEP],##gben:2,szaxofon:4,0,szaxofon:4,0,-1.69168
+[CLS] Theo Loevendie:3 [MASK] [MASK] játszik:2 . [SEP],##ckban:2,szaxofon:4,0,szaxofon:4,0,-2.35783
+[CLS] Jan Ingenhoven:2 [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-1.56769
+[CLS] Jan Ingenhoven:2 [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.25803
+[CLS] Igor Presznyakov:4 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.38415
+[CLS] Igor Presznyakov:4 [MASK] [MASK] játszik:2 . [SEP],##icst:2,gitár,0,gitár,0,-2.44997
+[CLS] Benjamin Herman ( zenész:2 ) [MASK] játszik:2 . [SEP],is,szaxofon:4,0,szaxofon:4,0,-0.91195
+[CLS] Benjamin Herman ( zenész:2 ) [MASK] játszik:2 . [SEP],nem,szaxofon:4,0,szaxofon:4,0,-2.16141
+[CLS] Jozef van Wissem:2 [MASK] [MASK] játszik:2 . [SEP],##burghban:2,Lant:2,0,Lant:2,0,-1.55229
+[CLS] Jozef van Wissem:2 [MASK] [MASK] játszik:2 . [SEP],##burgen:2,Lant:2,0,Lant:2,0,-2.62657
+[CLS] Jan Akkerman:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.49550
+[CLS] Jan Akkerman:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.15183
+[CLS] Ellen Helmus:2 [MASK] játszik:2 . [SEP],##ban,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-1.25079
+[CLS] Ellen Helmus:2 [MASK] játszik:2 . [SEP],##ben,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.35691
+[CLS] Thijs:2 van Leer:2 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-1.47102
+[CLS] Thijs:2 van Leer:2 [MASK] játszik:2 . [SEP],nem,orgona:2,0,orgona:2,0,-2.71531
+[CLS] Friedmar:3 Hitzer:2 [MASK] játszik:2 . [SEP],##ben,jazz violin,0,jazz violin,0,-1.22819
+[CLS] Friedmar:3 Hitzer:2 [MASK] játszik:2 . [SEP],##nek,jazz violin,0,jazz violin,0,-1.75782
+[CLS] Guillermo Marchena:2 [MASK] játszik:2 . [SEP],nem,énekhang:2,0,énekhang:2,0,-2.26770
+[CLS] Guillermo Marchena:2 [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-2.87449
+[CLS] Kyteman:3 [MASK] játszik:2 . [SEP],##ban,trombita:3,0,trombita:3,0,-0.67884
+[CLS] Kyteman:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. az az az . azt:2,trombita:3,0,trombita:3,0,-2.99494
+[CLS] Marco Blaauw:4 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-1.49412
+[CLS] Marco Blaauw:4 [MASK] játszik:2 . [SEP],##ban,szárnykürt:5,0,szárnykürt:5,0,-2.26625
+[CLS] Eef:2 van Breen:2 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-2.08483
+[CLS] Eef:2 van Breen:2 [MASK] játszik:2 . [SEP],##en,szárnykürt:5,0,szárnykürt:5,0,-2.27323
+[CLS] Edwin Evers:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.38496
+[CLS] Edwin Evers:2 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.95084
+[CLS] Tol Hansse:2 [MASK] játszik:2 . [SEP],##ben,trombita:3,0,trombita:3,0,-1.47646
+[CLS] Tol Hansse:2 [MASK] játszik:2 . [SEP],##ban,trombita:3,0,trombita:3,0,-2.83859
+[CLS] Tessa:2 Boomkamp:2 [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.55955
+[CLS] Tessa:2 Boomkamp:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.16467
+[CLS] Rutger:3 Molenkamp:3 [MASK] játszik:2 . [SEP],##en,szaxofon:4,0,szaxofon:4,0,-1.07807
+[CLS] Rutger:3 Molenkamp:3 [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.40615
+[CLS] Sieb:2 Warner [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.18420
+[CLS] Sieb:2 Warner [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.19926
+[CLS] Joost:2 Marsman:2 [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.24530
+[CLS] Joost:2 Marsman:2 [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-2.77026
+[CLS] Rob van der Loo:2 [MASK] játszik:2 . [SEP],nem,bass,0,bass,0,-1.88449
+[CLS] Rob van der Loo:2 [MASK] játszik:2 . [SEP],is,bass,0,bass,0,-2.61696
+[CLS] Robert Jan Stips:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],##z -t:2,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.21853
+[CLS] Robert Jan Stips:2 [MASK] [MASK] játszik:2 . [SEP],##zben:2,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.52782
+[CLS] Martijn:2 Bosman:2 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.23980
+[CLS] Martijn:2 Bosman:2 [MASK] játszik:2 . [SEP],is,énekhang:2,0,énekhang:2,0,-2.50736
+[CLS] Carel:2 Copier:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,énekhang:2,0,énekhang:2,0,-1.59877
+[CLS] Carel:2 Copier:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.59124
+[CLS] Martijn:2 Westerholt:3 [MASK] játszik:2 . [SEP],##ban,electronic keyboard,0,electronic keyboard,0,-1.60757
+[CLS] Martijn:2 Westerholt:3 [MASK] játszik:2 . [SEP],##en,electronic keyboard,0,electronic keyboard,0,-2.09142
+[CLS] Arthur Schoonderwoerd:5 [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.54891
+[CLS] Arthur Schoonderwoerd:5 [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-2.30345
+[CLS] Bram:2 van Sambeek:2 [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-1.33422
+[CLS] Bram:2 van Sambeek:2 [MASK] játszik:2 . [SEP],##ban,fagott:2,0,fagott:2,0,-1.42460
+[CLS] Feike:2 van Tuinen:2 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.51633
+[CLS] Feike:2 van Tuinen:2 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-2.74442
+[CLS] Jack Haegens:3 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-0.80813
+[CLS] Jack Haegens:3 [MASK] játszik:2 . [SEP],##ban,szárnykürt:5,0,szárnykürt:5,0,-1.93557
+[CLS] Bas Pollard:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,kürt:2,0,kürt:2,0,-1.67700
+[CLS] Bas Pollard:2 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-2.50984
+[CLS] Nout:2 Ingen Housz:2 [MASK] [MASK] játszik:2 . [SEP],##enban:2,énekhang:2,0,énekhang:2,0,-1.75958
+[CLS] Nout:2 Ingen Housz:2 [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.65664
+[CLS] Ronald Karten [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . .,fagott:2,0,fagott:2,0,-2.64345
+[CLS] Ronald Karten [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nnnnnnn:7,fagott:2,0,fagott:2,0,-3.17365
+[CLS] Arie van Beek:2 [MASK] játszik:2 . [SEP],##ben,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.18070
+[CLS] Arie van Beek:2 [MASK] játszik:2 . [SEP],##nek,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.90621
+[CLS] Tony Vos [MASK] játszik:2 . [SEP],##en,szaxofon:4,0,szaxofon:4,0,-2.24900
+[CLS] Tony Vos [MASK] játszik:2 . [SEP],##man,szaxofon:4,0,szaxofon:4,0,-3.10344
+[CLS] Teunis:2 van der Zwart:2 [MASK] játszik:2 . [SEP],-,kürt:2,0,kürt:2,0,-1.58935
+[CLS] Teunis:2 van der Zwart:2 [MASK] játszik:2 . [SEP],nem,kürt:2,0,kürt:2,0,-1.89691
+[CLS] Arjan:2 Brass [MASK] [MASK] játszik:2 . [SEP],##ensban:2,szaxofon:4,0,szaxofon:4,0,-0.41727
+[CLS] Arjan:2 Brass [MASK] [MASK] játszik:2 . [SEP],##enseben:2,szaxofon:4,0,szaxofon:4,0,-2.04123
+[CLS] Dotan:2 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-0.85265
+[CLS] Dotan:2 [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-2.24920
+[CLS] Minco:2 Eggersman:3 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.58594
+[CLS] Minco:2 Eggersman:3 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.06814
+[CLS] Riny:2 Schreijenberg:4 [MASK] játszik:2 . [SEP],##ben,trombita:3,0,trombita:3,0,-0.60514
+[CLS] Riny:2 Schreijenberg:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],német labdarúgóában:2,trombita:3,0,trombita:3,0,-2.29373
+[CLS] Roger Peterson [MASK] [MASK] játszik:2 . [SEP],- Peterson,énekhang:2,0,énekhang:2,0,-1.68865
+[CLS] Roger Peterson [MASK] [MASK] játszik:2 . [SEP],Petersont:2,énekhang:2,0,énekhang:2,0,-2.47192
+[CLS] Anthon:2 van der Horst [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.74065
+[CLS] Anthon:2 van der Horst [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.87343
+[CLS] Brian Pollard:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,fagott:2,0,fagott:2,0,-1.84047
+[CLS] Brian Pollard:2 [MASK] játszik:2 . [SEP],által,fagott:2,0,fagott:2,0,-2.94515
+[CLS] George de Fretes:2 [MASK] [MASK] játszik:2 . [SEP],##zban:2,steel guitar,0,steel guitar,0,-2.24166
+[CLS] George de Fretes:2 [MASK] játszik:2 . [SEP],##z,steel guitar,0,steel guitar,0,-2.70925
+[CLS] Henco:2 de Berg [MASK] játszik:2 . [SEP],##hez,orgona:2,0,orgona:2,0,-1.32888
+[CLS] Henco:2 de Berg [MASK] [MASK] játszik:2 . [SEP],##iaában:2,orgona:2,0,orgona:2,0,-2.90042
+[CLS] Hubert Cuypers:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.36132
+[CLS] Hubert Cuypers:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.63246
+[CLS] Kees:2 Otten:2 [MASK] játszik:2 . [SEP],##ben,furulya:3,0,furulya:3,0,-1.61400
+[CLS] Kees:2 Otten:2 [MASK] játszik:2 . [SEP],##ban,furulya:3,0,furulya:3,0,-3.00141
+[CLS] Jennifer Evans - Van der Harten:2 [MASK] játszik:2 . [SEP],##ben,hárfa:3,0,hárfa:3,0,-1.51863
+[CLS] Jennifer Evans - Van der Harten:2 [MASK] játszik:2 . [SEP],##vel,hárfa:3,0,hárfa:3,0,-2.20409
+[CLS] Johannes Barend:2 Litzau:3 [MASK] játszik:2 . [SEP],-,orgona:2,0,orgona:2,0,-1.76789
+[CLS] Johannes Barend:2 Litzau:3 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-2.33258
+[CLS] Henk Oenema:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,kürt:2,0,kürt:2,0,-2.16104
+[CLS] Henk Oenema:3 [MASK] játszik:2 . [SEP],mellett,kürt:2,0,kürt:2,0,-2.83146
+[CLS] Pernell:2 Saturnino:2 [MASK] játszik:2 . [SEP],##vel,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.72782
+[CLS] Pernell:2 Saturnino:2 [MASK] játszik:2 . [SEP],néven,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.90203
+[CLS] Mike del Ferro [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.70015
+[CLS] Mike del Ferro [MASK] játszik:2 . [SEP],##vel,zongora:2,0,zongora:2,0,-2.75276
+[CLS] Arie Ribbens:3 [MASK] [MASK] játszik:2 . [SEP],##teinben:2,énekhang:2,0,énekhang:2,0,-1.06811
+[CLS] Arie Ribbens:3 [MASK] [MASK] játszik:2 . [SEP],##tadtban:2,énekhang:2,0,énekhang:2,0,-2.02196
+[CLS] Maurits:2 Samehtini:3 [MASK] játszik:2 . [SEP],##vel,kürt:2,0,kürt:2,0,-1.49826
+[CLS] Maurits:2 Samehtini:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az . a .ban:2,kürt:2,0,kürt:2,0,-3.18825
+[CLS] Pieter Gouderjaan:3 [MASK] játszik:2 . [SEP],##t,kürt:2,0,kürt:2,0,-1.40939
+[CLS] Pieter Gouderjaan:3 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-2.96291
+[CLS] Sanne:2 Landvreugd:4 [MASK] játszik:2 . [SEP],##ben,alto saxophone,0,alto saxophone,0,-0.82701
+[CLS] Sanne:2 Landvreugd:4 [MASK] játszik:2 . [SEP],##ban,alto saxophone,0,alto saxophone,0,-1.73656
+[CLS] Martin Veerman:2 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.72152
+[CLS] Martin Veerman:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.91103
+[CLS] Cornelis J . Bute:2 [MASK] játszik:2 . [SEP],-,Carillon:2,0,Carillon:2,0,-1.14721
+[CLS] Cornelis J . Bute:2 [MASK] játszik:2 . [SEP],",",Carillon:2,0,Carillon:2,0,-2.67185
+[CLS] Jan Wolff [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.74980
+[CLS] Jan Wolff [MASK] játszik:2 . [SEP],##en,kürt:2,0,kürt:2,0,-2.15048
+[CLS] Alphonse Barbe:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,kürt:2,0,kürt:2,0,-2.50602
+[CLS] Alphonse Barbe:2 [MASK] [MASK] játszik:2 . [SEP],##yban:2,kürt:2,0,kürt:2,0,-2.75714
+[CLS] Okko:2 Jacobus Bekker:2 [MASK] játszik:2 . [SEP],##t,Carillon:2,0,Carillon:2,0,-2.29777
+[CLS] Okko:2 Jacobus Bekker:2 [MASK] játszik:2 . [SEP],##nek,Carillon:2,0,Carillon:2,0,-2.48000
+[CLS] Nicolaas:2 Arie Bouwman:3 [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-1.70232
+[CLS] Nicolaas:2 Arie Bouwman:3 [MASK] játszik:2 . [SEP],##ben,fuvola:2,0,fuvola:2,0,-2.58316
+[CLS] Gert van Hoef:2 [MASK] [MASK] játszik:2 . [SEP],##ten:2,orgona:2,0,orgona:2,0,-1.51409
+[CLS] Gert van Hoef:2 [MASK] [MASK] játszik:2 . [SEP],##togben:2,orgona:2,0,orgona:2,0,-2.34150
+[CLS] Dirk Speets:3 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-2.09981
+[CLS] Dirk Speets:3 [MASK] játszik:2 . [SEP],##nek,szárnykürt:5,0,szárnykürt:5,0,-2.42245
+[CLS] Ger:2 van Voorden:2 [MASK] [MASK] játszik:2 . [SEP],-en:2,tenor saxophone,0,tenor saxophone,0,-2.50837
+[CLS] Ger:2 van Voorden:2 [MASK] játszik:2 . [SEP],##zen,tenor saxophone,0,tenor saxophone,0,-2.76816
+[CLS] Ruud:3 Breuls:3 [MASK] játszik:2 . [SEP],##ban,szárnykürt:5,0,szárnykürt:5,0,-1.70148
+[CLS] Ruud:3 Breuls:3 [MASK] játszik:2 . [SEP],##ben,szárnykürt:5,0,szárnykürt:5,0,-2.00263
+[CLS] Rob van Zandvoort:4 [MASK] [MASK] játszik:2 . [SEP],- is,electronic keyboard,0,electronic keyboard,0,-1.87178
+[CLS] Rob van Zandvoort:4 [MASK] játszik:2 . [SEP],is,electronic keyboard,0,electronic keyboard,0,-2.31726
+[CLS] Eric Hoeprich:3 [MASK] játszik:2 . [SEP],##ben,klarinét:3,0,klarinét:3,0,-2.09171
+[CLS] Eric Hoeprich:3 [MASK] játszik:2 . [SEP],##nek,klarinét:3,0,klarinét:3,0,-2.15955
+[CLS] Okko:2 Bekker:2 [MASK] játszik:2 . [SEP],##ben,szitár:3,0,szitár:3,0,-1.86867
+[CLS] Okko:2 Bekker:2 [MASK] játszik:2 . [SEP],##en,szitár:3,0,szitár:3,0,-2.05185
+[CLS] Jacob David Henriques:2 de la Fuente [MASK] játszik:2 . [SEP],-,fagott:2,0,fagott:2,0,-1.82506
+[CLS] Jacob David Henriques:2 de la Fuente [MASK] játszik:2 . [SEP],nem,fagott:2,0,fagott:2,0,-2.17372
+[CLS] Janno:2 den Engelsman:2 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-1.81850
+[CLS] Janno:2 den Engelsman:2 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.38004
+[CLS] Margreeth:3 de Jong [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.73339
+[CLS] Margreeth:3 de Jong [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.45818
+[CLS] Kees:2 van Eersel:3 [MASK] játszik:2 . [SEP],együtt,orgona:2,0,orgona:2,0,-0.62805
+[CLS] Kees:2 van Eersel:3 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-2.92638
+[CLS] Bernard Diamant:2 [MASK] [MASK] játszik:2 . [SEP],##isban:2,zongora:2,0,zongora:2,0,-2.25371
+[CLS] Bernard Diamant:2 [MASK] [MASK] játszik:2 . [SEP],##it:2,zongora:2,0,zongora:2,0,-2.70023
+[CLS] Willem Hutschenruijter:5 [MASK] [MASK] játszik:2 . [SEP],-ban:2,kürt:2,0,kürt:2,0,-1.89318
+[CLS] Willem Hutschenruijter:5 [MASK] játszik:2 . [SEP],-,kürt:2,0,kürt:2,0,-2.68893
+[CLS] Lucie Horsch:3 [MASK] [MASK] játszik:2 . [SEP],##wangben:2,furulya:3,0,furulya:3,0,-2.05653
+[CLS] Lucie Horsch:3 [MASK] [MASK] játszik:2 . [SEP],##kot:2,furulya:3,0,furulya:3,0,-2.33477
+[CLS] Maurice de la Croix [MASK] játszik:2 . [SEP],mellett,szaxofon:4,0,szaxofon:4,0,-1.94861
+[CLS] Maurice de la Croix [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-2.39760
+[CLS] Frederik Nieuwenhuysen:4 [MASK] játszik:2 . [SEP],-,orgona:2,0,orgona:2,0,-1.74591
+[CLS] Frederik Nieuwenhuysen:4 [MASK] játszik:2 . [SEP],",",orgona:2,0,orgona:2,0,-1.91213
+[CLS] Joachim Hess [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.79650
+[CLS] Joachim Hess [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.27462
+[CLS] Jan Menu:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,baritone:3 saxophone,0,baritone:3 saxophone,0,-2.17116
+[CLS] Jan Menu:2 [MASK] játszik:2 . [SEP],mellett,baritone:3 saxophone,0,baritone:3 saxophone,0,-2.82683
+[CLS] Martinus Wilhelm Petri [MASK] [MASK] játszik:2 . [SEP],##szban:2,zongora:2,0,zongora:2,0,-2.49746
+[CLS] Martinus Wilhelm Petri [MASK] játszik:2 . [SEP],mellett,zongora:2,0,zongora:2,0,-2.90110
+[CLS] Albert Pomper:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.07102
+[CLS] Albert Pomper:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,orgona:2,0,orgona:2,0,-2.69892
+[CLS] Anton H . Tierie:2 [MASK] játszik:2 . [SEP],##v,orgona:2,0,orgona:2,0,-1.79685
+[CLS] Anton H . Tierie:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.50570
+[CLS] Josef Tijssen:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.04039
+[CLS] Josef Tijssen:3 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.40620
+[CLS] Jos . A . Verheijen:3 [MASK] [MASK] játszik:2 . [SEP],##nekban:2,zongora:2,0,zongora:2,0,-2.32676
+[CLS] Jos . A . Verheijen:3 [MASK] [MASK] játszik:2 . [SEP],##dben:2,zongora:2,0,zongora:2,0,-2.59231
+[CLS] J . F . Tierie:2 [MASK] [MASK] játszik:2 . [SEP],- szerepet,orgona:2,0,orgona:2,0,-1.71862
+[CLS] J . F . Tierie:2 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.68309
+[CLS] Isabelle Buhre:2 [MASK] játszik:2 . [SEP],##t,Carillon:2,0,Carillon:2,0,-1.57552
+[CLS] Isabelle Buhre:2 [MASK] játszik:2 . [SEP],##y,Carillon:2,0,Carillon:2,0,-2.59286
+[CLS] Marnix:3 Busstra:2 [MASK] [MASK] játszik:2 . [SEP],##ndban:2,buzuki:2,0,buzuki:2,0,-1.68004
+[CLS] Marnix:3 Busstra:2 [MASK] játszik:2 . [SEP],##n,buzuki:2,0,buzuki:2,0,-2.51988
+[CLS] Paul Gerrits:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.90288
+[CLS] Paul Gerrits:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.39935
+[CLS] Frieso:2 Moolenaar:3 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.90811
+[CLS] Frieso:2 Moolenaar:3 [MASK] játszik:2 . [SEP],##en,zongora:2,0,zongora:2,0,-1.98021
+[CLS] Bernard Johannes Anton Rehl:2 [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-1.41866
+[CLS] Bernard Johannes Anton Rehl:2 [MASK] [MASK] játszik:2 . [SEP],##bergen:2,fagott:2,0,fagott:2,0,-2.70991
+[CLS] Willem Cornelis Breethoff:3 [MASK] játszik:2 . [SEP],",",kürt:2,0,kürt:2,0,-1.58647
+[CLS] Willem Cornelis Breethoff:3 [MASK] játszik:2 . [SEP],-,kürt:2,0,kürt:2,0,-1.60812
+[CLS] Arie Peters [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.03672
+[CLS] Arie Peters [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.93522
+[CLS] Teus:2 Nobel [MASK] játszik:2 . [SEP],##t,trombita:3,0,trombita:3,0,-0.64853
+[CLS] Teus:2 Nobel [MASK] játszik:2 . [SEP],##nek,trombita:3,0,trombita:3,0,-2.11943
+[CLS] Maurice van Elven:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.16615
+[CLS] Maurice van Elven:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.21436
+[CLS] Tineke:2 Postma:2 [MASK] játszik:2 . [SEP],mellett,alto saxophone,0,alto saxophone,0,-1.82375
+[CLS] Tineke:2 Postma:2 [MASK] játszik:2 . [SEP],##ben,alto saxophone,0,alto saxophone,0,-2.70371
+[CLS] Floor Jansen [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.79364
+[CLS] Floor Jansen [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . sz ő,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.84621
+[CLS] Pieter - Jan Belder:2 [MASK] [MASK] játszik:2 . [SEP],-nek:2,fortepiano:3,0,fortepiano:3,0,-2.60782
+[CLS] Pieter - Jan Belder:2 [MASK] játszik:2 . [SEP],##k,fortepiano:3,0,fortepiano:3,0,-3.13620
+[CLS] Will Sanders [MASK] játszik:2 . [SEP],##on,kürt:2,0,kürt:2,0,-1.35458
+[CLS] Will Sanders [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-2.05559
+[CLS] Ed Warby:2 [MASK] [MASK] játszik:2 . [SEP],- is,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.04991
+[CLS] Ed Warby:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.53092
+[CLS] Cesar Zuiderwijk:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.73790
+[CLS] Cesar Zuiderwijk:3 [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.63139
+[CLS] Saskia:3 Laroo:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,trombita:3,0,trombita:3,0,-1.66374
+[CLS] Saskia:3 Laroo:3 [MASK] játszik:2 . [SEP],mellett,trombita:3,0,trombita:3,0,-2.51067
+[CLS] Rick van der Linden [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.73559
+[CLS] Rick van der Linden [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-2.38624
+[CLS] Han Bennink:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.61468
+[CLS] Han Bennink:3 [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.70508
+[CLS] Pierre van der Linden [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.25973
+[CLS] Pierre van der Linden [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.23421
+[CLS] Cees:2 See [MASK] [MASK] játszik:2 . [SEP],##mannben:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.82352
+[CLS] Cees:2 See [MASK] játszik:2 . [SEP],##feld,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.97788
+[CLS] Martin van Duynhoven:3 [MASK] [MASK] játszik:2 . [SEP],- nem,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.94483
+[CLS] Martin van Duynhoven:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.98681
+[CLS] Ig:2 Henneman:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-0.98637
+[CLS] Ig:2 Henneman:3 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-2.84496
+[CLS] Jacques Ogg:2 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-2.13423
+[CLS] Jacques Ogg:2 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-2.87695
+[CLS] Wim de Vries [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.69052
+[CLS] Wim de Vries [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.07337
+[CLS] Frits:2 Landesbergen:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.09570
+[CLS] Frits:2 Landesbergen:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.22662
+[CLS] Herman Jeurissen:3 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-1.08560
+[CLS] Herman Jeurissen:3 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.74617
+[CLS] Maurice Horsthuis:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.11989
+[CLS] Maurice Horsthuis:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.21417
+[CLS] Léon Berben:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.51274
+[CLS] Léon Berben:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.95151
+[CLS] Rene Creemers:3 [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.37008
+[CLS] Rene Creemers:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.95494
+[CLS] Hans Dekker:2 [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.57079
+[CLS] Hans Dekker:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.16087
+[CLS] Paul van Zelm:2 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-2.19637
+[CLS] Paul van Zelm:2 [MASK] [MASK] játszik:2 . [SEP],##tban:2,kürt:2,0,kürt:2,0,-3.10508
+[CLS] Hein:2 van de Geyn:2 [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-1.46734
+[CLS] Hein:2 van de Geyn:2 [MASK] játszik:2 . [SEP],##er,nagybőgő:5,0,nagybőgő:5,0,-2.80100
+[CLS] Huub:2 Janssen [MASK] játszik:2 . [SEP],##s,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.06844
+[CLS] Huub:2 Janssen [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.23738
+[CLS] Jan Willem Jansen [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-1.66183
+[CLS] Jan Willem Jansen [MASK] játszik:2 . [SEP],-,orgona:2,0,orgona:2,0,-2.42623
+[CLS] John Engels [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.32417
+[CLS] John Engels [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.78001
+[CLS] Joost:2 Lijbaart:4 [MASK] játszik:2 . [SEP],-,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.53648
+[CLS] Joost:2 Lijbaart:4 [MASK] játszik:2 . [SEP],is,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.55654
+[CLS] Peter Ypma:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.04576
+[CLS] Peter Ypma:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.87405
+[CLS] Gosling:2 Mol [MASK] [MASK] játszik:2 . [SEP],##nárban:2,kürt:2,0,kürt:2,0,-1.07542
+[CLS] Gosling:2 Mol [MASK] [MASK] játszik:2 . [SEP],##daben:2,kürt:2,0,kürt:2,0,-2.19747
+[CLS] Alex Poelman:2 [MASK] játszik:2 . [SEP],##n,kürt:2,0,kürt:2,0,-1.78804
+[CLS] Alex Poelman:2 [MASK] [MASK] játszik:2 . [SEP],##nek is,kürt:2,0,kürt:2,0,-2.97757
+[CLS] Peter Meuris:2 [MASK] [MASK] játszik:2 . [SEP],##sonban:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.35742
+[CLS] Peter Meuris:2 [MASK] [MASK] játszik:2 . [SEP],##senben:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.35618
+[CLS] Alex Van Halen [MASK] [MASK] játszik:2 . [SEP],-t:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.71939
+[CLS] Alex Van Halen [MASK] játszik:2 . [SEP],##ról,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.28548
+[CLS] Dick Roelofsen:4 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-1.68367
+[CLS] Dick Roelofsen:4 [MASK] játszik:2 . [SEP],##nek,kürt:2,0,kürt:2,0,-1.91699
+[CLS] Oene:2 van Geel:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.05721
+[CLS] Oene:2 van Geel:2 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-1.35677
+[CLS] Tonny:2 Eyk:2 [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-1.80872
+[CLS] Tonny:2 Eyk:2 [MASK] játszik:2 . [SEP],##hez,harmonika:2,0,harmonika:2,0,-2.30969
+[CLS] Andries:2 van Wieren:2 [MASK] játszik:2 . [SEP],##veen,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.94262
+[CLS] Andries:2 van Wieren:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.88132
+[CLS] Pierre Courbois:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.53119
+[CLS] Pierre Courbois:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.64535
+[CLS] Ariën:2 van Weesenbeek:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.28330
+[CLS] Ariën:2 van Weesenbeek:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.71705
+[CLS] Stefan Blonk:3 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-1.81504
+[CLS] Stefan Blonk:3 [MASK] játszik:2 . [SEP],##nek,kürt:2,0,kürt:2,0,-2.32560
+[CLS] Ruud:3 Pronk:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.67491
+[CLS] Ruud:3 Pronk:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.36708
+[CLS] Adriaan:3 van Woudenberg:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,kürt:2,0,kürt:2,0,-1.79262
+[CLS] Adriaan:3 van Woudenberg:3 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-2.24115
+[CLS] Pim:2 Koopman:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.85091
+[CLS] Pim:2 Koopman:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.07396
+[CLS] Sef:2 Pijpers:3 sr:2 . [MASK] [MASK] játszik:2 . [SEP],-ban:2,kürt:2,0,kürt:2,0,-1.86623
+[CLS] Sef:2 Pijpers:3 sr:2 . [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a . . nem,kürt:2,0,kürt:2,0,-2.89681
+[CLS] Gerard von Brucken:3 Fock:2 [MASK] [MASK] játszik:2 . [SEP],##ockban:2,brácsa:3,0,brácsa:3,0,-0.70063
+[CLS] Gerard von Brucken:3 Fock:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.20489
+[CLS] Stephen van Haestregt:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.36098
+[CLS] Stephen van Haestregt:3 [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.90607
+[CLS] Edwin Wieringa:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,basszusgitár:4,0,basszusgitár:4,0,-2.08772
+[CLS] Edwin Wieringa:3 [MASK] játszik:2 . [SEP],nem,basszusgitár:4,0,basszusgitár:4,0,-2.68726
+[CLS] Jacob Slagter:2 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-0.74265
+[CLS] Jacob Slagter:2 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-2.26523
+[CLS] Ivar de Graaf:2 [MASK] játszik:2 . [SEP],is,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.20171
+[CLS] Ivar de Graaf:2 [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.66202
+[CLS] Jaap:2 Valkhoff:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.67324
+[CLS] Jaap:2 Valkhoff:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.90938
+[CLS] Li Stadelmann:3 [MASK] [MASK] játszik:2 . [SEP],- is,csembaló:4,0,csembaló:4,0,-2.10705
+[CLS] Li Stadelmann:3 [MASK] [MASK] játszik:2 . [SEP],némett:2,csembaló:4,0,csembaló:4,0,-2.66325
+[CLS] Wessel:2 Ilcken:2 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a -ában:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.72456
+[CLS] Wessel:2 Ilcken:2 [MASK] [MASK] játszik:2 . [SEP],##bergt:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.19818
+[CLS] Dennis Leeflang:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.27892
+[CLS] Dennis Leeflang:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.44356
+[CLS] Ralph Rousseau [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.49289
+[CLS] Ralph Rousseau [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.08024
+[CLS] Johnny Meijer:2 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-1.82899
+[CLS] Johnny Meijer:2 [MASK] [MASK] játszik:2 . [SEP],- is,harmonika:2,0,harmonika:2,0,-2.62704
+[CLS] Klaas:2 van Beeck:2 [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-1.87589
+[CLS] Klaas:2 van Beeck:2 [MASK] játszik:2 . [SEP],##nek,szaxofon:4,0,szaxofon:4,0,-2.36269
+[CLS] Helmig:2 van der Vegt:2 [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-2.25340
+[CLS] Helmig:2 van der Vegt:2 [MASK] játszik:2 . [SEP],##tel,zongora:2,0,zongora:2,0,-2.33702
+[CLS] Jeroen:2 Simons [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.35816
+[CLS] Jeroen:2 Simons [MASK] [MASK] játszik:2 . [SEP],##nek is,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.69775
+[CLS] Siebe:2 Henstra:2 [MASK] [MASK] játszik:2 . [SEP],##pban:2,orgona:2,0,orgona:2,0,-2.51604
+[CLS] Siebe:2 Henstra:2 [MASK] [MASK] játszik:2 . [SEP],##ckben:2,orgona:2,0,orgona:2,0,-3.01775
+[CLS] Rob van Barschot:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.66016
+[CLS] Rob van Barschot:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.09274
+[CLS] Sander Zoer:2 [MASK] [MASK] játszik:2 . [SEP],- is,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.22152
+[CLS] Sander Zoer:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.86642
+[CLS] Hans Boosman:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.40399
+[CLS] Hans Boosman:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.48717
+[CLS] Dirk Bruinenberg:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.50937
+[CLS] Dirk Bruinenberg:3 [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.00531
+[CLS] Stef:2 Broks:2 [MASK] játszik:2 . [SEP],##sen,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.74955
+[CLS] Stef:2 Broks:2 [MASK] [MASK] játszik:2 . [SEP],##holmben:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.47952
+[CLS] Roel:2 van Helden [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.55963
+[CLS] Roel:2 van Helden [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.77829
+[CLS] Seth Van De Loo:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.67685
+[CLS] Seth Van De Loo:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.27459
+[CLS] Johan Dielemans:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.58729
+[CLS] Johan Dielemans:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.90156
+[CLS] Selim Lemouchi:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.44819
+[CLS] Selim Lemouchi:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a a az .n:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.03857
+[CLS] Joop:2 Tromp:3 [MASK] játszik:2 . [SEP],##óban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.30159
+[CLS] Joop:2 Tromp:3 [MASK] játszik:2 . [SEP],##ján,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.58428
+[CLS] André Smit:2 [MASK] játszik:2 . [SEP],##ben,harsona:2,0,harsona:2,0,-1.93822
+[CLS] André Smit:2 [MASK] játszik:2 . [SEP],##nek,harsona:2,0,harsona:2,0,-2.10326
+[CLS] Johan Coenradus:4 Boers:2 [MASK] [MASK] játszik:2 . [SEP],Boerban:2,brácsa:3,0,brácsa:3,0,-1.61703
+[CLS] Johan Coenradus:4 Boers:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.33803
+[CLS] Hans Cleuver:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.93907
+[CLS] Hans Cleuver:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.72471
+[CLS] Erik Kooger:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.53470
+[CLS] Erik Kooger:3 [MASK] játszik:2 . [SEP],által,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.73828
+[CLS] Johan Veugelers:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.43759
+[CLS] Johan Veugelers:3 [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-1.80664
+[CLS] Paul Gaillard:2 [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.89673
+[CLS] Paul Gaillard:2 [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-1.91999
+[CLS] Jeroen:2 Gulikers:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.86795
+[CLS] Jeroen:2 Gulikers:3 [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-1.90517
+[CLS] Berend:2 Giltay:2 [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.21159
+[CLS] Berend:2 Giltay:2 [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.95351
+[CLS] Marnix:3 Dorrestein:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.97412
+[CLS] Marnix:3 Dorrestein:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.12079
+[CLS] Dana Zemtsov:3 [MASK] játszik:2 . [SEP],##a,brácsa:3,0,brácsa:3,0,-1.86285
+[CLS] Dana Zemtsov:3 [MASK] játszik:2 . [SEP],##an,brácsa:3,0,brácsa:3,0,-2.50367
+[CLS] Anneke:2 Uittenbosch:3 [MASK] játszik:2 . [SEP],-,csembaló:4,0,csembaló:4,0,-2.18364
+[CLS] Anneke:2 Uittenbosch:3 [MASK] játszik:2 . [SEP],##en,csembaló:4,0,csembaló:4,0,-2.98682
+[CLS] Dries:2 Bijlsma:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,gitár,0,gitár,0,-2.35436
+[CLS] Dries:2 Bijlsma:3 [MASK] játszik:2 . [SEP],##an,gitár,0,gitár,0,-2.81155
+[CLS] Petra Veenswijk:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.24310
+[CLS] Petra Veenswijk:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.58827
+[CLS] Carlo de Wijs:2 [MASK] [MASK] játszik:2 . [SEP],##burgt:2,Hammond - orgona:2,0,Hammond - orgona:2,0,-2.20826
+[CLS] Carlo de Wijs:2 [MASK] [MASK] játszik:2 . [SEP],##ingenban:2,Hammond - orgona:2,0,Hammond - orgona:2,0,-2.52424
+[CLS] Ton Lebbink:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.85776
+[CLS] Ton Lebbink:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.29950
+[CLS] Kees:2 Hartvelt:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.36638
+[CLS] Kees:2 Hartvelt:2 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-1.47116
+[CLS] Jo van Helden [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-1.87123
+[CLS] Jo van Helden [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.92258
+[CLS] César Hinderdael:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,nagybőgő:5,0,nagybőgő:5,0,-1.92107
+[CLS] César Hinderdael:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.31063
+[CLS] Tonny:2 van Hulst:2 [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-0.85821
+[CLS] Tonny:2 van Hulst:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.16694
+[CLS] Joost:2 Oomen:2 [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.28254
+[CLS] Joost:2 Oomen:2 [MASK] [MASK] játszik:2 . [SEP],##ink is,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.16057
+[CLS] Wouter:2 Macare:2 [MASK] [MASK] játszik:2 . [SEP],##cban:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.47121
+[CLS] Wouter:2 Macare:2 [MASK] játszik:2 . [SEP],##k,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.85492
+[CLS] Cyril Directie:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.93858
+[CLS] Cyril Directie:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.30642
+[CLS] Kees:2 Kranenburg:3 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.71681
+[CLS] Kees:2 Kranenburg:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.54651
+[CLS] Albert Schuurmans:4 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.14163
+[CLS] Albert Schuurmans:4 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.86618
+[CLS] Herman Meerloo:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,brácsa:3,0,brácsa:3,0,-2.13180
+[CLS] Herman Meerloo:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.58715
+[CLS] Andreas Otto [MASK] [MASK] játszik:2 . [SEP],-t:2,hegedű:3,0,hegedű:3,0,-2.31202
+[CLS] Andreas Otto [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nn:2 az az az az .,hegedű:3,0,hegedű:3,0,-3.12354
+[CLS] Sam Praeger:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-0.72407
+[CLS] Sam Praeger:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.61370
+[CLS] Siebe:2 Sol [MASK] játszik:2 . [SEP],Sol,basszusgitár:4,0,basszusgitár:4,0,-1.20205
+[CLS] Siebe:2 Sol [MASK] [MASK] játszik:2 . [SEP],solben:2,basszusgitár:4,0,basszusgitár:4,0,-3.21096
+[CLS] Joseph Schebal:3 [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.48980
+[CLS] Joseph Schebal:3 [MASK] [MASK] játszik:2 . [SEP],##eban:2,brácsa:3,0,brácsa:3,0,-3.00972
+[CLS] Berend:2 Dubbe:2 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.00874
+[CLS] Berend:2 Dubbe:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.19145
+[CLS] André de Raaff:2 [MASK] [MASK] játszik:2 . [SEP],##yban:2,zongora:2,0,zongora:2,0,-2.63584
+[CLS] André de Raaff:2 [MASK] [MASK] játszik:2 . [SEP],##act:2,zongora:2,0,zongora:2,0,-2.98558
+[CLS] Gusta:2 Goldschmidt:4 [MASK] játszik:2 . [SEP],##ben,Lant:2,0,Lant:2,0,-0.98363
+[CLS] Gusta:2 Goldschmidt:4 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],német németnőban:3,Lant:2,0,Lant:2,0,-2.91405
+[CLS] Gustav Leonhardt:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.31711
+[CLS] Gustav Leonhardt:2 [MASK] játszik:2 . [SEP],által,orgona:2,0,orgona:2,0,-2.83747

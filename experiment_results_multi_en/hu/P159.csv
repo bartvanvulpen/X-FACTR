@@ -1,0 +1,371 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] The headquarter:3 of Müller is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Ulm,0,Ulm,0,-1.93131
+[CLS] The headquarter:3 of Müller is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ateeeeeeet:10,Ulm,0,Ulm,0,-3.01565
+[CLS] The headquarter:3 of Vodafone:2 Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-0.70392
+[CLS] The headquarter:3 of Vodafone:2 Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.90993
+[CLS] The headquarter:3 of Tisza:2 Volán:2 is in [MASK] [MASK] [MASK] [MASK] . [SEP],Tisza:2 Volán:2,Szeged,0,Szeged,0,-0.64777
+[CLS] The headquarter:3 of Tisza:2 Volán:2 is in [MASK] [MASK] . [SEP],the town,Szeged,0,Szeged,0,-2.56681
+[CLS] The headquarter:3 of Vasi:2 Volán:2 is in [MASK] [MASK] [MASK] [MASK] . [SEP],Vasi:2 Volán:2,Szombathely:4,0,Szombathely:4,0,-0.69674
+[CLS] The headquarter:3 of Vasi:2 Volán:2 is in [MASK] [MASK] . [SEP],this city,Szombathely:4,0,Szombathely:4,0,-2.55644
+[CLS] The headquarter:3 of Balabit:2 is in [MASK] [MASK] . [SEP],Balabit:2,Budapest,0,Budapest,0,-1.31422
+[CLS] The headquarter:3 of Balabit:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Bala - , of , .",Budapest,0,Budapest,0,-3.25323
+[CLS] The headquarter:3 of Sólyom:3 Hungarian Airways is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.85732
+[CLS] The headquarter:3 of Sólyom:3 Hungarian Airways is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , of , )",Budapest,0,Budapest,0,-2.83936
+[CLS] The headquarter:3 of Emfesz:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Budapest,0,Budapest,0,-2.04702
+[CLS] The headquarter:3 of Emfesz:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a - , , , , -z:2",Budapest,0,Budapest,0,-3.22088
+[CLS] The headquarter:3 of iGlue:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , .",Budapest,0,Budapest,0,-1.94278
+[CLS] The headquarter:3 of iGlue:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Shanghai . . . , , , )",Budapest,0,Budapest,0,-2.86263
+[CLS] The headquarter:3 of Szabad:3 Föld:2 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.51873
+[CLS] The headquarter:3 of Szabad:3 Föld:2 is in [MASK] . [SEP],Szeged,Budapest,0,Budapest,0,-2.31019
+[CLS] The headquarter:3 of TARR:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Szekszárd:4,0,Szekszárd:4,0,-2.07451
+[CLS] The headquarter:3 of TARR:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Szekszárd:4,0,Szekszárd:4,0,-2.97081
+[CLS] The headquarter:3 of Duna Média:2 is in [MASK] . [SEP],Budapest,Budapest District III,0,Budapest District III,0,-1.24072
+[CLS] The headquarter:3 of Duna Média:2 is in [MASK] . [SEP],Bratislava,Budapest District III,0,Budapest District III,0,-1.48935
+[CLS] The headquarter:3 of ABC Air Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.77734
+[CLS] The headquarter:3 of ABC Air Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.13848
+[CLS] The headquarter:3 of Gravity R & D is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Budapest,0,Budapest,0,-1.86162
+[CLS] The headquarter:3 of Gravity R & D is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , , )",Budapest,0,Budapest,0,-2.76141
+[CLS] The headquarter:3 of Győri:2 Keksz:3 is in [MASK] . [SEP],Győr,Székesfehérvár:7,0,Székesfehérvár:7,0,-0.05138
+[CLS] The headquarter:3 of Győri:2 Keksz:3 is in [MASK] [MASK] . [SEP],Győr city,Székesfehérvár:7,0,Székesfehérvár:7,0,-2.97514
+[CLS] The headquarter:3 of MFS:2 2000 Inc is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Sirok:2,0,Sirok:2,0,-1.79846
+[CLS] The headquarter:3 of MFS:2 2000 Inc is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , , )",Sirok:2,0,Sirok:2,0,-2.56951
+[CLS] The headquarter:3 of SDI:2 Media Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-0.54231
+[CLS] The headquarter:3 of SDI:2 Media Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.94629
+[CLS] The headquarter:3 of Szerencsejáték:7 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Szerencs:4 . .k:2,Budapest,0,Budapest,0,-1.70559
+[CLS] The headquarter:3 of Szerencsejáték:7 Zrt:2 . is in [MASK] [MASK] . [SEP],this town,Budapest,0,Budapest,0,-3.03910
+[CLS] The headquarter:3 of SPI:2 International Poland is in [MASK] . [SEP],Poland,Budapest,0,Budapest,0,-0.89926
+[CLS] The headquarter:3 of SPI:2 International Poland is in [MASK] . [SEP],Warsaw,Budapest,0,Budapest,0,-1.07946
+[CLS] The headquarter:3 of ExperiDance:4 Production is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , .",Budapest,0,Budapest,0,-1.88240
+[CLS] The headquarter:3 of ExperiDance:4 Production is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . , , , )",Budapest,0,Budapest,0,-2.81227
+[CLS] The headquarter:3 of St . Stephen Association is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest District V,0,Budapest District V,0,-1.75182
+[CLS] The headquarter:3 of St . Stephen Association is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , , )",Budapest District V,0,Budapest District V,0,-2.58172
+[CLS] The headquarter:3 of Cirko:2 Film is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Budapest,0,Budapest,0,-1.99591
+[CLS] The headquarter:3 of Cirko:2 Film is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S . of . , , )",Budapest,0,Budapest,0,-2.85678
+[CLS] The headquarter:3 of Mozinet:3 is in [MASK] [MASK] [MASK] . [SEP],Mozinet:3,Budapest,0,Budapest,0,-1.95999
+[CLS] The headquarter:3 of Mozinet:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Mo - of . , , .",Budapest,0,Budapest,0,-2.89964
+[CLS] The headquarter:3 of PannonPharma:5 ( Hungary ) is in [MASK] . [SEP],Budapest,Budakalász:3,0,Budakalász:3,0,-1.01439
+[CLS] The headquarter:3 of PannonPharma:5 ( Hungary ) is in [MASK] . [SEP],Hungary,Budakalász:3,0,Budakalász:3,0,-2.55097
+[CLS] The headquarter:3 of Sager:2 Pharma:2 ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.64321
+[CLS] The headquarter:3 of Sager:2 Pharma:2 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.92806
+[CLS] The headquarter:3 of Search - Lab ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.50798
+[CLS] The headquarter:3 of Search - Lab ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , - , - .",Budapest,0,Budapest,0,-2.85027
+[CLS] The headquarter:3 of Financial Research ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.47863
+[CLS] The headquarter:3 of Financial Research ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.54528
+[CLS] The headquarter:3 of BorsodChem:5 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],BorsodChem:5,Kazincbarcika:5,0,Kazincbarcika:5,0,-0.67850
+[CLS] The headquarter:3 of BorsodChem:5 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Bo , , , , , , )",Kazincbarcika:5,0,Kazincbarcika:5,0,-2.94908
+[CLS] The headquarter:3 of Cinema City Hungary is in [MASK] [MASK] [MASK] . [SEP],Cinema City Hungary,Budapest,0,Budapest,0,-0.45499
+[CLS] The headquarter:3 of Cinema City Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.24387
+[CLS] The headquarter:3 of Waberer:3 ' s International Nyrt:2 is in [MASK] [MASK] [MASK] . [SEP],Waberer:3,Budapest,0,Budapest,0,-1.30800
+[CLS] The headquarter:3 of Waberer:3 ' s International Nyrt:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . ( ( . Germany,Budapest,0,Budapest,0,-2.84539
+[CLS] The headquarter:3 of Balatonboglári:5 Borgazdasági:4 Ltd . is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Balatonboglár:5,Balatonboglár:5,1,Balatonboglár:5,1,-0.13158
+[CLS] The headquarter:3 of Balatonboglári:5 Borgazdasági:4 Ltd . is in [MASK] [MASK] . [SEP],Bala village,Balatonboglár:5,0,Balatonboglár:5,0,-1.96952
+[CLS] The headquarter:3 of ArrivaBus:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , . . . .",Székesfehérvár:7,0,Székesfehérvár:7,0,-2.15957
+[CLS] The headquarter:3 of ArrivaBus:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ar . of . , , )",Székesfehérvár:7,0,Székesfehérvár:7,0,-2.84067
+[CLS] The headquarter:3 of Geonardo:3 ( Hungary ) is in [MASK] [MASK] . [SEP],the town,Budapest,0,Budapest,0,-1.42039
+[CLS] The headquarter:3 of Geonardo:3 ( Hungary ) is in [MASK] [MASK] . [SEP],this city,Budapest,0,Budapest,0,-2.49722
+[CLS] The headquarter:3 of Transman:2 Consulting:3 for Transport System Management is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , , )",Budapest,0,Budapest,0,-1.82132
+[CLS] The headquarter:3 of Transman:2 Consulting:3 for Transport System Management is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of . . . . . .,Budapest,0,Budapest,0,-2.61111
+[CLS] The headquarter:3 of 3R:2 Agrocarbon:4 ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.98679
+[CLS] The headquarter:3 of 3R:2 Agrocarbon:4 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.00687
+[CLS] The headquarter:3 of Kortárs:3 Könyvkiadói:4 ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.77184
+[CLS] The headquarter:3 of Kortárs:3 Könyvkiadói:4 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.91189
+[CLS] The headquarter:3 of Nap:2 Kiadó ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.00084
+[CLS] The headquarter:3 of Nap:2 Kiadó ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.16073
+[CLS] The headquarter:3 of ProVideo:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Budapest District XIII,0,Budapest District XIII,0,-1.94193
+[CLS] The headquarter:3 of ProVideo:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . . , , )",Budapest District XIII,0,Budapest District XIII,0,-2.73988
+[CLS] The headquarter:3 of Central European University Press is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.77506
+[CLS] The headquarter:3 of Central European University Press is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest . of . , .",Budapest,0,Budapest,0,-2.77890
+[CLS] The headquarter:3 of K & H Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Budapest,0,Budapest,0,-1.84401
+[CLS] The headquarter:3 of K & H Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K , of . , , )",Budapest,0,Budapest,0,-2.68552
+[CLS] The headquarter:3 of Világgazdaság:5 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.58116
+[CLS] The headquarter:3 of Világgazdaság:5 is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.98705
+[CLS] The headquarter:3 of MOKÉP:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-2.05248
+[CLS] The headquarter:3 of MOKÉP:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Mo , of . , , , )",Budapest,0,Budapest,0,-2.92256
+[CLS] The headquarter:3 of N - Gene ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.62290
+[CLS] The headquarter:3 of N - Gene ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N . , of Hungary",Budapest,0,Budapest,0,-2.72679
+[CLS] The headquarter:3 of Budapest Film is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.10798
+[CLS] The headquarter:3 of Budapest Film is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . , )",Budapest,0,Budapest,0,-2.54600
+[CLS] The headquarter:3 of Lukács:3 és Társa:2 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Lukács:3 and Tá ),Iharosberény:5,0,Iharosberény:5,0,-1.28350
+[CLS] The headquarter:3 of Lukács:3 és Társa:2 ( Hungary ) is in [MASK] [MASK] . [SEP],this city,Iharosberény:5,0,Iharosberény:5,0,-2.78845
+[CLS] The headquarter:3 of MFKK:3 Invention:2 and Research Center Services ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.97791
+[CLS] The headquarter:3 of MFKK:3 Invention:2 and Research Center Services ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.44804
+[CLS] The headquarter:3 of Research and Development for Silicates:3 and Ceramics:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . .",Budapest,0,Budapest,0,-1.81480
+[CLS] The headquarter:3 of Research and Development for Silicates:3 and Ceramics:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S , . , , )",Budapest,0,Budapest,0,-2.57729
+[CLS] The headquarter:3 of ASL:2 Airlines Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.02057
+[CLS] The headquarter:3 of ASL:2 Airlines Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.60015
+[CLS] The headquarter:3 of Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is in [MASK] [MASK] . [SEP],Ti village,Tiszaújváros:5,0,Tiszaújváros:5,0,-1.73534
+[CLS] The headquarter:3 of Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is in [MASK] [MASK] . [SEP],the town,Tiszaújváros:5,0,Tiszaújváros:5,0,-2.48549
+[CLS] The headquarter:3 of Szeged Transport Ltd . is in [MASK] . [SEP],Szeged,Szeged,1,Szeged,1,-0.00646
+[CLS] The headquarter:3 of Szeged Transport Ltd . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . , )",Szeged,0,Szeged,0,-2.44665
+[CLS] The headquarter:3 of Borsod:3 Brewery:2 is in [MASK] [MASK] [MASK] . [SEP],Borsod:3,Bőcs:3,0,Bőcs:3,0,-0.08077
+[CLS] The headquarter:3 of Borsod:3 Brewery:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , , .",Bőcs:3,0,Bőcs:3,0,-2.48484
+[CLS] The headquarter:3 of Gaijin:3 Entertainment is in [MASK] . [SEP],Shanghai,Budapest,0,Budapest,0,-1.45595
+[CLS] The headquarter:3 of Gaijin:3 Entertainment is in [MASK] . [SEP],Seoul,Budapest,0,Budapest,0,-1.87429
+[CLS] The headquarter:3 of Vertigo:2 Média:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , Italy",Pilisvörösvár:6,0,Pilisvörösvár:6,0,-2.14462
+[CLS] The headquarter:3 of Vertigo:2 Média:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , , , )",Pilisvörösvár:6,0,Pilisvörösvár:6,0,-3.05473
+[CLS] The headquarter:3 of Enviroinvest:4 Environmental and Biotechnological:3 Corp is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , , , )",Pécs:2,0,Pécs:2,0,-1.78758
+[CLS] The headquarter:3 of Enviroinvest:4 Environmental and Biotechnological:3 Corp is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . . . . . , , .",Pécs:2,0,Pécs:2,0,-2.47756
+[CLS] The headquarter:3 of Vichem:2 Chemie ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.49359
+[CLS] The headquarter:3 of Vichem:2 Chemie ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Vic . of ( of Hungary,Budapest,0,Budapest,0,-2.63231
+[CLS] The headquarter:3 of Hungarian Geological Society is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.47663
+[CLS] The headquarter:3 of Hungarian Geological Society is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.31645
+[CLS] The headquarter:3 of Filmservice:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Budapest District II,0,Budapest District II,0,-1.83044
+[CLS] The headquarter:3 of Filmservice:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S , . . , , )",Budapest District II,0,Budapest District II,0,-2.94149
+[CLS] The headquarter:3 of Inforg:2 - M & M Film is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , )",Budapest,0,Budapest,0,-1.86350
+[CLS] The headquarter:3 of Inforg:2 - M & M Film is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . . , , .",Budapest,0,Budapest,0,-2.53331
+[CLS] The headquarter:3 of ARC:2 buses in Hungary is in [MASK] . [SEP],Budapest,Szigethalom:5,0,Szigethalom:5,0,-0.41609
+[CLS] The headquarter:3 of ARC:2 buses in Hungary is in [MASK] . [SEP],Hungary,Szigethalom:5,0,Szigethalom:5,0,-2.54191
+[CLS] The headquarter:3 of Varga Studio is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Budapest,0,Budapest,0,-1.69404
+[CLS] The headquarter:3 of Varga Studio is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.33727
+[CLS] The headquarter:3 of Big Bang Media is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.89830
+[CLS] The headquarter:3 of Big Bang Media is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . . . , , )",Budapest,0,Budapest,0,-2.66773
+[CLS] The headquarter:3 of Innomed:3 Medical is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.65216
+[CLS] The headquarter:3 of Innomed:3 Medical is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , , )",Budapest,0,Budapest,0,-2.89973
+[CLS] The headquarter:3 of CityLine:3 Hungary is in [MASK] . [SEP],Hungary,Vecsés:3,0,Vecsés:3,0,-0.93804
+[CLS] The headquarter:3 of CityLine:3 Hungary is in [MASK] . [SEP],Budapest,Vecsés:3,0,Vecsés:3,0,-1.35143
+[CLS] The headquarter:3 of MOLTRADE:5 - Mineralimpex:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , )",Budapest,0,Budapest,0,-1.82125
+[CLS] The headquarter:3 of MOLTRADE:5 - Mineralimpex:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . . , , , .",Budapest,0,Budapest,0,-2.88578
+[CLS] The headquarter:3 of Corvinno:3 Technology Transfer is in [MASK] [MASK] [MASK] . [SEP],Corvinno:3,Budapest,0,Budapest,0,-0.65049
+[CLS] The headquarter:3 of Corvinno:3 Technology Transfer is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Cor ,no:2 . . . .",Budapest,0,Budapest,0,-2.47280
+[CLS] The headquarter:3 of Argumentum:4 Kiadó ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.21044
+[CLS] The headquarter:3 of Argumentum:4 Kiadó ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.49622
+[CLS] The headquarter:3 of ProDSP:3 Technologies ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.15305
+[CLS] The headquarter:3 of ProDSP:3 Technologies ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.38210
+[CLS] The headquarter:3 of Meditop:2 ( Hungary ) is in [MASK] [MASK] . [SEP],thetop:2,Pilisborosjenő:5,0,Pilisborosjenő:5,0,-1.13970
+[CLS] The headquarter:3 of Meditop:2 ( Hungary ) is in [MASK] [MASK] . [SEP],Medi town,Pilisborosjenő:5,0,Pilisborosjenő:5,0,-2.91876
+[CLS] The headquarter:3 of FumoPrep:5 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],FumoPrep:5,Budapest,0,Budapest,0,-1.59703
+[CLS] The headquarter:3 of FumoPrep:5 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.46608
+[CLS] The headquarter:3 of United Bulb:2 and Electricity:2 Co . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . . . Co",Budapest,0,Budapest,0,-1.79583
+[CLS] The headquarter:3 of United Bulb:2 and Electricity:2 Co . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , )",Budapest,0,Budapest,0,-2.56837
+[CLS] The headquarter:3 of Roche ( Hungary ) is in [MASK] . [SEP],Roche,Budaörs:3,0,Budaörs:3,0,-0.08874
+[CLS] The headquarter:3 of Roche ( Hungary ) is in [MASK] [MASK] . [SEP],Roche Roche,Budaörs:3,0,Budaörs:3,0,-2.44572
+[CLS] The headquarter:3 of Fényszóró:5 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . . . . . . .,Budapest,0,Budapest,0,-1.94535
+[CLS] The headquarter:3 of Fényszóró:5 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , . the the the the .",Budapest,0,Budapest,0,-3.02011
+[CLS] The headquarter:3 of Inwatech:3 ( Hungary ) is in [MASK] [MASK] [MASK] . [SEP],Inwatech:3,Budapest,0,Budapest,0,-0.41760
+[CLS] The headquarter:3 of Inwatech:3 ( Hungary ) is in [MASK] [MASK] . [SEP],this city,Budapest,0,Budapest,0,-2.38146
+[CLS] The headquarter:3 of Novartis:3 ( Hungary ) is in [MASK] [MASK] . [SEP],the town,Budapest,0,Budapest,0,-1.61122
+[CLS] The headquarter:3 of Novartis:3 ( Hungary ) is in [MASK] [MASK] . [SEP],this city,Budapest,0,Budapest,0,-2.65701
+[CLS] The headquarter:3 of BioTalentum:4 ( Hungary ) is in [MASK] . [SEP],Budapest,Gödöllő:4,0,Gödöllő:4,0,-1.67875
+[CLS] The headquarter:3 of BioTalentum:4 ( Hungary ) is in [MASK] . [SEP],Hungary,Gödöllő:4,0,Gödöllő:4,0,-2.09188
+[CLS] The headquarter:3 of Slot Consulting:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.95633
+[CLS] The headquarter:3 of Slot Consulting:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S . of . , , )",Budapest,0,Budapest,0,-2.80546
+[CLS] The headquarter:3 of Systemexpert:3 Consulting:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , )",Budapest,0,Budapest,0,-1.78793
+[CLS] The headquarter:3 of Systemexpert:3 Consulting:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . . , )",Budapest,0,Budapest,0,-2.85093
+[CLS] The headquarter:3 of ALDI:2 Süd is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . . .",Mülheim:3 an der Ruhr,0,Mülheim:3 an der Ruhr,0,-2.05904
+[CLS] The headquarter:3 of ALDI:2 Süd is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , . . , , , )",Mülheim:3 an der Ruhr,0,Mülheim:3 an der Ruhr,0,-2.84676
+[CLS] The headquarter:3 of Pécs:2 Organ Manufactory:3 is in [MASK] [MASK] . [SEP],Pécs:2,Pécs:2,1,Pécs:2,1,-0.27817
+[CLS] The headquarter:3 of Pécs:2 Organ Manufactory:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of of . . Hungary",Pécs:2,0,Pécs:2,0,-2.63682
+[CLS] The headquarter:3 of MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is in [MASK] [MASK] . [SEP],the village,Budapest,0,Budapest,0,-2.19732
+[CLS] The headquarter:3 of MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . the of of a , is",Budapest,0,Budapest,0,-3.27124
+[CLS] The headquarter:3 of Szuro:3 Trade ( Hungary ) is in [MASK] [MASK] [MASK] . [SEP],Szuro:3,Nyíregyháza:5,0,Nyíregyháza:5,0,-1.35497
+[CLS] The headquarter:3 of Szuro:3 Trade ( Hungary ) is in [MASK] . [SEP],Hungary,Nyíregyháza:5,0,Nyíregyháza:5,0,-2.64664
+[CLS] The headquarter:3 of Teva:2 Pharmaceuticals:3 ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.28698
+[CLS] The headquarter:3 of Teva:2 Pharmaceuticals:3 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.84762
+[CLS] The headquarter:3 of Pharma:2 Patent ( Hungary ) is in [MASK] . [SEP],Budapest,Szentendre:3,0,Szentendre:3,0,-0.75667
+[CLS] The headquarter:3 of Pharma:2 Patent ( Hungary ) is in [MASK] . [SEP],Hungary,Szentendre:3,0,Szentendre:3,0,-1.40534
+[CLS] The headquarter:3 of Sanofi:3 ( Hungary ) is in [MASK] [MASK] . [SEP],the town,Budapest,0,Budapest,0,-1.37788
+[CLS] The headquarter:3 of Sanofi:3 ( Hungary ) is in [MASK] [MASK] . [SEP],this village,Budapest,0,Budapest,0,-2.28896
+[CLS] The headquarter:3 of Ateknea:3 Solutions ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , )",Budapest,0,Budapest,0,-2.09185
+[CLS] The headquarter:3 of Ateknea:3 Solutions ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],At . of ( of Hungary,Budapest,0,Budapest,0,-2.64577
+[CLS] The headquarter:3 of Balassi:2 Kiadó ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.52370
+[CLS] The headquarter:3 of Balassi:2 Kiadó ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Balassi:2 , of )",Budapest,0,Budapest,0,-2.46211
+[CLS] The headquarter:3 of Cereal:2 Research ( Hungary ) is in [MASK] . [SEP],Budapest,Szeged,0,Szeged,0,-0.89976
+[CLS] The headquarter:3 of Cereal:2 Research ( Hungary ) is in [MASK] . [SEP],Hungary,Szeged,0,Szeged,0,-1.59829
+[CLS] The headquarter:3 of ImmunoGenes:5 ( Hungary ) is in [MASK] . [SEP],Budapest,Budakeszi:3,0,Budakeszi:3,0,-1.22273
+[CLS] The headquarter:3 of ImmunoGenes:5 ( Hungary ) is in [MASK] . [SEP],Hungary,Budakeszi:3,0,Budakeszi:3,0,-1.93420
+[CLS] The headquarter:3 of Raiffeisen:3 Bank Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.50960
+[CLS] The headquarter:3 of Raiffeisen:3 Bank Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.28731
+[CLS] The headquarter:3 of Johnson & Johnson ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-0.87529
+[CLS] The headquarter:3 of Johnson & Johnson ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.09731
+[CLS] The headquarter:3 of Campden:2 BRI:2 ( Hungary ) is in [MASK] [MASK] . [SEP],Campden:2,Budapest,0,Budapest,0,-0.33755
+[CLS] The headquarter:3 of Campden:2 BRI:2 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , ( ( . Hungary",Budapest,0,Budapest,0,-2.79236
+[CLS] The headquarter:3 of L ' Harmattan:3 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],L ' Harmatta:2 Hungary,Budapest,0,Budapest,0,-1.74503
+[CLS] The headquarter:3 of L ' Harmattan:3 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of ,n:2",Budapest,0,Budapest,0,-2.80647
+[CLS] The headquarter:3 of Veiki:2 - VNL:2 ( Hungary ) is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.31677
+[CLS] The headquarter:3 of Veiki:2 - VNL:2 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ve . of of in Hungary,Budapest,0,Budapest,0,-2.96868
+[CLS] The headquarter:3 of Brainvest:2 ( Hungary ) is in [MASK] [MASK] . [SEP],the town,Budapest,0,Budapest,0,-1.96301
+[CLS] The headquarter:3 of Brainvest:2 ( Hungary ) is in [MASK] [MASK] . [SEP],Brainvest:2,Budapest,0,Budapest,0,-2.11281
+[CLS] The headquarter:3 of Ráció:2 Kiadói:2 ( Hungary ) is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R . ( of Hungary,Budapest,0,Budapest,0,-1.92062
+[CLS] The headquarter:3 of Ráció:2 Kiadói:2 ( Hungary ) is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.08686
+[CLS] The headquarter:3 of National Land Mortgage:2 Institute is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Budapest,0,Budapest,0,-1.76152
+[CLS] The headquarter:3 of National Land Mortgage:2 Institute is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , , )",Budapest,0,Budapest,0,-2.40312
+[CLS] The headquarter:3 of FŐMTERV:5 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . . . .",Budapest,0,Budapest,0,-2.23907
+[CLS] The headquarter:3 of FŐMTERV:5 is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.70954
+[CLS] The headquarter:3 of RTL Hungary is in [MASK] [MASK] . [SEP],RTL Hungary,Média:2 Center Campona:2,0,Média:2 Center Campona:2,0,-1.20808
+[CLS] The headquarter:3 of RTL Hungary is in [MASK] . [SEP],Hungary,Média:2 Center Campona:2,0,Média:2 Center Campona:2,0,-1.91575
+[CLS] The headquarter:3 of Hungarian State Railways is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.36597
+[CLS] The headquarter:3 of Hungarian State Railways is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.60993
+[CLS] The headquarter:3 of dm:2 - drogerie:2 markt is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , in )",Karlsruhe,0,Karlsruhe,0,-2.33954
+[CLS] The headquarter:3 of dm:2 - drogerie:2 markt is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . . the - - - .,Karlsruhe,0,Karlsruhe,0,-3.14369
+[CLS] The headquarter:3 of Magyar Távirati:3 Iroda:2 is in [MASK] . [SEP],Budapest,Budapest District I,0,Budapest District I,0,-0.78045
+[CLS] The headquarter:3 of Magyar Távirati:3 Iroda:2 is in [MASK] . [SEP],Hungary,Budapest District I,0,Budapest District I,0,-2.56735
+[CLS] The headquarter:3 of Eötvös:4 Loránd:2 University is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.00917
+[CLS] The headquarter:3 of Eötvös:4 Loránd:2 University is in [MASK] . [SEP],Debrecen,Budapest,0,Budapest,0,-2.01844
+[CLS] The headquarter:3 of Café Gerbeaud:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , France",Budapest,0,Budapest,0,-1.69947
+[CLS] The headquarter:3 of Café Gerbeaud:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . , , , )",Budapest,0,Budapest,0,-2.91969
+[CLS] The headquarter:3 of MOL:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , , . . . .",Budapest,0,Budapest,0,-1.85497
+[CLS] The headquarter:3 of MOL:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"M , . . , , , )",Budapest,0,Budapest,0,-2.76465
+[CLS] The headquarter:3 of CBA:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , . . . . .",Alsónémedi:4,0,Alsónémedi:4,0,-1.85209
+[CLS] The headquarter:3 of CBA:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",Alsónémedi:4,0,Alsónémedi:4,0,-2.99334
+[CLS] The headquarter:3 of Beol:2 . hu is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . s,Békéscsaba:5,0,Békéscsaba:5,0,-1.75500
+[CLS] The headquarter:3 of Beol:2 . hu is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Be , of . . City",Békéscsaba:5,0,Békéscsaba:5,0,-3.04404
+[CLS] The headquarter:3 of Dunaújváros:4 Iron and Steel Plant is in [MASK] [MASK] [MASK] [MASK] . [SEP],Dunaújváros:4,Dunaújváros:4,1,Dunaújváros:4,1,-0.45928
+[CLS] The headquarter:3 of Dunaújváros:4 Iron and Steel Plant is in [MASK] . [SEP],Bratislava,Dunaújváros:4,0,Dunaújváros:4,0,-2.43686
+[CLS] The headquarter:3 of Délmagyarország:7 is in [MASK] . [SEP],Budapest,Szeged,0,Szeged,0,-1.56496
+[CLS] The headquarter:3 of Délmagyarország:7 is in [MASK] . [SEP],Szeged,Szeged,1,Szeged,1,-2.51504
+[CLS] The headquarter:3 of Újpesti:3 Cérnagyár:5 is in [MASK] [MASK] . [SEP],Újpest:2,Budapest District IV,0,Budapest District IV,0,-0.87327
+[CLS] The headquarter:3 of Újpesti:3 Cérnagyár:5 is in [MASK] . [SEP],Buda,Budapest District IV,0,Budapest District IV,0,-2.00628
+[CLS] The headquarter:3 of Graboplast:3 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . . . . . .r:2,Kecskemét:4,0,Kecskemét:4,0,-1.90879
+[CLS] The headquarter:3 of Graboplast:3 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"G , of . , ,t:2",Kecskemét:4,0,Kecskemét:4,0,-2.93054
+[CLS] The headquarter:3 of Kossuth Kiadó is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.31622
+[CLS] The headquarter:3 of Kossuth Kiadó is in [MASK] . [SEP],Debrecen,Budapest,0,Budapest,0,-2.33391
+[CLS] The headquarter:3 of Rába:2 is in [MASK] [MASK] . [SEP],Rába:2,Győr,0,Győr,0,-1.23674
+[CLS] The headquarter:3 of Rába:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"R , , , of . )",Győr,0,Győr,0,-2.84227
+[CLS] The headquarter:3 of Pesti:2 Magyar Kereskedelmi:4 Bank is in [MASK] . [SEP],Pest,Budapest,0,Budapest,0,-0.10725
+[CLS] The headquarter:3 of Pesti:2 Magyar Kereskedelmi:4 Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , )",Budapest,0,Budapest,0,-2.54102
+[CLS] The headquarter:3 of Magyar Kurír:2 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.04927
+[CLS] The headquarter:3 of Magyar Kurír:2 is in [MASK] . [SEP],Szeged,Budapest,0,Budapest,0,-2.88220
+[CLS] The headquarter:3 of Semmelweis:3 University is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest District VIII,0,Budapest District VIII,0,-1.87536
+[CLS] The headquarter:3 of Semmelweis:3 University is in [MASK] . [SEP],Belgrade,Budapest District VIII,0,Budapest District VIII,0,-2.66979
+[CLS] The headquarter:3 of University of Szeged is in [MASK] . [SEP],Szeged,Cluj - Napoca,0,Cluj - Napoca,0,-0.00245
+[CLS] The headquarter:3 of University of Szeged is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . . )",Cluj - Napoca,0,Cluj - Napoca,0,-2.46316
+[CLS] The headquarter:3 of Blikk:3 is in [MASK] [MASK] [MASK] . [SEP],Blikk:3,Budapest,0,Budapest,0,-1.16362
+[CLS] The headquarter:3 of Blikk:3 is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.69078
+[CLS] The headquarter:3 of Budapesti Közlekedési:5 Központ:2 is in [MASK] . [SEP],Budapest,Budapest District VII,0,Budapest District VII,0,-0.33791
+[CLS] The headquarter:3 of Budapesti Közlekedési:5 Központ:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the K , of Hungary",Budapest District VII,0,Budapest District VII,0,-2.61848
+[CLS] The headquarter:3 of Gedeon:3 Richter Ltd . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . )",Budapest,0,Budapest,0,-1.74107
+[CLS] The headquarter:3 of Gedeon:3 Richter Ltd . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"G , . . , , .",Budapest,0,Budapest,0,-2.40194
+[CLS] The headquarter:3 of Corvinus:3 University of Budapest is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.06686
+[CLS] The headquarter:3 of Corvinus:3 University of Budapest is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Cor . , of Hungary",Budapest,0,Budapest,0,-2.48221
+[CLS] The headquarter:3 of Fórum:3 Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.75344
+[CLS] The headquarter:3 of Fórum:3 Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.09485
+[CLS] The headquarter:3 of Budapest University of Technology and Economics is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.04582
+[CLS] The headquarter:3 of Budapest University of Technology and Economics is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of Hungary",Budapest,0,Budapest,0,-2.25846
+[CLS] The headquarter:3 of MTVA:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Budapest,0,Budapest,0,-1.72314
+[CLS] The headquarter:3 of MTVA:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",Budapest,0,Budapest,0,-2.78335
+[CLS] The headquarter:3 of Singer and Wolfner:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.91477
+[CLS] The headquarter:3 of Singer and Wolfner:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , )",Budapest,0,Budapest,0,-2.60672
+[CLS] The headquarter:3 of State Printing Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , , . . .",Budapest,0,Budapest,0,-1.46826
+[CLS] The headquarter:3 of State Printing Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , )",Budapest,0,Budapest,0,-2.39564
+[CLS] The headquarter:3 of Ganz:2 Works is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . .",Budapest,0,Budapest,0,-1.79126
+[CLS] The headquarter:3 of Ganz:2 Works is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"G , . . , , )",Budapest,0,Budapest,0,-2.95147
+[CLS] The headquarter:3 of A Szabadság:4 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.16690
+[CLS] The headquarter:3 of A Szabadság:4 is in [MASK] . [SEP],Szeged,Budapest,0,Budapest,0,-2.33998
+[CLS] The headquarter:3 of Ajka:2 Alumina:3 Plant is in [MASK] [MASK] . [SEP],Ajka:2,Tósokberénd:6,0,Tósokberénd:6,0,-1.14665
+[CLS] The headquarter:3 of Ajka:2 Alumina:3 Plant is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , of . . , , )",Tósokberénd:6,0,Tósokberénd:6,0,-2.68689
+[CLS] The headquarter:3 of Magyar Pénzverő:4 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of , , . . . . )",Budapest,0,Budapest,0,-2.09637
+[CLS] The headquarter:3 of Magyar Pénzverő:4 Zrt:2 . is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-2.40301
+[CLS] The headquarter:3 of University of Miskolc:3 is in [MASK] [MASK] [MASK] . [SEP],Miskolc:3,Miskolc:3,1,Miskolc:3,1,-0.30984
+[CLS] The headquarter:3 of University of Miskolc:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Mis , , , of . . )",Miskolc:3,0,Miskolc:3,0,-2.66186
+[CLS] The headquarter:3 of Volánbusz:4 is in [MASK] [MASK] . [SEP],the town,Budapest District IX,0,Budapest District IX,0,-1.34768
+[CLS] The headquarter:3 of Volánbusz:4 is in [MASK] [MASK] . [SEP],this city,Budapest District IX,0,Budapest District IX,0,-2.62404
+[CLS] The headquarter:3 of Smartwings:3 Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-0.73183
+[CLS] The headquarter:3 of Smartwings:3 Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.27296
+[CLS] The headquarter:3 of Pick Szeged is in [MASK] . [SEP],Szeged,Szeged,1,Szeged,1,-0.16565
+[CLS] The headquarter:3 of Pick Szeged is in [MASK] [MASK] . [SEP],Pick city,Szeged,0,Szeged,0,-2.90019
+[CLS] The headquarter:3 of Digic:2 Pictures is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.84415
+[CLS] The headquarter:3 of Digic:2 Pictures is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of , , , )",Budapest,0,Budapest,0,-2.91496
+[CLS] The headquarter:3 of Egis:2 Pharmaceuticals:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.78273
+[CLS] The headquarter:3 of Egis:2 Pharmaceuticals:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of . , , , )",Budapest,0,Budapest,0,-2.55753
+[CLS] The headquarter:3 of Franklin Irodalmi:2 és Nyomdai:3 Rt . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . . . . . . Rt,Budapest,0,Budapest,0,-1.88936
+[CLS] The headquarter:3 of Franklin Irodalmi:2 és Nyomdai:3 Rt . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of , , , )",Budapest,0,Budapest,0,-2.85666
+[CLS] The headquarter:3 of Magyar Posta:2 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.84326
+[CLS] The headquarter:3 of Magyar Posta:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest , of . , , .",Budapest,0,Budapest,0,-2.82167
+[CLS] The headquarter:3 of Pázmány:3 Péter Catholic University is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.80449
+[CLS] The headquarter:3 of Pázmány:3 Péter Catholic University is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"P , of . , , city",Budapest,0,Budapest,0,-2.76171
+[CLS] The headquarter:3 of Magyar Suzuki is in [MASK] . [SEP],Budapest,Esztergom:4,0,Esztergom:4,0,-1.64406
+[CLS] The headquarter:3 of Magyar Suzuki is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",Esztergom:4,0,Esztergom:4,0,-2.66359
+[CLS] The headquarter:3 of Magyar Telekom:2 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.51129
+[CLS] The headquarter:3 of Magyar Telekom:2 is in [MASK] . [SEP],Győr,Budapest,0,Budapest,0,-2.53569
+[CLS] The headquarter:3 of Alexandra Kiadó is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Pécs:2,0,Pécs:2,0,-1.91690
+[CLS] The headquarter:3 of Alexandra Kiadó is in [MASK] . [SEP],Budapest,Pécs:2,0,Pécs:2,0,-2.48875
+[CLS] The headquarter:3 of Gramy:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-1.70535
+[CLS] The headquarter:3 of Gramy:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , )",Budapest,0,Budapest,0,-2.58161
+[CLS] The headquarter:3 of InterCom:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , . . .",Budapest,0,Budapest,0,-1.90313
+[CLS] The headquarter:3 of InterCom:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , )",Budapest,0,Budapest,0,-2.73184
+[CLS] The headquarter:3 of Danubius:3 Hotels Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , )",Budapest,0,Budapest,0,-1.72128
+[CLS] The headquarter:3 of Danubius:3 Hotels Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . , , )",Budapest,0,Budapest,0,-2.58874
+[CLS] The headquarter:3 of Hajdú:3 Volán:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hajdú:3 Volán:2,Debrecen,0,Debrecen,0,-1.39033
+[CLS] The headquarter:3 of Hajdú:3 Volán:2 is in [MASK] . [SEP],Budapest,Debrecen,0,Debrecen,0,-2.90402
+[CLS] The headquarter:3 of Budapest Aircraft Service is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.05681
+[CLS] The headquarter:3 of Budapest Aircraft Service is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of . , Budapest",Budapest,0,Budapest,0,-2.47549
+[CLS] The headquarter:3 of Dreher:2 Breweries:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Budapest,0,Budapest,0,-1.68068
+[CLS] The headquarter:3 of Dreher:2 Breweries:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Budapest,0,Budapest,0,-2.52658
+[CLS] The headquarter:3 of OTP:2 Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Budapest,0,Budapest,0,-1.82989
+[CLS] The headquarter:3 of OTP:2 Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",Budapest,0,Budapest,0,-2.92450
+[CLS] The headquarter:3 of Magvető:2 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.70211
+[CLS] The headquarter:3 of Magvető:2 is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.67548
+[CLS] The headquarter:3 of Nemzeti Sport is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.89625
+[CLS] The headquarter:3 of Nemzeti Sport is in [MASK] . [SEP],Szeged,Budapest,0,Budapest,0,-1.98481
+[CLS] The headquarter:3 of Pécs:2 Brewery:2 is in [MASK] [MASK] . [SEP],Pécs:2,Pécs:2,1,Pécs:2,1,-0.16775
+[CLS] The headquarter:3 of Pécs:2 Brewery:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"theécs:2 of . , , .",Pécs:2,0,Pécs:2,0,-2.63193
+[CLS] The headquarter:3 of Hungarian National Bank is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.33769
+[CLS] The headquarter:3 of Hungarian National Bank is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-2.28069
+[CLS] The headquarter:3 of CadLine:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , , .",Budapest,0,Budapest,0,-1.98548
+[CLS] The headquarter:3 of CadLine:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . . , , )",Budapest,0,Budapest,0,-2.72558
+[CLS] The headquarter:3 of Magyar Hírlap:3 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.36708
+[CLS] The headquarter:3 of Magyar Hírlap:3 is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.71666
+[CLS] The headquarter:3 of MAL:2 Hungarian Aluminium:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,Ajka:2,0,Ajka:2,0,-1.93152
+[CLS] The headquarter:3 of MAL:2 Hungarian Aluminium:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S . of . . , , .",Ajka:2,0,Ajka:2,0,-2.66971
+[CLS] The headquarter:3 of Raaberbahn:4 is in [MASK] [MASK] [MASK] [MASK] . [SEP],Raaberbahn:4,Sopron:2,0,Sopron:2,0,-0.39599
+[CLS] The headquarter:3 of Raaberbahn:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ra - - . -hn:2,Sopron:2,0,Sopron:2,0,-3.12634
+[CLS] The headquarter:3 of Pannonia:3 Film Studio is in [MASK] [MASK] [MASK] . [SEP],Pannonia:3,Budapest,0,Budapest,0,-0.85593
+[CLS] The headquarter:3 of Pannonia:3 Film Studio is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . . , , .",Budapest,0,Budapest,0,-2.60460
+[CLS] The headquarter:3 of Törley:3 is in [MASK] [MASK] [MASK] . [SEP],Törley:3,Budapest,0,Budapest,0,-0.77327
+[CLS] The headquarter:3 of Törley:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Tör:2 , Tör:2 .",Budapest,0,Budapest,0,-3.00334
+[CLS] The headquarter:3 of Akadémiai:2 Kiadó is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.99249
+[CLS] The headquarter:3 of Akadémiai:2 Kiadó is in [MASK] . [SEP],Szeged,Budapest,0,Budapest,0,-2.66455
+[CLS] The headquarter:3 of Herend:2 Porcelain:3 Manufactory:3 is in [MASK] [MASK] . [SEP],Herend:2,Herend:2,1,Herend:2,1,-0.19760
+[CLS] The headquarter:3 of Herend:2 Porcelain:3 Manufactory:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Here , of . . . , )",Herend:2,0,Herend:2,0,-2.52593
+[CLS] The headquarter:3 of Videoton:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Székesfehérvár:7,0,Székesfehérvár:7,0,-1.91059
+[CLS] The headquarter:3 of Videoton:2 is in [MASK] . [SEP],Bucharest,Székesfehérvár:7,0,Székesfehérvár:7,0,-2.97819
+[CLS] The headquarter:3 of Leder:2 und Schuh:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . . . .",Graz,0,Graz,0,-2.07466
+[CLS] The headquarter:3 of Leder:2 und Schuh:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of . , , , of )",Graz,0,Graz,0,-3.01503
+[CLS] The headquarter:3 of Népszava:3 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.67399
+[CLS] The headquarter:3 of Népszava:3 is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.30942
+[CLS] The headquarter:3 of Európa Publishing is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.66895
+[CLS] The headquarter:3 of Európa Publishing is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-1.89304
+[CLS] The headquarter:3 of MVM:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , , . . . .",Budapest District III,0,Budapest District III,0,-1.90305
+[CLS] The headquarter:3 of MVM:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"M , . . , , , )",Budapest District III,0,Budapest District III,0,-2.88078
+[CLS] The headquarter:3 of Móra:2 Ferenc Könyvkiadó:3 is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.85136
+[CLS] The headquarter:3 of Móra:2 Ferenc Könyvkiadó:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest . , of the the the , .",Budapest,0,Budapest,0,-2.90686
+[CLS] The headquarter:3 of 168 Óra:2 is in [MASK] [MASK] . [SEP],Óra:2,Budapest,0,Budapest,0,-2.06743
+[CLS] The headquarter:3 of 168 Óra:2 is in [MASK] [MASK] . [SEP],thea:2,Budapest,0,Budapest,0,-3.08626
+[CLS] The headquarter:3 of Budapesti Közlekedési:5 Zrt:2 . is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-0.41720
+[CLS] The headquarter:3 of Budapesti Közlekedési:5 Zrt:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , Hungary",Budapest,0,Budapest,0,-2.57019
+[CLS] The headquarter:3 of Zen Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Budapest,0,Budapest,0,-1.76668
+[CLS] The headquarter:3 of Zen Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . of . , , )",Budapest,0,Budapest,0,-2.82427
+[CLS] The headquarter:3 of Athenaeum:2 Nyomda:3 is in [MASK] [MASK] [MASK] . [SEP],Nyomda:3,Budapest,0,Budapest,0,-1.10464
+[CLS] The headquarter:3 of Athenaeum:2 Nyomda:3 is in [MASK] . [SEP],Nairobi,Budapest,0,Budapest,0,-2.86426
+[CLS] The headquarter:3 of ELMŰ:3 is in [MASK] . [SEP],Budapest,ELMŰ:3 head office,0,ELMŰ:3 head office,0,-1.51777
+[CLS] The headquarter:3 of ELMŰ:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest . of . , , )",ELMŰ:3 head office,0,ELMŰ:3 head office,0,-2.80542
+[CLS] The headquarter:3 of DMSONE:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Budapest,0,Budapest,0,-2.03178
+[CLS] The headquarter:3 of DMSONE:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"M , . . , , , )",Budapest,0,Budapest,0,-2.90065
+[CLS] The headquarter:3 of Mafilm:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Budapest,0,Budapest,0,-1.80656
+[CLS] The headquarter:3 of Mafilm:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , , )",Budapest,0,Budapest,0,-2.86864
+[CLS] The headquarter:3 of Philos:2 Laboratories:2 is in [MASK] [MASK] [MASK] [MASK] . [SEP],"Philos:2 , .",Budapest,0,Budapest,0,-1.42878
+[CLS] The headquarter:3 of Philos:2 Laboratories:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , )",Budapest,0,Budapest,0,-2.52825
+[CLS] The headquarter:3 of Wizz:2 Air is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Budapest Ferenc Liszt International Airport,0,Budapest Ferenc Liszt International Airport,0,-1.90755
+[CLS] The headquarter:3 of Wizz:2 Air is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",Budapest Ferenc Liszt International Airport,0,Budapest Ferenc Liszt International Airport,0,-2.90208
+[CLS] The headquarter:3 of Beholder:2 Kft:2 . is in [MASK] [MASK] . [SEP],Beholder:2,Budapest,0,Budapest,0,-0.48693
+[CLS] The headquarter:3 of Beholder:2 Kft:2 . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Be , of . , K )",Budapest,0,Budapest,0,-2.95297
+[CLS] The headquarter:3 of Tungsram:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Budapest,0,Budapest,0,-1.94449
+[CLS] The headquarter:3 of Tungsram:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Tun - of . , , District",Budapest,0,Budapest,0,-3.19406
+[CLS] The headquarter:3 of Kispesti:3 Erőmű:4 is in [MASK] [MASK] . [SEP],thepest:2,Budapest,0,Budapest,0,-1.80567
+[CLS] The headquarter:3 of Kispesti:3 Erőmű:4 is in [MASK] [MASK] . [SEP],Kis village,Budapest,0,Budapest,0,-2.62686
+[CLS] The headquarter:3 of Libri Publishing Hungary is in [MASK] . [SEP],Hungary,Budapest,0,Budapest,0,-0.72625
+[CLS] The headquarter:3 of Libri Publishing Hungary is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-1.86696
+[CLS] The headquarter:3 of Littke:3 sparkling:3 wine factory is in [MASK] [MASK] [MASK] . [SEP],Littke:3,Pécs:2,0,Pécs:2,0,-0.15053
+[CLS] The headquarter:3 of Littke:3 sparkling:3 wine factory is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Li . of . . . , , , .",Pécs:2,0,Pécs:2,0,-2.60669
+[CLS] The headquarter:3 of Yettel:2 Hungary is in [MASK] . [SEP],Budapest,Törökbálint:6,0,Törökbálint:6,0,-1.13192
+[CLS] The headquarter:3 of Yettel:2 Hungary is in [MASK] . [SEP],Hungary,Törökbálint:6,0,Törökbálint:6,0,-1.46787
+[CLS] The headquarter:3 of Escalion:3 is in [MASK] [MASK] [MASK] . [SEP],Escalion:3,Budapest,0,Budapest,0,-1.60817
+[CLS] The headquarter:3 of Escalion:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a - of , , , ,o:2",Budapest,0,Budapest,0,-3.28417
+[CLS] The headquarter:3 of MÁV:3 - START:2 Zrt:2 . is in [MASK] . [SEP],Budapest,Budapest,1,Budapest,1,-2.04333
+[CLS] The headquarter:3 of MÁV:3 - START:2 Zrt:2 . is in [MASK] . [SEP],Belgrade,Budapest,0,Budapest,0,-2.28901
+[CLS] The headquarter:3 of ORIONELEC:4 PHILIPPINES:7 INC:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"OR . , , , , )",Budapest,0,Budapest,0,-2.18386
+[CLS] The headquarter:3 of ORIONELEC:4 PHILIPPINES:7 INC:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"OR , of . . , , , .",Budapest,0,Budapest,0,-2.85395
+[CLS] The headquarter:3 of Audi Hungaria:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Győr,0,Győr,0,-2.08586
+[CLS] The headquarter:3 of Audi Hungaria:2 is in [MASK] . [SEP],Sibiu,Győr,0,Győr,0,-2.76803
+[CLS] The headquarter:3 of RTL Saleshouse:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Germany",Budapest,0,Budapest,0,-1.89856
+[CLS] The headquarter:3 of RTL Saleshouse:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . , )",Budapest,0,Budapest,0,-2.86593

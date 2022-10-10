@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] The headquarter:3 of Federal Reserve Bank of New York is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , New York",Federal Reserve Bank of New York Building,0,Federal Reserve Bank of New York Building,0,-1.03403
+[CLS] The headquarter:3 of Federal Reserve Bank of New York is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . York .",Federal Reserve Bank of New York Building,0,Federal Reserve Bank of New York Building,0,-2.25093
+[CLS] The headquarter:3 of Long Island Rail Road is in [MASK] [MASK] . [SEP],Long Island,Jamaica,0,Jamaica,0,-1.11499
+[CLS] The headquarter:3 of Long Island Rail Road is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , )",Jamaica,0,Jamaica,0,-2.32787
+[CLS] The headquarter:3 of Association for Computing Machinery:2 is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",New York City,0,New York City,0,-1.54997
+[CLS] The headquarter:3 of Association for Computing Machinery:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . , , )",New York City,0,New York City,0,-2.36341
+[CLS] The headquarter:3 of Iridium:3 Communications is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",McLean,0,McLean,0,-1.77350
+[CLS] The headquarter:3 of Iridium:3 Communications is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . . , , )",McLean,0,McLean,0,-2.58485
+[CLS] The headquarter:3 of Metropolitan Museum of Art is in [MASK] [MASK] [MASK] [MASK] . [SEP],"Metropolitan , , York",New York City,0,New York City,0,-0.92993
+[CLS] The headquarter:3 of Metropolitan Museum of Art is in [MASK] [MASK] . [SEP],New Francisco,New York City,0,New York City,0,-1.98269
+[CLS] The headquarter:3 of Funimation:2 is in [MASK] . [SEP],Tokyo,Coppell:3,0,Coppell:3,0,-1.08330
+[CLS] The headquarter:3 of Funimation:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Tokyo , . . , , , )",Coppell:3,0,Coppell:3,0,-2.72207
+[CLS] The headquarter:3 of American Broadcasting Company is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",New York City,0,New York City,0,-1.44835
+[CLS] The headquarter:3 of American Broadcasting Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , York",New York City,0,New York City,0,-2.08223
+[CLS] The headquarter:3 of Cisco Systems is in [MASK] . [SEP],Cisco,San Jose,0,San Jose,0,-0.47137
+[CLS] The headquarter:3 of Cisco Systems is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , )",San Jose,0,San Jose,0,-2.49505
+[CLS] The headquarter:3 of 3M:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Maplewood:2,0,Maplewood:2,0,-2.14084
+[CLS] The headquarter:3 of 3M:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",Maplewood:2,0,Maplewood:2,0,-3.04499
+[CLS] The headquarter:3 of Alcoa:2 is in [MASK] [MASK] . [SEP],Alcoa:2,New York City,0,New York City,0,-0.54326
+[CLS] The headquarter:3 of Alcoa:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , ,co:2",New York City,0,New York City,0,-2.62246
+[CLS] The headquarter:3 of Boomerang:2 is in [MASK] [MASK] . [SEP],Boomerang:2,Atlanta,0,Atlanta,0,-1.30536
+[CLS] The headquarter:3 of Boomerang:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",Atlanta,0,Atlanta,0,-3.02403
+[CLS] The headquarter:3 of Cummins:2 is in [MASK] [MASK] . [SEP],Cummins:2,Columbus,0,Columbus,0,-0.40660
+[CLS] The headquarter:3 of Cummins:2 is in [MASK] . [SEP],London,Columbus,0,Columbus,0,-2.52751
+[CLS] The headquarter:3 of Fox Sports is in [MASK] [MASK] . [SEP],Fox City,Los Angeles,0,Los Angeles,0,-1.55759
+[CLS] The headquarter:3 of Fox Sports is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . , , York",Los Angeles,0,Los Angeles,0,-2.49970
+[CLS] The headquarter:3 of Marvel Comics is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",New York City,0,New York City,0,-1.53020
+[CLS] The headquarter:3 of Marvel Comics is in [MASK] [MASK] . [SEP],San Angeles,New York City,0,New York City,0,-2.00430
+[CLS] The headquarter:3 of Unum:2 is in [MASK] [MASK] . [SEP],Unum:2,Chattanooga:3,0,Chattanooga:3,0,-0.21990
+[CLS] The headquarter:3 of Unum:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"U . , .a:2",Chattanooga:3,0,Chattanooga:3,0,-3.18022
+[CLS] The headquarter:3 of Institute of Electrical and Electronics Engineers is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the ( , )",Manhattan,0,Manhattan,0,-1.56609
+[CLS] The headquarter:3 of Institute of Electrical and Electronics Engineers is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", , . , . .",Manhattan,0,Manhattan,0,-2.59011
+[CLS] The headquarter:3 of Vimeo:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,New York,0,New York,0,-1.93680
+[CLS] The headquarter:3 of Vimeo:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , , )",New York,0,New York,0,-2.85688
+[CLS] The headquarter:3 of Cray:2 is in [MASK] [MASK] . [SEP],Cray:2,Seattle,0,Seattle,0,-0.89134
+[CLS] The headquarter:3 of Cray:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of , .",Seattle,0,Seattle,0,-2.76500
+[CLS] The headquarter:3 of Rockstar:2 Games is in [MASK] [MASK] [MASK] . [SEP],"Rocks , City",New York City,0,New York City,0,-1.48188
+[CLS] The headquarter:3 of Rockstar:2 Games is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . . . ),New York City,0,New York City,0,-2.66742
+[CLS] The headquarter:3 of Rotten Tomatoes is in [MASK] [MASK] [MASK] [MASK] . [SEP],"San , , York",San Francisco,0,San Francisco,0,-1.38495
+[CLS] The headquarter:3 of Rotten Tomatoes is in [MASK] [MASK] . [SEP],Rotten Angeles,San Francisco,0,San Francisco,0,-2.50133
+[CLS] The headquarter:3 of Baldwin Piano Company is in [MASK] . [SEP],Baldwin,Trumann:2,0,Trumann:2,0,-0.24284
+[CLS] The headquarter:3 of Baldwin Piano Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Baldwin . . . . . ),Trumann:2,0,Trumann:2,0,-2.32878
+[CLS] The headquarter:3 of Metro - North Railroad is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , , .",New York City,0,New York City,0,-1.81732
+[CLS] The headquarter:3 of Metro - North Railroad is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , , )",New York City,0,New York City,0,-2.44114
+[CLS] The headquarter:3 of Pixar:2 is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",Emeryville:2,0,Emeryville:2,0,-1.52182
+[CLS] The headquarter:3 of Pixar:2 is in [MASK] [MASK] . [SEP],the Angeles,Emeryville:2,0,Emeryville:2,0,-2.67674
+[CLS] The headquarter:3 of Tripwire:3 Interactive is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Roswell:2,0,Roswell:2,0,-1.51419
+[CLS] The headquarter:3 of Tripwire:3 Interactive is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . . , , )",Roswell:2,0,Roswell:2,0,-2.54657
+[CLS] The headquarter:3 of HRG:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , , . . . .",Rochester,0,Rochester,0,-1.95244
+[CLS] The headquarter:3 of HRG:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , , )",Rochester,0,Rochester,0,-2.87726
+[CLS] The headquarter:3 of Zappos:3 is in [MASK] [MASK] [MASK] . [SEP],Zappos:3,Las Vegas,0,Las Vegas,0,-1.52110
+[CLS] The headquarter:3 of Zappos:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Za , of . , ,s:2",Las Vegas,0,Las Vegas,0,-2.98833
+[CLS] The headquarter:3 of Skyline:2 Chili is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , , .",Fairfield,0,Fairfield,0,-1.83357
+[CLS] The headquarter:3 of Skyline:2 Chili is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . , , Chili",Fairfield,0,Fairfield,0,-2.54763
+[CLS] The headquarter:3 of Kroger:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,Cincinnati,0,Cincinnati,0,-1.96963
+[CLS] The headquarter:3 of Kroger:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . , , , , )",Cincinnati,0,Cincinnati,0,-3.09630
+[CLS] The headquarter:3 of Steinway:2 & Sons is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Hamburg,0,Hamburg,0,-1.77424
+[CLS] The headquarter:3 of Steinway:2 & Sons is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . , , )",Hamburg,0,Hamburg,0,-2.50902
+[CLS] The headquarter:3 of Mercury Records is in [MASK] [MASK] . [SEP],San York,London,0,London,0,-1.28083
+[CLS] The headquarter:3 of Mercury Records is in [MASK] [MASK] . [SEP],New City,London,0,London,0,-2.06734
+[CLS] The headquarter:3 of Pratt & Whitney is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",East Hartford,0,East Hartford,0,-1.59359
+[CLS] The headquarter:3 of Pratt & Whitney is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . City . , , )",East Hartford,0,East Hartford,0,-2.41393
+[CLS] The headquarter:3 of Kumon:2 is in [MASK] [MASK] . [SEP],Kumon:2,Osaka,0,Osaka,0,-0.59921
+[CLS] The headquarter:3 of Kumon:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ku - of . , , District",Osaka,0,Osaka,0,-3.02147
+[CLS] The headquarter:3 of ZAP:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . .",Santa Rosa,0,Santa Rosa,0,-1.99726
+[CLS] The headquarter:3 of ZAP:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Z , . . , , )",Santa Rosa,0,Santa Rosa,0,-2.86422
+[CLS] The headquarter:3 of The MIT Press is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Cambridge,0,Cambridge,0,-1.34566
+[CLS] The headquarter:3 of The MIT Press is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . , . Massachusetts",Cambridge,0,Cambridge,0,-2.19167
+[CLS] The headquarter:3 of SurveyMonkey:4 is in [MASK] [MASK] [MASK] [MASK] . [SEP],theMonkey:4,Portland,0,Portland,0,-1.59609
+[CLS] The headquarter:3 of SurveyMonkey:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Portland,0,Portland,0,-2.80110
+[CLS] The headquarter:3 of AK Steel Holding is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , . . . . .",West Chester Township,0,West Chester Township,0,-1.58960
+[CLS] The headquarter:3 of AK Steel Holding is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",West Chester Township,0,West Chester Township,0,-2.78637
+[CLS] The headquarter:3 of Pepperdine:2 University is in [MASK] [MASK] . [SEP],Pepperdine:2,Malibu:2,0,Malibu:2,0,-0.64492
+[CLS] The headquarter:3 of Pepperdine:2 University is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Pepper . . . . ),Malibu:2,0,Malibu:2,0,-2.22291
+[CLS] The headquarter:3 of Levi Strauss & Co . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , , , , York",San Francisco,0,San Francisco,0,-1.66477
+[CLS] The headquarter:3 of Levi Strauss & Co . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . . . , , .",San Francisco,0,San Francisco,0,-2.31900
+[CLS] The headquarter:3 of 2K:2 Sports is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , . . . . .",Novato:2,0,Novato:2,0,-1.94701
+[CLS] The headquarter:3 of 2K:2 Sports is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . , , , , )",Novato:2,0,Novato:2,0,-3.06226
+[CLS] The headquarter:3 of Boston Consulting:3 Group is in [MASK] . [SEP],Boston,Boston,1,Boston,1,-0.02476
+[CLS] The headquarter:3 of Boston Consulting:3 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , , )",Boston,0,Boston,0,-2.30828
+[CLS] The headquarter:3 of Coverity:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,San Francisco,0,San Francisco,0,-1.94966
+[CLS] The headquarter:3 of Coverity:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - , , , , , )",San Francisco,0,San Francisco,0,-3.19073
+[CLS] The headquarter:3 of Zattoo:3 is in [MASK] [MASK] [MASK] . [SEP],Zattoo:3,Ann Arbor,0,Ann Arbor,0,-1.05764
+[CLS] The headquarter:3 of Zattoo:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Za , of of , , .",Ann Arbor,0,Ann Arbor,0,-3.05397
+[CLS] The headquarter:3 of OneWest:3 Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Pasadena,0,Pasadena,0,-1.76593
+[CLS] The headquarter:3 of OneWest:3 Bank is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , . )",Pasadena,0,Pasadena,0,-2.51811
+[CLS] The headquarter:3 of JetBlue:3 Airways is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Long Island City,0,Long Island City,0,-2.00915
+[CLS] The headquarter:3 of JetBlue:3 Airways is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . ( . , , )",Long Island City,0,Long Island City,0,-2.70494
+[CLS] The headquarter:3 of National Geographic Society is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,"Washington , D . C .",0,"Washington , D . C .",0,-1.51233
+[CLS] The headquarter:3 of National Geographic Society is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , )","Washington , D . C .",0,"Washington , D . C .",0,-2.26408
+[CLS] The headquarter:3 of Massachusetts Bay Transportation Authority is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , Massachusetts",Boston,0,Boston,0,-1.29146
+[CLS] The headquarter:3 of Massachusetts Bay Transportation Authority is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , Massachusetts",Boston,0,Boston,0,-2.13438
+[CLS] The headquarter:3 of Gartner:3 is in [MASK] [MASK] [MASK] . [SEP],Gartner:3,Stamford,0,Stamford,0,-1.64522
+[CLS] The headquarter:3 of Gartner:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , , )",Stamford,0,Stamford,0,-2.91012
+[CLS] The headquarter:3 of Smithsonian Institution is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,"Washington , D . C .",0,"Washington , D . C .",0,-1.31340
+[CLS] The headquarter:3 of Smithsonian Institution is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . , California","Washington , D . C .",0,"Washington , D . C .",0,-2.25752
+[CLS] The headquarter:3 of Duke University is in [MASK] . [SEP],Duke,Durham,0,Durham,0,-0.39113
+[CLS] The headquarter:3 of Duke University is in [MASK] . [SEP],Durham,Durham,1,Durham,1,-1.74904
+[CLS] The headquarter:3 of 2K:2 Games is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , . .",Novato:2,0,Novato:2,0,-2.05356
+[CLS] The headquarter:3 of 2K:2 Games is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . , )",Novato:2,0,Novato:2,0,-2.89940
+[CLS] The headquarter:3 of Take - Two Interactive is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , York",New York City,0,New York City,0,-1.68010
+[CLS] The headquarter:3 of Take - Two Interactive is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . . . , )",New York City,0,New York City,0,-2.53826
+[CLS] The headquarter:3 of New York Mercantile:3 Exchange is in [MASK] [MASK] . [SEP],New York,New York City,0,New York City,0,-0.15770
+[CLS] The headquarter:3 of New York Mercantile:3 Exchange is in [MASK] . [SEP],Albany,New York City,0,New York City,0,-1.89952
+[CLS] The headquarter:3 of Yammer:2 is in [MASK] [MASK] . [SEP],Yammer:2,San Francisco,0,San Francisco,0,-0.72524
+[CLS] The headquarter:3 of Yammer:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the - of . Ya ),San Francisco,0,San Francisco,0,-3.01540
+[CLS] The headquarter:3 of CD - adapco:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , )",United States of America,0,United States of America,0,-1.92911
+[CLS] The headquarter:3 of CD - adapco:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . . , , .",United States of America,0,United States of America,0,-2.71845
+[CLS] The headquarter:3 of San Francisco Chronicle is in [MASK] [MASK] . [SEP],San Francisco,San Francisco,1,San Francisco,1,-0.31399
+[CLS] The headquarter:3 of San Francisco Chronicle is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the Francisco . . , , )",San Francisco,0,San Francisco,0,-2.50293
+[CLS] The headquarter:3 of Electronic Arts is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Redwood:2 Shores:2,0,Redwood:2 Shores:2,0,-1.57897
+[CLS] The headquarter:3 of Electronic Arts is in [MASK] [MASK] . [SEP],New City,Redwood:2 Shores:2,0,Redwood:2 Shores:2,0,-2.37174
+[CLS] The headquarter:3 of RWE:2 is in [MASK] . [SEP],Dortmund,Essen,0,Essen,0,-2.01724
+[CLS] The headquarter:3 of RWE:2 is in [MASK] . [SEP],Duisburg,Essen,0,Essen,0,-2.25430
+[CLS] The headquarter:3 of Xbox Game Studios is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Redmond:2,0,Redmond:2,0,-1.40131
+[CLS] The headquarter:3 of Xbox Game Studios is in [MASK] [MASK] . [SEP],New City,Redmond:2,0,Redmond:2,0,-2.26753
+[CLS] The headquarter:3 of Airgas:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Radnor:2,0,Radnor:2,0,-1.83904
+[CLS] The headquarter:3 of Airgas:2 is in [MASK] . [SEP],Madrid,Radnor:2,0,Radnor:2,0,-2.78071
+[CLS] The headquarter:3 of A & E Networks is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , . . .",New York City,0,New York City,0,-1.82801
+[CLS] The headquarter:3 of A & E Networks is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , )",New York City,0,New York City,0,-2.45041
+[CLS] The headquarter:3 of HarperCollins is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",195 Broadway,0,195 Broadway,0,-1.52098
+[CLS] The headquarter:3 of HarperCollins is in [MASK] . [SEP],HarperCollins,195 Broadway,0,195 Broadway,0,-2.42862
+[CLS] The headquarter:3 of Andrews University is in [MASK] . [SEP],Andrews,Berrien:3 Springs,0,Berrien:3 Springs,0,-0.33984
+[CLS] The headquarter:3 of Andrews University is in [MASK] [MASK] . [SEP],the University,Berrien:3 Springs,0,Berrien:3 Springs,0,-2.37843
+[CLS] The headquarter:3 of West Virginia University is in [MASK] [MASK] [MASK] [MASK] . [SEP],"West , , Virginia",Morgantown:2,0,Morgantown:2,0,-1.37620
+[CLS] The headquarter:3 of West Virginia University is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . , , )",Morgantown:2,0,Morgantown:2,0,-2.05444
+[CLS] The headquarter:3 of Albemarle:3 Corporation is in [MASK] [MASK] [MASK] . [SEP],Albemarle:3,Baton:2 Rouge,0,Baton:2 Rouge,0,-0.45491
+[CLS] The headquarter:3 of Albemarle:3 Corporation is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Al , of . , . )",Baton:2 Rouge,0,Baton:2 Rouge,0,-2.40992
+[CLS] The headquarter:3 of Advanced Micro Devices:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Sunnyvale:2,0,Sunnyvale:2,0,-1.90850
+[CLS] The headquarter:3 of Advanced Micro Devices:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . S . . ),Sunnyvale:2,0,Sunnyvale:2,0,-2.69890
+[CLS] The headquarter:3 of Turn 10 Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Redmond:2,0,Redmond:2,0,-1.86007
+[CLS] The headquarter:3 of Turn 10 Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of . . , )",Redmond:2,0,Redmond:2,0,-2.70566
+[CLS] The headquarter:3 of MIT Sloan School of Management is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Cambridge,0,Cambridge,0,-1.47518
+[CLS] The headquarter:3 of MIT Sloan School of Management is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , , )",Cambridge,0,Cambridge,0,-2.24267
+[CLS] The headquarter:3 of Élan:2 Motorsport Technologies is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , France",Braselton:3,0,Braselton:3,0,-1.97599
+[CLS] The headquarter:3 of Élan:2 Motorsport Technologies is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . . . , .",Braselton:3,0,Braselton:3,0,-2.80076
+[CLS] The headquarter:3 of United Airlines is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Willis Tower,0,Willis Tower,0,-1.73473
+[CLS] The headquarter:3 of United Airlines is in [MASK] . [SEP],Rome,Willis Tower,0,Willis Tower,0,-2.20811
+[CLS] The headquarter:3 of Universal Pictures is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Universal City,0,Universal City,0,-1.52413
+[CLS] The headquarter:3 of Universal Pictures is in [MASK] [MASK] . [SEP],San Angeles,Universal City,0,Universal City,0,-2.07873
+[CLS] The headquarter:3 of New Line Cinema is in [MASK] . [SEP],Rome,Los Angeles,0,Los Angeles,0,-1.69509
+[CLS] The headquarter:3 of New Line Cinema is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , York",Los Angeles,0,Los Angeles,0,-2.38574
+[CLS] The headquarter:3 of Linden Lab is in [MASK] [MASK] . [SEP],Linden Lab,San Francisco,0,San Francisco,0,-1.70608
+[CLS] The headquarter:3 of Linden Lab is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , )",San Francisco,0,San Francisco,0,-2.91591
+[CLS] The headquarter:3 of Nintendo Software Technology is in [MASK] . [SEP],Tokyo,Redmond:2,0,Redmond:2,0,-1.15559
+[CLS] The headquarter:3 of Nintendo Software Technology is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . . . ),Redmond:2,0,Redmond:2,0,-2.58873
+[CLS] The headquarter:3 of Warner Bros . is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Burbank:3,0,Burbank:3,0,-1.54158
+[CLS] The headquarter:3 of Warner Bros . is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . .",Burbank:3,0,Burbank:3,0,-2.19437
+[CLS] The headquarter:3 of Pure Earth is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,New York City,0,New York City,0,-2.02410
+[CLS] The headquarter:3 of Pure Earth is in [MASK] . [SEP],Tokyo,New York City,0,New York City,0,-2.79001
+[CLS] The headquarter:3 of Adscape:3 is in [MASK] [MASK] [MASK] . [SEP],Adscape:3,San Francisco,0,San Francisco,0,-1.65374
+[CLS] The headquarter:3 of Adscape:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , of . , ,pe:2",San Francisco,0,San Francisco,0,-3.07789
+[CLS] The headquarter:3 of ExxonMobil:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , . . .",Irving,0,Irving,0,-1.85639
+[CLS] The headquarter:3 of ExxonMobil:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , )",Irving,0,Irving,0,-2.63629
+[CLS] The headquarter:3 of Century Media Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Dortmund,0,Dortmund,0,-1.77462
+[CLS] The headquarter:3 of Century Media Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , )",Dortmund,0,Dortmund,0,-2.46330
+"[CLS] The headquarter:3 of Oakley:2 , Inc . is in [MASK] [MASK] . [SEP]",Oakley:2,Foothill:2 Ranch,0,Foothill:2 Ranch,0,-0.66281
+"[CLS] The headquarter:3 of Oakley:2 , Inc . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","New , . . , , , .",Foothill:2 Ranch,0,Foothill:2 Ranch,0,-2.19152
+[CLS] The headquarter:3 of Mokulele:3 Airlines is in [MASK] [MASK] [MASK] . [SEP],Mokulele:3,Kailua:2 - Kona:2,0,Kailua:2 - Kona:2,0,-1.82510
+[CLS] The headquarter:3 of Mokulele:3 Airlines is in [MASK] . [SEP],Nairobi,Kailua:2 - Kona:2,0,Kailua:2 - Kona:2,0,-2.48521
+[CLS] The headquarter:3 of The Washington Post is in [MASK] . [SEP],Washington,One Franklin Square,0,One Franklin Square,0,-1.39756
+[CLS] The headquarter:3 of The Washington Post is in [MASK] . [SEP],Seattle,One Franklin Square,0,One Franklin Square,0,-1.61693
+[CLS] The headquarter:3 of General Motors is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Detroit,0,Detroit,0,-1.58779
+[CLS] The headquarter:3 of General Motors is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . City . , York",Detroit,0,Detroit,0,-2.41004
+[CLS] The headquarter:3 of U . S . Steel is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Pittsburgh,0,Pittsburgh,0,-1.65967
+[CLS] The headquarter:3 of U . S . Steel is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . , , , )",Pittsburgh,0,Pittsburgh,0,-2.37543
+[CLS] The headquarter:3 of Schwinn:3 Bicycle:2 Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Sc , , , , )",Chicago,0,Chicago,0,-1.53937
+[CLS] The headquarter:3 of Schwinn:3 Bicycle:2 Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . . . . .,Chicago,0,Chicago,0,-2.44534
+[CLS] The headquarter:3 of Concept2:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Morrisville:2,0,Morrisville:2,0,-2.09578
+[CLS] The headquarter:3 of Concept2:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , , )",Morrisville:2,0,Morrisville:2,0,-3.04697
+[CLS] The headquarter:3 of Tiger Electronics is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . , . . . . .",Vernon Hills,0,Vernon Hills,0,-1.72095
+[CLS] The headquarter:3 of Tiger Electronics is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , )",Vernon Hills,0,Vernon Hills,0,-2.68203
+[CLS] The headquarter:3 of Apache Maven:2 is in [MASK] [MASK] [MASK] . [SEP],Apache Maven:2,San Francisco,0,San Francisco,0,-1.65464
+[CLS] The headquarter:3 of Apache Maven:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , , , )",San Francisco,0,San Francisco,0,-2.74183
+[CLS] The headquarter:3 of Paramount Pictures is in [MASK] [MASK] [MASK] [MASK] . [SEP],"San , , York",Los Angeles,0,Los Angeles,0,-1.58114
+[CLS] The headquarter:3 of Paramount Pictures is in [MASK] [MASK] . [SEP],San York,Los Angeles,0,Los Angeles,0,-2.14427
+[CLS] The headquarter:3 of Kaplan International Languages is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . .",London,0,London,0,-1.80396
+[CLS] The headquarter:3 of Kaplan International Languages is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , )",London,0,London,0,-2.54771
+[CLS] The headquarter:3 of Brookville:2 Equipment:3 Corporation is in [MASK] [MASK] . [SEP],Brookville:2,Brookville:2,1,Brookville:2,1,-0.03051
+[CLS] The headquarter:3 of Brookville:2 Equipment:3 Corporation is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . . . , , , , .",Brookville:2,0,Brookville:2,0,-2.38991
+[CLS] The headquarter:3 of Rocket Lab is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Huntington Beach,0,Huntington Beach,0,-1.93284
+[CLS] The headquarter:3 of Rocket Lab is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",Huntington Beach,0,Huntington Beach,0,-2.97008
+[CLS] The headquarter:3 of Anheuser:3 - Busch is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , York",St . Louis,0,St . Louis,0,-1.69029
+[CLS] The headquarter:3 of Anheuser:3 - Busch is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . ( . . . York,St . Louis,0,St . Louis,0,-2.49762
+[CLS] The headquarter:3 of ATO:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,New York City,0,New York City,0,-1.72943
+[CLS] The headquarter:3 of ATO:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",New York City,0,New York City,0,-2.68052
+[CLS] The headquarter:3 of Schecter:3 Guitar Research is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Los Angeles,0,Los Angeles,0,-1.67222
+[CLS] The headquarter:3 of Schecter:3 Guitar Research is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , , )",Los Angeles,0,Los Angeles,0,-2.59453
+[CLS] The headquarter:3 of Xerox:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,Norwalk:2,0,Norwalk:2,0,-1.96854
+[CLS] The headquarter:3 of Xerox:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , ,e:2",Norwalk:2,0,Norwalk:2,0,-2.99542
+"[CLS] The headquarter:3 of The North Face , Inc . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","the . , , . . . .",Denver,0,Denver,0,-1.56855
+"[CLS] The headquarter:3 of The North Face , Inc . is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","New , . . , , )",Denver,0,Denver,0,-2.19228
+[CLS] The headquarter:3 of United Parcel:2 Service is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Sandy Springs,0,Sandy Springs,0,-1.75732
+[CLS] The headquarter:3 of United Parcel:2 Service is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , , )",Sandy Springs,0,Sandy Springs,0,-2.73580
+[CLS] The headquarter:3 of Fox Broadcasting Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,1211 Avenue of the Americas,0,1211 Avenue of the Americas,0,-1.50655
+[CLS] The headquarter:3 of Fox Broadcasting Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . . . , , )",1211 Avenue of the Americas,0,1211 Avenue of the Americas,0,-2.16605
+[CLS] The headquarter:3 of Mozilla Corporation is in [MASK] . [SEP],Mozilla,Mountain View,0,Mountain View,0,-0.87692
+[CLS] The headquarter:3 of Mozilla Corporation is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , Mozilla )",Mountain View,0,Mountain View,0,-2.49233
+[CLS] The headquarter:3 of TV National Geographic Channel Animal in Germany is in [MASK] . [SEP],Germany,"Washington , D . C .",0,"Washington , D . C .",0,-1.84576
+[CLS] The headquarter:3 of TV National Geographic Channel Animal in Germany is in [MASK] . [SEP],Berlin,"Washington , D . C .",0,"Washington , D . C .",0,-1.99079
+[CLS] The headquarter:3 of The Sunday Times is in [MASK] . [SEP],London,The News Building,0,The News Building,0,-0.90423
+[CLS] The headquarter:3 of The Sunday Times is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . . York",The News Building,0,The News Building,0,-2.35461
+[CLS] The headquarter:3 of BP is in [MASK] . [SEP],BP,London,0,London,0,-0.69362
+[CLS] The headquarter:3 of BP is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , ,e:2",London,0,London,0,-3.12699
+[CLS] The headquarter:3 of Ginetta:3 Cars is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , Italy",Leeds,0,Leeds,0,-1.93099
+[CLS] The headquarter:3 of Ginetta:3 Cars is in [MASK] . [SEP],Rome,Leeds,0,Leeds,0,-2.28849
+[CLS] The headquarter:3 of University of London is in [MASK] . [SEP],London,London,1,London,1,-0.20431
+[CLS] The headquarter:3 of University of London is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"London . of . , )",London,0,London,0,-2.59719
+[CLS] The headquarter:3 of McLaren Technology Group is in [MASK] . [SEP],McLaren,Woking:2,0,Woking:2,0,-0.11682
+[CLS] The headquarter:3 of McLaren Technology Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"McLaren . of . . , )",Woking:2,0,Woking:2,0,-2.67869
+[CLS] The headquarter:3 of Bank of England is in [MASK] . [SEP],London,Bank of England building in London,0,Bank of England building in London,0,-0.79528
+[CLS] The headquarter:3 of Bank of England is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . . ),Bank of England building in London,0,Bank of England building in London,0,-2.66654
+[CLS] The headquarter:3 of Financial Times is in [MASK] . [SEP],London,Bracken:3 House,0,Bracken:3 House,0,-1.75104
+[CLS] The headquarter:3 of Financial Times is in [MASK] [MASK] . [SEP],New City,Bracken:3 House,0,Bracken:3 House,0,-2.47303
+[CLS] The headquarter:3 of Hamish:2 Hamilton is in [MASK] [MASK] [MASK] . [SEP],Hamish:2 Hamilton,London,0,London,0,-0.23550
+[CLS] The headquarter:3 of Hamish:2 Hamilton is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . . , .",London,0,London,0,-2.69901
+[CLS] The headquarter:3 of Virgin Records is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Los Angeles,0,Los Angeles,0,-1.64108
+[CLS] The headquarter:3 of Virgin Records is in [MASK] . [SEP],London,Los Angeles,0,Los Angeles,0,-2.17515
+[CLS] The headquarter:3 of Barclays:2 is in [MASK] . [SEP],London,One Churchill Place,0,One Churchill Place,0,-1.62743
+[CLS] The headquarter:3 of Barclays:2 is in [MASK] . [SEP],Barclay,One Churchill Place,0,One Churchill Place,0,-2.39673
+[CLS] The headquarter:3 of Inview:2 Technology is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Northwich:2,0,Northwich:2,0,-1.79843
+[CLS] The headquarter:3 of Inview:2 Technology is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , , )",Northwich:2,0,Northwich:2,0,-2.78126
+[CLS] The headquarter:3 of Next plc is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,Leicester,0,Leicester,0,-1.87521
+[CLS] The headquarter:3 of Next plc is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . , )",Leicester,0,Leicester,0,-2.71720
+[CLS] The headquarter:3 of BBC Television is in [MASK] . [SEP],London,London,1,London,1,-1.21695
+[CLS] The headquarter:3 of BBC Television is in [MASK] . [SEP],Manchester,London,0,London,0,-2.24342
+[CLS] The headquarter:3 of University of Lancaster is in [MASK] . [SEP],Lancaster,Lancaster,1,Lancaster,1,-0.06520
+[CLS] The headquarter:3 of University of Lancaster is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Lancaster . of , , , .",Lancaster,0,Lancaster,0,-2.56971
+[CLS] The headquarter:3 of 7digital:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,London,0,London,0,-2.03738
+[CLS] The headquarter:3 of 7digital:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . , , )",London,0,London,0,-3.00598
+[CLS] The headquarter:3 of A & P Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Hebburn:3,0,Hebburn:3,0,-1.82570
+[CLS] The headquarter:3 of A & P Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , . . , , , )",Hebburn:3,0,Hebburn:3,0,-2.70506
+[CLS] The headquarter:3 of Aquascutum:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.97163
+[CLS] The headquarter:3 of Aquascutum:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , of . , ,e:2",London,0,London,0,-3.02902
+[CLS] The headquarter:3 of Royal Society is in [MASK] . [SEP],London,London,1,London,1,-0.78588
+[CLS] The headquarter:3 of Royal Society is in [MASK] . [SEP],Edinburgh,London,0,London,0,-2.60497
+[CLS] The headquarter:3 of Pure is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Kings Langley,0,Kings Langley,0,-2.05970
+[CLS] The headquarter:3 of Pure is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , ,e:2",Kings Langley,0,Kings Langley,0,-3.06509
+[CLS] The headquarter:3 of The Sun is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . .",Wapping:3,0,Wapping:3,0,-2.10901
+[CLS] The headquarter:3 of The Sun is in [MASK] [MASK] . [SEP],New City,Wapping:3,0,Wapping:3,0,-3.07337
+[CLS] The headquarter:3 of Mini is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",Munich,0,Munich,0,-2.01891
+[CLS] The headquarter:3 of Mini is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , ,e:2",Munich,0,Munich,0,-3.10010
+[CLS] The headquarter:3 of Oxford University Press is in [MASK] . [SEP],Oxford,Oxford,1,Oxford,1,-0.27432
+[CLS] The headquarter:3 of Oxford University Press is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . Oxford , York",Oxford,0,Oxford,0,-2.58298
+[CLS] The headquarter:3 of London Studio is in [MASK] . [SEP],London,London,1,London,1,-0.11636
+[CLS] The headquarter:3 of London Studio is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . . , , , )",London,0,London,0,-2.58144
+[CLS] The headquarter:3 of Reuters is in [MASK] . [SEP],London,London,1,London,1,-1.23025
+[CLS] The headquarter:3 of Reuters is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , City",London,0,London,0,-2.86152
+[CLS] The headquarter:3 of University of Edinburgh is in [MASK] . [SEP],Edinburgh,Edinburgh,1,Edinburgh,1,-0.03170
+[CLS] The headquarter:3 of University of Edinburgh is in [MASK] [MASK] . [SEP],thegate:2,Edinburgh,0,Edinburgh,0,-2.63637
+[CLS] The headquarter:3 of Daily Mail is in [MASK] . [SEP],London,London,1,London,1,-0.77700
+[CLS] The headquarter:3 of Daily Mail is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . . London",London,0,London,0,-2.70281
+[CLS] The headquarter:3 of University of Glasgow is in [MASK] . [SEP],Glasgow,Glasgow,1,Glasgow,1,-0.12761
+[CLS] The headquarter:3 of University of Glasgow is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Glasgow . of . , , .",Glasgow,0,Glasgow,0,-2.64128
+[CLS] The headquarter:3 of University of Birmingham is in [MASK] . [SEP],Birmingham,Birmingham,1,Birmingham,1,-0.01628
+[CLS] The headquarter:3 of University of Birmingham is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of , , , .",Birmingham,0,Birmingham,0,-2.53521
+[CLS] The headquarter:3 of 3i is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",London,0,London,0,-2.08601
+[CLS] The headquarter:3 of 3i is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",London,0,London,0,-2.98135
+[CLS] The headquarter:3 of Lee Cooper is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . . .",Ipswich,0,Ipswich,0,-1.80875
+[CLS] The headquarter:3 of Lee Cooper is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Ipswich,0,Ipswich,0,-2.64079
+[CLS] The headquarter:3 of Rolls - Royce is in [MASK] . [SEP],London,London,1,London,1,-1.69955
+[CLS] The headquarter:3 of Rolls - Royce is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . . . , , , )",London,0,London,0,-2.74944
+[CLS] The headquarter:3 of Vodafone:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . .",London,0,London,0,-1.94629
+[CLS] The headquarter:3 of Vodafone:2 is in [MASK] . [SEP],Rome,London,0,London,0,-2.45264
+[CLS] The headquarter:3 of Waterstones:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",London,0,London,0,-1.92060
+[CLS] The headquarter:3 of Waterstones:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"The , of . , , )",London,0,London,0,-2.84698
+[CLS] The headquarter:3 of Sainsbury:3 ' s is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,City of London,0,City of London,0,-1.85985
+[CLS] The headquarter:3 of Sainsbury:3 ' s is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of . , , , )",City of London,0,City of London,0,-2.82589
+[CLS] The headquarter:3 of Diageo:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,London,0,London,0,-1.93948
+[CLS] The headquarter:3 of Diageo:2 is in [MASK] . [SEP],Dakar,London,0,London,0,-2.94561
+[CLS] The headquarter:3 of English Racing Automobiles:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Bourne,0,Bourne,0,-1.90903
+[CLS] The headquarter:3 of English Racing Automobiles:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . , ,s:2",Bourne,0,Bourne,0,-2.77734
+[CLS] The headquarter:3 of Rolls - Royce Motor Cars is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Chichester:2,0,Chichester:2,0,-1.84212
+[CLS] The headquarter:3 of Rolls - Royce Motor Cars is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , , )",Chichester:2,0,Chichester:2,0,-2.55477
+[CLS] The headquarter:3 of Gibson Technology is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Repton:2,0,Repton:2,0,-1.70562
+[CLS] The headquarter:3 of Gibson Technology is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",Repton:2,0,Repton:2,0,-2.61352
+[CLS] The headquarter:3 of Centrica:2 is in [MASK] [MASK] . [SEP],Centrica:2,Windsor,0,Windsor,0,-1.57092
+[CLS] The headquarter:3 of Centrica:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , , )",Windsor,0,Windsor,0,-3.12810
+[CLS] The headquarter:3 of Shell is in [MASK] . [SEP],Shell,Shell Centre,0,Shell Centre,0,-0.10181
+[CLS] The headquarter:3 of Shell is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",Shell Centre,0,Shell Centre,0,-3.08204
+[CLS] The headquarter:3 of ARM Holdings is in [MASK] . [SEP],ARM,Cambridge,0,Cambridge,0,-1.00531
+[CLS] The headquarter:3 of ARM Holdings is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , . . , , )",Cambridge,0,Cambridge,0,-2.62068
+[CLS] The headquarter:3 of Air Atlantique is in [MASK] . [SEP],Nantes,Coventry,0,Coventry,0,-1.85620
+[CLS] The headquarter:3 of Air Atlantique is in [MASK] . [SEP],Cherbourg,Coventry,0,Coventry,0,-2.47385
+[CLS] The headquarter:3 of McLaren is in [MASK] . [SEP],McLaren,Woking:2,0,Woking:2,0,-0.35524
+[CLS] The headquarter:3 of McLaren is in [MASK] [MASK] . [SEP],thesley:2,Woking:2,0,Woking:2,0,-2.71076
+[CLS] The headquarter:3 of GlaxoSmithKline:8 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , California",Brentford:2,0,Brentford:2,0,-1.59579
+[CLS] The headquarter:3 of GlaxoSmithKline:8 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . . . . . .,Brentford:2,0,Brentford:2,0,-2.68027
+[CLS] The headquarter:3 of The Daily Telegraph is in [MASK] . [SEP],London,London,1,London,1,-0.77735
+[CLS] The headquarter:3 of The Daily Telegraph is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"The , of . , , )",London,0,London,0,-2.60908
+[CLS] The headquarter:3 of Unilever:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",London,0,London,0,-1.96659
+[CLS] The headquarter:3 of Unilever:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , . . , , )",London,0,London,0,-2.94785
+[CLS] The headquarter:3 of Daily Mirror is in [MASK] . [SEP],London,London,1,London,1,-0.94281
+[CLS] The headquarter:3 of Daily Mirror is in [MASK] . [SEP],Manchester,London,0,London,0,-2.38820
+[CLS] The headquarter:3 of Eon:2 Productions is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.85825
+[CLS] The headquarter:3 of Eon:2 Productions is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A . of . , , )",London,0,London,0,-2.87860
+[CLS] The headquarter:3 of Open Knowledge Foundation is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",London,0,London,0,-1.85993
+[CLS] The headquarter:3 of Open Knowledge Foundation is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , )",London,0,London,0,-2.69407
+[CLS] The headquarter:3 of Filofax:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . . .,West Sussex,0,West Sussex,0,-1.91372
+[CLS] The headquarter:3 of Filofax:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , , , )",West Sussex,0,West Sussex,0,-2.96182
+[CLS] The headquarter:3 of Old Bushmills:3 Distillery:4 is in [MASK] [MASK] [MASK] [MASK] . [SEP],Old Bushmills:3,Bushmills:3,0,Bushmills:3,0,-0.73522
+[CLS] The headquarter:3 of Old Bushmills:3 Distillery:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . . , , , , .",Bushmills:3,0,Bushmills:3,0,-2.71211
+[CLS] The headquarter:3 of c2c:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .c:2",London,0,London,0,-2.20004
+[CLS] The headquarter:3 of c2c:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of . . , ,c:2",London,0,London,0,-2.76764
+[CLS] The headquarter:3 of Gilbert Rugby is in [MASK] . [SEP],Gilbert,Rugby,0,Rugby,0,-0.31080
+[CLS] The headquarter:3 of Gilbert Rugby is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Gilbert , of . , , Rugby",Rugby,0,Rugby,0,-2.87945
+[CLS] The headquarter:3 of NME is in [MASK] . [SEP],London,London,1,London,1,-1.44928
+[CLS] The headquarter:3 of NME is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . . York,London,0,London,0,-2.60641
+[CLS] The headquarter:3 of Judd is in [MASK] . [SEP],Judd,Rugby,0,Rugby,0,-0.18267
+[CLS] The headquarter:3 of Judd is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , ,e:2",Rugby,0,Rugby,0,-2.81763
+[CLS] The headquarter:3 of HSBC:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . . .",8 Canada Square,0,8 Canada Square,0,-1.85466
+[CLS] The headquarter:3 of HSBC:2 is in [MASK] [MASK] . [SEP],HS City,8 Canada Square,0,8 Canada Square,0,-2.16806
+[CLS] The headquarter:3 of The Co - operative Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Manchester,0,Manchester,0,-1.82160
+[CLS] The headquarter:3 of The Co - operative Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . . , )",Manchester,0,Manchester,0,-2.64546
+[CLS] The headquarter:3 of Beggars:3 Banquet:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , )",London,0,London,0,-1.83381
+[CLS] The headquarter:3 of Beggars:3 Banquet:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . ( . . . .,London,0,London,0,-2.55427
+[CLS] The headquarter:3 of Fitness:3 First is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Bournemouth:2,0,Bournemouth:2,0,-1.81433
+[CLS] The headquarter:3 of Fitness:3 First is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of . , , , )",Bournemouth:2,0,Bournemouth:2,0,-2.81838
+[CLS] The headquarter:3 of ZTT:3 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.85530
+[CLS] The headquarter:3 of ZTT:3 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . ( . . .,London,0,London,0,-2.58478
+[CLS] The headquarter:3 of Briggs Automotive:2 Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Speke:2,0,Speke:2,0,-1.65072
+[CLS] The headquarter:3 of Briggs Automotive:2 Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . . , , )",Speke:2,0,Speke:2,0,-2.39866
+[CLS] The headquarter:3 of Titan Airways is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,London Stansted:2 Airport,0,London Stansted:2 Airport,0,-1.90437
+[CLS] The headquarter:3 of Titan Airways is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , )",London Stansted:2 Airport,0,London Stansted:2 Airport,0,-2.96077
+[CLS] The headquarter:3 of Cosworth:2 is in [MASK] [MASK] . [SEP],Cosworth:2,Northampton,0,Northampton,0,-0.31176
+[CLS] The headquarter:3 of Cosworth:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . , ,sworth:2",Northampton,0,Northampton,0,-2.63879
+[CLS] The headquarter:3 of Mercedes AMG:2 High Performance Powertrains:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , )",Brixworth:3,0,Brixworth:3,0,-1.88794
+[CLS] The headquarter:3 of Mercedes AMG:2 High Performance Powertrains:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . . . . , , )",Brixworth:3,0,Brixworth:3,0,-2.79352
+[CLS] The headquarter:3 of RWE:2 is in [MASK] . [SEP],Dortmund,Essen,0,Essen,0,-2.01724
+[CLS] The headquarter:3 of RWE:2 is in [MASK] . [SEP],Duisburg,Essen,0,Essen,0,-2.25430
+[CLS] The headquarter:3 of 4AD:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,London,0,London,0,-2.01631
+[CLS] The headquarter:3 of 4AD:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - . , , , , )",London,0,London,0,-3.02758
+[CLS] The headquarter:3 of Amec:2 Foster Wheeler is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , , .",London,0,London,0,-1.62726
+[CLS] The headquarter:3 of Amec:2 Foster Wheeler is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . . . . , , )",London,0,London,0,-2.45123
+[CLS] The headquarter:3 of University of Manchester is in [MASK] . [SEP],Manchester,Manchester,1,Manchester,1,-0.03448
+[CLS] The headquarter:3 of University of Manchester is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Manchester . of , , , .",Manchester,0,Manchester,0,-2.58144
+[CLS] The headquarter:3 of Playground:2 Games is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Royal Leamington:2 Spa,0,Royal Leamington:2 Spa,0,-1.80513
+[CLS] The headquarter:3 of Playground:2 Games is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , )",Royal Leamington:2 Spa,0,Royal Leamington:2 Spa,0,-2.50712
+[CLS] The headquarter:3 of Polydor Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,London,0,London,0,-1.60780
+[CLS] The headquarter:3 of Polydor Records is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],London . ( . York,London,0,London,0,-2.78425
+[CLS] The headquarter:3 of Formula One Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Englewood:3,0,Englewood:3,0,-1.99898
+[CLS] The headquarter:3 of Formula One Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Englewood:3,0,Englewood:3,0,-2.81424
+[CLS] The headquarter:3 of Nature Research is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . .,London,0,London,0,-1.92010
+[CLS] The headquarter:3 of Nature Research is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . , , )",London,0,London,0,-2.96675
+[CLS] The headquarter:3 of easyJet:3 is in [MASK] [MASK] [MASK] . [SEP],"easy ,et:2",London Luton:2 Airport,0,London Luton:2 Airport,0,-1.87512
+[CLS] The headquarter:3 of easyJet:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"La . of . , , )",London Luton:2 Airport,0,London Luton:2 Airport,0,-2.86438
+[CLS] The headquarter:3 of SAGE:2 Publishing is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Thousand Oaks,0,Thousand Oaks,0,-1.60612
+[CLS] The headquarter:3 of SAGE:2 Publishing is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . S . . ),Thousand Oaks,0,Thousand Oaks,0,-2.43949
+[CLS] The headquarter:3 of Alamy:2 is in [MASK] [MASK] . [SEP],Alamy:2,Abingdon:3 - on - Thames,0,Abingdon:3 - on - Thames,0,-1.33244
+[CLS] The headquarter:3 of Alamy:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Alamy:2 of , .",Abingdon:3 - on - Thames,0,Abingdon:3 - on - Thames,0,-2.85652
+[CLS] The headquarter:3 of Pennon:2 Group is in [MASK] [MASK] . [SEP],Pennon:2,Exeter,0,Exeter,0,-1.71233
+[CLS] The headquarter:3 of Pennon:2 Group is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",Exeter,0,Exeter,0,-2.74062
+[CLS] The headquarter:3 of Rockstar:2 North is in [MASK] [MASK] [MASK] . [SEP],"Rocks , North",City of Edinburgh,0,City of Edinburgh,0,-1.07714
+[CLS] The headquarter:3 of Rockstar:2 North is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",City of Edinburgh,0,City of Edinburgh,0,-2.74819
+[CLS] The headquarter:3 of SDL:2 PLC:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , . .",Maidenhead:2,0,Maidenhead:2,0,-2.02959
+[CLS] The headquarter:3 of SDL:2 PLC:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . . . . , , )",Maidenhead:2,0,Maidenhead:2,0,-2.69402
+[CLS] The headquarter:3 of The Royal Bank of Scotland is in [MASK] . [SEP],Edinburgh,Edinburgh,1,Edinburgh,1,-1.10497
+[CLS] The headquarter:3 of The Royal Bank of Scotland is in [MASK] . [SEP],Scotland,Edinburgh,0,Edinburgh,0,-1.52351
+[CLS] The headquarter:3 of Williams Grand Prix Engineering is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Grove,0,Grove,0,-1.91616
+[CLS] The headquarter:3 of Williams Grand Prix Engineering is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". . . . , , , , )",Grove,0,Grove,0,-2.88986
+[CLS] The headquarter:3 of Ariel Motor Company is in [MASK] . [SEP],Ariel,Crewkerne:3,0,Crewkerne:3,0,-0.62746
+[CLS] The headquarter:3 of Ariel Motor Company is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , )",Crewkerne:3,0,Crewkerne:3,0,-2.47636
+[CLS] The headquarter:3 of 1E:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . .",London,0,London,0,-2.07746
+[CLS] The headquarter:3 of 1E:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . , , , , )",London,0,London,0,-3.13512
+[CLS] The headquarter:3 of Computacenter:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",Hatfield:2,0,Hatfield:2,0,-2.03941
+[CLS] The headquarter:3 of Computacenter:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . of . , , , )",Hatfield:2,0,Hatfield:2,0,-2.90765
+[CLS] The headquarter:3 of Techniques:2 d ' Avant Garde is in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , France",Luxembourg,0,Luxembourg,0,-2.11713
+[CLS] The headquarter:3 of Techniques:2 d ' Avant Garde is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , , )",Luxembourg,0,Luxembourg,0,-2.88838
+[CLS] The headquarter:3 of J . Barbour:2 and Sons is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . . . . . . .",South Shields,0,South Shields,0,-1.70389
+[CLS] The headquarter:3 of J . Barbour:2 and Sons is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of . , , , .",South Shields,0,South Shields,0,-2.80506
+[CLS] The headquarter:3 of Apple Records is in [MASK] . [SEP],Apple,London,0,London,0,-0.22160
+[CLS] The headquarter:3 of Apple Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Apple . . . , York",London,0,London,0,-2.38148
+[CLS] The headquarter:3 of Wolters:3 Kluwer:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Wolters:3 Klu:2 ),Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-1.81297
+[CLS] The headquarter:3 of Wolters:3 Kluwer:3 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Wo , , of of of , .",Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-3.00565
+[CLS] The headquarter:3 of SiSoftware:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",London,0,London,0,-1.78079
+[CLS] The headquarter:3 of SiSoftware:4 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San . of . . , , )",London,0,London,0,-2.69813
+[CLS] The headquarter:3 of Ilford:2 Photo is in [MASK] [MASK] . [SEP],Ilford:2,Mobberley:3,0,Mobberley:3,0,-0.92948
+[CLS] The headquarter:3 of Ilford:2 Photo is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"aford:2 of . , , )",Mobberley:3,0,Mobberley:3,0,-2.87965
+[CLS] The headquarter:3 of Old Mutual:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . . .,London,0,London,0,-1.81011
+[CLS] The headquarter:3 of Old Mutual:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , of , , , )",London,0,London,0,-2.95080
+[CLS] The headquarter:3 of Associated British Foods is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.75027
+[CLS] The headquarter:3 of Associated British Foods is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , . . , , )",London,0,London,0,-2.50327
+[CLS] The headquarter:3 of Carphone:2 Warehouse:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , . , .",London,0,London,0,-1.84080
+[CLS] The headquarter:3 of Carphone:2 Warehouse:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . . , , , )",London,0,London,0,-2.57303
+[CLS] The headquarter:3 of Trojan:3 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , , .",London,0,London,0,-1.69488
+[CLS] The headquarter:3 of Trojan:3 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , )",London,0,London,0,-2.50970
+[CLS] The headquarter:3 of Southern Fried:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Fulham Palace,0,Fulham Palace,0,-1.59461
+[CLS] The headquarter:3 of Southern Fried:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . . . , , )",Fulham Palace,0,Fulham Palace,0,-2.49116
+[CLS] The headquarter:3 of Ilmor:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . . . . .,Brixworth:3,0,Brixworth:3,0,-2.02117
+[CLS] The headquarter:3 of Ilmor:2 is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - , , , , -t:2",Brixworth:3,0,Brixworth:3,0,-3.30624
+[CLS] The headquarter:3 of 4J:2 Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,Dundee,0,Dundee,0,-1.78214
+[CLS] The headquarter:3 of 4J:2 Studios is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New . of . , , )",Dundee,0,Dundee,0,-2.73285
+[CLS] The headquarter:3 of Mute:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.72985
+[CLS] The headquarter:3 of Mute:2 Records is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . . . , , )",London,0,London,0,-2.54136
+[CLS] The headquarter:3 of Transearch:3 International is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . . . .,London,0,London,0,-1.82732
+[CLS] The headquarter:3 of Transearch:3 International is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . ( . . ),London,0,London,0,-2.50019
+[CLS] The headquarter:3 of AK Press is in [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . . . . .,Chico,0,Chico,0,-1.64943
+[CLS] The headquarter:3 of AK Press is in [MASK] . [SEP],Istanbul,Chico,0,Chico,0,-2.26555
+[CLS] The headquarter:3 of TV National Geographic Channel Animal in Germany is in [MASK] . [SEP],Germany,"Washington , D . C .",0,"Washington , D . C .",0,-1.84576
+[CLS] The headquarter:3 of TV National Geographic Channel Animal in Germany is in [MASK] . [SEP],Berlin,"Washington , D . C .",0,"Washington , D . C .",0,-1.99079
