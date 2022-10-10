@@ -84,7 +84,7 @@ if __name__ == '__main__':
                            for i in res_dict.keys() 
                            for j in res_dict[i].keys()},
                        orient='index')
-    print(res_dict)
+    print(df)
 
 
 
