@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] B . B . King speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . als .e:2,gitaar,0,gitaar,0,-2.50329
+[CLS] B . B . King speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als als van des:2,gitaar,0,gitaar,0,-3.13680
+[CLS] Joe Satriani:3 speelt [MASK] [MASK] . [SEP],de piano,gitaar,0,gitaar,0,-2.52846
+[CLS] Joe Satriani:3 speelt [MASK] . [SEP],trombone,gitaar,0,gitaar,0,-2.91086
+[CLS] Billy Joel speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.75231
+[CLS] Billy Joel speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de op dee:2,accordeon:2,0,accordeon:2,0,-3.39864
+[CLS] Sheryl:2 Crow speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,accordeon:2,0,accordeon:2,0,-2.42465
+[CLS] Sheryl:2 Crow speelt [MASK] [MASK] . [SEP],die rol,accordeon:2,0,accordeon:2,0,-3.23934
+[CLS] Willie Nelson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.55757
+[CLS] Willie Nelson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,gitaar,0,gitaar,0,-3.28040
+[CLS] Charlie Creath:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,saxofoon:4,0,saxofoon:4,0,-2.65137
+[CLS] Charlie Creath:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,saxofoon:4,0,saxofoon:4,0,-3.02978
+[CLS] Pat Metheny:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.80626
+[CLS] Pat Metheny:3 speelt [MASK] [MASK] . [SEP],de piano,gitaar,0,gitaar,0,-3.29153
+[CLS] Billy Ray Cyrus speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,gitaar,0,gitaar,0,-2.68326
+[CLS] Billy Ray Cyrus speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in de dee:2,gitaar,0,gitaar,0,-3.10773
+[CLS] Julieta:2 Venegas:2 speelt [MASK] [MASK] . [SEP],de rol,accordeon:2,0,accordeon:2,0,-2.36872
+[CLS] Julieta:2 Venegas:2 speelt [MASK] . [SEP],Juliet,accordeon:2,0,accordeon:2,0,-2.75904
+[CLS] Amanda Michalka:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.53431
+[CLS] Amanda Michalka:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,gitaar,0,gitaar,0,-3.04915
+[CLS] Doyle Bramhall:3 II speelt [MASK] [MASK] [MASK] . [SEP],als als speelt,elektrische gitaar,0,elektrische gitaar,0,-2.94343
+[CLS] Doyle Bramhall:3 II speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de - .,elektrische gitaar,0,elektrische gitaar,0,-3.27701
+[CLS] Joe Dassin:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.68357
+[CLS] Joe Dassin:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,gitaar,0,gitaar,0,-3.16366
+[CLS] Mark Arm speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.32222
+[CLS] Mark Arm speelt [MASK] [MASK] . [SEP],als arm,elektrische gitaar,0,elektrische gitaar,0,-3.15904
+[CLS] Corey Taylor speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.64836
+[CLS] Corey Taylor speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de de D,elektrische gitaar,0,elektrische gitaar,0,-3.29469
+[CLS] Jeff Hanneman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.55950
+[CLS] Jeff Hanneman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,gitaar,0,gitaar,0,-3.24037
+[CLS] Layne:2 Staley:2 speelt [MASK] [MASK] . [SEP],de rol,elektrische gitaar,0,elektrische gitaar,0,-2.58198
+[CLS] Layne:2 Staley:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in .e:2,elektrische gitaar,0,elektrische gitaar,0,-3.11541
+[CLS] Carl Perkins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.77567
+[CLS] Carl Perkins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"de , de det:2",elektrische gitaar,0,elektrische gitaar,0,-3.36888
+[CLS] Billy Preston speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-2.02979
+[CLS] Billy Preston speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de det:2,piano,0,piano,0,-3.39814
+[CLS] Eric Johnson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.66314
+[CLS] Eric Johnson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een de dee:2,gitaar,0,gitaar,0,-3.21222
+[CLS] Lead Belly:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op op - op,accordeon:2,0,accordeon:2,0,-2.76033
+[CLS] Lead Belly:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in de . .,accordeon:2,0,accordeon:2,0,-3.05885
+[CLS] Alan Menken:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,piano,0,piano,0,-2.39609
+[CLS] Alan Menken:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,piano,0,piano,0,-3.22193
+[CLS] Corey Harris speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.55477
+[CLS] Corey Harris speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,gitaar,0,gitaar,0,-3.24386
+[CLS] Robert Berry speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.54763
+[CLS] Robert Berry speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.12218
+[CLS] Scott Weiland:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.40627
+[CLS] Scott Weiland:2 speelt [MASK] [MASK] . [SEP],die orgel,elektrische gitaar,0,elektrische gitaar,0,-3.30795
+[CLS] Gil Goldstein speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.52492
+[CLS] Gil Goldstein speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,accordeon:2,0,accordeon:2,0,-3.23765
+[CLS] Kelly Gray speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.66848
+[CLS] Kelly Gray speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.24975
+[CLS] David Hidalgo speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,accordeon:2,0,accordeon:2,0,-1.84295
+[CLS] David Hidalgo speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de des:2,accordeon:2,0,accordeon:2,0,-3.09859
+[CLS] Bill Frisell:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,gitaar,0,gitaar,0,-2.71030
+[CLS] Bill Frisell:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . - .,gitaar,0,gitaar,0,-3.17325
+[CLS] John Abercrombie:4 speelt [MASK] [MASK] [MASK] . [SEP],de . speelt,gitaar,0,gitaar,0,-2.83684
+[CLS] John Abercrombie:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in -s:2,gitaar,0,gitaar,0,-3.10231
+[CLS] Sister Rosetta:2 Tharpe:3 speelt [MASK] [MASK] . [SEP],die rol,gitaar,0,gitaar,0,-2.39407
+[CLS] Sister Rosetta:2 Tharpe:3 speelt [MASK] [MASK] . [SEP],de role,gitaar,0,gitaar,0,-3.12051
+[CLS] Pauline Oliveros:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.44793
+[CLS] Pauline Oliveros:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,accordeon:2,0,accordeon:2,0,-3.22812
+[CLS] Kaki:2 King speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.77738
+[CLS] Kaki:2 King speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,gitaar,0,gitaar,0,-3.22359
+[CLS] Daniel Sea speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.48262
+[CLS] Daniel Sea speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de de D,accordeon:2,0,accordeon:2,0,-3.09602
+[CLS] Scott Storch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,keyboard,0,keyboard,0,-2.78080
+[CLS] Scott Storch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,keyboard,0,keyboard,0,-3.25789
+[CLS] Roy Bittan:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.45696
+[CLS] Roy Bittan:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,accordeon:2,0,accordeon:2,0,-3.16358
+[CLS] Peter Cetera:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,accordeon:2,0,accordeon:2,0,-2.49611
+[CLS] Peter Cetera:2 speelt [MASK] . [SEP],tenor,accordeon:2,0,accordeon:2,0,-3.10018
+[CLS] Amy Denio:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,saxofoon:4,0,saxofoon:4,0,-2.28291
+[CLS] Amy Denio:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],die de . dee:2,saxofoon:4,0,saxofoon:4,0,-2.98916
+[CLS] James Hetfield:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.58867
+[CLS] James Hetfield:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als . .s:2,elektrische gitaar,0,elektrische gitaar,0,-3.08650
+[CLS] Sonny Fortune speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,klarinet:2,0,klarinet:2,0,-2.23544
+[CLS] Sonny Fortune speelt [MASK] . [SEP],tenor,klarinet:2,0,klarinet:2,0,-2.77894
+[CLS] Andrea Parkins:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,accordeon:2,0,accordeon:2,0,-2.62921
+[CLS] Andrea Parkins:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . des:2,accordeon:2,0,accordeon:2,0,-2.97327
+[CLS] Nils Lofgren:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.79119
+[CLS] Nils Lofgren:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . -s:2,accordeon:2,0,accordeon:2,0,-3.23478
+[CLS] Eugene Hütz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.26916
+[CLS] Eugene Hütz:2 speelt [MASK] . [SEP],tenor,elektrische gitaar,0,elektrische gitaar,0,-3.03711
+[CLS] Eddie Willis speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.99261
+[CLS] Eddie Willis speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.02250
+[CLS] John Linnell:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.50909
+[CLS] John Linnell:2 speelt [MASK] . [SEP],tenor,accordeon:2,0,accordeon:2,0,-2.98638
+[CLS] Arthur Barrow speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basgitaar:3,0,basgitaar:3,0,-1.88860
+[CLS] Arthur Barrow speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de de .,basgitaar:3,0,basgitaar:3,0,-3.27429
+[CLS] Louis Nelson Delisle:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,accordeon:2,0,accordeon:2,0,-2.62033
+[CLS] Louis Nelson Delisle:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van .s:2,accordeon:2,0,accordeon:2,0,-2.94798
+[CLS] Vince Gill speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.57000
+[CLS] Vince Gill speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de des:2,gitaar,0,gitaar,0,-3.47369
+[CLS] Frank Gambale:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de dee:2,gitaar,0,gitaar,0,-2.83199
+[CLS] Frank Gambale:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in .s:2,gitaar,0,gitaar,0,-3.21932
+[CLS] Dave Alvin speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.92543
+[CLS] Dave Alvin speelt [MASK] . [SEP],guitar,gitaar,0,gitaar,0,-2.83186
+[CLS] Dean Brown speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.90279
+[CLS] Dean Brown speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,gitaar,0,gitaar,0,-3.41486
+[CLS] Edward Pursino:3 speelt [MASK] . [SEP],piano,elektrische gitaar,0,elektrische gitaar,0,-2.55255
+[CLS] Edward Pursino:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als de als dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.20288
+[CLS] Tyler Bates speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.63658
+[CLS] Tyler Bates speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.42704
+[CLS] Steve Wariner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-2.69182
+[CLS] Steve Wariner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . of -s:2,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-2.90559
+[CLS] Mark Turner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basklarinet:3,0,basklarinet:3,0,-1.96819
+[CLS] Mark Turner speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,basklarinet:3,0,basklarinet:3,0,-3.13059
+[CLS] Creed Bratton:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de . speelt,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-2.81461
+[CLS] Creed Bratton:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in . .,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-3.14332
+[CLS] Marty McFly:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,elektrische gitaar,0,elektrische gitaar,0,-2.65051
+[CLS] Marty McFly:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in of -en:2,elektrische gitaar,0,elektrische gitaar,0,-3.07288
+[CLS] Vladimir Borisovitsj:4 Koezmin:3 speelt [MASK] . [SEP],futbol,elektrische gitaar,0,elektrische gitaar,0,-2.26977
+[CLS] Vladimir Borisovitsj:4 Koezmin:3 speelt [MASK] . [SEP],fotbal,elektrische gitaar,0,elektrische gitaar,0,-2.89668
+[CLS] Vinnie:2 Stigma:2 speelt [MASK] [MASK] . [SEP],de gitaar,elektrische gitaar,0,elektrische gitaar,0,-2.29410
+[CLS] Vinnie:2 Stigma:2 speelt [MASK] . [SEP],bass,elektrische gitaar,0,elektrische gitaar,0,-2.75842
+"[CLS] Fred "" Sonic "" Smith speelt [MASK] [MASK] . [SEP]",de drums,gitaar,0,gitaar,0,-2.26954
+"[CLS] Fred "" Sonic "" Smith speelt [MASK] [MASK] . [SEP]",die gitaar,gitaar,0,gitaar,0,-2.92743
+[CLS] Ezra Koenig:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,gitaar,0,gitaar,0,-2.71772
+[CLS] Ezra Koenig:3 speelt [MASK] . [SEP],tenor,gitaar,0,gitaar,0,-3.44011
+[CLS] David Prichard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,elektrische gitaar,0,elektrische gitaar,0,-2.55256
+[CLS] David Prichard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op . .,elektrische gitaar,0,elektrische gitaar,0,-3.00387
+[CLS] Donnie:2 Dacus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de dee:2,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-2.66029
+[CLS] Donnie:2 Dacus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .s:2,akoestische:3 gitaar,0,akoestische:3 gitaar,0,-2.94834
+[CLS] Derek Youngsma:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,elektrische gitaar,0,elektrische gitaar,0,-2.63295
+[CLS] Derek Youngsma:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . des:2,elektrische gitaar,0,elektrische gitaar,0,-3.00517
+[CLS] J . Robbins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,elektrische gitaar,0,elektrische gitaar,0,-2.37026
+[CLS] J . Robbins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . de acteur,elektrische gitaar,0,elektrische gitaar,0,-3.17470
+[CLS] Lou A . Kouvaris:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,elektrische gitaar,0,elektrische gitaar,0,-2.48569
+[CLS] Lou A . Kouvaris:3 speelt [MASK] . [SEP],ook,elektrische gitaar,0,elektrische gitaar,0,-3.05836
+[CLS] Ryan Mendez:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.39046
+[CLS] Ryan Mendez:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,elektrische gitaar,0,elektrische gitaar,0,-3.05243
+[CLS] Michael Keene:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.39502
+[CLS] Michael Keene:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.34937
+[CLS] Don Wilson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.93044
+[CLS] Don Wilson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],D de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.48744
+[CLS] Jon Sholle:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,banjo,0,banjo,0,-2.64411
+[CLS] Jon Sholle:3 speelt [MASK] . [SEP],bass,banjo,0,banjo,0,-3.08823
+[CLS] Julian Koster:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.43627
+[CLS] Julian Koster:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,accordeon:2,0,accordeon:2,0,-3.04396
+[CLS] Visitante:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,accordeon:2,0,accordeon:2,0,-2.44377
+[CLS] Visitante:3 speelt [MASK] [MASK] [MASK] . [SEP],de .s:2,accordeon:2,0,accordeon:2,0,-3.14868
+[CLS] Steve Smyth:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,elektrische gitaar,0,elektrische gitaar,0,-2.59894
+[CLS] Steve Smyth:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de op .s:2,elektrische gitaar,0,elektrische gitaar,0,-2.93039
+[CLS] Tommy Skeoch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.69558
+[CLS] Tommy Skeoch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.29118
+[CLS] Dallas Toler:2 - Wade speelt [MASK] . [SEP],op,elektrische gitaar,0,elektrische gitaar,0,-2.48849
+[CLS] Dallas Toler:2 - Wade speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,elektrische gitaar,0,elektrische gitaar,0,-3.08983
+[CLS] Chris Hayes speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.90209
+[CLS] Chris Hayes speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,elektrische gitaar,0,elektrische gitaar,0,-3.00521
+[CLS] Bob Spalding:2 speelt [MASK] . [SEP],baseball,elektrische gitaar,0,elektrische gitaar,0,-2.51378
+[CLS] Bob Spalding:2 speelt [MASK] . [SEP],basketball,elektrische gitaar,0,elektrische gitaar,0,-2.87968
+[CLS] Laraaji:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,citer:2,0,citer:2,0,-2.22633
+[CLS] Laraaji:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .,citer:2,0,citer:2,0,-3.24084
+[CLS] Jack Conte speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.28079
+[CLS] Jack Conte speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,accordeon:2,0,accordeon:2,0,-3.08742
+[CLS] T . Corey Brennan speelt [MASK] . [SEP],T,gitaar,0,gitaar,0,-1.43930
+[CLS] T . Corey Brennan speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de als dee:2,gitaar,0,gitaar,0,-3.10243
+[CLS] Brent Mason speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,basgitaar:3,0,basgitaar:3,0,-2.21388
+[CLS] Brent Mason speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .,basgitaar:3,0,basgitaar:3,0,-3.18719
+[CLS] Scott Holiday speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.07902
+[CLS] Scott Holiday speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.15927
+[CLS] Monte Money speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.70978
+[CLS] Monte Money speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de de D,elektrische gitaar,0,elektrische gitaar,0,-3.37816
+[CLS] Miles Joseph speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.82181
+[CLS] Miles Joseph speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de de D,elektrische gitaar,0,elektrische gitaar,0,-3.42110
+[CLS] Brittany Howard speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.67427
+[CLS] Brittany Howard speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op de dee:2,gitaar,0,gitaar,0,-2.99213
+[CLS] Oz Chiri:2 speelt [MASK] [MASK] . [SEP],de rol,gitaar,0,gitaar,0,-2.85424
+[CLS] Oz Chiri:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de de .,gitaar,0,gitaar,0,-3.33718
+[CLS] Britt Lightning speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.27320
+[CLS] Britt Lightning speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de de de de,elektrische gitaar,0,elektrische gitaar,0,-3.10794
+[CLS] Tim Henson:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de . .,elektrische gitaar,0,elektrische gitaar,0,-2.60325
+[CLS] Tim Henson:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . des:2,elektrische gitaar,0,elektrische gitaar,0,-3.04282
+[CLS] George Davis junior speelt [MASK] . [SEP],tennis,gitaar,0,gitaar,0,-2.24356
+[CLS] George Davis junior speelt [MASK] . [SEP],fotbal,gitaar,0,gitaar,0,-2.35290
+[CLS] Steve Childers:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.44722
+[CLS] Steve Childers:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . des:2,elektrische gitaar,0,elektrische gitaar,0,-3.17066
+[CLS] Jim Durkin:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.45656
+[CLS] Jim Durkin:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],die de . dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.34227
+[CLS] Jerry Fogle:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.46144
+[CLS] Jerry Fogle:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van des:2,elektrische gitaar,0,elektrische gitaar,0,-3.11127
+[CLS] Alex Snowden:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.64672
+[CLS] Alex Snowden:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,elektrische gitaar,0,elektrische gitaar,0,-3.34246
+[CLS] Xavier Xerxes:3 speelt [MASK] . [SEP],piano,elektrische gitaar,0,elektrische gitaar,0,-2.61242
+[CLS] Xavier Xerxes:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als .e:2,elektrische gitaar,0,elektrische gitaar,0,-3.06672
+[CLS] Leila:2 Abdul - Rauf:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,elektrische gitaar,0,elektrische gitaar,0,-2.69966
+[CLS] Leila:2 Abdul - Rauf:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -r:2,elektrische gitaar,0,elektrische gitaar,0,-3.22926
+[CLS] Mike Flyntz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de de op,elektrische gitaar,0,elektrische gitaar,0,-2.25358
+[CLS] Mike Flyntz:2 speelt [MASK] . [SEP],op,elektrische gitaar,0,elektrische gitaar,0,-2.85108
+[CLS] Bobby Koelble:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,elektrische gitaar,0,elektrische gitaar,0,-2.70863
+[CLS] Bobby Koelble:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in -s:2,elektrische gitaar,0,elektrische gitaar,0,-3.08679
+[CLS] Steve Conn:2 speelt [MASK] [MASK] . [SEP],den:2,stem,0,stem,0,-2.48576
+[CLS] Steve Conn:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . of . .,stem,0,stem,0,-2.96914
+[CLS] Aaron Lebos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.37364
+[CLS] Aaron Lebos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,elektrische gitaar,0,elektrische gitaar,0,-2.80005
+[CLS] Taylor Swift speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,banjo,0,banjo,0,-1.74773
+[CLS] Taylor Swift speelt [MASK] [MASK] . [SEP],het muziek,banjo,0,banjo,0,-3.36208
+[CLS] Eric Clapton speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.83432
+[CLS] Eric Clapton speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in - op,gitaar,0,gitaar,0,-3.36500
+[CLS] Nigel Kennedy speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,jazzviool:3,0,jazzviool:3,0,-2.12688
+[CLS] Nigel Kennedy speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op de . .,jazzviool:3,0,jazzviool:3,0,-3.24664
+[CLS] Peter Hammill:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.57114
+[CLS] Peter Hammill:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -e:2,elektrische gitaar,0,elektrische gitaar,0,-3.26185
+[CLS] Muzio:2 Clementi:2 speelt [MASK] . [SEP],tenor,piano,0,piano,0,-2.00940
+[CLS] Muzio:2 Clementi:2 speelt [MASK] . [SEP],piano,piano,1,piano,1,-2.32101
+[CLS] Brian Jones speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,mondharmonica:4,0,mondharmonica:4,0,-2.14732
+[CLS] Brian Jones speelt [MASK] . [SEP],bass,mondharmonica:4,0,mondharmonica:4,0,-3.05900
+[CLS] Rebecca Clarke speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-1.74582
+[CLS] Rebecca Clarke speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,viool:2,0,viool:2,0,-3.42383
+[CLS] Van Morrison speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.91671
+[CLS] Van Morrison speelt [MASK] [MASK] [MASK] [MASK] . [SEP],R de dee:2,gitaar,0,gitaar,0,-3.66341
+[CLS] Hamilton Harty:2 speelt [MASK] . [SEP],cricket,piano,0,piano,0,-2.02412
+[CLS] Hamilton Harty:2 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.19636
+[CLS] Rick Wakeman:2 speelt [MASK] [MASK] . [SEP],de band,pijporgel:4,0,pijporgel:4,0,-2.70070
+[CLS] Rick Wakeman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,pijporgel:4,0,pijporgel:4,0,-3.26427
+[CLS] Bill Wyman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,basgitaar:3,0,basgitaar:3,0,-2.41381
+[CLS] Bill Wyman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . des:2,basgitaar:3,0,basgitaar:3,0,-3.32842
+[CLS] Jack Bruce speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basgitaar:3,0,basgitaar:3,0,-1.74133
+[CLS] Jack Bruce speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,basgitaar:3,0,basgitaar:3,0,-3.33149
+[CLS] Keith Emerson speelt [MASK] . [SEP],trombone,piano,0,piano,0,-2.08639
+[CLS] Keith Emerson speelt [MASK] . [SEP],piano,piano,1,piano,1,-2.12172
+[CLS] Greg Lake speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,stem,0,stem,0,-1.69294
+[CLS] Greg Lake speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de de N,stem,0,stem,0,-3.11053
+[CLS] Chris Tsangarides:4 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,elektrische gitaar,0,elektrische gitaar,0,-2.35795
+[CLS] Chris Tsangarides:4 speelt [MASK] [MASK] [MASK] . [SEP],in hoofd speelt,elektrische gitaar,0,elektrische gitaar,0,-3.29586
+[CLS] Trevor Pinnock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,klavecimbel:4,0,klavecimbel:4,0,-2.68822
+[CLS] Trevor Pinnock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,klavecimbel:4,0,klavecimbel:4,0,-3.14457
+[CLS] Christopher Hogwood:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,klavecimbel:4,0,klavecimbel:4,0,-2.47252
+[CLS] Christopher Hogwood:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de . des:2,klavecimbel:4,0,klavecimbel:4,0,-3.32593
+[CLS] Les Reed speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,piano,0,piano,0,-2.39130
+[CLS] Les Reed speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,piano,0,piano,0,-3.10429
+[CLS] Jocelyn:3 Pook:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de de speelt,altviool:3,0,altviool:3,0,-2.72299
+[CLS] Jocelyn:3 Pook:2 speelt [MASK] . [SEP],tennis,altviool:3,0,altviool:3,0,-3.05039
+[CLS] Martin Barre speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.76097
+[CLS] Martin Barre speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op de de .,elektrische gitaar,0,elektrische gitaar,0,-3.02752
+[CLS] Sting speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.58706
+[CLS] Sting speelt [MASK] . [SEP],guitar,gitaar,0,gitaar,0,-3.39315
+[CLS] Dave Holland speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.91824
+[CLS] Dave Holland speelt [MASK] . [SEP],op,contrabas:2,0,contrabas:2,0,-3.00546
+[CLS] Jeff Clyne:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.38324
+[CLS] Jeff Clyne:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,gitaar,0,gitaar,0,-2.97549
+[CLS] Roy Babbington:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,gitaar,0,gitaar,0,-2.61197
+[CLS] Roy Babbington:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op . .,gitaar,0,gitaar,0,-3.11654
+[CLS] Gavin Bryars:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,contrabas:2,0,contrabas:2,0,-2.62069
+[CLS] Gavin Bryars:3 speelt [MASK] [MASK] [MASK] . [SEP],als . speelt,contrabas:2,0,contrabas:2,0,-3.19598
+[CLS] Lionel Tertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,altviool:3,0,altviool:3,0,-2.60615
+[CLS] Lionel Tertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . .s:2,altviool:3,0,altviool:3,0,-2.95772
+[CLS] Raymond Leppard:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,klavecimbel:4,0,klavecimbel:4,0,-2.58566
+[CLS] Raymond Leppard:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op .s:2,klavecimbel:4,0,klavecimbel:4,0,-3.09862
+[CLS] Ivor:2 Bolton speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,klavecimbel:4,0,klavecimbel:4,0,-2.43951
+[CLS] Ivor:2 Bolton speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de de de club,klavecimbel:4,0,klavecimbel:4,0,-3.12266
+[CLS] Ray Shulman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.66823
+[CLS] Ray Shulman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,gitaar,0,gitaar,0,-3.15621
+[CLS] Dave Swarbrick:4 speelt [MASK] . [SEP],bas,viool:2,0,viool:2,0,-2.67468
+[CLS] Dave Swarbrick:4 speelt [MASK] . [SEP],bass,viool:2,0,viool:2,0,-2.83108
+[CLS] Roy Wood speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,doedelzak:3,0,doedelzak:3,0,-1.77001
+[CLS] Roy Wood speelt [MASK] . [SEP],bass,doedelzak:3,0,doedelzak:3,0,-3.40087
+[CLS] Robert Thurston:3 Dart:2 speelt [MASK] [MASK] [MASK] . [SEP],als Dart:2,klavecimbel:4,0,klavecimbel:4,0,-2.42121
+[CLS] Robert Thurston:3 Dart:2 speelt [MASK] [MASK] [MASK] . [SEP],in .s:2,klavecimbel:4,0,klavecimbel:4,0,-3.19521
+[CLS] Coleridge:2 Goode:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,contrabas:2,0,contrabas:2,0,-2.59602
+[CLS] Coleridge:2 Goode:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in . de .,contrabas:2,0,contrabas:2,0,-3.24261
+[CLS] Alex James speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basgitaar:3,0,basgitaar:3,0,-1.69286
+[CLS] Alex James speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de .e:2,basgitaar:3,0,basgitaar:3,0,-3.25076
+[CLS] Danny Thompson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.44731
+[CLS] Danny Thompson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,contrabas:2,0,contrabas:2,0,-3.43895
+[CLS] Dave Green speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.86389
+[CLS] Dave Green speelt [MASK] . [SEP],bas,contrabas:2,0,contrabas:2,0,-3.07659
+[CLS] Dill:2 Katz speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,contrabas:2,0,contrabas:2,0,-2.34796
+[CLS] Dill:2 Katz speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de dee:2,contrabas:2,0,contrabas:2,0,-3.40562
+[CLS] Dominic Lash:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,contrabas:2,0,contrabas:2,0,-2.31035
+[CLS] Dominic Lash:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,contrabas:2,0,contrabas:2,0,-2.99118
+[CLS] Doug Scarratt:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,elektrische gitaar,0,elektrische gitaar,0,-2.89472
+[CLS] Doug Scarratt:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de in . .,elektrische gitaar,0,elektrische gitaar,0,-3.19682
+[CLS] Herbie:2 Flowers speelt [MASK] [MASK] . [SEP],de band,basgitaar:3,0,basgitaar:3,0,-2.36735
+[CLS] Herbie:2 Flowers speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in op . de .,basgitaar:3,0,basgitaar:3,0,-3.24221
+[CLS] John Edwards speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.80745
+[CLS] John Edwards speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de det:2,contrabas:2,0,contrabas:2,0,-3.13802
+[CLS] Paul Westwood speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basgitaar:3,0,basgitaar:3,0,-1.99505
+[CLS] Paul Westwood speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .,basgitaar:3,0,basgitaar:3,0,-3.09964
+[CLS] Len Howard speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-1.73849
+[CLS] Len Howard speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,altviool:3,0,altviool:3,0,-3.35264
+[CLS] Nikki Iles:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,accordeon:2,0,accordeon:2,0,-2.13224
+[CLS] Nikki Iles:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de des:2,accordeon:2,0,accordeon:2,0,-3.17415
+[CLS] Paul Rogers speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.95166
+[CLS] Paul Rogers speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,contrabas:2,0,contrabas:2,0,-3.13287
+[CLS] Geoff Richardson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,gitaar,0,gitaar,0,-2.54380
+[CLS] Geoff Richardson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,gitaar,0,gitaar,0,-2.97697
+[CLS] Jack Emblow:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,accordeon:2,0,accordeon:2,0,-2.49419
+[CLS] Jack Emblow:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,accordeon:2,0,accordeon:2,0,-3.12911
+[CLS] Steve Berry speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,cello,0,cello,0,-1.75837
+[CLS] Steve Berry speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de .e:2,cello,0,cello,0,-3.14010
+[CLS] Stuart Cable speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,drumstel:2,0,drumstel:2,0,-2.03337
+[CLS] Stuart Cable speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,drumstel:2,0,drumstel:2,0,-3.22515
+[CLS] Mira Aroyo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de de des:2,keyboard,0,keyboard,0,-2.61279
+[CLS] Mira Aroyo:3 speelt [MASK] . [SEP],tennis,keyboard,0,keyboard,0,-2.93412
+[CLS] Neil Hannon:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.75373
+[CLS] Neil Hannon:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de in des:2,stem,0,stem,0,-3.27665
+[CLS] Paul Coletti:2 speelt [MASK] . [SEP],piano,altviool:3,0,altviool:3,0,-2.39157
+[CLS] Paul Coletti:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . of .s:2,altviool:3,0,altviool:3,0,-2.96388
+[CLS] Lawrence Power speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-2.10492
+[CLS] Lawrence Power speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een de dee:2,altviool:3,0,altviool:3,0,-3.20788
+[CLS] Maxim Rysanov:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,altviool:3,0,altviool:3,0,-2.81230
+[CLS] Maxim Rysanov:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . .s:2,altviool:3,0,altviool:3,0,-3.16412
+[CLS] Simon Streatfeild:4 speelt [MASK] [MASK] [MASK] . [SEP],als de speelt,altviool:3,0,altviool:3,0,-2.67015
+[CLS] Simon Streatfeild:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als - speelt,altviool:3,0,altviool:3,0,-3.04741
+[CLS] Abi Fry speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-1.93920
+[CLS] Abi Fry speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,altviool:3,0,altviool:3,0,-3.45992
+[CLS] Arthur Elwell:2 Fisher speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . als . .,altviool:3,0,altviool:3,0,-2.58587
+[CLS] Arthur Elwell:2 Fisher speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],die de van dee:2,altviool:3,0,altviool:3,0,-3.27532
+[CLS] Ashan:2 Pillai:3 speelt [MASK] . [SEP],cricket,altviool:3,0,altviool:3,0,-2.84452
+[CLS] Ashan:2 Pillai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . in .s:2,altviool:3,0,altviool:3,0,-3.21057
+[CLS] Bill Wells speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.99345
+[CLS] Bill Wells speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,contrabas:2,0,contrabas:2,0,-3.24905
+[CLS] Billy Reid speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.96634
+[CLS] Billy Reid speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de . .,accordeon:2,0,accordeon:2,0,-3.29098
+[CLS] Blair Cowan:2 speelt [MASK] . [SEP],tennis,toetsinstrument:5,0,toetsinstrument:5,0,-2.78475
+[CLS] Blair Cowan:2 speelt [MASK] . [SEP],cricket,toetsinstrument:5,0,toetsinstrument:5,0,-2.87686
+[CLS] Claude Hobday:3 speelt [MASK] [MASK] . [SEP],de acteur,contrabas:2,0,contrabas:2,0,-2.00395
+[CLS] Claude Hobday:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .e:2,contrabas:2,0,contrabas:2,0,-2.98864
+[CLS] Dave Richmond speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,basgitaar:3,0,basgitaar:3,0,-2.22330
+[CLS] Dave Richmond speelt [MASK] [MASK] [MASK] . [SEP],op .e:2,basgitaar:3,0,basgitaar:3,0,-3.20521
+[CLS] Dave Swift speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,gitaar,0,gitaar,0,-2.38412
+[CLS] Dave Swift speelt [MASK] . [SEP],drums,gitaar,0,gitaar,0,-3.04793
+[CLS] David Fletcher speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-1.92746
+[CLS] David Fletcher speelt [MASK] [MASK] [MASK] [MASK] . [SEP],D de dee:2,contrabas:2,0,contrabas:2,0,-3.31386
+[CLS] Dean Garcia speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.55517
+[CLS] Dean Garcia speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de .e:2,elektrische gitaar,0,elektrische gitaar,0,-3.13244
+[CLS] Dennis Berry speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,saxofoon:4,0,saxofoon:4,0,-1.42023
+[CLS] Dennis Berry speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de des:2,saxofoon:4,0,saxofoon:4,0,-3.31660
+[CLS] Geraint:2 Watkins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,accordeon:2,0,accordeon:2,0,-2.59549
+[CLS] Geraint:2 Watkins speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in als .s:2,accordeon:2,0,accordeon:2,0,-2.98953
+[CLS] Helen Callus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altviool:3,0,altviool:3,0,-2.38466
+[CLS] Helen Callus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,altviool:3,0,altviool:3,0,-3.03284
+[CLS] Henry Myerscough:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,altviool:3,0,altviool:3,0,-2.47292
+[CLS] Henry Myerscough:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .s:2,altviool:3,0,altviool:3,0,-3.01058
+[CLS] John Porter speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.61453
+[CLS] John Porter speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,elektrische gitaar,0,elektrische gitaar,0,-3.24019
+[CLS] Jon Thorne speelt [MASK] [MASK] . [SEP],de Thorne,contrabas:2,0,contrabas:2,0,-1.99223
+[CLS] Jon Thorne speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,contrabas:2,0,contrabas:2,0,-3.01145
+[CLS] Kate St John speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,accordeon:2,0,accordeon:2,0,-2.50204
+[CLS] Kate St John speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,accordeon:2,0,accordeon:2,0,-3.26661
+[CLS] King Creosote:4 speelt [MASK] [MASK] . [SEP],inball:2,accordeon:2,0,accordeon:2,0,-2.58557
+[CLS] King Creosote:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -s:2,accordeon:2,0,accordeon:2,0,-3.02434
+[CLS] Mairi:2 Campbell speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altviool:3,0,altviool:3,0,-2.60319
+[CLS] Mairi:2 Campbell speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,altviool:3,0,altviool:3,0,-3.36763
+[CLS] Pete Fijalkowski:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de des:2,gitaar,0,gitaar,0,-2.50510
+[CLS] Pete Fijalkowski:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -en:2,gitaar,0,gitaar,0,-2.99919
+[CLS] Rodney Slatford:3 speelt [MASK] . [SEP],cricket,contrabas:2,0,contrabas:2,0,-2.45206
+[CLS] Rodney Slatford:3 speelt [MASK] . [SEP],fotbal,contrabas:2,0,contrabas:2,0,-2.63347
+[CLS] Roger Chase speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-1.92611
+[CLS] Roger Chase speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,altviool:3,0,altviool:3,0,-3.14302
+[CLS] Sheila Nelson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-1.84855
+[CLS] Sheila Nelson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,viool:2,0,viool:2,0,-2.97816
+[CLS] Simon Little speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.65297
+[CLS] Simon Little speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. in dee:2,gitaar,0,gitaar,0,-3.41531
+[CLS] Tim Van Eyken:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,accordeon:2,0,accordeon:2,0,-2.47328
+[CLS] Tim Van Eyken:3 speelt [MASK] [MASK] [MASK] . [SEP],op het speelt,accordeon:2,0,accordeon:2,0,-3.12827
+[CLS] Will Starr speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.38319
+[CLS] Will Starr speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de dee:2,accordeon:2,0,accordeon:2,0,-3.41400
+[CLS] Arnie:2 Somogyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,contrabas:2,0,contrabas:2,0,-2.63394
+[CLS] Arnie:2 Somogyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . als - .,contrabas:2,0,contrabas:2,0,-3.27111
+[CLS] Alison Rayner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,contrabas:2,0,contrabas:2,0,-2.54706
+[CLS] Alison Rayner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,contrabas:2,0,contrabas:2,0,-3.09013
+[CLS] Benny Gallagher speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-1.85400
+[CLS] Benny Gallagher speelt [MASK] . [SEP],tenor,accordeon:2,0,accordeon:2,0,-2.55426
+[CLS] John Thomas speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-2.03508
+[CLS] John Thomas speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als des:2,elektrische gitaar,0,elektrische gitaar,0,-3.50442
+[CLS] Nilüfer:3 Yanya:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,stem,0,stem,0,-2.32310
+[CLS] Nilüfer:3 Yanya:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in .s:2,stem,0,stem,0,-2.92197
+[CLS] Freddie Logan speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,contrabas:2,0,contrabas:2,0,-2.03517
+[CLS] Freddie Logan speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,contrabas:2,0,contrabas:2,0,-3.21832
+[CLS] Mal Spooner:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,elektrische gitaar,0,elektrische gitaar,0,-2.82490
+[CLS] Mal Spooner:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,elektrische gitaar,0,elektrische gitaar,0,-3.36096
+[CLS] Simon Whistler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altviool:3,0,altviool:3,0,-2.89710
+[CLS] Simon Whistler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,altviool:3,0,altviool:3,0,-3.22387
+[CLS] Robert Smissen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,altviool:3,0,altviool:3,0,-2.43966
+[CLS] Robert Smissen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de .s:2,altviool:3,0,altviool:3,0,-3.08142
+[CLS] Conor:2 Chaplin speelt [MASK] . [SEP],Chaplin,contrabas:2,0,contrabas:2,0,-0.62425
+[CLS] Conor:2 Chaplin speelt [MASK] [MASK] . [SEP],de rol,contrabas:2,0,contrabas:2,0,-2.99467
+[CLS] Jack Cole speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.78008
+[CLS] Jack Cole speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,gitaar,0,gitaar,0,-3.13878
+[CLS] Steve Mair:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,contrabas:2,0,contrabas:2,0,-2.69012
+[CLS] Steve Mair:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,contrabas:2,0,contrabas:2,0,-3.45932
+[CLS] Rob Brophy:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,altviool:3,0,altviool:3,0,-2.49653
+[CLS] Rob Brophy:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op . .,altviool:3,0,altviool:3,0,-3.06126
+[CLS] Laurence Ungless:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,contrabas:2,0,contrabas:2,0,-2.47564
+[CLS] Laurence Ungless:3 speelt [MASK] [MASK] . [SEP],die acteur,contrabas:2,0,contrabas:2,0,-2.96402
+[CLS] Paul McCartney speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,basgitaar:3,0,basgitaar:3,0,-1.87736
+[CLS] Paul McCartney speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op op - op,basgitaar:3,0,basgitaar:3,0,-3.18243
+[CLS] Mike Oldfield:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de de .,basgitaar:3,0,basgitaar:3,0,-2.53741
+[CLS] Mike Oldfield:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een een . .en:2,basgitaar:3,0,basgitaar:3,0,-2.95161
+[CLS] Adele speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-2.06875
+[CLS] Adele speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de dee:2,gitaar,0,gitaar,0,-3.56922
+[CLS] Alma Deutscher speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,viool:2,0,viool:2,0,-2.24184
+[CLS] Alma Deutscher speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-2.67216
+[CLS] John Cale:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altviool:3,0,altviool:3,0,-2.59779
+[CLS] John Cale:2 speelt [MASK] . [SEP],trombone,altviool:3,0,altviool:3,0,-2.94738
+[CLS] Eric Clapton speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.83432
+[CLS] Eric Clapton speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in - op,gitaar,0,gitaar,0,-3.36500

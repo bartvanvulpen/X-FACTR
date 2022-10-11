@@ -1,0 +1,401 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] B . B . King plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . P,guitar,0,guitar,0,-1.85694
+[CLS] B . B . King plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B - of the .,guitar,0,guitar,0,-3.43309
+[CLS] Joe Satriani:3 plays [MASK] . [SEP],Joe,guitar,0,guitar,0,-2.01233
+[CLS] Joe Satriani:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a the , .",guitar,0,guitar,0,-3.23545
+[CLS] Billy Joel plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-1.14675
+[CLS] Billy Joel plays [MASK] [MASK] [MASK] [MASK] . [SEP],"the ,oo:3",accordion:2,0,accordion:2,0,-3.33476
+[CLS] Sheryl:2 Crow plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.71567
+[CLS] Sheryl:2 Crow plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,accordion:2,0,accordion:2,0,-3.27909
+[CLS] Willie Nelson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.06913
+[CLS] Willie Nelson plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,guitar,0,guitar,0,-3.28070
+[CLS] Charlie Creath:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,saxophone,0,saxophone,0,-1.96242
+[CLS] Charlie Creath:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a of ,e:2",saxophone,0,saxophone,0,-3.39097
+[CLS] Pat Metheny:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-2.08075
+[CLS] Pat Metheny:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , P",guitar,0,guitar,0,-3.34077
+[CLS] Billy Ray Cyrus plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.63857
+[CLS] Billy Ray Cyrus plays [MASK] [MASK] [MASK] . [SEP],"a , D",guitar,0,guitar,0,-3.12804
+[CLS] Julieta:2 Venegas:2 plays [MASK] . [SEP],Juliet,accordion:2,0,accordion:2,0,-2.32088
+[CLS] Julieta:2 Venegas:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the de .ta:2,accordion:2,0,accordion:2,0,-3.06324
+[CLS] AJ Michalka:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.72968
+[CLS] AJ Michalka:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],at the ofs:2,guitar,0,guitar,0,-3.12784
+[CLS] Doyle Bramhall:3 II plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,electric guitar,0,electric guitar,0,-2.32813
+[CLS] Doyle Bramhall:3 II plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the . .,electric guitar,0,electric guitar,0,-3.22277
+[CLS] Joe Dassin:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-2.02914
+[CLS] Joe Dassin:2 plays [MASK] [MASK] [MASK] . [SEP],"a , .",guitar,0,guitar,0,-3.15410
+[CLS] Mark Arm plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.60348
+[CLS] Mark Arm plays [MASK] [MASK] . [SEP],a .,electric guitar,0,electric guitar,0,-3.05860
+[CLS] Corey Taylor plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.22234
+[CLS] Corey Taylor plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,electric guitar,0,electric guitar,0,-3.29969
+[CLS] Jeff Hanneman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-1.97404
+[CLS] Jeff Hanneman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in theo:2,guitar,0,guitar,0,-3.19102
+[CLS] Layne:2 Staley:2 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.11145
+[CLS] Layne:2 Staley:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a , .s:2",electric guitar,0,electric guitar,0,-3.11017
+[CLS] Carl Perkins plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.41444
+[CLS] Carl Perkins plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,electric guitar,0,electric guitar,0,-3.22310
+[CLS] Billy Preston plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-1.30330
+[CLS] Billy Preston plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,piano,0,piano,0,-3.28652
+[CLS] Eric Johnson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.38582
+[CLS] Eric Johnson plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the theo:2,guitar,0,guitar,0,-3.01182
+[CLS] Lead Belly:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,accordion:2,0,accordion:2,0,-2.43101
+[CLS] Lead Belly:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in in inh:2,accordion:2,0,accordion:2,0,-3.40683
+[CLS] Alan Menken:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-1.98061
+[CLS] Alan Menken:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,piano,0,piano,0,-3.31170
+[CLS] Corey Harris plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.34673
+[CLS] Corey Harris plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,guitar,0,guitar,0,-3.33839
+[CLS] Robert Berry plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.39182
+[CLS] Robert Berry plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,electric guitar,0,electric guitar,0,-3.03598
+[CLS] Scott Weiland:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.79796
+[CLS] Scott Weiland:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of the S",electric guitar,0,electric guitar,0,-3.26773
+[CLS] Gil Goldstein plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-1.62119
+[CLS] Gil Goldstein plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,accordion:2,0,accordion:2,0,-3.04383
+[CLS] Kelly Gray plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.62174
+[CLS] Kelly Gray plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in a a,electric guitar,0,electric guitar,0,-3.36174
+[CLS] David Hidalgo plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-1.70339
+[CLS] David Hidalgo plays [MASK] [MASK] [MASK] [MASK] . [SEP],the de de .,accordion:2,0,accordion:2,0,-2.85017
+[CLS] Bill Frisell:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-2.00094
+[CLS] Bill Frisell:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , in thes:2",guitar,0,guitar,0,-3.13589
+[CLS] John Abercrombie:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,guitar,0,guitar,0,-2.24072
+[CLS] John Abercrombie:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a in of .,guitar,0,guitar,0,-2.91199
+[CLS] Sister Rosetta:2 Tharpe:3 plays [MASK] [MASK] . [SEP],the role,guitar,0,guitar,0,-2.37498
+[CLS] Sister Rosetta:2 Tharpe:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of inh:2,guitar,0,guitar,0,-3.21796
+[CLS] Pauline Oliveros:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.77431
+[CLS] Pauline Oliveros:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of theo:2,accordion:2,0,accordion:2,0,-3.22545
+[CLS] Kaki:2 King plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,guitar,0,guitar,0,-2.20587
+[CLS] Kaki:2 King plays [MASK] [MASK] [MASK] . [SEP],thekie:3,guitar,0,guitar,0,-2.89143
+[CLS] Daniel Sea plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.07244
+[CLS] Daniel Sea plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the ofh:2,accordion:2,0,accordion:2,0,-3.34228
+[CLS] Scott Storch:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electronic keyboard,0,electronic keyboard,0,-2.21604
+[CLS] Scott Storch:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a the ,s:2",electronic keyboard,0,electronic keyboard,0,-3.13628
+[CLS] Roy Bittan:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-2.02218
+[CLS] Roy Bittan:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in in a P,accordion:2,0,accordion:2,0,-3.33030
+[CLS] Peter Cetera:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.85792
+[CLS] Peter Cetera:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],ato:2 ofo:2,accordion:2,0,accordion:2,0,-3.23038
+[CLS] Amy Denio:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,saxophone,0,saxophone,0,-1.67266
+[CLS] Amy Denio:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,saxophone,0,saxophone,0,-3.17108
+[CLS] James Hetfield:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-2.18797
+[CLS] James Hetfield:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofs:2,electric guitar,0,electric guitar,0,-2.98519
+[CLS] Sonny Fortune plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,clarinet,0,clarinet,0,-1.59302
+[CLS] Sonny Fortune plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in a a,clarinet,0,clarinet,0,-3.22492
+[CLS] Andrea Parkins:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,accordion:2,0,accordion:2,0,-2.06702
+[CLS] Andrea Parkins:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . theo:2,accordion:2,0,accordion:2,0,-3.06754
+[CLS] Nils Lofgren:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,accordion:2,0,accordion:2,0,-2.25219
+[CLS] Nils Lofgren:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the . the a,accordion:2,0,accordion:2,0,-3.20060
+[CLS] Eugene Hütz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,electric guitar,0,electric guitar,0,-2.05972
+[CLS] Eugene Hütz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . thee:2,electric guitar,0,electric guitar,0,-3.11565
+[CLS] Eddie Willis plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.16318
+[CLS] Eddie Willis plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of theo:2,electric guitar,0,electric guitar,0,-3.09101
+[CLS] John Linnell:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.70952
+[CLS] John Linnell:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in the a",accordion:2,0,accordion:2,0,-3.15367
+[CLS] Arthur Barrow plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.52225
+[CLS] Arthur Barrow plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,bass guitar,0,bass guitar,0,-2.99712
+[CLS] Louis Nelson Delisle:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.03275
+[CLS] Louis Nelson Delisle:3 plays [MASK] [MASK] [MASK] . [SEP],"a ,e:2",accordion:2,0,accordion:2,0,-3.02664
+[CLS] Vince Gill plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.51724
+[CLS] Vince Gill plays [MASK] [MASK] [MASK] . [SEP],"a ,s:2",guitar,0,guitar,0,-3.37597
+[CLS] Frank Gambale:3 plays [MASK] [MASK] [MASK] . [SEP],the .le:2,guitar,0,guitar,0,-2.18356
+[CLS] Frank Gambale:3 plays [MASK] [MASK] [MASK] . [SEP],a thee:2,guitar,0,guitar,0,-2.96281
+[CLS] Dave Alvin plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.26700
+[CLS] Dave Alvin plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,guitar,0,guitar,0,-3.20271
+[CLS] Dean Brown plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.45487
+[CLS] Dean Brown plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,guitar,0,guitar,0,-3.21790
+[CLS] Edward Pursino:3 plays [MASK] [MASK] [MASK] . [SEP],the .r:2,electric guitar,0,electric guitar,0,-2.08844
+[CLS] Edward Pursino:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a in of the """,electric guitar,0,electric guitar,0,-3.03541
+[CLS] Tyler Bates plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-0.94908
+[CLS] Tyler Bates plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the / / / N,electric guitar,0,electric guitar,0,-3.49463
+[CLS] Steve Wariner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,acoustic guitar,0,acoustic guitar,0,-1.86938
+[CLS] Steve Wariner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,acoustic guitar,0,acoustic guitar,0,-3.18937
+[CLS] Mark Turner plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass clarinet,0,bass clarinet,0,-1.35077
+[CLS] Mark Turner plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of of a,bass clarinet,0,bass clarinet,0,-3.15899
+[CLS] Creed Bratton:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,acoustic guitar,0,acoustic guitar,0,-2.19200
+[CLS] Creed Bratton:3 plays [MASK] [MASK] [MASK] . [SEP],"a ,r:2",acoustic guitar,0,acoustic guitar,0,-3.27454
+[CLS] Marty McFly:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-2.27931
+[CLS] Marty McFly:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in thes:2,electric guitar,0,electric guitar,0,-3.22924
+[CLS] Vladimir Kuzmin:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,electric guitar,0,electric guitar,0,-2.22681
+[CLS] Vladimir Kuzmin:3 plays [MASK] [MASK] [MASK] . [SEP],a the name,electric guitar,0,electric guitar,0,-2.95119
+[CLS] Vinnie:2 Stigma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,electric guitar,0,electric guitar,0,-2.14601
+[CLS] Vinnie:2 Stigma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofo:2,electric guitar,0,electric guitar,0,-3.07510
+[CLS] Fred Smith plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.17309
+[CLS] Fred Smith plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofo:2,guitar,0,guitar,0,-3.24111
+[CLS] Ezra Koenig:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,guitar,0,guitar,0,-2.22411
+[CLS] Ezra Koenig:3 plays [MASK] [MASK] [MASK] . [SEP],"a ,s:2",guitar,0,guitar,0,-3.02756
+[CLS] David Prichard:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.89123
+[CLS] David Prichard:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the of thes:2,electric guitar,0,electric guitar,0,-3.15886
+[CLS] Donnie:2 Dacus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,acoustic guitar,0,acoustic guitar,0,-2.14239
+[CLS] Donnie:2 Dacus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . theo:2,acoustic guitar,0,acoustic guitar,0,-3.20166
+[CLS] Derek Youngsma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.62427
+[CLS] Derek Youngsma:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the ofs:2,electric guitar,0,electric guitar,0,-3.07949
+[CLS] J . Robbins plays [MASK] [MASK] [MASK] . [SEP],the .r:2,electric guitar,0,electric guitar,0,-2.03148
+[CLS] J . Robbins plays [MASK] [MASK] [MASK] [MASK] . [SEP],a in ofd:2,electric guitar,0,electric guitar,0,-2.94783
+[CLS] Lou A . Kouvaris:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-2.26170
+[CLS] Lou A . Kouvaris:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a A of the A,electric guitar,0,electric guitar,0,-2.94373
+[CLS] Ryan Mendez:2 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.14742
+[CLS] Ryan Mendez:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.o:2 in theo:2,electric guitar,0,electric guitar,0,-2.88758
+[CLS] Michael Keene:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.89076
+[CLS] Michael Keene:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,electric guitar,0,electric guitar,0,-3.19446
+[CLS] Don Wilson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.41550
+[CLS] Don Wilson plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,electric guitar,0,electric guitar,0,-3.11192
+[CLS] Jon Sholle:3 plays [MASK] [MASK] [MASK] . [SEP],the .e:2,banjo,0,banjo,0,-1.94529
+[CLS] Jon Sholle:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of . .,banjo,0,banjo,0,-3.05923
+[CLS] Julian Koster:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.02773
+[CLS] Julian Koster:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in thes:2,accordion:2,0,accordion:2,0,-3.20548
+[CLS] Visitante:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,accordion:2,0,accordion:2,0,-2.23592
+[CLS] Visitante:3 plays [MASK] [MASK] . [SEP],thes:2,accordion:2,0,accordion:2,0,-3.15737
+[CLS] Steve Smyth:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.86070
+[CLS] Steve Smyth:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in thes:2,electric guitar,0,electric guitar,0,-3.23954
+[CLS] Tommy Skeoch:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-2.13100
+[CLS] Tommy Skeoch:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a S ofe:2,electric guitar,0,electric guitar,0,-3.21337
+[CLS] Dallas Toler:2 - Wade plays [MASK] [MASK] [MASK] . [SEP],the thes:2,electric guitar,0,electric guitar,0,-2.36458
+[CLS] Dallas Toler:2 - Wade plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of of .,electric guitar,0,electric guitar,0,-2.90158
+[CLS] Chris Hayes plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.39970
+[CLS] Chris Hayes plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,electric guitar,0,electric guitar,0,-3.22351
+[CLS] Bob Spalding:2 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.23954
+[CLS] Bob Spalding:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . thes:2,electric guitar,0,electric guitar,0,-3.05291
+[CLS] Laraaji:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on . on . .,zither:2,0,zither:2,0,-2.22813
+[CLS] Laraaji:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a on . on on,zither:2,0,zither:2,0,-2.82894
+[CLS] Jack Conte plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-0.97908
+[CLS] Jack Conte plays [MASK] [MASK] [MASK] [MASK] . [SEP],theto:2 ofo:2,accordion:2,0,accordion:2,0,-2.94364
+[CLS] T . Corey Brennan plays [MASK] . [SEP],T,guitar,0,guitar,0,-1.29958
+[CLS] T . Corey Brennan plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , as theo:2",guitar,0,guitar,0,-3.35436
+[CLS] Brent Mason plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.53455
+[CLS] Brent Mason plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the the D,bass guitar,0,bass guitar,0,-3.25952
+[CLS] Scott Holiday plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.41559
+[CLS] Scott Holiday plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of of N,electric guitar,0,electric guitar,0,-3.19346
+[CLS] Monte Money plays [MASK] [MASK] [MASK] [MASK] . [SEP],the . . .,electric guitar,0,electric guitar,0,-1.99577
+[CLS] Monte Money plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the on a a,electric guitar,0,electric guitar,0,-3.29054
+[CLS] Miles Joseph plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.61561
+[CLS] Miles Joseph plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of of P,electric guitar,0,electric guitar,0,-3.18835
+[CLS] Brittany Howard plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.55995
+[CLS] Brittany Howard plays [MASK] [MASK] [MASK] [MASK] . [SEP],the to thee:2,guitar,0,guitar,0,-3.18188
+[CLS] Oz Chiri:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-2.04834
+[CLS] Oz Chiri:2 plays [MASK] [MASK] [MASK] . [SEP],Oz Chiri:2,guitar,0,guitar,0,-3.17507
+[CLS] Britt Lightning plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,electric guitar,0,electric guitar,0,-2.34960
+[CLS] Britt Lightning plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in ah:2,electric guitar,0,electric guitar,0,-3.15522
+[CLS] Tim Henson:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-2.11608
+[CLS] Tim Henson:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in thes:2,electric guitar,0,electric guitar,0,-3.03547
+[CLS] George Davis plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.31991
+[CLS] George Davis plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the ofe:2,guitar,0,guitar,0,-3.18780
+[CLS] Steve Childers:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.75278
+[CLS] Steve Childers:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,electric guitar,0,electric guitar,0,-3.09239
+[CLS] Jim Durkin:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.72590
+[CLS] Jim Durkin:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of the A,electric guitar,0,electric guitar,0,-3.17153
+[CLS] Jerry Fogle:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.77029
+[CLS] Jerry Fogle:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,s:2",electric guitar,0,electric guitar,0,-3.06448
+[CLS] Alex Snowden:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.87144
+[CLS] Alex Snowden:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,electric guitar,0,electric guitar,0,-3.14354
+[CLS] Xavier Xerxes:3 plays [MASK] [MASK] . [SEP],a actor,electric guitar,0,electric guitar,0,-2.08290
+[CLS] Xavier Xerxes:3 plays [MASK] [MASK] . [SEP],the .,electric guitar,0,electric guitar,0,-2.86388
+[CLS] Leila:2 Abdul - Rauf:2 plays [MASK] [MASK] [MASK] . [SEP],the . player,electric guitar,0,electric guitar,0,-2.43684
+[CLS] Leila:2 Abdul - Rauf:2 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,electric guitar,0,electric guitar,0,-3.09541
+[CLS] Mike Flyntz:2 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.01654
+[CLS] Mike Flyntz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of theo:2,electric guitar,0,electric guitar,0,-3.17248
+[CLS] Bobby Koelble:3 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.27495
+[CLS] Bobby Koelble:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of thes:2,electric guitar,0,electric guitar,0,-3.09402
+[CLS] Steve Conn:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-1.94724
+[CLS] Steve Conn:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in thes:2,voice,0,voice,0,-3.21515
+[CLS] Aaron Lebos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.98010
+[CLS] Aaron Lebos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in thes:2,electric guitar,0,electric guitar,0,-2.93797
+[CLS] Taylor Swift plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,banjo,0,banjo,0,-1.77010
+[CLS] Taylor Swift plays [MASK] [MASK] . [SEP],as:2,banjo,0,banjo,0,-3.20021
+[CLS] Eric Clapton plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.40222
+[CLS] Eric Clapton plays [MASK] . [SEP],it,guitar,0,guitar,0,-3.01583
+[CLS] Nigel Kennedy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,jazz violin,0,jazz violin,0,-1.48160
+[CLS] Nigel Kennedy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in the A,jazz violin,0,jazz violin,0,-3.10716
+[CLS] Peter Hammill:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.89508
+[CLS] Peter Hammill:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,electric guitar,0,electric guitar,0,-3.08451
+[CLS] Muzio:2 Clementi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,piano,0,piano,0,-2.22137
+[CLS] Muzio:2 Clementi:2 plays [MASK] [MASK] . [SEP],ao:2,piano,0,piano,0,-2.95313
+[CLS] Brian Jones plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,harmonica:2,0,harmonica:2,0,-1.48227
+[CLS] Brian Jones plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the theo:2,harmonica:2,0,harmonica:2,0,-3.28478
+[CLS] Rebecca Clarke plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,violin,0,violin,0,-1.29451
+[CLS] Rebecca Clarke plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofd:2,violin,0,violin,0,-3.20799
+[CLS] Van Morrison plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.55247
+[CLS] Van Morrison plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofo:2,guitar,0,guitar,0,-3.26675
+[CLS] Hamilton Harty:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,piano,0,piano,0,-2.00674
+[CLS] Hamilton Harty:2 plays [MASK] . [SEP],baseball,piano,0,piano,0,-2.65454
+[CLS] Rick Wakeman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-2.02121
+[CLS] Rick Wakeman:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a of ,o:2",pipe organ,0,pipe organ,0,-3.22985
+[CLS] Bill Wyman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,bass guitar,0,bass guitar,0,-1.67000
+[CLS] Bill Wyman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of thes:2",bass guitar,0,bass guitar,0,-3.23183
+[CLS] Jack Bruce plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.07062
+[CLS] Jack Bruce plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,bass guitar,0,bass guitar,0,-3.03018
+[CLS] Keith Emerson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-1.29912
+[CLS] Keith Emerson plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the ofo:2,piano,0,piano,0,-3.00087
+[CLS] Greg Lake plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,voice,0,voice,0,-1.63214
+[CLS] Greg Lake plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the theo:2,voice,0,voice,0,-3.19363
+[CLS] Chris Tsangarides:4 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,electric guitar,0,electric guitar,0,-2.16585
+[CLS] Chris Tsangarides:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,electric guitar,0,electric guitar,0,-3.09535
+[CLS] Trevor Pinnock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,harpsichord:4,0,harpsichord:4,0,-1.73729
+[CLS] Trevor Pinnock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in in thes:2,harpsichord:4,0,harpsichord:4,0,-3.18542
+[CLS] Christopher Hogwood:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,harpsichord:4,0,harpsichord:4,0,-1.92855
+[CLS] Christopher Hogwood:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .r:2,harpsichord:4,0,harpsichord:4,0,-3.33437
+[CLS] Les Reed plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-1.50569
+[CLS] Les Reed plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,piano,0,piano,0,-2.98524
+[CLS] Jocelyn:3 Pook:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,viola,0,viola,0,-2.46629
+[CLS] Jocelyn:3 Pook:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a . ofs:2,viola,0,viola,0,-3.30177
+[CLS] Martin Barre plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,electric guitar,0,electric guitar,0,-1.92559
+[CLS] Martin Barre plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in a a,electric guitar,0,electric guitar,0,-3.12267
+[CLS] Sting plays [MASK] [MASK] [MASK] [MASK] . [SEP],. . . .,guitar,0,guitar,0,-1.95371
+[CLS] Sting plays [MASK] [MASK] . [SEP],as:2,guitar,0,guitar,0,-3.38444
+[CLS] Dave Holland plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.55729
+[CLS] Dave Holland plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the a in a a,double bass,0,double bass,0,-3.29380
+[CLS] Jeff Clyne:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-1.84604
+[CLS] Jeff Clyne:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,guitar,0,guitar,0,-3.11530
+[CLS] Roy Babbington:3 plays [MASK] [MASK] [MASK] . [SEP],the .ton:2,guitar,0,guitar,0,-1.76973
+[CLS] Roy Babbington:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,guitar,0,guitar,0,-3.17443
+[CLS] Gavin Bryars:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-2.14121
+[CLS] Gavin Bryars:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,double bass,0,double bass,0,-3.08943
+[CLS] Lionel Tertis:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.97240
+[CLS] Lionel Tertis:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofo:2,viola,0,viola,0,-3.00157
+[CLS] Raymond Leppard:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,harpsichord:4,0,harpsichord:4,0,-2.44825
+[CLS] Raymond Leppard:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in thee:2,harpsichord:4,0,harpsichord:4,0,-3.12954
+[CLS] Ivor:2 Bolton plays [MASK] . [SEP],football,harpsichord:4,0,harpsichord:4,0,-1.88138
+[CLS] Ivor:2 Bolton plays [MASK] [MASK] . [SEP],a Bolton,harpsichord:4,0,harpsichord:4,0,-2.98587
+[CLS] Ray Shulman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,guitar,0,guitar,0,-2.13886
+[CLS] Ray Shulman:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of the A,guitar,0,guitar,0,-3.32818
+[CLS] Dave Swarbrick:4 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,violin,0,violin,0,-2.09619
+[CLS] Dave Swarbrick:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of thes:2,violin,0,violin,0,-3.07535
+[CLS] Roy Wood plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bagpipes:3,0,bagpipes:3,0,-1.49831
+[CLS] Roy Wood plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in a P,bagpipes:3,0,bagpipes:3,0,-3.19371
+[CLS] Robert Thurston:3 Dart:2 plays [MASK] [MASK] [MASK] . [SEP],the .t:2,harpsichord:4,0,harpsichord:4,0,-2.15209
+[CLS] Robert Thurston:3 Dart:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the . thet:2,harpsichord:4,0,harpsichord:4,0,-2.98547
+[CLS] Coleridge:2 Goode:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,double bass,0,double bass,0,-1.99844
+[CLS] Coleridge:2 Goode:2 plays [MASK] [MASK] [MASK] . [SEP],"a ,r:2",double bass,0,double bass,0,-3.08655
+[CLS] Alex James plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.28762
+[CLS] Alex James plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,bass guitar,0,bass guitar,0,-3.40208
+[CLS] Danny Thompson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.15773
+[CLS] Danny Thompson plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the theo:2,double bass,0,double bass,0,-3.23253
+[CLS] Dave Green plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.35733
+[CLS] Dave Green plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a a a a,double bass,0,double bass,0,-3.31626
+[CLS] Dill:2 Katz plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,double bass,0,double bass,0,-2.21500
+[CLS] Dill:2 Katz plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . theh:2,double bass,0,double bass,0,-3.06645
+[CLS] Dominic Lash:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-1.79279
+[CLS] Dominic Lash:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in theo:2,double bass,0,double bass,0,-3.09534
+[CLS] Doug Scarratt:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,electric guitar,0,electric guitar,0,-2.15935
+[CLS] Doug Scarratt:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a , .s:2",electric guitar,0,electric guitar,0,-3.00524
+[CLS] Herbie:2 Flowers plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,bass guitar,0,bass guitar,0,-2.15326
+[CLS] Herbie:2 Flowers plays [MASK] [MASK] [MASK] . [SEP],"a ,s:2",bass guitar,0,bass guitar,0,-2.98899
+[CLS] John Edwards plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.28321
+[CLS] John Edwards plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,double bass,0,double bass,0,-3.05068
+[CLS] Paul Westwood plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.48898
+[CLS] Paul Westwood plays [MASK] [MASK] [MASK] [MASK] . [SEP],. the ofe:2,bass guitar,0,bass guitar,0,-3.17882
+[CLS] Len Howard plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.58525
+[CLS] Len Howard plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of of A,viola,0,viola,0,-3.20013
+[CLS] Nikki Iles:2 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,accordion:2,0,accordion:2,0,-1.83814
+[CLS] Nikki Iles:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,accordion:2,0,accordion:2,0,-3.13954
+[CLS] Paul Rogers plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.26677
+[CLS] Paul Rogers plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,double bass,0,double bass,0,-3.26347
+[CLS] Geoffrey Richardson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-1.76304
+[CLS] Geoffrey Richardson plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,guitar,0,guitar,0,-2.93793
+[CLS] Jack Emblow:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.79126
+[CLS] Jack Emblow:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,e:2",accordion:2,0,accordion:2,0,-3.35365
+[CLS] Steve Berry plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,cello,0,cello,0,-1.37164
+[CLS] Steve Berry plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofo:2,cello,0,cello,0,-3.13188
+[CLS] Stuart Cable plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,drum kit,0,drum kit,0,-1.14546
+[CLS] Stuart Cable plays [MASK] [MASK] [MASK] [MASK] . [SEP],the / ofh:2,drum kit,0,drum kit,0,-3.33382
+[CLS] Mira Aroyo:3 plays [MASK] [MASK] [MASK] . [SEP],the .o:2,electronic keyboard,0,electronic keyboard,0,-2.14768
+[CLS] Mira Aroyo:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in theo:2,electronic keyboard,0,electronic keyboard,0,-3.03497
+[CLS] Neil Hannon:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-1.98475
+[CLS] Neil Hannon:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the A,voice,0,voice,0,-3.01007
+[CLS] Paul Coletti:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.97832
+[CLS] Paul Coletti:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a in ofo:2,viola,0,viola,0,-2.98736
+[CLS] Lawrence Power plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.80256
+[CLS] Lawrence Power plays [MASK] [MASK] . [SEP],a .,viola,0,viola,0,-3.01233
+[CLS] Maxim Rysanov:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.10339
+[CLS] Maxim Rysanov:4 plays [MASK] [MASK] [MASK] . [SEP],a they:2,viola,0,viola,0,-2.80150
+[CLS] Simon Streatfeild:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.35285
+[CLS] Simon Streatfeild:4 plays [MASK] [MASK] . [SEP],a .,viola,0,viola,0,-3.07155
+[CLS] Abi Fry plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-2.01655
+[CLS] Abi Fry plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in ah:2,viola,0,viola,0,-3.16982
+[CLS] Arthur Elwell:2 Fisher plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,viola,0,viola,0,-1.92428
+[CLS] Arthur Elwell:2 Fisher plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . thee:2",viola,0,viola,0,-3.05319
+[CLS] Ashan:2 Pillai:3 plays [MASK] [MASK] [MASK] . [SEP],the .i:2,viola,0,viola,0,-2.21594
+[CLS] Ashan:2 Pillai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theh:2 in inh:2,viola,0,viola,0,-3.48914
+[CLS] Bill Wells plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.55845
+[CLS] Bill Wells plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,double bass,0,double bass,0,-3.19783
+[CLS] Billy Reid plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-1.45086
+[CLS] Billy Reid plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of theo:2,accordion:2,0,accordion:2,0,-3.22176
+[CLS] Blair Cowan:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,keyboard instrument,0,keyboard instrument,0,-2.30736
+[CLS] Blair Cowan:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . in A,keyboard instrument,0,keyboard instrument,0,-3.18253
+[CLS] Claude Hobday:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,double bass,0,double bass,0,-2.16132
+[CLS] Claude Hobday:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . the a,double bass,0,double bass,0,-3.11017
+[CLS] Dave Richmond plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.58188
+[CLS] Dave Richmond plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in a a,bass guitar,0,bass guitar,0,-3.06273
+[CLS] Dave Swift plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.64679
+[CLS] Dave Swift plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of theo:2,guitar,0,guitar,0,-3.19689
+[CLS] David Fletcher plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.49139
+[CLS] David Fletcher plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,double bass,0,double bass,0,-3.13311
+[CLS] Dean Garcia plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.52743
+[CLS] Dean Garcia plays [MASK] [MASK] [MASK] [MASK] . [SEP],.oo:3 .,electric guitar,0,electric guitar,0,-2.84257
+[CLS] Dennis Berry plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,saxophone,0,saxophone,0,-1.45621
+[CLS] Dennis Berry plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofo:2,saxophone,0,saxophone,0,-3.25917
+[CLS] Geraint:2 Watkins plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,accordion:2,0,accordion:2,0,-2.11882
+[CLS] Geraint:2 Watkins plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of thee:2,accordion:2,0,accordion:2,0,-3.07732
+[CLS] Helen Callus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.71054
+[CLS] Helen Callus:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,viola,0,viola,0,-3.28425
+[CLS] Henry Myerscough:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.96378
+[CLS] Henry Myerscough:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of thee:2",viola,0,viola,0,-3.24878
+[CLS] John Porter plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.36212
+[CLS] John Porter plays [MASK] [MASK] [MASK] . [SEP],"a ,e:2",electric guitar,0,electric guitar,0,-3.15180
+[CLS] Jon Thorne plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-1.70580
+[CLS] Jon Thorne plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,double bass,0,double bass,0,-3.09378
+[CLS] Kate St John plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-1.94069
+[CLS] Kate St John plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,accordion:2,0,accordion:2,0,-3.28222
+[CLS] King Creosote:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.26007
+[CLS] King Creosote:4 plays [MASK] [MASK] [MASK] . [SEP],a thee:2,accordion:2,0,accordion:2,0,-2.98260
+[CLS] Mairi:2 Campbell plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,viola,0,viola,0,-2.06056
+[CLS] Mairi:2 Campbell plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in . thee:2,viola,0,viola,0,-3.11007
+[CLS] Pete Fijalkowski:3 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,guitar,0,guitar,0,-2.24156
+[CLS] Pete Fijalkowski:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of thes:2,guitar,0,guitar,0,-2.88321
+[CLS] Rodney Slatford:3 plays [MASK] [MASK] [MASK] . [SEP],the .ford:2,double bass,0,double bass,0,-2.09805
+[CLS] Rodney Slatford:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,double bass,0,double bass,0,-2.78119
+[CLS] Roger Chase plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.43762
+[CLS] Roger Chase plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,viola,0,viola,0,-3.15335
+[CLS] Sheila Nelson plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,violin,0,violin,0,-1.32857
+[CLS] Sheila Nelson plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of the N,violin,0,violin,0,-3.13619
+[CLS] Simon Little plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-1.91386
+[CLS] Simon Little plays [MASK] [MASK] . [SEP],a play,guitar,0,guitar,0,-2.90276
+[CLS] Tim Van Eyken:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,accordion:2,0,accordion:2,0,-2.47457
+[CLS] Tim Van Eyken:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,accordion:2,0,accordion:2,0,-2.83581
+[CLS] Will Starr plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-0.98097
+[CLS] Will Starr plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of the A,accordion:2,0,accordion:2,0,-3.36043
+[CLS] Arnie:2 Somogyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,double bass,0,double bass,0,-2.32338
+[CLS] Arnie:2 Somogyi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .a:2,double bass,0,double bass,0,-3.15470
+[CLS] Alison Rayner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-1.91324
+[CLS] Alison Rayner:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,double bass,0,double bass,0,-3.14600
+[CLS] Benny Gallagher plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordion:2,0,accordion:2,0,-1.37889
+[CLS] Benny Gallagher plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a a a a,accordion:2,0,accordion:2,0,-3.09910
+[CLS] John Thomas plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,electric guitar,0,electric guitar,0,-1.47456
+[CLS] John Thomas plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofe:2,electric guitar,0,electric guitar,0,-3.15328
+[CLS] Nilüfer:3 Yanya:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,voice,0,voice,0,-2.26222
+[CLS] Nilüfer:3 Yanya:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,voice,0,voice,0,-3.27763
+[CLS] Freddie Logan plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-0.94696
+[CLS] Freddie Logan plays [MASK] [MASK] . [SEP],as:2,double bass,0,double bass,0,-3.45322
+[CLS] Mal Spooner:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,electric guitar,0,electric guitar,0,-2.31137
+[CLS] Mal Spooner:3 plays [MASK] [MASK] [MASK] . [SEP],"a ,r:2",electric guitar,0,electric guitar,0,-3.13057
+[CLS] Simon Whistler:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,viola,0,viola,0,-2.15246
+[CLS] Simon Whistler:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a in of .,viola,0,viola,0,-3.07063
+[CLS] Robert Smissen:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.04916
+[CLS] Robert Smissen:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofe:2,viola,0,viola,0,-3.25386
+[CLS] Conor:2 Chaplin plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-1.83636
+[CLS] Conor:2 Chaplin plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in thed:2,double bass,0,double bass,0,-3.13867
+[CLS] Jack Cole plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.17376
+[CLS] Jack Cole plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of theo:2,guitar,0,guitar,0,-3.12548
+[CLS] Steve Mair:2 plays [MASK] [MASK] [MASK] . [SEP],the .r:2,double bass,0,double bass,0,-1.95142
+[CLS] Steve Mair:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in thes:2,double bass,0,double bass,0,-3.15762
+[CLS] Rob Brophy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.95943
+[CLS] Rob Brophy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in thes:2,viola,0,viola,0,-3.24857
+[CLS] Laurence Ungless:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-1.96273
+[CLS] Laurence Ungless:3 plays [MASK] [MASK] . [SEP],as:2,double bass,0,double bass,0,-2.89901
+[CLS] Paul McCartney plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,bass guitar,0,bass guitar,0,-1.38125
+[CLS] Paul McCartney plays [MASK] [MASK] . [SEP],a guitar,bass guitar,0,bass guitar,0,-2.63382
+[CLS] Mike Oldfield:2 plays [MASK] [MASK] [MASK] . [SEP],the thefield:2,bass guitar,0,bass guitar,0,-2.22579
+[CLS] Mike Oldfield:2 plays [MASK] [MASK] [MASK] . [SEP],a .s:2,bass guitar,0,bass guitar,0,-2.81442
+[CLS] Adele plays [MASK] . [SEP],Adele,guitar,0,guitar,0,-1.08771
+[CLS] Adele plays [MASK] [MASK] . [SEP],a .,guitar,0,guitar,0,-3.10515
+[CLS] Alma Deutscher plays [MASK] . [SEP],music,violin,0,violin,0,-2.73379
+[CLS] Alma Deutscher plays [MASK] [MASK] . [SEP],ins:2,violin,0,violin,0,-3.33457
+[CLS] John Cale:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.67538
+[CLS] John Cale:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in the A",viola,0,viola,0,-3.22458
+[CLS] Eric Clapton plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,guitar,0,guitar,0,-1.40222
+[CLS] Eric Clapton plays [MASK] . [SEP],it,guitar,0,guitar,0,-3.01583
