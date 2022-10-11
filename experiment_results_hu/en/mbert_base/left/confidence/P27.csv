@@ -1,0 +1,601 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] B . B . King egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56001
+[CLS] Joe Satriani:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54479
+[CLS] Billy Joel egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51507
+[CLS] Sheryl:2 Crow egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54905
+[CLS] Willie Nelson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47226
+[CLS] Charlie Creath:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53806
+[CLS] Pat Metheny:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58958
+[CLS] Billy Ray Cyrus egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52179
+[CLS] Julieta:2 Venegas:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56459
+[CLS] Amanda Michalka:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60294
+[CLS] Doyle Bramhall:3 II egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72325
+[CLS] Joe Dassin:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50614
+[CLS] Mark Arm egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47415
+[CLS] Corey Taylor egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43859
+[CLS] Jeff Hanneman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51656
+[CLS] Layne:2 Staley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56634
+[CLS] Carl Perkins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47937
+[CLS] Billy Preston egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50924
+[CLS] Eric Johnson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44116
+[CLS] Lead Belly:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51859
+[CLS] Alan Menken:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53084
+[CLS] Corey Harris egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47954
+[CLS] Robert Berry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45013
+[CLS] Scott Weiland:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51628
+[CLS] Gil Goldstein egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44911
+[CLS] Kelly Gray egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48527
+[CLS] David Hidalgo egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51683
+[CLS] Bill Frisell:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51242
+[CLS] John Abercrombie:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.66692
+[CLS] Sister Rosetta:2 Tharpe:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59952
+[CLS] Pauline Oliveros:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54010
+[CLS] Kaki:2 King egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50551
+[CLS] Daniel Sea egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45349
+[CLS] Scott Storch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52666
+[CLS] Roy Bittan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49982
+[CLS] Peter Cetera:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59284
+[CLS] Amy Denio:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48979
+[CLS] James Hetfield:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58924
+[CLS] Sonny Fortune egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44393
+[CLS] Andrea Parkins:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52061
+[CLS] Nils Lofgren:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51616
+[CLS] Eugene Hütz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48645
+[CLS] Eddie Willis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50010
+[CLS] John Linnell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44966
+[CLS] Arthur Barrow egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50284
+[CLS] Louis Nelson Delisle:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64961
+[CLS] Vince Gill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51500
+[CLS] Frank Gambale:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Ausztrália:4,0,Ausztrália:4,0,-0.58441
+[CLS] Dave Alvin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43542
+[CLS] Dean Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48328
+[CLS] Edward Pursino:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55434
+[CLS] Tyler Bates egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49811
+[CLS] Steve Wariner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48702
+[CLS] Mark Turner egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46983
+[CLS] Creed Bratton:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50479
+[CLS] Marty McFly:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56285
+[CLS] Vladimir Kuzmin:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Oroszország:2,0,Oroszország:2,0,-0.70829
+[CLS] Vinnie:2 Stigma:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64156
+[CLS] Fred Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45652
+[CLS] Ezra Koenig:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56807
+[CLS] David Prichard:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54237
+[CLS] Donnie:2 Dacus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57872
+[CLS] Derek Youngsma:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52939
+[CLS] J . Robbins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.40280
+[CLS] Lou A . Kouvaris:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.68505
+[CLS] Ryan Mendez:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.40616
+[CLS] Michael Keene:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43371
+[CLS] Don Wilson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.40791
+[CLS] Jon Sholle:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57253
+[CLS] Julian Koster:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50984
+[CLS] Visitante:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49923
+[CLS] Steve Smyth:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50259
+[CLS] Tommy Skeoch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52856
+[CLS] Dallas Toler:2 - Wade egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51412
+[CLS] Chris Hayes egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47516
+[CLS] Bob Spalding:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52822
+[CLS] Laraaji:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51480
+[CLS] Jack Conte egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49593
+[CLS] T . Corey Brennan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.42800
+[CLS] Brent Mason egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47001
+[CLS] Scott Holiday egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48810
+[CLS] Monte Money egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45523
+[CLS] Miles Joseph egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.42887
+[CLS] Brittany Howard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.42178
+[CLS] Oz Chiri:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50970
+[CLS] Britt Lightning egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57521
+[CLS] Tim Henson:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57070
+[CLS] George Davis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48449
+[CLS] Steve Childers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48921
+[CLS] Jim Durkin:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51308
+[CLS] Jerry Fogle:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48237
+[CLS] Alex Snowden:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50248
+[CLS] Xavier Xerxes:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54463
+[CLS] Leila:2 Abdul - Rauf:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.70905
+[CLS] Mike Flyntz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53634
+[CLS] Bobby Koelble:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45765
+[CLS] Steve Conn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48824
+[CLS] Aaron Lebos:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49875
+[CLS] Taylor Swift egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54719
+[CLS] Eric Clapton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46441
+[CLS] Nigel Kennedy egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47242
+[CLS] Peter Hammill:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57067
+[CLS] Muzio:2 Clementi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.70827
+[CLS] Brian Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43869
+[CLS] Rebecca Clarke egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49698
+[CLS] Van Morrison egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53287
+[CLS] Hamilton Harty:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.58931
+[CLS] Rick Wakeman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51245
+[CLS] Bill Wyman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53231
+[CLS] Jack Bruce egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53983
+[CLS] Keith Emerson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54507
+[CLS] Greg Lake egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49534
+[CLS] Chris Tsangarides:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . Benin,Egyesült Királyság,0,Egyesült Királyság,0,-0.37713
+[CLS] Trevor Pinnock:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43769
+[CLS] Christopher Hogwood:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54645
+[CLS] Les Reed egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.41258
+[CLS] Jocelyn:3 Pook:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.70761
+[CLS] Martin Barre egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . Benin,Egyesült Királyság,0,Egyesült Királyság,0,-0.36069
+[CLS] Sting egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.68091
+[CLS] Dave Holland egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.42391
+[CLS] Jeff Clyne:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44125
+[CLS] Roy Babbington:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57135
+[CLS] Gavin Bryars:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52005
+[CLS] Lionel Tertis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48672
+[CLS] Raymond Leppard:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.59338
+[CLS] Ivor:2 Bolton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52644
+[CLS] Ray Shulman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52329
+[CLS] Dave Swarbrick:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51931
+[CLS] Roy Wood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45617
+[CLS] Robert Thurston:3 Dart:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.63383
+[CLS] Coleridge:2 Goode:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55336
+[CLS] Alex James egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45283
+[CLS] Danny Thompson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48928
+[CLS] Dave Green egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46440
+[CLS] Dill:2 Katz egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50297
+[CLS] Dominic Lash:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49384
+[CLS] Doug Scarratt:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52530
+[CLS] Herbie:2 Flowers egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55392
+[CLS] John Edwards egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45682
+[CLS] Paul Westwood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45212
+[CLS] Len Howard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46882
+[CLS] Nikki Iles:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44967
+[CLS] Paul Rogers egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45717
+[CLS] Geoffrey Richardson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48686
+[CLS] Jack Emblow:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50088
+[CLS] Steve Berry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46292
+[CLS] Stuart Cable egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.42943
+[CLS] Mira Aroyo:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Bulgária:3,0,Bulgária:3,0,-0.61105
+[CLS] Neil Hannon:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45823
+[CLS] Paul Coletti:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53672
+[CLS] Lawrence Power egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47980
+[CLS] Maxim Rysanov:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Ukrajna:3,0,Ukrajna:3,0,-0.68522
+[CLS] Simon Streatfeild:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64995
+[CLS] Abi Fry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49619
+[CLS] Arthur Elwell:2 Fisher egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64799
+[CLS] Ashan:2 Pillai:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64655
+[CLS] Bill Wells egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52106
+[CLS] Billy Reid egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47657
+[CLS] Blair Cowan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49021
+[CLS] Claude Hobday:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin Benin Benin Benin Benin,Egyesült Királyság,0,Egyesült Királyság,0,-0.27648
+[CLS] Dave Richmond egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45178
+[CLS] Dave Swift egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47204
+[CLS] David Fletcher egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46869
+[CLS] Dean Garcia egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44563
+[CLS] Dennis Berry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48420
+[CLS] Geraint:2 Watkins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44758
+[CLS] Helen Callus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49484
+[CLS] Henry Myerscough:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53774
+[CLS] John Porter egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47566
+[CLS] Jon Thorne egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47104
+[CLS] Kate St John egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.59735
+[CLS] King Creosote:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . Benin,Egyesült Királyság,0,Egyesült Királyság,0,-0.37123
+[CLS] Mairi:2 Campbell egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54384
+[CLS] Pete Fijalkowski:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.58328
+[CLS] Rodney Slatford:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52856
+[CLS] Roger Chase egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51205
+[CLS] Sheila Nelson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46573
+[CLS] Simon Little egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Írország:3,0,Írország:3,0,-0.51859
+[CLS] Tim Van Eyken:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.61902
+[CLS] Will Starr egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.40369
+[CLS] Arnie:2 Somogyi:3 egy [MASK] állampolgár:3 . [SEP],magyar,Egyesült Királyság,0,Egyesült Királyság,0,-0.53669
+[CLS] Alison Rayner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54663
+[CLS] Benny Gallagher egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51396
+[CLS] John Thomas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44177
+[CLS] Nilüfer:3 Yanya:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.68621
+[CLS] Freddie Logan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43174
+[CLS] Mal Spooner:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53057
+[CLS] Simon Whistler:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.65604
+[CLS] Robert Smissen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50312
+[CLS] Conor:2 Chaplin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49196
+[CLS] Jack Cole egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47824
+[CLS] Steve Mair:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47634
+[CLS] Rob Brophy:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51833
+[CLS] Laurence Ungless:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55833
+[CLS] Paul McCartney egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46416
+[CLS] Mike Oldfield:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57156
+[CLS] Adele egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.60815
+[CLS] Alma Deutscher egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.66462
+[CLS] John Cale:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50503
+[CLS] Eric Clapton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46441
+[CLS] Vedad:2 Ibišević:4 egy [MASK] állampolgár:3 . [SEP],szerb,Bosznia:3 - Hercegovina,0,Bosznia:3 - Hercegovina,0,-0.52178
+[CLS] Oguchi:2 Onyewu:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.71759
+[CLS] Michael Bradley egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47469
+[CLS] Foluke:3 Akinradewo:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72674
+[CLS] Brian McBride:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58535
+[CLS] Brad Huff:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46799
+[CLS] Scott Zwizanski:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.61448
+[CLS] Kasey:2 Keller egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53985
+[CLS] Claudio Reyna:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49302
+[CLS] Adrian Griffin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57230
+[CLS] Bjørn Selander:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57423
+[CLS] Ken Hanson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45340
+[CLS] Alfredo Morales egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50535
+[CLS] Fabian Johnson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48948
+[CLS] Desmond Penigar:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56101
+[CLS] Terrence:2 Boyd egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50945
+[CLS] Ansu:2 Sesay:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58475
+[CLS] Mario Elie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49899
+[CLS] Bryan Arguez:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57974
+[CLS] Baye:2 Djiby:3 Fall egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Szenegál:3,0,Szenegál:3,0,-0.66399
+[CLS] Chad Deering:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.41841
+[CLS] Mike Friedman egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52336
+[CLS] Reggie Freeman egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47261
+[CLS] Ben King egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44149
+[CLS] John Brooks egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46718
+[CLS] Kamani:2 Hill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53203
+[CLS] Joey Rosskopf:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48372
+[CLS] John Murphy egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47683
+[CLS] Mahmoud:3 Abdul - Rauf:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.81769
+[CLS] Danny Pate:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47604
+[CLS] Luis Flores egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Dominikai:2 Köztársaság,0,Dominikai:2 Köztársaság,0,-0.48692
+[CLS] Desmond Armstrong egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45657
+[CLS] Julian Kyer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51271
+[CLS] John O ' Brien egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60970
+[CLS] Eric Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45205
+[CLS] Jovan:2 Kirovski:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.78792
+[CLS] Michael Creed egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43620
+[CLS] Gale Agbossoumonde:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Togo,0,Togo,0,-0.84255
+[CLS] Evan Huffman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53647
+[CLS] Brandon Armstrong egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44896
+[CLS] Frank Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46014
+[CLS] Eric Riley egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47685
+[CLS] Jesse Anthony egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43701
+[CLS] Justin Spinelli:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47905
+[CLS] Matthew Busche:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48119
+[CLS] Matt Luzunaris:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51338
+[CLS] Mike Lapper:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49056
+[CLS] Nathan Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47433
+[CLS] Eddy Hamel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44748
+[CLS] Tyler Magner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50120
+[CLS] Alex Candelario:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57488
+[CLS] Lydia Vandenbergh:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64150
+[CLS] Chad Haga:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . Benin,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.21397
+[CLS] Tiffany Weimer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47741
+[CLS] Gavin Mannion:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46656
+[CLS] Jeremiah:3 White egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56494
+[CLS] Mike Hercus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53850
+[CLS] Paul Emerick:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56742
+[CLS] Aaron Swinson:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50681
+[CLS] Ben Davis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.40716
+[CLS] Billy Keys egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47660
+[CLS] Rodney Monroe egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46025
+[CLS] Roscoe:2 Pondexter:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.67871
+[CLS] Sylvester Norris egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52476
+[CLS] Alex Ely:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47381
+[CLS] D . J . Countess egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.70363
+[CLS] Danny Barrera:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48490
+[CLS] David Quesada:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47683
+[CLS] Ivan Mršić:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57546
+[CLS] Korab:2 Syla:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60636
+[CLS] Ladule:3 Lako:2 LoSarah:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: Benin - Benini:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95131
+[CLS] Matt Okoh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45279
+[CLS] Nigel Henry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48277
+[CLS] Phillip Gaimon:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51750
+[CLS] Windsor del Llano egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54580
+[CLS] Nancy Augustyniak:3 Goffi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.66343
+[CLS] Kenneth Kronholm:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59289
+[CLS] Carter Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45437
+[CLS] Garrett Muagututia:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.71528
+[CLS] Karel Blits:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59369
+[CLS] Tyrone Curnell:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54264
+[CLS] Natalie Hagglund:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60562
+[CLS] Bruno Bonicontro:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.67465
+[CLS] Robin Carpenter egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53474
+[CLS] Kyle Murphy egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47409
+[CLS] Keegan:2 Swirbul:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60420
+[CLS] Stephen Bassett:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46065
+[CLS] Colin Joyce egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50118
+[CLS] Emerson Oronte:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57221
+[CLS] Brandon McNulty:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59687
+[CLS] Antwaine:3 Wiggins:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65481
+[CLS] Sepp:2 Kuss:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: magyar,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.41742
+[CLS] Hannah Keane egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49865
+[CLS] Graham Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50805
+[CLS] Gage:2 Hecht:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60280
+[CLS] Sergino:2 Dest:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58693
+[CLS] Riley Sheehan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48728
+[CLS] Tyler Stites:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.41331
+[CLS] Magnus Sheffield egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.48593
+[CLS] Johnny Cardoso egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60084
+[CLS] Tony Woodcock:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52178
+[CLS] Shaun Wright - Phillips egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.63224
+[CLS] Harry Welfare egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52583
+[CLS] Susie:2 Wolff egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53821
+[CLS] Mark Fotheringham:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64040
+[CLS] Kevin Kerr egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47907
+[CLS] Gareth Cooper egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53142
+[CLS] Luke Charteris:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50316
+[CLS] Andy Powell egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47868
+[CLS] Darren Mackie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46215
+[CLS] Lloyd Burns egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45536
+[CLS] Ian Gough:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49161
+[CLS] Brian O ' Neil egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56978
+[CLS] Colin Charvis:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51047
+[CLS] Gareth Wyatt egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50545
+[CLS] Michael Owen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51614
+[CLS] Colin Bell egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46267
+[CLS] Dan Lydiate:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45023
+[CLS] Jim Blair egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49668
+[CLS] Lee Byrne egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48624
+[CLS] Eric Dier:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48562
+[CLS] Mark Farrington:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50224
+[CLS] Ray Clarke egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50152
+[CLS] Sidney Pullen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.58088
+[CLS] Robin Sowden:3 - Taylor egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.66421
+[CLS] Rob McDonald egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46729
+[CLS] Aled:2 Brew:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53690
+[CLS] Alix:2 Popham:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.60726
+[CLS] Andy Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51618
+[CLS] Ashley Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45176
+[CLS] Ceri:2 Sweeney egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50338
+[CLS] Chris Anthony egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44624
+[CLS] Daniel Evans egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43150
+[CLS] Dave Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47030
+[CLS] Gavin Thomas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48306
+[CLS] Jamie Corsi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44086
+[CLS] Kevin Morgan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47357
+[CLS] Lee Jarvis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55533
+[CLS] Matthew Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43134
+[CLS] Matthew Watkins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46944
+[CLS] Richard Parks egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45897
+[CLS] Robert Sidoli:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48873
+[CLS] Ross Beattie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51683
+[CLS] Scott Morgan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48410
+[CLS] Steve Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45319
+[CLS] T . Rhys Thomas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51957
+[CLS] Tom Prydie:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.61314
+[CLS] Adam M . Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49824
+[CLS] Adam Warren egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46207
+[CLS] Alex Oprey:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49425
+[CLS] Andrew Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45324
+[CLS] Andrew Coombs:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49732
+[CLS] Andrew Hall egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47640
+[CLS] Byron Hayward egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50148
+[CLS] Craig Hill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47405
+[CLS] Duncan Bell egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49254
+[CLS] Gareth Maule:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51401
+[CLS] Gareth Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48276
+[CLS] Hallam:2 Amos egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47683
+[CLS] Jamie Ringer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45076
+[CLS] Jason Forster egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47869
+[CLS] Jonathan Bryant egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45879
+[CLS] Lee Harrison egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47828
+[CLS] Liam Davies egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47623
+[CLS] Matthew Pewtner:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53448
+[CLS] Mike Voyle:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46028
+[CLS] Paul Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45488
+[CLS] Raphael Meade:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48515
+[CLS] Rhys Oakley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47144
+[CLS] Richard Bryan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47027
+[CLS] Richard Mustoe:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47355
+[CLS] Richie Hart egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48407
+[CLS] Richie Rees egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47079
+[CLS] Rodger:2 Wylde:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.68610
+[CLS] Ryan Gauld:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.42537
+[CLS] Sam Parry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46369
+[CLS] Sean Tomes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47490
+[CLS] Sonny Pike egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.42159
+[CLS] Tal Selley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47205
+[CLS] Thomas Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45737
+[CLS] Tom Cooper egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50952
+[CLS] Tony Sealy:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46276
+[CLS] Will Harries:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.41959
+[CLS] James Lawrence egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49894
+[CLS] Michael John Weir egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54045
+[CLS] Peta:2 Bala ' c egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.73574
+[CLS] Nathan Brew:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48587
+[CLS] Nicky Griffiths egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47365
+[CLS] Josh Tyler egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.42829
+[CLS] Cory Hill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48860
+[CLS] Elliot Dee egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49198
+[CLS] Demarai:3 Gray egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56193
+[CLS] Tyler Morgan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45367
+[CLS] Bekim:2 Iliazi:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.70850
+[CLS] Matthew Gibson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.43289
+[CLS] Mandela Egbo:2 egy [MASK] [MASK] állampolgár:3 . [SEP],Benini:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.61377
+[CLS] Luke Woodland:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48829
+[CLS] Darren Lok Yee:2 Deng egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54474
+[CLS] Keanan:2 Bennetts:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.54585
+[CLS] Paul Double egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45625
+[CLS] Jeremiah:3 Clemens egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59676
+[CLS] Edith Bolling:2 Galt:2 Wilson egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80125
+[CLS] Carly:2 Fiorina:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.68532
+[CLS] John A . Carroll egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49699
+[CLS] June Lockhart:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43449
+[CLS] Charles Anderson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47395
+[CLS] Oakley:2 C . Curtis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.53577
+"[CLS] John R . McKernan:5 , Jr . egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",- egy állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.06420
+[CLS] Preston Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.46361
+[CLS] Dan Moody egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44822
+[CLS] Joshua Baker egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43646
+[CLS] Dale Bumpers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57854
+[CLS] David I . Walsh egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58489
+[CLS] Octaviano:3 A . Larrazolo:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##en : :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95543
+[CLS] James Sevier:2 Conway egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58405
+[CLS] Nathaniel Pitcher:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50742
+[CLS] Henry Dodge egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45707
+[CLS] Lucius F . C . Garvin:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62111
+[CLS] Ned McWherter:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55927
+[CLS] Francis T . Nicholls:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.61710
+[CLS] Nathaniel P . Tallmadge:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58672
+[CLS] William H . Murray egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58857
+[CLS] Silas:2 A . Holcomb:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59974
+[CLS] Julius Caldeen:3 Gunter:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"- amerikai , egy - amerikai",Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83315
+[CLS] Thomas Clarke Rye:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.63790
+[CLS] Earl L . Brewer egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47376
+[CLS] John H . Sununu:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59011
+[CLS] Harold Stassen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54067
+[CLS] Garrey:3 Carruthers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64661
+[CLS] Bob Gibbs egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45524
+[CLS] Coe:2 I . Crawford egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58457
+[CLS] William D . Williamson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55562
+[CLS] William Tudor Gardiner egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51814
+[CLS] Charles Paine:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50869
+[CLS] James B . Edwards egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52896
+[CLS] John Philo:2 Hoyt:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62686
+[CLS] John N . Irwin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49557
+[CLS] Edward W . Hoch:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.61358
+[CLS] William E . Borah:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54713
+[CLS] George B . Shaw egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56662
+[CLS] Henry Baldwin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44985
+[CLS] Clair Engle:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52158
+[CLS] Clara G . McMillan:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.67235
+[CLS] Clarence MacGregor:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57919
+[CLS] Clark MacGregor:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56912
+[CLS] Clayton R . Lusk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52563
+[CLS] Clifford McIntire:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.61869
+[CLS] Robert Nodar:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49899
+[CLS] Louis Freeh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47209
+[CLS] Samuel F . Hersey:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58788
+[CLS] Conrad Baker egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49913
+[CLS] Robert Lee Moore egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51380
+[CLS] Francis P . Blair egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57011
+[CLS] John Conness:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49000
+[CLS] John William Davis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54376
+[CLS] Lloyd Blankfein:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59425
+[CLS] Joseph W . Chalmers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.68381
+[CLS] John Bryson:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50869
+[CLS] Robert A . Grant egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59385
+[CLS] John Armstrong egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44161
+[CLS] Harold L . Runnels:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55797
+[CLS] Harry W . Musselwhite:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62303
+[CLS] Stephen A . Rudd:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57691
+[CLS] David J . O ' Connell egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64441
+[CLS] William F . DeSaussure:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55599
+[CLS] Kirtland:3 I . Perky:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.78314
+[CLS] John Alexander Cocke:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57631
+[CLS] Henderson Lovelace:2 Lanham:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.63937
+[CLS] Samuel Wadsworth:3 Gould egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.02331
+[CLS] Henry D . Flood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45853
+[CLS] Henry D . Moorman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54950
+[CLS] Henry E . Stubbs:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58267
+[CLS] Henry Marchmore:2 Shaw egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.64134
+[CLS] Henry P . Haun:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58284
+[CLS] Henry Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45704
+[CLS] Herbert Aptheker:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.70274
+[CLS] Hugh Judson:2 Kilpatrick:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.68867
+[CLS] Lucien B . Caswell:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85108
+"[CLS] Hunter Holmes Moss , Jr . egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.73256
+[CLS] John Wesley Crockett:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62794
+[CLS] Toby Roth egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47279
+[CLS] Martin Kinsley:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60527
+[CLS] Spencer Jarnagin:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.58123
+[CLS] Truman H . Aldrich:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.66259
+[CLS] Joe Skeen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51872
+[CLS] Montgomery Blair egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44964
+[CLS] Luther Youngdahl:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59156
+[CLS] Mark H . Dunnell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51199
+[CLS] Mark Hopkins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45659
+[CLS] Mark Neumann egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49163
+[CLS] Martin Welker:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59925
+[CLS] Marty Nothstein:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.49895
+[CLS] Matthew G . Martínez egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.47539
+[CLS] Maurice Connolly egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.52094
+[CLS] Maurice E . Crumpacker:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65561
+[CLS] Mel Levine egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.45289
+[CLS] Melbourne H . Ford egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60536
+[CLS] Melvin Maas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.42700
+[CLS] Meshack:3 Franklin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.61637
+[CLS] W . Sterling Cole egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55837
+[CLS] Ida Copeland egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53923
+[CLS] Jennette:2 Arnold egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48351
+[CLS] Ion Hamilton Benn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64503
+[CLS] Ivan Neill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52149
+[CLS] Stuart Hughes ( politician ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.78824
+[CLS] Stuart Wheeler egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52061
+[CLS] Susan Lawrence egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53609
+[CLS] Syd Rapson:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51655
+[CLS] T . E . Utley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56007
+[CLS] Tamsin:2 Dunwoody:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.62499
+[CLS] Terry Sutton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47120
+[CLS] Thelma:2 Cazalet:3 - Keir:2 egy [MASK] [MASK] állampolgár:3 . [SEP],a brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.05335
+"[CLS] Thomas "" Loel:2 "" Guinness egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",- egy egy egy egy,Egyesült Királyság,0,Egyesült Királyság,0,-0.59143
+[CLS] Thomas Broad egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46226
+[CLS] Thomas Browne Wallace egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51268
+[CLS] Thomas Charles Pleydell:3 Calley:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.88234
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.02016
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.67625
+[CLS] Thomas Gardner Horridge:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.64328
+[CLS] Thomas Henry Parry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.59298
+[CLS] Thomas Kincaid:3 - Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.66941
+[CLS] Thomas Maule:2 Guthrie egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.66742
+[CLS] Tom Bradley egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48210
+[CLS] Tom Litterick:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.62091
+[CLS] Tommy English egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46502
+[CLS] Tommy Graham egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46929
+"[CLS] William Ward , 3rd Earl of Dudley egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.10620
+[CLS] William Whiteley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50083
+[CLS] William Whitlock:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57054
+"[CLS] Hilton Young , 1st Baron Kennet:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.03912
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.31119
+[CLS] Paul Hamlyn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49494
+[CLS] John Cockcroft:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.47952
+[CLS] Victor Goodhew:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57663
+[CLS] John Haslam:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46758
+[CLS] Henry Newton Knights egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55324
+[CLS] Michael Mates:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53833
+"[CLS] Sir Joseph Nall:2 , 1st Baronet egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.42367
+[CLS] John Macnamara:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.61650
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.63500
+[CLS] Alexander Ramsay egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57005
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.88052
+[CLS] Ivor:2 Stanbrook:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.63949
+[CLS] Marshall Stevens egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53051
+"[CLS] Sir Henry Studholme:4 , 1st Baronet egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.49554
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.73822
+[CLS] John Lee egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45839
+[CLS] John Hanna Robb egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Nagy - Britannia és Írország:3 Egyesült Királysága:2,0,Nagy - Britannia és Írország:3 Egyesült Királysága:2,0,-0.46591
+[CLS] Josias:2 Cunningham egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55379
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.44304
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.91478
+[CLS] Lena Townsend egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48669
+"[CLS] John Mackie:2 , Baron John - Mackie:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.04123
+[CLS] Herbert Willison:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51665
+[CLS] Sir Roy Wilson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.62188
+[CLS] Francis Norie:2 - Miller egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.70230
+[CLS] Reginald Purbrick:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56504
+[CLS] William Ward Warner egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56692
+[CLS] Sir Charles Price egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.68144
+[CLS] Wilfrid:3 Wills:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.70488
+[CLS] Fred Marshall egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46234
+[CLS] Harry Hynd:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.49207
+[CLS] Adam Hunter egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48504
+[CLS] Margaret McKay egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53891
+[CLS] James Melville egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45717
+[CLS] Douglas Coghill:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56757
+[CLS] Leonard Banning:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56045
+[CLS] David Abrahams:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51010
+"[CLS] Roy Hughes , Baron Islwyn:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.72398
+[CLS] William Dickson ( Northern Ireland politician ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.69964
+[CLS] Alex Story egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47101
+[CLS] Paul Maguire ( judge ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.97485
+[CLS] Samuel Clowes:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55259
+[CLS] Lucy Anderson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52825
+[CLS] Noel Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50261
+[CLS] Karin Smyth:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.56600
+"[CLS] Sydney Arnold , 1st Baron Arnold egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.55993
+[CLS] John Bird ( MEP:2 ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.77180
+[CLS] Andrew Alexander egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44702
+[CLS] Kirsty:3 Blackman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.63071
+[CLS] Chris Law egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.45732
+[CLS] Tommy Sheppard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53829
+[CLS] Richard Arkless:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48138
+[CLS] Phil Boswell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.57706
+[CLS] Owen Thompson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48710
+[CLS] Judith Cummins:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.50764
+[CLS] Vicky Foxcroft:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.53878
+[CLS] Margaret Greenwood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.55388
+[CLS] Louise Haigh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.47998
+[CLS] Carolyn Harris egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48181
+[CLS] Rosemary Hall ( political activist ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-1.19159
+[CLS] Rachael:3 Maskell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.61488
+[CLS] Mick Costello egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.61950
+[CLS] Kate Rock egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.51472
+[CLS] Ross Thomson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.46827
+[CLS] Richard Leonard ( Scottish politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.57452
+[CLS] Graham Simpson ( Scottish politician ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.80667
+[CLS] Neil McEvoy:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.52917
+[CLS] Philip Smith ( Northern Ireland politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.66506
+[CLS] Nickie:2 Aiken egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.61861

@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_titanrtx_shared_course
+#SBATCH --gres=gpu:1
+#SBATCH --job-name=
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=3
+#SBATCH --time=10:00:00
+#SBATCH --mem=32000M
+#SBATCH --output=run_%A.out
+
+module purge
+module load 2021
+module load Anaconda3/2021.05
+
+# Activate your environment
+source activate xfactr
+# Run your code
+echo 'START'
+python scripts/run_experiment.py --lang=nl 

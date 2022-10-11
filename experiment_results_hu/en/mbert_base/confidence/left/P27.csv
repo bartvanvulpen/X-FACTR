@@ -1,0 +1,601 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] B . B . King egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##téli:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54491
+[CLS] Joe Satriani:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Joe polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.79642
+[CLS] Billy Joel egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Billy Joel név más,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16944
+[CLS] Sheryl:2 Crow egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91593
+[CLS] Willie Nelson egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- amerikai - amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.31031
+[CLS] Charlie Creath:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.76830
+[CLS] Pat Metheny:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.06620
+[CLS] Billy Ray Cyrus egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.76861
+[CLS] Julieta:2 Venegas:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Venezuelai:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72379
+[CLS] Amanda Michalka:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86820
+[CLS] Doyle Bramhall:3 II egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14393
+[CLS] Joe Dassin:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95434
+[CLS] Mark Arm egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.84204
+[CLS] Corey Taylor egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . sz . - egy sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.00585
+[CLS] Jeff Hanneman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],színész . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.82397
+[CLS] Layne:2 Staley:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98996
+[CLS] Carl Perkins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16960
+[CLS] Billy Preston egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.11923
+[CLS] Eric Johnson egy [MASK] állampolgár:3 . [SEP],Johnson,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62807
+[CLS] Lead Belly:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],1975 - ben végzett amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.51893
+[CLS] Alan Menken:2 egy [MASK] állampolgár:3 . [SEP],amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.22169
+[CLS] Corey Harris egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93489
+[CLS] Robert Berry egy [MASK] állampolgár:3 . [SEP],##gár,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21938
+[CLS] Scott Weiland:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95641
+[CLS] Gil Goldstein egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99812
+[CLS] Kelly Gray egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21098
+[CLS] David Hidalgo egy [MASK] [MASK] állampolgár:3 . [SEP],##imali:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.52323
+[CLS] Bill Frisell:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Bill polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93929
+[CLS] John Abercrombie:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20687
+[CLS] Sister Rosetta:2 Tharpe:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80612
+[CLS] Pauline Oliveros:2 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.18220
+[CLS] Kaki:2 King egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.96351
+[CLS] Daniel Sea egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19238
+[CLS] Scott Storch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.79028
+[CLS] Roy Bittan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07974
+[CLS] Peter Cetera:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.96623
+[CLS] Amy Denio:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65392
+[CLS] James Hetfield:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13529
+[CLS] Sonny Fortune egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.94296
+[CLS] Andrea Parkins:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.51159
+[CLS] Nils Lofgren:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],svéd:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.79947
+[CLS] Eugene Hütz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16348
+[CLS] Eddie Willis egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.03722
+[CLS] John Linnell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##t . állampolgár:3 . Egyt:2 .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.01500
+[CLS] Arthur Barrow egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ben az amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.00602
+[CLS] Louis Nelson Delisle:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91614
+[CLS] Vince Gill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1975 - ben volt az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.26628
+[CLS] Frank Gambale:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . : amerikai állampolgár:3 . : amerikai,Ausztrália:4,0,Ausztrália:4,0,-1.10597
+[CLS] Dave Alvin egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Alvin polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.75891
+[CLS] Dean Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14159
+[CLS] Edward Pursino:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##páli:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.69357
+[CLS] Tyler Bates egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1975 - ben volt az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.42986
+[CLS] Steve Wariner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.01903
+[CLS] Mark Turner egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 az állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.10813
+[CLS] Creed Bratton:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . sz . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.26172
+[CLS] Marty McFly:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.84238
+[CLS] Vladimir Kuzmin:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],bolgárpolgár:4 . Bolgár:2,Oroszország:2,0,Oroszország:2,0,-0.63810
+[CLS] Vinnie:2 Stigma:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##en . polgár:2 állampolgár:3 . Polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08370
+[CLS] Fred Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83087
+[CLS] Ezra Koenig:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13864
+[CLS] David Prichard:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54094
+[CLS] Donnie:2 Dacus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07789
+[CLS] Derek Youngsma:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1974 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.31735
+[CLS] J . Robbins egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.78088
+[CLS] Lou A . Kouvaris:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83225
+[CLS] Ryan Mendez:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.04859
+[CLS] Michael Keene:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13675
+[CLS] Don Wilson egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Don Wilson polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98502
+[CLS] Jon Sholle:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.94379
+[CLS] Julian Koster:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Julianpolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.82821
+[CLS] Visitante:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. egy . egy . egy . egy . magyar,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85886
+[CLS] Steve Smyth:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1974 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.09399
+[CLS] Tommy Skeoch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83626
+[CLS] Dallas Toler:2 - Wade egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Texas állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.57705
+[CLS] Chris Hayes egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93029
+[CLS] Bob Spalding:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07597
+[CLS] Laraaji:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: bolgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.29603
+[CLS] Jack Conte egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Conte polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.90353
+[CLS] T . Corey Brennan egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Brennan polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.74259
+[CLS] Brent Mason egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],mint mint mint mint mint mint az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15446
+[CLS] Scott Holiday egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.97321
+[CLS] Monte Money egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Monte Money állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.94762
+[CLS] Miles Joseph egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86501
+[CLS] Brittany Howard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15302
+[CLS] Oz Chiri:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etem . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86506
+[CLS] Britt Lightning egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit felesége . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.29421
+[CLS] Tim Henson:2 egy [MASK] állampolgár:3 . [SEP],amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.94762
+[CLS] George Davis egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.70078
+[CLS] Steve Childers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85923
+[CLS] Jim Durkin:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16739
+[CLS] Jerry Fogle:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.76588
+[CLS] Alex Snowden:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.04407
+[CLS] Xavier Xerxes:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##li állampolgár:3 .li:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87337
+[CLS] Leila:2 Abdul - Rauf:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],izraeli:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83890
+[CLS] Mike Flyntz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16929
+[CLS] Bobby Koelble:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86705
+[CLS] Steve Conn:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.29598
+[CLS] Aaron Lebos:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85780
+[CLS] Taylor Swift egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16944
+[CLS] Eric Clapton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . állampolgár:3 . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.76101
+[CLS] Nigel Kennedy egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Nigel állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.95748
+[CLS] Peter Hammill:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.15020
+[CLS] Muzio:2 Clementi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3 . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.10533
+[CLS] Brian Jones egy [MASK] [MASK] állampolgár:3 . [SEP],Brian Jones,Egyesült Királyság,0,Egyesült Királyság,0,-0.66628
+[CLS] Rebecca Clarke egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i .,Egyesült Királyság,0,Egyesült Királyság,0,-1.31118
+[CLS] Van Morrison egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az állampolgár:3 . nem az,Egyesült Királyság,0,Egyesült Királyság,0,-0.87632
+[CLS] Hamilton Harty:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.40735
+[CLS] Rick Wakeman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"Rick Wakeman:2 története , aki nem volt az",Egyesült Királyság,0,Egyesült Királyság,0,-1.11858
+[CLS] Bill Wyman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.32845
+[CLS] Jack Bruce egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.07528
+[CLS] Keith Emerson egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Emerson polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.97933
+[CLS] Greg Lake egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . sz .,Egyesült Királyság,0,Egyesült Királyság,0,-0.99838
+[CLS] Chris Tsangarides:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Haiti polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.85065
+[CLS] Trevor Pinnock:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.88665
+[CLS] Christopher Hogwood:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##enlő:2 , 1983 - ban kap .",Egyesült Királyság,0,Egyesült Királyság,0,-1.32672
+[CLS] Les Reed egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit . állampolgár:3 . Egy brit .,Egyesült Királyság,0,Egyesült Királyság,0,-1.03954
+[CLS] Jocelyn:3 Pook:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.90125
+[CLS] Martin Barre egy [MASK] állampolgár:3 . [SEP],Benin,Egyesült Királyság,0,Egyesült Királyság,0,-0.95306
+[CLS] Sting egy [MASK] állampolgár:3 . [SEP],Sting,Egyesült Királyság,0,Egyesült Királyság,0,-0.78556
+[CLS] Dave Holland egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Holland polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.78720
+[CLS] Jeff Clyne:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.46074
+[CLS] Roy Babbington:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.77661
+[CLS] Gavin Bryars:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etem . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.86465
+[CLS] Lionel Tertis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . sz . - az,Egyesült Királyság,0,Egyesült Királyság,0,-1.45375
+[CLS] Raymond Leppard:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az USA állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.86457
+[CLS] Ivor:2 Bolton egy [MASK] [MASK] állampolgár:3 . [SEP],##kocsi:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.94825
+[CLS] Ray Shulman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az állampolgár:3 . 1933 - ban az,Egyesült Királyság,0,Egyesült Királyság,0,-1.19462
+[CLS] Dave Swarbrick:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.72527
+[CLS] Roy Wood egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.18442
+[CLS] Robert Thurston:3 Dart:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##p . állampolgár:3 . Egyp:2 .,Egyesült Királyság,0,Egyesült Királyság,0,-0.99286
+[CLS] Coleridge:2 Goode:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.85146
+[CLS] Alex James egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.80299
+[CLS] Danny Thompson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1980 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.22868
+[CLS] Dave Green egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.47373
+[CLS] Dill:2 Katz egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.16780
+[CLS] Dominic Lash:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.86454
+[CLS] Doug Scarratt:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.57323
+[CLS] Herbie:2 Flowers egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . sz . - i .,Egyesült Királyság,0,Egyesült Királyság,0,-1.20648
+[CLS] John Edwards egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.26137
+[CLS] Paul Westwood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.92862
+[CLS] Len Howard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.19352
+[CLS] Nikki Iles:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.44967
+[CLS] Paul Rogers egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.13511
+[CLS] Geoffrey Richardson egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.82131
+[CLS] Jack Emblow:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.97401
+[CLS] Steve Berry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.84103
+[CLS] Stuart Cable egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.39707
+[CLS] Mira Aroyo:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Bulgária:3,0,Bulgária:3,0,-1.02586
+[CLS] Neil Hannon:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.19228
+[CLS] Paul Coletti:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.09188
+[CLS] Lawrence Power egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.15947
+[CLS] Maxim Rysanov:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Polgár:2 állampolgár:3 . Polgár:2,Ukrajna:3,0,Ukrajna:3,0,-0.59759
+[CLS] Simon Streatfeild:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1974 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.16350
+[CLS] Abi Fry egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Abi Fry polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.20494
+[CLS] Arthur Elwell:2 Fisher egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.15958
+[CLS] Ashan:2 Pillai:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##b . béli:2 állampolgár:3 , béli:2",Egyesült Királyság,0,Egyesült Királyság,0,-0.95940
+[CLS] Bill Wells egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.20720
+[CLS] Billy Reid egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.41722
+[CLS] Blair Cowan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],1983 - as polgári:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.98911
+[CLS] Claude Hobday:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Haiti polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.92910
+[CLS] Dave Richmond egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.41420
+[CLS] Dave Swift egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Swift polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.94060
+[CLS] David Fletcher egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.01949
+[CLS] Dean Garcia egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.90839
+[CLS] Dennis Berry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.83981
+[CLS] Geraint:2 Watkins egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.21521
+[CLS] Helen Callus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.33550
+[CLS] Henry Myerscough:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.94771
+[CLS] John Porter egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.00928
+[CLS] Jon Thorne egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.12431
+[CLS] Kate St John egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.37488
+[CLS] King Creosote:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.99617
+[CLS] Mairi:2 Campbell egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.12705
+[CLS] Pete Fijalkowski:3 egy [MASK] [MASK] állampolgár:3 . [SEP],bolgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.00985
+[CLS] Rodney Slatford:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3 . polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.77027
+[CLS] Roger Chase egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1974 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.34128
+[CLS] Sheila Nelson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.32579
+[CLS] Simon Little egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Írország:3,0,Írország:3,0,-0.51858
+[CLS] Tim Van Eyken:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.07544
+[CLS] Will Starr egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.92852
+[CLS] Arnie:2 Somogyi:3 egy [MASK] állampolgár:3 . [SEP],magyar,Egyesült Királyság,0,Egyesült Királyság,0,-0.53669
+[CLS] Alison Rayner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész volt . 1983 - ban volt az,Egyesült Királyság,0,Egyesült Királyság,0,-1.35573
+[CLS] Benny Gallagher egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benny Gallagher polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.70707
+[CLS] John Thomas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],H . W . H . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.12417
+[CLS] Nilüfer:3 Yanya:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##li állampolgár:3 .li:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.71008
+[CLS] Freddie Logan egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Logan polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.08985
+[CLS] Mal Spooner:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.99221
+[CLS] Simon Whistler:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az USA állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.11771
+[CLS] Robert Smissen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.09384
+[CLS] Conor:2 Chaplin egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Chaplin Chaplin Chaplin Chaplin,Egyesült Királyság,0,Egyesült Királyság,0,-0.68156
+[CLS] Jack Cole egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.21504
+[CLS] Steve Mair:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.87688
+[CLS] Rob Brophy:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Rob polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.92749
+[CLS] Laurence Ungless:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.22009
+[CLS] Paul McCartney egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],McCartney McCartney McCartney McCartney McCartney,Egyesült Királyság,0,Egyesült Királyság,0,-0.86195
+[CLS] Mike Oldfield:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.08312
+[CLS] Adele egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. egy . egy . egy . egy . német,Egyesült Királyság,0,Egyesült Királyság,0,-0.80063
+[CLS] Alma Deutscher egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.18955
+[CLS] John Cale:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],25 . állampolgár:3 . Egy 25 .,Egyesült Királyság,0,Egyesült Királyság,0,-1.01732
+[CLS] Eric Clapton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . állampolgár:3 . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.76101
+[CLS] Vedad:2 Ibišević:4 egy [MASK] állampolgár:3 . [SEP],szerb,Bosznia:3 - Hercegovina,0,Bosznia:3 - Hercegovina,0,-0.52178
+[CLS] Oguchi:2 Onyewu:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##polgárpolgárpolgár:6,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.56598
+[CLS] Michael Bradley egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.71958
+[CLS] Foluke:3 Akinradewo:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benini:2 Benini:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.82249
+[CLS] Brian McBride:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83421
+[CLS] Brad Huff:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##szer . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87540
+[CLS] Scott Zwizanski:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az állampolgár:3 . 1975 - ben az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.73917
+[CLS] Kasey:2 Keller egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.81127
+[CLS] Claudio Reyna:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85909
+[CLS] Adrian Griffin egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Griffin polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.89951
+[CLS] Bjørn Selander:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a párt . 2005 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.39321
+[CLS] Ken Hanson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19365
+[CLS] Alfredo Morales egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.50535
+[CLS] Fabian Johnson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . egy . . az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.47168
+[CLS] Desmond Penigar:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benini:2 polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21946
+[CLS] Terrence:2 Boyd egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72025
+[CLS] Ansu:2 Sesay:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15121
+[CLS] Mario Elie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91619
+[CLS] Bryan Arguez:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.11866
+[CLS] Baye:2 Djiby:3 Fall egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: Benin polgár:2 állampolgár:3,Szenegál:3,0,Szenegál:3,0,-1.05827
+[CLS] Chad Deering:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.90782
+[CLS] Mike Friedman egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Friedmani:2 polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98770
+[CLS] Reggie Freeman egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80985
+[CLS] Ben King egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.44149
+[CLS] John Brooks egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.22764
+[CLS] Kamani:2 Hill egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- az amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21344
+[CLS] Joey Rosskopf:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.92006
+[CLS] John Murphy egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15592
+[CLS] Mahmoud:3 Abdul - Rauf:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],izraeli:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.82069
+[CLS] Danny Pate:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : :gár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.31646
+[CLS] Luis Flores egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : :,Dominikai:2 Köztársaság,0,Dominikai:2 Köztársaság,0,-1.19286
+[CLS] Desmond Armstrong egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.33130
+[CLS] Julian Kyer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . sz . - az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.32301
+[CLS] John O ' Brien egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19515
+[CLS] Eric Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.96157
+[CLS] Jovan:2 Kirovski:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],orosz állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87591
+[CLS] Michael Creed egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],K . K . polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21800
+[CLS] Gale Agbossoumonde:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etlen állampolgár:3 . Egyetlen:2,Togo,0,Togo,0,-0.54857
+[CLS] Evan Huffman:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15575
+[CLS] Brandon Armstrong egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.06937
+[CLS] Frank Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1950 - ben az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20326
+[CLS] Eric Riley egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91232
+[CLS] Jesse Anthony egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08932
+[CLS] Justin Spinelli:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 2014 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.22091
+[CLS] Matthew Busche:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3 . Matthew Busche:2 az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60723
+[CLS] Matt Luzunaris:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. amerikai állampolgár:3 . amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.97973
+[CLS] Mike Lapper:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.67569
+[CLS] Nathan Brown egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ben az amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.24610
+[CLS] Eddy Hamel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Holland Királyság,0,Holland Királyság,0,-1.00646
+[CLS] Tyler Magner:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Tyler polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.04063
+[CLS] Alex Candelario:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],született . Angli:2 állampolgár:3 . Angli:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.75722
+[CLS] Lydia Vandenbergh:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.94951
+[CLS] Chad Haga:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Chad polgár:2 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65616
+[CLS] Tiffany Weimer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.00131
+[CLS] Gavin Mannion:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.25116
+[CLS] Jeremiah:3 White egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20669
+[CLS] Mike Hercus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.10267
+[CLS] Paul Emerick:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.02451
+[CLS] Aaron Swinson:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21477
+[CLS] Ben Davis egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Ben Davis polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.05180
+[CLS] Billy Keys egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99292
+[CLS] Rodney Monroe egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.78753
+[CLS] Roscoe:2 Pondexter:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87716
+[CLS] Sylvester Norris egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . Nem az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.06682
+[CLS] Alex Ely:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87371
+[CLS] D . J . Countess egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Amerikai állampolgár:3 . Amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54918
+[CLS] Danny Barrera:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14970
+[CLS] David Quesada:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.09014
+[CLS] Ivan Mršić:2 egy [MASK] állampolgár:3 . [SEP],szerb,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.97448
+[CLS] Korab:2 Syla:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##biai:2 polgárpolgár:4,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.25763
+[CLS] Ladule:3 Lako:2 LoSarah:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: Benin polgárpolgárpolgár:6,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.77616
+[CLS] Matt Okoh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.92299
+[CLS] Nigel Henry egy [MASK] [MASK] állampolgár:3 . [SEP],wali:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16645
+[CLS] Phillip Gaimon:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3 és :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13554
+[CLS] Windsor del Llano egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72309
+[CLS] Nancy Augustyniak:3 Goffi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgárpolgárpolgár:6,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07230
+[CLS] Kenneth Kronholm:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit állampolgár:3 . brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.76118
+[CLS] Carter Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14944
+[CLS] Garrett Muagututia:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3 . 1975 - ben az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99938
+[CLS] Karel Blits:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgárpolgár:4,Holland Királyság,0,Holland Királyság,0,-0.83626
+[CLS] Tyrone Curnell:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08508
+[CLS] Natalie Hagglund:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a . polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.00387
+[CLS] Bruno Bonicontro:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95350
+[CLS] Robin Carpenter egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.69480
+[CLS] Kyle Murphy egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13898
+[CLS] Keegan:2 Swirbul:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"amerikai polgár:2 , polgár:2",Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15325
+[CLS] Stephen Bassett:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . sz . - egy sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16617
+[CLS] Colin Joyce egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.33813
+[CLS] Emerson Oronte:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.55632
+[CLS] Brandon McNulty:5 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83260
+[CLS] Antwaine:3 Wiggins:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95589
+[CLS] Sepp:2 Kuss:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: magyar,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.41737
+[CLS] Hannah Keane egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . sz . - az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.54251
+[CLS] Graham Smith egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.10673
+[CLS] Gage:2 Hecht:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar polgári:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87829
+[CLS] Sergino:2 Dest:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##polgárpolgárpolgár:6,Holland Királyság,0,Holland Királyság,0,-0.95982
+[CLS] Riley Sheehan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3 . 1935 - ben az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08329
+[CLS] Tyler Stites:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . egy . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.10310
+[CLS] Magnus Sheffield egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.21366
+[CLS] Johnny Cardoso egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.48113
+[CLS] Tony Woodcock:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.84113
+[CLS] Shaun Wright - Phillips egy [MASK] [MASK] állampolgár:3 . [SEP],a brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.09109
+[CLS] Harry Welfare egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi politikus . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.58013
+[CLS] Susie:2 Wolff egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.43955
+[CLS] Mark Fotheringham:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.52166
+[CLS] Kevin Kerr egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Kerri:2 polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.11727
+[CLS] Gareth Cooper egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.89069
+[CLS] Luke Charteris:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.00115
+[CLS] Andy Powell egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.26882
+[CLS] Darren Mackie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a színész . 2005 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.34334
+[CLS] Lloyd Burns egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.23451
+[CLS] Ian Gough:2 egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.75873
+[CLS] Brian O ' Neil egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.78204
+[CLS] Colin Charvis:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.83815
+[CLS] Gareth Wyatt egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.74803
+[CLS] Michael Owen egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- amerikai - amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.07030
+[CLS] Colin Bell egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.99850
+[CLS] Dan Lydiate:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.07119
+[CLS] Jim Blair egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.21122
+[CLS] Lee Byrne egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.18000
+[CLS] Eric Dier:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.04525
+[CLS] Mark Farrington:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.32696
+[CLS] Ray Clarke egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1956 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.30011
+[CLS] Sidney Pullen:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.91587
+[CLS] Robin Sowden:3 - Taylor egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a brit állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.79692
+[CLS] Rob McDonald egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Egyesült Királyság,0,Egyesült Királyság,0,-1.07375
+[CLS] Aled:2 Brew:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.83463
+[CLS] Alix:2 Popham:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##ham polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.02116
+[CLS] Andy Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1980 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.16646
+[CLS] Ashley Smith egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.20666
+[CLS] Ceri:2 Sweeney egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.74193
+[CLS] Chris Anthony egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.82660
+[CLS] Daniel Evans egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.09106
+[CLS] Dave Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.91927
+[CLS] Gavin Thomas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.48306
+[CLS] Jamie Corsi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.76174
+[CLS] Kevin Morgan egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.93208
+[CLS] Lee Jarvis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és sz .,Egyesült Királyság,0,Egyesült Királyság,0,-0.92858
+[CLS] Matthew Jones egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.81423
+[CLS] Matthew Watkins egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.05925
+[CLS] Richard Parks egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.94481
+[CLS] Robert Sidoli:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.14580
+[CLS] Ross Beattie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.07095
+[CLS] Scott Morgan egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.92765
+[CLS] Steve Jones egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Steve fel fel fel,Egyesült Királyság,0,Egyesült Királyság,0,-0.90529
+[CLS] T . Rhys Thomas egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.14196
+[CLS] Tom Prydie:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a polgár:2 . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.23023
+[CLS] Adam M . Jones egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.76013
+[CLS] Adam Warren egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.20097
+[CLS] Alex Oprey:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.13990
+[CLS] Andrew Brown egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ben az amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.09853
+[CLS] Andrew Coombs:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.98433
+[CLS] Andrew Hall egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.17781
+[CLS] Byron Hayward egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.22638
+[CLS] Craig Hill egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.13315
+[CLS] Duncan Bell egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.18207
+[CLS] Gareth Maule:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- brit polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.96279
+[CLS] Gareth Williams egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.66948
+[CLS] Hallam:2 Amos egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.13307
+[CLS] Jamie Ringer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.75399
+[CLS] Jason Forster egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.06008
+[CLS] Jonathan Bryant egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.00580
+[CLS] Lee Harrison egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Egyesült Királyság,0,Egyesült Királyság,0,-1.12654
+[CLS] Liam Davies egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.05580
+[CLS] Matthew Pewtner:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.40277
+[CLS] Mike Voyle:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.82577
+[CLS] Paul Young egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.01422
+[CLS] Raphael Meade:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.01067
+[CLS] Rhys Oakley:2 egy [MASK] [MASK] állampolgár:3 . [SEP],a brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.94580
+[CLS] Richard Bryan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.93687
+[CLS] Richard Mustoe:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a polgár:2 . 1974 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.21098
+[CLS] Richie Hart egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.93785
+[CLS] Richie Rees egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##p . állampolgár:3 . Egyp:2 .,Egyesült Királyság,0,Egyesült Királyság,0,-1.02038
+[CLS] Rodger:2 Wylde:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],német polgár:2 . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.14481
+[CLS] Ryan Gauld:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.97910
+[CLS] Sam Parry egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . Egy sz .,Egyesült Királyság,0,Egyesült Királyság,0,-1.10507
+[CLS] Sean Tomes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.88946
+[CLS] Sonny Pike egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.76738
+[CLS] Tal Selley:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.08385
+[CLS] Thomas Brown egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],G . - G . - az,Egyesült Királyság,0,Egyesült Királyság,0,-1.46986
+[CLS] Tom Cooper egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Cooper polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.75295
+[CLS] Tony Sealy:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.35568
+[CLS] Will Harries:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.88089
+[CLS] James Lawrence egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.91434
+[CLS] Michael John Weir egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy :,Egyesült Királyság,0,Egyesült Királyság,0,-1.40622
+[CLS] Peta:2 Bala ' c egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##enipolgárpolgárpolgár:7,Egyesült Királyság,0,Egyesült Királyság,0,-0.95837
+[CLS] Nathan Brew:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etem . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.92093
+[CLS] Nicky Griffiths egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.49854
+[CLS] Josh Tyler egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Tyler színész . 2011 - ben Tyler az,Egyesült Királyság,0,Egyesült Királyság,0,-1.09310
+[CLS] Cory Hill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Egyesült Királyság,0,Egyesült Királyság,0,-0.94037
+[CLS] Elliot Dee egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . sz . - az,Egyesült Királyság,0,Egyesült Királyság,0,-1.43574
+[CLS] Demarai:3 Gray egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.91265
+[CLS] Tyler Morgan egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . sz . - az,Egyesült Királyság,0,Egyesült Királyság,0,-1.43414
+[CLS] Bekim:2 Iliazi:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],izraeli:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.76050
+[CLS] Matthew Gibson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.80651
+[CLS] Mandela Egbo:2 egy [MASK] [MASK] állampolgár:3 . [SEP],Benini:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.61374
+[CLS] Luke Woodland:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.97833
+[CLS] Darren Lok Yee:2 Deng egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . 2013 - tól az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.21903
+[CLS] Keanan:2 Bennetts:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.08536
+[CLS] Paul Double egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i .,Egyesült Királyság,0,Egyesült Királyság,0,-1.03701
+[CLS] Jeremiah:3 Clemens egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.12566
+[CLS] Edith Bolling:2 Galt:2 Wilson egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80120
+[CLS] Carly:2 Fiorina:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80243
+[CLS] John A . Carroll egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.24556
+[CLS] June Lockhart:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . p . p . p .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.16808
+[CLS] Charles Anderson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93926
+[CLS] Oakley:2 C . Curtis egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65594
+"[CLS] John R . McKernan:5 , Jr . egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",U . S . sz . sz . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.01565
+[CLS] Preston Smith egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.00629
+[CLS] Dan Moody egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19400
+[CLS] Joshua Baker egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43646
+[CLS] Dale Bumpers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.81559
+[CLS] David I . Walsh egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],". állampolgár:3 , sz .",Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15146
+[CLS] Octaviano:3 A . Larrazolo:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##raeli:2 állampolgár:3 ésli:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14406
+[CLS] James Sevier:2 Conway egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##emeletes:2 amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.11513
+[CLS] Nathaniel Pitcher:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19649
+[CLS] Henry Dodge egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.39945
+[CLS] Lucius F . C . Garvin:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99400
+[CLS] Ned McWherter:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13522
+[CLS] Francis T . Nicholls:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##kor . állampolgár:3 . Egykor:2 .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.96801
+[CLS] Nathaniel P . Tallmadge:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. állampolgár:3 . 1985 - ben kap .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99010
+[CLS] William H . Murray egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.87967
+[CLS] Silas:2 A . Holcomb:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91938
+[CLS] Julius Caldeen:3 Gunter:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.03375
+[CLS] Thomas Clarke Rye:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91172
+[CLS] Earl L . Brewer egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. sz . . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.99432
+[CLS] John H . Sununu:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.19607
+[CLS] Harold Stassen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86781
+[CLS] Garrey:3 Carruthers:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.54309
+[CLS] Bob Gibbs egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Gibbs polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.81260
+[CLS] Coe:2 I . Crawford egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.65772
+[CLS] William D . Williamson egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83950
+[CLS] William Tudor Gardiner egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.11292
+[CLS] Charles Paine:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83363
+[CLS] James B . Edwards egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80088
+[CLS] John Philo:2 Hoyt:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.12098
+[CLS] John N . Irwin egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.43067
+[CLS] Edward W . Hoch:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85584
+[CLS] William E . Borah:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.97199
+[CLS] George B . Shaw egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.72862
+[CLS] Henry Baldwin egy [MASK] állampolgár:3 . [SEP],amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.36195
+[CLS] Clair Engle:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.23300
+[CLS] Clara G . McMillan:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.76030
+[CLS] Clarence MacGregor:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az állam állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.96881
+[CLS] Clark MacGregor:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.09448
+[CLS] Clayton R . Lusk:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80311
+[CLS] Clifford McIntire:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. amerikai állampolgár:3 . amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98359
+[CLS] Robert Nodar:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.83785
+[CLS] Louis Freeh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.91953
+[CLS] Samuel F . Hersey:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam állam,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.63147
+[CLS] Conrad Baker egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1952 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.17507
+[CLS] Robert Lee Moore egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20328
+[CLS] Francis P . Blair egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##szüli:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.78788
+[CLS] John Conness:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: egy :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.31195
+[CLS] John William Davis egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.01659
+[CLS] Lloyd Blankfein:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- amerikai polgári:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08692
+[CLS] Joseph W . Chalmers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95040
+[CLS] John Bryson:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20790
+[CLS] Robert A . Grant egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.41605
+[CLS] John Armstrong egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20449
+[CLS] Harold L . Runnels:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.09079
+[CLS] Harry W . Musselwhite:5 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.06353
+[CLS] Stephen A . Rudd:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3 . 1975 - ben volt az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08305
+[CLS] David J . O ' Connell egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##páli:2 polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.62459
+[CLS] William F . DeSaussure:4 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.59026
+[CLS] Kirtland:3 I . Perky:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.81792
+[CLS] John Alexander Cocke:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07011
+[CLS] Henderson Lovelace:2 Lanham:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.20635
+[CLS] Samuel Wadsworth:3 Gould egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93198
+[CLS] Henry D . Flood egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . Egy sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.02592
+[CLS] Henry D . Moorman:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.86248
+[CLS] Henry E . Stubbs:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.88912
+[CLS] Henry Marchmore:2 Shaw egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.08888
+[CLS] Henry P . Haun:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.97897
+[CLS] Henry Smith egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ben az amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.01940
+[CLS] Herbert Aptheker:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgári:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07807
+[CLS] Hugh Judson:2 Kilpatrick:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##emeletes:2 amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98402
+[CLS] Lucien B . Caswell:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85104
+"[CLS] Hunter Holmes Moss , Jr . egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",. k . k . k . k .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07329
+[CLS] John Wesley Crockett:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . sz . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.14139
+[CLS] Toby Roth egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1983 - ban az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.23284
+[CLS] Martin Kinsley:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.71026
+[CLS] Spencer Jarnagin:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az polgár:2 . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.34612
+[CLS] Truman H . Aldrich:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.93641
+[CLS] Joe Skeen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . állampolgár:3 . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.80675
+[CLS] Montgomery Blair egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.13191
+[CLS] Luther Youngdahl:2 egy [MASK] állampolgár:3 . [SEP],amerikai,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.03451
+[CLS] Mark H . Dunnell:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.05034
+[CLS] Mark Hopkins egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],", egy új új",Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.11635
+[CLS] Mark Neumann egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Mark Neumann . 1949 - től az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.15938
+[CLS] Martin Welker:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.10951
+[CLS] Marty Nothstein:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.07034
+[CLS] Matthew G . Martínez egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.79014
+[CLS] Maurice Connolly egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.32431
+[CLS] Maurice E . Crumpacker:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Rep . állampolgár:3 . Egy Rep .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.95070
+[CLS] Mel Levine egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . állampolgár:3 . sz .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.85413
+[CLS] Melbourne H . Ford egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.67259
+[CLS] Melvin Maas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai politikus . 1975 - ben az az,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-1.32393
+[CLS] Meshack:3 Franklin egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.63160
+[CLS] W . Sterling Cole egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.98362
+[CLS] Ida Copeland egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Egyesült Királyság,0,Egyesült Királyság,0,-1.16747
+[CLS] Jennette:2 Arnold egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.91348
+[CLS] Ion Hamilton Benn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],románpolgárpolgárpolgár:7,Egyesült Királyság,0,Egyesült Királyság,0,-1.09670
+[CLS] Ivan Neill egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.21653
+[CLS] Stuart Hughes ( politician ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit politikus . 1948 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.31060
+[CLS] Stuart Wheeler egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.15912
+[CLS] Susan Lawrence egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.89377
+[CLS] Syd Rapson:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.33142
+[CLS] T . E . Utley:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.82502
+[CLS] Tamsin:2 Dunwoody:4 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.86994
+[CLS] Terry Sutton egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.08290
+[CLS] Thelma:2 Cazalet:3 - Keir:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##li állampolgár:3 .li:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.92888
+"[CLS] Thomas "" Loel:2 "" Guinness egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",. sz . egy . sz .,Egyesült Királyság,0,Egyesült Királyság,0,-1.14654
+[CLS] Thomas Broad egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i St .,Egyesült Királyság,0,Egyesült Királyság,0,-1.20090
+[CLS] Thomas Browne Wallace egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ban : amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.19667
+[CLS] Thomas Charles Pleydell:3 Calley:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.88230
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.02016
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##li állampolgár:3 . Egyli:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.52830
+[CLS] Thomas Gardner Horridge:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.92214
+[CLS] Thomas Henry Parry egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy hurli:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.20317
+[CLS] Thomas Kincaid:3 - Smith egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.73350
+[CLS] Thomas Maule:2 Guthrie egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.00238
+[CLS] Tom Bradley egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Bradley polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.61479
+[CLS] Tom Litterick:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.91621
+[CLS] Tommy English egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i .,Egyesült Királyság,0,Egyesült Királyság,0,-1.15631
+[CLS] Tommy Graham egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.23205
+"[CLS] William Ward , 3rd Earl of Dudley egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",kastély:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.95252
+[CLS] William Whiteley:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy : amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-0.76890
+[CLS] William Whitlock:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.12490
+"[CLS] Hilton Young , 1st Baron Kennet:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]","brit állampolgár:3 . , új",Egyesült Királyság,0,Egyesült Királyság,0,-0.89494
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.31119
+[CLS] Paul Hamlyn:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-0.95003
+[CLS] John Cockcroft:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.47947
+[CLS] Victor Goodhew:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.90862
+[CLS] John Haslam:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.11226
+[CLS] Henry Newton Knights egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Knights városa:2 . 1976 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.21687
+[CLS] Michael Mates:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Amer . polgár:2 állampolgár:3 és .,Egyesült Királyság,0,Egyesült Királyság,0,-1.48032
+"[CLS] Sir Joseph Nall:2 , 1st Baronet egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.42367
+[CLS] John Macnamara:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz . sz . állampolgár:3 és sz .,Egyesült Királyság,0,Egyesült Királyság,0,-0.94597
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.63500
+[CLS] Alexander Ramsay egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- brit polgári:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.13240
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.88052
+[CLS] Ivor:2 Stanbrook:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.85044
+[CLS] Marshall Stevens egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állam állam állam állam,Egyesült Királyság,0,Egyesült Királyság,0,-0.89827
+"[CLS] Sir Henry Studholme:4 , 1st Baronet egy [MASK] [MASK] állampolgár:3 . [SEP]",polgári:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.39872
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.73822
+[CLS] John Lee egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az amerikai polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.13335
+[CLS] John Hanna Robb egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],U . S . St . - i polgár:2,Nagy - Britannia és Írország:3 Egyesült Királysága:2,0,Nagy - Britannia és Írország:3 Egyesült Királysága:2,0,-0.95653
+[CLS] Josias:2 Cunningham egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.27077
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.44304
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",az állampolgár:3 . 1948 - ban az az,Egyesült Királyság,0,Egyesült Királyság,0,-0.81552
+[CLS] Lena Townsend egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 volt az,Egyesült Királyság,0,Egyesült Királyság,0,-1.09904
+"[CLS] John Mackie:2 , Baron John - Mackie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",. . . . . . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.91687
+[CLS] Herbert Willison:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az Amerikai állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.08499
+[CLS] Sir Roy Wilson egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.97300
+[CLS] Francis Norie:2 - Miller egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.08984
+[CLS] Reginald Purbrick:4 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.90119
+[CLS] William Ward Warner egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.74893
+[CLS] Sir Charles Price egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgári:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.70552
+[CLS] Wilfrid:3 Wills:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgári:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.93210
+[CLS] Fred Marshall egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.92773
+[CLS] Harry Hynd:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.96671
+[CLS] Adam Hunter egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.19721
+[CLS] Margaret McKay egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],amerikai felesége . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.15287
+[CLS] James Melville egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.90232
+[CLS] Douglas Coghill:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.81996
+[CLS] Leonard Banning:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-0.98511
+[CLS] David Abrahams:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etem . . . állampolgár:3 . .,Egyesült Királyság,0,Egyesült Királyság,0,-0.91163
+"[CLS] Roy Hughes , Baron Islwyn:3 egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.72398
+[CLS] William Dickson ( Northern Ireland politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.89443
+[CLS] Alex Story egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Oklahoma állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.17218
+[CLS] Paul Maguire ( judge ) egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.03703
+[CLS] Samuel Clowes:3 egy [MASK] [MASK] állampolgár:3 . [SEP],: :,Egyesült Királyság,0,Egyesült Királyság,0,-1.27204
+[CLS] Lucy Anderson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . egy . . az,Egyesült Királyság,0,Egyesült Királyság,0,-1.30512
+[CLS] Noel Williams egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit színész . 1949 - től az az,Egyesült Királyság,0,Egyesült Királyság,0,-1.23390
+[CLS] Karin Smyth:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.86848
+"[CLS] Sydney Arnold , 1st Baron Arnold egy [MASK] állampolgár:3 . [SEP]",brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.55993
+[CLS] John Bird ( MEP:2 ) egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.88815
+[CLS] Andrew Alexander egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-0.93607
+[CLS] Kirsty:3 Blackman:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.09732
+[CLS] Chris Law egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . az,Egyesült Királyság,0,Egyesült Királyság,0,-1.09680
+[CLS] Tommy Sheppard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.52903
+[CLS] Richard Arkless:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.08024
+[CLS] Phil Boswell:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: brit polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.18125
+[CLS] Owen Thompson egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##zak - amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-1.18321
+[CLS] Judith Cummins:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.33183
+[CLS] Vicky Foxcroft:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],St . St . St . - i sz .,Egyesült Királyság,0,Egyesült Királyság,0,-1.02364
+[CLS] Margaret Greenwood egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.01130
+[CLS] Louise Haigh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.83447
+[CLS] Carolyn Harris egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gár állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.66895
+[CLS] Rosemary Hall ( political activist ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],brit policia:2 . 1983 - ban a brit,Egyesült Királyság,0,Egyesült Királyság,0,-1.58271
+[CLS] Rachael:3 Maskell:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-1.06177
+[CLS] Mick Costello egy [MASK] [MASK] állampolgár:3 . [SEP],Mick Costello,Egyesült Királyság,0,Egyesült Királyság,0,-0.83086
+[CLS] Kate Rock egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Rock polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.85056
+[CLS] Ross Thomson egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy amerikai,Egyesült Királyság,0,Egyesült Királyság,0,-0.79326
+[CLS] Richard Leonard ( Scottish politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.57452
+[CLS] Graham Simpson ( Scottish politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.87929
+[CLS] Neil McEvoy:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2 állampolgár:3,Egyesült Királyság,0,Egyesült Királyság,0,-0.73986
+[CLS] Philip Smith ( Northern Ireland politician ) egy [MASK] állampolgár:3 . [SEP],brit,Egyesült Királyság,0,Egyesült Királyság,0,-0.66506
+[CLS] Nickie:2 Aiken egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],az állampolgár:3 . 1950 - ben az az,Egyesült Királyság,0,Egyesült Királyság,0,-0.96403
