@@ -29,11 +29,12 @@ if __name__ == '__main__':
             files = os.listdir('own_facts_' + plang)
             pids = [file.split('.')[0] for file in files]
 
-            pid_num = 0
+
             for model in models:
                 print(f"Probing with model language {mlang},prompt language {plang},model {model}")
                 for init_method in init_methods:
                     for iter_method in iter_methods:
+                        pid_num = 0
                         for pid in pids: #pid number
 
                             experiment = subprocess.run(["python", "scripts/probe_multi_pred.py",
