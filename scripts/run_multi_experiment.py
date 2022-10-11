@@ -1,10 +1,13 @@
 import subprocess
 import platform
 import os
+import argparse
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Experiment')
+    parser.add_argument('--lang', type=str, choices=['en', 'nl', 'hu'], default='en')
+    args = parser.parse_args()
 
-    langs = ["en", "hu", "nl"]
     models = ["mbert_base", "xlm_base"]
     init_methods = ['all', 'left', 'confidence']
     iter_methods = ['none', 'left', 'confidence']
@@ -16,14 +19,16 @@ if __name__ == '__main__':
         use_shell = True
 
 
-    for mlang in langs: #model language
+    for mlang in [args.lang]: #model language
 
-        #loading dataset
-        files = os.listdir('own_facts_' + mlang )
-        pids = [file.split('.')[0] for file in files]
         num_mask = (5 if mlang != "hu" else 10)
 
-        for plang in langs: #prompt language
+        for plang in ["en", "hu", "nl"]: #prompt language
+
+            # loading dataset
+            files = os.listdir('own_facts_' + plang)
+            pids = [file.split('.')[0] for file in files]
+
             pid_num = 0
             for model in models:
                 print(f"Probing with model language {mlang},prompt language {plang},model {model}")
