@@ -8,9 +8,9 @@ if __name__ == '__main__':
     parser.add_argument('--lang', type=str, choices=['en', 'nl', 'hu'], default='en')
     args = parser.parse_args()
 
-    models = ["mbert_base", "xlm_base"]
-    init_methods = ['all', 'left', 'confidence']
-    iter_methods = ['none', 'left', 'confidence']
+    models = ["mbert_base"]
+    init_methods = ['all']
+    iter_methods = ['none']
 
     OS = platform.system()
     if OS == 'Darwin' or OS == 'Linux':
