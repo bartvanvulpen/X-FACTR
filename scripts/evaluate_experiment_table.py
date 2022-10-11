@@ -44,46 +44,57 @@ if __name__ == '__main__':
     print('Reading result files...')
 
     res_dict = {}
-    for lang in ['en', 'nl', 'hu']:
+    # for lang in ['en', 'nl', 'hu']:
+    for lang in ['en']:
         res_dict[lang] = {}
         for lang2 in ['en', 'nl', 'hu']:
-
-            root_folder = f"./experiment_results_{lang}/{lang2}/"
-
-            files = os.listdir(root_folder)
-
-            eval = EvalContext(args)
-
             res_dict[lang][lang2] = {}
-            accs = []
-            single_accs = []
-            multi_accs = []
-            for result_file_name in files:
-                if '.jsonl' not in result_file_name:
-                    continue
+            for model in ["mbert_base", "xlm_base"]:
+                res_dict[lang][lang2][model] = {}
+                for init_method in ['all', 'left', 'confidence']:
+                    res_dict[lang][lang2][model][init_method] = {}
+                    for iter_method in ['none', 'left', 'confidence']:
 
-                pid_num = result_file_name.split(".")[0]
-                acc, acc_single, acc_multi, total, total_single, total_multi = compute_acc(root_folder + result_file_name, eval,
-                                                                                        prettify_out_file='test_{}'.format(pid_num),
-                                                                                        only_count=args.only_count)
-                accs.append(acc)
-                single_accs.append(acc_single)
-                multi_accs.append(acc_multi)
-            
+                        root_folder = f"./experiment_results_{lang}/{lang2}/{model}/{init_method}/{iter_method}/"
 
-                # print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
+                        files = os.listdir(root_folder)
 
-                # print('- #1 predictions for M 1-M -')
-                #
-                # get_top_five_preds(root_folder + result_file_name)
-            res_dict[lang][lang2]['overall'] = np.mean(accs)
-            res_dict[lang][lang2]['single_word'] = np.mean(single_accs)
-            res_dict[lang][lang2]['multi_word'] = np.mean(multi_accs)
+                        eval = EvalContext(args)
 
-            df = pd.DataFrame.from_dict({(i,j): res_dict[i][j] 
-                           for i in res_dict.keys() 
-                           for j in res_dict[i].keys()},
-                       orient='index')
+                        res_dict[lang][lang2][model][init_method][iter_method] = {}
+                        accs = []
+                        single_accs = []
+                        multi_accs = []
+                        for result_file_name in files:
+                            if '.jsonl' not in result_file_name:
+                                continue
+
+                            pid_num = result_file_name.split(".")[0]
+                            acc, acc_single, acc_multi, total, total_single, total_multi = compute_acc(root_folder + result_file_name, eval,
+                                                                                                    prettify_out_file='test_{}'.format(pid_num),
+                                                                                                    only_count=args.only_count)
+                            accs.append(acc)
+                            single_accs.append(acc_single)
+                            multi_accs.append(acc_multi)
+
+
+                            # print('-', pid_num, '-', '\nOverall accuracy', acc, '\nSingle word accuracy:', acc_single, '\nMultiword accuracy:', acc_multi)
+
+                            # print('- #1 predictions for M 1-M -')
+                            #
+                            # get_top_five_preds(root_folder + result_file_name)
+
+                        res_dict[lang][lang2][model][init_method][iter_method]['overall'] = np.mean(accs)
+                        res_dict[lang][lang2][model][init_method][iter_method]['single_word'] = np.mean(single_accs)
+                        res_dict[lang][lang2][model][init_method][iter_method]['multi_word'] = np.mean(multi_accs)
+
+                        df = pd.DataFrame.from_dict({(i,j,k,l,m): res_dict[i][j][k][l][m]
+                                       for i in res_dict.keys()
+                                       for j in res_dict[i].keys()
+                                       for k in res_dict[i][j].keys()
+                                       for l in res_dict[i][j][k].keys()
+                                       for m in res_dict[i][j][k][l].keys()},
+                                   orient='index')
     print(df)
 
 
