@@ -48,6 +48,7 @@ if __name__ == '__main__':
                                                          "--init_method", init_method,
                                                          "--iter_method", iter_method,
                                                          "--max_iter", str(num_mask),
+                                                         '--beam_size', '5',
                                                         "--custom_facts", "own_facts_"+plang+"/"+pid+".jsonl"],
                                                         shell=use_shell)
 
