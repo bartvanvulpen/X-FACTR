@@ -1,0 +1,69 @@
+START
+[dynet] random seed: 1778532553
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0050/0.0050	prompt [X] is lid van de [Y] politieke partij .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 2.1
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 7
+[dynet] random seed: 2253832779
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0650/0.0650	prompt [X] speelt [Y] .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 148,False	#singleword 52,False	oracle 0.0000	time 1.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2152510502
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.2000/0.2000	len_acc 0.3900/0.3900	prompt Het hoofdkantoor van [X] staat in [Y] .
+pid P159	#fact 200	#notrans 0	#notexist 0	#multiword 111,False	#singleword 89,False	oracle 0.1950	time 2.0
+acc per fact 39/200=0.1950	acc per relation 0.1949999999999025	avg iter 1.0	num_max_mask 6
+[dynet] random seed: 88252094
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0000/0.0000	len_acc 0.1150/0.1150	prompt [X] bevindt zich in [Y] .
+pid P17	#fact 200	#notrans 0	#notexist 0	#multiword 196,False	#singleword 4,False	oracle 0.0000	time 1.8
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1353663011
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.0083/0.0083	prompt [X] is [Y] burger .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 595,False	#singleword 5,False	oracle 0.0000	time 5.3
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 1
+[dynet] random seed: 3396694443
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0202/0.0202	len_acc 0.0758/0.0758	prompt [X] werd oorspronkelijk uitgezonden op [Y] .
+pid P449	#fact 198	#notrans 0	#notexist 2	#multiword 189,False	#singleword 9,False	oracle 0.0202	time 1.9
+acc per fact 4/198=0.0202	acc per relation 0.02020202020201	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1242997038
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.1212/0.1212	prompt [X] is gemaakt in [Y] .
+pid P495	#fact 198	#notrans 0	#notexist 2	#multiword 197,False	#singleword 1,False	oracle 0.0000	time 1.8
+acc per fact 0/198=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3830408393
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.1900/0.1900	prompt [X] speelt met [Y] .
+pid P54	#fact 200	#notrans 0	#notexist 0	#multiword 180,False	#singleword 20,False	oracle 0.0000	time 1.7
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 24
+[dynet] random seed: 743131846
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+slurmstepd: error: *** JOB 10096683 ON r36n4 CANCELLED AT 2022-10-11T10:28:28 ***

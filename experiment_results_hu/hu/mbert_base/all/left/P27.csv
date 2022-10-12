@@ -1,0 +1,601 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Lantos:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44184
+[CLS] Szathmáry:5 Zsigmond egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.63238
+[CLS] Gárdonyi:3 Zsolt:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.66209
+[CLS] II . János magyar király egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-1.07245
+[CLS] Moór:2 Emánuel:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],elnöki:3 polgár:2,Egyesült Királyság,0,Egyesült Királyság,0,-1.30917
+[CLS] Hock:2 Bertalan:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47202
+[CLS] Antalffy:2 - Zsiross:3 Dezső:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20524
+[CLS] Antos:2 Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33750
+[CLS] Barta:2 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.54973
+[CLS] Baróti:3 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.49086
+[CLS] Bárdi:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35618
+[CLS] Sztevanovity:4 Zorán:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24919
+[CLS] Bódi:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.32030
+[CLS] Farkas:2 - Jenser:2 Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43843
+[CLS] Filip György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40605
+[CLS] Garay:2 Attila egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.61917
+[CLS] Gosztonyi:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar,Magyarország,0,Magyarország,0,-0.54295
+[CLS] Huzella:3 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40840
+[CLS] Ihász:3 Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56092
+[CLS] Kosóczki:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31487
+[CLS] Kozma:2 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36657
+[CLS] Kékes:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57747
+[CLS] Lerch:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28559
+[CLS] Leányfalusi:4 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25440
+[CLS] Szigeti:3 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30533
+[CLS] Másik:2 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.11834
+[CLS] Mátyás:2 Attila egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.44942
+[CLS] Máté:2 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24896
+[CLS] Nagy Feró:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43142
+[CLS] Novai:2 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.39145
+[CLS] Poniklo:3 Imre egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.54850
+[CLS] Réz:3 Lóránt:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20587
+[CLS] Szathmáry:5 Lilla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37670
+[CLS] Varga Petra egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.13688
+[CLS] Varnus:2 Xavér:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Kanada,0,Kanada,0,-0.78098
+[CLS] Ács:2 József egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##szögpolgári:4,Magyarország,0,Magyarország,0,-0.68229
+[CLS] Albrecht Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23682
+[CLS] Ella István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14719
+[CLS] Szentkirályi:4 András egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##lőlő:2 egylőlő:3,Magyarország,0,Magyarország,0,-0.79913
+[CLS] Pécsi:3 - Prichystal:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53563
+[CLS] Deák:2 - Bárdos:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26384
+[CLS] Lisznyai:4 Szabó Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.14982
+[CLS] Kistétényi:3 Melinda:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36529
+[CLS] Ákom:2 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34055
+[CLS] Kozma:2 Mátyás:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.38145
+[CLS] Petrás:2 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23485
+[CLS] Lipcsey:4 Emőke:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34962
+[CLS] Szekendy:4 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44718
+[CLS] Kuliffay:3 Izabella:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.74293
+[CLS] Csíky:3 László Antal egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.61254
+[CLS] Móricz:3 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57931
+[CLS] Méhes:3 Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50585
+[CLS] Schmidt Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31838
+[CLS] Kiss Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46634
+[CLS] Beck Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40732
+[CLS] Kovács Endre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.54175
+[CLS] Bonczók:3 Norbert egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.31739
+[CLS] Rezik:2 Károly egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26187
+[CLS] Dóka:3 Attila egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.58709
+[CLS] Fehérvári:4 Gábor Alfréd:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.11861
+[CLS] Farkas:2 Mira egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40821
+[CLS] Andrejszki:3 Judit:2 egy [MASK] [MASK] állampolgár:3 . [SEP],bolgár:2,Magyarország,0,Magyarország,0,-0.74036
+[CLS] Hammerschlag:2 János egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgár:2,Magyarország,0,Magyarország,0,-0.76749
+[CLS] Balasi:2 Barnabás:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.60837
+[CLS] Király:3 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26728
+[CLS] Zsasskovszky:5 Ferenc egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.13689
+[CLS] Menyhárt:4 Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29208
+[CLS] Komáromi:3 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.64713
+[CLS] Alföldy:3 - Boruss:3 Csilla:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47372
+[CLS] Sipőcz:4 Ernő:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.14164
+[CLS] Somogyi:3 - Tóth Dániel:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.61877
+[CLS] Végvári:3 Ádám:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.73809
+[CLS] Szamosi:3 Szabolcs:4 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.16629
+[CLS] Dobszay:4 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.19146
+[CLS] Gerencsér:4 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45292
+[CLS] Szalai:3 András egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.14461
+[CLS] Egri:2 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21183
+[CLS] Kárpáti:4 Sándor egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],volt polgári:2,Magyarország,0,Magyarország,0,-0.82129
+[CLS] Heatlie:2 Dávid:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar polgári:2,Magyarország,0,Magyarország,0,-0.92758
+[CLS] Pikéthy:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14346
+[CLS] Winand:2 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.25093
+[CLS] Mészáros:3 Zsolt:3 Máté:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53825
+[CLS] Babits:2 Marcella:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.85317
+[CLS] Daniel Weltlinger:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a német polgár:2,Magyarország,0,Magyarország,0,-0.91229
+[CLS] Wehner:2 Géza egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.22672
+[CLS] Vasadi:2 Balogh:2 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44975
+[CLS] Gerencsérné:5 Szeverényi:4 Ilona egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34862
+[CLS] Kovács Szilárd:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57252
+[CLS] Májer:2 Zoltán egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.25884
+[CLS] Hegedűs:4 Valér:2 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.59132
+[CLS] Kutik:2 Rezső:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47704
+[CLS] Mersei:2 Zsolt:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.55922
+[CLS] Villányi:3 Veronika egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21489
+[CLS] Varasdy:3 Ernő:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.16115
+[CLS] Nevelő:2 János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53445
+[CLS] Holló:2 Aurél:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40466
+[CLS] Pogány:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.36343
+[CLS] Balatoni:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.48846
+[CLS] Nagy Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26923
+[CLS] Ducsai:2 Szabolcs:4 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.74610
+[CLS] Doppler:3 Károly egy [MASK] állampolgár:3 . [SEP],magyar,Németország,0,Németország,0,-0.23707
+[CLS] Molnár:2 Antal egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.49013
+"[CLS] Sánta:2 Ferenc , ifj:2 . egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",##sn:2 . polgári:2,Magyarország,0,Magyarország,0,-1.31904
+[CLS] Gergely:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56855
+[CLS] Erdélyi:3 Tamás egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.17308
+[CLS] Kőszegi:4 Imre ( zenész:2 ) egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Magyarország,0,Magyarország,0,-0.84371
+[CLS] Varga Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20251
+[CLS] Novácsek:3 Ottokár:2 Jenő egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni bécsi:2,Magyarország,0,Magyarország,0,-1.01000
+[CLS] Sebő:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37065
+[CLS] Lehotka:3 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.27333
+[CLS] Lukács:3 Pál egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##besült:2 polgári:2,Magyarország,0,Magyarország,0,-0.56094
+[CLS] Bakfark:4 Bálint:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56282
+[CLS] Bazsinka:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46706
+[CLS] Benkő:3 Dániel:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.27932
+[CLS] Karosi:2 Bálint:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.61329
+[CLS] Szabó Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36782
+[CLS] Bogányi:2 Bence:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.65005
+[CLS] Sebestyén:4 János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.49631
+[CLS] Debreczeni:4 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37206
+[CLS] Dobozy:3 Borbála:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.49790
+[CLS] Dávid:3 Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30636
+[CLS] Lajkó:3 Félix egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 volt polgári:2,Magyarország,0,Magyarország,0,-0.63151
+[CLS] Eichinger:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.11769
+[CLS] Fassang:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.27610
+[CLS] Horváth Kornél:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33389
+[CLS] Serly:2 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32570
+[CLS] Jeney:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27853
+[CLS] Jávori:2 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37873
+[CLS] Kokas:2 Katalin egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25518
+[CLS] Lakatos:3 György egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.16455
+[CLS] Pálúr:2 János egy [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar,Magyarország,0,Magyarország,0,-0.65645
+[CLS] Ráduly:3 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30394
+[CLS] Szentpáli:3 Roland egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51719
+[CLS] Balázs Elemér:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgár:2,Magyarország,0,Magyarország,0,-0.74835
+[CLS] Roby:2 Lakatos:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-1.06830
+[CLS] Zempléni:4 Szabolcs:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##polgárpolgárpolgár:6,Magyarország,0,Magyarország,0,-0.68310
+[CLS] Pertis:2 Zsuzsa:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28290
+[CLS] Bársony:3 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.75040
+[CLS] Koromzay:4 Dénes:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.88153
+[CLS] Spányi:2 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46270
+[CLS] Schiffer:2 Ervin:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar állampolgári:3 polgári:2,Magyarország,0,Magyarország,0,-0.82545
+[CLS] Lehner:2 Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39634
+[CLS] Sárközy:4 Gergely:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46403
+[CLS] Szentmihályi:4 Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.52035
+[CLS] Gianicelli:3 Károly egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46693
+[CLS] Pécsi:3 Sebestyén:4 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27685
+[CLS] István Vincze:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41847
+[CLS] Grencsó:4 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.59428
+[CLS] Szerémi:4 Gusztáv:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36487
+[CLS] Cornell egy [MASK] állampolgár:3 . [SEP],Cornell,Magyarország,0,Magyarország,0,-0.56422
+[CLS] Szabó Ádám:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.18442
+[CLS] Peter Gritz:2 egy [MASK] [MASK] állampolgár:3 . [SEP],bécsi:2,Magyarország,0,Magyarország,0,-0.80152
+[CLS] Mohay:2 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34912
+[CLS] Temesváry:4 János egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.56009
+[CLS] Wagner - Puskás:3 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23909
+[CLS] Weisz:2 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41389
+[CLS] Tóth Viktor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27991
+[CLS] Sebald:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.17716
+[CLS] Vashegyi:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.42890
+[CLS] Kollonay:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46851
+[CLS] Tibay:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.22891
+[CLS] Tornyai:3 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.62481
+[CLS] Mácsai:3 Zoltán egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.29420
+[CLS] Sándor János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55479
+[CLS] Janzer:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33026
+[CLS] Konrád:4 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32137
+[CLS] Faludy:3 Krisztina:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 magyar polgár:2,Magyarország,0,Magyarország,0,-0.57467
+[CLS] Virágh:3 András Gábor egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar polgári:2,Magyarország,0,Magyarország,0,-0.88547
+[CLS] Takács:2 Szilvia:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar állampolgár:3,Magyarország,0,Magyarország,0,-0.62479
+[CLS] Both Lehel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"Both politikus , polgári:2",Magyarország,0,Magyarország,0,-1.05084
+[CLS] Malaric:2 Rudolf egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51021
+[CLS] Sárosi:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.60884
+[CLS] Salánki:3 Hédi:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##polgárpolgárpolgár:6,Magyarország,0,Magyarország,0,-0.77158
+[CLS] Hara László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29291
+[CLS] Ujházy:4 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.30944
+[CLS] Péter János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47641
+[CLS] Lukács:3 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24283
+[CLS] Lukács:3 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24283
+[CLS] Hock:2 Ernő:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26534
+[CLS] Bojtár:3 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29633
+[CLS] Rákász:3 Gergely:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46848
+[CLS] Dankos:2 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53274
+[CLS] Lajhó:4 Géza egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.15893
+[CLS] Hermann László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21476
+[CLS] Szennai:3 Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30836
+[CLS] Samu:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43735
+[CLS] Karasszon:3 Dezső:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.50177
+[CLS] Zempléni:4 Tamás egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.42526
+[CLS] Hora János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.80761
+[CLS] Dargó:2 Gergely:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.59231
+[CLS] Babicsek:3 Bernát:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Magyarország,0,Magyarország,0,-0.29358
+[CLS] Berecz:2 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21090
+[CLS] Czidra:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.17017
+[CLS] Kállay:3 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.16306
+[CLS] ifj:2 . Hara László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25401
+[CLS] Deák:2 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32279
+[CLS] Soós:2 Márton:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24162
+[CLS] Pauk:2 Anna egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar állampolgár:3,Magyarország,0,Magyarország,0,-0.60967
+[CLS] Rudas:3 Imre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53977
+[CLS] Keszler:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21030
+[CLS] Kádár:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44168
+[CLS] Péter Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40773
+[CLS] Babati:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50138
+[CLS] Kulcsár:4 Kornél:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.65093
+[CLS] Preklet:3 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32422
+[CLS] Turi:2 Géza egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35234
+[CLS] Majoros:2 Árpád egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44827
+[CLS] Hidvégi:4 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27858
+[CLS] Milinte:2 Árpád egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14413
+[CLS] Józsi:3 György egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.10567
+[CLS] Hajdú:3 Norbert egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37368
+[CLS] Molnár:2 Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44998
+[CLS] Preisinger:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28532
+[CLS] Kereki:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.48717
+[CLS] Melczer:3 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26824
+[CLS] Kriston:2 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.66836
+[CLS] Balog:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50453
+[CLS] Horváth András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37472
+[CLS] Bozsik:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41577
+[CLS] Budovinszky:4 Krisztián:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34366
+[CLS] Burányi:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43192
+[CLS] Dobány:3 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37664
+[CLS] Délczeg:3 Gergely:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.37198
+[CLS] Waltner:2 Róbert:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55274
+[CLS] Kenesei:3 Krisztián:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.54527
+[CLS] Kabát:3 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.65755
+[CLS] Nagy Antal egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##edüli:3,Magyarország,0,Magyarország,0,-0.40983
+[CLS] Egerszegi:4 Tamás egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.47316
+[CLS] Ferkó:3 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29122
+[CLS] Fitos:2 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39937
+[CLS] Fujsz:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.18492
+[CLS] Koplárovics:5 Béla egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.26305
+[CLS] Ivanics:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56319
+[CLS] Kiss Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.15985
+[CLS] Kiss Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30180
+[CLS] Kocsárdi:4 Gergely:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.28876
+[CLS] Koszta:3 Imre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.62711
+[CLS] Kovács József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28892
+[CLS] Kovács László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36843
+[CLS] Kovács Norbert egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30980
+[CLS] Kámán:3 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.66770
+[CLS] Magasföldi:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51370
+[CLS] Major Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30891
+[CLS] Molnár:2 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45970
+[CLS] Montvai:2 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30331
+[CLS] Máté:2 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24897
+[CLS] Rózsa:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.19828
+[CLS] Simon Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46923
+[CLS] Soós:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24045
+[CLS] Szabó Rezső:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.75896
+[CLS] Szalai:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45158
+[CLS] Topor:2 Antal egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : : : : : :,Magyarország,0,Magyarország,0,-0.63888
+[CLS] Varga Roland egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14257
+[CLS] Vlaszák:3 Géza egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45966
+[CLS] Vittman:3 Ádám:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##besült:2 polgári:2,Magyarország,0,Magyarország,0,-0.52032
+[CLS] Nagy Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.15170
+[CLS] Szakály:3 Dénes:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23745
+[CLS] Takács:2 Marcell:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.40866
+[CLS] Kohut:2 Rezső:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23376
+[CLS] Kaj:2 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46767
+[CLS] László András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41123
+[CLS] Szakály:3 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.54612
+[CLS] Balog:2 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.19763
+[CLS] Ivancsics:3 Gellért:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.95635
+[CLS] Illés:2 Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50697
+[CLS] Kovács Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.67951
+[CLS] Simonfalvi:3 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.36881
+[CLS] Nagy Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45811
+[CLS] Mahir:2 Jasarević:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##edüli:3 bolgár:2,Magyarország,0,Magyarország,0,-0.59188
+[CLS] Petneházi:4 Márk:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.31785
+[CLS] Gyánó:4 Szabolcs:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 volt polgári:2,Magyarország,0,Magyarország,0,-0.62765
+[CLS] Turcsik:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46526
+[CLS] Vasas:2 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.69763
+[CLS] Ludánszki:4 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.68600
+[CLS] Fülöp:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31740
+[CLS] Jernei:3 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44553
+[CLS] Nagy Imre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.74295
+[CLS] Palásthy:3 Dávid:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26584
+[CLS] Rezi:2 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21487
+[CLS] Juhász:3 Dániel:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.32598
+[CLS] Károly Bálint:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43213
+[CLS] Városi:3 Viktor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39399
+[CLS] Babati:2 Benjamin egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benini:2 polgár:2,Magyarország,0,Magyarország,0,-0.83063
+[CLS] Daru:2 Bence:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin Benin Benin Benin Benin Benin,Magyarország,0,Magyarország,0,-0.91798
+[CLS] Székely:4 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.64303
+[CLS] Károly Sas:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50681
+[CLS] Angyal:2 Zsolt:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.18079
+[CLS] Madarász:3 Márk:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.18906
+[CLS] Oláh:2 Bálint:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.66117
+[CLS] Vámos:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24272
+[CLS] Kövi:3 Pál egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##besült:2 polgári:2,Magyarország,0,Magyarország,0,-0.40119
+[CLS] Gál:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26315
+[CLS] Szatmári:4 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.63060
+[CLS] Schäfer:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.19456
+[CLS] Fodor:2 Ákos:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.28279
+[CLS] Bolla:2 Bendegúz:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],viselőpolgár:4,Magyarország,0,Magyarország,0,-0.74984
+[CLS] Bedi:2 Bence:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-1.05266
+[CLS] Kovács Dániel:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.21842
+[CLS] Zöldesi:3 Illés:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.52573
+[CLS] Meister István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25353
+[CLS] Sáfár:3 Szabolcs:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##énpolgári:3,Magyarország,0,Magyarország,0,-0.69885
+[CLS] Korsós:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40529
+[CLS] Kevin Kurányi:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Brazília:3,0,Brazília:3,0,-1.25365
+[CLS] Sárosi:3 Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33133
+[CLS] Fehér:3 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.61650
+[CLS] Czibor:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.59688
+[CLS] Nagy Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31687
+[CLS] Stieber:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44814
+[CLS] Szélesi:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.89330
+[CLS] Jakabfi:3 Zsanett:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26314
+[CLS] Lőw:3 Zsolt:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.56455
+[CLS] Petry:2 Zsolt:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.53561
+[CLS] Konrád:4 Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35049
+[CLS] Szalai:3 Ádám:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 1983 polgári:2 polgári:2,Magyarország,0,Magyarország,0,-0.89277
+[CLS] Buzsáky:3 Ákos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57978
+[CLS] Vasile Miriuță:3 egy [MASK] állampolgár:3 . [SEP],román,Románia:2,0,Románia:2,0,-0.50917
+[CLS] Kubala:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.58285
+[CLS] Csernai:3 Pál egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##edüli:3,Magyarország,0,Magyarország,0,-0.32392
+[CLS] Konrád:4 Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29274
+[CLS] Bódog:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34143
+[CLS] Hajnal:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31372
+[CLS] Garics:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24439
+[CLS] Sebők:3 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32045
+[CLS] Sztipánovics:5 Barnabás:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47298
+[CLS] Plattkó:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25718
+[CLS] Palotai:2 János egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.92774
+[CLS] Király:3 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.37201
+[CLS] Palotai:2 Károly egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.66062
+[CLS] Babos:2 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.15216
+[CLS] Aknai:2 János egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##én , polgári:2",Magyarország,0,Magyarország,0,-0.86155
+[CLS] Jeny:2 Rudolf egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23095
+[CLS] Kovács Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21448
+[CLS] Tököli:3 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40733
+[CLS] Szabics:4 Imre egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.14578
+[CLS] Bozsik:3 Levente:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.38454
+[CLS] Schaffer:3 Alfréd:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28825
+[CLS] Lipcsei:4 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.33439
+[CLS] Eisenhoffer:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27080
+[CLS] Lisztes:2 Krisztián:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43154
+[CLS] Dzurják:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.65597
+[CLS] Nyilasi:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28621
+[CLS] Orth:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25313
+[CLS] Tisza:2 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32341
+[CLS] Mészáros:3 Norbert egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36273
+[CLS] Katzirz:3 Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.22897
+[CLS] Hrotkó:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.20744
+[CLS] Zele:2 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.17517
+[CLS] Urbán:2 Flórián:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33698
+[CLS] Vanczák:3 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.19987
+"[CLS] Dárdai:3 Pál ( labdarúgó , 1976 ) egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP]",sportpolgár:3,Magyarország,0,Magyarország,0,-0.54199
+[CLS] Ladinszky:4 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41131
+[CLS] Mathesz:3 Imre egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.35326
+[CLS] Barczi:3 Dávid:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 magyar polgár:2,Magyarország,0,Magyarország,0,-0.67901
+[CLS] Biri:2 János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.65511
+[CLS] Ferenczi:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50261
+[CLS] Bobál:2 Gergely:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.51782
+[CLS] Kerekes:3 Zsombor:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.33492
+[CLS] Róth:3 Antal egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36903
+[CLS] Fischer Pál egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39218
+[CLS] Kozma:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.22045
+[CLS] Simon Krisztián:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51499
+[CLS] Böőr:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55269
+[CLS] Mészáros:3 Ferenc egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.65998
+[CLS] Horváth Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24250
+[CLS] Dávid:3 Kornél:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53974
+[CLS] Fazekas:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.33070
+[CLS] Kohut:2 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37994
+[CLS] Gáspár:4 Cecília:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47939
+[CLS] Eszenyi:3 Dénes:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.36538
+[CLS] Farkasházy:4 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.20169
+[CLS] Gyömbér:5 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.35711
+[CLS] Horváth Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31898
+[CLS] Kiprich:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36926
+[CLS] Keresztúri:5 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.92485
+[CLS] Kertész:3 Vilmos:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.43953
+[CLS] Magyar István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.03495
+[CLS] Mátyus:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.17594
+[CLS] Nagy Patrik:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45198
+[CLS] Sváb:3 Dániel:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41110
+[CLS] Szabó József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32305
+[CLS] Szalay:3 Tibor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.10119
+[CLS] Szivics:3 Tomiszlav:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],korábbi polgár:2,Magyarország,0,Magyarország,0,-0.63917
+[CLS] Sándor Mátyás:2 egy [MASK] állampolgár:3 . [SEP],magyar,Jugoszlávia:5,0,Jugoszlávia:5,0,-0.51294
+[CLS] Varga Endre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.16612
+[CLS] Vincze:3 Ottó:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.39759
+[CLS] Vörös Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37248
+[CLS] Szekeres:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44295
+[CLS] József Zsámboki:5 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.74021
+[CLS] Nagy András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.58197
+[CLS] Mayer Károly egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34886
+[CLS] Nagy Zsolt:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.52011
+[CLS] Szabados:3 Attila egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.54825
+[CLS] Varga Bence:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.16198
+[CLS] Nemes:2 Károly egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37712
+[CLS] Goran Kopunović:3 egy [MASK] állampolgár:3 . [SEP],szerb,Jugoszlávia:5,0,Jugoszlávia:5,0,-0.35790
+[CLS] Szántó:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.58269
+[CLS] Fabulya:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37307
+[CLS] Peák:2 Barnabás:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46986
+[CLS] Mester:2 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.13894
+[CLS] Varga Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20228
+[CLS] Garai:2 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23759
+[CLS] Pál Lénárd:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.48920
+[CLS] Simon István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.16197
+[CLS] Németh:3 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55333
+[CLS] Kárpáti:4 Ferenc egy [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar,Magyarország,0,Magyarország,0,-0.90883
+[CLS] Géczi:3 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.59814
+[CLS] Lázár:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.14938
+[CLS] Lehotzky:3 Egyed:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##ed Egyedpolgár:4,Magyarország,0,Magyarország,0,-0.47057
+[CLS] Andrásfalvy:3 Bertalan:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.70333
+[CLS] Andrássy:2 Tivadar:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##enipolgár:3,Magyarország,0,Magyarország,0,-0.68968
+[CLS] Apáthy:3 István egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.08526
+[CLS] Aszódi:3 Pál egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##edül:2 polgár:2,Magyarország,0,Magyarország,0,-0.57645
+[CLS] Bartha:2 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.58190
+[CLS] Baráth:3 Etele:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##éni ,gári:2 - polgári:2",Magyarország,0,Magyarország,0,-0.90447
+[CLS] Batthyány:3 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44869
+[CLS] Beke:2 Kata egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.08780
+[CLS] Betlen:2 Oszkár:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.79182
+[CLS] Olajos:2 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40214
+[CLS] Glattfelder:3 Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25561
+[CLS] Bozóki:3 András egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.50301
+[CLS] Kaas:2 Ivor:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar polgári:2,Magyarország,0,Magyarország,0,-1.32951
+[CLS] Kaltenbach:3 Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.59451
+[CLS] Kelemen:2 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27875
+[CLS] Kolozs:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37126
+[CLS] Komássy:3 Ákos:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3,Magyarország,0,Magyarország,0,-0.62887
+[CLS] Köpeczi:4 Béla egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23052
+[CLS] Schvarcz:4 Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14476
+[CLS] Soltész:3 Nagy Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30563
+[CLS] Stadinger:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27673
+[CLS] Szabó Kálmán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.15118
+[CLS] Szalay:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.21488
+[CLS] Szobek:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.63724
+[CLS] Győrffy:2 Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30558
+[CLS] Kovács Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36462
+[CLS] Gyutai:3 Csaba:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Magyarország,0,Magyarország,0,-0.38847
+[CLS] Ivanics:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39455
+[CLS] Miákits:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.39351
+[CLS] Földesi:3 Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.49112
+[CLS] Juhász:3 Péter egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.13059
+[CLS] Meszerics:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21846
+[CLS] Speidl:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41533
+[CLS] Varju:2 László egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],magyar állampolgár:3,Magyarország,0,Magyarország,0,-0.76969
+[CLS] Halzl:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36153
+[CLS] Halász:2 Alfréd:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21171
+[CLS] Kakuk:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45940
+[CLS] Barabás:3 Richárd:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23839
+[CLS] Pintér:2 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27300
+[CLS] Leitner:2 Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37982
+[CLS] Magda Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.19381
+[CLS] Molnár:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.42654
+[CLS] Mizsei:3 Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32290
+[CLS] Mihály Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40334
+[CLS] Mádai:2 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55656
+[CLS] Mészáros:3 Gyula egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51702
+[CLS] Matyi:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28982
+[CLS] Nyakó:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40672
+[CLS] Nagy Varga Dezső:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31509
+[CLS] Paszternák:4 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.34502
+[CLS] Perjés:3 Gábor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.34812
+[CLS] Pap:2 János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23166
+[CLS] Póda:3 Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30301
+[CLS] Pásztohy:4 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51294
+[CLS] Rigler:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.19554
+[CLS] Rónavölgyi:5 Endréné:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.26189
+[CLS] Rácz:3 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.11390
+[CLS] Szabó Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45895
+[CLS] Szabó József Andor:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.12784
+[CLS] Szinyei:3 András egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.16287
+[CLS] Sisák:3 Imre János egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.75366
+[CLS] Szauter:3 Rudolf egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29001
+[CLS] Szigeti:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35569
+[CLS] Szabó János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.45244
+[CLS] Szél:3 Péter egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.49104
+[CLS] Schvarcz:4 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.17410
+[CLS] Simon József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47972
+[CLS] Szabó Katalin egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23079
+[CLS] Tóth Albert egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36105
+[CLS] Tímár:3 Istvánné:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.14540
+[CLS] Vágvölgyi:5 János egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##én , polgári:2",Magyarország,0,Magyarország,0,-0.78426
+[CLS] Vörös Vince egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30600
+[CLS] Vas János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36409
+[CLS] Varsányi:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57049
+[CLS] Veér:2 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23597
+[CLS] Weszelovszky:5 Zoltán egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.21777
+[CLS] Zombori:3 Mátyás:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.28516
+[CLS] Fritz Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.75424
+[CLS] Miklós László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25601
+[CLS] Schön:2 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.27863
+[CLS] Kovács Jenő egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33778
+[CLS] Szabados:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46200
+[CLS] Bodnár:3 Alex Szilveszter:5 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.89179
+[CLS] Ábrahám:4 Tivadar:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##polgár:2,Magyarország,0,Magyarország,0,-0.54632
+[CLS] Fűrész:4 Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33205
+[CLS] Kalmár:3 Dávid:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##én egyén:2 polgári:2,Magyarország,0,Magyarország,0,-0.69575
+[CLS] Déri:2 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.17013
+[CLS] Szabó József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32305
+[CLS] Komor:2 Imre egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.33380
+[CLS] Csizmadia:4 Ernőné:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20336
+[CLS] Ambró:2 Ilona egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30471
+[CLS] Végh:3 Rudolf egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29275
+[CLS] Gerő:3 Ernő:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23607
+[CLS] Szamuely:4 Tibor egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.18942
+[CLS] Budaházy:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53670
+[CLS] Ráday:3 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.16627
+[CLS] Wekerle:3 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53026
+[CLS] Antall:2 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.69799
+[CLS] Dinnyés:3 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.23566
+[CLS] Szabó Tünde:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30318
+[CLS] Bibó:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29194
+[CLS] Bethlen:2 István egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30267
+[CLS] Mesterházy:4 Ernő:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32227
+[CLS] Losonczi:4 Pál egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##edül:2 polgár:2,Magyarország,0,Magyarország,0,-0.46733
+[CLS] Dimény:2 Imre egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.59117
+[CLS] Halász:2 János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41245
+[CLS] Haubrich:3 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.36346
+[CLS] Dúró:3 Dóra:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31732
+[CLS] Deutsch Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29188
+[CLS] Kerkapoly:3 Károly egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.62429
+[CLS] Beniczky:3 Ödön:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20906
+[CLS] Szabó Iván egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28855
+[CLS] Ercsey:3 Lajos egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.21319
+[CLS] Gonda:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28993
+[CLS] Horváth Márton:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31445
+[CLS] Keleti:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.37367
+[CLS] Kőszeg:3 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.57851
+[CLS] Lengyel:3 Zoltán egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55392
+[CLS] Lánczy:3 Leó:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.24072
+[CLS] Meggyes:3 Tamás egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28934
+[CLS] Mirkóczki:3 Ádám:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.77228
+[CLS] Molnár:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.70219
+[CLS] Murányi:2 Levente:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.62033
+[CLS] Márta:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.61569
+[CLS] Palkó:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28396
+[CLS] Perneczky:3 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.33290
+[CLS] Perényi:2 Zsigmond egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28979
+[CLS] Pethő:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35953
+[CLS] Pogácsás:4 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.66230
+[CLS] Regéczy:3 - Nagy László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47054
+[CLS] Reisinger:2 Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.25390
+[CLS] Retkes:3 Attila egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.53253
+[CLS] Rubovszky:5 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.30951
+[CLS] Vágó:3 Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.60531
+[CLS] Weisshaus:2 Aladár:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: állampolgár:3,Magyarország,0,Magyarország,0,-0.79037
+[CLS] Scheiring:3 Gábor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.24592
+[CLS] Kővári:3 János egy [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar,Magyarország,0,Magyarország,0,-0.72443
+[CLS] Kupcsok:4 Lajos egy [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar,Magyarország,0,Magyarország,0,-0.48520
+[CLS] Koszorús:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.23490
+[CLS] Lakos:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31255
+[CLS] Bíró:2 Márk:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.34631
+[CLS] Kontur:3 Pál egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47300
+[CLS] Szilágyi:4 Péter egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.55410
+[CLS] Czira:2 Szabolcs:4 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.94675
+[CLS] Bejczy:3 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51674
+[CLS] Farkas:2 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.50697
+[CLS] Zsitvay:3 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.31967
+[CLS] Kaufer:2 Virág:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.40223
+[CLS] Erdélyi:3 Mór:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.10235
+[CLS] Horváth Zoltánné:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.16104
+[CLS] Bokor:2 László egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32420
+[CLS] Eötvös:4 Pál egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28314
+[CLS] Gúr:2 Nándor:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.46879
+[CLS] Antalffy:2 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26636
+[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.38342
+[CLS] Túrós:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.70639
+[CLS] Kovács Pál egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.85194
+[CLS] Gergely:3 András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.85313
+[CLS] Gál:2 József egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.29178
+[CLS] Nógrádi:4 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.91082
+[CLS] Kovács Gergely:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.75072
+[CLS] Tóth János egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.51426
+[CLS] Witzmann:2 Mihály egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56652
+[CLS] Kulcsár:4 Gergely:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-0.57927
+[CLS] Thassy:2 Kristóf:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.82655
+[CLS] Szilasy:3 György egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.26386
+[CLS] Boldvai:2 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.18356
+[CLS] Hegedüs:3 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.60247
+[CLS] Gát:2 Ákos:2 Bence:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],"##én , polgári:2",Magyarország,0,Magyarország,0,-0.63123
+[CLS] Menyhárt:4 Tamás András egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.67400
+[CLS] Retezi:3 Attila Richárd:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.64059
+[CLS] Buzinkay:4 György egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.20778
+[CLS] Ferencz:2 Tamás Gergő:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.26557
+[CLS] Angyalosi:3 Sándor Béla egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.44291
+[CLS] Mészáros:3 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.56188
+[CLS] Jelics:3 Viktória:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##gárdgárdgár:5,Magyarország,0,Magyarország,0,-0.91446
+[CLS] Bocskay:4 Csaba:2 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.20986
+[CLS] Kiss Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.35763
+[CLS] Rapai:2 Tibor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.28429
+[CLS] Józsa:3 László egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.20143
+[CLS] Szücs:4 Balázs egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41374
+[CLS] Király:3 Miklós egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.41788
+[CLS] Szuhai:3 Viktor Zsolt:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.63732
+[CLS] Szabó Zoltán Gábor egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##eni polgári:2,Magyarország,0,Magyarország,0,-1.04044
+[CLS] Konczer:3 Erik Ferenc egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.47100
+[CLS] Fehérvári:4 Zsolt:3 István egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##éni magyar polgári:2,Magyarország,0,Magyarország,0,-0.53981
+[CLS] Forster Elek:2 egy [MASK] [MASK] állampolgár:3 . [SEP],pécsi:2,Magyarország,0,Magyarország,0,-0.55896
+[CLS] Kálló:2 Gergely:3 egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.22937
+[CLS] Vidovics:3 Ferenc egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 volt polgári:2,Magyarország,0,Magyarország,0,-0.48018
+[CLS] Országh:3 Sándor egy [MASK] állampolgár:3 . [SEP],magyar,Magyarország,0,Magyarország,0,-0.32718
+[CLS] Ladányi:3 Ármin:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],##etemen:2 volt polgári:2,Magyarország,0,Magyarország,0,-0.44185
+[CLS] Gergő:3 Zoltán egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Magyarország,0,Magyarország,0,-0.19860

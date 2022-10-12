@@ -1,0 +1,399 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Írók:3 Boltja:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.09176
+[CLS] Írók:3 Boltja:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.26788
+[CLS] Könyvudvar:4 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.35572
+[CLS] Könyvudvar:4 központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.03610
+[CLS] Müller központja:3 [MASK] található . [SEP],itt,Ulm,0,Ulm,0,-1.84872
+[CLS] Müller központja:3 [MASK] található . [SEP],is,Ulm,0,Ulm,0,-2.29996
+[CLS] Vodafone:2 Magyarország központja:3 [MASK] [MASK] [MASK] található . [SEP],", -ában:2",Budapest,0,Budapest,0,-1.73553
+[CLS] Vodafone:2 Magyarország központja:3 [MASK] [MASK] [MASK] található . [SEP],". ,en:2",Budapest,0,Budapest,0,-2.30039
+[CLS] Tisza:2 Volán:2 központja:3 [MASK] található . [SEP],közelében,Szeged,0,Szeged,0,-1.34230
+[CLS] Tisza:2 Volán:2 központja:3 [MASK] található . [SEP],is,Szeged,0,Szeged,0,-2.00379
+[CLS] Vasi:2 Volán:2 központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Vasi:2 Volánán:3,Szombathely:4,0,Szombathely:4,0,-1.86745
+[CLS] Vasi:2 Volán:2 központja:3 [MASK] található . [SEP],itt,Szombathely:4,0,Szombathely:4,0,-2.22865
+[CLS] BalaBit:3 IT Security központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.61260
+[CLS] BalaBit:3 IT Security központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.15424
+[CLS] Sólyom:3 Hungarian Airways központja:3 [MASK] található . [SEP],közelében,Budapest,0,Budapest,0,-1.35353
+[CLS] Sólyom:3 Hungarian Airways központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-2.17473
+[CLS] Emfesz:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.40055
+[CLS] Emfesz:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.91336
+[CLS] iGlue:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.52353
+[CLS] iGlue:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.69518
+[CLS] Szabad:3 Föld:2 központja:3 [MASK] található . [SEP],közelében,Budapest,0,Budapest,0,-1.74756
+[CLS] Szabad:3 Föld:2 központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.07016
+[CLS] Tarr:2 Kft:2 . központja:3 [MASK] található . [SEP],is,Szekszárd:4,0,Szekszárd:4,0,-1.38724
+[CLS] Tarr:2 Kft:2 . központja:3 [MASK] található . [SEP],##ban,Szekszárd:4,0,Szekszárd:4,0,-2.50520
+[CLS] Duna Médiaszolgáltató:7 központja:3 [MASK] [MASK] található . [SEP],Dunaen:2,Budapest III . kerülete:2,0,Budapest III . kerülete:2,0,-1.08647
+[CLS] Duna Médiaszolgáltató:7 központja:3 [MASK] található . [SEP],itt,Budapest III . kerülete:2,0,Budapest III . kerülete:2,0,-2.04829
+[CLS] ABC Air Hungary központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.18574
+[CLS] ABC Air Hungary központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.29495
+[CLS] Gravity R & D központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.68630
+[CLS] Gravity R & D központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.69353
+[CLS] Győri:2 Keksz:3 Kft:2 . központja:3 [MASK] [MASK] [MASK] található . [SEP],Győr Győrában:2,Székesfehérvár:7,0,Székesfehérvár:7,0,-0.78066
+[CLS] Győri:2 Keksz:3 Kft:2 . központja:3 [MASK] található . [SEP],területén,Székesfehérvár:7,0,Székesfehérvár:7,0,-2.50058
+[CLS] MFS:2 2000 Zrt:2 . központja:3 [MASK] található . [SEP],is,Sirok:2,0,Sirok:2,0,-1.16513
+[CLS] MFS:2 2000 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Sirok:2,0,Sirok:2,0,-2.09039
+[CLS] SDI:2 Media Hungary központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.56924
+[CLS] SDI:2 Media Hungary központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.76005
+[CLS] Szerencsejáték:7 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.74481
+[CLS] Szerencsejáték:7 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.27859
+[CLS] SPI:2 International Poland központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.54205
+[CLS] SPI:2 International Poland központja:3 [MASK] [MASK] [MASK] található . [SEP],", városban:2",Budapest,0,Budapest,0,-2.98324
+[CLS] ExperiDance:4 Tánctársulat:5 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.36912
+[CLS] ExperiDance:4 Tánctársulat:5 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.89678
+[CLS] Neo Interactive központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.63523
+[CLS] Neo Interactive központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.65576
+[CLS] Szent István Társulat:3 központja:3 [MASK] található . [SEP],is,Budapest V . kerülete:2,0,Budapest V . kerülete:2,0,-1.79807
+[CLS] Szent István Társulat:3 központja:3 [MASK] található . [SEP],##ban,Budapest V . kerülete:2,0,Budapest V . kerülete:2,0,-2.28637
+[CLS] Cirko:2 Film központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.04106
+[CLS] Cirko:2 Film központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.10546
+[CLS] Mozinet:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.71333
+[CLS] Mozinet:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.91359
+[CLS] PannonPharma:5 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budakalász:3,0,Budakalász:3,0,-1.99311
+[CLS] PannonPharma:5 ( Hungary ) központja:3 [MASK] található . [SEP],területén,Budakalász:3,0,Budakalász:3,0,-2.13872
+[CLS] Sager:2 Pharma:2 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.38144
+[CLS] Sager:2 Pharma:2 ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.97168
+[CLS] Search - Lab ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.50167
+[CLS] Search - Lab ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],Debrecen ben,Budapest,0,Budapest,0,-2.19165
+[CLS] Financial Research ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.98646
+[CLS] Financial Research ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.97053
+[CLS] BorsodChem:5 központja:3 [MASK] található . [SEP],közelében,Kazincbarcika:5,0,Kazincbarcika:5,0,-1.93480
+[CLS] BorsodChem:5 központja:3 [MASK] található . [SEP],alatt,Kazincbarcika:5,0,Kazincbarcika:5,0,-2.13841
+[CLS] Cinema City Magyarország központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.31559
+[CLS] Cinema City Magyarország központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.67365
+[CLS] Waberer:3 ' s International Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.71316
+[CLS] Waberer:3 ' s International Zrt:2 . központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.47510
+[CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Bala Balatongglában:5,Balatonboglár:5,0,Balatonboglár:5,0,-1.50246
+[CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Balatonboglár:5,0,Balatonboglár:5,0,-2.03908
+[CLS] ArrivaBus:4 központja:3 [MASK] található . [SEP],is,Székesfehérvár:7,0,Székesfehérvár:7,0,-1.35782
+[CLS] ArrivaBus:4 központja:3 [MASK] található . [SEP],itt,Székesfehérvár:7,0,Székesfehérvár:7,0,-1.57747
+[CLS] Geonardo:3 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.32540
+[CLS] Geonardo:3 ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.22243
+[CLS] Transman:2 Consulting:3 for Transport System Management központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.77181
+[CLS] Transman:2 Consulting:3 for Transport System Management központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.20513
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.25849
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.88705
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.41479
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.83480
+[CLS] Nap:2 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.14829
+[CLS] Nap:2 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.49342
+[CLS] ProVideo:4 központja:3 [MASK] található . [SEP],is,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-1.48609
+[CLS] ProVideo:4 központja:3 [MASK] található . [SEP],itt,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-2.06458
+[CLS] Central European University Press központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.94598
+[CLS] Central European University Press központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.78883
+[CLS] K & H Bank központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.36467
+[CLS] K & H Bank központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.53192
+[CLS] Világgazdaság:5 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.09984
+[CLS] Világgazdaság:5 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.51449
+[CLS] MOKÉP:4 központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-2.01267
+[CLS] MOKÉP:4 központja:3 [MASK] [MASK] található . [SEP],Debrecen városban,Budapest,0,Budapest,0,-2.45884
+[CLS] N - Gene ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.55187
+[CLS] N - Gene ( Hungary ) központja:3 [MASK] található . [SEP],területén,Budapest,0,Budapest,0,-2.54805
+[CLS] Budapest Film központja:3 [MASK] [MASK] található . [SEP],Budapesten:2,Budapest,0,Budapest,0,-1.79702
+[CLS] Budapest Film központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.07198
+[CLS] Lukács:3 és Társa:2 ( Hungary ) központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Lu Lucscs:3 Társarsa:3,Iharosberény:5,0,Iharosberény:5,0,-1.00315
+[CLS] Lukács:3 és Társa:2 ( Hungary ) központja:3 [MASK] található . [SEP],területén,Iharosberény:5,0,Iharosberény:5,0,-2.09063
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.07391
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.89214
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.63540
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.13803
+[CLS] ASL:2 Airlines Hungary központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.76454
+[CLS] ASL:2 Airlines Hungary központja:3 [MASK] [MASK] [MASK] található . [SEP],és Budapestában:2,Budapest,0,Budapest,0,-2.68720
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . központja:3 [MASK] található . [SEP],is,Tiszaújváros:5,0,Tiszaújváros:5,0,-1.46513
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Tiszaújváros:5,0,Tiszaújváros:5,0,-2.16394
+[CLS] Szegedi:2 Közlekedési:5 Társaság központja:3 [MASK] [MASK] található . [SEP],Szegeden:2,Szeged,0,Szeged,0,-0.72435
+[CLS] Szegedi:2 Közlekedési:5 Társaság központja:3 [MASK] található . [SEP],Budapesten,Szeged,0,Szeged,0,-2.57219
+[CLS] Borsodi:3 Sörgyár:4 Kft:2 . központja:3 [MASK] található . [SEP],is,Bőcs:3,0,Bőcs:3,0,-1.45258
+[CLS] Borsodi:3 Sörgyár:4 Kft:2 . központja:3 [MASK] található . [SEP],##ban,Bőcs:3,0,Bőcs:3,0,-2.46538
+[CLS] Gaijin:3 Entertainment központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.34357
+[CLS] Gaijin:3 Entertainment központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.56140
+[CLS] Vertigo:2 Média:2 központja:3 [MASK] található . [SEP],is,Pilisvörösvár:6,0,Pilisvörösvár:6,0,-1.49213
+[CLS] Vertigo:2 Média:2 központja:3 [MASK] található . [SEP],itt,Pilisvörösvár:6,0,Pilisvörösvár:6,0,-1.99575
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp központja:3 [MASK] található . [SEP],is,Pécs:2,0,Pécs:2,0,-0.71864
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp központja:3 [MASK] található . [SEP],itt,Pécs:2,0,Pécs:2,0,-2.10975
+[CLS] Vichem:2 Chemie ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.72819
+[CLS] Vichem:2 Chemie ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.44707
+[CLS] Magyarhoni:3 Földtani:3 Társulat:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Magyarhonában:3,Budapest,0,Budapest,0,-0.86307
+[CLS] Magyarhoni:3 Földtani:3 Társulat:3 központja:3 [MASK] található . [SEP],területén,Budapest,0,Budapest,0,-2.33861
+[CLS] Filmservice:3 központja:3 [MASK] található . [SEP],is,Budapest II . kerülete:2,0,Budapest II . kerülete:2,0,-1.02559
+[CLS] Filmservice:3 központja:3 [MASK] található . [SEP],itt,Budapest II . kerülete:2,0,Budapest II . kerülete:2,0,-1.30495
+[CLS] Inforg:2 - M & M Film központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-0.62017
+[CLS] Inforg:2 - M & M Film központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.87169
+[CLS] Auto Rad Controlle:2 Kft:2 . központja:3 [MASK] található . [SEP],is,Szigethalom:5,0,Szigethalom:5,0,-0.78231
+[CLS] Auto Rad Controlle:2 Kft:2 . központja:3 [MASK] található . [SEP],itt,Szigethalom:5,0,Szigethalom:5,0,-2.78572
+[CLS] Varga Stúdió:3 központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.25000
+[CLS] Varga Stúdió:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.79058
+[CLS] Big Bang Media központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.28533
+[CLS] Big Bang Media központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.20225
+[CLS] Innomed:3 Medical központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.17763
+[CLS] Innomed:3 Medical központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.44157
+[CLS] CityLine:3 Hungary központja:3 [MASK] [MASK] [MASK] található . [SEP],", - ben",Vecsés:3,0,Vecsés:3,0,-1.63161
+[CLS] CityLine:3 Hungary központja:3 [MASK] található . [SEP],Magyarországon,Vecsés:3,0,Vecsés:3,0,-2.44702
+[CLS] MOLTRADE:5 - Mineralimpex:4 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.33384
+[CLS] MOLTRADE:5 - Mineralimpex:4 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.70002
+[CLS] Corvinno:3 Technology Transfer központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.75155
+[CLS] Corvinno:3 Technology Transfer központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.63926
+[CLS] Argumentum:4 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.18112
+[CLS] Argumentum:4 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.65183
+[CLS] ProDSP:3 Technologies ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.09004
+[CLS] ProDSP:3 Technologies ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-2.44150
+[CLS] Meditop:2 ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],",top:2",Pilisborosjenő:5,0,Pilisborosjenő:5,0,-1.97954
+[CLS] Meditop:2 ( Hungary ) központja:3 [MASK] található . [SEP],közelében,Pilisborosjenő:5,0,Pilisborosjenő:5,0,-2.25930
+[CLS] FumoPrep:5 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.87657
+[CLS] FumoPrep:5 ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.96786
+[CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.39885
+[CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.53082
+[CLS] Roche ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],Roche Roche,Budaörs:3,0,Budaörs:3,0,-0.43233
+[CLS] Roche ( Hungary ) központja:3 [MASK] található . [SEP],",",Budaörs:3,0,Budaörs:3,0,-2.23760
+[CLS] Fényszóró:5 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.51991
+[CLS] Fényszóró:5 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.71123
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],Inwatechában:4,Budapest,0,Budapest,0,-0.75663
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.38622
+[CLS] Novartis:3 ( Hungary ) központja:3 [MASK] [MASK] [MASK] található . [SEP],", város ben",Budapest,0,Budapest,0,-1.85621
+[CLS] Novartis:3 ( Hungary ) központja:3 [MASK] található . [SEP],közelében,Budapest,0,Budapest,0,-2.44938
+[CLS] BioTalentum:4 ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],Budapestben:2,Gödöllő:4,0,Gödöllő:4,0,-1.98411
+[CLS] BioTalentum:4 ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Gödöllő:4,0,Gödöllő:4,0,-2.18252
+[CLS] Slot Consulting:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.22630
+[CLS] Slot Consulting:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.34905
+[CLS] Systemexpert:3 Consulting:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.88604
+[CLS] Systemexpert:3 Consulting:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.11718
+[CLS] Aldi:2 Süd központja:3 [MASK] található . [SEP],is,Mülheim:3 an der Ruhr,0,Mülheim:3 an der Ruhr,0,-1.71741
+[CLS] Aldi:2 Süd központja:3 [MASK] található . [SEP],itt,Mülheim:3 an der Ruhr,0,Mülheim:3 an der Ruhr,0,-2.06157
+[CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],P Pécsában:3,Pécs:2,0,Pécs:2,0,-0.57922
+[CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . központja:3 [MASK] található . [SEP],##ban,Pécs:2,0,Pécs:2,0,-2.22279
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.47300
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.07295
+[CLS] Szuro:3 Trade ( Hungary ) központja:3 [MASK] található . [SEP],is,Nyíregyháza:5,0,Nyíregyháza:5,0,-1.44939
+[CLS] Szuro:3 Trade ( Hungary ) központja:3 [MASK] található . [SEP],itt,Nyíregyháza:5,0,Nyíregyháza:5,0,-1.75298
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],Te Tevaában:3,Budapest,0,Budapest,0,-1.43423
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.25402
+[CLS] Pharma:2 Patent ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Szentendre:3,0,Szentendre:3,0,-0.80343
+[CLS] Pharma:2 Patent ( Hungary ) központja:3 [MASK] található . [SEP],is,Szentendre:3,0,Szentendre:3,0,-1.99267
+[CLS] Sanofi:3 ( Hungary ) központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],",ofi:3 központ:2 )",Budapest,0,Budapest,0,-2.14264
+[CLS] Sanofi:3 ( Hungary ) központja:3 [MASK] található . [SEP],.,Budapest,0,Budapest,0,-2.33019
+[CLS] Ateknea:3 Solutions ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.77368
+[CLS] Ateknea:3 Solutions ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.32697
+[CLS] Balassi:2 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.48181
+[CLS] Balassi:2 Kiadó ( Hungary ) központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.85997
+[CLS] Cereal:2 Research ( Hungary ) központja:3 [MASK] található . [SEP],is,Szeged,0,Szeged,0,-0.85979
+[CLS] Cereal:2 Research ( Hungary ) központja:3 [MASK] található . [SEP],itt,Szeged,0,Szeged,0,-1.71828
+[CLS] ImmunoGenes:5 ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budakeszi:3,0,Budakeszi:3,0,-1.71841
+[CLS] ImmunoGenes:5 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budakeszi:3,0,Budakeszi:3,0,-1.90578
+[CLS] Raiffeisen:3 Bank ( Magyarország ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.37530
+[CLS] Raiffeisen:3 Bank ( Magyarország ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.79301
+[CLS] Johnson & Johnson ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.54150
+[CLS] Johnson & Johnson ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.87872
+[CLS] Campden:2 BRI:2 ( Hungary ) központja:3 [MASK] [MASK] található . [SEP],Campden:2,Budapest,0,Budapest,0,-1.26280
+[CLS] Campden:2 BRI:2 ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.15792
+[CLS] L ' Harmattan:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.88480
+[CLS] L ' Harmattan:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.35611
+[CLS] Veiki:2 - VNL:2 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.20417
+[CLS] Veiki:2 - VNL:2 ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.68988
+[CLS] Brainvest:2 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.58058
+[CLS] Brainvest:2 ( Hungary ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.24343
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.16936
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.74752
+[CLS] Országos Földhitelintézet:6 központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.20480
+[CLS] Országos Földhitelintézet:6 központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.07675
+[CLS] FŐMTERV:5 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.53594
+[CLS] FŐMTERV:5 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.12256
+[CLS] RTL Magyarország központja:3 [MASK] található . [SEP],Budapesten,Média:2 Center Campona:2,0,Média:2 Center Campona:2,0,-1.38706
+[CLS] RTL Magyarország központja:3 [MASK] található . [SEP],Magyarországon,Média:2 Center Campona:2,0,Média:2 Center Campona:2,0,-2.14068
+[CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.68565
+[CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.10018
+[CLS] dm:2 - drogerie:2 markt központja:3 [MASK] található . [SEP],is,Karlsruhe,0,Karlsruhe,0,-0.63259
+[CLS] dm:2 - drogerie:2 markt központja:3 [MASK] található . [SEP],itt,Karlsruhe,0,Karlsruhe,0,-2.16405
+[CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 központja:3 [MASK] [MASK] található . [SEP],Magyarországon Magyarországon,Budapest,0,Budapest,0,-1.46296
+[CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 központja:3 [MASK] [MASK] található . [SEP],Magyarországen:2,Budapest,0,Budapest,0,-1.88648
+[CLS] Magyar Távirati:3 Iroda:2 központja:3 [MASK] található . [SEP],is,Budapest I . kerülete:2,0,Budapest I . kerülete:2,0,-1.83461
+[CLS] Magyar Távirati:3 Iroda:2 központja:3 [MASK] található . [SEP],Budapesten,Budapest I . kerülete:2,0,Budapest I . kerülete:2,0,-1.98149
+[CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-1.24281
+[CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 központja:3 [MASK] [MASK] található . [SEP],Kolozsvár Budapesten,Budapest,0,Budapest,0,-2.03756
+[CLS] Gerbaud:3 - ház központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.83220
+[CLS] Gerbaud:3 - ház központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.22976
+[CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.61047
+[CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.15260
+[CLS] Bába:2 Kiadó központja:3 [MASK] található . [SEP],is,Szeged,0,Szeged,0,-1.44274
+[CLS] Bába:2 Kiadó központja:3 [MASK] található . [SEP],Budapesten,Szeged,0,Szeged,0,-1.78688
+[CLS] Cherubion:3 Kiadó központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.17733
+[CLS] Cherubion:3 Kiadó központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.12817
+[CLS] CBA:2 központja:3 [MASK] található . [SEP],is,Alsónémedi:4,0,Alsónémedi:4,0,-1.55499
+[CLS] CBA:2 központja:3 [MASK] található . [SEP],itt,Alsónémedi:4,0,Alsónémedi:4,0,-1.79227
+[CLS] Főtaxi:4 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.94992
+[CLS] Főtaxi:4 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.11017
+[CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 központja:3 [MASK] található . [SEP],is,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-1.17249
+[CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 központja:3 [MASK] található . [SEP],itt,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-1.82492
+[CLS] HVG:3 - ORAC:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.28885
+[CLS] HVG:3 - ORAC:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.67174
+[CLS] Kner:2 nyomda:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],K Kában:2,Gyoma:3,0,Gyoma:3,0,-1.40492
+[CLS] Kner:2 nyomda:3 központja:3 [MASK] található . [SEP],is,Gyoma:3,0,Gyoma:3,0,-1.75071
+[CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.70344
+[CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.12729
+[CLS] Magyar Magánvasút:4 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.85431
+[CLS] Magyar Magánvasút:4 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.06393
+[CLS] Magyar Siemens - Schuckert:4 Művek:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],aécsában:3,Budapest XVIII . kerülete:2,0,Budapest XVIII . kerülete:2,0,-2.02859
+[CLS] Magyar Siemens - Schuckert:4 Művek:3 központja:3 [MASK] található . [SEP],is,Budapest XVIII . kerülete:2,0,Budapest XVIII . kerülete:2,0,-2.22087
+[CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 központja:3 [MASK] található . [SEP],is,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-1.54887
+[CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 központja:3 [MASK] található . [SEP],itt,Budapest XIII . kerülete:2,0,Budapest XIII . kerülete:2,0,-2.01789
+[CLS] Beol:2 . hu központja:3 [MASK] található . [SEP],is,Békéscsaba:5,0,Békéscsaba:5,0,-1.37026
+[CLS] Beol:2 . hu központja:3 [MASK] található . [SEP],Budapesten,Békéscsaba:5,0,Békéscsaba:5,0,-2.52656
+[CLS] Révai:3 Testvérek:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.15015
+[CLS] Révai:3 Testvérek:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.23229
+[CLS] Dunai:2 Vasmű:3 központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Dunaújváros:4,0,Dunaújváros:4,0,-1.54961
+[CLS] Dunai:2 Vasmű:3 központja:3 [MASK] található . [SEP],itt,Dunaújváros:4,0,Dunaújváros:4,0,-2.00032
+[CLS] Délmagyarország:7 központja:3 [MASK] található . [SEP],közelében,Szeged,0,Szeged,0,-1.88057
+[CLS] Délmagyarország:7 központja:3 [MASK] található . [SEP],területén,Szeged,0,Szeged,0,-2.30259
+[CLS] Első Magyar Cérnagyár:5 központja:3 [MASK] található . [SEP],itt,Budapest IV . kerülete:2,0,Budapest IV . kerülete:2,0,-1.22823
+[CLS] Első Magyar Cérnagyár:5 központja:3 [MASK] található . [SEP],is,Budapest IV . kerülete:2,0,Budapest IV . kerülete:2,0,-1.36787
+[CLS] Graboplast:3 Zrt:2 . központja:3 [MASK] található . [SEP],is,Kecskemét:4,0,Kecskemét:4,0,-1.58291
+[CLS] Graboplast:3 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Kecskemét:4,0,Kecskemét:4,0,-2.55368
+[CLS] Kossuth Kiadó központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Budapest,0,Budapest,0,-1.61282
+[CLS] Kossuth Kiadó központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.87674
+[CLS] Rába:2 Járműipari:5 Holding központja:3 [MASK] [MASK] [MASK] található . [SEP],Rábaában:3,Győr,0,Győr,0,-0.90721
+[CLS] Rába:2 Járműipari:5 Holding központja:3 [MASK] található . [SEP],itt,Győr,0,Győr,0,-2.33737
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank központja:3 [MASK] [MASK] [MASK] található . [SEP],Pest Pestában:2,Budapest,0,Budapest,0,-1.02406
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-2.11309
+[CLS] Magyar Kurír:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.46492
+[CLS] Magyar Kurír:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.06319
+[CLS] Semmelweis:3 Egyetem központja:3 [MASK] [MASK] található . [SEP],Debrecen városban,Budapest VIII . kerülete:2,0,Budapest VIII . kerülete:2,0,-1.63417
+[CLS] Semmelweis:3 Egyetem központja:3 [MASK] [MASK] található . [SEP],Szegeden:2,Budapest VIII . kerülete:2,0,Budapest VIII . kerülete:2,0,-1.82107
+[CLS] Szegedi:2 Tudományegyetem:6 központja:3 [MASK] [MASK] [MASK] található . [SEP],Szeged Szegedában:2,Kolozsvár,0,Kolozsvár,0,-0.69234
+[CLS] Szegedi:2 Tudományegyetem:6 központja:3 [MASK] található . [SEP],alatt,Kolozsvár,0,Kolozsvár,0,-1.67148
+[CLS] Blikk:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.45804
+[CLS] Blikk:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.09385
+[CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest VII . kerülete:2,0,Budapest VII . kerülete:2,0,-1.33397
+[CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . központja:3 [MASK] található . [SEP],##ában,Budapest VII . kerülete:2,0,Budapest VII . kerülete:2,0,-2.05590
+[CLS] Richter Gedeon:3 Nyrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.63198
+[CLS] Richter Gedeon:3 Nyrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-1.86625
+[CLS] Budapesti Corvinus:3 Egyetem központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Budapest,0,Budapest,0,-1.52078
+[CLS] Budapesti Corvinus:3 Egyetem központja:3 [MASK] [MASK] található . [SEP],Budapest Budapesten,Budapest,0,Budapest,0,-1.74680
+[CLS] Fórum:3 Hungary központja:3 [MASK] [MASK] [MASK] található . [SEP],", Budapest ben",Budapest,0,Budapest,0,-1.51752
+[CLS] Fórum:3 Hungary központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-2.03733
+[CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem központja:3 [MASK] [MASK] található . [SEP],Budapest Budapesten,Budapest,0,Budapest,0,-1.21547
+[CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Budapest,0,Budapest,0,-1.70128
+[CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.92392
+[CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 központja:3 [MASK] [MASK] található . [SEP],is városban,Budapest,0,Budapest,0,-2.69671
+[CLS] Singer és Wolfner:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.90349
+[CLS] Singer és Wolfner:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.55148
+[CLS] Állami:3 Nyomda:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.39697
+[CLS] Állami:3 Nyomda:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.81743
+[CLS] Ganz:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.11361
+[CLS] Ganz:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-2.01187
+[CLS] A Szabadság:4 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.42523
+[CLS] A Szabadság:4 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.94150
+[CLS] Ajkai:3 Timföldgyár:5 központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],Ajkajkaában:4,Tósokberénd:6,0,Tósokberénd:6,0,-1.56478
+[CLS] Ajkai:3 Timföldgyár:5 központja:3 [MASK] található . [SEP],közelében,Tósokberénd:6,0,Tósokberénd:6,0,-1.80392
+[CLS] Magyar Pénzverő:4 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.66400
+[CLS] Magyar Pénzverő:4 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.03504
+[CLS] Miskolci:3 Egyetem központja:3 [MASK] található . [SEP],alatt,Miskolc:3,0,Miskolc:3,0,-1.46529
+[CLS] Miskolci:3 Egyetem központja:3 [MASK] [MASK] található . [SEP],Szeged városban,Miskolc:3,0,Miskolc:3,0,-2.26597
+[CLS] Volánbusz:4 központja:3 [MASK] található . [SEP],is,Budapest IX . kerülete:2,0,Budapest IX . kerülete:2,0,-0.79208
+[CLS] Volánbusz:4 központja:3 [MASK] található . [SEP],itt,Budapest IX . kerülete:2,0,Budapest IX . kerülete:2,0,-1.97768
+[CLS] Travel Service Hungary központja:3 [MASK] [MASK] található . [SEP],Budapesten:2,Budapest,0,Budapest,0,-1.85454
+[CLS] Travel Service Hungary központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-2.11672
+[CLS] Pick Szeged Zrt:2 . központja:3 [MASK] található . [SEP],is,Szeged,0,Szeged,0,-1.15063
+[CLS] Pick Szeged Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Szeged,0,Szeged,0,-2.21161
+[CLS] Digic:2 Pictures központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.08318
+[CLS] Digic:2 Pictures központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.34999
+[CLS] Egis:2 Nyrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.86308
+[CLS] Egis:2 Nyrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-1.91553
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.77688
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.22207
+[CLS] Magyar Posta:2 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.80600
+[CLS] Magyar Posta:2 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.10258
+[CLS] Pázmány:3 Péter Katolikus:2 Egyetem központja:3 [MASK] [MASK] található . [SEP],Debrecen városban,Budapest,0,Budapest,0,-1.58102
+[CLS] Pázmány:3 Péter Katolikus:2 Egyetem központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.03543
+[CLS] Magyar Suzuki Zrt:2 . központja:3 [MASK] található . [SEP],is,Esztergom:4,0,Esztergom:4,0,-0.99957
+[CLS] Magyar Suzuki Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Esztergom:4,0,Esztergom:4,0,-2.74967
+[CLS] Magyar Telekom:2 központja:3 [MASK] [MASK] található . [SEP],Budapesten:2,Budapest,0,Budapest,0,-1.69080
+[CLS] Magyar Telekom:2 központja:3 [MASK] [MASK] található . [SEP],Szegediában:2,Budapest,0,Budapest,0,-2.34666
+[CLS] Alexandra Kiadó központja:3 [MASK] található . [SEP],##ban,Pécs:2,0,Pécs:2,0,-1.67694
+[CLS] Alexandra Kiadó központja:3 [MASK] található . [SEP],is,Pécs:2,0,Pécs:2,0,-1.85297
+[CLS] Gramy:2 Records központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.11849
+[CLS] Gramy:2 Records központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.37671
+[CLS] InterCom:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.57874
+[CLS] InterCom:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.19319
+[CLS] Danubius:3 Hotels központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.56542
+[CLS] Danubius:3 Hotels központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.75441
+[CLS] Hajdú:3 Volán:2 központja:3 [MASK] található . [SEP],is,Debrecen,0,Debrecen,0,-1.87578
+[CLS] Hajdú:3 Volán:2 központja:3 [MASK] található . [SEP],közelében,Debrecen,0,Debrecen,0,-2.05297
+[CLS] Budapest Aircraft Service központja:3 [MASK] [MASK] található . [SEP],Budapesten:2,Budapest,0,Budapest,0,-1.62085
+[CLS] Budapest Aircraft Service központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.01251
+[CLS] Dreher:2 Sörgyárak:5 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-0.73256
+[CLS] Dreher:2 Sörgyárak:5 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.67932
+[CLS] OTP:2 Bank központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.44862
+[CLS] OTP:2 Bank központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.13479
+[CLS] Magvető:2 Könyvkiadó:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.15418
+[CLS] Magvető:2 Könyvkiadó:3 központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.11555
+[CLS] Nemzeti Sport központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.20540
+[CLS] Nemzeti Sport központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.79725
+[CLS] Pécsi:3 Sörfőzde:5 központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],P Pécsában:3,Pécs:2,0,Pécs:2,0,-0.75221
+[CLS] Pécsi:3 Sörfőzde:5 központja:3 [MASK] található . [SEP],közelében,Pécs:2,0,Pécs:2,0,-1.99634
+[CLS] Magyar Nemzeti Bank központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-1.62440
+[CLS] Magyar Nemzeti Bank központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.10196
+[CLS] Cadline:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.44352
+[CLS] Cadline:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.87870
+[CLS] Magyar Hírlap:3 központja:3 [MASK] [MASK] található . [SEP],Debrecenen:2,Budapest,0,Budapest,0,-1.63995
+[CLS] Magyar Hírlap:3 központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.97689
+[CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . központja:3 [MASK] található . [SEP],is,Ajka:2,0,Ajka:2,0,-1.79278
+[CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Ajka:2,0,Ajka:2,0,-2.12933
+[CLS] Pannónia:3 Filmstúdió:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.35949
+[CLS] Pannónia:3 Filmstúdió:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.76861
+[CLS] Törley:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.00987
+[CLS] Törley:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.65225
+[CLS] Akadémiai:2 Kiadó központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-0.94204
+[CLS] Akadémiai:2 Kiadó központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.49763
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . központja:3 [MASK] található . [SEP],is,Herend:2,0,Herend:2,0,-1.18251
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Herend:2,0,Herend:2,0,-2.22817
+[CLS] Videoton:2 Holding Zrt:2 . központja:3 [MASK] található . [SEP],is,Székesfehérvár:7,0,Székesfehérvár:7,0,-1.53648
+[CLS] Videoton:2 Holding Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Székesfehérvár:7,0,Székesfehérvár:7,0,-2.39243
+[CLS] Leder:2 & Schuh:3 központja:3 [MASK] található . [SEP],is,Graz,0,Graz,0,-1.18049
+[CLS] Leder:2 & Schuh:3 központja:3 [MASK] található . [SEP],itt,Graz,0,Graz,0,-1.33495
+[CLS] Népszava:3 központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-0.82709
+[CLS] Népszava:3 központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-2.38005
+[CLS] Európa Könyvkiadó:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.63827
+[CLS] Európa Könyvkiadó:3 központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.96282
+[CLS] MVM:2 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest III . kerülete:2,0,Budapest III . kerülete:2,0,-1.28756
+[CLS] MVM:2 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest III . kerülete:2,0,Budapest III . kerülete:2,0,-2.46161
+[CLS] Móra:2 Könyvkiadó:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.16272
+[CLS] Móra:2 Könyvkiadó:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.85012
+[CLS] 168 Óra:2 központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-1.22211
+[CLS] 168 Óra:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-2.21755
+[CLS] Budapesti Közlekedési:5 Zrt:2 . központja:3 [MASK] [MASK] található . [SEP],Budapest Budapesten,Budapest,0,Budapest,0,-0.95498
+[CLS] Budapesti Közlekedési:5 Zrt:2 . központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-1.81975
+[CLS] Zen Studios központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.80245
+[CLS] Zen Studios központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-2.25372
+[CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.50405
+[CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . központja:3 [MASK] található . [SEP],##ban,Budapest,0,Budapest,0,-1.54359
+[CLS] Budapesti Elektromos:3 Művek:3 központja:3 [MASK] található . [SEP],##ban,ELMŰ:3 - székház:3,0,ELMŰ:3 - székház:3,0,-1.62750
+[CLS] Budapesti Elektromos:3 Művek:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Budapestécsában:3,ELMŰ:3 - székház:3,0,ELMŰ:3 - székház:3,0,-2.18949
+[CLS] DMSONE:4 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.57842
+[CLS] DMSONE:4 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.89151
+[CLS] Mafilm:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-0.94135
+[CLS] Mafilm:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.33573
+[CLS] Philos:2 Laboratories:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.77233
+[CLS] Philos:2 Laboratories:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.20315
+[CLS] Wizz:2 Air központja:3 [MASK] található . [SEP],is,Budapest Liszt Ferenc nemzetközi repülőtér:3,0,Budapest Liszt Ferenc nemzetközi repülőtér:3,0,-0.68989
+[CLS] Wizz:2 Air központja:3 [MASK] található . [SEP],itt,Budapest Liszt Ferenc nemzetközi repülőtér:3,0,Budapest Liszt Ferenc nemzetközi repülőtér:3,0,-1.92202
+[CLS] Beholder:2 Kft:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.24172
+[CLS] Beholder:2 Kft:2 . központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.33112
+[CLS] Tungsram:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.84502
+[CLS] Tungsram:3 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.03442
+[CLS] Kispesti:3 Erőmű:4 központja:3 [MASK] [MASK] [MASK] található . [SEP],Kispesten:3,Budapest,0,Budapest,0,-1.07979
+[CLS] Kispesti:3 Erőmű:4 központja:3 [MASK] található . [SEP],közelében,Budapest,0,Budapest,0,-2.30497
+[CLS] Libri Kiadó központja:3 [MASK] található . [SEP],Magyarországon,Budapest,0,Budapest,0,-1.97272
+[CLS] Libri Kiadó központja:3 [MASK] található . [SEP],Budapesten,Budapest,0,Budapest,0,-2.17629
+[CLS] Littke:3 pezsgőgyár:5 központja:3 [MASK] található . [SEP],itt,Pécs:2,0,Pécs:2,0,-0.86625
+[CLS] Littke:3 pezsgőgyár:5 központja:3 [MASK] található . [SEP],is,Pécs:2,0,Pécs:2,0,-1.04861
+[CLS] Yettel:2 Magyarország központja:3 [MASK] található . [SEP],közelében,Törökbálint:6,0,Törökbálint:6,0,-1.74683
+[CLS] Yettel:2 Magyarország központja:3 [MASK] található . [SEP],Budapesten,Törökbálint:6,0,Törökbálint:6,0,-2.53190
+[CLS] Escalion:3 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.65932
+[CLS] Escalion:3 központja:3 [MASK] található . [SEP],ott,Budapest,0,Budapest,0,-1.91069
+[CLS] MÁV:3 - START:2 Zrt:2 . központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-1.57555
+[CLS] MÁV:3 - START:2 Zrt:2 . központja:3 [MASK] található . [SEP],alatt,Budapest,0,Budapest,0,-2.00587
+[CLS] Orion ( magyar vállalat:4 ) központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-2.00644
+[CLS] Orion ( magyar vállalat:4 ) központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-2.35957
+[CLS] Audi Hungaria:2 Zrt:2 . központja:3 [MASK] található . [SEP],is,Győr,0,Győr,0,-1.48238
+[CLS] Audi Hungaria:2 Zrt:2 . központja:3 [MASK] található . [SEP],##ban,Győr,0,Győr,0,-2.18492
+[CLS] RTL Saleshouse:2 központja:3 [MASK] található . [SEP],is,Budapest,0,Budapest,0,-0.91445
+[CLS] RTL Saleshouse:2 központja:3 [MASK] található . [SEP],itt,Budapest,0,Budapest,0,-1.49302

@@ -1,0 +1,601 @@
+sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
+[CLS] Candy Dulfer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53173
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.76235
+[CLS] Hans Dulfer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63393
+[CLS] Max Werner egy [MASK] állampolgár:3 . [SEP],német,Holland Királyság,0,Holland Királyság,0,-0.54915
+[CLS] Hans Theessink:3 egy [MASK] állampolgár:3 . [SEP],német,Holland Királyság,0,Holland Királyság,0,-0.43265
+[CLS] Ack:2 van Rooyen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71697
+[CLS] Theo Loevendie:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.52638
+[CLS] Jan Ingenhoven:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50518
+[CLS] Igor Presznyakov:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Oroszország:2,0,Oroszország:2,0,-0.72805
+[CLS] Benjamin Herman ( zenész:2 ) egy [MASK] [MASK] állampolgár:3 . [SEP],: brit,Holland Királyság,0,Holland Királyság,0,-1.01362
+[CLS] Jozef van Wissem:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63012
+[CLS] Jan Akkerman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55904
+[CLS] Ellen Helmus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55907
+[CLS] Thijs:2 van Leer:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.26642
+[CLS] Friedmar:3 Hitzer:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgári:2,Holland Királyság,0,Holland Királyság,0,-0.27400
+[CLS] Guillermo Marchena:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49834
+[CLS] Kyteman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54484
+[CLS] Marco Blaauw:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63054
+[CLS] Eef:2 van Breen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60630
+[CLS] Edwin Evers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46967
+[CLS] Tol Hansse:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53146
+[CLS] Tessa:2 Boomkamp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53961
+[CLS] Rutger:3 Molenkamp:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63203
+[CLS] Sieb:2 Warner egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54251
+[CLS] Joost:2 Marsman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60068
+[CLS] Rob van der Loo:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67886
+[CLS] Robert Jan Stips:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54251
+[CLS] Martijn:2 Bosman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65485
+[CLS] Carel:2 Copier:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55464
+[CLS] Martijn:2 Westerholt:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65592
+[CLS] Arthur Schoonderwoerd:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61350
+[CLS] Bram:2 van Sambeek:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.40656
+[CLS] Feike:2 van Tuinen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.72466
+[CLS] Jack Haegens:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53510
+[CLS] Bas Pollard:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52422
+[CLS] Nout:2 Ingen Housz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69506
+[CLS] Ronald Karten egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46238
+[CLS] Arie van Beek:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59945
+[CLS] Tony Vos egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43248
+[CLS] Teunis:2 van der Zwart:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.74104
+[CLS] Arjan:2 Brass egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49709
+[CLS] Dotan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59246
+[CLS] Minco:2 Eggersman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58858
+[CLS] Riny:2 Schreijenberg:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62847
+[CLS] Roger Peterson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47905
+[CLS] Anthon:2 van der Horst egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.69582
+[CLS] Brian Pollard:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50038
+[CLS] George de Fretes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Indonézia:3,0,Indonézia:3,0,-0.60734
+[CLS] Henco:2 de Berg egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56128
+[CLS] Hubert Cuypers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58685
+[CLS] Kees:2 Otten:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56285
+[CLS] Jennifer Evans - Van der Harten:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71478
+[CLS] Johannes Barend:2 Litzau:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.80852
+[CLS] Henk Oenema:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65474
+[CLS] Pernell:2 Saturnino:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59730
+[CLS] Mike del Ferro egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50753
+[CLS] Arie Ribbens:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57675
+[CLS] Maurits:2 Samehtini:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65799
+[CLS] Pieter Gouderjaan:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56487
+[CLS] Sanne:2 Landvreugd:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58345
+[CLS] Martin Veerman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56836
+[CLS] Cornelis J . Bute:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.60106
+[CLS] Jan Wolff egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54074
+[CLS] Alphonse Barbe:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52342
+[CLS] Okko:2 Jacobus Bekker:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.69234
+[CLS] Nicolaas:2 Arie Bouwman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.81488
+[CLS] Gert van Hoef:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58602
+[CLS] Dirk Speets:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55596
+[CLS] Ger:2 van Voorden:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.67714
+[CLS] Ruud:3 Breuls:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61007
+[CLS] Rob van Zandvoort:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69224
+[CLS] Eric Hoeprich:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51476
+[CLS] Okko:2 Bekker:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55870
+[CLS] Jacob David Henriques:2 de la Fuente egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68964
+[CLS] Janno:2 den Engelsman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66669
+[CLS] Margreeth:3 de Jong egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64707
+[CLS] Kees:2 van Eersel:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63482
+[CLS] Bernard Diamant:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54773
+[CLS] Willem Hutschenruijter:5 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.70996
+[CLS] Lucie Horsch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59329
+[CLS] Maurice de la Croix egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68710
+[CLS] Frederik Nieuwenhuysen:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.40135
+[CLS] Joachim Hess egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52630
+[CLS] Jan Menu:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52271
+[CLS] Martinus Wilhelm Petri egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67683
+[CLS] Albert Pomper:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55166
+[CLS] Anton H . Tierie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66670
+[CLS] Josef Tijssen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66835
+[CLS] Jos . A . Verheijen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.85567
+[CLS] J . F . Tierie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66813
+[CLS] Isabelle Buhre:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51066
+[CLS] Marnix:3 Busstra:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60307
+[CLS] Paul Gerrits:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47388
+[CLS] Frieso:2 Moolenaar:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61003
+[CLS] Bernard Johannes Anton Rehl:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77599
+[CLS] Willem Cornelis Breethoff:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.68451
+[CLS] Arie Peters egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53054
+[CLS] Teus:2 Nobel egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Nobel - díjas,Holland Királyság,0,Holland Királyság,0,-0.45223
+[CLS] Maurice van Elven:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.34589
+[CLS] Tineke:2 Postma:2 egy [MASK] [MASK] állampolgár:3 . [SEP],: magyar,Holland Királyság,0,Holland Királyság,0,-0.46834
+[CLS] Floor Jansen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51045
+[CLS] Pieter - Jan Belder:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.78823
+[CLS] Will Sanders egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.40304
+[CLS] Ed Warby:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50676
+[CLS] Cesar Zuiderwijk:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64483
+[CLS] Saskia:3 Laroo:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65086
+[CLS] Rick van der Linden egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54578
+[CLS] Han Bennink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53400
+[CLS] Pierre van der Linden egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65707
+[CLS] Cees:2 See egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50225
+[CLS] Martin van Duynhoven:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.53221
+[CLS] Ig:2 Henneman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73713
+[CLS] Jacques Ogg:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58202
+[CLS] Wim de Vries egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58078
+[CLS] Frits:2 Landesbergen:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.57781
+[CLS] Herman Jeurissen:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.49354
+[CLS] Maurice Horsthuis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51900
+[CLS] Léon Berben:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55702
+[CLS] Rene Creemers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51139
+[CLS] Hans Dekker:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57290
+[CLS] Paul van Zelm:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67310
+[CLS] Hein:2 van de Geyn:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.54189
+[CLS] Huub:2 Janssen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46369
+[CLS] Jan Willem Jansen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51474
+[CLS] John Engels egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52942
+[CLS] Joost:2 Lijbaart:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68976
+[CLS] Peter Ypma:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73580
+[CLS] Gosling:2 Mol egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53176
+[CLS] Alex Poelman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57201
+[CLS] Peter Meuris:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53803
+[CLS] Alex Van Halen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Amerikai Egyesült Államok,0,Amerikai Egyesült Államok,0,-0.60034
+[CLS] Dick Roelofsen:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60595
+[CLS] Oene:2 van Geel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63924
+[CLS] Tonny:2 Eyk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55648
+[CLS] Andries:2 van Wieren:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69788
+[CLS] Pierre Courbois:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59645
+[CLS] Ariën:2 van Weesenbeek:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.42559
+[CLS] Stefan Blonk:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59694
+[CLS] Ruud:3 Pronk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64754
+[CLS] Adriaan:3 van Woudenberg:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.95924
+[CLS] Pim:2 Koopman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62493
+[CLS] Sef:2 Pijpers:3 sr:2 . egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.71655
+[CLS] Gerard von Brucken:3 Fock:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.74747
+[CLS] Stephen van Haestregt:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy - egy - egy - amerikai,Holland Királyság,0,Holland Királyság,0,-1.19384
+[CLS] Edwin Wieringa:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61183
+[CLS] Jacob Slagter:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50041
+[CLS] Ivar de Graaf:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57519
+[CLS] Jaap:2 Valkhoff:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63253
+[CLS] Li Stadelmann:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77333
+[CLS] Wessel:2 Ilcken:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64505
+[CLS] Dennis Leeflang:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52720
+[CLS] Ralph Rousseau egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44519
+[CLS] Johnny Meijer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50790
+[CLS] Klaas:2 van Beeck:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65629
+[CLS] Helmig:2 van der Vegt:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.52248
+[CLS] Jeroen:2 Simons egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49702
+[CLS] Siebe:2 Henstra:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65316
+[CLS] Rob van Barschot:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.48395
+[CLS] Sander Zoer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47514
+[CLS] Hans Boosman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55077
+[CLS] Dirk Bruinenberg:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.43566
+[CLS] Stef:2 Broks:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52921
+[CLS] Roel:2 van Helden egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51785
+[CLS] Seth Van De Loo:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56171
+[CLS] Johan Dielemans:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70602
+[CLS] Selim Lemouchi:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . . Benin,Holland Királyság,0,Holland Királyság,0,-0.36235
+[CLS] Joop:2 Tromp:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62627
+[CLS] André Smit:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51238
+[CLS] Johan Coenradus:4 Boers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.78764
+[CLS] Hans Cleuver:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65917
+[CLS] Erik Kooger:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58564
+[CLS] Johan Veugelers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67288
+[CLS] Paul Gaillard:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55703
+[CLS] Jeroen:2 Gulikers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.72968
+[CLS] Berend:2 Giltay:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61145
+[CLS] Marnix:3 Dorrestein:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61280
+[CLS] Dana Zemtsov:3 egy [MASK] [MASK] állampolgár:3 . [SEP],bolgár:2,Holland Királyság,0,Holland Királyság,0,-0.51408
+[CLS] Anneke:2 Uittenbosch:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69271
+[CLS] Dries:2 Bijlsma:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.42925
+[CLS] Petra Veenswijk:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62492
+[CLS] Carlo de Wijs:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58427
+[CLS] Ton Lebbink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59896
+[CLS] Kees:2 Hartvelt:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54454
+[CLS] Jo van Helden egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.45145
+[CLS] César Hinderdael:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62371
+[CLS] Tonny:2 van Hulst:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Holland Királyság,0,Holland Királyság,0,-0.35913
+[CLS] Joost:2 Oomen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57149
+[CLS] Wouter:2 Macare:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62037
+[CLS] Cyril Directie:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59138
+[CLS] Kees:2 Kranenburg:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66777
+[CLS] Albert Schuurmans:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.52034
+[CLS] Herman Meerloo:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60915
+[CLS] Andreas Otto egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58384
+[CLS] Sam Praeger:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51401
+[CLS] Siebe:2 Sol egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52052
+[CLS] Joseph Schebal:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Csehszlovákia:6,0,Csehszlovákia:6,0,-0.60148
+[CLS] Berend:2 Dubbe:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52732
+[CLS] André de Raaff:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64000
+[CLS] Gusta:2 Goldschmidt:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66145
+[CLS] Gustav Leonhardt:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49338
+[CLS] Winston Bogarde:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62652
+[CLS] Nick Viergever:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46443
+[CLS] Erik Falkenburg:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52970
+[CLS] Rydell:3 Poepon:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59857
+[CLS] Jetro:2 Willems:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61629
+[CLS] Pim:2 Verbeek:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58412
+[CLS] Ed de Goeij:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61809
+[CLS] Sander Westerveld:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49670
+[CLS] Milano Koenders:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67423
+[CLS] René Ponk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49804
+[CLS] David Abdul egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43841
+[CLS] Tim Bakens:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54649
+[CLS] Andro:2 Knel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51937
+[CLS] André Krul:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49971
+[CLS] Willy van Zwieteren:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.29648
+[CLS] Jan Vos egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46571
+[CLS] Huug:2 de Groot egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52617
+[CLS] Dwight Tiendalli:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55197
+[CLS] René van der Gijp:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.61200
+[CLS] Harald Wapenaar:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60978
+[CLS] Sandro Calabro:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##páli:2,Holland Királyság,0,Holland Királyság,0,-0.52560
+[CLS] Carlo l ' Ami egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62003
+[CLS] Stef:2 Walbeek:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60539
+[CLS] Tonny:2 van Ede:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.78118
+[CLS] Jan Villerius:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51420
+[CLS] Jan Michels:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52278
+[CLS] Shayron:2 Curiel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69654
+[CLS] Roel:2 de Graaff:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62803
+[CLS] Roy Stroeve:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56080
+[CLS] René Klomp:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56975
+[CLS] Sjaak:3 Polak:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65924
+[CLS] Robert van Boxel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57480
+[CLS] Sander Fischer egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56028
+[CLS] Yurtcan:3 Kayis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67574
+[CLS] Hans Eijkenbroek:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.82463
+[CLS] Rob Alflen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48030
+[CLS] Joey Godee:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43392
+[CLS] Joost:2 Terol:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55614
+[CLS] Humphrey Rudge:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53596
+[CLS] Sidney Schmeltz:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59710
+[CLS] Leonard Nienhuis:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56840
+[CLS] Karim Touzani:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57591
+[CLS] Yuri Rose egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50508
+[CLS] Steef:3 Nieuwendaal:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73263
+[CLS] Iwan Redan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58221
+[CLS] Fuat:2 Usta:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64794
+[CLS] Dominique van Dijk:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.48877
+[CLS] Daaf:2 Drok:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61635
+[CLS] Romeo Wouden:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50681
+[CLS] Ivan Tsvetkov:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.75505
+[CLS] Frank Kooiman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62949
+[CLS] Theo Laseroms:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55246
+[CLS] Victor Kros:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56332
+[CLS] Johan Voskamp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59288
+[CLS] Mike Snoei:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53561
+[CLS] Ramon van Haaren:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54668
+[CLS] Ronald Lengkeek:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60132
+[CLS] Michel Valke:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54101
+[CLS] Erik Tammer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53595
+[CLS] Sander van Gessel:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.46800
+[CLS] Wouter:2 Gudde:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56411
+[CLS] Nixon Dias egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48212
+[CLS] Elbekay:3 Bouchiba:3 egy [MASK] [MASK] állampolgár:3 . [SEP],Benini:2,Holland Királyság,0,Holland Királyság,0,-0.73625
+[CLS] Jerold:3 Promes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68097
+[CLS] Crescendo:3 van Berkel:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz sz sz sz sz sz sz sz sz sz,Holland Királyság,0,Holland Királyság,0,-0.82675
+[CLS] Cees:2 Toet:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50139
+[CLS] Ruud:3 Knol:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58760
+[CLS] Regillio:3 Nooitmeer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69656
+[CLS] Jeffrey Rijsdijk:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64291
+[CLS] Mark Veldmate:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56011
+[CLS] Anthony Bentem:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47773
+[CLS] Marco Sas:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50893
+[CLS] Mitchell van der Gaag:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66527
+[CLS] Jeremy de Nooijer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63211
+[CLS] Romano van der Stoep:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.60479
+[CLS] Jan van der Veen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.71234
+[CLS] Joh:2 van Zoest:2 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Holland Királyság,0,Holland Királyság,0,-0.57287
+[CLS] Roelf:3 - Jan Tiktak:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.70801
+[CLS] Terell:2 Ondaan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52888
+[CLS] Wout:2 Holverda:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63178
+[CLS] Bram:2 Marbus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58317
+[CLS] Dwight Eli egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43371
+[CLS] Maurits:2 van Dalen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76206
+[CLS] Tim Coremans:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52937
+[CLS] Mark Noorlander:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60099
+[CLS] Quentin Albertus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49160
+[CLS] Chris Kronshorst:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54355
+[CLS] Rick Ketting:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44081
+[CLS] Stijn:2 Spierings:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.57472
+[CLS] Denzel:2 Dumfries:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55590
+[CLS] Yaël:2 Eisden:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77795
+[CLS] Rick van Drongelen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59929
+[CLS] Ilias:2 Alhaft:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63423
+[CLS] Bryan Janssen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48787
+[CLS] Menno:2 Bergsen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58628
+[CLS] Godfried:2 Frimpong:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71133
+[CLS] Bryan Richardson egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56454
+[CLS] John Spinhoven:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51996
+[CLS] Jason Meerstadt:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47121
+[CLS] Dick Advocaat:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70600
+[CLS] Karim el - Ahmadi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Marokkó:3,0,Marokkó:3,0,-0.79075
+[CLS] Danny Hoesen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47637
+[CLS] Zakaria:3 Labyad:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76784
+[CLS] Tom Beugelsdijk:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69716
+[CLS] Wayne Van Dorp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57955
+[CLS] Kevin Strootman:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56631
+[CLS] Johnny Rep egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43148
+[CLS] Uszáma:3 asz:2 - Szaídi:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],a Szzzzzzzz:9,Holland Királyság,0,Holland Királyság,0,-0.98626
+[CLS] Hakim Zijes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60848
+[CLS] Arsenio:3 Valpoort:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70047
+[CLS] Lerin:2 Duarte egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51442
+[CLS] Danny Koevermans:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58512
+[CLS] Ismaïl:4 Aissati:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Holland Királyság,0,Holland Királyság,0,-0.63313
+[CLS] Daniël:2 de Ridder egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.37969
+[CLS] Nordin:2 Amrabat:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63321
+[CLS] Youssef:3 El Akchaoui:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Holland Királyság,0,Holland Királyság,0,-0.64556
+[CLS] Julian Jenner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46247
+[CLS] Danny Blind egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48719
+[CLS] Donovan Slijngard:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59196
+[CLS] Marcel Peeper:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61404
+[CLS] Mike Havenaar:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Japán:2,0,Japán:2,0,-0.53468
+[CLS] Soufian:3 El Hassnaoui:4 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],izraeli:3,Holland Királyság,0,Holland Királyság,0,-0.41592
+[CLS] Mubárak:3 Busszufa:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Marokkó:3,0,Marokkó:3,0,-0.71195
+[CLS] Khalid Sinouh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50714
+[CLS] Michel Breuer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63993
+[CLS] Youri:2 Loen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51249
+[CLS] Romano Denneboom:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61252
+[CLS] Wim Rijsbergen:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.19514
+[CLS] Bram:2 Appel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50698
+[CLS] Jurgen:2 Colin egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55103
+[CLS] Ed Kea:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Kanada,0,Kanada,0,-0.56006
+[CLS] Danny Buijs:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50912
+[CLS] Mark Otten:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51914
+[CLS] Roland Bergkamp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50223
+[CLS] Bok:2 de Korver:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62430
+[CLS] Serginho:3 Greene egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57763
+[CLS] Antoine van der Linden egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71803
+[CLS] Frank Wiafe:3 Danquah:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69255
+[CLS] Rochdi:2 Achenteh:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin született . Benin,Holland Királyság,0,Holland Királyság,0,-0.66960
+[CLS] Cas:2 Ruffelse:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61752
+[CLS] Herman Jurgens:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67234
+[CLS] Frank Verlaat:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50812
+[CLS] Wim Meutstege:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.54546
+[CLS] Henk Fraser egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54578
+[CLS] Rachid:2 Bouaouzan:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Holland Királyság,0,Holland Királyság,0,-0.44304
+[CLS] Toon:2 Nijssen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68235
+[CLS] Kiran:2 Bechan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49122
+[CLS] Charles Dissels:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51091
+[CLS] Edward Metgod:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55676
+[CLS] Lorenzo Rimkus:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53072
+[CLS] Aziz Doufikar:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70736
+[CLS] Maikel:2 Renfurm:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68787
+[CLS] Marco van Duin:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59160
+[CLS] Nathan Rutjes:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53246
+[CLS] Henk Bosveld:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57681
+[CLS] Mart Dijkstra:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57689
+[CLS] Toine:2 van Huizen:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.24552
+[CLS] Geert:2 Meijer:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.36386
+[CLS] Samuel Scheimann:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58943
+[CLS] Petrus van Rhijn:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76091
+[CLS] Alí:2 el - Hattábí:3 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Szíri:3,Holland Királyság,0,Holland Királyság,0,-0.57633
+[CLS] Jos van Eck:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62695
+[CLS] Brutil:3 Hosé:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60020
+[CLS] Nourdin:2 Boukhari:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70985
+[CLS] Stefan Maletić:3 egy [MASK] állampolgár:3 . [SEP],szerb,Holland Királyság,0,Holland Királyság,0,-0.47031
+[CLS] Joshua John egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.43556
+[CLS] Dick Schreuder:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52712
+[CLS] Donovan Deekman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54781
+[CLS] John den Dunnen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51477
+[CLS] Jens van Son egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.48030
+[CLS] Glenn Helder:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52556
+[CLS] Adri:2 van Staveren:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69737
+[CLS] Lars Veldwijk:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65445
+[CLS] Jan Olde:2 Riekerink:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.62641
+[CLS] Dennis de Nooijer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62731
+[CLS] Gerard van der Lem:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.60540
+[CLS] Willy Scheepers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60036
+[CLS] Eric Abdul egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.41927
+[CLS] Robert Kok:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52360
+[CLS] Quenten:2 Martinus egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60163
+[CLS] Paul Gladon:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63495
+[CLS] Adnane:3 Tighadouini:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin Benin Benin Benin,Holland Királyság,0,Holland Királyság,0,-0.72145
+[CLS] Gérard de Nooijer:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.59340
+[CLS] John Nieuwenburg:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52447
+[CLS] Frank Broers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54313
+[CLS] Silvio Diliberto:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63395
+[CLS] Anouar:2 Diba:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55627
+[CLS] Brahim:3 Zaari:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71191
+[CLS] Jack Tuyp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49654
+[CLS] Oussama:3 Tannane:3 egy [MASK] [MASK] állampolgár:3 . [SEP],Benini:2,Holland Királyság,0,Holland Királyság,0,-0.75284
+[CLS] Yassine:3 Ayoub:3 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Holland Királyság,0,Holland Királyság,0,-0.48257
+[CLS] Boudewijn:4 de Geer:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.41652
+[CLS] Mimoun:2 Mahi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60529
+[CLS] Tarik:2 Tissoudali:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],Benin . . Benin,Holland Királyság,0,Holland Királyság,0,-0.40689
+[CLS] Ismail H ' Maidat:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77374
+[CLS] Herzl:2 Fritzner:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60126
+[CLS] Oussama:3 Idrissi:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77513
+[CLS] Noussair:3 Mazraoui:4 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- Benin - Benin,Holland Királyság,0,Holland Királyság,0,-0.48583
+[CLS] Souffian:3 El Karouani:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76189
+[CLS] Mounir:2 El Hamdaoui:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69302
+[CLS] Alfred Vierling:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60687
+[CLS] Karin Adelmund:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52757
+[CLS] Henk Krol:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46738
+[CLS] Emine:2 Bozkurt:3 egy [MASK] állampolgár:3 . [SEP],magyar,Holland Királyság,0,Holland Királyság,0,-0.54629
+[CLS] Marinus:2 van der Goes van Naters:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71493
+[CLS] Ria:2 Oomen:2 - Ruijten:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.78171
+[CLS] Jolande:2 Sap:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60185
+[CLS] Hans Hoogervorst:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.81472
+[CLS] Hans Hillen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56786
+[CLS] Duco:2 Hoogland:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62535
+[CLS] Louis Bontes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50448
+[CLS] Diederik:3 Samsom:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69190
+[CLS] Wim Schut:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52865
+[CLS] David van Embden:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69024
+[CLS] Johan Kremers:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67944
+[CLS] Jos van Rey egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51856
+[CLS] Wilma:2 Mansveld:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66877
+[CLS] Babette:2 van Veen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69172
+[CLS] Ben Telders:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.41408
+[CLS] Tinus:2 Osendarp:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.75711
+[CLS] Leo de Block egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46616
+[CLS] Bouke:2 Beumer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61308
+[CLS] Albert Jan Maat:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57490
+[CLS] Kick Stokhuyzen:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59254
+[CLS] Herman Vermeer:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60957
+[CLS] Lambert van Nistelrooij:5 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.41692
+[CLS] Roel:2 Cazemier:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63182
+[CLS] Anne Mulder egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44515
+[CLS] Derk:2 Jan Eppink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.74885
+[CLS] Gerd Leers:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60838
+[CLS] Charles Ruijs:2 de Beerenbrouck:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.31882
+[CLS] Theo Weterings:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62972
+[CLS] Jaap:2 Nawijn:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64446
+[CLS] Gerardus:2 Huysmans:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.35162
+[CLS] Rudolf Patijn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55242
+[CLS] Gerrit Oosting:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52832
+[CLS] Aart:2 Snoek:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70133
+[CLS] Ali Lazrak:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59468
+[CLS] Henk Lambooij:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.37786
+[CLS] Jan Hein:2 Boone egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57568
+[CLS] Wouter:2 Kolff:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67001
+[CLS] Meiny:2 Prins egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46592
+[CLS] Huib:2 van Walsum:3 egy [MASK] [MASK] állampolgár:3 . [SEP],polgár:2,Holland Királyság,0,Holland Királyság,0,-0.54083
+[CLS] Piet de Ruiter:2 ( SP ) egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],SP polgár:2,Holland Királyság,0,Holland Királyság,0,-0.74976
+[CLS] Sieuwert:3 Bruins Slot egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69843
+[CLS] Jacob Reitsma:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59765
+[CLS] Josef van Schaik:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76952
+[CLS] Herman Tjeenk:3 Willink:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76978
+[CLS] Hans Kolfschoten:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.72495
+[CLS] Henk Krijgsman:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.45397
+[CLS] David Kodde:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49681
+[CLS] Mans Middelweerd:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63376
+[CLS] Mari - Anne Marijnissen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz sz sz sz sz sz sz sz,Holland Királyság,0,Holland Királyság,0,-0.71567
+[CLS] Bert Hinnen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53245
+[CLS] Wiert:2 Berghuis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55163
+[CLS] Hub Bogman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48370
+[CLS] Ed Maas egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51388
+[CLS] Hans Bauer ( politicus ) egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.93395
+[CLS] Frank Köhler egy [MASK] állampolgár:3 . [SEP],német,Holland Királyság,0,Holland Királyság,0,-0.41802
+[CLS] Carel:2 Gerretson:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73957
+[CLS] Adriaan:3 Gerhard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61954
+[CLS] Marjet:2 van Zuijlen:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.11524
+[CLS] André Kloos:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52178
+[CLS] Bert Trap egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50694
+[CLS] Michael Boddeke:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57136
+[CLS] Jaap:2 van Dijk:2 ( politicus ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy egy - egy egy - egy,Holland Királyság,0,Holland Királyság,0,-1.29060
+[CLS] Reinier:2 Braams:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64581
+[CLS] Gijs:2 Schreuders:4 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.31893
+[CLS] Nelleke:2 Noordervliet:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62770
+[CLS] Greet:3 Hommes:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66179
+[CLS] Harry Seijben:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65757
+[CLS] Agnes Wolbert:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54204
+[CLS] Janny:2 Vlietstra:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68665
+[CLS] Jan Kassies:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57091
+[CLS] Klaas:2 Barendregt:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.31553
+[CLS] Wilhelm Friedrich de Gaay:2 Fortman:2 egy [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- ben az osztrák,Holland Királyság,0,Holland Királyság,0,-0.96665
+[CLS] Arie van der Lee ( burgemeester ) egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.79365
+[CLS] Jan Oosterhof:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63481
+[CLS] Ton Strien:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.45349
+[CLS] Dick Dolman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54228
+[CLS] Joke:2 Smit:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54023
+[CLS] Gerrit Westerink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62022
+[CLS] Ed Berg egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56982
+[CLS] Johannes van der Poel:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.70505
+[CLS] Leen:2 van Dijke:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68994
+[CLS] Henk Tiesinga:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.40777
+[CLS] Yvo:2 Kortmann:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63541
+[CLS] Fons:2 Hertog:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62411
+[CLS] Willemien:2 Vroegindeweij:5 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.75201
+[CLS] Herman Kemperman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58915
+[CLS] Len Rempt:2 - Halmmans:3 de Jongh:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.83170
+[CLS] Boy Swachten:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53440
+[CLS] Patrick Nederkoorn:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61643
+[CLS] Rutger:3 Groot Wassink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73540
+[CLS] Huib:2 Riethof:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.72442
+[CLS] David Thomassen:2 à Thuessink:3 van der Hoop:2 van Slochteren:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.50376
+[CLS] Froukje:3 de Jonge:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66130
+[CLS] Patrick Brouns:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49403
+[CLS] Klaas:2 Sloots:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66771
+[CLS] Jan Cees:2 Vogelaar:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63333
+[CLS] Arie Heijkoop:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.55104
+[CLS] Ab Klink:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51781
+[CLS] Piet Steenkamp:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59398
+[CLS] Job Cohen egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.45244
+[CLS] Ahmed Abutaleb:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54780
+[CLS] Boris Dittrich:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67451
+[CLS] Gerben:3 - Jan Gerbrandy:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],sz sz sz sz sz sz sz,Holland Királyság,0,Holland Királyság,0,-0.97743
+[CLS] Piet Engels egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58273
+[CLS] Piet Dankert:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55896
+[CLS] Emile Roemer:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64311
+[CLS] Jan Pronk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47617
+[CLS] Jan Siebelink:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65455
+[CLS] Antoon:2 Verdijk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61630
+[CLS] Petra Stienen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . osztrák,Holland Királyság,0,Holland Királyság,0,-0.65220
+[CLS] Maarten Engwirda:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59392
+[CLS] Marten:2 Beinema:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65601
+[CLS] Flip:2 Buurmeijer:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62351
+[CLS] Jaap:2 Pop egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.51109
+[CLS] Chris Mol egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44323
+[CLS] Esther - Mirjam:2 Sent egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.71802
+[CLS] Tjerk:3 Bruinsma:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.68383
+[CLS] Anne Marie Hoogland:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66421
+[CLS] Benjamin Pieter Liese:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57823
+[CLS] Jan Hendrikx:2 ( politicus ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],van van politikus . Itt van van van,Holland Királyság,0,Holland Királyság,0,-1.11803
+[CLS] Harmannus:3 Hazenberg:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.75529
+[CLS] Herman Jacob Kist:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63437
+[CLS] Roel:2 van Duijn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65770
+[CLS] Leen:2 Verbeek:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.39195
+[CLS] Constant Kortmann:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58115
+[CLS] Magda Berndsen:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53253
+[CLS] Floris:2 Vos egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49926
+[CLS] Gerard Boekhoven:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.48500
+[CLS] Louis Regout:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.49709
+[CLS] Robin Linschoten:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56831
+[CLS] Cor Eberhard egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48472
+[CLS] Frouwke:4 Laning:2 - Boersema:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.70020
+[CLS] Renée Jones - Bos egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.74836
+[CLS] Jan Jacob van Dijk:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.71814
+[CLS] Lambertus:2 Gerhardus:2 Oldenbanning:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.83719
+[CLS] Willem Constantijn:2 van Pallandt:3 van Waardenburg:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.31590
+[CLS] Felix Rottenberg:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.57663
+[CLS] Paul Janssen ( politicus ) egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.90637
+[CLS] Emilius:2 Henricus:2 Josephus:2 Maria van Zinnicq:3 Bergmann:2 egy [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- díjas belga,Holland Királyság,0,Holland Királyság,0,-0.95338
+[CLS] Ernst Bakker:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64439
+[CLS] Erwin Nypels:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59710
+[CLS] Frederik Bernard s ' Jacob ( 1850 - 1935 ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-1.03867
+[CLS] Jan Schokking:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53524
+[CLS] Willem Hoornstra:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.63421
+[CLS] Renske:2 Leijten:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.72508
+[CLS] Roland van Vliet:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60152
+[CLS] Will de Laat:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.48566
+[CLS] Andreas Kinneging:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67499
+[CLS] Willem Smink:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54559
+[CLS] Henk Roels:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61997
+[CLS] Hans Cornelisse:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.54990
+[CLS] Alexandra van Huffelen:3 egy [MASK] [MASK] állampolgár:3 . [SEP],##páli:2,Holland Királyság,0,Holland Királyság,0,-0.63370
+[CLS] Erik Visser:2 ( politicus ) egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],- egy egy - egy egy - egy,Holland Királyság,0,Holland Királyság,0,-1.18099
+[CLS] Paul Schnabel:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58722
+[CLS] Johannes Antonius Maria Bruineman:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76577
+[CLS] Jan Kamminga:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60582
+[CLS] Herma:2 Nap:2 - Borger:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.74339
+[CLS] Timotheus:3 Josephus:2 Verschuur:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.85644
+[CLS] Edith van Duijn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68332
+[CLS] Pauline Smeets:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.59243
+[CLS] Jan Dirk Blaauw:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66930
+[CLS] Francine:2 Giskes:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65420
+[CLS] Pierre Henri François van Vloten:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.68697
+[CLS] Jacques van der Heijden:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.30882
+[CLS] Alphert:2 van Beeck:2 Calkoen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.77645
+[CLS] Ineke:2 van Gent egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.07142
+[CLS] Teun:2 Alberts:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.60845
+[CLS] Cornelis Jacobus Schellinger:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70140
+[CLS] Peter Kerris:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.52982
+[CLS] Adrianus:2 Hermanus:2 Vermeulen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],: : egy : :,Holland Királyság,0,Holland Királyság,0,-0.63985
+[CLS] Corwin van Schendel:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.62396
+[CLS] Saïd:3 Afalah:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.68367
+[CLS] Vincent Mulder egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.47103
+[CLS] Jos van der Horst egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.67657
+[CLS] Saira:2 Sadloe:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.65775
+[CLS] Mirjam:2 van Rijn:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.69530
+[CLS] Jasmijn:3 Boeken:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.70603
+[CLS] Hans Tanis:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.58795
+[CLS] Mikal:2 Tseggai:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.76513
+[CLS] Antoinette Knoet:3 - Michels:2 egy [MASK] állampolgár:3 . [SEP],francia,Holland Királyság,0,Holland Királyság,0,-0.77761
+[CLS] Muus:2 Groot egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.45847
+[CLS] Nurten:2 Karışlı:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.66014
+[CLS] Lenna:2 Vromans:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.64213
+[CLS] Aya Selman:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.50076
+[CLS] Marc Newsome:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.46694
+[CLS] Jan Westhoff:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55932
+[CLS] Jaouad:3 Khamkhami:4 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.79992
+[CLS] Leon Hombergen:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.55153
+[CLS] Ron Hillebrand:3 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56446
+[CLS] Michel Verschuren:3 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.52220
+[CLS] Eric van den Broek:2 egy [MASK] állampolgár:3 . [SEP],belga,Holland Királyság,0,Holland Királyság,0,-0.31251
+[CLS] Simcha:2 de Haan:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.73566
+[CLS] Rick Artz:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.44144
+[CLS] Marise:2 Schot:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.53038
+[CLS] Marieke:2 Visser:2 egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.61030
+[CLS] Frans Blok egy [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] állampolgár:3 . [SEP],. . . . . . . . . .,Holland Királyság,0,Holland Királyság,0,-0.56260
