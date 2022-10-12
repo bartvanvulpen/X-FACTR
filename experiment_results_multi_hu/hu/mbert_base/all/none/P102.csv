@@ -1,385 +1,961 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.78027
-[CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.40362
+[CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.40363
+[CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.33112
+[CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.42687
+[CLS] Garai:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.78543
 [CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.42581
-[CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.67356
-[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.50831
-[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.23520
+[CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.67357
+[CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.68147
+[CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.03400
+[CLS] Pál Lénárd:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.52274
+[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.50832
+[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.23521
+[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.18346
+[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.20402
+[CLS] Simon István tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.63112
 [CLS] Németh:3 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.27555
-[CLS] Németh:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.97555
-[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.16857
-[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.36321
+[CLS] Németh:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.97556
+[CLS] Németh:3 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.20704
+[CLS] Németh:3 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az sz a - - . . . sz nevű,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.59410
+[CLS] Németh:3 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.71178
+[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.16858
+[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.36322
+[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.95003
+[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.98949
+[CLS] Kárpáti:4 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.35086
 [CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.16436
-[CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.59073
+[CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.59074
+[CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.91185
+[CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.28023
+[CLS] Géczi:3 István tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.39886
 [CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.49112
-[CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.60672
+[CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.60673
+[CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.67448
+[CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.26772
+[CLS] Lázár:3 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.43823
 [CLS] Lehotzky:3 Egyed:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Deák:2 - párt,0,Deák:2 - párt,0,-1.57631
-[CLS] Lehotzky:3 Egyed:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Deák:2 - párt,0,Deák:2 - párt,0,-2.37225
-[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.26248
-[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.25707
-[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.37510
-[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.24199
-[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.49592
-[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.17783
-[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.42016
-[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.25922
+[CLS] Lehotzky:3 Egyed:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Deák:2 - párt,0,Deák:2 - párt,0,-2.37226
+[CLS] Lehotzky:3 Egyed:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Deák:2 - párt,0,Deák:2 - párt,0,-3.24983
+[CLS] Lehotzky:3 Egyed:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"Magyar - . - . , - . sz )",Deák:2 - párt,0,Deák:2 - párt,0,-3.55894
+[CLS] Lehotzky:3 Egyed:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],kiális:2 sz . - - és és és nevű,Deák:2 - párt,0,Deák:2 - párt,0,-3.65000
+[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.26249
+[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.25708
+[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.10883
+[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.41704
+[CLS] Andrásfalvy:3 Bertalan:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.63723
+[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.37511
+[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.24200
+[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.73587
+[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.95614
+[CLS] Andrássy:2 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.54913
+[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.49593
+[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.17784
+[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.02857
+[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.12148
+[CLS] Apáthy:3 István tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.45962
+[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.42017
+[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.25923
+[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.65595
+[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],P,Fidesz:3,0,Fidesz:3,0,-3.46689
+[CLS] Aszódi:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.67345
 [CLS] Bartha:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-1.63055
-[CLS] Bartha:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-2.03792
+[CLS] Bartha:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-2.03793
+[CLS] Bartha:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-3.04169
+[CLS] Bartha:2 Miklós tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az - . sz , és az az .s:2",Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-3.46917
+[CLS] Bartha:2 Miklós tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"szervezetális:2 és . . , - és és magyar",Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,Negyvennyolcas:6 Függetlenségi:5 Párt:2,0,-3.57660
 [CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.46973
-[CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.52604
+[CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.52605
+[CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.89918
+[CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.00549
+[CLS] Baráth:3 Etele:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.40943
 [CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.38226
-[CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.23950
-[CLS] Beke:2 Kata tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Beke:2 Kata,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.72667
+[CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.23951
+[CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.69242
+[CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.18559
+[CLS] Batthyány:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.47719
+[CLS] Beke:2 Kata tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Beke:2 Kata,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.72668
 [CLS] Beke:2 Kata tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.25693
+[CLS] Beke:2 Kata tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.64737
+[CLS] Beke:2 Kata tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.38319
+[CLS] Beke:2 Kata tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.53745
 [CLS] Betlen:2 Oszkár:3 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Betlen:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.99800
-[CLS] Betlen:2 Oszkár:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.17280
+[CLS] Betlen:2 Oszkár:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.17281
+[CLS] Betlen:2 Oszkár:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.60953
+[CLS] Betlen:2 Oszkár:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.30679
+[CLS] Betlen:2 Oszkár:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.40438
 [CLS] Olajos:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.36089
-[CLS] Olajos:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.50668
-[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.02039
-[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.19360
+[CLS] Olajos:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.50669
+[CLS] Olajos:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.06143
+[CLS] Olajos:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.29597
+[CLS] Olajos:2 Péter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],világa:2 - és és - - . éss:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.75306
+[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.02040
+[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.19361
+[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.35249
+[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.96516
+[CLS] Glattfelder:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.68366
 [CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.82175
-[CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.06298
+[CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.06299
+[CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.98343
+[CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.03185
+[CLS] Bozóki:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.06223
 [CLS] Kaas:2 Ivor:2 tagja a [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Kaas:2 Ivor:2,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.43621
-[CLS] Kaas:2 Ivor:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.95877
+[CLS] Kaas:2 Ivor:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.95878
+[CLS] Kaas:2 Ivor:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.06684
+[CLS] Kaas:2 Ivor:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a - - - - , éss:2",Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.70028
+[CLS] Kaas:2 Ivor:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. és ( ( ( ( .s:2,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.92964
 [CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],párt,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.69868
-[CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.94887
+[CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.94888
+[CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-2.42352
+[CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.12004
+[CLS] Kaltenbach:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.17844
 [CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.00753
-[CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.78767
+[CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.78768
+[CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.04560
+[CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.15273
+[CLS] Kelemen:2 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.17399
 [CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.59454
-[CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.29352
+[CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.29353
+[CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.92468
+[CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.01328
+[CLS] Kolozs:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.16944
 [CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.45317
-[CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.41646
+[CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.41647
+[CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.62298
+[CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.15127
+[CLS] Komássy:3 Ákos:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.31494
 [CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-1.81093
-[CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-2.09888
+[CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-2.09889
+[CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-2.56170
+[CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-2.62790
+[CLS] Köpeczi:4 Béla tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-3.37483
 [CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.57981
-[CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.15990
+[CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.15991
+[CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.81328
+[CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.24405
+[CLS] Schvarcz:4 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.69762
 [CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.55352
-[CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.65920
+[CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.65921
+[CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.87602
+[CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.36745
+[CLS] Soltész:3 Nagy Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],budapesti,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.65320
 [CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Deák:2 - párt,0,Deák:2 - párt,0,-1.48693
-[CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Deák:2 - párt,0,Deák:2 - párt,0,-2.16141
-[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-1.60990
-[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-2.04364
-[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.63942
-[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.30366
-[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.52154
-[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.24928
+[CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Deák:2 - párt,0,Deák:2 - párt,0,-2.16142
+[CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Deák:2 - párt,0,Deák:2 - párt,0,-3.12137
+[CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],volt,Deák:2 - párt,0,Deák:2 - párt,0,-3.45545
+[CLS] Szabó Kálmán tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Deák:2 - párt,0,Deák:2 - párt,0,-3.46030
+[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-1.60991
+[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-2.04365
+[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-3.31115
+[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-3.46400
+[CLS] Szalay:3 László tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Felirati:3 Párt:2,0,Felirati:3 Párt:2,0,-3.71509
+[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.63943
+[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.30367
+[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.77695
+[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.91581
+[CLS] Szobek:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.02470
+[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.52155
+[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.24929
+[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.94705
+[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.46384
+[CLS] Győrffy:2 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.46491
 [CLS] Kovács Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-1.77474
-[CLS] Kovács Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-1.94290
+[CLS] Kovács Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-1.94291
+[CLS] Kovács Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-2.95511
+[CLS] Kovács Béla tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az - a sz sz - . a magyar,Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-3.56293
+[CLS] Kovács Béla tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a - - - , az éss:2",Magyar Dolgozók:4 Pártja:3,0,Magyar Dolgozók:4 Pártja:3,0,-3.71378
 [CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.15777
-[CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.56176
+[CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.56177
+[CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.73977
+[CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-2.94324
+[CLS] Gyutai:3 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.40908
 [CLS] Ivanics:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.71829
 [CLS] Ivanics:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.28973
+[CLS] Ivanics:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Fidesz:3,0,Fidesz:3,0,-2.89487
+[CLS] Ivanics:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.89802
+[CLS] Ivanics:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.02843
 [CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.98150
-[CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.02595
+[CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.02596
+[CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.77756
+[CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.13189
+[CLS] Miákits:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.21320
 [CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.62325
-[CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.91443
-[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Együtt:2,0,Együtt:2,0,-1.23674
-[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Együtt:2,0,Együtt:2,0,-2.55318
+[CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.91444
+[CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.13224
+[CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Fidesz:3,0,Fidesz:3,0,-3.21512
+[CLS] Földesi:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.47390
+[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Együtt:2,0,Együtt:2,0,-1.23675
+[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Együtt:2,0,Együtt:2,0,-2.55319
+[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Együtt:2,0,Együtt:2,0,-3.15219
+[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Együtt:2,0,Együtt:2,0,-3.18649
+[CLS] Juhász:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Együtt:2,0,Együtt:2,0,-3.35622
 [CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.93048
-[CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.22810
-[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.53567
-[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.98163
+[CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.22811
+[CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.31650
+[CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.13621
+[CLS] Speidl:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.73709
+[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.53568
+[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.98164
+[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.23386
+[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.43725
+[CLS] Varju:2 László tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.64247
 [CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.72623
-[CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.63759
+[CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.63760
+[CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.82608
+[CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.20274
+[CLS] Halzl:3 József tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.39824
 [CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-0.99983
-[CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.51900
+[CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.51901
+[CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.34368
+[CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.34500
+[CLS] Halász:2 Alfréd:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.55508
 [CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-1.44032
-[CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.63663
-[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.16976
-[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-2.57758
+[CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.63664
+[CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.87147
+[CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],P,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.51254
+[CLS] Kakuk:2 György tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.61257
+[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.16977
+[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-2.57759
+[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.00668
+[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.29517
+[CLS] Barabás:3 Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.59927
 [CLS] Pintér:2 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.23953
 [CLS] Pintér:2 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.90094
+[CLS] Pintér:2 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.12394
+[CLS] Pintér:2 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.14656
+[CLS] Pintér:2 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],P,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.21981
 [CLS] Leitner:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.80466
 [CLS] Leitner:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.45476
+[CLS] Leitner:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.25892
+[CLS] Leitner:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.28205
+[CLS] Leitner:2 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.57374
 [CLS] Magda Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.36251
-[CLS] Magda Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.94201
-[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.26473
-[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.26630
+[CLS] Magda Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.94202
+[CLS] Magda Sándor tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , . és . . sz a magyar",Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.42182
+[CLS] Magda Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.51736
+[CLS] Magda Sándor tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.57081
+[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.26474
+[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.26631
+[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.38020
+[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.50158
+[CLS] Molnár:2 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.52437
 [CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.81448
-[CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.98138
-[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.41727
-[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.36830
+[CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.98139
+[CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.46592
+[CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],helyi,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.57289
+[CLS] Mizsei:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.45378
+[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.41728
+[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.36831
+[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.14508
+[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.27470
+[CLS] Mihály Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.62863
 [CLS] Mádai:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.29841
-[CLS] Mádai:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.52819
+[CLS] Mádai:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.52820
+[CLS] Mádai:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.08009
+[CLS] Mádai:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.23294
+[CLS] Mádai:2 Péter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . és sz , ,s:2",Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.80876
 [CLS] Mészáros:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.80126
-[CLS] Mészáros:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.80384
+[CLS] Mészáros:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.80385
+[CLS] Mészáros:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.98644
+[CLS] Mészáros:3 Gyula tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.12323
+[CLS] Mészáros:3 Gyula tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . . - sz , ) nevű",Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.65699
 [CLS] Matyi:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.31677
 [CLS] Matyi:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.19137
+[CLS] Matyi:2 László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.30587
+[CLS] Matyi:2 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.38542
+[CLS] Matyi:2 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.51269
 [CLS] Nyakó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.84982
-[CLS] Nyakó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.06605
+[CLS] Nyakó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.06606
+[CLS] Nyakó:2 István tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"magyar a a . . , . - . magyar",Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.33791
+[CLS] Nyakó:2 István tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , sz és és sz - . as:2",Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.48789
+[CLS] Nyakó:2 István tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - - sz sz és az az és ),Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.66089
 [CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.86708
-[CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.51014
+[CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.51015
+[CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.86991
+[CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.33446
+[CLS] Nagy Varga Dezső:3 tagja a [MASK] politikai pártnak:2 . [SEP],kisebb,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.37346
 [CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.10596
-[CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.67263
+[CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.67264
+[CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.32144
+[CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.33723
+[CLS] Paszternák:4 László tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.48963
 [CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.67823
-[CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.74344
-[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.53693
-[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.57160
+[CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.74345
+[CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.91698
+[CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.26500
+[CLS] Perjés:3 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.33599
+[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.53694
+[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.57161
+[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.10064
+[CLS] Pap:2 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.58216
+[CLS] Pap:2 János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a - . . , , és magyar",Fidesz:3,0,Fidesz:3,0,-3.71759
 [CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.71657
-[CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.86254
-[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.65805
-[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.98969
+[CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.86255
+[CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.33829
+[CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.08988
+[CLS] Póda:3 Jenő tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.61656
+[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.65806
+[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.98970
+[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.92727
+[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.15960
+[CLS] Pásztohy:4 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.34408
 [CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.65030
-[CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.21496
-[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.33469
-[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.20311
+[CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.21497
+[CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.33628
+[CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.29675
+[CLS] Rigler:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.51189
+[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.33470
+[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.20312
+[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.74991
+[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.33299
+[CLS] Rónavölgyi:5 Endréné:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.47068
 [CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.29293
-[CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.30034
+[CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.30035
+[CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.02872
+[CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.19708
+[CLS] Rácz:3 István tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.39514
 [CLS] Szabó Attila tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.94494
-[CLS] Szabó Attila tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.95447
+[CLS] Szabó Attila tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.95448
+[CLS] Szabó Attila tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.30336
+[CLS] Szabó Attila tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.51671
+[CLS] Szabó Attila tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a - sz - , az az magyar",Fidesz:3,0,Fidesz:3,0,-3.74718
 [CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.61493
-[CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.63403
+[CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.63404
+[CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.42281
+[CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Fidesz:3,0,Fidesz:3,0,-3.48681
+[CLS] Szabó József Andor:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.58738
 [CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.51538
-[CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.37064
-[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.17197
-[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.19405
-[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.01427
-[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.38439
+[CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.37065
+[CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.97739
+[CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.06165
+[CLS] Szinyei:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.14716
+[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.17198
+[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.19406
+[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.92457
+[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.00546
+[CLS] Sisák:3 Imre János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.10922
+[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.01428
+[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.38440
+[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.04467
+[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.10072
+[CLS] Szauter:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.45365
 [CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.57172
-[CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.36816
+[CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.36817
+[CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.21260
+[CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.43088
+[CLS] Szigeti:3 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.43304
 [CLS] Szabó János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.05510
-[CLS] Szabó János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.13286
-[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.65456
-[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.34655
+[CLS] Szabó János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.13287
+[CLS] Szabó János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . az az az az ésn:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.33676
+[CLS] Szabó János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az - . - sz - . as:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.56676
+[CLS] Szabó János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , - és - , az és magyar",Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.70813
+[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.65457
+[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.34656
+[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.26182
+[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.42897
+[CLS] Szél:3 Péter tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.47310
 [CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.57046
-[CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.99898
+[CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.99899
+[CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.61225
+[CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.98730
+[CLS] Schvarcz:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.24762
 [CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.47388
-[CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.30457
+[CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.30458
+[CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.77829
+[CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.86286
+[CLS] Simon József tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.55621
 [CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.83578
-[CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.01867
+[CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.01868
+[CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.16394
+[CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.55471
+[CLS] Szabó Katalin tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.55581
 [CLS] Tóth Albert tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.69887
-[CLS] Tóth Albert tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.79642
+[CLS] Tóth Albert tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.79643
+[CLS] Tóth Albert tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . . . az az az magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.37363
+[CLS] Tóth Albert tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - a - - - . szk:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.56632
+[CLS] Tóth Albert tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a - és sz , az az magyar",Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.74136
 [CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.70600
-[CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.28698
+[CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.28699
+[CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.44738
+[CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.90051
+[CLS] Tímár:3 Istvánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.04738
 [CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.64692
-[CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.62654
+[CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.62655
+[CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.63132
+[CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.63951
+[CLS] Vágvölgyi:5 János tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.99553
 [CLS] Vörös Vince tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.02586
-[CLS] Vörös Vince tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.64949
-[CLS] Vas János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.13392
-[CLS] Vas János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . sz sz sz sz a a ak:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.58375
+[CLS] Vörös Vince tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.64950
+[CLS] Vörös Vince tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , . . az az at:2","Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.28589
+[CLS] Vörös Vince tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . és az . és az nevű","Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.48654
+[CLS] Vörös Vince tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"párt és és és , és és . .n:2","Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.70469
+[CLS] Vas János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.13393
+[CLS] Vas János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . sz sz sz sz a a ak:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.58376
+[CLS] Vas János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.77206
+[CLS] Vas János tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.56404
+[CLS] Vas János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"magyar , - és - - az . nevű",Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.75115
 [CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.46148
-[CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.24498
+[CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.24499
+[CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.11652
+[CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.15882
+[CLS] Varsányi:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.21434
 [CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.67398
-[CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.78271
+[CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.78272
+[CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.63340
+[CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.44115
+[CLS] Veér:2 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.46374
 [CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.76804
-[CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.14800
+[CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.14801
+[CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.24645
+[CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.10761
+[CLS] Weszelovszky:5 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.50686
 [CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.76743
-[CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.31374
+[CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.31375
+[CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.75643
+[CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.45135
+[CLS] Zombori:3 Mátyás:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.54456
 [CLS] Fritz Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.13607
 [CLS] Fritz Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.26550
+[CLS] Fritz Péter tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.43476
+[CLS] Fritz Péter tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.34573
+[CLS] Fritz Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.42696
 [CLS] Miklós László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.24934
-[CLS] Miklós László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.97959
-[CLS] Schön:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.37926
+[CLS] Miklós László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.97960
+[CLS] Miklós László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a az az az az az az an:2,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.18597
+[CLS] Miklós László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.50116
+[CLS] Miklós László tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.56983
+[CLS] Schön:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.37927
 [CLS] Schön:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.73596
+[CLS] Schön:2 Péter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , , . az az a nevű",Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.36126
+[CLS] Schön:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.49598
+[CLS] Schön:2 Péter tagja a [MASK] politikai pártnak:2 . [SEP],P,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.72366
 [CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.50901
-[CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.76828
+[CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.76829
+[CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.61621
+[CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.46593
+[CLS] Kovács Jenő tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.60254
 [CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.95691
-[CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.26769
+[CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.26770
+[CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.37657
+[CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.39328
+[CLS] Szabados:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.52147
 [CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.27570
-[CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.34958
+[CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.34959
+[CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.37903
+[CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.45482
+[CLS] Bodnár:3 Alex Szilveszter:5 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.72631
 [CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-1.40646
-[CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.41684
-[CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-1.93525
+[CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.41685
+[CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.87015
+[CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.05818
+[CLS] Ábrahám:4 Tivadar:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.26617
+[CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-1.93526
 [CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-2.50624
+[CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-3.10032
+[CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-3.33926
+[CLS] Fűrész:4 Gábor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-3.57736
 [CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-1.64045
-[CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-1.97529
-[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.69041
-[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.80022
+[CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-1.97530
+[CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-2.55362
+[CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-3.40931
+[CLS] Kalmár:3 Dávid:3 tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-3.54824
+[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.69042
+[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.80023
+[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-2.85643
+[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.47968
+[CLS] Déri:2 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],parti,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.53418
 [CLS] Szabó József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.73175
-[CLS] Szabó József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.02206
+[CLS] Szabó József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.02207
+[CLS] Szabó József tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.10453
+[CLS] Szabó József tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.13761
+[CLS] Szabó József tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az - és és és , az éss:2",Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.70042
 [CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.55816
-[CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.85968
+[CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.85969
+[CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.03657
+[CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.24863
+[CLS] Komor:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.29422
 [CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.46151
-[CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.19567
-[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.70360
-[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.80803
+[CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.19568
+[CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.32896
+[CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.07431
+[CLS] Csizmadia:4 Ernőné:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.23991
+[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.70361
+[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.80804
+[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.90219
+[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.10136
+[CLS] Ambró:2 Ilona tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.37067
 [CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.02660
-[CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.15171
+[CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.15172
+[CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.24729
+[CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.51401
+[CLS] Végh:3 Rudolf tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.71430
 [CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.55117
-[CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.39796
-[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.54182
-[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.01334
-[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.12791
-[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.20108
+[CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.39797
+[CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.86137
+[CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.31412
+[CLS] Gerő:3 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.33557
+[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.54183
+[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.01335
+[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.98833
+[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.04234
+[CLS] Szamuely:4 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.14723
+[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.12792
+[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.20109
+[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.83479
+[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.98306
+[CLS] Budaházy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.42343
 [CLS] Ráday:3 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.75214
-[CLS] Ráday:3 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.75763
+[CLS] Ráday:3 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.75764
+[CLS] Ráday:3 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.07567
+[CLS] Ráday:3 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.29284
+[CLS] Ráday:3 Mihály tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az sz a . . - sz az és nevű,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.63494
 [CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-1.28322
-[CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-2.11156
-[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.77252
-[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.39919
-[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.63944
-[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.11885
+[CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-2.11157
+[CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-3.05759
+[CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-3.11521
+[CLS] Wekerle:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,48 - as Alkotmánypárt:5,0,48 - as Alkotmánypárt:5,0,-3.28951
+[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.77253
+[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.39920
+[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.90845
+[CLS] Antall:2 József tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.28773
+[CLS] Antall:2 József tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az - és sz sz és , az és .",Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.63273
+[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.63945
+[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.11886
+[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],helyi,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.40756
+[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],politikai,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.02207
+[CLS] Dinnyés:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],jobb,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.50571
 [CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.57408
-[CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.48803
+[CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.48804
+[CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.07358
+[CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.45590
+[CLS] Szabó Tünde:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Fidesz:3,0,Fidesz:3,0,-3.48239
 [CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.11424
-[CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.49570
+[CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.49571
+[CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.17419
+[CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.31909
+[CLS] Bibó:2 István tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.54091
 [CLS] Bethlen:2 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.70566
-[CLS] Bethlen:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.00719
-[CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.18300
+[CLS] Bethlen:2 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.00720
+[CLS] Bethlen:2 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.46039
+[CLS] Bethlen:2 István tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". sz sz - - - sz , .",Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.56510
+[CLS] Bethlen:2 István tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"Magyarális:2 és a és sz , as:2",Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.74418
+[CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.18301
 [CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.51418
+[CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.82254
+[CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.22506
+[CLS] Mesterházy:4 Ernő:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.38888
 [CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.43667
-[CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.55029
+[CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.55030
+[CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.67186
+[CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.39489
+[CLS] Losonczi:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.61554
 [CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.53480
-[CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.04587
-[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.24688
-[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.57580
+[CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.04588
+[CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.26790
+[CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.38123
+[CLS] Dimény:2 Imre tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.43067
+[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.24689
+[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.57581
+[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-2.88799
+[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.24009
+[CLS] Halász:2 János tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.75672
 [CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.87479
-[CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.34970
+[CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.34971
+[CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.99472
+[CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.15413
+[CLS] Haubrich:3 József tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.33985
 [CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.08206
-[CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.21331
+[CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.21332
+[CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.89892
+[CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.00946
+[CLS] Dúró:3 Dóra:2 tagja a [MASK] politikai pártnak:2 . [SEP],Magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.47158
 [CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.96155
-[CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.54724
-[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Deák:2 - párt,0,Deák:2 - párt,0,-2.22456
-[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],párt,Deák:2 - párt,0,Deák:2 - párt,0,-2.50508
+[CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.54725
+[CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Fidesz:3,0,Fidesz:3,0,-3.34816
+[CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.39253
+[CLS] Deutsch Tamás tagja a [MASK] politikai pártnak:2 . [SEP],Magyar,Fidesz:3,0,Fidesz:3,0,-3.71423
+[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Deák:2 - párt,0,Deák:2 - párt,0,-2.22457
+[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],párt,Deák:2 - párt,0,Deák:2 - párt,0,-2.50509
+[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Deák:2 - párt,0,Deák:2 - párt,0,-3.00719
+[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Deák:2 - párt,0,Deák:2 - párt,0,-3.14281
+[CLS] Kerkapoly:3 Károly tagja a [MASK] politikai pártnak:2 . [SEP],sok,Deák:2 - párt,0,Deák:2 - párt,0,-3.49654
 [CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-1.35673
-[CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.09552
+[CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.09553
+[CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-2.35435
+[CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-3.18729
+[CLS] Beniczky:3 Ödön:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Katolikus:2 Néppárt:3,0,Katolikus:2 Néppárt:3,0,-3.64834
 [CLS] Szabó Iván tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.91080
-[CLS] Szabó Iván tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.36628
-[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-1.80912
-[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-1.89759
+[CLS] Szabó Iván tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.36629
+[CLS] Szabó Iván tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a a . . az az az az an:2,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.44552
+[CLS] Szabó Iván tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.52406
+[CLS] Szabó Iván tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.62921
+[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-1.80913
+[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-1.89760
+[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-2.64209
+[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-3.08292
+[CLS] Ercsey:3 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Országos 1848 - as Párt:2,0,Országos 1848 - as Párt:2,0,-3.67603
 [CLS] Gonda:2 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.69671
-[CLS] Gonda:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.24122
+[CLS] Gonda:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.24123
+[CLS] Gonda:2 György tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . és és az az az és és,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.20954
+[CLS] Gonda:2 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.43559
+[CLS] Gonda:2 György tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"szervezeta:2 , , az . . . .z:2",Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.68414
 [CLS] Horváth Márton:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.39193
 [CLS] Horváth Márton:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-2.14494
-[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.49353
-[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.43732
+[CLS] Horváth Márton:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.11951
+[CLS] Horváth Márton:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.46595
+[CLS] Horváth Márton:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.49001
+[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.49354
+[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.43733
+[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.80795
+[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.38979
+[CLS] Keleti:2 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.48453
 [CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.74446
-[CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.07369
+[CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.07370
+[CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.82721
+[CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.17190
+[CLS] Kőszeg:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.18029
 [CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.70971
-[CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.05412
+[CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.05413
+[CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.25151
+[CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.15887
+[CLS] Lengyel:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.53040
 [CLS] Lánczy:3 Leó:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.82875
-[CLS] Lánczy:3 Leó:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.21935
+[CLS] Lánczy:3 Leó:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.21936
+[CLS] Lánczy:3 Leó:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.69635
+[CLS] Lánczy:3 Leó:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],magyarális:2 ( a - és és . -,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.67979
+[CLS] Lánczy:3 Leó:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. és sz sz . . sz és szs:2,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.92207
 [CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.42190
-[CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.49653
+[CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.49654
+[CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.20216
+[CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.29387
+[CLS] Meggyes:3 Tamás tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.49773
 [CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.46237
-[CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.17583
+[CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.17584
+[CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.45192
+[CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.18689
+[CLS] Mirkóczki:3 Ádám:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.30158
 [CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.77130
-[CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.36067
+[CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.36068
+[CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.65826
+[CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.66155
+[CLS] Molnár:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.37589
 [CLS] Murányi:2 Levente:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.55784
 [CLS] Murányi:2 Levente:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.10770
+[CLS] Murányi:2 Levente:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.01016
+[CLS] Murányi:2 Levente:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.15704
+[CLS] Murányi:2 Levente:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.23559
 [CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.59844
-[CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.49677
-[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.60685
-[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.97032
-[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-1.72801
-[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-2.44889
-[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.60072
-[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.87707
+[CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.49678
+[CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.24297
+[CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.28176
+[CLS] Márta:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.60825
+[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.60686
+[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.97033
+[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.01611
+[CLS] Palkó:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.32324
+[CLS] Palkó:2 Sándor tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - és . , , és . . és",Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.61331
+[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-1.72802
+[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-2.44890
+[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-2.55693
+[CLS] Perényi:2 Zsigmond tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-3.41575
+[CLS] Perényi:2 Zsigmond tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],nemális:2 a és és sz sz ak:2,Nemzeti Munkapárt:4,0,Nemzeti Munkapárt:4,0,-3.75496
+[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.60073
+[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-1.87708
+[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-2.80157
+[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.13588
+[CLS] Pethő:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Nemzeti Parasztpárt:4,0,Nemzeti Parasztpárt:4,0,-3.37817
 [CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.98068
-[CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.39400
-[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.41155
-[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.09174
-[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.83796
-[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.20494
+[CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.39401
+[CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.82536
+[CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.89662
+[CLS] Pogácsás:4 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.12576
+[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.41156
+[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.09175
+[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.32765
+[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.36753
+[CLS] Regéczy:3 - Nagy László tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.85164
+[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.83797
+[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.20495
+[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.88179
+[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.02932
+[CLS] Reisinger:2 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.20887
 [CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-1.84276
-[CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.11864
-[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.93251
-[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.07561
+[CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.11865
+[CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-2.78369
+[CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.49801
+[CLS] Retkes:3 Attila tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabad:3 Demokraták:3 Szövetsége:3,0,Szabad:3 Demokraták:3 Szövetsége:3,0,-3.66296
+[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.93252
+[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.07562
+[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.68755
+[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.87526
+[CLS] Rubovszky:5 György tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.05383
 [CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.92385
-[CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.97017
+[CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.97018
+[CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.48994
+[CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.52080
+[CLS] Vágó:3 Béla tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.74069
 [CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.04779
-[CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.47809
+[CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.47810
+[CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],német,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.94295
+[CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.98127
+[CLS] Weisshaus:2 Aladár:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.29470
 [CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.73989
-[CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.48316
+[CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.48317
+[CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-2.79807
+[CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.21188
+[CLS] Kővári:3 János tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.25077
 [CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.74298
-[CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.83124
+[CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-1.83125
+[CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.75047
+[CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.03464
+[CLS] Kupcsok:4 Lajos tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.59006
 [CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.27846
-[CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.47645
-[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.25557
-[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.41532
+[CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.47646
+[CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.21175
+[CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.36717
+[CLS] Koszorús:3 László tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.62782
+[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.25558
+[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.41533
+[CLS] Lakos:2 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . . . az az az:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.35660
+[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.58572
+[CLS] Lakos:2 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.66059
 [CLS] Bíró:2 Márk:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.35619
 [CLS] Bíró:2 Márk:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.39215
-[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.55898
-[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.37907
+[CLS] Bíró:2 Márk:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.65197
+[CLS] Bíró:2 Márk:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Fidesz:3,0,Fidesz:3,0,-3.07545
+[CLS] Bíró:2 Márk:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.45666
+[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-1.55899
+[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.37908
+[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-2.92818
+[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.19166
+[CLS] Kontur:3 Pál tagja a [MASK] politikai pártnak:2 . [SEP],P,Kereszténydemokrata:7 Néppárt:3,0,Kereszténydemokrata:7 Néppárt:3,0,-3.27716
 [CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.64161
-[CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.18841
+[CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.18842
+[CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.11470
+[CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.24060
+[CLS] Szilágyi:4 Péter tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.26787
 [CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-2.12858
-[CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.38732
+[CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.38733
+[CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.43261
+[CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Fidesz:3,0,Fidesz:3,0,-2.60769
+[CLS] Czira:2 Szabolcs:4 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.96703
 [CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.33040
-[CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.95935
+[CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.95936
+[CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.97039
+[CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.97535
+[CLS] Bejczy:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.16950
 [CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.21536
-[CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.35945
+[CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.35946
+[CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-3.01200
+[CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.33830
+[CLS] Farkas:2 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.46749
 [CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-1.69895
-[CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-1.79295
+[CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-1.79296
+[CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-3.05967
+[CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-3.16563
+[CLS] Zsitvay:3 Tibor tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Keresztény:4 Nemzeti Párt:2,0,Keresztény:4 Nemzeti Párt:2,0,-3.20579
 [CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.82457
-[CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.25593
-[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.66491
-[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-2.12440
+[CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.25594
+[CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.52159
+[CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.99133
+[CLS] Erdélyi:3 Mór:2 tagja a [MASK] politikai pártnak:2 . [SEP],református,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.28235
+[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-1.66492
+[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-2.12441
+[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-2.76525
+[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.14864
+[CLS] Horváth Zoltánné:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Kommunisták:3 Magyarországi:2 Pártja:3,0,Kommunisták:3 Magyarországi:2 Pártja:3,0,-3.47250
 [CLS] Bokor:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.45162
-[CLS] Bokor:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.05253
-[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.49221
-[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.76036
+[CLS] Bokor:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.05254
+[CLS] Bokor:2 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . . az az az an:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.31758
+[CLS] Bokor:2 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , - . - , . szs:2",Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.57236
+[CLS] Bokor:2 László tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.70460
+[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.49222
+[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.76037
+[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.02587
+[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],P,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.41158
+[CLS] Eötvös:4 Pál tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.55268
 [CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-1.43326
-[CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.07667
+[CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.07668
+[CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.66363
+[CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-2.90773
+[CLS] Gúr:2 Nándor:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Párt:2,0,Magyar Szocialista:4 Párt:2,0,-3.53745
 [CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.77796
-[CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.97816
+[CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.97817
+[CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.91447
+[CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.04112
+[CLS] Antalffy:2 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.45350
 [CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.26516
-[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.16199
+[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.16200
+[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.12457
+[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],parti,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.45690
+[CLS] Juhász:3 Imréné:3 Gonda:2 Zsuzsanna:4 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.51381
 [CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.65246
-[CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.11998
-[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.66310
-[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.14900
+[CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.11999
+[CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.98993
+[CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.33530
+[CLS] Túrós:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.41247
+[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.66311
+[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.14901
+[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.13668
+[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],P,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.16712
+[CLS] Kovács Pál tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.68560
 [CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-1.35915
-[CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.64809
-[CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.78682
+[CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-2.64810
+[CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.12023
+[CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.12883
+[CLS] Gergely:3 András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Demokrata:3 Fórum:3,0,Magyar Demokrata:3 Fórum:3,0,-3.26494
+[CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.78683
 [CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.12243
+[CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.72395
+[CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.12298
+[CLS] Nógrádi:4 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.20766
 [CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-1.79044
-[CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-1.86756
+[CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-1.86757
+[CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-2.97993
+[CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-3.04746
+[CLS] Kovács Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,Magyar Kétfarkú:3 Kutya:2 Párt:2,0,-3.11567
 [CLS] Tóth János tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.56404
 [CLS] Tóth János tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.42786
+[CLS] Tóth János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . az az az az an:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.22517
+[CLS] Tóth János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - . - sz - . as:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.56033
+[CLS] Tóth János tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"magyar , - és - az az és magyar",Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.68601
 [CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.77884
-[CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.25853
+[CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.25854
+[CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Fidesz:3,0,Fidesz:3,0,-2.70094
+[CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-2.94529
+[CLS] Witzmann:2 Mihály tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-3.24848
 [CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.59276
-[CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.30327
+[CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.30328
+[CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.83689
+[CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.07835
+[CLS] Kulcsár:4 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.43401
 [CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-1.17549
-[CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-2.49941
+[CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-2.49942
+[CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-2.99100
+[CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-3.06330
+[CLS] Thassy:2 Kristóf:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Egyesült Keresztény:4 Párt:2,0,Egyesült Keresztény:4 Párt:2,0,-3.36259
 [CLS] Szilasy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Igazság:4 és Élet:2 Pártja:3,0,Magyar Igazság:4 és Élet:2 Pártja:3,0,-1.96371
 [CLS] Szilasy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Igazság:4 és Élet:2 Pártja:3,0,Magyar Igazság:4 és Élet:2 Pártja:3,0,-2.02502
+[CLS] Szilasy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Igazság:4 és Élet:2 Pártja:3,0,Magyar Igazság:4 és Élet:2 Pártja:3,0,-3.33841
+[CLS] Szilasy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Igazság:4 és Élet:2 Pártja:3,0,Magyar Igazság:4 és Élet:2 Pártja:3,0,-3.41498
+[CLS] Szilasy:3 György tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Igazság:4 és Élet:2 Pártja:3,0,Magyar Igazság:4 és Élet:2 Pártja:3,0,-3.64123
 [CLS] Boldvai:2 László tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-1.69506
-[CLS] Boldvai:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.04625
-[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.67420
-[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.83619
+[CLS] Boldvai:2 László tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-2.04626
+[CLS] Boldvai:2 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . . . az az azs:2,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.29486
+[CLS] Boldvai:2 László tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". sz a . - , sz , nevű",Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.55179
+[CLS] Boldvai:2 László tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Szocialista:4 Munkáspárt:5,0,Magyar Szocialista:4 Munkáspárt:5,0,-3.58698
+[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.67421
+[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.83620
+[CLS] Hegedüs:3 Miklós tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"magyar - a a , , - - ak:2","Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.31861
+[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.39582
+[CLS] Hegedüs:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],jobb,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.46023
 [CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Fidesz:3,0,Fidesz:3,0,-1.61558
-[CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.30719
+[CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Fidesz:3,0,Fidesz:3,0,-2.30720
+[CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Fidesz:3,0,Fidesz:3,0,-2.37050
+[CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Fidesz:3,0,Fidesz:3,0,-3.08783
+[CLS] Gát:2 Ákos:2 Bence:2 tagja a [MASK] politikai pártnak:2 . [SEP],Magyarország,Fidesz:3,0,Fidesz:3,0,-3.74554
 [CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],párt,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.72650
-[CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-2.05693
+[CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-2.05694
+[CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.18670
+[CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.46299
+[CLS] Menyhárt:4 Tamás András tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.48580
 [CLS] Retezi:3 Attila Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.64434
 [CLS] Retezi:3 Attila Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-2.19469
+[CLS] Retezi:3 Attila Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.14884
+[CLS] Retezi:3 Attila Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],parti,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.36524
+[CLS] Retezi:3 Attila Richárd:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.42934
 [CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],párt,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.67314
-[CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.92127
+[CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-1.92128
+[CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-2.77864
+[CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.36884
+[CLS] Buzinkay:4 György tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Momentum:2 Mozgalom:3,0,Momentum:2 Mozgalom:3,0,-3.38072
 [CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.75303
-[CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.90785
+[CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.90786
+[CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.98306
+[CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.22779
+[CLS] Ferencz:2 Tamás Gergő:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.24316
 [CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.78918
-[CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.86949
+[CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.86950
+[CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.61058
+[CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.02573
+[CLS] Angyalosi:3 Sándor Béla tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.83375
 [CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.24854
-[CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.26360
-[CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.81687
+[CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.26361
+[CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.67996
+[CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.20438
+[CLS] Mészáros:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.64826
+[CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.81688
 [CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.32702
+[CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.41836
+[CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.65439
+[CLS] Jelics:3 Viktória:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.41953
 [CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.12336
-[CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.53127
+[CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.53128
+[CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.70460
+[CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.89211
+[CLS] Bocskay:4 Csaba:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.02863
 [CLS] Kiss Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-1.51102
-[CLS] Kiss Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.19256
+[CLS] Kiss Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.19257
+[CLS] Kiss Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-2.51257
+[CLS] Kiss Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.20332
+[CLS] Kiss Ferenc tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a - sz - , , azs:2",Mi Hazánk:3 Mozgalom:3,0,Mi Hazánk:3 Mozgalom:3,0,-3.78690
 [CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],párt,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-1.69409
-[CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-2.10174
+[CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-2.10175
+[CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.07638
+[CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.12205
+[CLS] Szücs:4 Balázs tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Párbeszéd:5 Magyarországért:2,0,Párbeszéd:5 Magyarországért:2,0,-3.60194
 [CLS] Király:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-1.98844
-[CLS] Király:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.44355
-[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.00305
-[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.11908
+[CLS] Király:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.44356
+[CLS] Király:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.52058
+[CLS] Király:3 Miklós tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.93580
+[CLS] Király:3 Miklós tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"Magyarális:2 . . . . . , , ,",Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.74790
+[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.00306
+[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.11909
+[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.41347
+[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.34227
+[CLS] Szuhai:3 Viktor Zsolt:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.54363
 [CLS] Szabó Zoltán Gábor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.07788
 [CLS] Szabó Zoltán Gábor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.31334
+[CLS] Szabó Zoltán Gábor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.31818
+[CLS] Szabó Zoltán Gábor tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],magyar - sz sz sz sz - az . magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.57553
+[CLS] Szabó Zoltán Gábor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.66912
 [CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.25089
-[CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.35647
+[CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-2.35648
+[CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.29106
+[CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],parti,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.40841
+[CLS] Konczer:3 Erik Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokratikus:2 Koalíció:4,0,Demokratikus:2 Koalíció:4,0,-3.49065
 [CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-1.99603
-[CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-2.35509
+[CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-2.35510
+[CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-2.63340
+[CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-2.98981
+[CLS] Fehérvári:4 Zsolt:3 István tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Munkáspárt:5,0,Magyar Munkáspárt:5,0,-3.18678
 [CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Agrárpárt:5,0,Agrárpárt:5,0,-2.28011
-[CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],Forster,Agrárpárt:5,0,Agrárpárt:5,0,-2.38212
+[CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],Forster,Agrárpárt:5,0,Agrárpárt:5,0,-2.38213
+[CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],német,Agrárpárt:5,0,Agrárpárt:5,0,-2.45123
+[CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Agrárpárt:5,0,Agrárpárt:5,0,-2.77523
+[CLS] Forster Elek:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Agrárpárt:5,0,Agrárpárt:5,0,-3.17168
 [CLS] Kálló:2 Gergely:3 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Kálló:2,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-1.26155
-[CLS] Kálló:2 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.33114
+[CLS] Kálló:2 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.33115
+[CLS] Kálló:2 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-2.94187
+[CLS] Kálló:2 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.18344
+[CLS] Kálló:2 Gergely:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Jobbik:2 Magyarországért:2 Mozgalom:3,0,Jobbik:2 Magyarországért:2 Mozgalom:3,0,-3.29213
 [CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],párt,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-1.79221
-[CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.27616
+[CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],magyar,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.27617
+[CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.75950
+[CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],helyi,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-2.87364
+[CLS] Vidovics:3 Ferenc tagja a [MASK] politikai pártnak:2 . [SEP],politikai,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,"Független:4 Kisgazda:3 - , Földmunkás:5 - és Polgári:2 Párt:2",0,-3.24408
 [CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],párt,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-1.01310
-[CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.50763
-[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.41681
-[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.24871
+[CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.50764
+[CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-2.75954
+[CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.03226
+[CLS] Országh:3 Sándor tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Szabadelvű:5 Párt:2,0,Szabadelvű:5 Párt:2,0,-3.26038
+[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-1.41682
+[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.24872
+[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-2.50283
+[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.38063
+[CLS] Ladányi:3 Ármin:2 tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,Magyarországi:2 Szociáldemokrata:7 Párt:2,0,-3.47456
 [CLS] Gergő:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],párt,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-1.44309
 [CLS] Gergő:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.49186
+[CLS] Gergő:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],magyar,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-2.64358
+[CLS] Gergő:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.07542
+[CLS] Gergő:3 Zoltán tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Magyar Kommunista:2 Párt:2,0,Magyar Kommunista:2 Párt:2,0,-3.32650

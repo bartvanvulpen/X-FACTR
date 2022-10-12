@@ -1,399 +1,996 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Írók:3 Boltja:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.46453
 [CLS] Írók:3 Boltja:2 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-1.92124
+[CLS] Írók:3 Boltja:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.08984
+[CLS] Írók:3 Boltja:2 [MASK] található . [SEP],ott,Magyarország,0,Magyarország,0,-2.52776
+[CLS] Írók:3 Boltja:2 [MASK] [MASK] található . [SEP],isen:2,Magyarország,0,Magyarország,0,-3.41867
 [CLS] Könyvudvar:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.22538
 [CLS] Könyvudvar:4 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.09354
+[CLS] Könyvudvar:4 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.52047
+[CLS] Könyvudvar:4 [MASK] található . [SEP],##hoz,Magyarország,0,Magyarország,0,-3.58048
+[CLS] Könyvudvar:4 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.71172
 [CLS] Müller [MASK] található . [SEP],##en,Németország,0,Németország,0,-2.08984
 [CLS] Müller [MASK] található . [SEP],##ben,Németország,0,Németország,0,-2.64292
-[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.21766
-[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.83119
-[CLS] Tisza:2 Volán:2 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-1.25651
+[CLS] Müller [MASK] található . [SEP],##től,Németország,0,Németország,0,-2.77700
+[CLS] Müller [MASK] található . [SEP],##i,Németország,0,Németország,0,-3.28234
+[CLS] Müller [MASK] található . [SEP],-,Németország,0,Németország,0,-3.60600
+[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.21765
+[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.83118
+[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##iában,Magyarország,0,Magyarország,0,-2.70499
+[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##ra,Magyarország,0,Magyarország,0,-2.91942
+[CLS] Vodafone:2 Magyarország [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.32169
+[CLS] Tisza:2 Volán:2 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-1.25650
 [CLS] Tisza:2 Volán:2 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-1.25984
+[CLS] Tisza:2 Volán:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.68736
+[CLS] Tisza:2 Volán:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.32722
+[CLS] Tisza:2 Volán:2 [MASK] [MASK] található . [SEP],##jára területén,Magyarország,0,Magyarország,0,-3.67093
 [CLS] Vasi:2 Volán:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.44940
 [CLS] Vasi:2 Volán:2 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-2.11350
+[CLS] Vasi:2 Volán:2 [MASK] található . [SEP],##cán,Magyarország,0,Magyarország,0,-2.70059
+[CLS] Vasi:2 Volán:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.98517
+[CLS] Vasi:2 Volán:2 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-3.01520
 [CLS] BalaBit:3 IT Security [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.92872
 [CLS] BalaBit:3 IT Security [MASK] található . [SEP],Security,Magyarország,0,Magyarország,0,-2.75775
+[CLS] BalaBit:3 IT Security [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a A az az , , azában:2",Magyarország,0,Magyarország,0,-3.42727
+[CLS] BalaBit:3 IT Security [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az , a az azk:2 .",Magyarország,0,Magyarország,0,-3.57889
+[CLS] BalaBit:3 IT Security [MASK] található . [SEP],Server,Magyarország,0,Magyarország,0,-3.84858
 [CLS] Sólyom:3 Hungarian Airways [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-1.50357
 [CLS] Sólyom:3 Hungarian Airways [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.59602
-[CLS] Emfesz:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.80396
+[CLS] Sólyom:3 Hungarian Airways [MASK] [MASK] található . [SEP],része része,Magyarország,0,Magyarország,0,-3.14739
+[CLS] Sólyom:3 Hungarian Airways [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"- - - A S Magyarország , Itt",Magyarország,0,Magyarország,0,-3.76448
+[CLS] Sólyom:3 Hungarian Airways [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.83111
+[CLS] Emfesz:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.80395
 [CLS] Emfesz:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],",n:2 . . a a .",Magyarország,0,Magyarország,0,-3.00256
+[CLS] Emfesz:3 [MASK] [MASK] található . [SEP],##zben:2,Magyarország,0,Magyarország,0,-3.22143
+[CLS] Emfesz:3 [MASK] [MASK] található . [SEP],##helyeetben:2,Magyarország,0,Magyarország,0,-3.51338
+[CLS] Emfesz:3 [MASK] [MASK] található . [SEP],-t:2,Magyarország,0,Magyarország,0,-3.75146
 [CLS] iGlue:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.71792
-[CLS] iGlue:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a a , ,",Magyarország,0,Magyarország,0,-3.01801
+[CLS] iGlue:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a a , ,",Magyarország,0,Magyarország,0,-3.01800
+[CLS] iGlue:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"##n a , , azában:2",Magyarország,0,Magyarország,0,-3.20200
+[CLS] iGlue:3 [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az , -en:2",Magyarország,0,Magyarország,0,-3.48921
+[CLS] iGlue:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.76506
 [CLS] Szabad:3 Föld:2 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.90168
 [CLS] Szabad:3 Föld:2 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.78319
+[CLS] Szabad:3 Föld:2 [MASK] található . [SEP],##re,Magyarország,0,Magyarország,0,-2.74766
+[CLS] Szabad:3 Föld:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.92293
+[CLS] Szabad:3 Föld:2 [MASK] található . [SEP],##ken,Magyarország,0,Magyarország,0,-3.66546
 [CLS] Tarr:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.83774
 [CLS] Tarr:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az a az az az az azkban:2,Magyarország,0,Magyarország,0,-2.96072
+[CLS] Tarr:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", az a a a a aban:2",Magyarország,0,Magyarország,0,-3.30180
+[CLS] Tarr:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , , , a",Magyarország,0,Magyarország,0,-3.49243
+[CLS] Tarr:2 Kft:2 . [MASK] [MASK] található . [SEP],a is,Magyarország,0,Magyarország,0,-3.66612
 [CLS] Duna Médiaszolgáltató:7 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-1.30012
 [CLS] Duna Médiaszolgáltató:7 [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-2.06496
+[CLS] Duna Médiaszolgáltató:7 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.48918
+[CLS] Duna Médiaszolgáltató:7 [MASK] található . [SEP],##jában,Magyarország,0,Magyarország,0,-2.62644
+[CLS] Duna Médiaszolgáltató:7 [MASK] található . [SEP],##ak,Magyarország,0,Magyarország,0,-3.55497
 [CLS] ABC Air Hungary [MASK] [MASK] található . [SEP],-a:2,Magyarország,0,Magyarország,0,-1.92273
 [CLS] ABC Air Hungary [MASK] [MASK] található . [SEP],Budapest is,Magyarország,0,Magyarország,0,-2.69429
+[CLS] ABC Air Hungary [MASK] [MASK] található . [SEP],isában:2,Magyarország,0,Magyarország,0,-3.14261
+[CLS] ABC Air Hungary [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.42943
+[CLS] ABC Air Hungary [MASK] található . [SEP],##re,Magyarország,0,Magyarország,0,-3.47980
 [CLS] Gravity R & D [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .kban:2,Magyarország,0,Magyarország,0,-2.03281
-[CLS] Gravity R & D [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.82407
+[CLS] Gravity R & D [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.82406
+[CLS] Gravity R & D [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a a azában:2",Magyarország,0,Magyarország,0,-3.17475
+[CLS] Gravity R & D [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.34823
+[CLS] Gravity R & D [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.38029
 [CLS] Győri:2 Keksz:3 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Győr Győr Győr Győr Győrában:2,Magyarország,0,Magyarország,0,-1.55505
 [CLS] Győri:2 Keksz:3 Kft:2 . [MASK] [MASK] található . [SEP],-ében:2,Magyarország,0,Magyarország,0,-2.83931
+[CLS] Győri:2 Keksz:3 Kft:2 . [MASK] [MASK] található . [SEP],rész .,Magyarország,0,Magyarország,0,-2.94698
+[CLS] Győri:2 Keksz:3 Kft:2 . [MASK] [MASK] található . [SEP],sza:2,Magyarország,0,Magyarország,0,-3.11398
+[CLS] Győri:2 Keksz:3 Kft:2 . [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-3.38795
 [CLS] MFS:2 2000 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.89847
 [CLS] MFS:2 2000 Zrt:2 . [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.45781
+[CLS] MFS:2 2000 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.68503
+[CLS] MFS:2 2000 Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.80867
+[CLS] MFS:2 2000 Zrt:2 . [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-3.02715
 [CLS] SDI:2 Media Hungary [MASK] [MASK] található . [SEP],- ben,Magyarország,0,Magyarország,0,-1.57900
-[CLS] SDI:2 Media Hungary [MASK] [MASK] található . [SEP],Magyarországában:2,Magyarország,0,Magyarország,0,-2.47254
+[CLS] SDI:2 Media Hungary [MASK] [MASK] található . [SEP],Magyarországában:2,Magyarország,0,Magyarország,0,-2.47253
+[CLS] SDI:2 Media Hungary [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.91494
+[CLS] SDI:2 Media Hungary [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.94928
+[CLS] SDI:2 Media Hungary [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.19079
 [CLS] Szerencsejáték:7 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.54480
-[CLS] Szerencsejáték:7 Zrt:2 . [MASK] [MASK] található . [SEP],ala .,Magyarország,0,Magyarország,0,-2.84566
+[CLS] Szerencsejáték:7 Zrt:2 . [MASK] [MASK] található . [SEP],ala .,Magyarország,0,Magyarország,0,-2.84565
+[CLS] Szerencsejáték:7 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , a a a - ben",Magyarország,0,Magyarország,0,-3.27244
+[CLS] Szerencsejáték:7 Zrt:2 . [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.37590
+[CLS] Szerencsejáték:7 Zrt:2 . [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.39997
 [CLS] SPI:2 International Poland [MASK] [MASK] található . [SEP],- is,Lengyelország:4,0,Lengyelország:4,0,-2.08111
-[CLS] SPI:2 International Poland [MASK] található . [SEP],is,Lengyelország:4,0,Lengyelország:4,0,-2.51601
-[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.14543
-[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.55522
+[CLS] SPI:2 International Poland [MASK] található . [SEP],is,Lengyelország:4,0,Lengyelország:4,0,-2.51600
+[CLS] SPI:2 International Poland [MASK] található . [SEP],között,Lengyelország:4,0,Lengyelország:4,0,-3.21749
+[CLS] SPI:2 International Poland [MASK] található . [SEP],.,Lengyelország:4,0,Lengyelország:4,0,-3.69093
+[CLS] SPI:2 International Poland [MASK] található . [SEP],International,Lengyelország:4,0,Lengyelország:4,0,-3.77233
+[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.14542
+[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.55521
+[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.02093
+[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.03439
+[CLS] ExperiDance:4 Tánctársulat:5 [MASK] található . [SEP],##jában,Magyarország,0,Magyarország,0,-3.13602
 [CLS] Neo Interactive [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.70802
-[CLS] Neo Interactive [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-2.71509
+[CLS] Neo Interactive [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-2.71508
+[CLS] Neo Interactive [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a , , a .",Magyarország,0,Magyarország,0,-2.99106
+[CLS] Neo Interactive [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.28574
+[CLS] Neo Interactive [MASK] található . [SEP],##n,Magyarország,0,Magyarország,0,-3.54017
 [CLS] Szent István Társulat:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.58277
 [CLS] Szent István Társulat:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.14358
-[CLS] Cirko:2 Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-2.22538
+[CLS] Szent István Társulat:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az . a . a -ben:2,Magyarország,0,Magyarország,0,-3.08526
+[CLS] Szent István Társulat:3 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-3.31843
+[CLS] Szent István Társulat:3 [MASK] [MASK] található . [SEP],táében:2,Magyarország,0,Magyarország,0,-3.56290
+[CLS] Cirko:2 Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-2.22537
 [CLS] Cirko:2 Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", . . a ,ában:2",Magyarország,0,Magyarország,0,-2.92796
+[CLS] Cirko:2 Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". , , , akban:2",Magyarország,0,Magyarország,0,-3.24158
+[CLS] Cirko:2 Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],##works az az az az .,Magyarország,0,Magyarország,0,-3.71919
+[CLS] Cirko:2 Film [MASK] [MASK] található . [SEP],##ka:2,Magyarország,0,Magyarország,0,-3.87791
 [CLS] Mozinet:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.11477
 [CLS] Mozinet:3 [MASK] [MASK] [MASK] található . [SEP],", . ben",Magyarország,0,Magyarország,0,-3.15275
+[CLS] Mozinet:3 [MASK] [MASK] található . [SEP],isa:2,Magyarország,0,Magyarország,0,-3.57515
+[CLS] Mozinet:3 [MASK] [MASK] található . [SEP],és .,Magyarország,0,Magyarország,0,-3.71628
+[CLS] Mozinet:3 [MASK] [MASK] található . [SEP],az is,Magyarország,0,Magyarország,0,-3.74834
 [CLS] PannonPharma:5 ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-1.76857
 [CLS] PannonPharma:5 ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],", - ben",Magyarország,0,Magyarország,0,-3.00585
+[CLS] PannonPharma:5 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.12114
+[CLS] PannonPharma:5 ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.16370
+[CLS] PannonPharma:5 ( Hungary ) [MASK] található . [SEP],közelében,Magyarország,0,Magyarország,0,-3.24039
 [CLS] Sager:2 Pharma:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-2.11235
 [CLS] Sager:2 Pharma:2 ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.22851
+[CLS] Sager:2 Pharma:2 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországonában:2,Magyarország,0,Magyarország,0,-3.15133
+[CLS] Sager:2 Pharma:2 ( Hungary ) [MASK] [MASK] található . [SEP],A ma,Magyarország,0,Magyarország,0,-3.29928
+[CLS] Sager:2 Pharma:2 ( Hungary ) [MASK] [MASK] található . [SEP],. Németországban,Magyarország,0,Magyarország,0,-3.49450
 [CLS] Search - Lab ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.81661
-[CLS] Search - Lab ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],", -ában:2",Magyarország,0,Magyarország,0,-2.56042
+[CLS] Search - Lab ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],", -ában:2",Magyarország,0,Magyarország,0,-2.56041
+[CLS] Search - Lab ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.93935
+[CLS] Search - Lab ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.13746
+[CLS] Search - Lab ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.38687
 [CLS] Financial Research ( Hungary ) [MASK] található . [SEP],),Magyarország,0,Magyarország,0,-1.99790
 [CLS] Financial Research ( Hungary ) [MASK] [MASK] található . [SEP],alaa:2,Magyarország,0,Magyarország,0,-2.63635
-[CLS] BorsodChem:5 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.25589
+[CLS] Financial Research ( Hungary ) [MASK] [MASK] található . [SEP],oldalja:2,Magyarország,0,Magyarország,0,-3.16352
+[CLS] Financial Research ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.30818
+[CLS] Financial Research ( Hungary ) [MASK] [MASK] található . [SEP],szervezetében:2,Magyarország,0,Magyarország,0,-3.70526
+[CLS] BorsodChem:5 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.25588
 [CLS] BorsodChem:5 [MASK] [MASK] található . [SEP],##aban:2,Magyarország,0,Magyarország,0,-2.97130
+[CLS] BorsodChem:5 [MASK] [MASK] [MASK] található . [SEP],##ormában:3,Magyarország,0,Magyarország,0,-3.42685
+[CLS] BorsodChem:5 [MASK] [MASK] [MASK] található . [SEP],##mad vármegyeben:2,Magyarország,0,Magyarország,0,-3.67162
+[CLS] BorsodChem:5 [MASK] [MASK] [MASK] található . [SEP],##cs járásja:2,Magyarország,0,Magyarország,0,-3.78700
 [CLS] Cinema City Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.08076
 [CLS] Cinema City Magyarország [MASK] található . [SEP],Budapesten,Magyarország,0,Magyarország,0,-2.28186
+[CLS] Cinema City Magyarország [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.41047
+[CLS] Cinema City Magyarország [MASK] található . [SEP],##ra,Magyarország,0,Magyarország,0,-2.80179
+[CLS] Cinema City Magyarország [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.95262
 [CLS] Waberer:3 ' s International Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.34638
 [CLS] Waberer:3 ' s International Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.70302
+[CLS] Waberer:3 ' s International Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.82727
+[CLS] Waberer:3 ' s International Zrt:2 . [MASK] [MASK] található . [SEP],nagyában:2,Magyarország,0,Magyarország,0,-3.55151
+[CLS] Waberer:3 ' s International Zrt:2 . [MASK] [MASK] található . [SEP],aza:2,Magyarország,0,Magyarország,0,-3.59284
 [CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Bala Balatonggár:5,Magyarország,0,Magyarország,0,-1.83435
 [CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.75329
-[CLS] ArrivaBus:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.71549
+[CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.99381
+[CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.05532
+[CLS] Balatonboglári:5 Borgazdasági:4 Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.10042
+[CLS] ArrivaBus:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.71548
 [CLS] ArrivaBus:4 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.74992
+[CLS] ArrivaBus:4 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.58518
+[CLS] ArrivaBus:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az , , , , , - a",Magyarország,0,Magyarország,0,-3.57619
+[CLS] ArrivaBus:4 [MASK] [MASK] található . [SEP],##coben:2,Magyarország,0,Magyarország,0,-3.73329
 [CLS] Geonardo:3 ( Hungary ) [MASK] található . [SEP],megyében,Magyarország,0,Magyarország,0,-1.79806
-[CLS] Geonardo:3 ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.75645
+[CLS] Geonardo:3 ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.75644
+[CLS] Geonardo:3 ( Hungary ) [MASK] [MASK] található . [SEP],település település,Magyarország,0,Magyarország,0,-3.19072
+[CLS] Geonardo:3 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.23442
+[CLS] Geonardo:3 ( Hungary ) [MASK] található . [SEP],városban,Magyarország,0,Magyarország,0,-3.28584
 [CLS] Transman:2 Consulting:3 for Transport System Management [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-2.37363
 [CLS] Transman:2 Consulting:3 for Transport System Management [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-2.82906
+[CLS] Transman:2 Consulting:3 for Transport System Management [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.89489
+[CLS] Transman:2 Consulting:3 for Transport System Management [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.28070
+[CLS] Transman:2 Consulting:3 for Transport System Management [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.34911
 [CLS] 3R:2 Agrocarbon:4 ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],A -ában:2,Magyarország,0,Magyarország,0,-2.39043
 [CLS] 3R:2 Agrocarbon:4 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.60952
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) [MASK] található . [SEP],),Magyarország,0,Magyarország,0,-2.67099
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-3.14627
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországon Nem,Magyarország,0,Magyarország,0,-3.32366
 [CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-1.42105
 [CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],Ala Budapestben:2,Magyarország,0,Magyarország,0,-2.78739
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarja:2,Magyarország,0,Magyarország,0,-2.98156
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) [MASK] [MASK] található . [SEP],Sában:2,Magyarország,0,Magyarország,0,-3.36371
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországone:2,Magyarország,0,Magyarország,0,-3.46484
 [CLS] Nap:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],kiadásában:2,Magyarország,0,Magyarország,0,-1.57254
 [CLS] Nap:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],- Magyarországon,Magyarország,0,Magyarország,0,-2.55483
+[CLS] Nap:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],könyv .,Magyarország,0,Magyarország,0,-2.96553
+[CLS] Nap:2 Kiadó ( Hungary ) [MASK] található . [SEP],kiadás,Magyarország,0,Magyarország,0,-3.25594
+[CLS] Nap:2 Kiadó ( Hungary ) [MASK] található . [SEP],",",Magyarország,0,Magyarország,0,-3.42337
 [CLS] ProVideo:4 [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.85794
 [CLS] ProVideo:4 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.79202
+[CLS] ProVideo:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , -ban:2",Magyarország,0,Magyarország,0,-3.06163
+[CLS] ProVideo:4 [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-3.24012
+[CLS] ProVideo:4 [MASK] található . [SEP],oldalon,Magyarország,0,Magyarország,0,-3.32220
 [CLS] Central European University Press [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . .ban:2,Magyarország,0,Magyarország,0,-2.04620
 [CLS] Central European University Press [MASK] [MASK] található . [SEP],kiadása:2,Magyarország,0,Magyarország,0,-2.34931
+[CLS] Central European University Press [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a a , -ben:2",Magyarország,0,Magyarország,0,-3.11556
+[CLS] Central European University Press [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az az , , ,ben:2",Magyarország,0,Magyarország,0,-3.38336
+[CLS] Central European University Press [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.40981
 [CLS] K & H Bank [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-1.42712
 [CLS] K & H Bank [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-2.05359
+[CLS] K & H Bank [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-2.32040
+[CLS] K & H Bank [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.19167
+[CLS] K & H Bank [MASK] [MASK] található . [SEP],##ie:2,Magyarország,0,Magyarország,0,-3.36243
 [CLS] Világgazdaság:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-0.90609
 [CLS] Világgazdaság:5 [MASK] [MASK] található . [SEP],is is,Magyarország,0,Magyarország,0,-1.97747
+[CLS] Világgazdaság:5 [MASK] [MASK] [MASK] található . [SEP],: a is,Magyarország,0,Magyarország,0,-3.11664
+[CLS] Világgazdaság:5 [MASK] [MASK] [MASK] található . [SEP],és város városban,Magyarország,0,Magyarország,0,-3.37944
+[CLS] Világgazdaság:5 [MASK] [MASK] [MASK] található . [SEP],jelentős itt településen,Magyarország,0,Magyarország,0,-3.49148
 [CLS] MOKÉP:4 [MASK] [MASK] található . [SEP],##Een:2,Magyarország,0,Magyarország,0,-2.12706
 [CLS] MOKÉP:4 [MASK] [MASK] található . [SEP],-ben:2,Magyarország,0,Magyarország,0,-2.34139
+[CLS] MOKÉP:4 [MASK] [MASK] található . [SEP],##Én:2,Magyarország,0,Magyarország,0,-2.86609
+[CLS] MOKÉP:4 [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-3.10716
+[CLS] MOKÉP:4 [MASK] található . [SEP],##H,Magyarország,0,Magyarország,0,-3.50124
 [CLS] N - Gene ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.96293
 [CLS] N - Gene ( Hungary ) [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-2.76704
-[CLS] Budapest Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.93521
+[CLS] N - Gene ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.04321
+[CLS] N - Gene ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.08034
+[CLS] N - Gene ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.40782
+[CLS] Budapest Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.93520
 [CLS] Budapest Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a a a a , .",Magyarország,0,Magyarország,0,-2.83041
+[CLS] Budapest Film [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.94463
+[CLS] Budapest Film [MASK] [MASK] található . [SEP],Színházban:2,Magyarország,0,Magyarország,0,-3.22264
+[CLS] Budapest Film [MASK] található . [SEP],##ében,Magyarország,0,Magyarország,0,-3.48686
 [CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-0.49523
-[CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] található . [SEP],közt,Magyarország,0,Magyarország,0,-1.72600
+[CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] található . [SEP],közt,Magyarország,0,Magyarország,0,-1.72599
+[CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] [MASK] található . [SEP],város között,Magyarország,0,Magyarország,0,-2.76976
+[CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] [MASK] található . [SEP],településben:2,Magyarország,0,Magyarország,0,-2.98995
+[CLS] Lukács:3 és Társa:2 ( Hungary ) [MASK] [MASK] található . [SEP],hat részén,Magyarország,0,Magyarország,0,-3.60322
 [CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],.özpontában:3,Magyarország,0,Magyarország,0,-1.98564
 [CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) [MASK] [MASK] található . [SEP],Magyarország ben,Magyarország,0,Magyarország,0,-2.50623
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.77528
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországon Magyarországon,Magyarország,0,Magyarország,0,-3.24499
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-3.37770
 [CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] [MASK] [MASK] található . [SEP],alaözpontában:3,Magyarország,0,Magyarország,0,-1.84019
-[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-2.35078
-[CLS] ASL:2 Airlines Hungary [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.88565
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-2.35077
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] [MASK] [MASK] található . [SEP],kárében:3,Magyarország,0,Magyarország,0,-3.11926
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] található . [SEP],ma,Magyarország,0,Magyarország,0,-3.34649
+[CLS] Szilikát:3 és Kerámia:3 Anyagkutató:4 és Fejlesztő:4 Kft:2 . [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.56536
+[CLS] ASL:2 Airlines Hungary [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.88564
 [CLS] ASL:2 Airlines Hungary [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.45802
+[CLS] ASL:2 Airlines Hungary [MASK] [MASK] található . [SEP],városa:2,Magyarország,0,Magyarország,0,-2.82431
+[CLS] ASL:2 Airlines Hungary [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.08804
+[CLS] ASL:2 Airlines Hungary [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.36449
 [CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.57965
-[CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],a aa:2,Magyarország,0,Magyarország,0,-2.73691
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],a aa:2,Magyarország,0,Magyarország,0,-2.73690
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] [MASK] található . [SEP],aában:2,Magyarország,0,Magyarország,0,-3.21248
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] [MASK] található . [SEP],mae:2,Magyarország,0,Magyarország,0,-3.35614
+[CLS] MOL:2 Petrolkémia:4 Zrt:2 . [MASK] [MASK] található . [SEP],k is,Magyarország,0,Magyarország,0,-3.42278
 [CLS] Szegedi:2 Közlekedési:5 Társaság [MASK] található . [SEP],##a,Magyarország,0,Magyarország,0,-1.42894
 [CLS] Szegedi:2 Közlekedési:5 Társaság [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.05200
+[CLS] Szegedi:2 Közlekedési:5 Társaság [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.95363
+[CLS] Szegedi:2 Közlekedési:5 Társaság [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.04025
+[CLS] Szegedi:2 Közlekedési:5 Társaság [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-3.65587
 [CLS] Borsodi:3 Sörgyár:4 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Bo Borso:2 Bo Borsoben:3,Magyarország,0,Magyarország,0,-1.46415
 [CLS] Borsodi:3 Sörgyár:4 Kft:2 . [MASK] [MASK] található . [SEP],alaában:2,Magyarország,0,Magyarország,0,-2.55078
+[CLS] Borsodi:3 Sörgyár:4 Kft:2 . [MASK] [MASK] található . [SEP],kében:2,Magyarország,0,Magyarország,0,-2.93090
+[CLS] Borsodi:3 Sörgyár:4 Kft:2 . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.08315
+[CLS] Borsodi:3 Sörgyár:4 Kft:2 . [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.26729
 [CLS] Gaijin:3 Entertainment [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. a a a a an:2,Magyarország,0,Magyarország,0,-2.20977
-[CLS] Gaijin:3 Entertainment [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a . . . . - a,Magyarország,0,Magyarország,0,-2.71252
+[CLS] Gaijin:3 Entertainment [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a . . . . - a,Magyarország,0,Magyarország,0,-2.71251
+[CLS] Gaijin:3 Entertainment [MASK] [MASK] található . [SEP],hivatalosa:2,Magyarország,0,Magyarország,0,-3.16757
+[CLS] Gaijin:3 Entertainment [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Ad:2 . .g:2 az azd:2 .,Magyarország,0,Magyarország,0,-3.49046
+[CLS] Gaijin:3 Entertainment [MASK] [MASK] található . [SEP],alae:2,Magyarország,0,Magyarország,0,-3.75749
 [CLS] Vertigo:2 Média:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.23046
 [CLS] Vertigo:2 Média:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". . . a a , .",Magyarország,0,Magyarország,0,-2.64012
+[CLS] Vertigo:2 Média:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , , a ,",Magyarország,0,Magyarország,0,-3.07728
+[CLS] Vertigo:2 Média:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],A az az az az azában:2,Magyarország,0,Magyarország,0,-3.52752
+[CLS] Vertigo:2 Média:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.69577
 [CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-0.38319
-[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] [MASK] található . [SEP],- t,Magyarország,0,Magyarország,0,-2.31399
-[CLS] Vichem:2 Chemie ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-2.08760
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] [MASK] található . [SEP],- t,Magyarország,0,Magyarország,0,-2.31398
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a A , a a a , .ban:2",Magyarország,0,Magyarország,0,-3.44710
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a az az - az az az az azában:2,Magyarország,0,Magyarország,0,-3.87716
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"The , , az A A A Ak:2 itt",Magyarország,0,Magyarország,0,-4.12316
+[CLS] Vichem:2 Chemie ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-2.08759
 [CLS] Vichem:2 Chemie ( Hungary ) [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-2.93367
+[CLS] Vichem:2 Chemie ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.07621
+[CLS] Vichem:2 Chemie ( Hungary ) [MASK] [MASK] található . [SEP],aja:2,Magyarország,0,Magyarország,0,-3.37141
+[CLS] Vichem:2 Chemie ( Hungary ) [MASK] [MASK] található . [SEP],ala ma,Magyarország,0,Magyarország,0,-3.55790
 [CLS] Magyarhoni:3 Földtani:3 Társulat:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.72891
 [CLS] Magyarhoni:3 Földtani:3 Társulat:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.78011
+[CLS] Magyarhoni:3 Földtani:3 Társulat:3 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.78397
+[CLS] Magyarhoni:3 Földtani:3 Társulat:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.00389
+[CLS] Magyarhoni:3 Földtani:3 Társulat:3 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.53088
 [CLS] Filmservice:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.90041
 [CLS] Filmservice:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.31282
+[CLS] Filmservice:3 [MASK] [MASK] található . [SEP],##i nem,Magyarország,0,Magyarország,0,-3.04914
+[CLS] Filmservice:3 [MASK] található . [SEP],##i,Magyarország,0,Magyarország,0,-3.18631
+[CLS] Filmservice:3 [MASK] található . [SEP],##t,Magyarország,0,Magyarország,0,-3.59409
 [CLS] Inforg:2 - M & M Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .kban:2,Magyarország,0,Magyarország,0,-2.28451
 [CLS] Inforg:2 - M & M Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". a . . a . . ,kban:2",Magyarország,0,Magyarország,0,-2.73378
+[CLS] Inforg:2 - M & M Film [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , , , , a Magyarországon",Magyarország,0,Magyarország,0,-2.94841
+[CLS] Inforg:2 - M & M Film [MASK] [MASK] található . [SEP],##helye itt,Magyarország,0,Magyarország,0,-3.49685
+[CLS] Inforg:2 - M & M Film [MASK] [MASK] található . [SEP],##ek is,Magyarország,0,Magyarország,0,-3.59636
 [CLS] Auto Rad Controlle:2 Kft:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-1.75967
 [CLS] Auto Rad Controlle:2 Kft:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.51304
+[CLS] Auto Rad Controlle:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a az az az az a . a az .,Magyarország,0,Magyarország,0,-2.81066
+[CLS] Auto Rad Controlle:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a A , , , , , ,ában:2",Magyarország,0,Magyarország,0,-3.20428
+[CLS] Auto Rad Controlle:2 Kft:2 . [MASK] [MASK] található . [SEP],cég is,Magyarország,0,Magyarország,0,-3.66218
 [CLS] Varga Stúdió:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.39685
 [CLS] Varga Stúdió:3 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-1.70785
-[CLS] Big Bang Media [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.83863
+[CLS] Varga Stúdió:3 [MASK] található . [SEP],##kban,Magyarország,0,Magyarország,0,-2.67221
+[CLS] Varga Stúdió:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.30317
+[CLS] Varga Stúdió:3 [MASK] található . [SEP],##jában,Magyarország,0,Magyarország,0,-3.36402
+[CLS] Big Bang Media [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.83862
 [CLS] Big Bang Media [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , a an:2",Magyarország,0,Magyarország,0,-2.75599
+[CLS] Big Bang Media [MASK] található . [SEP],és,Magyarország,0,Magyarország,0,-2.93605
+[CLS] Big Bang Media [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.08077
+[CLS] Big Bang Media [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.30456
 [CLS] Innomed:3 Medical [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.91396
-[CLS] Innomed:3 Medical [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", . a , -ában:2",Magyarország,0,Magyarország,0,-2.97327
+[CLS] Innomed:3 Medical [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", . a , -ában:2",Magyarország,0,Magyarország,0,-2.97326
+[CLS] Innomed:3 Medical [MASK] [MASK] található . [SEP],Hospitalában:2,Magyarország,0,Magyarország,0,-3.16838
+[CLS] Innomed:3 Medical [MASK] [MASK] található . [SEP],College néven,Magyarország,0,Magyarország,0,-3.42217
+[CLS] Innomed:3 Medical [MASK] található . [SEP],Hospital,Magyarország,0,Magyarország,0,-3.54680
 [CLS] CityLine:3 Hungary [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.30531
 [CLS] CityLine:3 Hungary [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.98892
+[CLS] CityLine:3 Hungary [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.22416
+[CLS] CityLine:3 Hungary [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.42021
+[CLS] CityLine:3 Hungary [MASK] található . [SEP],##iában,Magyarország,0,Magyarország,0,-3.57370
 [CLS] MOLTRADE:5 - Mineralimpex:4 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-0.53777
 [CLS] MOLTRADE:5 - Mineralimpex:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"- . . . . . , , .kban:2",Magyarország,0,Magyarország,0,-3.21398
+[CLS] MOLTRADE:5 - Mineralimpex:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a az az az az az az . Magyarországában:2,Magyarország,0,Magyarország,0,-3.38850
+[CLS] MOLTRADE:5 - Mineralimpex:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", - - , , , . az ,k:2",Magyarország,0,Magyarország,0,-3.55243
+[CLS] MOLTRADE:5 - Mineralimpex:4 [MASK] [MASK] [MASK] [MASK] található . [SEP],a -zben:3,Magyarország,0,Magyarország,0,-3.84663
 [CLS] Corvinno:3 Technology Transfer [MASK] [MASK] található . [SEP],Transfer is,Magyarország,0,Magyarország,0,-1.86194
-[CLS] Corvinno:3 Technology Transfer [MASK] [MASK] található . [SEP],Centerában:2,Magyarország,0,Magyarország,0,-2.66225
+[CLS] Corvinno:3 Technology Transfer [MASK] [MASK] található . [SEP],Centerában:2,Magyarország,0,Magyarország,0,-2.66224
+[CLS] Corvinno:3 Technology Transfer [MASK] található . [SEP],Technology,Magyarország,0,Magyarország,0,-3.21340
+[CLS] Corvinno:3 Technology Transfer [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"A az az , , az az , ,",Magyarország,0,Magyarország,0,-3.50808
+[CLS] Corvinno:3 Technology Transfer [MASK] található . [SEP],##s,Magyarország,0,Magyarország,0,-3.60775
 [CLS] Argumentum:4 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],kiadásában:2,Magyarország,0,Magyarország,0,-1.45134
 [CLS] Argumentum:4 Kiadó ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.73717
+[CLS] Argumentum:4 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],Kiadóa:2,Magyarország,0,Magyarország,0,-2.99195
+[CLS] Argumentum:4 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],könyv Magyarországon,Magyarország,0,Magyarország,0,-3.04574
+[CLS] Argumentum:4 Kiadó ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.14729
 [CLS] ProDSP:3 Technologies ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-1.91934
 [CLS] ProDSP:3 Technologies ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],. Magyarország ben,Magyarország,0,Magyarország,0,-2.85918
+[CLS] ProDSP:3 Technologies ( Hungary ) [MASK] [MASK] található . [SEP],.e:2,Magyarország,0,Magyarország,0,-3.17733
+[CLS] ProDSP:3 Technologies ( Hungary ) [MASK] található . [SEP],),Magyarország,0,Magyarország,0,-3.25762
+[CLS] ProDSP:3 Technologies ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.34431
 [CLS] Meditop:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.96190
 [CLS] Meditop:2 ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.60609
+[CLS] Meditop:2 ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.91229
+[CLS] Meditop:2 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.00639
+[CLS] Meditop:2 ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.22769
 [CLS] FumoPrep:5 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-1.85581
 [CLS] FumoPrep:5 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a , , , a - )",Magyarország,0,Magyarország,0,-3.08947
+[CLS] FumoPrep:5 ( Hungary ) [MASK] [MASK] található . [SEP],a .,Magyarország,0,Magyarország,0,-3.33156
+[CLS] FumoPrep:5 ( Hungary ) [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.36803
+[CLS] FumoPrep:5 ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.37625
 [CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-1.65824
 [CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.36323
+[CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.09313
+[CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.25455
+[CLS] Egyesült Izzólámpa:4 és Villamossági:3 Rt . [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.28583
 [CLS] Roche ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],. Roche Roche,Magyarország,0,Magyarország,0,-1.57971
 [CLS] Roche ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.20120
+[CLS] Roche ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.38849
+[CLS] Roche ( Hungary ) [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-3.20102
+[CLS] Roche ( Hungary ) [MASK] [MASK] található . [SEP],",ort:2",Magyarország,0,Magyarország,0,-3.42561
 [CLS] Fényszóró:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.30112
 [CLS] Fényszóró:5 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.64683
-[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-0.22647
+[CLS] Fényszóró:5 [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-2.80847
+[CLS] Fényszóró:5 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-2.99420
+[CLS] Fényszóró:5 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.52289
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-0.22646
 [CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] [MASK] található . [SEP],-ében:2,Magyarország,0,Magyarország,0,-3.10029
-[CLS] Novartis:3 ( Hungary ) [MASK] [MASK] található . [SEP],város .,Magyarország,0,Magyarország,0,-1.99119
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] [MASK] található . [SEP],##ület területén,Magyarország,0,Magyarország,0,-3.42209
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] [MASK] található . [SEP],##ülete .,Magyarország,0,Magyarország,0,-3.62358
+[CLS] Inwatech:3 Környezetvédelmi:5 Kft:2 [MASK] [MASK] található . [SEP],##özponten:2,Magyarország,0,Magyarország,0,-3.96414
+[CLS] Novartis:3 ( Hungary ) [MASK] [MASK] található . [SEP],város .,Magyarország,0,Magyarország,0,-1.99118
 [CLS] Novartis:3 ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],", település ben",Magyarország,0,Magyarország,0,-2.81883
+[CLS] Novartis:3 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.94327
+[CLS] Novartis:3 ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.13465
+[CLS] Novartis:3 ( Hungary ) [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.16228
 [CLS] BioTalentum:4 ( Hungary ) [MASK] [MASK] található . [SEP],- nem,Magyarország,0,Magyarország,0,-1.63978
 [CLS] BioTalentum:4 ( Hungary ) [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-2.84773
+[CLS] BioTalentum:4 ( Hungary ) [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.92649
+[CLS] BioTalentum:4 ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-2.98894
+[CLS] BioTalentum:4 ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.21396
 [CLS] Slot Consulting:3 [MASK] található . [SEP],Office,Magyarország,0,Magyarország,0,-2.34993
 [CLS] Slot Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a a a a a a a akban:2,Magyarország,0,Magyarország,0,-2.80071
-[CLS] Systemexpert:3 Consulting:3 [MASK] található . [SEP],Office,Magyarország,0,Magyarország,0,-2.34398
+[CLS] Slot Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , . , -ában:2",Magyarország,0,Magyarország,0,-3.25969
+[CLS] Slot Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"। , , az az az । , ,n:2",Magyarország,0,Magyarország,0,-3.88076
+[CLS] Slot Consulting:3 [MASK] található . [SEP],House,Magyarország,0,Magyarország,0,-4.04879
+[CLS] Systemexpert:3 Consulting:3 [MASK] található . [SEP],Office,Magyarország,0,Magyarország,0,-2.34397
 [CLS] Systemexpert:3 Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a a az az . a az Magyarországben:2",Magyarország,0,Magyarország,0,-2.73187
-[CLS] Aldi:2 Süd [MASK] található . [SEP],##en,Németország,0,Németország,0,-1.44840
+[CLS] Systemexpert:3 Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a , az az . az . -ben:2",Magyarország,0,Magyarország,0,-3.03444
+[CLS] Systemexpert:3 Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"is A , , az . , az Magyarországon",Magyarország,0,Magyarország,0,-3.21914
+[CLS] Systemexpert:3 Consulting:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],- az A A A A -kában:3,Magyarország,0,Magyarország,0,-3.87219
+[CLS] Aldi:2 Süd [MASK] található . [SEP],##en,Németország,0,Németország,0,-1.44839
 [CLS] Aldi:2 Süd [MASK] található . [SEP],##ben,Németország,0,Németország,0,-1.64335
+[CLS] Aldi:2 Süd [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", annnnn:6",Németország,0,Németország,0,-3.38949
+[CLS] Aldi:2 Süd [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"##en , az ,n:2 a",Németország,0,Németország,0,-3.70599
+[CLS] Aldi:2 Süd [MASK] [MASK] található . [SEP],##erében:2,Németország,0,Németország,0,-3.91033
 [CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . [MASK] [MASK] [MASK] [MASK] található . [SEP],P Pécsában:3,Magyarország,0,Magyarország,0,-1.33000
 [CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . [MASK] [MASK] található . [SEP],ala .,Magyarország,0,Magyarország,0,-2.65587
+[CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.71287
+[CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . [MASK] [MASK] található . [SEP],szében:2,Magyarország,0,Magyarország,0,-3.04592
+[CLS] Pécsi:3 Orgonaépítő:4 Manufaktúra:4 Kft:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.41221
 [CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.53075
 [CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . [MASK] [MASK] található . [SEP],sz .,Magyarország,0,Magyarország,0,-2.70218
-[CLS] Szuro:3 Trade ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.97600
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . [MASK] [MASK] található . [SEP],alaében:2,Magyarország,0,Magyarország,0,-2.79894
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.22945
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-3.39345
+[CLS] Szuro:3 Trade ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.97599
 [CLS] Szuro:3 Trade ( Hungary ) [MASK] [MASK] [MASK] található . [SEP],A .a:2,Magyarország,0,Magyarország,0,-2.88975
+[CLS] Szuro:3 Trade ( Hungary ) [MASK] [MASK] található . [SEP],oldala:2,Magyarország,0,Magyarország,0,-3.11778
+[CLS] Szuro:3 Trade ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.32437
+[CLS] Szuro:3 Trade ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-3.37302
 [CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.96536
-[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],.ára:3,Magyarország,0,Magyarország,0,-2.87514
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],.ára:3,Magyarország,0,Magyarország,0,-2.87513
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] [MASK] található . [SEP],sza:2,Magyarország,0,Magyarország,0,-3.28017
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],sz ahelye:2,Magyarország,0,Magyarország,0,-3.51649
+[CLS] Teva:2 Gyógyszergyár:6 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],k -ja:2,Magyarország,0,Magyarország,0,-3.60684
 [CLS] Pharma:2 Patent ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.96007
 [CLS] Pharma:2 Patent ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.65020
-[CLS] Sanofi:3 ( Hungary ) [MASK] található . [SEP],megyében,Magyarország,0,Magyarország,0,-1.81689
-[CLS] Sanofi:3 ( Hungary ) [MASK] [MASK] található . [SEP],település város,Magyarország,0,Magyarország,0,-2.86146
+[CLS] Pharma:2 Patent ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.06826
+[CLS] Pharma:2 Patent ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.21625
+[CLS] Pharma:2 Patent ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.42644
+[CLS] Sanofi:3 ( Hungary ) [MASK] található . [SEP],megyében,Magyarország,0,Magyarország,0,-1.81688
+[CLS] Sanofi:3 ( Hungary ) [MASK] [MASK] található . [SEP],település város,Magyarország,0,Magyarország,0,-2.86145
+[CLS] Sanofi:3 ( Hungary ) [MASK] [MASK] található . [SEP],. településen,Magyarország,0,Magyarország,0,-3.08587
+[CLS] Sanofi:3 ( Hungary ) [MASK] található . [SEP],településen,Magyarország,0,Magyarország,0,-3.21307
+[CLS] Sanofi:3 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.24230
 [CLS] Ateknea:3 Solutions ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-1.97308
 [CLS] Ateknea:3 Solutions ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.65413
-[CLS] Balassi:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],kiadásában:2,Magyarország,0,Magyarország,0,-1.67705
+[CLS] Ateknea:3 Solutions ( Hungary ) [MASK] [MASK] található . [SEP],oldal Magyarországon,Magyarország,0,Magyarország,0,-3.22588
+[CLS] Ateknea:3 Solutions ( Hungary ) [MASK] található . [SEP],",",Magyarország,0,Magyarország,0,-3.40494
+[CLS] Ateknea:3 Solutions ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.57645
+[CLS] Balassi:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],kiadásában:2,Magyarország,0,Magyarország,0,-1.67704
 [CLS] Balassi:2 Kiadó ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.51876
+[CLS] Balassi:2 Kiadó ( Hungary ) [MASK] [MASK] található . [SEP],- Magyarországon,Magyarország,0,Magyarország,0,-2.94668
+[CLS] Balassi:2 Kiadó ( Hungary ) [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.15564
+[CLS] Balassi:2 Kiadó ( Hungary ) [MASK] található . [SEP],és,Magyarország,0,Magyarország,0,-3.21837
 [CLS] Cereal:2 Research ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-2.05961
 [CLS] Cereal:2 Research ( Hungary ) [MASK] található . [SEP],),Magyarország,0,Magyarország,0,-2.64776
-[CLS] ImmunoGenes:5 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-2.18506
+[CLS] Cereal:2 Research ( Hungary ) [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-3.00174
+[CLS] Cereal:2 Research ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-3.08478
+[CLS] Cereal:2 Research ( Hungary ) [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.30706
+[CLS] ImmunoGenes:5 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-2.18505
 [CLS] ImmunoGenes:5 ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.76039
+[CLS] ImmunoGenes:5 ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.17739
+[CLS] ImmunoGenes:5 ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.21076
+[CLS] ImmunoGenes:5 ( Hungary ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.43505
 [CLS] Raiffeisen:3 Bank ( Magyarország ) [MASK] [MASK] [MASK] található . [SEP],A városában:2,Magyarország,0,Magyarország,0,-1.26670
 [CLS] Raiffeisen:3 Bank ( Magyarország ) [MASK] [MASK] található . [SEP],Aa:2,Magyarország,0,Magyarország,0,-2.36059
+[CLS] Raiffeisen:3 Bank ( Magyarország ) [MASK] [MASK] található . [SEP],-ja:2,Magyarország,0,Magyarország,0,-2.64228
+[CLS] Raiffeisen:3 Bank ( Magyarország ) [MASK] [MASK] található . [SEP],a itt,Magyarország,0,Magyarország,0,-2.99602
+[CLS] Raiffeisen:3 Bank ( Magyarország ) [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.26303
 [CLS] Johnson & Johnson ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-1.69103
-[CLS] Johnson & Johnson ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.61097
+[CLS] Johnson & Johnson ( Hungary ) [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.61096
+[CLS] Johnson & Johnson ( Hungary ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.85714
+[CLS] Johnson & Johnson ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-3.17568
+[CLS] Johnson & Johnson ( Hungary ) [MASK] [MASK] található . [SEP],a ma,Magyarország,0,Magyarország,0,-3.34614
 [CLS] Campden:2 BRI:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-2.08902
 [CLS] Campden:2 BRI:2 ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.44650
-[CLS] L ' Harmattan:3 [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.40425
+[CLS] Campden:2 BRI:2 ( Hungary ) [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-2.81825
+[CLS] Campden:2 BRI:2 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.50199
+[CLS] Campden:2 BRI:2 ( Hungary ) [MASK] található . [SEP],város,Magyarország,0,Magyarország,0,-3.61642
+[CLS] L ' Harmattan:3 [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.40424
 [CLS] L ' Harmattan:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. a . a a a a akban:2,Magyarország,0,Magyarország,0,-2.88401
+[CLS] L ' Harmattan:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.24132
+[CLS] L ' Harmattan:3 [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-3.28630
+[CLS] L ' Harmattan:3 [MASK] található . [SEP],",",Magyarország,0,Magyarország,0,-3.28960
 [CLS] Veiki:2 - VNL:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .ban:2,Magyarország,0,Magyarország,0,-2.30888
 [CLS] Veiki:2 - VNL:2 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.96390
-[CLS] Brainvest:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.87174
+[CLS] Veiki:2 - VNL:2 ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.04165
+[CLS] Veiki:2 - VNL:2 ( Hungary ) [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.22697
+[CLS] Veiki:2 - VNL:2 ( Hungary ) [MASK] található . [SEP],n,Magyarország,0,Magyarország,0,-3.23851
+[CLS] Brainvest:2 ( Hungary ) [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.87173
 [CLS] Brainvest:2 ( Hungary ) [MASK] található . [SEP],megyében,Magyarország,0,Magyarország,0,-2.60171
+[CLS] Brainvest:2 ( Hungary ) [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.95215
+[CLS] Brainvest:2 ( Hungary ) [MASK] található . [SEP],),Magyarország,0,Magyarország,0,-3.47545
+[CLS] Brainvest:2 ( Hungary ) [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.48962
 [CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-0.97475
-[CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországonában:2,Magyarország,0,Magyarország,0,-2.36658
-[CLS] Országos Földhitelintézet:6 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-0.57628
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] [MASK] található . [SEP],Magyarországonában:2,Magyarország,0,Magyarország,0,-2.36657
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] [MASK] található . [SEP],Budapesta:2,Magyarország,0,Magyarország,0,-3.00110
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] [MASK] található . [SEP],aja:2,Magyarország,0,Magyarország,0,-3.39296
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) [MASK] [MASK] található . [SEP],-ban:2,Magyarország,0,Magyarország,0,-3.62186
+[CLS] Országos Földhitelintézet:6 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-0.57627
 [CLS] Országos Földhitelintézet:6 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.51541
+[CLS] Országos Földhitelintézet:6 [MASK] [MASK] található . [SEP],##hely is,Magyarország,0,Magyarország,0,-2.90361
+[CLS] Országos Földhitelintézet:6 [MASK] [MASK] található . [SEP],szban:2,Magyarország,0,Magyarország,0,-3.14289
+[CLS] Országos Földhitelintézet:6 [MASK] [MASK] található . [SEP],részben:2,Magyarország,0,Magyarország,0,-3.17717
 [CLS] FŐMTERV:5 [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-2.16607
 [CLS] FŐMTERV:5 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a . a a a ,ában:2",Magyarország,0,Magyarország,0,-3.21490
-[CLS] RTL Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.46823
+[CLS] FŐMTERV:5 [MASK] [MASK] található . [SEP],településen:2,Magyarország,0,Magyarország,0,-3.57148
+[CLS] FŐMTERV:5 [MASK] található . [SEP],##L,Magyarország,0,Magyarország,0,-3.76245
+[CLS] FŐMTERV:5 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.90926
+[CLS] RTL Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.46822
 [CLS] RTL Magyarország [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.33240
+[CLS] RTL Magyarország [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.35442
+[CLS] RTL Magyarország [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.48677
+[CLS] RTL Magyarország [MASK] található . [SEP],##ra,Magyarország,0,Magyarország,0,-2.92246
 [CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-1.65651
 [CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.61462
+[CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . [MASK] [MASK] található . [SEP],alaében:2,Magyarország,0,Magyarország,0,-3.13134
+[CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . [MASK] [MASK] található . [SEP],sz is,Magyarország,0,Magyarország,0,-3.30044
+[CLS] MÁV:3 Magyar Államvasutak:6 Zrt:2 . [MASK] [MASK] található . [SEP],ka:2,Magyarország,0,Magyarország,0,-3.49523
 [CLS] dm:2 - drogerie:2 markt [MASK] található . [SEP],##en,Németország,0,Németország,0,-0.56018
-[CLS] dm:2 - drogerie:2 markt [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],A . . A a a az az .,Németország,0,Németország,0,-2.74482
+[CLS] dm:2 - drogerie:2 markt [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],A . . A a a az az .,Németország,0,Németország,0,-2.74481
+[CLS] dm:2 - drogerie:2 markt [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"sz A a A , , az az aban:2",Németország,0,Németország,0,-3.09858
+[CLS] dm:2 - drogerie:2 markt [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a az az , az az , , ,kban:2",Németország,0,Németország,0,-3.39987
+[CLS] dm:2 - drogerie:2 markt [MASK] található . [SEP],##nek,Németország,0,Németország,0,-3.54339
 [CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 [MASK] [MASK] található . [SEP],Magyarországon Magyarországon,Magyarország,0,Magyarország,0,-1.57791
 [CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.23967
-[CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.58582
+[CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.40649
+[CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.61386
+[CLS] A Magyarországi:2 Református:3 Egyház:2 Kálvin:3 János Kiadója:2 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-2.73235
+[CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.58581
 [CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-1.84780
+[CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.46623
+[CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],Budapesten,Magyarország,0,Magyarország,0,-3.04027
+[CLS] Magyar Távirati:3 Iroda:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.19058
 [CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.67369
 [CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.34270
+[CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.73801
+[CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 [MASK] található . [SEP],##re,Magyarország,0,Magyarország,0,-2.91110
+[CLS] Eötvös:4 Loránd:2 Tudományegyetem:6 [MASK] található . [SEP],##ében,Magyarország,0,Magyarország,0,-3.11035
 [CLS] Gerbaud:3 - ház [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.35761
 [CLS] Gerbaud:3 - ház [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.98832
+[CLS] Gerbaud:3 - ház [MASK] található . [SEP],##a,Magyarország,0,Magyarország,0,-2.19971
+[CLS] Gerbaud:3 - ház [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.03696
+[CLS] Gerbaud:3 - ház [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.59482
 [CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.67600
 [CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . [MASK] [MASK] található . [SEP],épületában:2,Magyarország,0,Magyarország,0,-2.78136
+[CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.04758
+[CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . [MASK] található . [SEP],benne,Magyarország,0,Magyarország,0,-3.24761
+[CLS] MOL:2 Magyar Olaj:2 - és Gázipari:3 Nyrt:2 . [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.45670
 [CLS] Bába:2 Kiadó [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-1.92816
-[CLS] Bába:2 Kiadó [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.68778
+[CLS] Bába:2 Kiadó [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.68777
+[CLS] Bába:2 Kiadó [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.88912
+[CLS] Bába:2 Kiadó [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.28185
+[CLS] Bába:2 Kiadó [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.28885
 [CLS] Cherubion:3 Kiadó [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . .ban:2,Magyarország,0,Magyarország,0,-2.34321
-[CLS] Cherubion:3 Kiadó [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.84285
+[CLS] Cherubion:3 Kiadó [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.84284
+[CLS] Cherubion:3 Kiadó [MASK] található . [SEP],##nál,Magyarország,0,Magyarország,0,-2.92773
+[CLS] Cherubion:3 Kiadó [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.95650
+[CLS] Cherubion:3 Kiadó [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.11332
 [CLS] CBA:2 [MASK] [MASK] található . [SEP],- ban,Magyarország,0,Magyarország,0,-1.58341
 [CLS] CBA:2 [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-2.62703
+[CLS] CBA:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.90577
+[CLS] CBA:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.09084
+[CLS] CBA:2 [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.13261
 [CLS] Főtaxi:4 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.78999
 [CLS] Főtaxi:4 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". a a a , , -ban:2",Magyarország,0,Magyarország,0,-2.96750
+[CLS] Főtaxi:4 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az , , , a a , ben",Magyarország,0,Magyarország,0,-3.23323
+[CLS] Főtaxi:4 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.33485
+[CLS] Főtaxi:4 Zrt:2 . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.43536
 [CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.45955
 [CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 [MASK] található . [SEP],##i,Magyarország,0,Magyarország,0,-2.64109
+[CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.65283
+[CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.00928
+[CLS] Ganz:2 Közlekedési:5 Mérőműszerek:7 Gyára:3 [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-3.29950
 [CLS] HVG:3 - ORAC:2 [MASK] [MASK] található . [SEP],##INban:2,Magyarország,0,Magyarország,0,-1.02983
-[CLS] HVG:3 - ORAC:2 [MASK] [MASK] található . [SEP],##In:2,Magyarország,0,Magyarország,0,-2.75411
-[CLS] Kner:2 nyomda:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-0.60823
+[CLS] HVG:3 - ORAC:2 [MASK] [MASK] található . [SEP],##In:2,Magyarország,0,Magyarország,0,-2.75410
+[CLS] HVG:3 - ORAC:2 [MASK] található . [SEP],##ON,Magyarország,0,Magyarország,0,-2.89691
+[CLS] HVG:3 - ORAC:2 [MASK] található . [SEP],##E,Magyarország,0,Magyarország,0,-2.90159
+[CLS] HVG:3 - ORAC:2 [MASK] található . [SEP],##I,Magyarország,0,Magyarország,0,-2.98909
+[CLS] Kner:2 nyomda:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-0.60822
 [CLS] Kner:2 nyomda:3 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.53885
+[CLS] Kner:2 nyomda:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". az az , , , -ben:2",Magyarország,0,Magyarország,0,-3.11717
+[CLS] Kner:2 nyomda:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , az az sz aen:2",Magyarország,0,Magyarország,0,-3.46799
+[CLS] Kner:2 nyomda:3 [MASK] [MASK] található . [SEP],városben:2,Magyarország,0,Magyarország,0,-3.71503
 [CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-1.70339
 [CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.84710
+[CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.37234
+[CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.85497
+[CLS] Képzőművészeti:4 Alap:2 Kiadó Vállalata:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.04473
 [CLS] Magyar Magánvasút:4 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.75727
 [CLS] Magyar Magánvasút:4 Zrt:2 . [MASK] [MASK] található . [SEP],sz .,Magyarország,0,Magyarország,0,-2.68292
+[CLS] Magyar Magánvasút:4 Zrt:2 . [MASK] [MASK] található . [SEP],részében:2,Magyarország,0,Magyarország,0,-2.92522
+[CLS] Magyar Magánvasút:4 Zrt:2 . [MASK] [MASK] található . [SEP],ala ben,Magyarország,0,Magyarország,0,-3.24893
+[CLS] Magyar Magánvasút:4 Zrt:2 . [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-3.40597
 [CLS] Magyar Siemens - Schuckert:4 Művek:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-0.73028
 [CLS] Magyar Siemens - Schuckert:4 Művek:3 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.74027
+[CLS] Magyar Siemens - Schuckert:4 Művek:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a Magyar Magyar , a a Magyar .ben:2",Magyarország,0,Magyarország,0,-3.18827
+[CLS] Magyar Siemens - Schuckert:4 Művek:3 [MASK] [MASK] található . [SEP],Rt tagja,Magyarország,0,Magyarország,0,-3.39435
+[CLS] Magyar Siemens - Schuckert:4 Művek:3 [MASK] található . [SEP],##ében,Magyarország,0,Magyarország,0,-3.58045
 [CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.34401
 [CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 [MASK] található . [SEP],##i,Magyarország,0,Magyarország,0,-1.62032
+[CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 [MASK] található . [SEP],##k,Magyarország,0,Magyarország,0,-3.10151
+[CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 [MASK] [MASK] található . [SEP],##ja is,Magyarország,0,Magyarország,0,-3.42507
+[CLS] Marx és Mérei:3 Tudományos Műszerek:4 Gyára:3 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.65298
 [CLS] Beol:2 . hu [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . .ban:2,Magyarország,0,Magyarország,0,-1.49986
 [CLS] Beol:2 . hu [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-1.98628
+[CLS] Beol:2 . hu [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.10080
+[CLS] Beol:2 . hu [MASK] található . [SEP],nyelven,Magyarország,0,Magyarország,0,-2.59416
+[CLS] Beol:2 . hu [MASK] található . [SEP],oldalán,Magyarország,0,Magyarország,0,-3.25375
 [CLS] Révai:3 Testvérek:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a . . . . . .ban:2,Magyarország,0,Magyarország,0,-2.04640
 [CLS] Révai:3 Testvérek:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.51233
+[CLS] Révai:3 Testvérek:3 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.80525
+[CLS] Révai:3 Testvérek:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.93955
+[CLS] Révai:3 Testvérek:3 [MASK] található . [SEP],##nek,Magyarország,0,Magyarország,0,-3.14753
 [CLS] Dunai:2 Vasmű:3 [MASK] található . [SEP],##hely,Magyarország,0,Magyarország,0,-1.00165
 [CLS] Dunai:2 Vasmű:3 [MASK] található . [SEP],##vek,Magyarország,0,Magyarország,0,-1.90718
+[CLS] Dunai:2 Vasmű:3 [MASK] található . [SEP],##ve,Magyarország,0,Magyarország,0,-2.05484
+[CLS] Dunai:2 Vasmű:3 [MASK] található . [SEP],##helye,Magyarország,0,Magyarország,0,-2.50224
+[CLS] Dunai:2 Vasmű:3 [MASK] található . [SEP],##vel,Magyarország,0,Magyarország,0,-2.67246
 [CLS] Délmagyarország:7 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.59862
 [CLS] Délmagyarország:7 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.25739
+[CLS] Délmagyarország:7 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-2.88646
+[CLS] Délmagyarország:7 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.27828
+[CLS] Délmagyarország:7 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.48636
 [CLS] Első Magyar Cérnagyár:5 [MASK] [MASK] található . [SEP],itt itt,Magyarország,0,Magyarország,0,-1.36698
-[CLS] Első Magyar Cérnagyár:5 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-1.66154
+[CLS] Első Magyar Cérnagyár:5 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-1.66153
+[CLS] Első Magyar Cérnagyár:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.64347
+[CLS] Első Magyar Cérnagyár:5 [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-3.19161
+[CLS] Első Magyar Cérnagyár:5 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.35085
 [CLS] Graboplast:3 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.93765
 [CLS] Graboplast:3 Zrt:2 . [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-2.69693
-[CLS] Kossuth Kiadó [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.97842
+[CLS] Graboplast:3 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"A az a , a , az Magyarországon",Magyarország,0,Magyarország,0,-2.94080
+[CLS] Graboplast:3 Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.06853
+[CLS] Graboplast:3 Zrt:2 . [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-3.43533
+[CLS] Kossuth Kiadó [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.97841
 [CLS] Kossuth Kiadó [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az a a . Magyarországon,Magyarország,0,Magyarország,0,-2.67631
-[CLS] Rába:2 Járműipari:5 Holding [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.16237
+[CLS] Kossuth Kiadó [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.87124
+[CLS] Kossuth Kiadó [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.00458
+[CLS] Kossuth Kiadó [MASK] található . [SEP],kiadás,Magyarország,0,Magyarország,0,-3.03324
+[CLS] Rába:2 Járműipari:5 Holding [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.16236
 [CLS] Rába:2 Járműipari:5 Holding [MASK] [MASK] található . [SEP],épületa:2,Magyarország,0,Magyarország,0,-2.87587
+[CLS] Rába:2 Járműipari:5 Holding [MASK] [MASK] található . [SEP],##özpontében:2,Magyarország,0,Magyarország,0,-3.00009
+[CLS] Rába:2 Járműipari:5 Holding [MASK] található . [SEP],##a,Magyarország,0,Magyarország,0,-3.22628
+[CLS] Rába:2 Járműipari:5 Holding [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-3.41049
 [CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.62715
-[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.38145
-[CLS] Magyar Kurír:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.86073
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.38144
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-2.69598
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-2.96548
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.98367
+[CLS] Magyar Kurír:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.86072
 [CLS] Magyar Kurír:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.31130
+[CLS] Magyar Kurír:2 [MASK] [MASK] található . [SEP],##banben:2,Magyarország,0,Magyarország,0,-2.72692
+[CLS] Magyar Kurír:2 [MASK] [MASK] [MASK] található . [SEP],##iaözpont:2 ban,Magyarország,0,Magyarország,0,-3.70465
+[CLS] Magyar Kurír:2 [MASK] [MASK] [MASK] található . [SEP],a Budapestben:2,Magyarország,0,Magyarország,0,-3.81824
 [CLS] Semmelweis:3 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.32630
 [CLS] Semmelweis:3 Egyetem [MASK] [MASK] található . [SEP],##i itt,Magyarország,0,Magyarország,0,-2.78566
+[CLS] Semmelweis:3 Egyetem [MASK] [MASK] található . [SEP],##en városban,Magyarország,0,Magyarország,0,-2.93813
+[CLS] Semmelweis:3 Egyetem [MASK] [MASK] található . [SEP],-en:2,Magyarország,0,Magyarország,0,-3.27838
+[CLS] Semmelweis:3 Egyetem [MASK] [MASK] található . [SEP],épület is,Magyarország,0,Magyarország,0,-3.51398
 [CLS] Szegedi:2 Tudományegyetem:6 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Szeged Szeged Szeged Szeged Szegedában:2,Magyarország,0,Magyarország,0,-1.69354
 [CLS] Szegedi:2 Tudományegyetem:6 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.55838
+[CLS] Szegedi:2 Tudományegyetem:6 [MASK] található . [SEP],##re,Magyarország,0,Magyarország,0,-2.69596
+[CLS] Szegedi:2 Tudományegyetem:6 [MASK] [MASK] található . [SEP],Debrecene:2,Magyarország,0,Magyarország,0,-3.14775
+[CLS] Szegedi:2 Tudományegyetem:6 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.28239
 [CLS] Blikk:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.55681
-[CLS] Blikk:3 [MASK] [MASK] található . [SEP],megyeen:2,Magyarország,0,Magyarország,0,-2.78575
+[CLS] Blikk:3 [MASK] [MASK] található . [SEP],megyeen:2,Magyarország,0,Magyarország,0,-2.78574
+[CLS] Blikk:3 [MASK] található . [SEP],megyében,Magyarország,0,Magyarország,0,-3.41344
+[CLS] Blikk:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.41595
+[CLS] Blikk:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.41691
 [CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.61077
 [CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . [MASK] [MASK] található . [SEP],ala .,Magyarország,0,Magyarország,0,-2.72972
+[CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.02965
+[CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.05618
+[CLS] BKK:2 Budapesti Közlekedési:5 Központ:2 Zrt:2 . [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.29723
 [CLS] Richter Gedeon:3 Nyrt:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-1.79783
 [CLS] Richter Gedeon:3 Nyrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. a az az az az a azzent:2 .,Magyarország,0,Magyarország,0,-2.70359
-[CLS] Budapesti Corvinus:3 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.59502
-[CLS] Budapesti Corvinus:3 Egyetem [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az a . , a a , ,ben:2",Magyarország,0,Magyarország,0,-2.76229
+[CLS] Richter Gedeon:3 Nyrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a az a a a a az a azben:2,Magyarország,0,Magyarország,0,-2.88744
+[CLS] Richter Gedeon:3 Nyrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a sz , , az az , , Magyarországon",Magyarország,0,Magyarország,0,-3.34482
+[CLS] Richter Gedeon:3 Nyrt:2 . [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-3.51790
+[CLS] Budapesti Corvinus:3 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.59501
+[CLS] Budapesti Corvinus:3 Egyetem [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az a . , a a , ,ben:2",Magyarország,0,Magyarország,0,-2.76228
+[CLS] Budapesti Corvinus:3 Egyetem [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". , a a , , a Budapestre:2",Magyarország,0,Magyarország,0,-2.97237
+[CLS] Budapesti Corvinus:3 Egyetem [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Budapest - az Budapest Budapest Budapest Budapest -kban:2,Magyarország,0,Magyarország,0,-3.25575
+[CLS] Budapesti Corvinus:3 Egyetem [MASK] [MASK] található . [SEP],Debrecen városban,Magyarország,0,Magyarország,0,-3.49651
 [CLS] Fórum:3 Hungary [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.87318
 [CLS] Fórum:3 Hungary [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.53659
+[CLS] Fórum:3 Hungary [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.45872
+[CLS] Fórum:3 Hungary [MASK] [MASK] található . [SEP],város is,Magyarország,0,Magyarország,0,-3.43805
+[CLS] Fórum:3 Hungary [MASK] [MASK] [MASK] [MASK] található . [SEP],. .écsében:3,Magyarország,0,Magyarország,0,-3.57676
 [CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.29332
 [CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem [MASK] [MASK] [MASK] található . [SEP],Budapestváros:2 ban,Magyarország,0,Magyarország,0,-2.72787
+[CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem [MASK] [MASK] [MASK] található . [SEP],sz Budapesten:2,Magyarország,0,Magyarország,0,-3.11582
+[CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem [MASK] [MASK] található . [SEP],város ban,Magyarország,0,Magyarország,0,-3.23008
+[CLS] Budapesti Műszaki:2 és Gazdaságtudományi:5 Egyetem [MASK] [MASK] található . [SEP],Budapestán:2,Magyarország,0,Magyarország,0,-3.32834
 [CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.13134
 [CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.09052
+[CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 [MASK] található . [SEP],##jában,Magyarország,0,Magyarország,0,-2.55323
+[CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.12076
+[CLS] Médiaszolgáltatás:7 - támogató:3 és Vagyonkezelő:6 Alap:2 [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.51334
 [CLS] Singer és Wolfner:2 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-1.49913
 [CLS] Singer és Wolfner:2 [MASK] [MASK] található . [SEP],település is,Magyarország,0,Magyarország,0,-2.69771
+[CLS] Singer és Wolfner:2 [MASK] található . [SEP],közt,Magyarország,0,Magyarország,0,-2.96713
+[CLS] Singer és Wolfner:2 [MASK] található . [SEP],város,Magyarország,0,Magyarország,0,-3.23518
+[CLS] Singer és Wolfner:2 [MASK] [MASK] [MASK] található . [SEP],a -ában:2,Magyarország,0,Magyarország,0,-3.75721
 [CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.25210
-[CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.79448
+[CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.79447
+[CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.15991
+[CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],Budapesten,Magyarország,0,Magyarország,0,-3.34657
+[CLS] Állami:3 Nyomda:3 [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-3.67394
 [CLS] Ganz:2 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.21284
 [CLS] Ganz:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.44273
-[CLS] A Szabadság:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.26260
+[CLS] Ganz:2 [MASK] található . [SEP],tartományban,Magyarország,0,Magyarország,0,-2.76250
+[CLS] Ganz:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.82993
+[CLS] Ganz:2 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.47673
+[CLS] A Szabadság:4 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.26259
 [CLS] A Szabadság:4 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.51563
+[CLS] A Szabadság:4 [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.06268
+[CLS] A Szabadság:4 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.20351
+[CLS] A Szabadság:4 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.48213
 [CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.36216
-[CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-1.74754
-[CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.67740
+[CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-1.74753
+[CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.43390
+[CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-3.31586
+[CLS] Ajkai:3 Timföldgyár:5 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-3.40476
+[CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.67739
 [CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] [MASK] található . [SEP],is .,Magyarország,0,Magyarország,0,-2.53660
+[CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] [MASK] található . [SEP],alaa:2,Magyarország,0,Magyarország,0,-2.88092
+[CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] [MASK] található . [SEP],sz is,Magyarország,0,Magyarország,0,-3.20888
+[CLS] Magyar Pénzverő:4 Zrt:2 . [MASK] [MASK] található . [SEP],részja:2,Magyarország,0,Magyarország,0,-3.44544
 [CLS] Miskolci:3 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.19779
 [CLS] Miskolci:3 Egyetem [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az . . . -ában:2,Magyarország,0,Magyarország,0,-2.82014
+[CLS] Miskolci:3 Egyetem [MASK] [MASK] található . [SEP],##iében:2,Magyarország,0,Magyarország,0,-3.04355
+[CLS] Miskolci:3 Egyetem [MASK] [MASK] található . [SEP],épületen:2,Magyarország,0,Magyarország,0,-3.14846
+[CLS] Miskolci:3 Egyetem [MASK] [MASK] található . [SEP],kerül ban,Magyarország,0,Magyarország,0,-3.43345
 [CLS] Volánbusz:4 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-0.58666
 [CLS] Volánbusz:4 [MASK] [MASK] található . [SEP],##helye is,Magyarország,0,Magyarország,0,-2.39449
+[CLS] Volánbusz:4 [MASK] [MASK] található . [SEP],vasútállomás településen,Magyarország,0,Magyarország,0,-2.82420
+[CLS] Volánbusz:4 [MASK] [MASK] található . [SEP],- városban,Magyarország,0,Magyarország,0,-3.04808
+[CLS] Volánbusz:4 [MASK] [MASK] található . [SEP],##helya:2,Magyarország,0,Magyarország,0,-3.35196
 [CLS] Travel Service Hungary [MASK] [MASK] található . [SEP],- ben,Magyarország,0,Magyarország,0,-1.29835
-[CLS] Travel Service Hungary [MASK] [MASK] található . [SEP],.ában:2,Magyarország,0,Magyarország,0,-2.60126
-[CLS] Pick Szeged Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.67075
-[CLS] Pick Szeged Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.16881
+[CLS] Travel Service Hungary [MASK] [MASK] található . [SEP],.ában:2,Magyarország,0,Magyarország,0,-2.60125
+[CLS] Travel Service Hungary [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.10226
+[CLS] Travel Service Hungary [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a - az az azben:2,Magyarország,0,Magyarország,0,-3.49434
+[CLS] Travel Service Hungary [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-3.73252
+[CLS] Pick Szeged Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.67074
+[CLS] Pick Szeged Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.16880
+[CLS] Pick Szeged Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a a a , Budapestben:2",Magyarország,0,Magyarország,0,-3.24148
+[CLS] Pick Szeged Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az , a ,kban:2",Magyarország,0,Magyarország,0,-3.49196
+[CLS] Pick Szeged Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.53455
 [CLS] Digic:2 Pictures [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.80872
 [CLS] Digic:2 Pictures [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-2.55058
-[CLS] Egis:2 Nyrt:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-1.64346
-[CLS] Egis:2 Nyrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az a a a a a a .,Magyarország,0,Magyarország,0,-2.77841
+[CLS] Digic:2 Pictures [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.05666
+[CLS] Digic:2 Pictures [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-3.33402
+[CLS] Digic:2 Pictures [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.48307
+[CLS] Egis:2 Nyrt:2 . [MASK] [MASK] található . [SEP],- .,Magyarország,0,Magyarország,0,-1.64345
+[CLS] Egis:2 Nyrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az a a a a a a .,Magyarország,0,Magyarország,0,-2.77840
+[CLS] Egis:2 Nyrt:2 . [MASK] található . [SEP],-,Magyarország,0,Magyarország,0,-2.90527
+[CLS] Egis:2 Nyrt:2 . [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.94809
+[CLS] Egis:2 Nyrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.95927
 [CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.91529
-[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.61308
-[CLS] Magyar Posta:2 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.81306
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.61307
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-2.75825
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.81710
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.13785
+[CLS] Magyar Posta:2 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.81305
 [CLS] Magyar Posta:2 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.85748
+[CLS] Magyar Posta:2 Zrt:2 . [MASK] [MASK] található . [SEP],isa:2,Magyarország,0,Magyarország,0,-3.18866
+[CLS] Magyar Posta:2 Zrt:2 . [MASK] [MASK] található . [SEP],ke:2,Magyarország,0,Magyarország,0,-3.39252
+[CLS] Magyar Posta:2 Zrt:2 . [MASK] [MASK] található . [SEP],részében:2,Magyarország,0,Magyarország,0,-3.51387
 [CLS] Pázmány:3 Péter Katolikus:2 Egyetem [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-0.61772
 [CLS] Pázmány:3 Péter Katolikus:2 Egyetem [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-2.64108
+[CLS] Pázmány:3 Péter Katolikus:2 Egyetem [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.20934
+[CLS] Pázmány:3 Péter Katolikus:2 Egyetem [MASK] [MASK] található . [SEP],Debrecene:2,Magyarország,0,Magyarország,0,-3.35008
+[CLS] Pázmány:3 Péter Katolikus:2 Egyetem [MASK] [MASK] található . [SEP],-a:2,Magyarország,0,Magyarország,0,-3.56564
 [CLS] Magyar Suzuki Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.85445
 [CLS] Magyar Suzuki Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.60609
+[CLS] Magyar Suzuki Zrt:2 . [MASK] [MASK] található . [SEP],ise:2,Magyarország,0,Magyarország,0,-3.14751
+[CLS] Magyar Suzuki Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.26639
+[CLS] Magyar Suzuki Zrt:2 . [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.38315
 [CLS] Magyar Telekom:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-2.08731
 [CLS] Magyar Telekom:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , . a -ában:2",Magyarország,0,Magyarország,0,-2.96366
+[CLS] Magyar Telekom:2 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.97017
+[CLS] Magyar Telekom:2 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.27373
+[CLS] Magyar Telekom:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.31932
 [CLS] Alexandra Kiadó [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.17034
 [CLS] Alexandra Kiadó [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Kiadó . . . Magyarországon,Magyarország,0,Magyarország,0,-2.71796
+[CLS] Alexandra Kiadó [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.94035
+[CLS] Alexandra Kiadó [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.96500
+[CLS] Alexandra Kiadó [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-3.10588
 [CLS] Gramy:2 Records [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-1.43383
 [CLS] Gramy:2 Records [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a a a a akban:2,Magyarország,0,Magyarország,0,-2.53997
+[CLS] Gramy:2 Records [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , az itt",Magyarország,0,Magyarország,0,-2.99267
+[CLS] Gramy:2 Records [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az az az , a",Magyarország,0,Magyarország,0,-3.39578
+[CLS] Gramy:2 Records [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-3.43558
 [CLS] InterCom:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],##m a -ában:2,Magyarország,0,Magyarország,0,-2.51637
 [CLS] InterCom:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"##mun , , , ,ában:2",Magyarország,0,Magyarország,0,-2.96426
+[CLS] InterCom:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". a a a a ,",Magyarország,0,Magyarország,0,-3.22207
+[CLS] InterCom:3 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.44111
+[CLS] InterCom:3 [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.61997
 [CLS] Danubius:3 Hotels [MASK] [MASK] [MASK] található . [SEP],a -ában:2,Magyarország,0,Magyarország,0,-2.22055
 [CLS] Danubius:3 Hotels [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"a a , a a a ben",Magyarország,0,Magyarország,0,-2.98042
+[CLS] Danubius:3 Hotels [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a , , ,n:2",Magyarország,0,Magyarország,0,-3.15868
+[CLS] Danubius:3 Hotels [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.58107
+[CLS] Danubius:3 Hotels [MASK] található . [SEP],",",Magyarország,0,Magyarország,0,-3.62400
 [CLS] Hajdú:3 Volán:2 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.61331
 [CLS] Hajdú:3 Volán:2 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-2.67720
+[CLS] Hajdú:3 Volán:2 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-2.75257
+[CLS] Hajdú:3 Volán:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.25274
+[CLS] Hajdú:3 Volán:2 [MASK] [MASK] található . [SEP],##jánán:2,Magyarország,0,Magyarország,0,-3.98964
 [CLS] Budapest Aircraft Service [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . .,Magyarország,0,Magyarország,0,-1.47651
 [CLS] Budapest Aircraft Service [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a a .ában:2",Magyarország,0,Magyarország,0,-3.00634
+[CLS] Budapest Aircraft Service [MASK] található . [SEP],##ében,Magyarország,0,Magyarország,0,-3.22645
+[CLS] Budapest Aircraft Service [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.45352
+[CLS] Budapest Aircraft Service [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.57188
 [CLS] Dreher:2 Sörgyárak:5 [MASK] [MASK] található . [SEP],##özpontában:2,Magyarország,0,Magyarország,0,-2.11141
-[CLS] Dreher:2 Sörgyárak:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.45755
+[CLS] Dreher:2 Sörgyárak:5 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.45754
+[CLS] Dreher:2 Sörgyárak:5 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.52031
+[CLS] Dreher:2 Sörgyárak:5 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.75572
+[CLS] Dreher:2 Sörgyárak:5 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.91460
 [CLS] OTP:2 Bank [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-1.31857
 [CLS] OTP:2 Bank [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.00467
+[CLS] OTP:2 Bank [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-2.42840
+[CLS] OTP:2 Bank [MASK] található . [SEP],##ében,Magyarország,0,Magyarország,0,-2.95177
+[CLS] OTP:2 Bank [MASK] [MASK] található . [SEP],##éa:2,Magyarország,0,Magyarország,0,-3.45006
 [CLS] Magvető:2 Könyvkiadó:3 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-1.92177
 [CLS] Magvető:2 Könyvkiadó:3 [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-2.65617
+[CLS] Magvető:2 Könyvkiadó:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.91341
+[CLS] Magvető:2 Könyvkiadó:3 [MASK] [MASK] található . [SEP],Magyarországa:2,Magyarország,0,Magyarország,0,-3.31963
+[CLS] Magvető:2 Könyvkiadó:3 [MASK] [MASK] található . [SEP],##i Magyarországon,Magyarország,0,Magyarország,0,-3.39754
 [CLS] Nemzeti Sport [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.27328
-[CLS] Nemzeti Sport [MASK] [MASK] található . [SEP],##özpontában:2,Magyarország,0,Magyarország,0,-2.61100
+[CLS] Nemzeti Sport [MASK] [MASK] található . [SEP],##özpontában:2,Magyarország,0,Magyarország,0,-2.61099
+[CLS] Nemzeti Sport [MASK] található . [SEP],##klub,Magyarország,0,Magyarország,0,-3.02212
+[CLS] Nemzeti Sport [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-3.14130
+[CLS] Nemzeti Sport [MASK] található . [SEP],##okban,Magyarország,0,Magyarország,0,-3.61636
 [CLS] Pécsi:3 Sörfőzde:5 [MASK] található . [SEP],##n,Magyarország,0,Magyarország,0,-0.45572
 [CLS] Pécsi:3 Sörfőzde:5 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.56621
+[CLS] Pécsi:3 Sörfőzde:5 [MASK] található . [SEP],##ken,Magyarország,0,Magyarország,0,-2.80731
+[CLS] Pécsi:3 Sörfőzde:5 [MASK] [MASK] található . [SEP],##tereában:2,Magyarország,0,Magyarország,0,-3.33482
+[CLS] Pécsi:3 Sörfőzde:5 [MASK] [MASK] található . [SEP],körn:2,Magyarország,0,Magyarország,0,-3.55323
 [CLS] Magyar Nemzeti Bank [MASK] [MASK] található . [SEP],bankában:2,Magyarország,0,Magyarország,0,-1.72490
 [CLS] Magyar Nemzeti Bank [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-1.97151
+[CLS] Magyar Nemzeti Bank [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.31353
+[CLS] Magyar Nemzeti Bank [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.74197
+[CLS] Magyar Nemzeti Bank [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.18123
 [CLS] Cadline:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.95850
-[CLS] Cadline:3 [MASK] [MASK] található . [SEP],településa:2,Magyarország,0,Magyarország,0,-2.91980
-[CLS] Magyar Hírlap:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.55357
+[CLS] Cadline:3 [MASK] [MASK] található . [SEP],településa:2,Magyarország,0,Magyarország,0,-2.91979
+[CLS] Cadline:3 [MASK] [MASK] található . [SEP],-en:2,Magyarország,0,Magyarország,0,-3.05457
+[CLS] Cadline:3 [MASK] [MASK] található . [SEP],megye település,Magyarország,0,Magyarország,0,-3.25715
+[CLS] Cadline:3 [MASK] található . [SEP],ward,Magyarország,0,Magyarország,0,-3.39897
+[CLS] Magyar Hírlap:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.55356
 [CLS] Magyar Hírlap:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.97011
+[CLS] Magyar Hírlap:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". Magyar , , ,ában:2",Magyarország,0,Magyarország,0,-3.00685
+[CLS] Magyar Hírlap:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],Magyar az Magyar Magyar Magyarországkban:2,Magyarország,0,Magyarország,0,-3.34924
+[CLS] Magyar Hírlap:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"Magyarország , az Budapest Budapesten:2",Magyarország,0,Magyarország,0,-3.63183
 [CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.63027
 [CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . [MASK] [MASK] található . [SEP],épület .,Magyarország,0,Magyarország,0,-2.63185
+[CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . [MASK] [MASK] található . [SEP],alaében:2,Magyarország,0,Magyarország,0,-2.94472
+[CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . [MASK] [MASK] található . [SEP],is is,Magyarország,0,Magyarország,0,-3.36205
+[CLS] MAL:2 Magyar Alumínium:4 Termelő:2 és Kereskedelmi:4 Zrt:2 . [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.38538
 [CLS] Pannónia:3 Filmstúdió:3 [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-1.51955
 [CLS] Pannónia:3 Filmstúdió:3 [MASK] található . [SEP],##s,Magyarország,0,Magyarország,0,-2.53403
+[CLS] Pannónia:3 Filmstúdió:3 [MASK] [MASK] található . [SEP],##jaa:2,Magyarország,0,Magyarország,0,-2.88055
+[CLS] Pannónia:3 Filmstúdió:3 [MASK] található . [SEP],##k,Magyarország,0,Magyarország,0,-2.96307
+[CLS] Pannónia:3 Filmstúdió:3 [MASK] [MASK] található . [SEP],##ija:2,Magyarország,0,Magyarország,0,-3.42190
 [CLS] Törley:3 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-1.55384
 [CLS] Törley:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.78789
-[CLS] Akadémiai:2 Kiadó [MASK] [MASK] található . [SEP],- ma,Magyarország,0,Magyarország,0,-1.21963
+[CLS] Törley:3 [MASK] található . [SEP],##nek,Magyarország,0,Magyarország,0,-2.79664
+[CLS] Törley:3 [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-2.96515
+[CLS] Törley:3 [MASK] [MASK] található . [SEP],##een:2,Magyarország,0,Magyarország,0,-3.53615
+[CLS] Akadémiai:2 Kiadó [MASK] [MASK] található . [SEP],- ma,Magyarország,0,Magyarország,0,-1.21962
 [CLS] Akadémiai:2 Kiadó [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.26335
+[CLS] Akadémiai:2 Kiadó [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.58969
+[CLS] Akadémiai:2 Kiadó [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.94893
+[CLS] Akadémiai:2 Kiadó [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-3.17439
 [CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.48076
-[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] található . [SEP],ma,Magyarország,0,Magyarország,0,-2.51342
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] található . [SEP],ma,Magyarország,0,Magyarország,0,-2.51341
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] [MASK] található . [SEP],alaa:2,Magyarország,0,Magyarország,0,-3.23133
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] [MASK] található . [SEP],ke:2,Magyarország,0,Magyarország,0,-3.58561
+[CLS] Herendi:2 Porcelánmanufaktúra:7 Zrt:2 . [MASK] [MASK] található . [SEP],sz is,Magyarország,0,Magyarország,0,-3.74878
 [CLS] Videoton:2 Holding Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . . .,Magyarország,0,Magyarország,0,-1.74488
 [CLS] Videoton:2 Holding Zrt:2 . [MASK] [MASK] található . [SEP],isában:2,Magyarország,0,Magyarország,0,-3.03651
+[CLS] Videoton:2 Holding Zrt:2 . [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-3.13216
+[CLS] Videoton:2 Holding Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.33483
+[CLS] Videoton:2 Holding Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.38968
 [CLS] Leder:2 & Schuh:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.11841
 [CLS] Leder:2 & Schuh:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a . a a a a an:2",Magyarország,0,Magyarország,0,-2.78220
+[CLS] Leder:2 & Schuh:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.00070
+[CLS] Leder:2 & Schuh:3 [MASK] található . [SEP],szerint,Magyarország,0,Magyarország,0,-3.09402
+[CLS] Leder:2 & Schuh:3 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.50201
 [CLS] Népszava:3 [MASK] [MASK] található . [SEP],##zásban:2,Magyarország,0,Magyarország,0,-0.77075
 [CLS] Népszava:3 [MASK] található . [SEP],nem,Magyarország,0,Magyarország,0,-1.36671
+[CLS] Népszava:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],##zás . az az aában:2,Magyarország,0,Magyarország,0,-3.18096
+[CLS] Népszava:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". , , , , ott",Magyarország,0,Magyarország,0,-3.69225
+[CLS] Népszava:3 [MASK] [MASK] található . [SEP],a itt,Magyarország,0,Magyarország,0,-3.87808
 [CLS] Európa Könyvkiadó:3 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-1.33279
 [CLS] Európa Könyvkiadó:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.37797
+[CLS] Európa Könyvkiadó:3 [MASK] [MASK] található . [SEP],könyv tagja,Magyarország,0,Magyarország,0,-3.02592
+[CLS] Európa Könyvkiadó:3 [MASK] [MASK] található . [SEP],-ében:2,Magyarország,0,Magyarország,0,-3.32559
+[CLS] Európa Könyvkiadó:3 [MASK] [MASK] található . [SEP],##i ma,Magyarország,0,Magyarország,0,-3.57291
 [CLS] MVM:2 Zrt:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.87300
 [CLS] MVM:2 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-2.61458
+[CLS] MVM:2 Zrt:2 . [MASK] található . [SEP],része,Magyarország,0,Magyarország,0,-3.14215
+[CLS] MVM:2 Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.23521
+[CLS] MVM:2 Zrt:2 . [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-3.43689
 [CLS] Móra:2 Könyvkiadó:3 [MASK] található . [SEP],Magyarországon,Magyarország,0,Magyarország,0,-2.01206
 [CLS] Móra:2 Könyvkiadó:3 [MASK] található . [SEP],.,Magyarország,0,Magyarország,0,-2.70891
+[CLS] Móra:2 Könyvkiadó:3 [MASK] található . [SEP],##ja,Magyarország,0,Magyarország,0,-2.98661
+[CLS] Móra:2 Könyvkiadó:3 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.07123
+[CLS] Móra:2 Könyvkiadó:3 [MASK] található . [SEP],##i,Magyarország,0,Magyarország,0,-3.26305
 [CLS] 168 Óra:2 [MASK] [MASK] található . [SEP],-ban:2,Magyarország,0,Magyarország,0,-2.14636
 [CLS] 168 Óra:2 [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-2.52568
+[CLS] 168 Óra:2 [MASK] található . [SEP],közt,Magyarország,0,Magyarország,0,-2.98429
+[CLS] 168 Óra:2 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-3.03535
+[CLS] 168 Óra:2 [MASK] található . [SEP],##án,Magyarország,0,Magyarország,0,-3.12747
 [CLS] Budapesti Közlekedési:5 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.73680
 [CLS] Budapesti Közlekedési:5 Zrt:2 . [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.50023
+[CLS] Budapesti Közlekedési:5 Zrt:2 . [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.79438
+[CLS] Budapesti Közlekedési:5 Zrt:2 . [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.92740
+[CLS] Budapesti Közlekedési:5 Zrt:2 . [MASK] [MASK] [MASK] található . [SEP],: .ban:2,Magyarország,0,Magyarország,0,-3.53206
 [CLS] Zen Studios [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.20316
 [CLS] Zen Studios [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.23659
+[CLS] Zen Studios [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.33358
+[CLS] Zen Studios [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-2.43115
+[CLS] Zen Studios [MASK] található . [SEP],##a,Magyarország,0,Magyarország,0,-3.56445
 [CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.76390
 [CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . [MASK] [MASK] található . [SEP],épület .,Magyarország,0,Magyarország,0,-2.32876
-[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.65767
-[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.34588
+[CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az az , , , , . a .ában:2",Magyarország,0,Magyarország,0,-2.87780
+[CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . [MASK] [MASK] található . [SEP],Aa:2,Magyarország,0,Magyarország,0,-3.20640
+[CLS] Athenaeum:2 Irodalmi:2 és Nyomdai:3 Rt . [MASK] [MASK] található . [SEP],ke:2,Magyarország,0,Magyarország,0,-3.49576
+[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.65766
+[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.34587
+[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],között,Magyarország,0,Magyarország,0,-2.37424
+[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##nél,Magyarország,0,Magyarország,0,-3.04223
+[CLS] Budapesti Elektromos:3 Művek:3 [MASK] található . [SEP],##et,Magyarország,0,Magyarország,0,-3.16985
 [CLS] DMSONE:4 [MASK] [MASK] található . [SEP],-en:2,Magyarország,0,Magyarország,0,-1.57446
 [CLS] DMSONE:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],az a az az . . az az .,Magyarország,0,Magyarország,0,-2.91594
+[CLS] DMSONE:4 [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.25557
+[CLS] DMSONE:4 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.58552
+[CLS] DMSONE:4 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-4.01037
 [CLS] Mafilm:2 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-1.95834
 [CLS] Mafilm:2 [MASK] található . [SEP],##e,Magyarország,0,Magyarország,0,-2.09647
+[CLS] Mafilm:2 [MASK] található . [SEP],##ekben,Magyarország,0,Magyarország,0,-2.87612
+[CLS] Mafilm:2 [MASK] található . [SEP],##et,Magyarország,0,Magyarország,0,-3.24683
+[CLS] Mafilm:2 [MASK] található . [SEP],##ek,Magyarország,0,Magyarország,0,-3.32215
 [CLS] Philos:2 Laboratories:2 [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.98052
 [CLS] Philos:2 Laboratories:2 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-2.41432
+[CLS] Philos:2 Laboratories:2 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.46725
+[CLS] Philos:2 Laboratories:2 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.47286
+[CLS] Philos:2 Laboratories:2 [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.38989
 [CLS] Wizz:2 Air [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . .,Magyarország,0,Magyarország,0,-1.81508
 [CLS] Wizz:2 Air [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-2.60603
+[CLS] Wizz:2 Air [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , a , , itt",Magyarország,0,Magyarország,0,-3.28025
+[CLS] Wizz:2 Air [MASK] található . [SEP],Air,Magyarország,0,Magyarország,0,-3.57180
+[CLS] Wizz:2 Air [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-3.60083
 [CLS] Beholder:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. . . . . . . . .,Magyarország,0,Magyarország,0,-1.87185
 [CLS] Beholder:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],A a a a a a az .,Magyarország,0,Magyarország,0,-2.92882
-[CLS] Tungsram:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.97651
+[CLS] Beholder:2 Kft:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az A , , , , aben:2",Magyarország,0,Magyarország,0,-3.23228
+[CLS] Beholder:2 Kft:2 . [MASK] található . [SEP],meg,Magyarország,0,Magyarország,0,-3.35376
+[CLS] Beholder:2 Kft:2 . [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-3.51137
+[CLS] Tungsram:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-0.97650
 [CLS] Tungsram:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.50812
+[CLS] Tungsram:3 [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-3.00543
+[CLS] Tungsram:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-3.34710
+[CLS] Tungsram:3 [MASK] található . [SEP],##en,Magyarország,0,Magyarország,0,-3.55218
 [CLS] Kispesti:3 Erőmű:4 [MASK] [MASK] található . [SEP],##helyben:2,Magyarország,0,Magyarország,0,-1.49813
 [CLS] Kispesti:3 Erőmű:4 [MASK] [MASK] található . [SEP],##helyeban:2,Magyarország,0,Magyarország,0,-1.75145
+[CLS] Kispesti:3 Erőmű:4 [MASK] található . [SEP],##helye,Magyarország,0,Magyarország,0,-2.20978
+[CLS] Kispesti:3 Erőmű:4 [MASK] található . [SEP],##vek,Magyarország,0,Magyarország,0,-2.53242
+[CLS] Kispesti:3 Erőmű:4 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.70122
 [CLS] Libri Kiadó [MASK] [MASK] található . [SEP],Kiadóában:2,Magyarország,0,Magyarország,0,-2.06564
 [CLS] Libri Kiadó [MASK] [MASK] található . [SEP],- Magyarországon,Magyarország,0,Magyarország,0,-2.67273
+[CLS] Libri Kiadó [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-2.80773
+[CLS] Libri Kiadó [MASK] található . [SEP],##ján,Magyarország,0,Magyarország,0,-2.91319
+[CLS] Libri Kiadó [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.98433
 [CLS] Littke:3 pezsgőgyár:5 [MASK] [MASK] található . [SEP],##hely itt,Magyarország,0,Magyarország,0,-1.50988
 [CLS] Littke:3 pezsgőgyár:5 [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.26824
+[CLS] Littke:3 pezsgőgyár:5 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.34243
+[CLS] Littke:3 pezsgőgyár:5 [MASK] található . [SEP],##ája,Magyarország,0,Magyarország,0,-2.35960
+[CLS] Littke:3 pezsgőgyár:5 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-2.98393
 [CLS] Yettel:2 Magyarország [MASK] található . [SEP],##ra,Magyarország,0,Magyarország,0,-1.37864
 [CLS] Yettel:2 Magyarország [MASK] található . [SEP],##on,Magyarország,0,Magyarország,0,-1.44848
-[CLS] Escalion:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.06471
+[CLS] Yettel:2 Magyarország [MASK] található . [SEP],területén,Magyarország,0,Magyarország,0,-2.54226
+[CLS] Yettel:2 Magyarország [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.88836
+[CLS] Yettel:2 Magyarország [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-3.11856
+[CLS] Escalion:3 [MASK] található . [SEP],##ban,Magyarország,0,Magyarország,0,-1.06470
 [CLS] Escalion:3 [MASK] található . [SEP],##ben,Magyarország,0,Magyarország,0,-2.59764
+[CLS] Escalion:3 [MASK] található . [SEP],##ában,Magyarország,0,Magyarország,0,-2.71776
+[CLS] Escalion:3 [MASK] [MASK] [MASK] található . [SEP],az városen:2,Magyarország,0,Magyarország,0,-3.54041
+[CLS] Escalion:3 [MASK] [MASK] [MASK] található . [SEP],város az ben,Magyarország,0,Magyarország,0,-3.90820
 [CLS] MÁV:3 - START:2 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.81821
 [CLS] MÁV:3 - START:2 Zrt:2 . [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-2.55038
+[CLS] MÁV:3 - START:2 Zrt:2 . [MASK] [MASK] található . [SEP],ka:2,Magyarország,0,Magyarország,0,-3.17007
+[CLS] MÁV:3 - START:2 Zrt:2 . [MASK] [MASK] található . [SEP],alaében:2,Magyarország,0,Magyarország,0,-3.18706
+[CLS] MÁV:3 - START:2 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.53353
 [CLS] Orion ( magyar vállalat:4 ) [MASK] [MASK] [MASK] található . [SEP],Orion Orionában:2,Magyarország,0,Magyarország,0,-1.67203
 [CLS] Orion ( magyar vállalat:4 ) [MASK] [MASK] [MASK] található . [SEP],A városiában:2,Magyarország,0,Magyarország,0,-2.39214
+[CLS] Orion ( magyar vállalat:4 ) [MASK] található . [SEP],itt,Magyarország,0,Magyarország,0,-2.81652
+[CLS] Orion ( magyar vállalat:4 ) [MASK] található . [SEP],közelében,Magyarország,0,Magyarország,0,-3.22303
+[CLS] Orion ( magyar vállalat:4 ) [MASK] található . [SEP],alatt,Magyarország,0,Magyarország,0,-3.28741
 [CLS] Audi Hungaria:2 Zrt:2 . [MASK] [MASK] található . [SEP],-ában:2,Magyarország,0,Magyarország,0,-1.82435
 [CLS] Audi Hungaria:2 Zrt:2 . [MASK] [MASK] található . [SEP],. .,Magyarország,0,Magyarország,0,-2.94310
+[CLS] Audi Hungaria:2 Zrt:2 . [MASK] található . [SEP],tagja,Magyarország,0,Magyarország,0,-3.20945
+[CLS] Audi Hungaria:2 Zrt:2 . [MASK] található . [SEP],ben,Magyarország,0,Magyarország,0,-3.23993
+[CLS] Audi Hungaria:2 Zrt:2 . [MASK] található . [SEP],néven,Magyarország,0,Magyarország,0,-3.61445
 [CLS] RTL Saleshouse:2 [MASK] található . [SEP],is,Magyarország,0,Magyarország,0,-1.86017
-[CLS] RTL Saleshouse:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a a a a a a .,Magyarország,0,Magyarország,0,-2.80382
+[CLS] RTL Saleshouse:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],a a a a a a .,Magyarország,0,Magyarország,0,-2.80381
+[CLS] RTL Saleshouse:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", , , , ,t:2",Magyarország,0,Magyarország,0,-3.25433
+[CLS] RTL Saleshouse:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],A - A A a .,Magyarország,0,Magyarország,0,-3.63883
+[CLS] RTL Saleshouse:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"- A az -k:2 ,",Magyarország,0,Magyarország,0,-3.98943

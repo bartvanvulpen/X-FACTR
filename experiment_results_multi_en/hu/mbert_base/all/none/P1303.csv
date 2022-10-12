@@ -1,395 +1,986 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Zoltán Lantos:2 plays [MASK] [MASK] . [SEP],the player,jazz violin,0,jazz violin,0,-2.32992
 [CLS] Zoltán Lantos:2 plays [MASK] [MASK] [MASK] . [SEP],the the player,jazz violin,0,jazz violin,0,-2.83718
+[CLS] Zoltán Lantos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of as:2,jazz violin,0,jazz violin,0,-3.67490
+[CLS] Zoltán Lantos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the in p,jazz violin,0,jazz violin,0,-3.87891
+[CLS] Zoltán Lantos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to of to ofr:2,jazz violin,0,jazz violin,0,-4.21992
 [CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.21170
-[CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] . [SEP],a role,organ,0,organ,0,-2.98219
-[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.56131
-[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] . [SEP],aa:2,organ,0,organ,0,-3.14082
+[CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] . [SEP],a role,organ,0,organ,0,-2.98218
+[CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofe:2",organ,0,organ,0,-3.78093
+[CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of in ins:2,organ,0,organ,0,-4.04975
+[CLS] Zsigmond Szathmáry:5 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in as the """,organ,0,organ,0,-4.28674
+[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.56132
+[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] . [SEP],aa:2,organ,0,organ,0,-3.14081
+[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in of ,a:2",organ,0,organ,0,-3.64190
+[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofs:2",organ,0,organ,0,-3.83942
+[CLS] Zsolt:3 Gárdonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of the ther:2,organ,0,organ,0,-4.13509
 [CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] . [SEP],the . actor,organ,0,organ,0,-2.16738
-[CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofe:2,organ,0,organ,0,-3.11146
+[CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofe:2,organ,0,organ,0,-3.11145
+[CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in . thee:2,organ,0,organ,0,-3.51555
+[CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in of , ofr:2",organ,0,organ,0,-3.77948
+[CLS] John Sigismund Zápolya:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"his in , actor",organ,0,organ,0,-4.03843
 [CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] . [SEP],the player,piano,0,piano,0,-2.43292
-[CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] [MASK] . [SEP],a .ón:2,piano,0,piano,0,-3.19504
+[CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] [MASK] . [SEP],a .ón:2,piano,0,piano,0,-3.19503
+[CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de of ofs:2,piano,0,piano,0,-3.59517
+[CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],el of . thee:2,piano,0,piano,0,-3.88451
+[CLS] Emánuel:3 Moór:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ino:2 the inón:2,piano,0,piano,0,-4.13166
 [CLS] Bertalan:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,organ,0,organ,0,-2.28240
 [CLS] Bertalan:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,organ,0,organ,0,-3.14825
+[CLS] Bertalan:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of theq:2,organ,0,organ,0,-3.66239
+[CLS] Bertalan:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],". the ,e:2",organ,0,organ,0,-4.09488
+[CLS] Bertalan:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the a A",organ,0,organ,0,-4.31411
 [CLS] Dezső:3 Antalffy:2 - Zsiross:3 plays [MASK] [MASK] . [SEP],the role,organ,0,organ,0,-2.43405
 [CLS] Dezső:3 Antalffy:2 - Zsiross:3 plays [MASK] [MASK] . [SEP],a play,organ,0,organ,0,-2.62879
+[CLS] Dezső:3 Antalffy:2 - Zsiross:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"plays plays - - """,organ,0,organ,0,-3.56691
+[CLS] Dezső:3 Antalffy:2 - Zsiross:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"play a in ,s:2",organ,0,organ,0,-3.75186
+[CLS] Dezső:3 Antalffy:2 - Zsiross:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the as iny:2,organ,0,organ,0,-3.91656
 [CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.14581
-[CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in ine:2,organ,0,organ,0,-3.13007
+[CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in ine:2,organ,0,organ,0,-3.13006
+[CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of p,organ,0,organ,0,-3.39436
+[CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the the ther:2,organ,0,organ,0,-3.74200
+[CLS] Antos:2 Kálmán plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ae:2 , ah:2",organ,0,organ,0,-4.17471
 [CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,voice,0,voice,0,-2.24474
-[CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] . [SEP],a thea:2,voice,0,voice,0,-3.00509
+[CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] . [SEP],a thea:2,voice,0,voice,0,-3.00508
+[CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the in of as:2,voice,0,voice,0,-3.48704
+[CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ing:2,voice,0,voice,0,-3.82676
+[CLS] Tamás Barta:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to of p,voice,0,voice,0,-4.04778
 [CLS] István Baróti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.23624
-[CLS] István Baróti:3 plays [MASK] [MASK] . [SEP],the play,organ,0,organ,0,-2.78833
-[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,voice,0,voice,0,-2.26594
-[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofs:2,voice,0,voice,0,-3.08393
+[CLS] István Baróti:3 plays [MASK] [MASK] . [SEP],the play,organ,0,organ,0,-2.78832
+[CLS] István Baróti:3 plays [MASK] [MASK] . [SEP],in player,organ,0,organ,0,-3.18296
+[CLS] István Baróti:3 plays [MASK] [MASK] [MASK] . [SEP],as in actor,organ,0,organ,0,-3.83670
+[CLS] István Baróti:3 plays [MASK] [MASK] [MASK] . [SEP],"an ,e:2",organ,0,organ,0,-4.01109
+[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,voice,0,voice,0,-2.26595
+[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofs:2,voice,0,voice,0,-3.08392
+[CLS] Sándor Bárdi:2 plays [MASK] [MASK] . [SEP],in plays,voice,0,voice,0,-3.27329
+[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the ing:2,voice,0,voice,0,-3.74604
+[CLS] Sándor Bárdi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],tos:2 a ofs:2,voice,0,voice,0,-4.08321
 [CLS] Zorán:2 Sztevanovity:4 plays [MASK] [MASK] . [SEP],the role,guitar,0,guitar,0,-2.32684
 [CLS] Zorán:2 Sztevanovity:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofr:2,guitar,0,guitar,0,-3.13195
-[CLS] László Bódi:3 plays [MASK] . [SEP],football,piano,0,piano,0,-1.82120
-[CLS] László Bódi:3 plays [MASK] . [SEP],handball,piano,0,piano,0,-2.18648
+[CLS] Zorán:2 Sztevanovity:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],""" of the """,guitar,0,guitar,0,-3.69021
+[CLS] Zorán:2 Sztevanovity:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , the ,r:2",guitar,0,guitar,0,-3.86069
+[CLS] Zorán:2 Sztevanovity:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"as - , ini:2",guitar,0,guitar,0,-4.12018
+[CLS] László Bódi:3 plays [MASK] . [SEP],football,piano,0,piano,0,-1.82121
+[CLS] László Bódi:3 plays [MASK] . [SEP],handball,piano,0,piano,0,-2.18647
+[CLS] László Bódi:3 plays [MASK] . [SEP],basketball,piano,0,piano,0,-3.31408
+[CLS] László Bódi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for . -r:2,piano,0,piano,0,-3.60639
+[CLS] László Bódi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as as ine:2,piano,0,piano,0,-3.71564
 [CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] [MASK] [MASK] . [SEP],the the player,voice,0,voice,0,-2.37416
-[CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] . [SEP],handball,voice,0,voice,0,-2.91298
-[CLS] György Filip plays [MASK] [MASK] [MASK] [MASK] . [SEP],. . . .,voice,0,voice,0,-2.05788
-[CLS] György Filip plays [MASK] [MASK] . [SEP],a player,voice,0,voice,0,-3.18919
-[CLS] Attila Garay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-1.69615
-[CLS] Attila Garay:2 plays [MASK] [MASK] . [SEP],a actor,piano,0,piano,0,-2.97169
+[CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] . [SEP],handball,voice,0,voice,0,-2.91297
+[CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] . [SEP],bass,voice,0,voice,0,-3.17952
+[CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in as . ofer:2,voice,0,voice,0,-3.42733
+[CLS] Balázs Farkas:2 - Jenser:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for in ase:2,voice,0,voice,0,-3.73160
+[CLS] György Filip plays [MASK] [MASK] [MASK] [MASK] . [SEP],. . . .,voice,0,voice,0,-2.05789
+[CLS] György Filip plays [MASK] [MASK] . [SEP],a player,voice,0,voice,0,-3.18918
+[CLS] György Filip plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in ao:2,voice,0,voice,0,-3.49837
+[CLS] György Filip plays [MASK] [MASK] . [SEP],. voice,voice,0,voice,0,-3.75052
+[CLS] György Filip plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ino:2 too:2 a,voice,0,voice,0,-3.91394
+[CLS] Attila Garay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-1.69616
+[CLS] Attila Garay:2 plays [MASK] [MASK] . [SEP],a actor,piano,0,piano,0,-2.97168
+[CLS] Attila Garay:2 plays [MASK] [MASK] . [SEP],in .,piano,0,piano,0,-3.35761
+[CLS] Attila Garay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to of to ag:2,piano,0,piano,0,-4.01253
+[CLS] Attila Garay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the of p,piano,0,piano,0,-4.27963
 [CLS] János Gosztonyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.06818
-[CLS] János Gosztonyi:3 plays [MASK] [MASK] . [SEP],the play,organ,0,organ,0,-2.63653
-[CLS] Péter Huzella:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,voice,0,voice,0,-2.20807
-[CLS] Péter Huzella:3 plays [MASK] [MASK] . [SEP],thee:2,voice,0,voice,0,-3.22949
+[CLS] János Gosztonyi:3 plays [MASK] [MASK] . [SEP],the play,organ,0,organ,0,-2.63652
+[CLS] János Gosztonyi:3 plays [MASK] [MASK] . [SEP],in plays,organ,0,organ,0,-2.90025
+[CLS] János Gosztonyi:3 plays [MASK] . [SEP],in,organ,0,organ,0,-3.85996
+[CLS] János Gosztonyi:3 plays [MASK] . [SEP],Bach,organ,0,organ,0,-3.88191
+[CLS] Péter Huzella:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,voice,0,voice,0,-2.20808
+[CLS] Péter Huzella:3 plays [MASK] [MASK] . [SEP],thee:2,voice,0,voice,0,-3.22948
+[CLS] Péter Huzella:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in inr:2,voice,0,voice,0,-3.80624
+[CLS] Péter Huzella:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],A a -r:2,voice,0,voice,0,-4.11127
+[CLS] Péter Huzella:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"to a the ,g:2",voice,0,voice,0,-4.39301
 [CLS] Gábor Ihász:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.31212
 [CLS] Gábor Ihász:3 plays [MASK] [MASK] [MASK] . [SEP],the a actor,voice,0,voice,0,-3.08818
+[CLS] Gábor Ihász:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of inr:2,voice,0,voice,0,-3.63137
+[CLS] Gábor Ihász:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the the p,voice,0,voice,0,-3.84069
+[CLS] Gábor Ihász:3 plays [MASK] [MASK] . [SEP],. play,voice,0,voice,0,-4.09603
 [CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] . [SEP],the . player,organ,0,organ,0,-2.46656
-[CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,organ,0,organ,0,-3.08935
-[CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.25654
+[CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,organ,0,organ,0,-3.08934
+[CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a of ofs:2,organ,0,organ,0,-3.54994
+[CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in the ae:2,organ,0,organ,0,-3.72470
+[CLS] Tamás Kosóczki:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"for of ,r:2",organ,0,organ,0,-4.04179
+[CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.25655
 [CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofr:2,voice,0,voice,0,-3.09298
+[CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofe:2,voice,0,voice,0,-3.41648
+[CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the inr:2,voice,0,voice,0,-3.73319
+[CLS] András Kozma:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a on ag:2,voice,0,voice,0,-4.10604
 [CLS] Zoltán Kékes:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,guitar,0,guitar,0,-2.25013
-[CLS] Zoltán Kékes:3 plays [MASK] [MASK] [MASK] . [SEP],the thes:2,guitar,0,guitar,0,-2.82515
-[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-2.12613
-[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in the p,piano,0,piano,0,-3.20400
+[CLS] Zoltán Kékes:3 plays [MASK] [MASK] [MASK] . [SEP],the thes:2,guitar,0,guitar,0,-2.82514
+[CLS] Zoltán Kékes:3 plays [MASK] [MASK] . [SEP],in play,guitar,0,guitar,0,-3.48667
+[CLS] Zoltán Kékes:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ine:2,guitar,0,guitar,0,-3.78313
+[CLS] Zoltán Kékes:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as as thee:2,guitar,0,guitar,0,-4.12095
+[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-2.12614
+[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in the p,piano,0,piano,0,-3.20399
+[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of inr:2,piano,0,piano,0,-3.51090
+[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ae:2,piano,0,piano,0,-3.84147
+[CLS] István Lerch:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],tor:2 to tog:2,piano,0,piano,0,-3.98952
 [CLS] Vilmos:2 Leányfalusi:4 plays [MASK] [MASK] [MASK] . [SEP],a . actor,organ,0,organ,0,-2.42678
 [CLS] Vilmos:2 Leányfalusi:4 plays [MASK] [MASK] . [SEP],a play,organ,0,organ,0,-2.84579
-[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,piano,0,piano,0,-2.22915
-[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .s:2,piano,0,piano,0,-2.99568
-[CLS] János Másik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.26053
-[CLS] János Másik:2 plays [MASK] [MASK] . [SEP],the role,voice,0,voice,0,-2.82211
-[CLS] Attila Mátyás:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.24960
-[CLS] Attila Mátyás:2 plays [MASK] [MASK] . [SEP],a player,voice,0,voice,0,-3.06293
+[CLS] Vilmos:2 Leányfalusi:4 plays [MASK] [MASK] . [SEP],in plays,organ,0,organ,0,-3.30270
+[CLS] Vilmos:2 Leányfalusi:4 plays [MASK] [MASK] . [SEP],Vi role,organ,0,organ,0,-3.69416
+[CLS] Vilmos:2 Leányfalusi:4 plays [MASK] . [SEP],V,organ,0,organ,0,-3.95834
+[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,piano,0,piano,0,-2.22916
+[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .s:2,piano,0,piano,0,-2.99567
+[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in inr:2,piano,0,piano,0,-3.64574
+[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"B , , thea:2",piano,0,piano,0,-4.05372
+[CLS] Csaba:2 Szigeti:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in the ,s:2",piano,0,piano,0,-4.17430
+[CLS] János Másik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.26054
+[CLS] János Másik:2 plays [MASK] [MASK] . [SEP],the role,voice,0,voice,0,-2.82210
+[CLS] János Másik:2 plays [MASK] [MASK] . [SEP],in play,voice,0,voice,0,-3.55120
+[CLS] János Másik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.e:2 a of a,voice,0,voice,0,-3.91838
+[CLS] János Másik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to of in asg:2,voice,0,voice,0,-4.06913
+[CLS] Attila Mátyás:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.24961
+[CLS] Attila Mátyás:2 plays [MASK] [MASK] . [SEP],a player,voice,0,voice,0,-3.06292
+[CLS] Attila Mátyás:2 plays [MASK] [MASK] . [SEP],Már:2,voice,0,voice,0,-3.61634
+[CLS] Attila Mátyás:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the thea:2,voice,0,voice,0,-3.88496
+[CLS] Attila Mátyás:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],tor:2 to ah:2,voice,0,voice,0,-4.22365
 [CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-2.32929
-[CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in a p,piano,0,piano,0,-3.29498
+[CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in a p,piano,0,piano,0,-3.29497
+[CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in the thee:2,piano,0,piano,0,-3.68293
+[CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a a ing:2,piano,0,piano,0,-3.95613
+[CLS] Péter Máté:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],toe:2 of tor:2,piano,0,piano,0,-4.11340
 [CLS] Feró:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-2.27807
-[CLS] Feró:2 Nagy plays [MASK] [MASK] . [SEP],a role,piano,0,piano,0,-3.18467
+[CLS] Feró:2 Nagy plays [MASK] [MASK] . [SEP],a role,piano,0,piano,0,-3.18466
+[CLS] Feró:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a of ther:2,piano,0,piano,0,-3.66283
+[CLS] Feró:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],inr:2 to to p,piano,0,piano,0,-3.86930
+[CLS] Feró:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to the ine:2,piano,0,piano,0,-4.02330
 [CLS] Gábor Novai:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.08782
-[CLS] Gábor Novai:2 plays [MASK] [MASK] . [SEP],ae:2,voice,0,voice,0,-3.23723
-[CLS] Imre Poniklo:3 plays [MASK] [MASK] . [SEP],the football,voice,0,voice,0,-2.01850
-[CLS] Imre Poniklo:3 plays [MASK] [MASK] [MASK] . [SEP],the the player,voice,0,voice,0,-2.71572
+[CLS] Gábor Novai:2 plays [MASK] [MASK] . [SEP],ae:2,voice,0,voice,0,-3.23722
+[CLS] Gábor Novai:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ae:2,voice,0,voice,0,-3.47948
+[CLS] Gábor Novai:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the in p,voice,0,voice,0,-3.79019
+[CLS] Gábor Novai:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a a of a,voice,0,voice,0,-4.12549
+[CLS] Imre Poniklo:3 plays [MASK] [MASK] . [SEP],the football,voice,0,voice,0,-2.01851
+[CLS] Imre Poniklo:3 plays [MASK] [MASK] [MASK] . [SEP],the the player,voice,0,voice,0,-2.71571
+[CLS] Imre Poniklo:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a of .,voice,0,voice,0,-3.30960
+[CLS] Imre Poniklo:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the theo:2,voice,0,voice,0,-3.70306
+[CLS] Imre Poniklo:3 plays [MASK] [MASK] . [SEP],an .,voice,0,voice,0,-3.87187
 [CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,organ,0,organ,0,-2.40714
-[CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofe:2,organ,0,organ,0,-3.21157
+[CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofe:2,organ,0,organ,0,-3.21156
+[CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the . ina:2,organ,0,organ,0,-3.56943
+[CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in , thee:2",organ,0,organ,0,-4.07364
+[CLS] Lóránt:3 Réz:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as B and .,organ,0,organ,0,-4.35184
 [CLS] Lilla Szathmáry:5 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.50094
 [CLS] Lilla Szathmáry:5 plays [MASK] [MASK] [MASK] . [SEP],a the player,organ,0,organ,0,-2.88761
-[CLS] Petra Varga plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,organ,0,organ,0,-1.89328
+[CLS] Lilla Szathmáry:5 plays [MASK] [MASK] . [SEP],in role,organ,0,organ,0,-3.46341
+[CLS] Lilla Szathmáry:5 plays [MASK] [MASK] [MASK] . [SEP],as a .,organ,0,organ,0,-3.66767
+[CLS] Lilla Szathmáry:5 plays [MASK] [MASK] [MASK] . [SEP],play ands:2,organ,0,organ,0,-3.83107
+[CLS] Petra Varga plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,organ,0,organ,0,-1.89329
 [CLS] Petra Varga plays [MASK] . [SEP],tennis,organ,0,organ,0,-3.31499
+[CLS] Petra Varga plays [MASK] [MASK] . [SEP],aa:2,organ,0,organ,0,-3.57140
+[CLS] Petra Varga plays [MASK] [MASK] [MASK] [MASK] . [SEP],a to a p,organ,0,organ,0,-3.79437
+[CLS] Petra Varga plays [MASK] [MASK] [MASK] [MASK] . [SEP],to in ofs:2,organ,0,organ,0,-3.98003
 [CLS] Xavér:3 Varnus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,organ,0,organ,0,-2.43585
 [CLS] Xavér:3 Varnus:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the ofr:2,organ,0,organ,0,-3.18792
+[CLS] Xavér:3 Varnus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of in ine:2,organ,0,organ,0,-3.62470
+[CLS] Xavér:3 Varnus:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in the thes:2,organ,0,organ,0,-3.98073
+[CLS] Xavér:3 Varnus:2 plays [MASK] [MASK] [MASK] . [SEP],an or voice,organ,0,organ,0,-4.26864
 [CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-1.97899
-[CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of P,organ,0,organ,0,-3.26832
+[CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of of P,organ,0,organ,0,-3.26831
+[CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a B in theh:2,organ,0,organ,0,-3.72867
+[CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bya:2 to ar:2,organ,0,organ,0,-4.11456
+[CLS] Joseph Ács:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the , in p",organ,0,organ,0,-4.27431
 [CLS] Alexander Albrecht plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-1.66918
-[CLS] Alexander Albrecht plays [MASK] [MASK] . [SEP],a actor,organ,0,organ,0,-2.85305
-[CLS] István Ella plays [MASK] [MASK] [MASK] [MASK] . [SEP],. . . .,organ,0,organ,0,-2.00621
+[CLS] Alexander Albrecht plays [MASK] [MASK] . [SEP],a actor,organ,0,organ,0,-2.85304
+[CLS] Alexander Albrecht plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of inr:2,organ,0,organ,0,-3.29968
+[CLS] Alexander Albrecht plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the the ofh:2,organ,0,organ,0,-3.73248
+[CLS] Alexander Albrecht plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to ae:2,organ,0,organ,0,-3.96032
+[CLS] István Ella plays [MASK] [MASK] [MASK] [MASK] . [SEP],. . . .,organ,0,organ,0,-2.00622
 [CLS] István Ella plays [MASK] [MASK] . [SEP],a .,organ,0,organ,0,-3.27922
+[CLS] István Ella plays [MASK] [MASK] . [SEP],in role,organ,0,organ,0,-3.45794
+[CLS] István Ella plays [MASK] [MASK] . [SEP],. voice,organ,0,organ,0,-3.76036
+[CLS] István Ella plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on to on ine:2,organ,0,organ,0,-3.97813
 [CLS] András Szentkirályi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of . .,organ,0,organ,0,-2.14898
 [CLS] András Szentkirályi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . ofr:2,organ,0,organ,0,-2.72147
+[CLS] András Szentkirályi:4 plays [MASK] [MASK] . [SEP],the music,organ,0,organ,0,-3.13282
+[CLS] András Szentkirályi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a the -s:2,organ,0,organ,0,-3.78241
+[CLS] András Szentkirályi:4 plays [MASK] [MASK] [MASK] . [SEP],on -r:2,organ,0,organ,0,-4.13961
 [CLS] József Pécsi:3 - Prichystal:3 plays [MASK] [MASK] . [SEP],the plays,trombone,0,trombone,0,-1.84760
-[CLS] József Pécsi:3 - Prichystal:3 plays [MASK] [MASK] . [SEP],in theatre,trombone,0,trombone,0,-2.68230
-[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],the music,organ,0,organ,0,-2.09045
-[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],a plays,organ,0,organ,0,-2.58183
-[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] . [SEP],the voice,organ,0,organ,0,-2.32401
-[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] [MASK] . [SEP],a the player,organ,0,organ,0,-2.84933
+[CLS] József Pécsi:3 - Prichystal:3 plays [MASK] [MASK] . [SEP],in theatre,trombone,0,trombone,0,-2.68229
+[CLS] József Pécsi:3 - Prichystal:3 plays [MASK] [MASK] . [SEP],a play,trombone,0,trombone,0,-2.92603
+[CLS] József Pécsi:3 - Prichystal:3 plays [MASK] . [SEP],plays,trombone,0,trombone,0,-3.64169
+[CLS] József Pécsi:3 - Prichystal:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as plays -r:2,trombone,0,trombone,0,-3.86383
+[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],the music,organ,0,organ,0,-2.09046
+[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],a plays,organ,0,organ,0,-2.58182
+[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],in play,organ,0,organ,0,-2.81080
+[CLS] György Deák:2 - Bárdos:2 plays [MASK] [MASK] . [SEP],his song,organ,0,organ,0,-3.33084
+[CLS] György Deák:2 - Bárdos:2 plays [MASK] . [SEP],plays,organ,0,organ,0,-3.86654
+[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] . [SEP],the voice,organ,0,organ,0,-2.32402
+[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] [MASK] . [SEP],a the player,organ,0,organ,0,-2.84932
+[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the of ofs:2,organ,0,organ,0,-3.31576
+[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] [MASK] . [SEP],"as , play",organ,0,organ,0,-3.68408
+[CLS] Gábor Lisznyai:4 Szabó plays [MASK] [MASK] [MASK] . [SEP],plays in role,organ,0,organ,0,-3.96517
 [CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,organ,0,organ,0,-2.26073
-[CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofy:2,organ,0,organ,0,-3.15721
+[CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofy:2,organ,0,organ,0,-3.15720
+[CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , ,e:2",organ,0,organ,0,-3.70649
+[CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the in ina:2,organ,0,organ,0,-4.06824
+[CLS] Melinda:2 Kistétényi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in the thes:2",organ,0,organ,0,-4.27723
 [CLS] Lajos Ákom:2 plays [MASK] . [SEP],football,organ,0,organ,0,-2.14404
 [CLS] Lajos Ákom:2 plays [MASK] [MASK] . [SEP],the midfielder,organ,0,organ,0,-3.08738
+[CLS] Lajos Ákom:2 plays [MASK] [MASK] [MASK] . [SEP],as ae:2,organ,0,organ,0,-3.45234
+[CLS] Lajos Ákom:2 plays [MASK] [MASK] . [SEP],in .,organ,0,organ,0,-3.65593
+[CLS] Lajos Ákom:2 plays [MASK] [MASK] . [SEP],for plays,organ,0,organ,0,-3.84860
 [CLS] Mátyás:2 Kozma:2 plays [MASK] [MASK] . [SEP],a actor,organ,0,organ,0,-2.07792
-[CLS] Mátyás:2 Kozma:2 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-2.76211
+[CLS] Mátyás:2 Kozma:2 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-2.76210
+[CLS] Mátyás:2 Kozma:2 plays [MASK] [MASK] . [SEP],in music,organ,0,organ,0,-3.27608
+[CLS] Mátyás:2 Kozma:2 plays [MASK] [MASK] . [SEP],an piano,organ,0,organ,0,-3.69896
+[CLS] Mátyás:2 Kozma:2 plays [MASK] . [SEP],it,organ,0,organ,0,-4.21137
 [CLS] János Petrás:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,voice,0,voice,0,-2.03781
 [CLS] János Petrás:2 plays [MASK] [MASK] [MASK] . [SEP],a thee:2,voice,0,voice,0,-2.98898
+[CLS] János Petrás:2 plays [MASK] [MASK] . [SEP],a football,voice,0,voice,0,-3.30102
+[CLS] János Petrás:2 plays [MASK] [MASK] . [SEP],fors:2,voice,0,voice,0,-3.77622
+[CLS] János Petrás:2 plays [MASK] [MASK] . [SEP],on players,voice,0,voice,0,-3.98257
 [CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,organ,0,organ,0,-2.59729
-[CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-3.07050
-[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] . [SEP],the the player,organ,0,organ,0,-2.40974
-[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] . [SEP],a a midfielder,organ,0,organ,0,-2.91612
+[CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-3.07049
+[CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] [MASK] . [SEP],as play .,organ,0,organ,0,-3.47897
+[CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] [MASK] . [SEP],in plays plays,organ,0,organ,0,-3.62533
+[CLS] Emőke:3 Lipcsey:4 plays [MASK] [MASK] [MASK] . [SEP],play footballe:2,organ,0,organ,0,-3.68097
+[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] . [SEP],the the player,organ,0,organ,0,-2.40975
+[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] . [SEP],a a midfielder,organ,0,organ,0,-2.91611
+[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] . [SEP],as .s:2,organ,0,organ,0,-3.17378
+[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in . thee:2,organ,0,organ,0,-3.77944
+[CLS] Tamás Szekendy:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for in ar:2,organ,0,organ,0,-3.88689
 [CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,piano,0,piano,0,-2.40030
-[CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .s:2,piano,0,piano,0,-3.09013
+[CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .s:2,piano,0,piano,0,-3.09012
+[CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in thes:2,piano,0,piano,0,-3.66753
+[CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in the , ino:2",piano,0,piano,0,-3.80217
+[CLS] Izabella:3 Kuliffay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , the ,e:2",piano,0,piano,0,-4.05940
 [CLS] László Antal Csíky:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,organ,0,organ,0,-2.46769
-[CLS] László Antal Csíky:3 plays [MASK] [MASK] [MASK] . [SEP],a the play,organ,0,organ,0,-2.90394
-[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,voice,0,voice,0,-2.29943
-[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the . in p,voice,0,voice,0,-3.19412
+[CLS] László Antal Csíky:3 plays [MASK] [MASK] [MASK] . [SEP],a the play,organ,0,organ,0,-2.90393
+[CLS] László Antal Csíky:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in . ine:2,organ,0,organ,0,-3.37523
+[CLS] László Antal Csíky:3 plays [MASK] [MASK] . [SEP],in .,organ,0,organ,0,-3.70768
+[CLS] László Antal Csíky:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for in thee:2,organ,0,organ,0,-4.01768
+[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,voice,0,voice,0,-2.29944
+[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the . in p,voice,0,voice,0,-3.19411
+[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of thee:2,voice,0,voice,0,-3.54415
+[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , , a """,voice,0,voice,0,-3.97530
+[CLS] Mihály Móricz:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" - the of a",voice,0,voice,0,-4.02287
 [CLS] Balázs Méhes:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.26387
-[CLS] Balázs Méhes:3 plays [MASK] [MASK] . [SEP],a .,organ,0,organ,0,-3.09076
+[CLS] Balázs Méhes:3 plays [MASK] [MASK] . [SEP],a .,organ,0,organ,0,-3.09075
+[CLS] Balázs Méhes:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the of ofg:2,organ,0,organ,0,-3.57604
+[CLS] Balázs Méhes:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the the p,organ,0,organ,0,-3.87482
+[CLS] Balázs Méhes:3 plays [MASK] [MASK] . [SEP],for plays,organ,0,organ,0,-4.19154
 [CLS] Péter Schmidt plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,organ,0,organ,0,-1.90959
 [CLS] Péter Schmidt plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the a in ae:2,organ,0,organ,0,-3.13233
+[CLS] Péter Schmidt plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. to a ther:2,organ,0,organ,0,-3.43192
+[CLS] Péter Schmidt plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to the to to p,organ,0,organ,0,-3.75272
+[CLS] Péter Schmidt plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in on inp:2,organ,0,organ,0,-3.96936
 [CLS] Zoltán Kiss plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,organ,0,organ,0,-1.51906
-[CLS] Zoltán Kiss plays [MASK] [MASK] . [SEP],a voice,organ,0,organ,0,-3.32180
+[CLS] Zoltán Kiss plays [MASK] [MASK] . [SEP],a voice,organ,0,organ,0,-3.32179
+[CLS] Zoltán Kiss plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in thee:2,organ,0,organ,0,-3.67828
+[CLS] Zoltán Kiss plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on to the inr:2,organ,0,organ,0,-4.09738
+[CLS] Zoltán Kiss plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to on on tog:2,organ,0,organ,0,-4.15016
 [CLS] Zoltán Beck plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.06955
 [CLS] Zoltán Beck plays [MASK] [MASK] [MASK] . [SEP],a the .,voice,0,voice,0,-3.10305
+[CLS] Zoltán Beck plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the the the a,voice,0,voice,0,-3.43946
+[CLS] Zoltán Beck plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to to p,voice,0,voice,0,-3.88801
+[CLS] Zoltán Beck plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in inen:3,voice,0,voice,0,-4.22309
 [CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.17641
-[CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] . [SEP],a ther:2,organ,0,organ,0,-2.89014
-[CLS] Norbert Bonczók:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,piano,0,piano,0,-2.30958
-[CLS] Norbert Bonczók:3 plays [MASK] [MASK] . [SEP],a music,piano,0,piano,0,-2.82635
+[CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] . [SEP],a ther:2,organ,0,organ,0,-2.89013
+[CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in inr:2,organ,0,organ,0,-3.41369
+[CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the ofe:2,organ,0,organ,0,-3.81172
+[CLS] Endre Kovacs:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"an a ,er:2",organ,0,organ,0,-4.25843
+[CLS] Norbert Bonczók:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,piano,0,piano,0,-2.30959
+[CLS] Norbert Bonczók:3 plays [MASK] [MASK] . [SEP],a music,piano,0,piano,0,-2.82634
+[CLS] Norbert Bonczók:3 plays [MASK] [MASK] . [SEP],in play,piano,0,piano,0,-3.38656
+[CLS] Norbert Bonczók:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of the ine:2,piano,0,piano,0,-3.82226
+[CLS] Norbert Bonczók:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A a , a p",piano,0,piano,0,-4.11083
 [CLS] Károly Rezik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-1.99115
-[CLS] Károly Rezik:2 plays [MASK] [MASK] . [SEP],a play,organ,0,organ,0,-3.03922
+[CLS] Károly Rezik:2 plays [MASK] [MASK] . [SEP],a play,organ,0,organ,0,-3.03921
+[CLS] Károly Rezik:2 plays [MASK] [MASK] . [SEP],in role,organ,0,organ,0,-3.63263
+[CLS] Károly Rezik:2 plays [MASK] [MASK] . [SEP],Re .,organ,0,organ,0,-3.99153
+[CLS] Károly Rezik:2 plays [MASK] [MASK] . [SEP],.e:2,organ,0,organ,0,-4.08240
 [CLS] Attila Dóka:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.34254
-[CLS] Attila Dóka:3 plays [MASK] [MASK] . [SEP],a voice,voice,0,voice,0,-2.63288
-[CLS] Freddie plays [MASK] . [SEP],Freddie,guitar,0,guitar,0,-0.88949
+[CLS] Attila Dóka:3 plays [MASK] [MASK] . [SEP],a voice,voice,0,voice,0,-2.63287
+[CLS] Attila Dóka:3 plays [MASK] [MASK] . [SEP],in plays,voice,0,voice,0,-3.45034
+[CLS] Attila Dóka:3 plays [MASK] [MASK] [MASK] . [SEP],in ine:2,voice,0,voice,0,-3.82819
+[CLS] Attila Dóka:3 plays [MASK] [MASK] [MASK] . [SEP],"as , .",voice,0,voice,0,-4.01244
+[CLS] Freddie plays [MASK] . [SEP],Freddie,guitar,0,guitar,0,-0.88950
 [CLS] Freddie plays [MASK] [MASK] [MASK] . [SEP],a thee:2,guitar,0,guitar,0,-3.37486
+[CLS] Freddie plays [MASK] [MASK] [MASK] [MASK] . [SEP],the to in B,guitar,0,guitar,0,-3.78348
+[CLS] Freddie plays [MASK] [MASK] [MASK] [MASK] . [SEP],to a to D,guitar,0,guitar,0,-3.93944
+[CLS] Freddie plays [MASK] [MASK] [MASK] [MASK] . [SEP],in of of N,guitar,0,guitar,0,-4.07833
 [CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pedal harp:2,0,pedal harp:2,0,-2.18826
-[CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theh:2 in inh:2,pedal harp:2,0,pedal harp:2,0,-3.34967
+[CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theh:2 in inh:2,pedal harp:2,0,pedal harp:2,0,-3.34966
+[CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in in P,pedal harp:2,0,pedal harp:2,0,-3.74149
+[CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],B ofhr:3,pedal harp:2,0,pedal harp:2,0,-3.88081
+[CLS] Mira Farkas:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bhibh:3 ofr:2,pedal harp:2,0,pedal harp:2,0,-4.07836
 [CLS] Judit:2 Andrejszki:3 plays [MASK] [MASK] [MASK] . [SEP],the the player,organ,0,organ,0,-2.50334
-[CLS] Judit:2 Andrejszki:3 plays [MASK] [MASK] [MASK] . [SEP],a .s:2,organ,0,organ,0,-3.01154
-[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,organ,0,organ,0,-2.20343
-[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] . [SEP],the . .,organ,0,organ,0,-2.87716
+[CLS] Judit:2 Andrejszki:3 plays [MASK] [MASK] [MASK] . [SEP],a .s:2,organ,0,organ,0,-3.01153
+[CLS] Judit:2 Andrejszki:3 plays [MASK] . [SEP],basketball,organ,0,organ,0,-3.34856
+[CLS] Judit:2 Andrejszki:3 plays [MASK] [MASK] [MASK] . [SEP],in andr:2,organ,0,organ,0,-3.64558
+[CLS] Judit:2 Andrejszki:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"for as ,e:2",organ,0,organ,0,-3.88388
+[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,organ,0,organ,0,-2.20344
+[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] . [SEP],the . .,organ,0,organ,0,-2.87715
+[CLS] János Hammerschlag:2 plays [MASK] [MASK] . [SEP],a .,organ,0,organ,0,-3.23307
+[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the the the p,organ,0,organ,0,-3.83885
+[CLS] János Hammerschlag:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ar:2 on ag:2,organ,0,organ,0,-4.09110
 [CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] . [SEP],the football,organ,0,organ,0,-2.51371
-[CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of ins:2,organ,0,organ,0,-3.01811
+[CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the of ins:2,organ,0,organ,0,-3.01810
+[CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a . ofr:2,organ,0,organ,0,-3.50223
+[CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] [MASK] . [SEP],as ar:2,organ,0,organ,0,-3.84769
+[CLS] Balasi:2 Barnabás:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for B thee:2,organ,0,organ,0,-4.13272
 [CLS] Csaba:2 Király:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.29289
 [CLS] Csaba:2 Király:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,organ,0,organ,0,-3.10850
+[CLS] Csaba:2 Király:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],C of ther:2,organ,0,organ,0,-3.81841
+[CLS] Csaba:2 Király:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],". a ,s:2",organ,0,organ,0,-4.20609
+[CLS] Csaba:2 Király:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"C , the ,y:2",organ,0,organ,0,-4.33453
 [CLS] Ferenc Zsasskovszky:5 plays [MASK] . [SEP],football,organ,0,organ,0,-1.67339
-[CLS] Ferenc Zsasskovszky:5 plays [MASK] [MASK] . [SEP],in handball,organ,0,organ,0,-2.79589
+[CLS] Ferenc Zsasskovszky:5 plays [MASK] [MASK] . [SEP],in handball,organ,0,organ,0,-2.79588
+[CLS] Ferenc Zsasskovszky:5 plays [MASK] [MASK] . [SEP],for midfielder,organ,0,organ,0,-2.93159
+[CLS] Ferenc Zsasskovszky:5 plays [MASK] [MASK] . [SEP],football stadium,organ,0,organ,0,-3.25887
+[CLS] Ferenc Zsasskovszky:5 plays [MASK] [MASK] . [SEP],a team,organ,0,organ,0,-3.50237
 [CLS] Jenő Menyhárt:4 plays [MASK] [MASK] . [SEP],a piano,voice,0,voice,0,-2.28386
-[CLS] Jenő Menyhárt:4 plays [MASK] [MASK] . [SEP],the plays,voice,0,voice,0,-2.32278
-[CLS] István Komáromi:3 plays [MASK] [MASK] . [SEP],a plays,voice,0,voice,0,-1.94276
+[CLS] Jenő Menyhárt:4 plays [MASK] [MASK] . [SEP],the plays,voice,0,voice,0,-2.32277
+[CLS] Jenő Menyhárt:4 plays [MASK] [MASK] . [SEP],in theatre,voice,0,voice,0,-3.04002
+[CLS] Jenő Menyhárt:4 plays [MASK] . [SEP],music,voice,0,voice,0,-3.57087
+[CLS] Jenő Menyhárt:4 plays [MASK] . [SEP],it,voice,0,voice,0,-3.70832
+[CLS] István Komáromi:3 plays [MASK] [MASK] . [SEP],a plays,voice,0,voice,0,-1.94277
 [CLS] István Komáromi:3 plays [MASK] [MASK] . [SEP],the actor,voice,0,voice,0,-2.49307
+[CLS] István Komáromi:3 plays [MASK] [MASK] . [SEP],in play,voice,0,voice,0,-3.01777
+[CLS] István Komáromi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ther:2,voice,0,voice,0,-3.96825
+[CLS] István Komáromi:3 plays [MASK] [MASK] [MASK] . [SEP],an in .,voice,0,voice,0,-4.23389
 [CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] [MASK] . [SEP],the the player,organ,0,organ,0,-2.04649
-[CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] [MASK] . [SEP],in a play,organ,0,organ,0,-2.90090
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] [MASK] . [SEP],in a play,organ,0,organ,0,-2.90089
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] [MASK] . [SEP],a footballs:2,organ,0,organ,0,-3.10890
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] . [SEP],a play,organ,0,organ,0,-3.40891
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],plays . -r:2,organ,0,organ,0,-3.68312
 [CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] [MASK] . [SEP],a . play,guitar,0,guitar,0,-2.67630
-[CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] [MASK] . [SEP],the play player,guitar,0,guitar,0,-2.95537
-[CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-2.37993
+[CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] [MASK] . [SEP],the play player,guitar,0,guitar,0,-2.95536
+[CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] . [SEP],a role,guitar,0,guitar,0,-3.18005
+[CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] [MASK] . [SEP],in the role,guitar,0,guitar,0,-3.43556
+[CLS] Ernő:2 Sipőcz:4 plays [MASK] [MASK] [MASK] . [SEP],play a actor,guitar,0,guitar,0,-3.57337
+[CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] . [SEP],the plays,organ,0,organ,0,-2.37994
 [CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] [MASK] . [SEP],a . play,organ,0,organ,0,-3.06424
+[CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the of play,organ,0,organ,0,-3.22410
+[CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as a -s:2,organ,0,organ,0,-3.51165
+[CLS] Somogyi:3 - Tóth Dániel:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],play as playr:2,organ,0,organ,0,-3.62459
 [CLS] Ádám:3 Végvári:3 plays [MASK] . [SEP],football,voice,0,voice,0,-2.59061
-[CLS] Ádám:3 Végvári:3 plays [MASK] [MASK] . [SEP],the handball,voice,0,voice,0,-2.95255
-[CLS] Szabolcs:4 Szamosi:3 plays [MASK] . [SEP],football,organ,0,organ,0,-2.01421
-[CLS] Szabolcs:4 Szamosi:3 plays [MASK] [MASK] [MASK] . [SEP],a a player,organ,0,organ,0,-2.54639
+[CLS] Ádám:3 Végvári:3 plays [MASK] [MASK] . [SEP],the handball,voice,0,voice,0,-2.95254
+[CLS] Ádám:3 Végvári:3 plays [MASK] [MASK] . [SEP],football player,voice,0,voice,0,-3.51006
+[CLS] Ádám:3 Végvári:3 plays [MASK] [MASK] . [SEP],for ball,voice,0,voice,0,-3.61201
+[CLS] Ádám:3 Végvári:3 plays [MASK] . [SEP],baseball,voice,0,voice,0,-3.67723
+[CLS] Szabolcs:4 Szamosi:3 plays [MASK] . [SEP],football,organ,0,organ,0,-2.01422
+[CLS] Szabolcs:4 Szamosi:3 plays [MASK] [MASK] [MASK] . [SEP],a a player,organ,0,organ,0,-2.54638
+[CLS] Szabolcs:4 Szamosi:3 plays [MASK] [MASK] . [SEP],the midfielder,organ,0,organ,0,-2.69346
+[CLS] Szabolcs:4 Szamosi:3 plays [MASK] [MASK] . [SEP],in goalkeeper,organ,0,organ,0,-3.37366
+[CLS] Szabolcs:4 Szamosi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as for and for players,organ,0,organ,0,-3.68413
 [CLS] Péter Dobszay:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,organ,0,organ,0,-2.48136
-[CLS] Péter Dobszay:4 plays [MASK] [MASK] . [SEP],a actor,organ,0,organ,0,-3.11085
-[CLS] Ferenc Gerencsér:4 plays [MASK] . [SEP],football,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.06948
-[CLS] Ferenc Gerencsér:4 plays [MASK] [MASK] . [SEP],for midfielder,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.68151
+[CLS] Péter Dobszay:4 plays [MASK] [MASK] . [SEP],a actor,organ,0,organ,0,-3.11084
+[CLS] Péter Dobszay:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a of of p,organ,0,organ,0,-3.62779
+[CLS] Péter Dobszay:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in of , ar:2",organ,0,organ,0,-4.02268
+[CLS] Péter Dobszay:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in the thes:2,organ,0,organ,0,-4.15347
+[CLS] Ferenc Gerencsér:4 plays [MASK] . [SEP],football,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.06949
+[CLS] Ferenc Gerencsér:4 plays [MASK] [MASK] . [SEP],for midfielder,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.68150
+[CLS] Ferenc Gerencsér:4 plays [MASK] [MASK] . [SEP],the goalkeeper,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.03014
+[CLS] Ferenc Gerencsér:4 plays [MASK] [MASK] . [SEP],in handball,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.33610
+[CLS] Ferenc Gerencsér:4 plays [MASK] [MASK] [MASK] . [SEP],in fors:2,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.78013
 [CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.22675
-[CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.99183
+[CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.99182
+[CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in inr:2,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.65293
+[CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the thee:2,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.99316
+[CLS] András Szalai:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of the actor,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-4.09379
 [CLS] Péter Egri:2 plays [MASK] [MASK] . [SEP],the actor,voice,0,voice,0,-1.70758
 [CLS] Péter Egri:2 plays [MASK] [MASK] . [SEP],a player,voice,0,voice,0,-2.60749
+[CLS] Péter Egri:2 plays [MASK] [MASK] . [SEP],in role,voice,0,voice,0,-3.34685
+[CLS] Péter Egri:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. to to to in,voice,0,voice,0,-3.87200
+[CLS] Péter Egri:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a the thep:2,voice,0,voice,0,-4.05810
 [CLS] Sándor Kárpáti:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . in . .,organ,0,organ,0,-2.39162
-[CLS] Sándor Kárpáti:4 plays [MASK] [MASK] [MASK] . [SEP],the a player,organ,0,organ,0,-2.66362
+[CLS] Sándor Kárpáti:4 plays [MASK] [MASK] [MASK] . [SEP],the a player,organ,0,organ,0,-2.66361
+[CLS] Sándor Kárpáti:4 plays [MASK] [MASK] . [SEP],in football,organ,0,organ,0,-2.92660
+[CLS] Sándor Kárpáti:4 plays [MASK] . [SEP],it,organ,0,organ,0,-3.73686
+[CLS] Sándor Kárpáti:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],plays as -e:2,organ,0,organ,0,-3.94846
 [CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,voice,0,voice,0,-2.20710
-[CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,voice,0,voice,0,-3.10945
+[CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,voice,0,voice,0,-3.10944
+[CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in thee:2,voice,0,voice,0,-3.40012
+[CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. of int:2,voice,0,voice,0,-3.77023
+[CLS] David Heatlie:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],at of the a a,voice,0,voice,0,-4.03257
 [CLS] Tibor Pikéthy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,organ,0,organ,0,-2.34980
 [CLS] Tibor Pikéthy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofe:2,organ,0,organ,0,-3.38407
+[CLS] Tibor Pikéthy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"in the ,e:2",organ,0,organ,0,-3.62826
+[CLS] Tibor Pikéthy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the ther:2,organ,0,organ,0,-3.90111
+[CLS] Tibor Pikéthy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],on in -hy:2,organ,0,organ,0,-4.16643
 [CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,voice,0,voice,0,-2.03528
-[CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in thes:2,voice,0,voice,0,-3.40858
+[CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of in thes:2,voice,0,voice,0,-3.40857
+[CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of in p,voice,0,voice,0,-3.68306
+[CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in thes:2,voice,0,voice,0,-4.04079
+[CLS] Gábor Winand:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to a a,voice,0,voice,0,-4.25002
 [CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] [MASK] [MASK] . [SEP],a a player,organ,0,organ,0,-2.70890
-[CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] [MASK] [MASK] . [SEP],as the midfielder,organ,0,organ,0,-2.97628
-[CLS] Marcellina:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the . . .,voice,0,voice,0,-1.99582
-[CLS] Marcellina:2 plays [MASK] [MASK] . [SEP],Marcela:2,voice,0,voice,0,-3.05315
+[CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] [MASK] [MASK] . [SEP],as the midfielder,organ,0,organ,0,-2.97627
+[CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] [MASK] [MASK] . [SEP],the . .,organ,0,organ,0,-3.15958
+[CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] . [SEP],footballer,organ,0,organ,0,-3.46787
+[CLS] Zsolt:3 Máté:2 Mészáros:3 plays [MASK] [MASK] [MASK] . [SEP],for - forward,organ,0,organ,0,-3.70427
+[CLS] Marcellina:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the . . .,voice,0,voice,0,-1.99583
+[CLS] Marcellina:2 plays [MASK] [MASK] . [SEP],Marcela:2,voice,0,voice,0,-3.05314
+[CLS] Marcellina:2 plays [MASK] [MASK] . [SEP],a mother,voice,0,voice,0,-3.36696
+[CLS] Marcellina:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on on the ae:2,voice,0,voice,0,-3.79936
+[CLS] Marcellina:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a in onp:2,voice,0,voice,0,-3.86009
 [CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,jazz violin,0,jazz violin,0,-2.16097
-[CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofr:2,jazz violin,0,jazz violin,0,-3.03568
+[CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofr:2,jazz violin,0,jazz violin,0,-3.03567
+[CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of as:2,jazz violin,0,jazz violin,0,-3.40166
+[CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the thes:2,jazz violin,0,jazz violin,0,-3.86493
+[CLS] Daniel Weltlinger:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"as , , ino:2",jazz violin,0,jazz violin,0,-4.16988
 [CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,organ,0,organ,0,-1.86649
-[CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] . [SEP],a Weer:2,organ,0,organ,0,-2.99899
+[CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] . [SEP],a Weer:2,organ,0,organ,0,-2.99898
+[CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of ine:2,organ,0,organ,0,-3.55269
+[CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the ofs:2",organ,0,organ,0,-4.05190
+[CLS] Géza Wehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in the , a A",organ,0,organ,0,-4.21869
 [CLS] Lajos Vasady:2 - Balogh:2 plays [MASK] . [SEP],football,organ,0,organ,0,-1.47602
 [CLS] Lajos Vasady:2 - Balogh:2 plays [MASK] [MASK] . [SEP],the handball,organ,0,organ,0,-2.57109
+[CLS] Lajos Vasady:2 - Balogh:2 plays [MASK] [MASK] . [SEP],in basketball,organ,0,organ,0,-2.99104
+[CLS] Lajos Vasady:2 - Balogh:2 plays [MASK] [MASK] . [SEP],a badminton,organ,0,organ,0,-3.37298
+[CLS] Lajos Vasady:2 - Balogh:2 plays [MASK] [MASK] . [SEP],for baseball,organ,0,organ,0,-3.74880
 [CLS] Ilona Szeverényi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.27443
-[CLS] Ilona Szeverényi:4 plays [MASK] [MASK] . [SEP],a role,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.00911
+[CLS] Ilona Szeverényi:4 plays [MASK] [MASK] . [SEP],a role,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.00910
+[CLS] Ilona Szeverényi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the of ofa:2,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.57290
+[CLS] Ilona Szeverényi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,r:2",hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.72931
+[CLS] Ilona Szeverényi:4 plays [MASK] [MASK] [MASK] . [SEP],"in ,a:2",hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-4.13144
 [CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,classical guitar,0,classical guitar,0,-2.60373
-[CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] . [SEP],a the role,classical guitar,0,classical guitar,0,-3.23313
+[CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] . [SEP],a the role,classical guitar,0,classical guitar,0,-3.23312
+[CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in inh:2,classical guitar,0,classical guitar,0,-3.85784
+[CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] . [SEP],play a actor,classical guitar,0,classical guitar,0,-4.12778
+[CLS] Rezső:3 Kutik:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A a the thep:2,classical guitar,0,classical guitar,0,-4.33129
 [CLS] Zsolt:3 Mersei:2 plays [MASK] [MASK] [MASK] . [SEP],a the player,clarinet,0,clarinet,0,-2.23869
 [CLS] Zsolt:3 Mersei:2 plays [MASK] [MASK] [MASK] . [SEP],the as:2,clarinet,0,clarinet,0,-2.95906
-[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,pedal harp:2,0,pedal harp:2,0,-2.35093
-[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofa:2,pedal harp:2,0,pedal harp:2,0,-3.27385
+[CLS] Zsolt:3 Mersei:2 plays [MASK] . [SEP],basketball,clarinet,0,clarinet,0,-3.48002
+[CLS] Zsolt:3 Mersei:2 plays [MASK] . [SEP],baseball,clarinet,0,clarinet,0,-3.73964
+[CLS] Zsolt:3 Mersei:2 plays [MASK] . [SEP],handball,clarinet,0,clarinet,0,-3.79986
+[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,pedal harp:2,0,pedal harp:2,0,-2.35094
+[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofa:2,pedal harp:2,0,pedal harp:2,0,-3.27384
+[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in ofa:2,pedal harp:2,0,pedal harp:2,0,-3.49404
+[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , , ther:2",pedal harp:2,0,pedal harp:2,0,-3.97053
+[CLS] Veronika Villányi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"Veronika , ,y:2",pedal harp:2,0,pedal harp:2,0,-4.25245
 [CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,percussion,0,percussion,0,-2.57026
-[CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,percussion,0,percussion,0,-3.33551
+[CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,percussion,0,percussion,0,-3.33550
+[CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A - in ,h:2",percussion,0,percussion,0,-3.84450
+[CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ine:2",percussion,0,percussion,0,-3.98179
+[CLS] Ernő:2 Varasdy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B the the -a:2,percussion,0,percussion,0,-4.25213
 [CLS] János Nevelő:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,percussion,0,percussion,0,-2.29237
-[CLS] János Nevelő:2 plays [MASK] [MASK] . [SEP],the film,percussion,0,percussion,0,-3.17993
+[CLS] János Nevelő:2 plays [MASK] [MASK] . [SEP],the film,percussion,0,percussion,0,-3.17992
+[CLS] János Nevelő:2 plays [MASK] [MASK] . [SEP],ine:2,percussion,0,percussion,0,-3.46606
+[CLS] János Nevelő:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],toer:3 toe:2,percussion,0,percussion,0,-3.92433
+[CLS] János Nevelő:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.hee:4 actor,percussion,0,percussion,0,-4.00549
 [CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,percussion,0,percussion,0,-2.35645
-[CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,percussion,0,percussion,0,-3.16657
-[CLS] László Pogány:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,violin,0,violin,0,-2.13217
+[CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,percussion,0,percussion,0,-3.16656
+[CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a in a p,percussion,0,percussion,0,-3.77239
+[CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as de ,t:2",percussion,0,percussion,0,-4.03646
+[CLS] Aurél:2 Holló:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],for of de thet:2,percussion,0,percussion,0,-4.14073
+[CLS] László Pogány:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,violin,0,violin,0,-2.13218
 [CLS] László Pogány:3 plays [MASK] [MASK] . [SEP],a .,violin,0,violin,0,-2.97980
-[CLS] Sándor Balatoni:2 plays [MASK] [MASK] [MASK] . [SEP],a Balaton:2,pipe organ,0,pipe organ,0,-2.06219
-[CLS] Sándor Balatoni:2 plays [MASK] [MASK] . [SEP],the voice,pipe organ,0,pipe organ,0,-2.89812
+[CLS] László Pogány:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of thee:2,violin,0,violin,0,-3.60494
+[CLS] László Pogány:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ofs:2,violin,0,violin,0,-3.89560
+[CLS] László Pogány:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"to a , ar:2",violin,0,violin,0,-4.39777
+[CLS] Sándor Balatoni:2 plays [MASK] [MASK] [MASK] . [SEP],a Balaton:2,pipe organ,0,pipe organ,0,-2.06220
+[CLS] Sándor Balatoni:2 plays [MASK] [MASK] . [SEP],the voice,pipe organ,0,pipe organ,0,-2.89811
+[CLS] Sándor Balatoni:2 plays [MASK] [MASK] . [SEP],a .,pipe organ,0,pipe organ,0,-3.32542
+[CLS] Sándor Balatoni:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in film the ofe:2,pipe organ,0,pipe organ,0,-3.80282
+[CLS] Sándor Balatoni:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"onn:2 , theh:2",pipe organ,0,pipe organ,0,-4.19821
 [CLS] Csaba:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,tárogató:3,0,tárogató:3,0,-1.86054
-[CLS] Csaba:2 Nagy plays [MASK] [MASK] . [SEP],a .,tárogató:3,0,tárogató:3,0,-3.22899
+[CLS] Csaba:2 Nagy plays [MASK] [MASK] . [SEP],a .,tárogató:3,0,tárogató:3,0,-3.22898
+[CLS] Csaba:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in toe:2,tárogató:3,0,tárogató:3,0,-3.69154
+[CLS] Csaba:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to ofr:2,tárogató:3,0,tárogató:3,0,-3.91246
+[CLS] Csaba:2 Nagy plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the ag:2,tárogató:3,0,tárogató:3,0,-4.10496
 [CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] [MASK] . [SEP],a the player,trumpet,0,trumpet,0,-2.04388
-[CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] [MASK] . [SEP],the a midfielder,trumpet,0,trumpet,0,-2.34320
+[CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] [MASK] . [SEP],the a midfielder,trumpet,0,trumpet,0,-2.34319
+[CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] . [SEP],for forward,trumpet,0,trumpet,0,-2.73150
+[CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] [MASK] . [SEP],in fors:2,trumpet,0,trumpet,0,-3.41983
+[CLS] Szabolcs:4 Ducsai:2 plays [MASK] [MASK] . [SEP],on team,trumpet,0,trumpet,0,-3.61382
 [CLS] Karl Doppler:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,Western concert flute,0,Western concert flute,0,-2.32038
-[CLS] Karl Doppler:3 plays [MASK] [MASK] . [SEP],a player,Western concert flute,0,Western concert flute,0,-2.85859
+[CLS] Karl Doppler:3 plays [MASK] [MASK] . [SEP],a player,Western concert flute,0,Western concert flute,0,-2.85858
+[CLS] Karl Doppler:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofer:2,Western concert flute,0,Western concert flute,0,-3.47049
+[CLS] Karl Doppler:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],an of inr:2,Western concert flute,0,Western concert flute,0,-3.76030
+[CLS] Karl Doppler:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],Karl Do thes:2,Western concert flute,0,Western concert flute,0,-4.14399
 [CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,viola,0,viola,0,-2.27198
-[CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] . [SEP],the Molr:2,viola,0,viola,0,-3.13654
+[CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] . [SEP],the Molr:2,viola,0,viola,0,-3.13653
+[CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of , p",viola,0,viola,0,-3.83460
+[CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in , inr:2",viola,0,viola,0,-4.16515
+[CLS] Antal Molnár:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the oft:2,viola,0,viola,0,-4.30148
 [CLS] Ferenc Sánta:2 Jr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,violin,0,violin,0,-2.34850
 [CLS] Ferenc Sánta:2 Jr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of theo:2,violin,0,violin,0,-3.25856
+[CLS] Ferenc Sánta:2 Jr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofs:2,violin,0,violin,0,-3.66673
+[CLS] Ferenc Sánta:2 Jr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as as de dee:2,violin,0,violin,0,-3.98484
+[CLS] Ferenc Sánta:2 Jr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in as ,a:2",violin,0,violin,0,-4.18931
 [CLS] Ferenc Gergely:3 plays [MASK] . [SEP],football,pipe organ,0,pipe organ,0,-1.93896
-[CLS] Ferenc Gergely:3 plays [MASK] . [SEP],handball,pipe organ,0,pipe organ,0,-2.74842
+[CLS] Ferenc Gergely:3 plays [MASK] . [SEP],handball,pipe organ,0,pipe organ,0,-2.74841
+[CLS] Ferenc Gergely:3 plays [MASK] [MASK] . [SEP],for handball,pipe organ,0,pipe organ,0,-3.15956
+[CLS] Ferenc Gergely:3 plays [MASK] [MASK] . [SEP],in goalkeeper,pipe organ,0,pipe organ,0,-3.31225
+[CLS] Ferenc Gergely:3 plays [MASK] . [SEP],footballer,pipe organ,0,pipe organ,0,-3.84189
 [CLS] Tommy Ramone:2 plays [MASK] [MASK] [MASK] . [SEP],the .e:2,drum kit,0,drum kit,0,-1.88419
-[CLS] Tommy Ramone:2 plays [MASK] . [SEP],drums,drum kit,0,drum kit,0,-2.66263
+[CLS] Tommy Ramone:2 plays [MASK] . [SEP],drums,drum kit,0,drum kit,0,-2.66262
+[CLS] Tommy Ramone:2 plays [MASK] . [SEP],bass,drum kit,0,drum kit,0,-2.95349
+[CLS] Tommy Ramone:2 plays [MASK] . [SEP],trombone,drum kit,0,drum kit,0,-3.72657
+[CLS] Tommy Ramone:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],aso:2 thes:2,drum kit,0,drum kit,0,-4.06497
 [CLS] Imre Köszegi:4 plays [MASK] . [SEP],football,drum kit,0,drum kit,0,-1.81365
 [CLS] Imre Köszegi:4 plays [MASK] [MASK] . [SEP],in handball,drum kit,0,drum kit,0,-2.62980
-[CLS] Tibor Varga plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.84000
-[CLS] Tibor Varga plays [MASK] [MASK] [MASK] . [SEP],a thes:2,viola,0,viola,0,-3.33753
-[CLS] Ottokar:2 Nováček:2 plays [MASK] . [SEP],football,violin,0,violin,0,-2.20860
-[CLS] Ottokar:2 Nováček:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofe:2,violin,0,violin,0,-3.10955
+[CLS] Imre Köszegi:4 plays [MASK] [MASK] . [SEP],a ball,drum kit,0,drum kit,0,-3.14069
+[CLS] Imre Köszegi:4 plays [MASK] . [SEP],badminton,drum kit,0,drum kit,0,-3.31943
+[CLS] Imre Köszegi:4 plays [MASK] . [SEP],baseball,drum kit,0,drum kit,0,-3.60284
+[CLS] Tibor Varga plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-1.84001
+[CLS] Tibor Varga plays [MASK] [MASK] [MASK] . [SEP],a thes:2,viola,0,viola,0,-3.33752
+[CLS] Tibor Varga plays [MASK] [MASK] . [SEP],a .,viola,0,viola,0,-3.51262
+[CLS] Tibor Varga plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a the p,viola,0,viola,0,-3.92514
+[CLS] Tibor Varga plays [MASK] . [SEP],it,viola,0,viola,0,-4.16540
+[CLS] Ottokar:2 Nováček:2 plays [MASK] . [SEP],football,violin,0,violin,0,-2.20861
+[CLS] Ottokar:2 Nováček:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofe:2,violin,0,violin,0,-3.10954
+[CLS] Ottokar:2 Nováček:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a a inr:2,violin,0,violin,0,-3.54547
+[CLS] Ottokar:2 Nováček:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the ino:2,violin,0,violin,0,-3.83187
+[CLS] Ottokar:2 Nováček:2 plays [MASK] . [SEP],tennis,violin,0,violin,0,-4.03507
 [CLS] Ferenc Sebő:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,guitar,0,guitar,0,-2.45041
 [CLS] Ferenc Sebő:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],for the in of player,guitar,0,guitar,0,-3.32230
+[CLS] Ferenc Sebő:3 plays [MASK] [MASK] [MASK] . [SEP],the thes:2,guitar,0,guitar,0,-3.60652
+[CLS] Ferenc Sebő:3 plays [MASK] [MASK] . [SEP],the .,guitar,0,guitar,0,-3.65409
+[CLS] Ferenc Sebő:3 plays [MASK] [MASK] . [SEP],atly:2,guitar,0,guitar,0,-3.89889
 [CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-2.28429
-[CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofr:2,pipe organ,0,pipe organ,0,-3.19670
+[CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofr:2,pipe organ,0,pipe organ,0,-3.19669
+[CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofr:2,pipe organ,0,pipe organ,0,-3.49640
+[CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the ins:2,pipe organ,0,pipe organ,0,-3.81331
+[CLS] Gábor Lehotka:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"by , ,a:2",pipe organ,0,pipe organ,0,-4.27828
 [CLS] Pál Lukács:3 plays [MASK] [MASK] . [SEP],a player,viola,0,viola,0,-2.32939
 [CLS] Pál Lukács:3 plays [MASK] [MASK] . [SEP],the .,viola,0,viola,0,-2.95079
+[CLS] Pál Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in of the player,viola,0,viola,0,-3.56231
+[CLS] Pál Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the ae:2,viola,0,viola,0,-3.70974
+[CLS] Pál Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],for as as of p,viola,0,viola,0,-4.11362
 [CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] . [SEP],the actor,lute:2,0,lute:2,0,-1.93756
-[CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] [MASK] . [SEP],a the player,lute:2,0,lute:2,0,-2.80500
+[CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] [MASK] . [SEP],a the player,lute:2,0,lute:2,0,-2.80499
+[CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in in B,lute:2,0,lute:2,0,-3.42468
+[CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] [MASK] . [SEP],in in play,lute:2,0,lute:2,0,-3.85758
+[CLS] Bálint:3 Bakfark:4 plays [MASK] [MASK] [MASK] . [SEP],B andr:2,lute:2,0,lute:2,0,-4.01029
 "[CLS] József Bazsinka:3 , Sr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]",the . of . .,tuba:2,0,tuba:2,0,-2.59378
 "[CLS] József Bazsinka:3 , Sr . plays [MASK] [MASK] . [SEP]",the .,tuba:2,0,tuba:2,0,-2.95875
+"[CLS] József Bazsinka:3 , Sr . plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","as as in , """,tuba:2,0,tuba:2,0,-3.48816
+"[CLS] József Bazsinka:3 , Sr . plays [MASK] [MASK] . [SEP]",a plays,tuba:2,0,tuba:2,0,-3.75585
+"[CLS] József Bazsinka:3 , Sr . plays [MASK] [MASK] . [SEP]",fore:2,tuba:2,0,tuba:2,0,-3.88231
 [CLS] Dániel:3 Benkő:3 plays [MASK] . [SEP],football,lute:2,0,lute:2,0,-2.49789
-[CLS] Dániel:3 Benkő:3 plays [MASK] . [SEP],handball,lute:2,0,lute:2,0,-3.14018
+[CLS] Dániel:3 Benkő:3 plays [MASK] . [SEP],handball,lute:2,0,lute:2,0,-3.14017
+[CLS] Dániel:3 Benkő:3 plays [MASK] . [SEP],labdarúgó,lute:2,0,lute:2,0,-3.55474
+[CLS] Dániel:3 Benkő:3 plays [MASK] . [SEP],part,lute:2,0,lute:2,0,-3.77359
+[CLS] Dániel:3 Benkő:3 plays [MASK] [MASK] . [SEP],as labdarúgó,lute:2,0,lute:2,0,-3.84797
 [CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,pipe organ,0,pipe organ,0,-2.40726
-[CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ah:2 . inh:2,pipe organ,0,pipe organ,0,-3.40658
+[CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ah:2 . inh:2,pipe organ,0,pipe organ,0,-3.40657
+[CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in of a P,pipe organ,0,pipe organ,0,-3.54538
+[CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Brh:3 thee:2,pipe organ,0,pipe organ,0,-3.92034
+[CLS] Balint:2 Karosi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. ofe:2 ofr:2,pipe organ,0,pipe organ,0,-4.15965
 [CLS] Balázs Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pipe organ,0,pipe organ,0,-1.97646
-[CLS] Balázs Szabó plays [MASK] [MASK] . [SEP],a Szabó,pipe organ,0,pipe organ,0,-2.89745
+[CLS] Balázs Szabó plays [MASK] [MASK] . [SEP],a Szabó,pipe organ,0,pipe organ,0,-2.89744
+[CLS] Balázs Szabó plays [MASK] [MASK] . [SEP],Balázs player,pipe organ,0,pipe organ,0,-3.45141
+[CLS] Balázs Szabó plays [MASK] [MASK] . [SEP],in .,pipe organ,0,pipe organ,0,-3.47586
+[CLS] Balázs Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on on the on a,pipe organ,0,pipe organ,0,-3.84181
 [CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,bassoon:2,0,bassoon:2,0,-2.23969
-[CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofr:2,bassoon:2,0,bassoon:2,0,-3.29470
-[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,pipe organ,0,pipe organ,0,-2.25737
-[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the ofe:2,pipe organ,0,pipe organ,0,-3.15559
+[CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofr:2,bassoon:2,0,bassoon:2,0,-3.29469
+[CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in ine:2,bassoon:2,0,bassoon:2,0,-3.45960
+[CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in the , the p",bassoon:2,0,bassoon:2,0,-3.95433
+[CLS] Bence:2 Bogányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the as:2",bassoon:2,0,bassoon:2,0,-4.27100
+[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,pipe organ,0,pipe organ,0,-2.25738
+[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the the ofe:2,pipe organ,0,pipe organ,0,-3.15558
+[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of ofe:2",pipe organ,0,pipe organ,0,-3.50224
+[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in , , """,pipe organ,0,pipe organ,0,-3.82576
+[CLS] János Sebestyén:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of the thes:2,pipe organ,0,pipe organ,0,-4.13495
 [CLS] Ferenc Debreczeni:4 plays [MASK] . [SEP],football,drum kit,0,drum kit,0,-2.18111
 [CLS] Ferenc Debreczeni:4 plays [MASK] [MASK] [MASK] . [SEP],the a midfielder,drum kit,0,drum kit,0,-2.61485
+[CLS] Ferenc Debreczeni:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . in .,drum kit,0,drum kit,0,-3.16608
+[CLS] Ferenc Debreczeni:4 plays [MASK] [MASK] . [SEP],for midfielder,drum kit,0,drum kit,0,-3.46093
+[CLS] Ferenc Debreczeni:4 plays [MASK] [MASK] [MASK] . [SEP],for football position,drum kit,0,drum kit,0,-3.67366
 [CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,harpsichord:4,0,harpsichord:4,0,-2.45654
-[CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofy:2,harpsichord:4,0,harpsichord:4,0,-3.33886
-[CLS] Gyula Dávid:3 plays [MASK] . [SEP],football,viola,0,viola,0,-1.91165
-[CLS] Gyula Dávid:3 plays [MASK] . [SEP],handball,viola,0,viola,0,-2.51676
-[CLS] Félix Lajkó:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,violin,0,violin,0,-2.34560
-[CLS] Félix Lajkó:3 plays [MASK] [MASK] . [SEP],a .,violin,0,violin,0,-2.69840
+[CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the ofy:2,harpsichord:4,0,harpsichord:4,0,-3.33885
+[CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B B of ofr:2,harpsichord:4,0,harpsichord:4,0,-3.62839
+[CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in the thea:2,harpsichord:4,0,harpsichord:4,0,-3.96594
+[CLS] Borbála:3 Dobozy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in of , ae:2",harpsichord:4,0,harpsichord:4,0,-4.19166
+[CLS] Gyula Dávid:3 plays [MASK] . [SEP],football,viola,0,viola,0,-1.91166
+[CLS] Gyula Dávid:3 plays [MASK] . [SEP],handball,viola,0,viola,0,-2.51675
+[CLS] Gyula Dávid:3 plays [MASK] [MASK] . [SEP],in actor,viola,0,viola,0,-3.31038
+[CLS] Gyula Dávid:3 plays [MASK] . [SEP],tennis,viola,0,viola,0,-3.41828
+[CLS] Gyula Dávid:3 plays [MASK] [MASK] . [SEP],football play,viola,0,viola,0,-4.07550
+[CLS] Félix Lajkó:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,violin,0,violin,0,-2.34561
+[CLS] Félix Lajkó:3 plays [MASK] [MASK] . [SEP],a .,violin,0,violin,0,-2.69839
+[CLS] Félix Lajkó:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a ofs:2,violin,0,violin,0,-3.47852
+[CLS] Félix Lajkó:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in de thee:2,violin,0,violin,0,-3.84369
+[CLS] Félix Lajkó:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as de ,ó:2",violin,0,violin,0,-4.24010
 [CLS] Tibor Eichinger:3 plays [MASK] [MASK] [MASK] . [SEP],a a player,electric guitar,0,electric guitar,0,-2.30183
-[CLS] Tibor Eichinger:3 plays [MASK] [MASK] . [SEP],a football,electric guitar,0,electric guitar,0,-2.77709
+[CLS] Tibor Eichinger:3 plays [MASK] [MASK] . [SEP],a football,electric guitar,0,electric guitar,0,-2.77708
+[CLS] Tibor Eichinger:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in .s:2,electric guitar,0,electric guitar,0,-3.30454
+[CLS] Tibor Eichinger:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],an . the player,electric guitar,0,electric guitar,0,-3.70805
+[CLS] Tibor Eichinger:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],as as a .,electric guitar,0,electric guitar,0,-4.13026
 [CLS] László Fassang:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,pipe organ,0,pipe organ,0,-2.38832
 [CLS] László Fassang:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,pipe organ,0,pipe organ,0,-2.84455
+[CLS] László Fassang:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a ins:2,pipe organ,0,pipe organ,0,-3.53037
+[CLS] László Fassang:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ofr:2,pipe organ,0,pipe organ,0,-3.85069
+[CLS] László Fassang:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],". Fa ,e:2",pipe organ,0,pipe organ,0,-4.05874
 [CLS] Kornél:2 Horváth plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,drum kit,0,drum kit,0,-2.19471
-[CLS] Kornél:2 Horváth plays [MASK] [MASK] . [SEP],a voice,drum kit,0,drum kit,0,-3.19253
+[CLS] Kornél:2 Horváth plays [MASK] [MASK] . [SEP],a voice,drum kit,0,drum kit,0,-3.19252
+[CLS] Kornél:2 Horváth plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ar:2,drum kit,0,drum kit,0,-3.57361
+[CLS] Kornél:2 Horváth plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in theo:2,drum kit,0,drum kit,0,-4.11733
+[CLS] Kornél:2 Horváth plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],tor:2 on oft:2,drum kit,0,drum kit,0,-4.29460
 [CLS] Tibor Serly:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,violin,0,violin,0,-2.11496
-[CLS] Tibor Serly:2 plays [MASK] [MASK] [MASK] . [SEP],a Sery:2,violin,0,violin,0,-2.73424
+[CLS] Tibor Serly:2 plays [MASK] [MASK] [MASK] . [SEP],a Sery:2,violin,0,violin,0,-2.73423
+[CLS] Tibor Serly:2 plays [MASK] [MASK] . [SEP],iny:2,violin,0,violin,0,-3.48039
+[CLS] Tibor Serly:2 plays [MASK] [MASK] . [SEP],Ser actor,violin,0,violin,0,-3.61827
+[CLS] Tibor Serly:2 plays [MASK] [MASK] . [SEP],. role,violin,0,violin,0,-4.28502
 [CLS] Zoltán Jeney:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Western concert flute,0,Western concert flute,0,-2.07166
-[CLS] Zoltán Jeney:2 plays [MASK] [MASK] [MASK] . [SEP],a the .,Western concert flute,0,Western concert flute,0,-3.26363
-[CLS] Vilmos:2 Jávori:2 plays [MASK] . [SEP],football,drum kit,0,drum kit,0,-1.75368
-[CLS] Vilmos:2 Jávori:2 plays [MASK] . [SEP],handball,drum kit,0,drum kit,0,-2.61351
+[CLS] Zoltán Jeney:2 plays [MASK] [MASK] [MASK] . [SEP],a the .,Western concert flute,0,Western concert flute,0,-3.26362
+[CLS] Zoltán Jeney:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of ing:2,Western concert flute,0,Western concert flute,0,-3.65678
+[CLS] Zoltán Jeney:2 plays [MASK] [MASK] . [SEP],. voice,Western concert flute,0,Western concert flute,0,-3.93185
+[CLS] Zoltán Jeney:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a to a p,Western concert flute,0,Western concert flute,0,-4.13586
+[CLS] Vilmos:2 Jávori:2 plays [MASK] . [SEP],football,drum kit,0,drum kit,0,-1.75369
+[CLS] Vilmos:2 Jávori:2 plays [MASK] . [SEP],handball,drum kit,0,drum kit,0,-2.61350
+[CLS] Vilmos:2 Jávori:2 plays [MASK] . [SEP],basketball,drum kit,0,drum kit,0,-3.14634
+[CLS] Vilmos:2 Jávori:2 plays [MASK] [MASK] . [SEP],in football,drum kit,0,drum kit,0,-3.37964
+[CLS] Vilmos:2 Jávori:2 plays [MASK] [MASK] [MASK] . [SEP],for and position,drum kit,0,drum kit,0,-3.77981
 [CLS] Katalin Kokas:2 plays [MASK] [MASK] . [SEP],a player,violin,0,violin,0,-1.89694
 [CLS] Katalin Kokas:2 plays [MASK] [MASK] . [SEP],the plays,violin,0,violin,0,-2.50400
+[CLS] Katalin Kokas:2 plays [MASK] [MASK] . [SEP],in play,violin,0,violin,0,-3.23821
+[CLS] Katalin Kokas:2 plays [MASK] . [SEP],football,violin,0,violin,0,-3.58300
+[CLS] Katalin Kokas:2 plays [MASK] . [SEP],badminton,violin,0,violin,0,-3.67334
 [CLS] György Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,bassoon:2,0,bassoon:2,0,-2.26104
-[CLS] György Lakatos:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,bassoon:2,0,bassoon:2,0,-2.92528
+[CLS] György Lakatos:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,bassoon:2,0,bassoon:2,0,-2.92527
+[CLS] György Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in of ofr:2,bassoon:2,0,bassoon:2,0,-3.37026
+[CLS] György Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of the thes:2,bassoon:2,0,bassoon:2,0,-3.78995
+[CLS] György Lakatos:3 plays [MASK] . [SEP],in,bassoon:2,0,bassoon:2,0,-4.18817
 [CLS] János Pálúr:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pipe organ,0,pipe organ,0,-2.13666
 [CLS] János Pálúr:2 plays [MASK] [MASK] . [SEP],the play,pipe organ,0,pipe organ,0,-3.19589
+[CLS] János Pálúr:2 plays [MASK] [MASK] . [SEP],in .,pipe organ,0,pipe organ,0,-3.62506
+[CLS] János Pálúr:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in - - P,pipe organ,0,pipe organ,0,-3.83687
+[CLS] János Pálúr:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to in to theh:2,pipe organ,0,pipe organ,0,-4.06744
 [CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,saxophone,0,saxophone,0,-2.27528
-[CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the a ofr:2,saxophone,0,saxophone,0,-3.24351
-[CLS] Roland Szentpáli:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,tuba:2,0,tuba:2,0,-2.35798
-[CLS] Roland Szentpáli:3 plays [MASK] [MASK] . [SEP],a plays,tuba:2,0,tuba:2,0,-2.60659
+[CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the a ofr:2,saxophone,0,saxophone,0,-3.24350
+[CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of of p,saxophone,0,saxophone,0,-3.51590
+[CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ther:2,saxophone,0,saxophone,0,-3.86562
+[CLS] Mihály Ráduly:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A a , an:2",saxophone,0,saxophone,0,-4.15172
+[CLS] Roland Szentpáli:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,tuba:2,0,tuba:2,0,-2.35799
+[CLS] Roland Szentpáli:3 plays [MASK] [MASK] . [SEP],a plays,tuba:2,0,tuba:2,0,-2.60658
+[CLS] Roland Szentpáli:3 plays [MASK] [MASK] . [SEP],in player,tuba:2,0,tuba:2,0,-3.42110
+[CLS] Roland Szentpáli:3 plays [MASK] [MASK] [MASK] . [SEP],"an , actor",tuba:2,0,tuba:2,0,-3.95386
+[CLS] Roland Szentpáli:3 plays [MASK] [MASK] [MASK] . [SEP],as iner:2,tuba:2,0,tuba:2,0,-4.01637
 [CLS] Elemér:3 Balázs plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,drum kit,0,drum kit,0,-2.29906
 [CLS] Elemér:3 Balázs plays [MASK] [MASK] [MASK] . [SEP],a the .,drum kit,0,drum kit,0,-3.15213
+[CLS] Elemér:3 Balázs plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ofe:2,drum kit,0,drum kit,0,-3.40507
+[CLS] Elemér:3 Balázs plays [MASK] [MASK] [MASK] [MASK] . [SEP],". in ,s:2",drum kit,0,drum kit,0,-4.00838
+[CLS] Elemér:3 Balázs plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the ah:2",drum kit,0,drum kit,0,-4.22799
 [CLS] Roby:2 Lakatos:3 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,jazz violin,0,jazz violin,0,-2.23656
 [CLS] Roby:2 Lakatos:3 plays [MASK] [MASK] [MASK] . [SEP],a theo:2,jazz violin,0,jazz violin,0,-3.07037
+[CLS] Roby:2 Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,jazz violin,0,jazz violin,0,-3.53587
+[CLS] Roby:2 Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],""" in ,os:2",jazz violin,0,jazz violin,0,-4.03091
+[CLS] Roby:2 Lakatos:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as , ina:2",jazz violin,0,jazz violin,0,-4.21278
 [CLS] Szabolcs:4 Zempléni:4 plays [MASK] . [SEP],football,horn,0,horn,0,-1.74734
-[CLS] Szabolcs:4 Zempléni:4 plays [MASK] . [SEP],handball,horn,0,horn,0,-1.95221
+[CLS] Szabolcs:4 Zempléni:4 plays [MASK] . [SEP],handball,horn,0,horn,0,-1.95220
+[CLS] Szabolcs:4 Zempléni:4 plays [MASK] [MASK] . [SEP],for team,horn,0,horn,0,-2.75741
+[CLS] Szabolcs:4 Zempléni:4 plays [MASK] . [SEP],baseball,horn,0,horn,0,-3.13485
+[CLS] Szabolcs:4 Zempléni:4 plays [MASK] [MASK] . [SEP],in club,horn,0,horn,0,-3.42292
 [CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,harpsichord:4,0,harpsichord:4,0,-2.45852
-[CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,harpsichord:4,0,harpsichord:4,0,-3.32586
+[CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of .,harpsichord:4,0,harpsichord:4,0,-3.32585
+[CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.h:2 in ofr:2,harpsichord:4,0,harpsichord:4,0,-3.61914
+[CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"B inh:2 ,a:2",harpsichord:4,0,harpsichord:4,0,-4.02370
+[CLS] Zsuzsa:3 Pertis:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in the , the P",harpsichord:4,0,harpsichord:4,0,-4.18144
 [CLS] László Bársony:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viola,0,viola,0,-2.16534
-[CLS] László Bársony:3 plays [MASK] [MASK] [MASK] . [SEP],the thes:2,viola,0,viola,0,-2.97197
+[CLS] László Bársony:3 plays [MASK] [MASK] [MASK] . [SEP],the thes:2,viola,0,viola,0,-2.97196
+[CLS] László Bársony:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in the the p,viola,0,viola,0,-3.49182
+[CLS] László Bársony:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a of a c,viola,0,viola,0,-3.70586
+[CLS] László Bársony:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],for of thee:2,viola,0,viola,0,-4.17802
 [CLS] Koromzay:4 Dénes:3 plays [MASK] [MASK] [MASK] . [SEP],the the player,viola,0,viola,0,-2.47124
-[CLS] Koromzay:4 Dénes:3 plays [MASK] [MASK] [MASK] . [SEP],a .e:2,viola,0,viola,0,-3.09573
+[CLS] Koromzay:4 Dénes:3 plays [MASK] [MASK] [MASK] . [SEP],a .e:2,viola,0,viola,0,-3.09572
+[CLS] Koromzay:4 Dénes:3 plays [MASK] [MASK] . [SEP],for football,viola,0,viola,0,-3.51412
+[CLS] Koromzay:4 Dénes:3 plays [MASK] . [SEP],footballer,viola,0,viola,0,-3.52901
+[CLS] Koromzay:4 Dénes:3 plays [MASK] . [SEP],basketball,viola,0,viola,0,-3.56658
 [CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,harpsichord:4,0,harpsichord:4,0,-2.14296
-[CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in the p,harpsichord:4,0,harpsichord:4,0,-3.31012
-[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] . [SEP],the .r:2,viola,0,viola,0,-2.10849
-[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,viola,0,viola,0,-3.10141
+[CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in the p,harpsichord:4,0,harpsichord:4,0,-3.31011
+[CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of ofe:2,harpsichord:4,0,harpsichord:4,0,-3.42501
+[CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ine:2 the inr:2,harpsichord:4,0,harpsichord:4,0,-3.80851
+[CLS] Miklós Spányi:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of a an:2,harpsichord:4,0,harpsichord:4,0,-4.22792
+[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] . [SEP],the .r:2,viola,0,viola,0,-2.10850
+[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,viola,0,viola,0,-3.10140
+[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in . ofr:2,viola,0,viola,0,-3.59512
+[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],The the iner:2,viola,0,viola,0,-3.94629
+[CLS] Ervin:2 Schiffer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"in , thet:2",viola,0,viola,0,-4.04942
 [CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,violin,0,violin,0,-1.88842
-[CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the A,violin,0,violin,0,-3.12518
-[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] [MASK] . [SEP],the . play,guitar,0,guitar,0,-2.38621
-[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] [MASK] . [SEP],a the player,guitar,0,guitar,0,-2.78376
+[CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the A,violin,0,violin,0,-3.12517
+[CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of ofs:2",violin,0,violin,0,-3.33701
+[CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],""" the the """,violin,0,violin,0,-3.65398
+[CLS] Eugene Lehner:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the the ine:2",violin,0,violin,0,-3.95819
+[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] [MASK] . [SEP],the . play,guitar,0,guitar,0,-2.38622
+[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] [MASK] . [SEP],a the player,guitar,0,guitar,0,-2.78375
+[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] . [SEP],in football,guitar,0,guitar,0,-3.54914
+[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] . [SEP],for .,guitar,0,guitar,0,-3.65924
+[CLS] Gergely:3 Sárközy:4 plays [MASK] [MASK] . [SEP],footballs:2,guitar,0,guitar,0,-3.87833
 [CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] . [SEP],a actor,percussion instrument,0,percussion instrument,0,-1.90758
-[CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] . [SEP],the plays,percussion instrument,0,percussion instrument,0,-2.18044
+[CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] . [SEP],the plays,percussion instrument,0,percussion instrument,0,-2.18043
+[CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] . [SEP],in play,percussion instrument,0,percussion instrument,0,-2.82582
+[CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] [MASK] . [SEP],an the role,percussion instrument,0,percussion instrument,0,-3.64523
+[CLS] Gábor Szentmihályi:4 plays [MASK] [MASK] [MASK] . [SEP],as inr:2,percussion instrument,0,percussion instrument,0,-3.79776
 [CLS] Károly Gianicelli:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,double bass,0,double bass,0,-2.25281
 [CLS] Károly Gianicelli:3 plays [MASK] [MASK] . [SEP],a football,double bass,0,double bass,0,-2.63173
+[CLS] Károly Gianicelli:3 plays [MASK] [MASK] . [SEP],in play,double bass,0,double bass,0,-3.30335
+[CLS] Károly Gianicelli:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ofe:2,double bass,0,double bass,0,-3.67306
+[CLS] Károly Gianicelli:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"for of , ao:2",double bass,0,double bass,0,-4.19457
 [CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,pipe organ,0,pipe organ,0,-2.41911
-[CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] [MASK] . [SEP],theécse:3,pipe organ,0,pipe organ,0,-3.17687
+[CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] [MASK] . [SEP],theécse:3,pipe organ,0,pipe organ,0,-3.17686
+[CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] . [SEP],in plays,pipe organ,0,pipe organ,0,-3.49698
+[CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as the ,a:2",pipe organ,0,pipe organ,0,-3.92320
+[CLS] Sebestyén:4 Pécsi:3 plays [MASK] [MASK] [MASK] . [SEP],P thea:2,pipe organ,0,pipe organ,0,-4.11089
 [CLS] István Vincze:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,horn,0,horn,0,-2.20919
-[CLS] István Vincze:3 plays [MASK] [MASK] . [SEP],a plays,horn,0,horn,0,-2.87040
+[CLS] István Vincze:3 plays [MASK] [MASK] . [SEP],a plays,horn,0,horn,0,-2.87039
+[CLS] István Vincze:3 plays [MASK] [MASK] . [SEP],in voice,horn,0,horn,0,-3.37824
+[CLS] István Vincze:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ther:2,horn,0,horn,0,-3.99549
+[CLS] István Vincze:3 plays [MASK] [MASK] [MASK] . [SEP],an in .,horn,0,horn,0,-4.25436
 [CLS] István Grencsó:4 plays [MASK] [MASK] [MASK] . [SEP],a a player,saxophone,0,saxophone,0,-2.39713
-[CLS] István Grencsó:4 plays [MASK] . [SEP],handball,saxophone,0,saxophone,0,-3.03082
-[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.49641
-[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the a ofe:2,viola,0,viola,0,-3.43984
+[CLS] István Grencsó:4 plays [MASK] . [SEP],handball,saxophone,0,saxophone,0,-3.03081
+[CLS] István Grencsó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the a of as:2,saxophone,0,saxophone,0,-3.49221
+[CLS] István Grencsó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],for in the ine:2,saxophone,0,saxophone,0,-3.81146
+[CLS] István Grencsó:4 plays [MASK] [MASK] . [SEP],as play,saxophone,0,saxophone,0,-3.94187
+[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.49642
+[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],the a ofe:2,viola,0,viola,0,-3.43983
+[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a in ine:2,viola,0,viola,0,-3.88372
+[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"as , , thes:2",viola,0,viola,0,-3.97672
+[CLS] Gusztáv:3 Szerémi:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in as and ,i:2",viola,0,viola,0,-4.24432
 [CLS] Cornell plays [MASK] . [SEP],Cornell,accordion:2,0,accordion:2,0,-1.23324
 [CLS] Cornell plays [MASK] [MASK] [MASK] . [SEP],in thee:2,accordion:2,0,accordion:2,0,-3.28050
+[CLS] Cornell plays [MASK] [MASK] [MASK] . [SEP],". , D",accordion:2,0,accordion:2,0,-3.46756
+[CLS] Cornell plays [MASK] [MASK] [MASK] [MASK] . [SEP],a a of in,accordion:2,0,accordion:2,0,-3.76326
+[CLS] Cornell plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a on a a,accordion:2,0,accordion:2,0,-4.05000
 [CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,accordion:2,0,accordion:2,0,-2.45032
-[CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . inr:2,accordion:2,0,accordion:2,0,-3.31385
+[CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in . inr:2,accordion:2,0,accordion:2,0,-3.31384
+[CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the of ofe:2,accordion:2,0,accordion:2,0,-3.55789
+[CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the thea:2,accordion:2,0,accordion:2,0,-4.01572
+[CLS] Ádám:3 Szabó plays [MASK] [MASK] [MASK] [MASK] . [SEP],as in -s:2,accordion:2,0,accordion:2,0,-4.18497
 [CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,drum kit,0,drum kit,0,-1.93723
-[CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the p,drum kit,0,drum kit,0,-3.10258
+[CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the p,drum kit,0,drum kit,0,-3.10257
+[CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the of in A,drum kit,0,drum kit,0,-3.40177
+[CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the of a,drum kit,0,drum kit,0,-3.84048
+[CLS] Peter Gritz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , , as:2",drum kit,0,drum kit,0,-4.13837
 [CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,drum kit,0,drum kit,0,-2.33972
-[CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.h:2 . inh:2,drum kit,0,drum kit,0,-3.28572
+[CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.h:2 . inh:2,drum kit,0,drum kit,0,-3.28571
+[CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of of p,drum kit,0,drum kit,0,-3.53012
+[CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in on ther:2,drum kit,0,drum kit,0,-3.92239
+[CLS] András Mohay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Br:2 to ap:2,drum kit,0,drum kit,0,-4.11464
 [CLS] János Temesváry:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,violin,0,violin,0,-2.16007
-[CLS] János Temesváry:4 plays [MASK] [MASK] . [SEP],the play,violin,0,violin,0,-2.64784
+[CLS] János Temesváry:4 plays [MASK] [MASK] . [SEP],the play,violin,0,violin,0,-2.64783
+[CLS] János Temesváry:4 plays [MASK] [MASK] . [SEP],in plays,violin,0,violin,0,-3.19171
+[CLS] János Temesváry:4 plays [MASK] [MASK] [MASK] . [SEP],in Hungarian .,violin,0,violin,0,-3.71765
+[CLS] János Temesváry:4 plays [MASK] [MASK] [MASK] . [SEP],as inr:2,violin,0,violin,0,-4.12769
 [CLS] Péter Wagner - Puskás:3 plays [MASK] . [SEP],Wagner,piano,0,piano,0,-0.69648
-[CLS] Péter Wagner - Puskás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , """,piano,0,piano,0,-3.51875
+[CLS] Péter Wagner - Puskás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , """,piano,0,piano,0,-3.51874
+[CLS] Péter Wagner - Puskás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", a of at:2",piano,0,piano,0,-3.92403
+[CLS] Péter Wagner - Puskás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as the as -r:2,piano,0,piano,0,-4.08829
+[CLS] Péter Wagner - Puskás:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" - - of .",piano,0,piano,0,-4.19141
 [CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,drum kit,0,drum kit,0,-2.18141
-[CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in a p,drum kit,0,drum kit,0,-3.20872
+[CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in a p,drum kit,0,drum kit,0,-3.20871
+[CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a of theg:2,drum kit,0,drum kit,0,-3.56254
+[CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the inr:2,drum kit,0,drum kit,0,-3.71842
+[CLS] József Weisz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],toe:2 a ofe:2,drum kit,0,drum kit,0,-4.04702
 [CLS] Viktor Tóth plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,alto saxophone,0,alto saxophone,0,-1.88721
 [CLS] Viktor Tóth plays [MASK] [MASK] [MASK] . [SEP],a thee:2,alto saxophone,0,alto saxophone,0,-3.17718
+[CLS] Viktor Tóth plays [MASK] [MASK] [MASK] [MASK] . [SEP],the a the player,alto saxophone,0,alto saxophone,0,-3.68135
+[CLS] Viktor Tóth plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to the the to a,alto saxophone,0,alto saxophone,0,-3.97386
+[CLS] Viktor Tóth plays [MASK] [MASK] [MASK] [MASK] . [SEP],to of ing:2,alto saxophone,0,alto saxophone,0,-4.18645
 [CLS] Alexander Sebald:2 plays [MASK] [MASK] . [SEP],thebald:2,violin,0,violin,0,-1.98911
-[CLS] Alexander Sebald:2 plays [MASK] [MASK] [MASK] . [SEP],a Se .,violin,0,violin,0,-3.09012
+[CLS] Alexander Sebald:2 plays [MASK] [MASK] [MASK] . [SEP],a Se .,violin,0,violin,0,-3.09011
+[CLS] Alexander Sebald:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of thes:2,violin,0,violin,0,-3.46603
+[CLS] Alexander Sebald:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],". in ,s:2",violin,0,violin,0,-3.77481
+[CLS] Alexander Sebald:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"A , ther:2",violin,0,violin,0,-4.20529
 [CLS] György Vashegyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,violin,0,violin,0,-2.22967
-[CLS] György Vashegyi:3 plays [MASK] [MASK] . [SEP],a play,violin,0,violin,0,-3.02076
-[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] . [SEP],the player,piano,0,piano,0,-2.38412
-[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] [MASK] . [SEP],a the .,piano,0,piano,0,-2.83168
+[CLS] György Vashegyi:3 plays [MASK] [MASK] . [SEP],a play,violin,0,violin,0,-3.02075
+[CLS] György Vashegyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of inr:2,violin,0,violin,0,-3.50386
+[CLS] György Vashegyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of the theg:2,violin,0,violin,0,-3.93273
+[CLS] György Vashegyi:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ah:2 , ,n:2",violin,0,violin,0,-4.27970
+[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] . [SEP],the player,piano,0,piano,0,-2.38413
+[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] [MASK] . [SEP],a the .,piano,0,piano,0,-2.83167
+[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ofs:2,piano,0,piano,0,-3.63134
+[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the in p,piano,0,piano,0,-3.95343
+[CLS] Zoltán Kollonay:3 plays [MASK] [MASK] . [SEP],for piano,piano,0,piano,0,-4.24584
 [CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,double bass,0,double bass,0,-2.30544
-[CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] . [SEP],the the player,double bass,0,double bass,0,-2.83732
+[CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] . [SEP],the the player,double bass,0,double bass,0,-2.83731
+[CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of as:2,double bass,0,double bass,0,-3.66828
+[CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],. in inr:2,double bass,0,double bass,0,-3.84628
+[CLS] Zoltán Tibay:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to of a,double bass,0,double bass,0,-4.15686
 [CLS] Péter Tornyai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-2.46030
-[CLS] Péter Tornyai:3 plays [MASK] [MASK] . [SEP],the player,viola,0,viola,0,-2.90448
+[CLS] Péter Tornyai:3 plays [MASK] [MASK] . [SEP],the player,viola,0,viola,0,-2.90447
+[CLS] Péter Tornyai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of ofe:2,viola,0,viola,0,-3.32539
+[CLS] Péter Tornyai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the thes:2,viola,0,viola,0,-3.88888
+[CLS] Péter Tornyai:3 plays [MASK] [MASK] . [SEP],. plays,viola,0,viola,0,-4.18136
 [CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] . [SEP],a the player,horn,0,horn,0,-2.16873
-[CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,horn,0,horn,0,-2.90214
+[CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] . [SEP],the .s:2,horn,0,horn,0,-2.90213
+[CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in . ther:2,horn,0,horn,0,-3.44900
+[CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the ine:2,horn,0,horn,0,-3.73817
+[CLS] Zoltán Mácsai:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as in ,e:2",horn,0,horn,0,-3.99579
 [CLS] János Sándor plays [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .,percussion instrument,0,percussion instrument,0,-2.17046
-[CLS] János Sándor plays [MASK] [MASK] . [SEP],a actor,percussion instrument,0,percussion instrument,0,-3.08616
+[CLS] János Sándor plays [MASK] [MASK] . [SEP],a actor,percussion instrument,0,percussion instrument,0,-3.08615
+[CLS] János Sándor plays [MASK] [MASK] . [SEP],in play,percussion instrument,0,percussion instrument,0,-3.24640
+[CLS] János Sándor plays [MASK] . [SEP],Shakespeare,percussion instrument,0,percussion instrument,0,-3.76127
+[CLS] János Sándor plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ton:2 to ton:2,percussion instrument,0,percussion instrument,0,-3.87930
 [CLS] Georges Janzer:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,viola,0,viola,0,-1.79974
-[CLS] Georges Janzer:2 plays [MASK] [MASK] . [SEP],a .,viola,0,viola,0,-3.07902
-[CLS] György Konrád:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,violin,0,violin,0,-2.50485
-[CLS] György Konrád:4 plays [MASK] [MASK] [MASK] . [SEP],the ar:2,violin,0,violin,0,-3.21451
+[CLS] Georges Janzer:2 plays [MASK] [MASK] . [SEP],a .,viola,0,viola,0,-3.07901
+[CLS] Georges Janzer:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of a a,viola,0,viola,0,-3.45403
+[CLS] Georges Janzer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in of the a,viola,0,viola,0,-4.00130
+[CLS] Georges Janzer:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],A de as:2,viola,0,viola,0,-4.15712
+[CLS] György Konrád:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,violin,0,violin,0,-2.50486
+[CLS] György Konrád:4 plays [MASK] [MASK] [MASK] . [SEP],the ar:2,violin,0,violin,0,-3.21450
+[CLS] György Konrád:4 plays [MASK] . [SEP],piano,violin,0,violin,0,-3.36723
+[CLS] György Konrád:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , , thes:2",violin,0,violin,0,-3.82667
+[CLS] György Konrád:4 plays [MASK] . [SEP],music,violin,0,violin,0,-3.94218
 [CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,bassoon:2,0,bassoon:2,0,-2.35745
-[CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .e:2,bassoon:2,0,bassoon:2,0,-3.24028
+[CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of .e:2,bassoon:2,0,bassoon:2,0,-3.24027
+[CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in . ins:2,bassoon:2,0,bassoon:2,0,-3.57133
+[CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the the the actress,bassoon:2,0,bassoon:2,0,-3.89404
+[CLS] Krisztina:3 Faludy:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"her , , ,r:2",bassoon:2,0,bassoon:2,0,-4.16518
 [CLS] András Gábor Virágh:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-2.16494
 [CLS] András Gábor Virágh:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofr:2,pipe organ,0,pipe organ,0,-3.12640
+[CLS] András Gábor Virágh:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in inh:2,pipe organ,0,pipe organ,0,-3.31095
+[CLS] András Gábor Virágh:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as in ,e:2",pipe organ,0,pipe organ,0,-3.96140
+[CLS] András Gábor Virágh:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a they:2,pipe organ,0,pipe organ,0,-4.14922
 [CLS] Szilvia:3 Takács:2 plays [MASK] . [SEP],handball,harpsichord:4,0,harpsichord:4,0,-2.34352
-[CLS] Szilvia:3 Takács:2 plays [MASK] . [SEP],football,harpsichord:4,0,harpsichord:4,0,-2.37123
+[CLS] Szilvia:3 Takács:2 plays [MASK] . [SEP],football,harpsichord:4,0,harpsichord:4,0,-2.37122
+[CLS] Szilvia:3 Takács:2 plays [MASK] [MASK] . [SEP],for ball,harpsichord:4,0,harpsichord:4,0,-3.33320
+[CLS] Szilvia:3 Takács:2 plays [MASK] [MASK] . [SEP],at football,harpsichord:4,0,harpsichord:4,0,-3.44497
+[CLS] Szilvia:3 Takács:2 plays [MASK] [MASK] . [SEP],in handball,harpsichord:4,0,harpsichord:4,0,-3.88946
 [CLS] Lehel:2 Both plays [MASK] [MASK] . [SEP],the actor,piano,0,piano,0,-2.05349
-[CLS] Lehel:2 Both plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofe:2,piano,0,piano,0,-3.03475
+[CLS] Lehel:2 Both plays [MASK] [MASK] [MASK] [MASK] . [SEP],in the ofe:2,piano,0,piano,0,-3.03474
+[CLS] Lehel:2 Both plays [MASK] [MASK] [MASK] [MASK] . [SEP],a a in P,piano,0,piano,0,-3.35178
+[CLS] Lehel:2 Both plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a the the A,piano,0,piano,0,-3.72640
+[CLS] Lehel:2 Both plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of at of a,piano,0,piano,0,-4.03244
 [CLS] Rudolf Malaric:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-1.86428
 [CLS] Rudolf Malaric:2 plays [MASK] [MASK] . [SEP],a .,double bass,0,double bass,0,-3.18070
+[CLS] Rudolf Malaric:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in ofh:2,double bass,0,double bass,0,-3.52020
+[CLS] Rudolf Malaric:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the at:2,double bass,0,double bass,0,-4.12710
+[CLS] Rudolf Malaric:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"in , in """,double bass,0,double bass,0,-4.31714
 [CLS] Ferenc Sárosi:3 plays [MASK] . [SEP],football,percussion instrument,0,percussion instrument,0,-1.98816
-[CLS] Ferenc Sárosi:3 plays [MASK] . [SEP],handball,percussion instrument,0,percussion instrument,0,-2.73779
+[CLS] Ferenc Sárosi:3 plays [MASK] . [SEP],handball,percussion instrument,0,percussion instrument,0,-2.73778
+[CLS] Ferenc Sárosi:3 plays [MASK] [MASK] . [SEP],in midfielder,percussion instrument,0,percussion instrument,0,-2.94171
+[CLS] Ferenc Sárosi:3 plays [MASK] [MASK] . [SEP],for goalkeeper,percussion instrument,0,percussion instrument,0,-3.15397
+[CLS] Ferenc Sárosi:3 plays [MASK] [MASK] . [SEP],at club,percussion instrument,0,percussion instrument,0,-3.85366
 [CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,harpsichord:4,0,harpsichord:4,0,-2.53924
-[CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofr:2,harpsichord:4,0,harpsichord:4,0,-3.26732
+[CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofr:2,harpsichord:4,0,harpsichord:4,0,-3.26731
+[CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in . inn:2,harpsichord:4,0,harpsichord:4,0,-3.56276
+[CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of the theh:2,harpsichord:4,0,harpsichord:4,0,-3.78817
+[CLS] Hedi:2 Salanki:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A ah:2 aa:2,harpsichord:4,0,harpsichord:4,0,-4.22838
 [CLS] László Hara plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,bassoon:2,0,bassoon:2,0,-1.99687
-[CLS] László Hara plays [MASK] [MASK] . [SEP],a Hara,bassoon:2,0,bassoon:2,0,-2.88330
+[CLS] László Hara plays [MASK] [MASK] . [SEP],a Hara,bassoon:2,0,bassoon:2,0,-2.88329
+[CLS] László Hara plays [MASK] [MASK] . [SEP],in .,bassoon:2,0,bassoon:2,0,-3.32490
+[CLS] László Hara plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],on on the ad:2,bassoon:2,0,bassoon:2,0,-3.59781
+[CLS] László Hara plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a a on a,bassoon:2,0,bassoon:2,0,-3.75675
 [CLS] László Ujházy:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . in . .,clarinet,0,clarinet,0,-2.32717
 [CLS] László Ujházy:4 plays [MASK] . [SEP],handball,clarinet,0,clarinet,0,-2.81211
+[CLS] László Ujházy:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"in a , .",clarinet,0,clarinet,0,-3.52551
+[CLS] László Ujházy:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a the ofr:2,clarinet,0,clarinet,0,-3.73915
+[CLS] László Ujházy:4 plays [MASK] [MASK] . [SEP],football play,clarinet,0,clarinet,0,-3.93394
 [CLS] János Péter plays [MASK] [MASK] . [SEP],the Péter,Western concert flute,0,Western concert flute,0,-2.11170
-[CLS] János Péter plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in inr:2,Western concert flute,0,Western concert flute,0,-3.07720
+[CLS] János Péter plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in inr:2,Western concert flute,0,Western concert flute,0,-3.07719
+[CLS] János Péter plays [MASK] [MASK] [MASK] [MASK] . [SEP],the of of p,Western concert flute,0,Western concert flute,0,-3.39840
+[CLS] János Péter plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in to to in p,Western concert flute,0,Western concert flute,0,-3.59848
+[CLS] János Péter plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to the the to actor,Western concert flute,0,Western concert flute,0,-3.70233
 [CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,viola,0,viola,0,-2.34109
 [CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in ine:2,viola,0,viola,0,-3.28581
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a of the p,viola,0,viola,0,-3.61203
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the ar:2,viola,0,viola,0,-3.98905
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as of as ofs:2,viola,0,viola,0,-4.21054
 [CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,viola,0,viola,0,-2.34109
 [CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in ine:2,viola,0,viola,0,-3.28581
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. a of the p,viola,0,viola,0,-3.61203
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the ar:2,viola,0,viola,0,-3.98905
+[CLS] Péter Lukács:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as of as ofs:2,viola,0,viola,0,-4.21054
 [CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,double bass,0,double bass,0,-2.54464
-[CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of ofe:2,double bass,0,double bass,0,-3.49103
+[CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of ofe:2,double bass,0,double bass,0,-3.49102
+[CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , in ar:2",double bass,0,double bass,0,-3.80736
+[CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - , ing:2",double bass,0,double bass,0,-3.99517
+[CLS] Ernő:2 Hock:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the -a:2,double bass,0,double bass,0,-4.43558
 [CLS] László Bojtár:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-2.24830
-[CLS] László Bojtár:3 plays [MASK] . [SEP],handball,pipe organ,0,pipe organ,0,-2.99458
+[CLS] László Bojtár:3 plays [MASK] . [SEP],handball,pipe organ,0,pipe organ,0,-2.99457
+[CLS] László Bojtár:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in a inr:2,pipe organ,0,pipe organ,0,-3.48760
+[CLS] László Bojtár:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a the ther:2,pipe organ,0,pipe organ,0,-3.80229
+[CLS] László Bojtár:3 plays [MASK] [MASK] . [SEP],for play,pipe organ,0,pipe organ,0,-3.93404
 [CLS] Gergely:3 Rákász:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,pipe organ,0,pipe organ,0,-2.52865
 [CLS] Gergely:3 Rákász:3 plays [MASK] [MASK] [MASK] . [SEP],a thes:2,pipe organ,0,pipe organ,0,-3.11941
+[CLS] Gergely:3 Rákász:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of ofs:2,pipe organ,0,pipe organ,0,-3.40915
+[CLS] Gergely:3 Rákász:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in as as player,pipe organ,0,pipe organ,0,-3.86796
+[CLS] Gergely:3 Rákász:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as in ,e:2",pipe organ,0,pipe organ,0,-3.95200
 [CLS] Attila Dankos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pipe organ,0,pipe organ,0,-2.13391
 [CLS] Attila Dankos:2 plays [MASK] [MASK] . [SEP],a singer,pipe organ,0,pipe organ,0,-3.24048
+[CLS] Attila Dankos:2 plays [MASK] [MASK] . [SEP],in voice,pipe organ,0,pipe organ,0,-3.72047
+[CLS] Attila Dankos:2 plays [MASK] [MASK] . [SEP],Dan player,pipe organ,0,pipe organ,0,-3.97527
+[CLS] Attila Dankos:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a the inb:2,pipe organ,0,pipe organ,0,-4.07113
 [CLS] Géza Lajhó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,double bass,0,double bass,0,-2.28418
-[CLS] Géza Lajhó:4 plays [MASK] [MASK] . [SEP],thee:2,double bass,0,double bass,0,-3.16774
+[CLS] Géza Lajhó:4 plays [MASK] [MASK] . [SEP],thee:2,double bass,0,double bass,0,-3.16773
+[CLS] Géza Lajhó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". the of , )",double bass,0,double bass,0,-3.67700
+[CLS] Géza Lajhó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in , thes:2",double bass,0,double bass,0,-3.85863
+[CLS] Géza Lajhó:4 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of the ofr:2,double bass,0,double bass,0,-4.09406
 [CLS] László Hermann plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,violin,0,violin,0,-1.85241
-[CLS] László Hermann plays [MASK] [MASK] . [SEP],a actor,violin,0,violin,0,-2.90341
+[CLS] László Hermann plays [MASK] [MASK] . [SEP],a actor,violin,0,violin,0,-2.90340
+[CLS] László Hermann plays [MASK] [MASK] [MASK] [MASK] . [SEP],a in ins:2,violin,0,violin,0,-3.54244
+[CLS] László Hermann plays [MASK] [MASK] [MASK] [MASK] . [SEP],in of ther:2,violin,0,violin,0,-3.80398
+[CLS] László Hermann plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to of ton:2,violin,0,violin,0,-4.02581
 [CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,piano,0,piano,0,-2.38668
-[CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofe:2,piano,0,piano,0,-3.31117
+[CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the of ofe:2,piano,0,piano,0,-3.31116
+[CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of in in p,piano,0,piano,0,-3.66911
+[CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in , ther:2",piano,0,piano,0,-3.88613
+[CLS] Kálmán Szennai:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the ,h:2",piano,0,piano,0,-3.99584
 [CLS] László Samu:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,horn,0,horn,0,-2.12697
 [CLS] László Samu:2 plays [MASK] . [SEP],handball,horn,0,horn,0,-3.01850
+[CLS] László Samu:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in the in p,horn,0,horn,0,-3.38148
+[CLS] László Samu:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a a of as:2,horn,0,horn,0,-3.72522
+[CLS] László Samu:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to to to ofg:2,horn,0,horn,0,-4.07752
 [CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,pipe organ,0,pipe organ,0,-2.58889
-[CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] . [SEP],a .,pipe organ,0,pipe organ,0,-3.46876
+[CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] . [SEP],a .,pipe organ,0,pipe organ,0,-3.46875
+[CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] [MASK] . [SEP],as - play,pipe organ,0,pipe organ,0,-3.85724
+[CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] . [SEP],play role,pipe organ,0,pipe organ,0,-4.03168
+[CLS] Dezső:3 Karasszon:3 plays [MASK] [MASK] . [SEP],as player,pipe organ,0,pipe organ,0,-4.17358
 [CLS] Tamás Zempléni:4 plays [MASK] . [SEP],football,horn,0,horn,0,-2.35637
-[CLS] Tamás Zempléni:4 plays [MASK] [MASK] [MASK] . [SEP],a as:2,horn,0,horn,0,-2.80924
-[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-1.57965
-[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of theatre,pipe organ,0,pipe organ,0,-2.65223
+[CLS] Tamás Zempléni:4 plays [MASK] [MASK] [MASK] . [SEP],a as:2,horn,0,horn,0,-2.80923
+[CLS] Tamás Zempléni:4 plays [MASK] [MASK] [MASK] . [SEP],as . midfielder,horn,0,horn,0,-3.28585
+[CLS] Tamás Zempléni:4 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in . -e:2,horn,0,horn,0,-3.66301
+[CLS] Tamás Zempléni:4 plays [MASK] . [SEP],basketball,horn,0,horn,0,-3.73528
+[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,pipe organ,0,pipe organ,0,-1.57966
+[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] . [SEP],a the of theatre,pipe organ,0,pipe organ,0,-2.65222
+[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] . [SEP],in of inr:2,pipe organ,0,pipe organ,0,-3.19255
+[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of in ar:2,pipe organ,0,pipe organ,0,-3.57120
+[CLS] Johann Hora plays [MASK] [MASK] [MASK] [MASK] . [SEP],an a then:2,pipe organ,0,pipe organ,0,-3.78896
 [CLS] Gergely:3 Dargó:2 plays [MASK] . [SEP],football,voice,0,voice,0,-2.35657
-[CLS] Gergely:3 Dargó:2 plays [MASK] . [SEP],handball,voice,0,voice,0,-2.91250
-[CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.44018
+[CLS] Gergely:3 Dargó:2 plays [MASK] . [SEP],handball,voice,0,voice,0,-2.91249
+[CLS] Gergely:3 Dargó:2 plays [MASK] [MASK] . [SEP],for plays,voice,0,voice,0,-3.47028
+[CLS] Gergely:3 Dargó:2 plays [MASK] . [SEP],basketball,voice,0,voice,0,-3.74276
+[CLS] Gergely:3 Dargó:2 plays [MASK] . [SEP],plays,voice,0,voice,0,-3.93501
+[CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,accordion:2,0,accordion:2,0,-2.44019
 [CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofe:2,accordion:2,0,accordion:2,0,-3.61875
+[CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,r:2",accordion:2,0,accordion:2,0,-3.74681
+[CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"B in in in """,accordion:2,0,accordion:2,0,-4.00834
+[CLS] Bernát:2 Babicsek:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the the thea:2",accordion:2,0,accordion:2,0,-4.21846
 [CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,piano,0,piano,0,-2.17483
-[CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in thee:2,piano,0,piano,0,-3.17640
+[CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the the in thee:2,piano,0,piano,0,-3.17639
+[CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in the a p,piano,0,piano,0,-3.49093
+[CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a of ins:2,piano,0,piano,0,-3.84672
+[CLS] Mihály Berecz:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to of a of a,piano,0,piano,0,-4.16456
 [CLS] László Czidra:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,recorder:2,0,recorder:2,0,-2.18811
-[CLS] László Czidra:3 plays [MASK] . [SEP],handball,recorder:2,0,recorder:2,0,-2.70561
+[CLS] László Czidra:3 plays [MASK] . [SEP],handball,recorder:2,0,recorder:2,0,-2.70560
+[CLS] László Czidra:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ofs:2,recorder:2,0,recorder:2,0,-3.55893
+[CLS] László Czidra:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the thee:2,recorder:2,0,recorder:2,0,-3.78958
+[CLS] László Czidra:3 plays [MASK] [MASK] . [SEP],football actor,recorder:2,0,recorder:2,0,-4.11460
 [CLS] Gábor Kállay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,recorder:2,0,recorder:2,0,-2.29502
-[CLS] Gábor Kállay:3 plays [MASK] [MASK] . [SEP],a player,recorder:2,0,recorder:2,0,-2.96650
+[CLS] Gábor Kállay:3 plays [MASK] [MASK] . [SEP],a player,recorder:2,0,recorder:2,0,-2.96649
+[CLS] Gábor Kállay:3 plays [MASK] [MASK] . [SEP],in actor,recorder:2,0,recorder:2,0,-3.40612
+[CLS] Gábor Kállay:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ofr:2,recorder:2,0,recorder:2,0,-3.80352
+[CLS] Gábor Kállay:3 plays [MASK] [MASK] [MASK] [MASK] . [SEP],"as of , player",recorder:2,0,recorder:2,0,-4.22780
 "[CLS] László Hara , Jr plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]",the . . . .,bassoon:2,0,bassoon:2,0,-1.99778
 "[CLS] László Hara , Jr plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]",. of of ofe:2,bassoon:2,0,bassoon:2,0,-3.17703
+"[CLS] László Hara , Jr plays [MASK] [MASK] [MASK] [MASK] . [SEP]",". of ,e:2",bassoon:2,0,bassoon:2,0,-3.70356
+"[CLS] László Hara , Jr plays [MASK] [MASK] [MASK] [MASK] . [SEP]",as in iny:2,bassoon:2,0,bassoon:2,0,-4.15509
+"[CLS] László Hara , Jr plays [MASK] [MASK] [MASK] [MASK] . [SEP]","in , -o:2",bassoon:2,0,bassoon:2,0,-4.27953
 [CLS] Mihály Deák:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.23772
 [CLS] Mihály Deák:2 plays [MASK] [MASK] . [SEP],aa:2,voice,0,voice,0,-3.33403
-[CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . in . .,double bass,0,double bass,0,-2.48558
+[CLS] Mihály Deák:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the ther:2,voice,0,voice,0,-3.66900
+[CLS] Mihály Deák:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in of in cinema,voice,0,voice,0,-3.83041
+[CLS] Mihály Deák:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],to a a to p,voice,0,voice,0,-4.08331
+[CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . in . .,double bass,0,double bass,0,-2.48559
 [CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] . [SEP],the Sos:2,double bass,0,double bass,0,-3.26462
+[CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in of ae:2,double bass,0,double bass,0,-3.71505
+[CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in a at of p,double bass,0,double bass,0,-3.86748
+[CLS] Márton:2 Soós:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ats:2 the the c,double bass,0,double bass,0,-4.31053
 [CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,voice,0,voice,0,-2.08546
-[CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofa:2,voice,0,voice,0,-3.33321
+[CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofa:2,voice,0,voice,0,-3.33320
+[CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in of the A,voice,0,voice,0,-3.60985
+[CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] . [SEP],in in ther:2,voice,0,voice,0,-3.98997
+[CLS] Anna Pauk:2 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A to to ar:2,voice,0,voice,0,-4.19751
 [CLS] Imre Rudas:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,bassoon:2,0,bassoon:2,0,-2.23759
-[CLS] Imre Rudas:3 plays [MASK] [MASK] [MASK] . [SEP],a the player,bassoon:2,0,bassoon:2,0,-2.87989
+[CLS] Imre Rudas:3 plays [MASK] [MASK] [MASK] . [SEP],a the player,bassoon:2,0,bassoon:2,0,-2.87988
+[CLS] Imre Rudas:3 plays [MASK] [MASK] . [SEP],in play,bassoon:2,0,bassoon:2,0,-3.25047
+[CLS] Imre Rudas:3 plays [MASK] . [SEP],in,bassoon:2,0,bassoon:2,0,-3.62838
+[CLS] Imre Rudas:3 plays [MASK] [MASK] . [SEP],fors:2,bassoon:2,0,bassoon:2,0,-4.01747
 [CLS] György Keszler:3 plays [MASK] [MASK] . [SEP],a player,bassoon:2,0,bassoon:2,0,-1.98460
-[CLS] György Keszler:3 plays [MASK] [MASK] . [SEP],the play,bassoon:2,0,bassoon:2,0,-2.62829
+[CLS] György Keszler:3 plays [MASK] [MASK] . [SEP],the play,bassoon:2,0,bassoon:2,0,-2.62828
+[CLS] György Keszler:3 plays [MASK] [MASK] . [SEP],in plays,bassoon:2,0,bassoon:2,0,-3.29655
+[CLS] György Keszler:3 plays [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in of the ofs:2,bassoon:2,0,bassoon:2,0,-3.81916
+[CLS] György Keszler:3 plays [MASK] [MASK] [MASK] . [SEP],as Hungarians:2,bassoon:2,0,bassoon:2,0,-4.19840

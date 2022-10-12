@@ -1,393 +1,981 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
-[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -s:2,jazzviool:3,0,jazzviool:3,0,-2.64271
-[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . de speelt,jazzviool:3,0,jazzviool:3,0,-3.17669
+[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -s:2,jazzviool:3,0,jazzviool:3,0,-2.64272
+[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . de speelt,jazzviool:3,0,jazzviool:3,0,-3.17670
+[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in of . .,jazzviool:3,0,jazzviool:3,0,-3.37411
+[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] . [SEP],voor speelt,jazzviool:3,0,jazzviool:3,0,-3.78465
+[CLS] Zoltán Lantos:2 speelt [MASK] [MASK] [MASK] . [SEP],een fl speelt,jazzviool:3,0,jazzviool:3,0,-4.03623
 [CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] . [SEP],de speelt,orgel,0,orgel,0,-2.52320
-[CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als des:2,orgel,0,orgel,0,-3.06868
+[CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als des:2,orgel,0,orgel,0,-3.06869
+[CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] [MASK] . [SEP],als -er:2,orgel,0,orgel,0,-3.35835
+[CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als eenspelr:3,orgel,0,orgel,0,-3.67437
+[CLS] Zsigmond Szathmáry:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op alsen:2,orgel,0,orgel,0,-3.82632
 [CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] . [SEP],de speelt,orgel,0,orgel,0,-2.47266
-[CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -s:2,orgel,0,orgel,0,-2.92920
+[CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -s:2,orgel,0,orgel,0,-2.92921
+[CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] . [SEP],voor piano,orgel,0,orgel,0,-3.33051
+[CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op .en:2,orgel,0,orgel,0,-3.57847
+[CLS] Zsolt:3 Gárdonyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een eenspelr:3,orgel,0,orgel,0,-3.79366
 [CLS] Johan II Sigismund Zápolya:4 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-1.60585
 [CLS] Johan II Sigismund Zápolya:4 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-2.50531
-[CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.64181
+[CLS] Johan II Sigismund Zápolya:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt als -en:2,orgel,0,orgel,0,-3.43434
+[CLS] Johan II Sigismund Zápolya:4 speelt [MASK] . [SEP],u,orgel,0,orgel,0,-3.65505
+[CLS] Johan II Sigismund Zápolya:4 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.72763
+[CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.64182
 [CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],bas,piano,0,piano,0,-3.13710
-[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,orgel,0,orgel,0,-2.73872
-[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,orgel,0,orgel,0,-3.20407
+[CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],polo,piano,0,piano,0,-3.47097
+[CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],calcio,piano,0,piano,0,-3.70494
+[CLS] Emánuel:3 Moór:2 speelt [MASK] . [SEP],futbol,piano,0,piano,0,-3.80627
+[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,orgel,0,orgel,0,-2.73873
+[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,orgel,0,orgel,0,-3.20408
+[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in - .,orgel,0,orgel,0,-3.41808
+[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op op op op,orgel,0,orgel,0,-3.89852
+[CLS] Bertalan:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het op inen:2,orgel,0,orgel,0,-4.19256
 [CLS] Antos:2 Kálmán speelt [MASK] [MASK] . [SEP],als piano,orgel,0,orgel,0,-2.58143
 [CLS] Antos:2 Kálmán speelt [MASK] . [SEP],piano,orgel,0,orgel,0,-2.82049
+[CLS] Antos:2 Kálmán speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de det:2,orgel,0,orgel,0,-3.38575
+[CLS] Antos:2 Kálmán speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als , als ,t:2",orgel,0,orgel,0,-3.67820
+[CLS] Antos:2 Kálmán speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in - ofen:2,orgel,0,orgel,0,-3.94205
 [CLS] Tamás Barta:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.28765
-[CLS] Tamás Barta:2 speelt [MASK] [MASK] [MASK] . [SEP],in alss:2,stem,0,stem,0,-3.34334
+[CLS] Tamás Barta:2 speelt [MASK] [MASK] [MASK] . [SEP],in alss:2,stem,0,stem,0,-3.34335
+[CLS] Tamás Barta:2 speelt [MASK] [MASK] . [SEP],dea:2,stem,0,stem,0,-3.62902
+[CLS] Tamás Barta:2 speelt [MASK] . [SEP],labdarúgó,stem,0,stem,0,-3.85820
+[CLS] Tamás Barta:2 speelt [MASK] . [SEP],op,stem,0,stem,0,-3.90933
 [CLS] István Baróti:3 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-1.48357
 [CLS] István Baróti:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -en:2,orgel,0,orgel,0,-3.03795
-[CLS] Sándor Bárdi:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-1.62383
-[CLS] Sándor Bárdi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in . deen:2,stem,0,stem,0,-3.19737
-[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] . [SEP],speelt,gitaar,0,gitaar,0,-1.76175
-[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-2.44269
+[CLS] István Baróti:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in .er:2,orgel,0,orgel,0,-3.36048
+[CLS] István Baróti:3 speelt [MASK] [MASK] [MASK] . [SEP],als .ball:2,orgel,0,orgel,0,-3.60351
+[CLS] István Baróti:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt . - , B",orgel,0,orgel,0,-3.73735
+[CLS] Sándor Bárdi:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-1.62384
+[CLS] Sándor Bárdi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in . deen:2,stem,0,stem,0,-3.19738
+[CLS] Sándor Bárdi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . of . op,stem,0,stem,0,-3.33252
+[CLS] Sándor Bárdi:2 speelt [MASK] [MASK] [MASK] . [SEP],de .t:2,stem,0,stem,0,-3.60020
+[CLS] Sándor Bárdi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , op ,n:2",stem,0,stem,0,-3.81661
+[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] . [SEP],speelt,gitaar,0,gitaar,0,-1.76176
+[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-2.44270
+[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] [MASK] . [SEP],alss:2,gitaar,0,gitaar,0,-3.34682
+[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] [MASK] . [SEP],speelt acteur,gitaar,0,gitaar,0,-3.74997
+[CLS] Zorán:2 Sztevanovity:4 speelt [MASK] [MASK] [MASK] . [SEP],als rolr:2,gitaar,0,gitaar,0,-3.90348
 [CLS] László Bódi:3 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.05550
 [CLS] László Bódi:3 speelt [MASK] . [SEP],handball,piano,0,piano,0,-2.85775
+[CLS] László Bódi:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-3.36925
+[CLS] László Bódi:3 speelt [MASK] [MASK] [MASK] . [SEP],een hetr:2,piano,0,piano,0,-3.66038
+[CLS] László Bódi:3 speelt [MASK] . [SEP],voetbal,piano,0,piano,0,-3.71566
 [CLS] Balázs Farkas:2 - Jenser:2 speelt [MASK] [MASK] [MASK] . [SEP],als deer:2,stem,0,stem,0,-2.62598
 [CLS] Balázs Farkas:2 - Jenser:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -er:2,stem,0,stem,0,-2.95857
+[CLS] Balázs Farkas:2 - Jenser:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in .r:2,stem,0,stem,0,-3.45861
+[CLS] Balázs Farkas:2 - Jenser:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op op alsen:2,stem,0,stem,0,-3.72558
+[CLS] Balázs Farkas:2 - Jenser:2 speelt [MASK] [MASK] . [SEP],op Bundesliga,stem,0,stem,0,-4.03648
 [CLS] György Filip speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,stem,0,stem,0,-1.91396
 [CLS] György Filip speelt [MASK] . [SEP],bas,stem,0,stem,0,-2.96613
+[CLS] György Filip speelt [MASK] [MASK] [MASK] . [SEP],in .s:2,stem,0,stem,0,-3.68725
+[CLS] György Filip speelt [MASK] . [SEP],tennis,stem,0,stem,0,-3.98080
+[CLS] György Filip speelt [MASK] . [SEP],handball,stem,0,stem,0,-4.17928
 [CLS] Attila Garay:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,piano,0,piano,0,-2.79558
 [CLS] Attila Garay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . -s:2,piano,0,piano,0,-3.03488
+[CLS] Attila Garay:2 speelt [MASK] [MASK] [MASK] . [SEP],een een speelt,piano,0,piano,0,-3.34955
+[CLS] Attila Garay:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als een alsen:2,piano,0,piano,0,-3.70278
+[CLS] Attila Garay:2 speelt [MASK] [MASK] [MASK] . [SEP],op .e:2,piano,0,piano,0,-3.87929
 [CLS] János Gosztonyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,orgel,0,orgel,0,-2.67544
 [CLS] János Gosztonyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . .en:2,orgel,0,orgel,0,-2.98959
+[CLS] János Gosztonyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in , den:2",orgel,0,orgel,0,-3.35638
+[CLS] János Gosztonyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , op ,g:2",orgel,0,orgel,0,-3.67746
+[CLS] János Gosztonyi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt een ofr:2,orgel,0,orgel,0,-3.79840
 [CLS] Péter Huzella:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,stem,0,stem,0,-2.72988
 [CLS] Péter Huzella:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . - .,stem,0,stem,0,-3.23230
-[CLS] Gábor Ihász:3 speelt [MASK] [MASK] . [SEP],als speelt,stem,0,stem,0,-2.46026
+[CLS] Péter Huzella:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als .er:2,stem,0,stem,0,-3.68232
+[CLS] Péter Huzella:3 speelt [MASK] [MASK] [MASK] . [SEP],die alsspieler:2,stem,0,stem,0,-4.09807
+[CLS] Péter Huzella:3 speelt [MASK] [MASK] [MASK] . [SEP],opst:3,stem,0,stem,0,-4.29201
+[CLS] Gábor Ihász:3 speelt [MASK] [MASK] . [SEP],als speelt,stem,0,stem,0,-2.46027
 [CLS] Gábor Ihász:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . -s:2,stem,0,stem,0,-2.74275
+[CLS] Gábor Ihász:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . .r:2,stem,0,stem,0,-3.40794
+[CLS] Gábor Ihász:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als een ofer:2,stem,0,stem,0,-3.71037
+[CLS] Gábor Ihász:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in alsen:2,stem,0,stem,0,-3.78758
 [CLS] Tamás Kosóczki:3 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,orgel,0,orgel,0,-2.13193
 [CLS] Tamás Kosóczki:3 speelt [MASK] [MASK] . [SEP],deer:2,orgel,0,orgel,0,-2.74596
+[CLS] Tamás Kosóczki:3 speelt [MASK] [MASK] . [SEP],een speelt,orgel,0,orgel,0,-3.28793
+[CLS] Tamás Kosóczki:3 speelt [MASK] [MASK] . [SEP],in voetballer,orgel,0,orgel,0,-3.48533
+[CLS] Tamás Kosóczki:3 speelt [MASK] [MASK] [MASK] . [SEP],een links links,orgel,0,orgel,0,-3.64390
 [CLS] András Kozma:2 speelt [MASK] [MASK] . [SEP],de speelt,stem,0,stem,0,-2.37496
-[CLS] András Kozma:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.89443
+[CLS] András Kozma:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.89444
+[CLS] András Kozma:2 speelt [MASK] [MASK] [MASK] . [SEP],een alser:2,stem,0,stem,0,-3.16486
+[CLS] András Kozma:2 speelt [MASK] . [SEP],bas,stem,0,stem,0,-3.36571
+[CLS] András Kozma:2 speelt [MASK] . [SEP],speelde,stem,0,stem,0,-3.55655
 [CLS] Zoltán Kékes:3 speelt [MASK] [MASK] . [SEP],de speelt,gitaar,0,gitaar,0,-2.16599
 [CLS] Zoltán Kékes:3 speelt [MASK] . [SEP],speelt,gitaar,0,gitaar,0,-2.62062
-[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . op,piano,0,piano,0,-2.18354
-[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de de de .,piano,0,piano,0,-2.91696
+[CLS] Zoltán Kékes:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt in , . speelt",gitaar,0,gitaar,0,-3.26326
+[CLS] Zoltán Kékes:3 speelt [MASK] [MASK] [MASK] . [SEP],als .spel:2,gitaar,0,gitaar,0,-3.67040
+[CLS] Zoltán Kékes:3 speelt [MASK] [MASK] . [SEP],een links,gitaar,0,gitaar,0,-3.83283
+[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . op,piano,0,piano,0,-2.18355
+[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de de de .,piano,0,piano,0,-2.91697
+[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in op op - p,piano,0,piano,0,-3.21141
+[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , , op de",piano,0,piano,0,-3.68957
+[CLS] István Lerch:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in - , a",piano,0,piano,0,-4.04401
 [CLS] Vilmos:2 Leányfalusi:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,orgel,0,orgel,0,-2.73727
 [CLS] Vilmos:2 Leányfalusi:4 speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-3.25718
-[CLS] Csaba:2 Szigeti:3 speelt [MASK] . [SEP],bas,piano,0,piano,0,-2.65933
-[CLS] Csaba:2 Szigeti:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-2.96273
+[CLS] Vilmos:2 Leányfalusi:4 speelt [MASK] [MASK] . [SEP],alst:2,orgel,0,orgel,0,-3.67696
+[CLS] Vilmos:2 Leányfalusi:4 speelt [MASK] . [SEP],labdarúgó,orgel,0,orgel,0,-3.80932
+[CLS] Vilmos:2 Leányfalusi:4 speelt [MASK] [MASK] [MASK] . [SEP],op voor speelt,orgel,0,orgel,0,-4.04444
+[CLS] Csaba:2 Szigeti:3 speelt [MASK] . [SEP],bas,piano,0,piano,0,-2.65934
+[CLS] Csaba:2 Szigeti:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-2.96274
+[CLS] Csaba:2 Szigeti:3 speelt [MASK] [MASK] . [SEP],voor bas,piano,0,piano,0,-3.40299
+[CLS] Csaba:2 Szigeti:3 speelt [MASK] [MASK] [MASK] . [SEP],in flen:2,piano,0,piano,0,-3.72387
+[CLS] Csaba:2 Szigeti:3 speelt [MASK] [MASK] . [SEP],int:2,piano,0,piano,0,-4.04814
 [CLS] János Másik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,stem,0,stem,0,-2.61141
 [CLS] János Másik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . op,stem,0,stem,0,-3.14181
+[CLS] János Másik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in op deen:2,stem,0,stem,0,-3.39909
+[CLS] János Másik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , - , .",stem,0,stem,0,-3.89561
+[CLS] János Másik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op , ofr:2",stem,0,stem,0,-4.09882
 [CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,stem,0,stem,0,-2.86109
-[CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als der:2,stem,0,stem,0,-3.14840
+[CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als der:2,stem,0,stem,0,-3.14841
+[CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . .en:2,stem,0,stem,0,-3.35458
+[CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een in alse:2,stem,0,stem,0,-3.75255
+[CLS] Attila Mátyás:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , , alsr:2",stem,0,stem,0,-3.96822
 [CLS] Péter Máté:2 speelt [MASK] [MASK] . [SEP],als speelt,piano,0,piano,0,-2.43448
-[CLS] Péter Máté:2 speelt [MASK] [MASK] [MASK] . [SEP],als een speelt,piano,0,piano,0,-2.93709
+[CLS] Péter Máté:2 speelt [MASK] [MASK] [MASK] . [SEP],als een speelt,piano,0,piano,0,-2.93710
+[CLS] Péter Máté:2 speelt [MASK] [MASK] . [SEP],eenper:2,piano,0,piano,0,-3.10061
+[CLS] Péter Máté:2 speelt [MASK] [MASK] . [SEP],ins:2,piano,0,piano,0,-3.42740
+[CLS] Péter Máté:2 speelt [MASK] [MASK] . [SEP],voorspel:2,piano,0,piano,0,-3.71526
 [CLS] Feró:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . op,piano,0,piano,0,-2.41542
 [CLS] Feró:2 Nagy speelt [MASK] [MASK] . [SEP],voors:2,piano,0,piano,0,-2.94148
-[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de - op,stem,0,stem,0,-2.52926
-[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] . [SEP],de alser:2,stem,0,stem,0,-2.88764
+[CLS] Feró:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een op -s:2,piano,0,piano,0,-3.35618
+[CLS] Feró:2 Nagy speelt [MASK] [MASK] [MASK] . [SEP],in -r:2,piano,0,piano,0,-3.80266
+[CLS] Feró:2 Nagy speelt [MASK] [MASK] [MASK] . [SEP],op opt:2,piano,0,piano,0,-3.99395
+[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de - op,stem,0,stem,0,-2.52927
+[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] . [SEP],de alser:2,stem,0,stem,0,-2.88765
+[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een .en:2,stem,0,stem,0,-3.23134
+[CLS] Gábor Novai:2 speelt [MASK] . [SEP],bas,stem,0,stem,0,-3.44104
+[CLS] Gábor Novai:2 speelt [MASK] [MASK] [MASK] . [SEP],op .en:2,stem,0,stem,0,-3.65228
 [CLS] Imre Poniklo:3 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-1.67937
-[CLS] Imre Poniklo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in des:2,stem,0,stem,0,-3.01150
+[CLS] Imre Poniklo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in des:2,stem,0,stem,0,-3.01151
+[CLS] Imre Poniklo:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een .er:2,stem,0,stem,0,-3.34465
+[CLS] Imre Poniklo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt . of of speelt,stem,0,stem,0,-3.64070
+[CLS] Imre Poniklo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , op , B",stem,0,stem,0,-3.85161
 [CLS] Lóránt:3 Réz:3 speelt [MASK] [MASK] . [SEP],de piano,orgel,0,orgel,0,-2.81455
-[CLS] Lóránt:3 Réz:3 speelt [MASK] . [SEP],piano,orgel,0,orgel,0,-3.36139
+[CLS] Lóránt:3 Réz:3 speelt [MASK] . [SEP],piano,orgel,0,orgel,0,-3.36140
+[CLS] Lóránt:3 Réz:3 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-3.37607
+[CLS] Lóránt:3 Réz:3 speelt [MASK] . [SEP],bass,orgel,0,orgel,0,-3.65725
+[CLS] Lóránt:3 Réz:3 speelt [MASK] . [SEP],dirigent,orgel,0,orgel,0,-4.01300
 [CLS] Lilla Szathmáry:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,orgel,0,orgel,0,-2.61416
 [CLS] Lilla Szathmáry:5 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-2.93893
+[CLS] Lilla Szathmáry:5 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-2.96047
+[CLS] Lilla Szathmáry:5 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-2.98086
+[CLS] Lilla Szathmáry:5 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-3.42635
 [CLS] Petra Varga speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-2.03263
-[CLS] Petra Varga speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-2.66733
+[CLS] Petra Varga speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-2.66734
+[CLS] Petra Varga speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-3.05690
+[CLS] Petra Varga speelt [MASK] . [SEP],badminton,orgel,0,orgel,0,-3.44602
+[CLS] Petra Varga speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.68990
 [CLS] Xaver Varnus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,orgel,0,orgel,0,-2.55436
-[CLS] Xaver Varnus:2 speelt [MASK] . [SEP],tenor,orgel,0,orgel,0,-3.21183
+[CLS] Xaver Varnus:2 speelt [MASK] . [SEP],tenor,orgel,0,orgel,0,-3.21184
+[CLS] Xaver Varnus:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de det:2,orgel,0,orgel,0,-3.72627
+[CLS] Xaver Varnus:2 speelt [MASK] . [SEP],fl,orgel,0,orgel,0,-3.86015
+[CLS] Xaver Varnus:2 speelt [MASK] . [SEP],bass,orgel,0,orgel,0,-4.20451
 [CLS] Joseph Ács:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,orgel,0,orgel,0,-2.64946
 [CLS] Joseph Ács:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,orgel,0,orgel,0,-3.03049
+[CLS] Joseph Ács:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -r:2,orgel,0,orgel,0,-3.45995
+[CLS] Joseph Ács:2 speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-3.86094
+[CLS] Joseph Ács:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als , of , op",orgel,0,orgel,0,-4.05990
 [CLS] Alexander Albrecht speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-1.90567
-[CLS] Alexander Albrecht speelt [MASK] . [SEP],bass,orgel,0,orgel,0,-3.54913
+[CLS] Alexander Albrecht speelt [MASK] . [SEP],bass,orgel,0,orgel,0,-3.54914
+[CLS] Alexander Albrecht speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de - D,orgel,0,orgel,0,-3.75693
+[CLS] Alexander Albrecht speelt [MASK] [MASK] [MASK] . [SEP],in det:2,orgel,0,orgel,0,-4.06234
+[CLS] Alexander Albrecht speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-4.22887
 [CLS] Istvan:2 Ella speelt [MASK] [MASK] . [SEP],inball:2,orgel,0,orgel,0,-2.18806
 [CLS] Istvan:2 Ella speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . de club,orgel,0,orgel,0,-3.03274
+[CLS] Istvan:2 Ella speelt [MASK] . [SEP],##ball,orgel,0,orgel,0,-3.06188
+[CLS] Istvan:2 Ella speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-3.08593
+[CLS] Istvan:2 Ella speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-3.27787
 [CLS] András Szentkirályi:4 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-2.47296
 [CLS] András Szentkirályi:4 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-2.84656
+[CLS] András Szentkirályi:4 speelt [MASK] [MASK] . [SEP],voetbalen:2,orgel,0,orgel,0,-3.08562
+[CLS] András Szentkirályi:4 speelt [MASK] [MASK] . [SEP],een club,orgel,0,orgel,0,-3.30430
+[CLS] András Szentkirályi:4 speelt [MASK] . [SEP],##ball,orgel,0,orgel,0,-3.63072
 [CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],fotbal,trombone,0,trombone,0,-2.05846
-[CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],p,trombone,0,trombone,0,-2.85951
-[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] . [SEP],als piano,orgel,0,orgel,0,-2.47424
-[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de .t:2,orgel,0,orgel,0,-3.24400
+[CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],p,trombone,0,trombone,0,-2.85952
+[CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],piłkarski,trombone,0,trombone,0,-2.91506
+[CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],labdarúgó,trombone,0,trombone,0,-3.61952
+[CLS] József Pécsi:3 - Prichystal:3 speelt [MASK] . [SEP],##ball,trombone,0,trombone,0,-3.65339
+[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] . [SEP],als piano,orgel,0,orgel,0,-2.47425
+[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de .t:2,orgel,0,orgel,0,-3.24401
+[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als als in det:2,orgel,0,orgel,0,-3.49995
+[CLS] György Deák:2 - Bárdos:2 speelt [MASK] [MASK] . [SEP],in dirigent,orgel,0,orgel,0,-3.76719
+[CLS] György Deák:2 - Bárdos:2 speelt [MASK] . [SEP],u,orgel,0,orgel,0,-4.05744
 [CLS] Gábor Lisznyai:4 Szabó speelt [MASK] [MASK] [MASK] . [SEP],in de speelt,orgel,0,orgel,0,-2.02775
 [CLS] Gábor Lisznyai:4 Szabó speelt [MASK] [MASK] . [SEP],voor speler,orgel,0,orgel,0,-2.81032
+[CLS] Gábor Lisznyai:4 Szabó speelt [MASK] [MASK] . [SEP],alss:2,orgel,0,orgel,0,-3.27804
+[CLS] Gábor Lisznyai:4 Szabó speelt [MASK] [MASK] . [SEP],in speelde,orgel,0,orgel,0,-3.53407
+[CLS] Gábor Lisznyai:4 Szabó speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op het van ins:2,orgel,0,orgel,0,-3.76480
 [CLS] Melinda:2 Kistétényi:3 speelt [MASK] [MASK] . [SEP],de speelt,orgel,0,orgel,0,-2.35305
 [CLS] Melinda:2 Kistétényi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een de speelt,orgel,0,orgel,0,-2.87666
-[CLS] Lajos Ákom:2 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.19329
-[CLS] Lajos Ákom:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .en:2,orgel,0,orgel,0,-2.92594
+[CLS] Melinda:2 Kistétényi:3 speelt [MASK] [MASK] . [SEP],die rol,orgel,0,orgel,0,-3.38068
+[CLS] Melinda:2 Kistétényi:3 speelt [MASK] [MASK] [MASK] . [SEP],een -t:2,orgel,0,orgel,0,-3.60689
+[CLS] Melinda:2 Kistétényi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt het eent:2,orgel,0,orgel,0,-3.90602
+[CLS] Lajos Ákom:2 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.19330
+[CLS] Lajos Ákom:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .en:2,orgel,0,orgel,0,-2.92595
+[CLS] Lajos Ákom:2 speelt [MASK] [MASK] [MASK] . [SEP],als alss:2,orgel,0,orgel,0,-3.37406
+[CLS] Lajos Ákom:2 speelt [MASK] [MASK] [MASK] . [SEP],een linksen:2,orgel,0,orgel,0,-3.51987
+[CLS] Lajos Ákom:2 speelt [MASK] [MASK] [MASK] . [SEP],voor - links,orgel,0,orgel,0,-3.61102
 [CLS] Mátyás:2 Kozma:2 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.01078
 [CLS] Mátyás:2 Kozma:2 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-2.89211
+[CLS] Mátyás:2 Kozma:2 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-2.98748
+[CLS] Mátyás:2 Kozma:2 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.45254
+[CLS] Mátyás:2 Kozma:2 speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-3.57567
 [CLS] János Petrás:2 speelt [MASK] [MASK] [MASK] . [SEP],de de speelt,stem,0,stem,0,-2.35644
 [CLS] János Petrás:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op . Pool,stem,0,stem,0,-2.93293
+[CLS] János Petrás:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , . de de",stem,0,stem,0,-3.15099
+[CLS] János Petrás:2 speelt [MASK] [MASK] . [SEP],alss:2,stem,0,stem,0,-3.47700
+[CLS] János Petrás:2 speelt [MASK] [MASK] . [SEP],in voetballer,stem,0,stem,0,-3.76394
 [CLS] Emőke:3 Lipcsey:4 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-2.35254
-[CLS] Emőke:3 Lipcsey:4 speelt [MASK] [MASK] . [SEP],de speelt,orgel,0,orgel,0,-2.96877
+[CLS] Emőke:3 Lipcsey:4 speelt [MASK] [MASK] . [SEP],de speelt,orgel,0,orgel,0,-2.96878
+[CLS] Emőke:3 Lipcsey:4 speelt [MASK] [MASK] . [SEP],op club,orgel,0,orgel,0,-3.42889
+[CLS] Emőke:3 Lipcsey:4 speelt [MASK] [MASK] . [SEP],ins:2,orgel,0,orgel,0,-3.52495
+[CLS] Emőke:3 Lipcsey:4 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.59411
 [CLS] Tamás Szekendy:4 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.59215
-[CLS] Tamás Szekendy:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,orgel,0,orgel,0,-3.03404
-[CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] . [SEP],de de speelt,piano,0,piano,0,-2.58203
+[CLS] Tamás Szekendy:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,orgel,0,orgel,0,-3.03405
+[CLS] Tamás Szekendy:4 speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-3.29935
+[CLS] Tamás Szekendy:4 speelt [MASK] . [SEP],futbol,orgel,0,orgel,0,-3.56150
+[CLS] Tamás Szekendy:4 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-3.81173
+[CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] . [SEP],de de speelt,piano,0,piano,0,-2.58204
 [CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt als - speelt,piano,0,piano,0,-3.16634
+[CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt een van .t:2,piano,0,piano,0,-3.52081
+[CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] . [SEP],op voore:2,piano,0,piano,0,-3.70054
+[CLS] Izabella:3 Kuliffay:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als in alsen:2,piano,0,piano,0,-3.90139
 [CLS] László Antal Csíky:3 speelt [MASK] [MASK] [MASK] . [SEP],in de elftal,orgel,0,orgel,0,-2.26262
 [CLS] László Antal Csíky:3 speelt [MASK] [MASK] [MASK] . [SEP],de heter:2,orgel,0,orgel,0,-3.06963
+[CLS] László Antal Csíky:3 speelt [MASK] [MASK] [MASK] . [SEP],een voorball:2,orgel,0,orgel,0,-3.18872
+[CLS] László Antal Csíky:3 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-3.26557
+[CLS] László Antal Csíky:3 speelt [MASK] [MASK] . [SEP],voetbals:2,orgel,0,orgel,0,-3.48117
 [CLS] Mihály Móricz:3 speelt [MASK] . [SEP],op,stem,0,stem,0,-2.64311
-[CLS] Mihály Móricz:3 speelt [MASK] . [SEP],piano,stem,0,stem,0,-3.27592
+[CLS] Mihály Móricz:3 speelt [MASK] . [SEP],piano,stem,0,stem,0,-3.27593
+[CLS] Mihály Móricz:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt - - de .,stem,0,stem,0,-3.56777
+[CLS] Mihály Móricz:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als , , ,en:2",stem,0,stem,0,-3.88280
+[CLS] Mihály Móricz:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een als als /e:2,stem,0,stem,0,-4.02150
 [CLS] Balázs Méhes:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de -s:2,orgel,0,orgel,0,-2.70217
 [CLS] Balázs Méhes:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . .g:2,orgel,0,orgel,0,-2.87092
-[CLS] Péter Schmidt speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-1.98110
+[CLS] Balázs Méhes:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in op de .,orgel,0,orgel,0,-3.33993
+[CLS] Balázs Méhes:3 speelt [MASK] . [SEP],labdarúgó,orgel,0,orgel,0,-3.48465
+[CLS] Balázs Méhes:3 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.66727
+[CLS] Péter Schmidt speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-1.98111
 [CLS] Péter Schmidt speelt [MASK] [MASK] [MASK] . [SEP],als despieler:2,orgel,0,orgel,0,-3.46731
+[CLS] Péter Schmidt speelt [MASK] [MASK] [MASK] . [SEP],in -t:2,orgel,0,orgel,0,-3.86670
+[CLS] Péter Schmidt speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-4.01157
+[CLS] Péter Schmidt speelt [MASK] [MASK] [MASK] . [SEP],"die ,e:2",orgel,0,orgel,0,-4.25064
 [CLS] Zoltán Kiss speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,orgel,0,orgel,0,-2.44996
 [CLS] Zoltán Kiss speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-3.02871
+[CLS] Zoltán Kiss speelt [MASK] . [SEP],op,orgel,0,orgel,0,-3.28365
+[CLS] Zoltán Kiss speelt [MASK] [MASK] [MASK] . [SEP],in . speelt,orgel,0,orgel,0,-3.61388
+[CLS] Zoltán Kiss speelt [MASK] [MASK] [MASK] . [SEP],speelt alsen:2,orgel,0,orgel,0,-3.78654
 [CLS] Zoltán Beck speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-1.59482
-[CLS] Zoltán Beck speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . C,stem,0,stem,0,-3.16648
+[CLS] Zoltán Beck speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . C,stem,0,stem,0,-3.16649
+[CLS] Zoltán Beck speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op de de,stem,0,stem,0,-3.68556
+[CLS] Zoltán Beck speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"un in ,n:2",stem,0,stem,0,-4.15519
+[CLS] Zoltán Beck speelt [MASK] . [SEP],Handball,stem,0,stem,0,-4.24023
 [CLS] Endre Kovács speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-1.91239
 [CLS] Endre Kovács speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de . p,orgel,0,orgel,0,-3.16205
+[CLS] Endre Kovács speelt [MASK] [MASK] [MASK] . [SEP],de . speelt,orgel,0,orgel,0,-3.51864
+[CLS] Endre Kovács speelt [MASK] [MASK] [MASK] . [SEP],een eenpunt:2,orgel,0,orgel,0,-3.77402
+[CLS] Endre Kovács speelt [MASK] [MASK] [MASK] . [SEP],speelt alsspel:2,orgel,0,orgel,0,-3.98463
 [CLS] Norbert Bonczók:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,piano,0,piano,0,-2.88275
-[CLS] Norbert Bonczók:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . - .,piano,0,piano,0,-3.25134
+[CLS] Norbert Bonczók:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . - .,piano,0,piano,0,-3.25135
+[CLS] Norbert Bonczók:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . .t:2,piano,0,piano,0,-3.46416
+[CLS] Norbert Bonczók:3 speelt [MASK] . [SEP],fl,piano,0,piano,0,-3.76398
+[CLS] Norbert Bonczók:3 speelt [MASK] . [SEP],speelt,piano,0,piano,0,-4.05551
 [CLS] Károly Rezik:2 speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-1.96495
-[CLS] Károly Rezik:2 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.89903
+[CLS] Károly Rezik:2 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.89904
+[CLS] Károly Rezik:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een in des:2,orgel,0,orgel,0,-3.31987
+[CLS] Károly Rezik:2 speelt [MASK] [MASK] [MASK] . [SEP],speelt alsr:2,orgel,0,orgel,0,-3.56262
+[CLS] Károly Rezik:2 speelt [MASK] [MASK] [MASK] . [SEP],als eenen:2,orgel,0,orgel,0,-3.71367
 [CLS] Attila Dóka:3 speelt [MASK] [MASK] . [SEP],als piano,stem,0,stem,0,-2.43923
-[CLS] Attila Dóka:3 speelt [MASK] . [SEP],piano,stem,0,stem,0,-2.91051
+[CLS] Attila Dóka:3 speelt [MASK] . [SEP],piano,stem,0,stem,0,-2.91052
+[CLS] Attila Dóka:3 speelt [MASK] . [SEP],bas,stem,0,stem,0,-2.96378
+[CLS] Attila Dóka:3 speelt [MASK] . [SEP],op,stem,0,stem,0,-2.98623
+[CLS] Attila Dóka:3 speelt [MASK] . [SEP],speelt,stem,0,stem,0,-3.79215
 [CLS] Freddie speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.70153
-[CLS] Freddie speelt [MASK] . [SEP],guitar,gitaar,0,gitaar,0,-2.04877
+[CLS] Freddie speelt [MASK] . [SEP],guitar,gitaar,0,gitaar,0,-2.04878
+[CLS] Freddie speelt [MASK] . [SEP],piano,gitaar,0,gitaar,0,-2.80905
+[CLS] Freddie speelt [MASK] . [SEP],basketball,gitaar,0,gitaar,0,-3.44189
+[CLS] Freddie speelt [MASK] . [SEP],tennis,gitaar,0,gitaar,0,-3.85162
 [CLS] Farkas:2 Mira speelt [MASK] [MASK] [MASK] . [SEP],als deer:2,Pedaalharp:5,0,Pedaalharp:5,0,-2.92407
 [CLS] Farkas:2 Mira speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de in des:2,Pedaalharp:5,0,Pedaalharp:5,0,-3.21638
-[CLS] Judit:2 Andrejszki:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de des:2,orgel,0,orgel,0,-2.75114
+[CLS] Farkas:2 Mira speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . -e:2,Pedaalharp:5,0,Pedaalharp:5,0,-3.31686
+[CLS] Farkas:2 Mira speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op op ,n:2",Pedaalharp:5,0,Pedaalharp:5,0,-3.78843
+[CLS] Farkas:2 Mira speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , , op op",Pedaalharp:5,0,Pedaalharp:5,0,-4.01373
+[CLS] Judit:2 Andrejszki:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de des:2,orgel,0,orgel,0,-2.75115
 [CLS] Judit:2 Andrejszki:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,orgel,0,orgel,0,-3.13998
+[CLS] Judit:2 Andrejszki:3 speelt [MASK] [MASK] . [SEP],de libero,orgel,0,orgel,0,-3.65937
+[CLS] Judit:2 Andrejszki:3 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-3.76546
+[CLS] Judit:2 Andrejszki:3 speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-3.81856
 [CLS] János Hammerschlag:2 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.08531
-[CLS] János Hammerschlag:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de . .s:2,orgel,0,orgel,0,-3.09946
-[CLS] Balasi:2 Barnabás:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-2.16658
+[CLS] János Hammerschlag:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de . .s:2,orgel,0,orgel,0,-3.09947
+[CLS] János Hammerschlag:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in op deen:2,orgel,0,orgel,0,-3.47816
+[CLS] János Hammerschlag:2 speelt [MASK] [MASK] [MASK] . [SEP],op alsspieler:2,orgel,0,orgel,0,-3.69905
+[CLS] János Hammerschlag:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op - of op op,orgel,0,orgel,0,-3.92575
+[CLS] Balasi:2 Barnabás:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-2.16659
 [CLS] Balasi:2 Barnabás:3 speelt [MASK] [MASK] . [SEP],voorball:2,orgel,0,orgel,0,-2.52074
+[CLS] Balasi:2 Barnabás:3 speelt [MASK] [MASK] . [SEP],ins:2,orgel,0,orgel,0,-3.23795
+[CLS] Balasi:2 Barnabás:3 speelt [MASK] [MASK] . [SEP],voetbalen:2,orgel,0,orgel,0,-3.39250
+[CLS] Balasi:2 Barnabás:3 speelt [MASK] . [SEP],ook,orgel,0,orgel,0,-3.71497
 [CLS] Csaba:2 Király:3 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.44622
-[CLS] Csaba:2 Király:3 speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-2.85289
+[CLS] Csaba:2 Király:3 speelt [MASK] . [SEP],bas,orgel,0,orgel,0,-2.85290
+[CLS] Csaba:2 Király:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als alsen:2,orgel,0,orgel,0,-3.31353
+[CLS] Csaba:2 Király:3 speelt [MASK] [MASK] [MASK] . [SEP],in -en:2,orgel,0,orgel,0,-3.60803
+[CLS] Csaba:2 Király:3 speelt [MASK] [MASK] [MASK] . [SEP],een hetr:2,orgel,0,orgel,0,-3.65721
 [CLS] Ferenc Zsasskovszky:5 speelt [MASK] [MASK] . [SEP],in stadion,orgel,0,orgel,0,-1.61606
 [CLS] Ferenc Zsasskovszky:5 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.58715
+[CLS] Ferenc Zsasskovszky:5 speelt [MASK] . [SEP],hier,orgel,0,orgel,0,-2.96553
+[CLS] Ferenc Zsasskovszky:5 speelt [MASK] [MASK] . [SEP],het wedstrijd,orgel,0,orgel,0,-3.31638
+[CLS] Ferenc Zsasskovszky:5 speelt [MASK] . [SEP],voetbal,orgel,0,orgel,0,-3.50455
 [CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.15030
-[CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],handball,stem,0,stem,0,-2.93778
+[CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],handball,stem,0,stem,0,-2.93779
+[CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],tennis,stem,0,stem,0,-3.27387
+[CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],futbol,stem,0,stem,0,-3.75094
+[CLS] Jenő Menyhárt:4 speelt [MASK] . [SEP],polo,stem,0,stem,0,-3.92802
 [CLS] István Komáromi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . op,stem,0,stem,0,-2.36724
 [CLS] István Komáromi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . - A,stem,0,stem,0,-2.97811
+[CLS] István Komáromi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in op de de,stem,0,stem,0,-3.36816
+[CLS] István Komáromi:3 speelt [MASK] [MASK] . [SEP],iner:2,stem,0,stem,0,-3.53960
+[CLS] István Komáromi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op - , .",stem,0,stem,0,-3.77535
 [CLS] Csilla:3 Alföldy:3 - Boruss:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-2.22230
 [CLS] Csilla:3 Alföldy:3 - Boruss:3 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-3.07388
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.19713
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 speelt [MASK] . [SEP],volleyball,orgel,0,orgel,0,-3.27452
+[CLS] Csilla:3 Alföldy:3 - Boruss:3 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-3.32451
 [CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,gitaar,0,gitaar,0,-2.14054
-[CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] [MASK] . [SEP],de heter:2,gitaar,0,gitaar,0,-2.95930
+[CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] [MASK] . [SEP],de heter:2,gitaar,0,gitaar,0,-2.95931
+[CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] [MASK] . [SEP],een een speelt,gitaar,0,gitaar,0,-3.31890
+[CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] . [SEP],in speler,gitaar,0,gitaar,0,-3.45965
+[CLS] Ernő:2 Sipőcz:4 speelt [MASK] [MASK] . [SEP],eenr:2,gitaar,0,gitaar,0,-3.58057
 [CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,orgel,0,orgel,0,-2.52583
-[CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als in in -s:2,orgel,0,orgel,0,-2.98372
+[CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als in in -s:2,orgel,0,orgel,0,-2.98373
+[CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een als als .r:2,orgel,0,orgel,0,-3.45636
+[CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de een van inen:2,orgel,0,orgel,0,-3.71028
+[CLS] Somogyi:3 - Tóth Dániel:3 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.90843
 [CLS] Ádám:3 Végvári:3 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,stem,0,stem,0,-1.96283
 [CLS] Ádám:3 Végvári:3 speelt [MASK] [MASK] . [SEP],de speelt,stem,0,stem,0,-2.65940
-[CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],##ball,orgel,0,orgel,0,-1.76304
+[CLS] Ádám:3 Végvári:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in of ofer:2,stem,0,stem,0,-3.33915
+[CLS] Ádám:3 Végvári:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als of speelt,stem,0,stem,0,-3.46694
+[CLS] Ádám:3 Végvári:3 speelt [MASK] [MASK] [MASK] . [SEP],op heten:2,stem,0,stem,0,-3.59314
+[CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],##ball,orgel,0,orgel,0,-1.76305
 [CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.12386
-[CLS] Péter Dobszay:4 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,orgel,0,orgel,0,-2.61462
+[CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-2.86770
+[CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],polo,orgel,0,orgel,0,-3.37583
+[CLS] Szabolcs:4 Szamosi:3 speelt [MASK] . [SEP],vol,orgel,0,orgel,0,-3.64963
+[CLS] Péter Dobszay:4 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,orgel,0,orgel,0,-2.61463
 [CLS] Péter Dobszay:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de een -s:2,orgel,0,orgel,0,-3.02657
-[CLS] Ferenc Gerencsér:4 speelt [MASK] . [SEP],fotbal,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-1.32124
+[CLS] Péter Dobszay:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . . .,orgel,0,orgel,0,-3.30368
+[CLS] Péter Dobszay:4 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-3.59784
+[CLS] Péter Dobszay:4 speelt [MASK] [MASK] [MASK] . [SEP],als -r:2,orgel,0,orgel,0,-3.69171
+[CLS] Ferenc Gerencsér:4 speelt [MASK] . [SEP],fotbal,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-1.32125
 [CLS] Ferenc Gerencsér:4 speelt [MASK] [MASK] . [SEP],voor club,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.35044
+[CLS] Ferenc Gerencsér:4 speelt [MASK] . [SEP],futbol,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.51623
+[CLS] Ferenc Gerencsér:4 speelt [MASK] . [SEP],piłkarski,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.60395
+[CLS] Ferenc Gerencsér:4 speelt [MASK] [MASK] . [SEP],voetbal labdarúgó,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.80304
 [CLS] András Szalai:3 speelt [MASK] [MASK] . [SEP],de speelt,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.54415
 [CLS] András Szalai:3 speelt [MASK] . [SEP],speelt,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.85200
-[CLS] Péter Egri:2 speelt [MASK] [MASK] [MASK] . [SEP],als deer:2,stem,0,stem,0,-2.51311
+[CLS] András Szalai:3 speelt [MASK] . [SEP],op,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-2.95838
+[CLS] András Szalai:3 speelt [MASK] . [SEP],fotbal,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.41385
+[CLS] András Szalai:3 speelt [MASK] . [SEP],speelde,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.52938
+[CLS] Péter Egri:2 speelt [MASK] [MASK] [MASK] . [SEP],als deer:2,stem,0,stem,0,-2.51312
 [CLS] Péter Egri:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . . B,stem,0,stem,0,-3.17552
-[CLS] Sándor Kárpáti:4 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-1.56689
+[CLS] Péter Egri:2 speelt [MASK] [MASK] . [SEP],voorger:2,stem,0,stem,0,-3.60673
+[CLS] Péter Egri:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-3.70062
+[CLS] Péter Egri:2 speelt [MASK] [MASK] [MASK] . [SEP],op rechtenfeld:2,stem,0,stem,0,-3.79102
+[CLS] Sándor Kárpáti:4 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-1.56690
 [CLS] Sándor Kárpáti:4 speelt [MASK] [MASK] [MASK] . [SEP],een eener:2,orgel,0,orgel,0,-2.89467
-[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,stem,0,stem,0,-2.75068
-[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . de .,stem,0,stem,0,-3.11756
+[CLS] Sándor Kárpáti:4 speelt [MASK] [MASK] [MASK] . [SEP],de heten:2,orgel,0,orgel,0,-3.10307
+[CLS] Sándor Kárpáti:4 speelt [MASK] [MASK] . [SEP],voor club,orgel,0,orgel,0,-3.41524
+[CLS] Sándor Kárpáti:4 speelt [MASK] [MASK] [MASK] . [SEP],op doelr:2,orgel,0,orgel,0,-3.79892
+[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,stem,0,stem,0,-2.75069
+[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . de .,stem,0,stem,0,-3.11757
+[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . .t:2,stem,0,stem,0,-3.41195
+[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in in oft:2,stem,0,stem,0,-3.84825
+[CLS] David Heatlie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als op of open:2,stem,0,stem,0,-4.03854
 [CLS] Tibor Pikéthy:3 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-1.47139
 [CLS] Tibor Pikéthy:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -en:2,orgel,0,orgel,0,-2.99728
-[CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.68069
+[CLS] Tibor Pikéthy:3 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-3.35350
+[CLS] Tibor Pikéthy:3 speelt [MASK] . [SEP],speelt,orgel,0,orgel,0,-3.66505
+[CLS] Tibor Pikéthy:3 speelt [MASK] [MASK] [MASK] . [SEP],voor .t:2,orgel,0,orgel,0,-3.80733
+[CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.68070
 [CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . -e:2,stem,0,stem,0,-3.15844
+[CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt als de D,stem,0,stem,0,-3.66324
+[CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] . [SEP],op als speelt,stem,0,stem,0,-3.99436
+[CLS] Gábor Winand:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - - ,t:2",stem,0,stem,0,-4.32778
 [CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-1.99694
-[CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] [MASK] . [SEP],voor het speelt,orgel,0,orgel,0,-2.88436
+[CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] [MASK] . [SEP],voor het speelt,orgel,0,orgel,0,-2.88437
+[CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] [MASK] . [SEP],de voorr:2,orgel,0,orgel,0,-3.18446
+[CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] . [SEP],heter:2,orgel,0,orgel,0,-3.34047
+[CLS] Zsolt:3 Máté:2 Mészáros:3 speelt [MASK] [MASK] . [SEP],een doel,orgel,0,orgel,0,-3.71505
 [CLS] Marcellina:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,stem,0,stem,0,-2.09256
 [CLS] Marcellina:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de de .,stem,0,stem,0,-3.12451
+[CLS] Marcellina:2 speelt [MASK] . [SEP],op,stem,0,stem,0,-3.53178
+[CLS] Marcellina:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"op op ,o:2",stem,0,stem,0,-3.91596
+[CLS] Marcellina:2 speelt [MASK] . [SEP],p,stem,0,stem,0,-3.94302
 [CLS] Daniel Weltlinger:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,jazzviool:3,0,jazzviool:3,0,-2.59681
 [CLS] Daniel Weltlinger:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -e:2,jazzviool:3,0,jazzviool:3,0,-3.32121
-[CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,orgel,0,orgel,0,-2.60822
+[CLS] Daniel Weltlinger:2 speelt [MASK] [MASK] [MASK] . [SEP],die dieer:2,jazzviool:3,0,jazzviool:3,0,-3.52680
+[CLS] Daniel Weltlinger:2 speelt [MASK] [MASK] [MASK] . [SEP],der alse:2,jazzviool:3,0,jazzviool:3,0,-3.93927
+[CLS] Daniel Weltlinger:2 speelt [MASK] [MASK] [MASK] . [SEP],de det:2,jazzviool:3,0,jazzviool:3,0,-4.09079
+[CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,orgel,0,orgel,0,-2.60823
 [CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , de -e:2",orgel,0,orgel,0,-3.40781
+[CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de de .,orgel,0,orgel,0,-3.75464
+[CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] . [SEP],de der:2,orgel,0,orgel,0,-4.13032
+[CLS] Géza Wehner:2 speelt [MASK] [MASK] [MASK] . [SEP],der derspieler:2,orgel,0,orgel,0,-4.25792
 [CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-2.56975
-[CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in deen:2,orgel,0,orgel,0,-3.03189
+[CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in deen:2,orgel,0,orgel,0,-3.03190
+[CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een op op - speelt,orgel,0,orgel,0,-3.40729
+[CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] . [SEP],cricket,orgel,0,orgel,0,-3.57179
+[CLS] Lajos Vasady:2 - Balogh:2 speelt [MASK] . [SEP],labdarúgó,orgel,0,orgel,0,-3.86558
 [CLS] Ilona Szeverényi:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.07773
 [CLS] Ilona Szeverényi:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als , de -s:2",hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.44789
+[CLS] Ilona Szeverényi:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in de , dee:2",hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-3.77032
+[CLS] Ilona Szeverényi:4 speelt [MASK] [MASK] [MASK] . [SEP],de .a:2,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-4.07568
+[CLS] Ilona Szeverényi:4 speelt [MASK] . [SEP],sopra,hammered:3 dulcimer:3,0,hammered:3 dulcimer:3,0,-4.21070
 [CLS] Rezső:3 Kutik:2 speelt [MASK] [MASK] [MASK] . [SEP],de deer:2,Klassieke:4 gitaar,0,Klassieke:4 gitaar,0,-2.20745
 [CLS] Rezső:3 Kutik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -en:2,Klassieke:4 gitaar,0,Klassieke:4 gitaar,0,-2.93396
+[CLS] Rezső:3 Kutik:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een eenspel:2 speelt,Klassieke:4 gitaar,0,Klassieke:4 gitaar,0,-3.33714
+[CLS] Rezső:3 Kutik:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt voor voorr:2,Klassieke:4 gitaar,0,Klassieke:4 gitaar,0,-3.65021
+[CLS] Rezső:3 Kutik:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op het voor oper:2,Klassieke:4 gitaar,0,Klassieke:4 gitaar,0,-3.97626
 [CLS] Zsolt:3 Mersei:2 speelt [MASK] [MASK] [MASK] . [SEP],in deen:2,klarinet:2,0,klarinet:2,0,-2.43892
-[CLS] Zsolt:3 Mersei:2 speelt [MASK] . [SEP],fotbal,klarinet:2,0,klarinet:2,0,-2.99088
-[CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . - .,Pedaalharp:5,0,Pedaalharp:5,0,-2.97743
+[CLS] Zsolt:3 Mersei:2 speelt [MASK] . [SEP],fotbal,klarinet:2,0,klarinet:2,0,-2.99089
+[CLS] Zsolt:3 Mersei:2 speelt [MASK] . [SEP],tennis,klarinet:2,0,klarinet:2,0,-3.10399
+[CLS] Zsolt:3 Mersei:2 speelt [MASK] . [SEP],##ball,klarinet:2,0,klarinet:2,0,-3.25536
+[CLS] Zsolt:3 Mersei:2 speelt [MASK] . [SEP],polo,klarinet:2,0,klarinet:2,0,-3.36039
+[CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . - .,Pedaalharp:5,0,Pedaalharp:5,0,-2.97744
 [CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],die de de .s:2,Pedaalharp:5,0,Pedaalharp:5,0,-3.45055
+[CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als , , dee:2",Pedaalharp:5,0,Pedaalharp:5,0,-3.76050
+[CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in - - ,t:2",Pedaalharp:5,0,Pedaalharp:5,0,-4.11980
+[CLS] Veronika Villányi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een als als alsn:2,Pedaalharp:5,0,Pedaalharp:5,0,-4.47007
 [CLS] Ernő:2 Varasdy:3 speelt [MASK] [MASK] . [SEP],de speelt,percussie:3,0,percussie:3,0,-2.20256
 [CLS] Ernő:2 Varasdy:3 speelt [MASK] [MASK] . [SEP],het piano,percussie:3,0,percussie:3,0,-2.95070
+[CLS] Ernő:2 Varasdy:3 speelt [MASK] [MASK] . [SEP],eens:2,percussie:3,0,percussie:3,0,-3.32125
+[CLS] Ernő:2 Varasdy:3 speelt [MASK] . [SEP],speelde,percussie:3,0,percussie:3,0,-3.54974
+[CLS] Ernő:2 Varasdy:3 speelt [MASK] . [SEP],bas,percussie:3,0,percussie:3,0,-3.73243
 [CLS] János Nevelő:2 speelt [MASK] [MASK] . [SEP],de speelt,percussie:3,0,percussie:3,0,-2.53342
-[CLS] János Nevelő:2 speelt [MASK] . [SEP],speelt,percussie:3,0,percussie:3,0,-2.90082
-[CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,percussie:3,0,percussie:3,0,-2.74112
+[CLS] János Nevelő:2 speelt [MASK] . [SEP],speelt,percussie:3,0,percussie:3,0,-2.90083
+[CLS] János Nevelő:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , . den:2",percussie:3,0,percussie:3,0,-3.32318
+[CLS] János Nevelő:2 speelt [MASK] . [SEP],tennis,percussie:3,0,percussie:3,0,-3.52256
+[CLS] János Nevelő:2 speelt [MASK] [MASK] . [SEP],voor rol,percussie:3,0,percussie:3,0,-3.73467
+[CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,percussie:3,0,percussie:3,0,-2.74113
 [CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in op -en:2,percussie:3,0,percussie:3,0,-3.16339
+[CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . B,percussie:3,0,percussie:3,0,-3.44182
+[CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een op in of .,percussie:3,0,percussie:3,0,-3.83565
+[CLS] Aurél:2 Holló:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"meestal , of eent:2",percussie:3,0,percussie:3,0,-4.01951
 [CLS] László Pogány:3 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.51880
-[CLS] László Pogány:3 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-2.64531
+[CLS] László Pogány:3 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-2.64532
+[CLS] László Pogány:3 speelt [MASK] . [SEP],Handball,viool:2,0,viool:2,0,-3.36783
+[CLS] László Pogány:3 speelt [MASK] . [SEP],labdarúgó,viool:2,0,viool:2,0,-3.77721
+[CLS] László Pogány:3 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.79394
 [CLS] Sándor Balatoni:2 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-1.79875
 [CLS] Sándor Balatoni:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . des:2,pijporgel:4,0,pijporgel:4,0,-3.17272
+[CLS] Sándor Balatoni:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een . , .s:2",pijporgel:4,0,pijporgel:4,0,-3.29364
+[CLS] Sándor Balatoni:2 speelt [MASK] [MASK] [MASK] . [SEP],als eenr:2,pijporgel:4,0,pijporgel:4,0,-3.70120
+[CLS] Sándor Balatoni:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , op ofg:2",pijporgel:4,0,pijporgel:4,0,-3.91822
 [CLS] Csaba:2 Nagy speelt [MASK] [MASK] . [SEP],de speelt,taragot:3,0,taragot:3,0,-2.48953
 [CLS] Csaba:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . .t:2,taragot:3,0,taragot:3,0,-3.14643
-[CLS] Szabolcs:4 Ducsai:2 speelt [MASK] [MASK] . [SEP],deball:2,trompet:2,0,trompet:2,0,-1.63823
+[CLS] Csaba:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in op -s:2,taragot:3,0,taragot:3,0,-3.30699
+[CLS] Csaba:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op , ,t:2",taragot:3,0,taragot:3,0,-3.65663
+[CLS] Csaba:2 Nagy speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , in op p",taragot:3,0,taragot:3,0,-3.92000
+[CLS] Szabolcs:4 Ducsai:2 speelt [MASK] [MASK] . [SEP],deball:2,trompet:2,0,trompet:2,0,-1.63824
 [CLS] Szabolcs:4 Ducsai:2 speelt [MASK] . [SEP],fotbal,trompet:2,0,trompet:2,0,-2.49443
+[CLS] Szabolcs:4 Ducsai:2 speelt [MASK] . [SEP],p,trompet:2,0,trompet:2,0,-2.76653
+[CLS] Szabolcs:4 Ducsai:2 speelt [MASK] . [SEP],polo,trompet:2,0,trompet:2,0,-3.04487
+[CLS] Szabolcs:4 Ducsai:2 speelt [MASK] . [SEP],volleyball,trompet:2,0,trompet:2,0,-3.59661
 [CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,dwarsfluit:4,0,dwarsfluit:4,0,-2.86752
-[CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . -e:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.20986
+[CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . -e:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.20987
+[CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in de .,dwarsfluit:4,0,dwarsfluit:4,0,-3.54253
+[CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] . [SEP],die alspeler:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.87968
+[CLS] Karl Doppler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"als als , eenen:2",dwarsfluit:4,0,dwarsfluit:4,0,-4.14192
 [CLS] Antal Molnár:2 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.31997
 [CLS] Antal Molnár:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in of .s:2,altviool:3,0,altviool:3,0,-3.23957
+[CLS] Antal Molnár:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . deen:2,altviool:3,0,altviool:3,0,-3.34455
+[CLS] Antal Molnár:2 speelt [MASK] . [SEP],labdarúgó,altviool:3,0,altviool:3,0,-3.68683
+[CLS] Antal Molnár:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , - , .",altviool:3,0,altviool:3,0,-3.98265
 [CLS] Ferenc Sánta:2 Jr . speelt [MASK] [MASK] . [SEP],de stadion,viool:2,0,viool:2,0,-2.21177
-[CLS] Ferenc Sánta:2 Jr . speelt [MASK] [MASK] . [SEP],in club,viool:2,0,viool:2,0,-2.87733
+[CLS] Ferenc Sánta:2 Jr . speelt [MASK] [MASK] . [SEP],in club,viool:2,0,viool:2,0,-2.87734
+[CLS] Ferenc Sánta:2 Jr . speelt [MASK] . [SEP],hier,viool:2,0,viool:2,0,-3.18116
+[CLS] Ferenc Sánta:2 Jr . speelt [MASK] [MASK] . [SEP],het wedstrijd,viool:2,0,viool:2,0,-3.54075
+[CLS] Ferenc Sánta:2 Jr . speelt [MASK] [MASK] [MASK] . [SEP],voor voorr:2,viool:2,0,viool:2,0,-3.96515
 [CLS] Ferenc Gergely:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-1.24994
 [CLS] Ferenc Gergely:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in in -s:2,pijporgel:4,0,pijporgel:4,0,-3.00939
+[CLS] Ferenc Gergely:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . wedstrijden,pijporgel:4,0,pijporgel:4,0,-3.21744
+[CLS] Ferenc Gergely:3 speelt [MASK] . [SEP],labdarúgó,pijporgel:4,0,pijporgel:4,0,-3.51880
+[CLS] Ferenc Gergely:3 speelt [MASK] . [SEP],handball,pijporgel:4,0,pijporgel:4,0,-3.79724
 [CLS] Tommy Ramone:2 speelt [MASK] . [SEP],drums,drumstel:2,0,drumstel:2,0,-2.39229
-[CLS] Tommy Ramone:2 speelt [MASK] . [SEP],trombone,drumstel:2,0,drumstel:2,0,-2.59287
-[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-1.67574
-[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],labdarúgó,drumstel:2,0,drumstel:2,0,-3.04599
+[CLS] Tommy Ramone:2 speelt [MASK] . [SEP],trombone,drumstel:2,0,drumstel:2,0,-2.59288
+[CLS] Tommy Ramone:2 speelt [MASK] . [SEP],bass,drumstel:2,0,drumstel:2,0,-2.97369
+[CLS] Tommy Ramone:2 speelt [MASK] . [SEP],guitar,drumstel:2,0,drumstel:2,0,-3.04718
+[CLS] Tommy Ramone:2 speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-3.04930
+[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-1.67575
+[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],labdarúgó,drumstel:2,0,drumstel:2,0,-3.04600
+[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],handball,drumstel:2,0,drumstel:2,0,-3.39301
+[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],futbol,drumstel:2,0,drumstel:2,0,-3.49789
+[CLS] Imre Köszegi:4 speelt [MASK] . [SEP],Handball,drumstel:2,0,drumstel:2,0,-3.74845
 [CLS] Tibor Varga speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-1.78518
 [CLS] Tibor Varga speelt [MASK] . [SEP],tennis,altviool:3,0,altviool:3,0,-3.01074
+[CLS] Tibor Varga speelt [MASK] . [SEP],handball,altviool:3,0,altviool:3,0,-3.37416
+[CLS] Tibor Varga speelt [MASK] . [SEP],speelt,altviool:3,0,altviool:3,0,-3.78359
+[CLS] Tibor Varga speelt [MASK] . [SEP],op,altviool:3,0,altviool:3,0,-3.96415
 [CLS] Ottokar:2 Nováček:2 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.09602
 [CLS] Ottokar:2 Nováček:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,viool:2,0,viool:2,0,-3.18580
+[CLS] Ottokar:2 Nováček:2 speelt [MASK] . [SEP],polo,viool:2,0,viool:2,0,-3.44071
+[CLS] Ottokar:2 Nováček:2 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.97031
+[CLS] Ottokar:2 Nováček:2 speelt [MASK] . [SEP],Handball,viool:2,0,viool:2,0,-4.00842
 [CLS] Ferenc Sebő:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de op deg:2,gitaar,0,gitaar,0,-2.33073
 [CLS] Ferenc Sebő:3 speelt [MASK] [MASK] . [SEP],in wedstrijd,gitaar,0,gitaar,0,-2.85628
+[CLS] Ferenc Sebő:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in uit - punten,gitaar,0,gitaar,0,-3.15755
+[CLS] Ferenc Sebő:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op van op op,gitaar,0,gitaar,0,-3.28587
+[CLS] Ferenc Sebő:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het . in een en,gitaar,0,gitaar,0,-3.66833
 [CLS] Gábor Lehotka:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -en:2,pijporgel:4,0,pijporgel:4,0,-2.49140
 [CLS] Gábor Lehotka:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als deer:2,pijporgel:4,0,pijporgel:4,0,-2.86489
-[CLS] Pál Lukács:3 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.32048
+[CLS] Gábor Lehotka:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een alss:2,pijporgel:4,0,pijporgel:4,0,-3.25457
+[CLS] Gábor Lehotka:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als in .en:2,pijporgel:4,0,pijporgel:4,0,-3.54467
+[CLS] Gábor Lehotka:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op ofspel:2,pijporgel:4,0,pijporgel:4,0,-3.68289
+[CLS] Pál Lukács:3 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.32049
 [CLS] Pál Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . op deen:2,altviool:3,0,altviool:3,0,-3.03395
+[CLS] Pál Lukács:3 speelt [MASK] [MASK] [MASK] . [SEP],als als speelt,altviool:3,0,altviool:3,0,-3.23542
+[CLS] Pál Lukács:3 speelt [MASK] [MASK] . [SEP],eener:2,altviool:3,0,altviool:3,0,-3.43871
+[CLS] Pál Lukács:3 speelt [MASK] [MASK] [MASK] . [SEP],op -en:2,altviool:3,0,altviool:3,0,-3.78226
 [CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,luit:2,0,luit:2,0,-2.77321
-[CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als de speelt,luit:2,0,luit:2,0,-3.39908
+[CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als de speelt,luit:2,0,luit:2,0,-3.39909
+[CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . als .r:2,luit:2,0,luit:2,0,-3.66895
+[CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] . [SEP],als dieeur:2,luit:2,0,luit:2,0,-3.82117
+[CLS] Bálint:3 Bakfark:4 speelt [MASK] [MASK] [MASK] . [SEP],op andere speelt,luit:2,0,luit:2,0,-4.01264
 [CLS] József Bazsinka:3 speelt [MASK] . [SEP],fotbal,tuba:2,0,tuba:2,0,-1.18248
-[CLS] József Bazsinka:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . - .,tuba:2,0,tuba:2,0,-3.08879
+[CLS] József Bazsinka:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . - .,tuba:2,0,tuba:2,0,-3.08880
+[CLS] József Bazsinka:3 speelt [MASK] . [SEP],handball,tuba:2,0,tuba:2,0,-3.30121
+[CLS] József Bazsinka:3 speelt [MASK] . [SEP],futbol,tuba:2,0,tuba:2,0,-3.65097
+[CLS] József Bazsinka:3 speelt [MASK] . [SEP],Handball,tuba:2,0,tuba:2,0,-4.02747
 [CLS] Dániel:3 Benkő:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,luit:2,0,luit:2,0,-2.34665
 [CLS] Dániel:3 Benkő:3 speelt [MASK] [MASK] . [SEP],de speelt,luit:2,0,luit:2,0,-2.93040
-[CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,pijporgel:4,0,pijporgel:4,0,-2.94103
+[CLS] Dániel:3 Benkő:3 speelt [MASK] [MASK] . [SEP],alss:2,luit:2,0,luit:2,0,-3.41458
+[CLS] Dániel:3 Benkő:3 speelt [MASK] . [SEP],labdarúgó,luit:2,0,luit:2,0,-3.68651
+[CLS] Dániel:3 Benkő:3 speelt [MASK] . [SEP],club,luit:2,0,luit:2,0,-3.78455
+[CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,pijporgel:4,0,pijporgel:4,0,-2.94104
 [CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in de .,pijporgel:4,0,pijporgel:4,0,-3.21046
+[CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op .en:2,pijporgel:4,0,pijporgel:4,0,-3.34248
+[CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op . ope:2,pijporgel:4,0,pijporgel:4,0,-3.75803
+[CLS] Balint:2 Karosi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als als als inr:2,pijporgel:4,0,pijporgel:4,0,-4.01631
 [CLS] Balázs Szabó speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pijporgel:4,0,pijporgel:4,0,-1.70213
 [CLS] Balázs Szabó speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,pijporgel:4,0,pijporgel:4,0,-3.45457
+[CLS] Balázs Szabó speelt [MASK] [MASK] [MASK] . [SEP],de .s:2,pijporgel:4,0,pijporgel:4,0,-3.70186
+[CLS] Balázs Szabó speelt [MASK] [MASK] [MASK] . [SEP],na alsfeld:2,pijporgel:4,0,pijporgel:4,0,-4.13626
+[CLS] Balázs Szabó speelt [MASK] . [SEP],polo,pijporgel:4,0,pijporgel:4,0,-4.20127
 [CLS] Bence:2 Bogányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de -s:2,fagot:2,0,fagot:2,0,-2.95287
 [CLS] Bence:2 Bogányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . . .,fagot:2,0,fagot:2,0,-3.16068
+[CLS] Bence:2 Bogányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een in , deen:2",fagot:2,0,fagot:2,0,-3.51078
+[CLS] Bence:2 Bogányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , op ,e:2",fagot:2,0,fagot:2,0,-3.86670
+[CLS] Bence:2 Bogányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op in opt:2,fagot:2,0,fagot:2,0,-4.01240
 [CLS] János Sebestyén:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -en:2,pijporgel:4,0,pijporgel:4,0,-2.49106
 [CLS] János Sebestyén:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt . . des:2,pijporgel:4,0,pijporgel:4,0,-3.06161
+[CLS] János Sebestyén:4 speelt [MASK] . [SEP],speelt,pijporgel:4,0,pijporgel:4,0,-3.24371
+[CLS] János Sebestyén:4 speelt [MASK] . [SEP],bas,pijporgel:4,0,pijporgel:4,0,-3.49141
+[CLS] János Sebestyén:4 speelt [MASK] . [SEP],polo,pijporgel:4,0,pijporgel:4,0,-3.69599
 [CLS] Ferenc Debreczeni:4 speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-2.21782
 [CLS] Ferenc Debreczeni:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in . -en:2,drumstel:2,0,drumstel:2,0,-3.37954
+[CLS] Ferenc Debreczeni:4 speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-3.52681
+[CLS] Ferenc Debreczeni:4 speelt [MASK] . [SEP],labdarúgó,drumstel:2,0,drumstel:2,0,-3.56008
+[CLS] Ferenc Debreczeni:4 speelt [MASK] . [SEP],polo,drumstel:2,0,drumstel:2,0,-3.79998
 [CLS] Borbala:3 Dobozy:3 speelt [MASK] . [SEP],fotbal,klavecimbel:4,0,klavecimbel:4,0,-1.71639
 [CLS] Borbala:3 Dobozy:3 speelt [MASK] . [SEP],tennis,klavecimbel:4,0,klavecimbel:4,0,-2.72775
+[CLS] Borbala:3 Dobozy:3 speelt [MASK] . [SEP],polo,klavecimbel:4,0,klavecimbel:4,0,-3.04180
+[CLS] Borbala:3 Dobozy:3 speelt [MASK] . [SEP],volleyball,klavecimbel:4,0,klavecimbel:4,0,-3.05693
+[CLS] Borbala:3 Dobozy:3 speelt [MASK] . [SEP],handball,klavecimbel:4,0,klavecimbel:4,0,-3.15064
 [CLS] Gyula Dávid:3 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-1.68942
 [CLS] Gyula Dávid:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in in des:2,altviool:3,0,altviool:3,0,-3.06156
+[CLS] Gyula Dávid:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een in ofer:2,altviool:3,0,altviool:3,0,-3.36018
+[CLS] Gyula Dávid:3 speelt [MASK] [MASK] [MASK] . [SEP],een eenball:2,altviool:3,0,altviool:3,0,-3.68127
+[CLS] Gyula Dávid:3 speelt [MASK] [MASK] . [SEP],eens:2,altviool:3,0,altviool:3,0,-3.82578
 [CLS] Félix Lajkó:3 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.72179
 [CLS] Félix Lajkó:3 speelt [MASK] . [SEP],futbol,viool:2,0,viool:2,0,-3.23146
-[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],fotbal,elektrische gitaar,0,elektrische gitaar,0,-1.68712
-[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],handball,elektrische gitaar,0,elektrische gitaar,0,-2.69239
+[CLS] Félix Lajkó:3 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.24183
+[CLS] Félix Lajkó:3 speelt [MASK] . [SEP],tenis,viool:2,0,viool:2,0,-3.46029
+[CLS] Félix Lajkó:3 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-3.55142
+[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],fotbal,elektrische gitaar,0,elektrische gitaar,0,-1.68713
+[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],handball,elektrische gitaar,0,elektrische gitaar,0,-2.69240
+[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],tennis,elektrische gitaar,0,elektrische gitaar,0,-2.99178
+[CLS] Tibor Eichinger:3 speelt [MASK] . [SEP],Handball,elektrische gitaar,0,elektrische gitaar,0,-3.65099
+[CLS] Tibor Eichinger:3 speelt [MASK] [MASK] . [SEP],voor Handball,elektrische gitaar,0,elektrische gitaar,0,-3.85902
 [CLS] László Fassang:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-1.82781
-[CLS] László Fassang:3 speelt [MASK] . [SEP],handball,pijporgel:4,0,pijporgel:4,0,-2.16289
+[CLS] László Fassang:3 speelt [MASK] . [SEP],handball,pijporgel:4,0,pijporgel:4,0,-2.16290
+[CLS] László Fassang:3 speelt [MASK] . [SEP],Handball,pijporgel:4,0,pijporgel:4,0,-3.21938
+[CLS] László Fassang:3 speelt [MASK] . [SEP],tennis,pijporgel:4,0,pijporgel:4,0,-3.34582
+[CLS] László Fassang:3 speelt [MASK] . [SEP],futbol,pijporgel:4,0,pijporgel:4,0,-3.79246
 [CLS] Kornél:2 Horváth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,drumstel:2,0,drumstel:2,0,-2.75352
 [CLS] Kornél:2 Horváth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . -s:2,drumstel:2,0,drumstel:2,0,-3.03561
-[CLS] Tibor Serly:2 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.99559
+[CLS] Kornél:2 Horváth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt in op de op,drumstel:2,0,drumstel:2,0,-3.32664
+[CLS] Kornél:2 Horváth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een op , ,t:2",drumstel:2,0,drumstel:2,0,-3.79792
+[CLS] Kornél:2 Horváth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , in opn:2",drumstel:2,0,drumstel:2,0,-3.92696
+[CLS] Tibor Serly:2 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.99560
 [CLS] Tibor Serly:2 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-2.94020
+[CLS] Tibor Serly:2 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-3.07592
+[CLS] Tibor Serly:2 speelt [MASK] . [SEP],speelt,viool:2,0,viool:2,0,-3.35644
+[CLS] Tibor Serly:2 speelt [MASK] [MASK] [MASK] . [SEP],als .er:2,viool:2,0,viool:2,0,-3.78474
 [CLS] Zoltán Jeney:2 speelt [MASK] . [SEP],fotbal,dwarsfluit:4,0,dwarsfluit:4,0,-1.70531
-[CLS] Zoltán Jeney:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . - speelt,dwarsfluit:4,0,dwarsfluit:4,0,-3.09658
+[CLS] Zoltán Jeney:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . - speelt,dwarsfluit:4,0,dwarsfluit:4,0,-3.09659
+[CLS] Zoltán Jeney:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt in , . de",dwarsfluit:4,0,dwarsfluit:4,0,-3.30330
+[CLS] Zoltán Jeney:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , op opg:2",dwarsfluit:4,0,dwarsfluit:4,0,-3.76415
+[CLS] Zoltán Jeney:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op in ,en:2",dwarsfluit:4,0,dwarsfluit:4,0,-3.90339
 [CLS] Vilmos:2 Jávori:2 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,drumstel:2,0,drumstel:2,0,-2.46010
 [CLS] Vilmos:2 Jávori:2 speelt [MASK] . [SEP],futbol,drumstel:2,0,drumstel:2,0,-2.83452
+[CLS] Vilmos:2 Jávori:2 speelt [MASK] . [SEP],labdarúgó,drumstel:2,0,drumstel:2,0,-3.42220
+[CLS] Vilmos:2 Jávori:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de een . op C,drumstel:2,0,drumstel:2,0,-3.62160
+[CLS] Vilmos:2 Jávori:2 speelt [MASK] [MASK] [MASK] . [SEP],op alsr:2,drumstel:2,0,drumstel:2,0,-3.79758
 [CLS] Katalin Kokas:2 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,viool:2,0,viool:2,0,-2.52575
 [CLS] Katalin Kokas:2 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-2.94970
+[CLS] Katalin Kokas:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in op den:2,viool:2,0,viool:2,0,-3.36976
+[CLS] Katalin Kokas:2 speelt [MASK] [MASK] . [SEP],voorspel:2,viool:2,0,viool:2,0,-3.54468
+[CLS] Katalin Kokas:2 speelt [MASK] [MASK] . [SEP],als links,viool:2,0,viool:2,0,-3.71041
 [CLS] György Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -s:2,fagot:2,0,fagot:2,0,-2.71420
-[CLS] György Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als deer:2,fagot:2,0,fagot:2,0,-3.12818
+[CLS] György Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als deer:2,fagot:2,0,fagot:2,0,-3.12819
+[CLS] György Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in - de .,fagot:2,0,fagot:2,0,-3.35098
+[CLS] György Lakatos:3 speelt [MASK] . [SEP],bas,fagot:2,0,fagot:2,0,-3.73058
+[CLS] György Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een als , ofn:2",fagot:2,0,fagot:2,0,-4.02417
 [CLS] János Pálúr:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de -en:2,pijporgel:4,0,pijporgel:4,0,-2.61148
 [CLS] János Pálúr:2 speelt [MASK] [MASK] . [SEP],eener:2,pijporgel:4,0,pijporgel:4,0,-3.15368
+[CLS] János Pálúr:2 speelt [MASK] [MASK] . [SEP],de links,pijporgel:4,0,pijporgel:4,0,-3.25582
+[CLS] János Pálúr:2 speelt [MASK] [MASK] [MASK] . [SEP],in een speelt,pijporgel:4,0,pijporgel:4,0,-3.49025
+[CLS] János Pálúr:2 speelt [MASK] [MASK] . [SEP],inball:2,pijporgel:4,0,pijporgel:4,0,-3.73071
 [CLS] Mihály Ráduly:3 speelt [MASK] [MASK] [MASK] . [SEP],een deer:2,saxofoon:4,0,saxofoon:4,0,-2.43929
 [CLS] Mihály Ráduly:3 speelt [MASK] [MASK] . [SEP],eenball:2,saxofoon:4,0,saxofoon:4,0,-2.92527
+[CLS] Mihály Ráduly:3 speelt [MASK] . [SEP],speelt,saxofoon:4,0,saxofoon:4,0,-3.15408
+[CLS] Mihály Ráduly:3 speelt [MASK] [MASK] [MASK] . [SEP],als alsen:2,saxofoon:4,0,saxofoon:4,0,-3.50008
+[CLS] Mihály Ráduly:3 speelt [MASK] [MASK] [MASK] . [SEP],op voorr:2,saxofoon:4,0,saxofoon:4,0,-3.68393
 [CLS] Roland Szentpáli:3 speelt [MASK] [MASK] . [SEP],de speelt,tuba:2,0,tuba:2,0,-2.36465
-[CLS] Roland Szentpáli:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de een -er:2,tuba:2,0,tuba:2,0,-2.96494
+[CLS] Roland Szentpáli:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de een -er:2,tuba:2,0,tuba:2,0,-2.96495
+[CLS] Roland Szentpáli:3 speelt [MASK] [MASK] [MASK] . [SEP],in links speelt,tuba:2,0,tuba:2,0,-3.33216
+[CLS] Roland Szentpáli:3 speelt [MASK] [MASK] [MASK] . [SEP],op doelr:2,tuba:2,0,tuba:2,0,-3.67079
+[CLS] Roland Szentpáli:3 speelt [MASK] . [SEP],prof,tuba:2,0,tuba:2,0,-3.77970
 [CLS] Elemér:3 Balázs speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -s:2,drumstel:2,0,drumstel:2,0,-2.60538
 [CLS] Elemér:3 Balázs speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . deen:2,drumstel:2,0,drumstel:2,0,-3.07534
-[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,jazzviool:3,0,jazzviool:3,0,-2.52772
-[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als - speelt,jazzviool:3,0,jazzviool:3,0,-3.26990
+[CLS] Elemér:3 Balázs speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in . .,drumstel:2,0,drumstel:2,0,-3.20476
+[CLS] Elemér:3 Balázs speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-3.65377
+[CLS] Elemér:3 Balázs speelt [MASK] . [SEP],speelt,drumstel:2,0,drumstel:2,0,-3.71544
+[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,jazzviool:3,0,jazzviool:3,0,-2.52773
+[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als - speelt,jazzviool:3,0,jazzviool:3,0,-3.26991
+[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in . .,jazzviool:3,0,jazzviool:3,0,-3.57982
+[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in hoofd alse:2,jazzviool:3,0,jazzviool:3,0,-3.81626
+[CLS] Roby:2 Lakatos:3 speelt [MASK] [MASK] [MASK] . [SEP],een eener:2,jazzviool:3,0,jazzviool:3,0,-3.88970
 [CLS] Szabolcs:4 Zempléni:4 speelt [MASK] . [SEP],##ball,hoorn:2,0,hoorn:2,0,-1.00220
 [CLS] Szabolcs:4 Zempléni:4 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-2.86302
+[CLS] Szabolcs:4 Zempléni:4 speelt [MASK] . [SEP],p,hoorn:2,0,hoorn:2,0,-3.01491
+[CLS] Szabolcs:4 Zempléni:4 speelt [MASK] . [SEP],volleyball,hoorn:2,0,hoorn:2,0,-3.55977
+[CLS] Szabolcs:4 Zempléni:4 speelt [MASK] . [SEP],polo,hoorn:2,0,hoorn:2,0,-3.62278
 [CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,klavecimbel:4,0,klavecimbel:4,0,-2.77206
-[CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] . [SEP],die piano,klavecimbel:4,0,klavecimbel:4,0,-3.27081
+[CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] . [SEP],die piano,klavecimbel:4,0,klavecimbel:4,0,-3.27082
+[CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in op . .,klavecimbel:4,0,klavecimbel:4,0,-3.45450
+[CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt als . opt:2,klavecimbel:4,0,klavecimbel:4,0,-3.93442
+[CLS] Zsuzsa:3 Pertis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als op als eenen:2,klavecimbel:4,0,klavecimbel:4,0,-3.98862
 [CLS] László Bársony:3 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.14255
 [CLS] László Bársony:3 speelt [MASK] . [SEP],handball,altviool:3,0,altviool:3,0,-2.83745
+[CLS] László Bársony:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in . .,altviool:3,0,altviool:3,0,-3.33264
+[CLS] László Bársony:3 speelt [MASK] . [SEP],labdarúgó,altviool:3,0,altviool:3,0,-3.59912
+[CLS] László Bársony:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt een , , op",altviool:3,0,altviool:3,0,-3.79062
 [CLS] Koromzay:4 Dénes:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.44906
-[CLS] Koromzay:4 Dénes:3 speelt [MASK] [MASK] [MASK] . [SEP],als hoofder:2,altviool:3,0,altviool:3,0,-2.93378
+[CLS] Koromzay:4 Dénes:3 speelt [MASK] [MASK] [MASK] . [SEP],als hoofder:2,altviool:3,0,altviool:3,0,-2.93379
+[CLS] Koromzay:4 Dénes:3 speelt [MASK] [MASK] . [SEP],als speelt,altviool:3,0,altviool:3,0,-3.37788
+[CLS] Koromzay:4 Dénes:3 speelt [MASK] [MASK] [MASK] . [SEP],voor alsen:2,altviool:3,0,altviool:3,0,-3.53395
+[CLS] Koromzay:4 Dénes:3 speelt [MASK] . [SEP],futbol,altviool:3,0,altviool:3,0,-3.67383
 [CLS] Miklós Spányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,klavecimbel:4,0,klavecimbel:4,0,-2.64638
 [CLS] Miklós Spányi:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -s:2,klavecimbel:4,0,klavecimbel:4,0,-3.03082
+[CLS] Miklós Spányi:2 speelt [MASK] [MASK] [MASK] . [SEP],in sper:2,klavecimbel:4,0,klavecimbel:4,0,-3.68023
+[CLS] Miklós Spányi:2 speelt [MASK] [MASK] [MASK] . [SEP],op .r:2,klavecimbel:4,0,klavecimbel:4,0,-3.76886
+[CLS] Miklós Spányi:2 speelt [MASK] [MASK] [MASK] . [SEP],een -t:2,klavecimbel:4,0,klavecimbel:4,0,-3.99275
 [CLS] Ervin:2 Schiffer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .s:2,altviool:3,0,altviool:3,0,-2.65558
 [CLS] Ervin:2 Schiffer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de de .,altviool:3,0,altviool:3,0,-3.20739
+[CLS] Ervin:2 Schiffer:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die de det:2,altviool:3,0,altviool:3,0,-3.48964
+[CLS] Ervin:2 Schiffer:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als in alse:2,altviool:3,0,altviool:3,0,-3.87405
+[CLS] Ervin:2 Schiffer:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"een , , .",altviool:3,0,altviool:3,0,-4.26325
 [CLS] Eugene Lehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-2.18969
-[CLS] Eugene Lehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,viool:2,0,viool:2,0,-3.49793
+[CLS] Eugene Lehner:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,viool:2,0,viool:2,0,-3.49794
+[CLS] Eugene Lehner:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als -s:2,viool:2,0,viool:2,0,-3.87972
+[CLS] Eugene Lehner:2 speelt [MASK] . [SEP],Joe,viool:2,0,viool:2,0,-4.34893
+[CLS] Eugene Lehner:2 speelt [MASK] [MASK] . [SEP],de .,viool:2,0,viool:2,0,-4.54724
 [CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,gitaar,0,gitaar,0,-2.34565
-[CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -en:2,gitaar,0,gitaar,0,-3.12205
-[CLS] Gábor Szentmihályi:4 speelt [MASK] [MASK] . [SEP],de speelt,slaginstrument:4,0,slaginstrument:4,0,-2.15759
+[CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -en:2,gitaar,0,gitaar,0,-3.12206
+[CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] . [SEP],alser:2,gitaar,0,gitaar,0,-3.53473
+[CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] [MASK] . [SEP],op alsfeld:2,gitaar,0,gitaar,0,-3.66334
+[CLS] Gergely:3 Sárközy:4 speelt [MASK] [MASK] [MASK] . [SEP],de -f:2,gitaar,0,gitaar,0,-3.80860
+[CLS] Gábor Szentmihályi:4 speelt [MASK] [MASK] . [SEP],de speelt,slaginstrument:4,0,slaginstrument:4,0,-2.15760
 [CLS] Gábor Szentmihályi:4 speelt [MASK] . [SEP],speelt,slaginstrument:4,0,slaginstrument:4,0,-2.95556
+[CLS] Gábor Szentmihályi:4 speelt [MASK] [MASK] [MASK] . [SEP],de doeler:2,slaginstrument:4,0,slaginstrument:4,0,-3.08310
+[CLS] Gábor Szentmihályi:4 speelt [MASK] . [SEP],in,slaginstrument:4,0,slaginstrument:4,0,-3.29277
+[CLS] Gábor Szentmihályi:4 speelt [MASK] . [SEP],voor,slaginstrument:4,0,slaginstrument:4,0,-3.40876
 [CLS] Károly Gianicelli:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,contrabas:2,0,contrabas:2,0,-2.50416
 [CLS] Károly Gianicelli:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in -s:2,contrabas:2,0,contrabas:2,0,-3.00140
+[CLS] Károly Gianicelli:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een een in .s:2,contrabas:2,0,contrabas:2,0,-3.27150
+[CLS] Károly Gianicelli:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt . , op spelen",contrabas:2,0,contrabas:2,0,-3.71710
+[CLS] Károly Gianicelli:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , - ofspel:2",contrabas:2,0,contrabas:2,0,-3.86883
 [CLS] Sebestyén:4 Pécsi:3 speelt [MASK] . [SEP],p,pijporgel:4,0,pijporgel:4,0,-2.11117
 [CLS] Sebestyén:4 Pécsi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de B,pijporgel:4,0,pijporgel:4,0,-3.15253
+[CLS] Sebestyén:4 Pécsi:3 speelt [MASK] . [SEP],volleyball,pijporgel:4,0,pijporgel:4,0,-3.28816
+[CLS] Sebestyén:4 Pécsi:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-3.45369
+[CLS] Sebestyén:4 Pécsi:3 speelt [MASK] . [SEP],nog,pijporgel:4,0,pijporgel:4,0,-3.55504
 [CLS] István Vincze:3 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-2.42439
 [CLS] István Vincze:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . .s:2,hoorn:2,0,hoorn:2,0,-2.97985
-[CLS] István Grencsó:4 speelt [MASK] . [SEP],fotbal,saxofoon:4,0,saxofoon:4,0,-1.94917
-[CLS] István Grencsó:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -s:2,saxofoon:4,0,saxofoon:4,0,-3.16802
-[CLS] Gusztáv:3 Szerémi:4 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.24002
+[CLS] István Vincze:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . . speelt,hoorn:2,0,hoorn:2,0,-3.48953
+[CLS] István Vincze:3 speelt [MASK] [MASK] [MASK] . [SEP],op alsr:2,hoorn:2,0,hoorn:2,0,-3.76231
+[CLS] István Vincze:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op een ofen:2,hoorn:2,0,hoorn:2,0,-3.94527
+[CLS] István Grencsó:4 speelt [MASK] . [SEP],fotbal,saxofoon:4,0,saxofoon:4,0,-1.94918
+[CLS] István Grencsó:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -s:2,saxofoon:4,0,saxofoon:4,0,-3.16803
+[CLS] István Grencsó:4 speelt [MASK] [MASK] [MASK] . [SEP],een hetr:2,saxofoon:4,0,saxofoon:4,0,-3.55103
+[CLS] István Grencsó:4 speelt [MASK] [MASK] [MASK] . [SEP],de vooren:2,saxofoon:4,0,saxofoon:4,0,-3.66995
+[CLS] István Grencsó:4 speelt [MASK] [MASK] [MASK] . [SEP],op doelball:2,saxofoon:4,0,saxofoon:4,0,-3.85250
+[CLS] Gusztáv:3 Szerémi:4 speelt [MASK] . [SEP],fotbal,altviool:3,0,altviool:3,0,-2.24003
 [CLS] Gusztáv:3 Szerémi:4 speelt [MASK] . [SEP],polo,altviool:3,0,altviool:3,0,-3.10361
+[CLS] Gusztáv:3 Szerémi:4 speelt [MASK] . [SEP],op,altviool:3,0,altviool:3,0,-3.34564
+[CLS] Gusztáv:3 Szerémi:4 speelt [MASK] [MASK] [MASK] . [SEP],op ders:2,altviool:3,0,altviool:3,0,-3.72477
+[CLS] Gusztáv:3 Szerémi:4 speelt [MASK] [MASK] . [SEP],opf:2,altviool:3,0,altviool:3,0,-3.81135
 [CLS] Cornell Smelser:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,accordeon:2,0,accordeon:2,0,-2.36087
-[CLS] Cornell Smelser:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,accordeon:2,0,accordeon:2,0,-3.42977
+[CLS] Cornell Smelser:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,accordeon:2,0,accordeon:2,0,-3.42978
+[CLS] Cornell Smelser:2 speelt [MASK] [MASK] [MASK] . [SEP],in -t:2,accordeon:2,0,accordeon:2,0,-3.65088
+[CLS] Cornell Smelser:2 speelt [MASK] . [SEP],p,accordeon:2,0,accordeon:2,0,-4.01789
+[CLS] Cornell Smelser:2 speelt [MASK] . [SEP],baseball,accordeon:2,0,accordeon:2,0,-4.07750
 [CLS] Ádám:3 Szabó speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -en:2,accordeon:2,0,accordeon:2,0,-2.43372
 [CLS] Ádám:3 Szabó speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"de in , des:2",accordeon:2,0,accordeon:2,0,-3.03021
-[CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.63989
+[CLS] Ádám:3 Szabó speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een een in . speelt,accordeon:2,0,accordeon:2,0,-3.36081
+[CLS] Ádám:3 Szabó speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een alsen:2,accordeon:2,0,accordeon:2,0,-3.59613
+[CLS] Ádám:3 Szabó speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als opspelr:3,accordeon:2,0,accordeon:2,0,-3.77354
+[CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.63990
 [CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -e:2,drumstel:2,0,drumstel:2,0,-3.28901
+[CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in det:2,drumstel:2,0,drumstel:2,0,-3.77345
+[CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"die - - ,s:2",drumstel:2,0,drumstel:2,0,-4.08258
+[CLS] Peter Gritz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],": , , in op",drumstel:2,0,drumstel:2,0,-4.28175
 [CLS] András Mohay:2 speelt [MASK] [MASK] . [SEP],de piano,drumstel:2,0,drumstel:2,0,-2.71373
 [CLS] András Mohay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . de .,drumstel:2,0,drumstel:2,0,-3.12620
+[CLS] András Mohay:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als - .,drumstel:2,0,drumstel:2,0,-3.54647
+[CLS] András Mohay:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op als op,drumstel:2,0,drumstel:2,0,-3.88046
+[CLS] András Mohay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een op in opt:2,drumstel:2,0,drumstel:2,0,-4.02881
 [CLS] János Temesváry:4 speelt [MASK] [MASK] [MASK] . [SEP],een deer:2,viool:2,0,viool:2,0,-2.50564
 [CLS] János Temesváry:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in een des:2,viool:2,0,viool:2,0,-2.85494
-[CLS] Péter Wagner - Puskás:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-2.60151
+[CLS] János Temesváry:4 speelt [MASK] [MASK] [MASK] . [SEP],de -ball:2,viool:2,0,viool:2,0,-3.15971
+[CLS] János Temesváry:4 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.34156
+[CLS] János Temesváry:4 speelt [MASK] [MASK] [MASK] . [SEP],voor voor speelt,viool:2,0,viool:2,0,-3.67868
+[CLS] Péter Wagner - Puskás:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-2.60152
 [CLS] Péter Wagner - Puskás:3 speelt [MASK] [MASK] . [SEP],als rol,piano,0,piano,0,-2.90016
+[CLS] Péter Wagner - Puskás:3 speelt [MASK] [MASK] . [SEP],die piano,piano,0,piano,0,-3.35047
+[CLS] Péter Wagner - Puskás:3 speelt [MASK] [MASK] . [SEP],hets:2,piano,0,piano,0,-3.62411
+[CLS] Péter Wagner - Puskás:3 speelt [MASK] [MASK] . [SEP],in speelt,piano,0,piano,0,-3.81420
 [CLS] Weisz:2 Árpád speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.35725
 [CLS] Weisz:2 Árpád speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de dee:2,drumstel:2,0,drumstel:2,0,-3.23794
-[CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altsaxofoon:5,0,altsaxofoon:5,0,-2.08184
+[CLS] Weisz:2 Árpád speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , , -e:2",drumstel:2,0,drumstel:2,0,-3.86937
+[CLS] Weisz:2 Árpád speelt [MASK] [MASK] [MASK] . [SEP],in -spieler:2,drumstel:2,0,drumstel:2,0,-4.09894
+[CLS] Weisz:2 Árpád speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],une:2 in a a,drumstel:2,0,drumstel:2,0,-4.36803
+[CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altsaxofoon:5,0,altsaxofoon:5,0,-2.08185
 [CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de - .,altsaxofoon:5,0,altsaxofoon:5,0,-3.13524
+[CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] . [SEP],de .er:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.55796
+[CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] . [SEP],voor alse:2,altsaxofoon:5,0,altsaxofoon:5,0,-4.01911
+[CLS] Viktor Tóth speelt [MASK] [MASK] [MASK] . [SEP],op rechtenspieler:2,altsaxofoon:5,0,altsaxofoon:5,0,-4.15338
 [CLS] Alexander Sebald:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,viool:2,0,viool:2,0,-2.68032
 [CLS] Alexander Sebald:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -e:2,viool:2,0,viool:2,0,-3.30885
+[CLS] Alexander Sebald:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als den:2,viool:2,0,viool:2,0,-3.67461
+[CLS] Alexander Sebald:2 speelt [MASK] [MASK] [MASK] . [SEP],die alsspieler:2,viool:2,0,viool:2,0,-3.98661
+[CLS] Alexander Sebald:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: - in /t:2,viool:2,0,viool:2,0,-4.29483
 [CLS] György Vashegyi:3 speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-2.12214
 [CLS] György Vashegyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . -s:2,viool:2,0,viool:2,0,-3.03738
+[CLS] György Vashegyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt in , de C",viool:2,0,viool:2,0,-3.39595
+[CLS] György Vashegyi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , in , A",viool:2,0,viool:2,0,-3.86714
+[CLS] György Vashegyi:3 speelt [MASK] . [SEP],Handball,viool:2,0,viool:2,0,-4.06359
 [CLS] Zoltán Kollonay:3 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.11792
 [CLS] Zoltán Kollonay:3 speelt [MASK] [MASK] . [SEP],voors:2,piano,0,piano,0,-3.08522
+[CLS] Zoltán Kollonay:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-3.40122
+[CLS] Zoltán Kollonay:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op het .er:2,piano,0,piano,0,-3.63416
+[CLS] Zoltán Kollonay:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . of ofg:2,piano,0,piano,0,-3.88599
 [CLS] Zoltán Tibay:2 speelt [MASK] . [SEP],fotbal,contrabas:2,0,contrabas:2,0,-1.88356
 [CLS] Zoltán Tibay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in . de de,contrabas:2,0,contrabas:2,0,-3.17008
-[CLS] Péter Tornyai:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.22231
-[CLS] Péter Tornyai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . op de A,altviool:3,0,altviool:3,0,-2.78407
+[CLS] Zoltán Tibay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt . in .s:2,contrabas:2,0,contrabas:2,0,-3.38084
+[CLS] Zoltán Tibay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een een , of .",contrabas:2,0,contrabas:2,0,-3.70515
+[CLS] Zoltán Tibay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"voor , of ,g:2",contrabas:2,0,contrabas:2,0,-3.81419
+[CLS] Péter Tornyai:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.22232
+[CLS] Péter Tornyai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . op de A,altviool:3,0,altviool:3,0,-2.78408
+[CLS] Péter Tornyai:3 speelt [MASK] [MASK] . [SEP],iner:2,altviool:3,0,altviool:3,0,-3.17764
+[CLS] Péter Tornyai:3 speelt [MASK] [MASK] . [SEP],een voetballer,altviool:3,0,altviool:3,0,-3.48830
+[CLS] Péter Tornyai:3 speelt [MASK] [MASK] [MASK] . [SEP],op in speelt,altviool:3,0,altviool:3,0,-3.84823
 [CLS] Zoltán Mácsai:3 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-2.20846
-[CLS] Zoltán Mácsai:3 speelt [MASK] [MASK] . [SEP],voors:2,hoorn:2,0,hoorn:2,0,-2.98925
+[CLS] Zoltán Mácsai:3 speelt [MASK] [MASK] . [SEP],voors:2,hoorn:2,0,hoorn:2,0,-2.98926
+[CLS] Zoltán Mácsai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , of . wedstrijden",hoorn:2,0,hoorn:2,0,-3.44463
+[CLS] Zoltán Mácsai:3 speelt [MASK] [MASK] [MASK] . [SEP],als voorr:2,hoorn:2,0,hoorn:2,0,-3.62611
+[CLS] Zoltán Mácsai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . op ofg:2,hoorn:2,0,hoorn:2,0,-3.76161
 [CLS] János Sándor speelt [MASK] . [SEP],fotbal,slaginstrument:4,0,slaginstrument:4,0,-1.70877
-[CLS] János Sándor speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . de B,slaginstrument:4,0,slaginstrument:4,0,-3.33086
+[CLS] János Sándor speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . de B,slaginstrument:4,0,slaginstrument:4,0,-3.33087
+[CLS] János Sándor speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , . de",slaginstrument:4,0,slaginstrument:4,0,-3.47434
+[CLS] János Sándor speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", de op , ,",slaginstrument:4,0,slaginstrument:4,0,-3.83711
+[CLS] János Sándor speelt [MASK] . [SEP],labdarúgó,slaginstrument:4,0,slaginstrument:4,0,-3.95734
 [CLS] Georges Janzer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-2.27103
 [CLS] Georges Janzer:2 speelt [MASK] [MASK] . [SEP],die orgel,altviool:3,0,altviool:3,0,-3.22488
+[CLS] Georges Janzer:2 speelt [MASK] . [SEP],orgel,altviool:3,0,altviool:3,0,-3.30122
+[CLS] Georges Janzer:2 speelt [MASK] . [SEP],tenor,altviool:3,0,altviool:3,0,-3.76023
+[CLS] Georges Janzer:2 speelt [MASK] . [SEP],trombone,altviool:3,0,altviool:3,0,-4.07216
 [CLS] György Konrád:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -s:2,viool:2,0,viool:2,0,-2.75426
 [CLS] György Konrád:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in . deen:2,viool:2,0,viool:2,0,-3.24693
+[CLS] György Konrád:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in . .,viool:2,0,viool:2,0,-3.56421
+[CLS] György Konrád:4 speelt [MASK] . [SEP],tenis,viool:2,0,viool:2,0,-3.84895
+[CLS] György Konrád:4 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.86432
 [CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] . [SEP],de zangeres,fagot:2,0,fagot:2,0,-2.51683
-[CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] . [SEP],haar rol,fagot:2,0,fagot:2,0,-2.99374
+[CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] . [SEP],haar rol,fagot:2,0,fagot:2,0,-2.99375
+[CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] . [SEP],diee:2,fagot:2,0,fagot:2,0,-3.27010
+[CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] [MASK] . [SEP],haar - speelt,fagot:2,0,fagot:2,0,-3.70485
+[CLS] Krisztina:3 Faludy:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],haar van alst:2,fagot:2,0,fagot:2,0,-3.95007
 [CLS] András Gábor Virágh:3 speelt [MASK] [MASK] . [SEP],de speelt,pijporgel:4,0,pijporgel:4,0,-2.36004
-[CLS] András Gábor Virágh:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . deen:2,pijporgel:4,0,pijporgel:4,0,-2.97599
-[CLS] Szilvia:3 Takács:2 speelt [MASK] [MASK] [MASK] . [SEP],in deball:2,klavecimbel:4,0,klavecimbel:4,0,-1.81477
+[CLS] András Gábor Virágh:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . deen:2,pijporgel:4,0,pijporgel:4,0,-2.97600
+[CLS] András Gábor Virágh:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op -r:2,pijporgel:4,0,pijporgel:4,0,-3.41228
+[CLS] András Gábor Virágh:3 speelt [MASK] [MASK] [MASK] . [SEP],op heter:2,pijporgel:4,0,pijporgel:4,0,-3.60014
+[CLS] András Gábor Virágh:3 speelt [MASK] [MASK] [MASK] . [SEP],voor voorr:2,pijporgel:4,0,pijporgel:4,0,-3.69151
+[CLS] Szilvia:3 Takács:2 speelt [MASK] [MASK] [MASK] . [SEP],in deball:2,klavecimbel:4,0,klavecimbel:4,0,-1.81478
 [CLS] Szilvia:3 Takács:2 speelt [MASK] . [SEP],##ball,klavecimbel:4,0,klavecimbel:4,0,-2.45652
+[CLS] Szilvia:3 Takács:2 speelt [MASK] [MASK] . [SEP],vooren:2,klavecimbel:4,0,klavecimbel:4,0,-2.93266
+[CLS] Szilvia:3 Takács:2 speelt [MASK] . [SEP],voetbal,klavecimbel:4,0,klavecimbel:4,0,-3.26734
+[CLS] Szilvia:3 Takács:2 speelt [MASK] . [SEP],volleyball,klavecimbel:4,0,klavecimbel:4,0,-3.33404
 [CLS] Lehel:2 Both speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,piano,0,piano,0,-2.53795
 [CLS] Lehel:2 Both speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,piano,0,piano,0,-2.94059
-[CLS] Rudolf Malaric:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,contrabas:2,0,contrabas:2,0,-2.38225
+[CLS] Lehel:2 Both speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in op - op,piano,0,piano,0,-3.31921
+[CLS] Lehel:2 Both speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een op in ops:2,piano,0,piano,0,-3.58281
+[CLS] Lehel:2 Both speelt [MASK] . [SEP],op,piano,0,piano,0,-4.02786
+[CLS] Rudolf Malaric:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,contrabas:2,0,contrabas:2,0,-2.38226
 [CLS] Rudolf Malaric:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de det:2,contrabas:2,0,contrabas:2,0,-3.29861
+[CLS] Rudolf Malaric:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als -s:2,contrabas:2,0,contrabas:2,0,-3.71219
+[CLS] Rudolf Malaric:2 speelt [MASK] . [SEP],piano,contrabas:2,0,contrabas:2,0,-3.91500
+[CLS] Rudolf Malaric:2 speelt [MASK] . [SEP],handball,contrabas:2,0,contrabas:2,0,-4.10946
 [CLS] Ferenc Sárosi:3 speelt [MASK] . [SEP],stadion,slaginstrument:4,0,slaginstrument:4,0,-1.66571
 [CLS] Ferenc Sárosi:3 speelt [MASK] . [SEP],fotbal,slaginstrument:4,0,slaginstrument:4,0,-2.01028
+[CLS] Ferenc Sárosi:3 speelt [MASK] [MASK] . [SEP],voor Stadion,slaginstrument:4,0,slaginstrument:4,0,-2.84730
+[CLS] Ferenc Sárosi:3 speelt [MASK] . [SEP],op,slaginstrument:4,0,slaginstrument:4,0,-3.53032
+[CLS] Ferenc Sárosi:3 speelt [MASK] . [SEP],piłkarski,slaginstrument:4,0,slaginstrument:4,0,-3.53136
 [CLS] Hedi:2 Salanki:2 speelt [MASK] [MASK] . [SEP],voor links,klavecimbel:4,0,klavecimbel:4,0,-2.39818
 [CLS] Hedi:2 Salanki:2 speelt [MASK] . [SEP],polo,klavecimbel:4,0,klavecimbel:4,0,-2.96324
-[CLS] László Hara speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,fagot:2,0,fagot:2,0,-1.69854
-[CLS] László Hara speelt [MASK] [MASK] [MASK] . [SEP],de alss:2,fagot:2,0,fagot:2,0,-3.36242
+[CLS] Hedi:2 Salanki:2 speelt [MASK] [MASK] [MASK] . [SEP],op als links,klavecimbel:4,0,klavecimbel:4,0,-3.41468
+[CLS] Hedi:2 Salanki:2 speelt [MASK] [MASK] [MASK] . [SEP],de eenen:2,klavecimbel:4,0,klavecimbel:4,0,-3.60819
+[CLS] Hedi:2 Salanki:2 speelt [MASK] [MASK] [MASK] . [SEP],voor voorpunt:2,klavecimbel:4,0,klavecimbel:4,0,-3.67011
+[CLS] László Hara speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,fagot:2,0,fagot:2,0,-1.69855
+[CLS] László Hara speelt [MASK] [MASK] [MASK] . [SEP],de alss:2,fagot:2,0,fagot:2,0,-3.36243
+[CLS] László Hara speelt [MASK] [MASK] [MASK] . [SEP],in -r:2,fagot:2,0,fagot:2,0,-3.45496
+[CLS] László Hara speelt [MASK] [MASK] [MASK] . [SEP],voor .e:2,fagot:2,0,fagot:2,0,-3.54543
+[CLS] László Hara speelt [MASK] [MASK] [MASK] . [SEP],op eenen:2,fagot:2,0,fagot:2,0,-3.95162
 [CLS] László Ujházy:4 speelt [MASK] . [SEP],fotbal,klarinet:2,0,klarinet:2,0,-2.25294
 [CLS] László Ujházy:4 speelt [MASK] . [SEP],handball,klarinet:2,0,klarinet:2,0,-3.06269
+[CLS] László Ujházy:4 speelt [MASK] . [SEP],polo,klarinet:2,0,klarinet:2,0,-3.46632
+[CLS] László Ujházy:4 speelt [MASK] . [SEP],labdarúgó,klarinet:2,0,klarinet:2,0,-3.54842
+[CLS] László Ujházy:4 speelt [MASK] . [SEP],op,klarinet:2,0,klarinet:2,0,-3.57906
 [CLS] János Péter speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,dwarsfluit:4,0,dwarsfluit:4,0,-1.89612
 [CLS] János Péter speelt [MASK] [MASK] [MASK] . [SEP],als .s:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.17772
+[CLS] János Péter speelt [MASK] [MASK] [MASK] . [SEP],speelt -er:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.50491
+[CLS] János Péter speelt [MASK] . [SEP],fotbal,dwarsfluit:4,0,dwarsfluit:4,0,-3.70230
+[CLS] János Péter speelt [MASK] [MASK] [MASK] [MASK] . [SEP],unn:2 op B,dwarsfluit:4,0,dwarsfluit:4,0,-4.13971
 [CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de de speelt,altviool:3,0,altviool:3,0,-2.49393
 [CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . op -g:2,altviool:3,0,altviool:3,0,-3.01242
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in . . op,altviool:3,0,altviool:3,0,-3.19145
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op een of ops:2,altviool:3,0,altviool:3,0,-3.67636
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] . [SEP],op -en:2,altviool:3,0,altviool:3,0,-3.80527
 [CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de de speelt,altviool:3,0,altviool:3,0,-2.49393
 [CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . op -g:2,altviool:3,0,altviool:3,0,-3.01242
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in . . op,altviool:3,0,altviool:3,0,-3.19145
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op een of ops:2,altviool:3,0,altviool:3,0,-3.67636
+[CLS] Péter Lukács:3 speelt [MASK] [MASK] [MASK] . [SEP],op -en:2,altviool:3,0,altviool:3,0,-3.80527
 [CLS] Ernő:2 Hock:2 speelt [MASK] [MASK] . [SEP],de piano,contrabas:2,0,contrabas:2,0,-2.40102
 [CLS] Ernő:2 Hock:2 speelt [MASK] [MASK] . [SEP],die rol,contrabas:2,0,contrabas:2,0,-2.99725
+[CLS] Ernő:2 Hock:2 speelt [MASK] [MASK] . [SEP],hets:2,contrabas:2,0,contrabas:2,0,-3.39962
+[CLS] Ernő:2 Hock:2 speelt [MASK] [MASK] [MASK] . [SEP],het hoofde:2,contrabas:2,0,contrabas:2,0,-3.90165
+[CLS] Ernő:2 Hock:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in in int:2,contrabas:2,0,contrabas:2,0,-4.17320
 [CLS] László Bojtár:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-1.54819
 [CLS] László Bojtár:3 speelt [MASK] . [SEP],handball,pijporgel:4,0,pijporgel:4,0,-2.91674
+[CLS] László Bojtár:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt . in - C,pijporgel:4,0,pijporgel:4,0,-3.18784
+[CLS] László Bojtár:3 speelt [MASK] . [SEP],labdarúgó,pijporgel:4,0,pijporgel:4,0,-3.44031
+[CLS] László Bojtár:3 speelt [MASK] . [SEP],polo,pijporgel:4,0,pijporgel:4,0,-3.89914
 [CLS] Gergely:3 Rákász:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,pijporgel:4,0,pijporgel:4,0,-2.38780
-[CLS] Gergely:3 Rákász:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in -en:2,pijporgel:4,0,pijporgel:4,0,-2.98063
+[CLS] Gergely:3 Rákász:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in -en:2,pijporgel:4,0,pijporgel:4,0,-2.98064
+[CLS] Gergely:3 Rákász:3 speelt [MASK] . [SEP],labdarúgó,pijporgel:4,0,pijporgel:4,0,-3.30456
+[CLS] Gergely:3 Rákász:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-3.60403
+[CLS] Gergely:3 Rákász:3 speelt [MASK] [MASK] [MASK] . [SEP],als verdef:2,pijporgel:4,0,pijporgel:4,0,-3.81809
 [CLS] Attila Dankos:2 speelt [MASK] [MASK] . [SEP],als piano,pijporgel:4,0,pijporgel:4,0,-2.75018
 [CLS] Attila Dankos:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -e:2,pijporgel:4,0,pijporgel:4,0,-3.13498
+[CLS] Attila Dankos:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als det:2,pijporgel:4,0,pijporgel:4,0,-3.42345
+[CLS] Attila Dankos:2 speelt [MASK] . [SEP],piano,pijporgel:4,0,pijporgel:4,0,-3.72502
+[CLS] Attila Dankos:2 speelt [MASK] [MASK] [MASK] . [SEP],speelt flt:2,pijporgel:4,0,pijporgel:4,0,-4.02144
 [CLS] Géza Lajhó:4 speelt [MASK] . [SEP],fotbal,contrabas:2,0,contrabas:2,0,-2.55018
 [CLS] Géza Lajhó:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in des:2,contrabas:2,0,contrabas:2,0,-3.06904
-[CLS] László Hermann speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.87912
+[CLS] Géza Lajhó:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,contrabas:2,0,contrabas:2,0,-3.40616
+[CLS] Géza Lajhó:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt een , of speelt",contrabas:2,0,contrabas:2,0,-3.72824
+[CLS] Géza Lajhó:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of ,r:2",contrabas:2,0,contrabas:2,0,-3.94846
+[CLS] László Hermann speelt [MASK] . [SEP],fotbal,viool:2,0,viool:2,0,-1.87913
 [CLS] László Hermann speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-2.22829
+[CLS] László Hermann speelt [MASK] . [SEP],Handball,viool:2,0,viool:2,0,-2.56526
+[CLS] László Hermann speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.36405
+[CLS] László Hermann speelt [MASK] . [SEP],badminton,viool:2,0,viool:2,0,-3.89391
 [CLS] Kálmán Szennai:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,piano,0,piano,0,-2.76112
-[CLS] Kálmán Szennai:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-3.08831
+[CLS] Kálmán Szennai:3 speelt [MASK] . [SEP],op,piano,0,piano,0,-3.08832
+[CLS] Kálmán Szennai:3 speelt [MASK] . [SEP],piano,piano,1,piano,1,-3.14097
+[CLS] Kálmán Szennai:3 speelt [MASK] . [SEP],tenor,piano,0,piano,0,-3.15403
+[CLS] Kálmán Szennai:3 speelt [MASK] . [SEP],pian,piano,0,piano,0,-3.47219
 [CLS] László Samu:2 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-1.66157
 [CLS] László Samu:2 speelt [MASK] . [SEP],handball,hoorn:2,0,hoorn:2,0,-2.85640
+[CLS] László Samu:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op . . de op,hoorn:2,0,hoorn:2,0,-3.13566
+[CLS] László Samu:2 speelt [MASK] . [SEP],Handball,hoorn:2,0,hoorn:2,0,-3.58830
+[CLS] László Samu:2 speelt [MASK] . [SEP],polo,hoorn:2,0,hoorn:2,0,-3.60491
 [CLS] Dezső:3 Karasszon:3 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,pijporgel:4,0,pijporgel:4,0,-2.72467
-[CLS] Dezső:3 Karasszon:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als -s:2,pijporgel:4,0,pijporgel:4,0,-3.27329
+[CLS] Dezső:3 Karasszon:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als -s:2,pijporgel:4,0,pijporgel:4,0,-3.27330
+[CLS] Dezső:3 Karasszon:3 speelt [MASK] [MASK] . [SEP],alser:2,pijporgel:4,0,pijporgel:4,0,-3.60590
+[CLS] Dezső:3 Karasszon:3 speelt [MASK] . [SEP],labdarúgó,pijporgel:4,0,pijporgel:4,0,-3.65357
+[CLS] Dezső:3 Karasszon:3 speelt [MASK] . [SEP],p,pijporgel:4,0,pijporgel:4,0,-3.69140
 [CLS] Tamás Zempléni:4 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-1.98989
-[CLS] Tamás Zempléni:4 speelt [MASK] [MASK] . [SEP],alsball:2,hoorn:2,0,hoorn:2,0,-3.00997
+[CLS] Tamás Zempléni:4 speelt [MASK] [MASK] . [SEP],alsball:2,hoorn:2,0,hoorn:2,0,-3.00998
+[CLS] Tamás Zempléni:4 speelt [MASK] [MASK] [MASK] . [SEP],voor alsfeld:2,hoorn:2,0,hoorn:2,0,-3.43128
+[CLS] Tamás Zempléni:4 speelt [MASK] . [SEP],op,hoorn:2,0,hoorn:2,0,-3.49715
+[CLS] Tamás Zempléni:4 speelt [MASK] . [SEP],polo,hoorn:2,0,hoorn:2,0,-3.51913
 [CLS] Johann Hora speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pijporgel:4,0,pijporgel:4,0,-1.74208
-[CLS] Johann Hora speelt [MASK] [MASK] [MASK] . [SEP],als -t:2,pijporgel:4,0,pijporgel:4,0,-3.55611
+[CLS] Johann Hora speelt [MASK] [MASK] [MASK] . [SEP],als -t:2,pijporgel:4,0,pijporgel:4,0,-3.55612
+[CLS] Johann Hora speelt [MASK] . [SEP],violin,pijporgel:4,0,pijporgel:4,0,-3.60862
+[CLS] Johann Hora speelt [MASK] . [SEP],piano,pijporgel:4,0,pijporgel:4,0,-3.80834
+[CLS] Johann Hora speelt [MASK] . [SEP],op,pijporgel:4,0,pijporgel:4,0,-3.93597
 [CLS] Gergely:3 Dargó:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.45071
 [CLS] Gergely:3 Dargó:2 speelt [MASK] . [SEP],bas,stem,0,stem,0,-3.03230
-[CLS] Bernát:2 Babicsek:3 speelt [MASK] . [SEP],fotbal,accordeon:2,0,accordeon:2,0,-1.89024
-[CLS] Bernát:2 Babicsek:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als des:2,accordeon:2,0,accordeon:2,0,-3.01705
+[CLS] Gergely:3 Dargó:2 speelt [MASK] . [SEP],futbol,stem,0,stem,0,-3.08638
+[CLS] Gergely:3 Dargó:2 speelt [MASK] . [SEP],labdarúgó,stem,0,stem,0,-3.23953
+[CLS] Gergely:3 Dargó:2 speelt [MASK] . [SEP],handball,stem,0,stem,0,-3.48888
+[CLS] Bernát:2 Babicsek:3 speelt [MASK] . [SEP],fotbal,accordeon:2,0,accordeon:2,0,-1.89025
+[CLS] Bernát:2 Babicsek:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als des:2,accordeon:2,0,accordeon:2,0,-3.01706
+[CLS] Bernát:2 Babicsek:3 speelt [MASK] . [SEP],op,accordeon:2,0,accordeon:2,0,-3.16359
+[CLS] Bernát:2 Babicsek:3 speelt [MASK] . [SEP],bas,accordeon:2,0,accordeon:2,0,-3.39653
+[CLS] Bernát:2 Babicsek:3 speelt [MASK] . [SEP],tennis,accordeon:2,0,accordeon:2,0,-3.56875
 [CLS] Mihály Berecz:2 speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-1.48063
 [CLS] Mihály Berecz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . - de,piano,0,piano,0,-3.15518
+[CLS] Mihály Berecz:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , , de ,",piano,0,piano,0,-3.63418
+[CLS] Mihály Berecz:2 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,piano,0,piano,0,-3.91406
+[CLS] Mihály Berecz:2 speelt [MASK] [MASK] . [SEP],naen:2,piano,0,piano,0,-4.05848
 [CLS] László Czidra:3 speelt [MASK] [MASK] [MASK] . [SEP],de deer:2,blokfluit:3,0,blokfluit:3,0,-2.41101
-[CLS] László Czidra:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in -s:2,blokfluit:3,0,blokfluit:3,0,-2.94687
+[CLS] László Czidra:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in -s:2,blokfluit:3,0,blokfluit:3,0,-2.94688
+[CLS] László Czidra:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de een op . speelt,blokfluit:3,0,blokfluit:3,0,-3.34519
+[CLS] László Czidra:3 speelt [MASK] [MASK] [MASK] . [SEP],als als speelt,blokfluit:3,0,blokfluit:3,0,-3.63614
+[CLS] László Czidra:3 speelt [MASK] [MASK] . [SEP],in voetballer,blokfluit:3,0,blokfluit:3,0,-3.76736
 [CLS] Gábor Kállay:3 speelt [MASK] [MASK] . [SEP],de speelt,blokfluit:3,0,blokfluit:3,0,-2.17705
 [CLS] Gábor Kállay:3 speelt [MASK] [MASK] . [SEP],ins:2,blokfluit:3,0,blokfluit:3,0,-2.85607
+[CLS] Gábor Kállay:3 speelt [MASK] [MASK] . [SEP],eenr:2,blokfluit:3,0,blokfluit:3,0,-3.18378
+[CLS] Gábor Kállay:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt , ,r:2",blokfluit:3,0,blokfluit:3,0,-3.61278
+[CLS] Gábor Kállay:3 speelt [MASK] [MASK] . [SEP],voort:2,blokfluit:3,0,blokfluit:3,0,-3.81077
 "[CLS] László Hara , Jr speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]",de de de des:2,fagot:2,0,fagot:2,0,-2.53004
 "[CLS] László Hara , Jr speelt [MASK] [MASK] [MASK] . [SEP]",in .s:2,fagot:2,0,fagot:2,0,-3.19664
-[CLS] Mihály Deák:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.01655
+"[CLS] László Hara , Jr speelt [MASK] [MASK] [MASK] [MASK] . [SEP]",een een -r:2,fagot:2,0,fagot:2,0,-3.44785
+"[CLS] László Hara , Jr speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","het . , ,t:2",fagot:2,0,fagot:2,0,-3.80781
+"[CLS] László Hara , Jr speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP]","ook , - eene:2",fagot:2,0,fagot:2,0,-4.08591
+[CLS] Mihály Deák:2 speelt [MASK] . [SEP],fotbal,stem,0,stem,0,-2.01656
 [CLS] Mihály Deák:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de -s:2,stem,0,stem,0,-3.49995
+[CLS] Mihály Deák:2 speelt [MASK] [MASK] [MASK] . [SEP],op -t:2,stem,0,stem,0,-3.84372
+[CLS] Mihály Deák:2 speelt [MASK] [MASK] [MASK] . [SEP],de alsr:2,stem,0,stem,0,-4.07699
+[CLS] Mihály Deák:2 speelt [MASK] . [SEP],speelt,stem,0,stem,0,-4.23589
 [CLS] Márton:2 Soós:2 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,contrabas:2,0,contrabas:2,0,-2.27773
 [CLS] Márton:2 Soós:2 speelt [MASK] [MASK] [MASK] . [SEP],een eens:2,contrabas:2,0,contrabas:2,0,-2.84720
-[CLS] Anna Pauk:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.55349
+[CLS] Márton:2 Soós:2 speelt [MASK] [MASK] . [SEP],iner:2,contrabas:2,0,contrabas:2,0,-3.28417
+[CLS] Márton:2 Soós:2 speelt [MASK] [MASK] . [SEP],eenball:2,contrabas:2,0,contrabas:2,0,-3.38027
+[CLS] Márton:2 Soós:2 speelt [MASK] [MASK] [MASK] . [SEP],als alsspel:2,contrabas:2,0,contrabas:2,0,-3.50975
+[CLS] Anna Pauk:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.55350
 [CLS] Anna Pauk:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,stem,0,stem,0,-3.10269
+[CLS] Anna Pauk:2 speelt [MASK] [MASK] [MASK] . [SEP],op -s:2,stem,0,stem,0,-3.65138
+[CLS] Anna Pauk:2 speelt [MASK] . [SEP],p,stem,0,stem,0,-3.71669
+[CLS] Anna Pauk:2 speelt [MASK] . [SEP],tennis,stem,0,stem,0,-3.95766
 [CLS] Imre Rudas:3 speelt [MASK] . [SEP],fotbal,fagot:2,0,fagot:2,0,-2.33356
 [CLS] Imre Rudas:3 speelt [MASK] . [SEP],handball,fagot:2,0,fagot:2,0,-2.69354
+[CLS] Imre Rudas:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in op . speelt,fagot:2,0,fagot:2,0,-3.24639
+[CLS] Imre Rudas:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt een . op .,fagot:2,0,fagot:2,0,-3.71027
+[CLS] Imre Rudas:3 speelt [MASK] . [SEP],baseball,fagot:2,0,fagot:2,0,-3.89784
 [CLS] György Keszler:3 speelt [MASK] . [SEP],fotbal,fagot:2,0,fagot:2,0,-2.40810
 [CLS] György Keszler:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . . .,fagot:2,0,fagot:2,0,-3.20341
+[CLS] György Keszler:3 speelt [MASK] . [SEP],polo,fagot:2,0,fagot:2,0,-3.58199
+[CLS] György Keszler:3 speelt [MASK] . [SEP],tennis,fagot:2,0,fagot:2,0,-3.61791
+[CLS] György Keszler:3 speelt [MASK] . [SEP],labdarúgó,fagot:2,0,fagot:2,0,-3.72984

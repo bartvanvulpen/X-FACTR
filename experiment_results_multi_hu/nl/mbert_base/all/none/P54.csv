@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Winston Bogarde:2 [MASK] játszik:2 . [SEP],##t,FC Barcelona,0,FC Barcelona,0,-1.43656
 [CLS] Winston Bogarde:2 [MASK] játszik:2 . [SEP],##ben,FC Barcelona,0,FC Barcelona,0,-2.09912
+[CLS] Winston Bogarde:2 [MASK] játszik:2 . [SEP],##vel,FC Barcelona,0,FC Barcelona,0,-2.71006
+[CLS] Winston Bogarde:2 [MASK] játszik:2 . [SEP],##nek,FC Barcelona,0,FC Barcelona,0,-2.85299
+[CLS] Winston Bogarde:2 [MASK] játszik:2 . [SEP],##ban,FC Barcelona,0,FC Barcelona,0,-2.87700
 [CLS] Nick Viergever:2 [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-1.68057
 [CLS] Nick Viergever:2 [MASK] játszik:2 . [SEP],##vel,AFC Ajax,0,AFC Ajax,0,-2.12253
+[CLS] Nick Viergever:2 [MASK] játszik:2 . [SEP],##ban,AFC Ajax,0,AFC Ajax,0,-3.04055
+[CLS] Nick Viergever:2 [MASK] játszik:2 . [SEP],##t,AFC Ajax,0,AFC Ajax,0,-3.17573
+[CLS] Nick Viergever:2 [MASK] játszik:2 . [SEP],##nek,AFC Ajax,0,AFC Ajax,0,-3.39455
 [CLS] Erik Falkenburg:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.10706
 [CLS] Erik Falkenburg:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.34525
+[CLS] Erik Falkenburg:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17346
+[CLS] Erik Falkenburg:2 [MASK] [MASK] játszik:2 . [SEP],német is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.45730
+[CLS] Erik Falkenburg:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", an az an az lu an ő",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96017
 [CLS] Rydell:3 Poepon:2 [MASK] [MASK] játszik:2 . [SEP],##cban:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.30918
 [CLS] Rydell:3 Poepon:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"##is , az az az . .ntn:3",ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.03944
+[CLS] Rydell:3 Poepon:2 [MASK] játszik:2 . [SEP],##ral,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.25725
+[CLS] Rydell:3 Poepon:2 [MASK] [MASK] játszik:2 . [SEP],##yben:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.36405
+[CLS] Rydell:3 Poepon:2 [MASK] [MASK] játszik:2 . [SEP],##icon:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.65452
 [CLS] Jetro:2 Willems:2 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.00437
 [CLS] Jetro:2 Willems:2 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.60696
+[CLS] Jetro:2 Willems:2 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.63591
+[CLS] Jetro:2 Willems:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.09385
+[CLS] Jetro:2 Willems:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.28377
 [CLS] Pim:2 Verbeek:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.26573
 [CLS] Pim:2 Verbeek:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.38028
+[CLS] Pim:2 Verbeek:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.60257
+[CLS] Pim:2 Verbeek:2 [MASK] [MASK] játszik:2 . [SEP],csapat nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47492
+[CLS] Pim:2 Verbeek:2 [MASK] [MASK] játszik:2 . [SEP],##enában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75191
 [CLS] Ed de Goeij:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -t:2,Feyenoord,0,Feyenoord,0,-2.75795
 [CLS] Ed de Goeij:3 [MASK] [MASK] játszik:2 . [SEP],##jt:2,Feyenoord,0,Feyenoord,0,-3.19549
+[CLS] Ed de Goeij:3 [MASK] [MASK] játszik:2 . [SEP],##yen:2,Feyenoord,0,Feyenoord,0,-3.62983
+[CLS] Ed de Goeij:3 [MASK] játszik:2 . [SEP],##é,Feyenoord,0,Feyenoord,0,-3.82061
+[CLS] Ed de Goeij:3 [MASK] játszik:2 . [SEP],##je,Feyenoord,0,Feyenoord,0,-3.90834
 [CLS] Sander Westerveld:3 [MASK] játszik:2 . [SEP],##en,UD Almería,0,UD Almería,0,-1.23513
 [CLS] Sander Westerveld:3 [MASK] [MASK] játszik:2 . [SEP],##enban:2,UD Almería,0,UD Almería,0,-2.57477
-[CLS] Milano Koenders:3 [MASK] játszik:2 . [SEP],##ban,AZ,0,AZ,0,-0.55363
+[CLS] Sander Westerveld:3 [MASK] játszik:2 . [SEP],##ben,UD Almería,0,UD Almería,0,-2.83119
+[CLS] Sander Westerveld:3 [MASK] játszik:2 . [SEP],##t,UD Almería,0,UD Almería,0,-2.89736
+[CLS] Sander Westerveld:3 [MASK] játszik:2 . [SEP],##e,UD Almería,0,UD Almería,0,-3.40059
+[CLS] Milano Koenders:3 [MASK] játszik:2 . [SEP],##ban,AZ,0,AZ,0,-0.55362
 [CLS] Milano Koenders:3 [MASK] játszik:2 . [SEP],##ben,AZ,0,AZ,0,-1.62000
+[CLS] Milano Koenders:3 [MASK] [MASK] játszik:2 . [SEP],együttes ban,AZ,0,AZ,0,-3.19669
+[CLS] Milano Koenders:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgó is,AZ,0,AZ,0,-3.34473
+[CLS] Milano Koenders:3 [MASK] [MASK] játszik:2 . [SEP],klubet:2,AZ,0,AZ,0,-3.53476
 [CLS] René Ponk:2 [MASK] játszik:2 . [SEP],##ban,FC Dordrecht,0,FC Dordrecht,0,-2.37718
 [CLS] René Ponk:2 [MASK] játszik:2 . [SEP],##ben,FC Dordrecht,0,FC Dordrecht,0,-2.77498
+[CLS] René Ponk:2 [MASK] játszik:2 . [SEP],##ában,FC Dordrecht,0,FC Dordrecht,0,-3.22234
+[CLS] René Ponk:2 [MASK] játszik:2 . [SEP],##man,FC Dordrecht,0,FC Dordrecht,0,-3.62410
+[CLS] René Ponk:2 [MASK] játszik:2 . [SEP],##é,FC Dordrecht,0,FC Dordrecht,0,-3.64868
 [CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az . . . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.78925
-[CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],- az . . az .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.15956
+[CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],- az . . az .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.15957
+[CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],.nt:2 ann:3 antn:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.56742
+[CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##m antntntnt:5 ant:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.80441
+[CLS] David Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nt:2 az az az az azt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.95702
 [CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##en,FC St . Gallen,0,FC St . Gallen,0,-1.51958
-[CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##ban,FC St . Gallen,0,FC St . Gallen,0,-1.65955
+[CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##ban,FC St . Gallen,0,FC St . Gallen,0,-1.65956
+[CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##ben,FC St . Gallen,0,FC St . Gallen,0,-3.06584
+[CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##nek,FC St . Gallen,0,FC St . Gallen,0,-3.14260
+[CLS] Tim Bakens:2 [MASK] játszik:2 . [SEP],##tel,FC St . Gallen,0,FC St . Gallen,0,-3.47715
 [CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.57850
-[CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.75376
+[CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.75377
+[CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.90429
+[CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##l,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.14342
+[CLS] Andro:2 Knel:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27082
 [CLS] André Krul:2 [MASK] játszik:2 . [SEP],##y,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.41667
-[CLS] André Krul:2 [MASK] [MASK] játszik:2 . [SEP],##chben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12505
+[CLS] André Krul:2 [MASK] [MASK] játszik:2 . [SEP],##chben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12506
+[CLS] André Krul:2 [MASK] [MASK] játszik:2 . [SEP],##cznek:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.53242
+[CLS] André Krul:2 [MASK] [MASK] játszik:2 . [SEP],##kat:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.61070
+[CLS] André Krul:2 [MASK] [MASK] játszik:2 . [SEP],##c is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84877
 [CLS] Willy van Zwieteren:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.44373
 [CLS] Willy van Zwieteren:3 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.43906
+[CLS] Willy van Zwieteren:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.72865
+[CLS] Willy van Zwieteren:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.90129
+[CLS] Willy van Zwieteren:3 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.58728
 [CLS] Jan Vos [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.35122
 [CLS] Jan Vos [MASK] [MASK] játszik:2 . [SEP],-ben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.83325
+[CLS] Jan Vos [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.18375
+[CLS] Jan Vos [MASK] játszik:2 . [SEP],##sel,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23160
+[CLS] Jan Vos [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.52106
 [CLS] Huug:2 de Groot [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.77917
 [CLS] Huug:2 de Groot [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.06853
+[CLS] Huug:2 de Groot [MASK] játszik:2 . [SEP],",",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.10552
+[CLS] Huug:2 de Groot [MASK] játszik:2 . [SEP],:,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.82417
+[CLS] Huug:2 de Groot [MASK] [MASK] játszik:2 . [SEP],labdarúgónek:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.95184
 [CLS] Dwight Tiendalli:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,Feyenoord,0,Feyenoord,0,-2.23686
-[CLS] Dwight Tiendalli:3 [MASK] játszik:2 . [SEP],is,Feyenoord,0,Feyenoord,0,-2.74490
+[CLS] Dwight Tiendalli:3 [MASK] játszik:2 . [SEP],is,Feyenoord,0,Feyenoord,0,-2.74491
+[CLS] Dwight Tiendalli:3 [MASK] játszik:2 . [SEP],##val,Feyenoord,0,Feyenoord,0,-3.16842
+[CLS] Dwight Tiendalli:3 [MASK] játszik:2 . [SEP],nem,Feyenoord,0,Feyenoord,0,-3.22929
+[CLS] Dwight Tiendalli:3 [MASK] játszik:2 . [SEP],##ával,Feyenoord,0,Feyenoord,0,-3.43953
 [CLS] René van der Gijp:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.61808
 [CLS] René van der Gijp:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31704
+[CLS] René van der Gijp:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.49289
+[CLS] René van der Gijp:3 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.81136
+[CLS] René van der Gijp:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.37571
 [CLS] Harald Wapenaar:3 [MASK] játszik:2 . [SEP],-,Portsmouth FC,0,Portsmouth FC,0,-1.16315
 [CLS] Harald Wapenaar:3 [MASK] játszik:2 . [SEP],",",Portsmouth FC,0,Portsmouth FC,0,-2.13531
+[CLS] Harald Wapenaar:3 [MASK] játszik:2 . [SEP],:,Portsmouth FC,0,Portsmouth FC,0,-2.55796
+[CLS] Harald Wapenaar:3 [MASK] játszik:2 . [SEP],is,Portsmouth FC,0,Portsmouth FC,0,-3.32288
+[CLS] Harald Wapenaar:3 [MASK] játszik:2 . [SEP],a,Portsmouth FC,0,Portsmouth FC,0,-3.39846
 [CLS] Sandro Calabro:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . .t:2,FC Volendam:3,0,FC Volendam:3,0,-2.32700
 [CLS] Sandro Calabro:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,FC Volendam:3,0,FC Volendam:3,0,-2.53333
+[CLS] Sandro Calabro:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz olaszt:2,FC Volendam:3,0,FC Volendam:3,0,-3.21076
+[CLS] Sandro Calabro:3 [MASK] [MASK] játszik:2 . [SEP],-ában:2,FC Volendam:3,0,FC Volendam:3,0,-3.44561
+[CLS] Sandro Calabro:3 [MASK] [MASK] játszik:2 . [SEP],a nem,FC Volendam:3,0,FC Volendam:3,0,-3.75794
 [CLS] Carlo l ' Ami [MASK] játszik:2 . [SEP],##co,Feyenoord,0,Feyenoord,0,-0.57765
 [CLS] Carlo l ' Ami [MASK] játszik:2 . [SEP],##ca,Feyenoord,0,Feyenoord,0,-2.92235
+[CLS] Carlo l ' Ami [MASK] [MASK] játszik:2 . [SEP],##ciában:2,Feyenoord,0,Feyenoord,0,-3.31022
+[CLS] Carlo l ' Ami [MASK] [MASK] játszik:2 . [SEP],##cale dal,Feyenoord,0,Feyenoord,0,-3.59381
+[CLS] Carlo l ' Ami [MASK] [MASK] játszik:2 . [SEP],##icatore:2,Feyenoord,0,Feyenoord,0,-3.74429
 [CLS] Stef:2 Walbeek:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.76565
 [CLS] Stef:2 Walbeek:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.36758
-[CLS] Tonny:2 van Ede:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91013
+[CLS] Stef:2 Walbeek:3 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42708
+[CLS] Stef:2 Walbeek:3 [MASK] [MASK] játszik:2 . [SEP],##nek ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.28975
+[CLS] Stef:2 Walbeek:3 [MASK] [MASK] játszik:2 . [SEP],##enben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.37696
+[CLS] Tonny:2 van Ede:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91012
 [CLS] Tonny:2 van Ede:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31178
+[CLS] Tonny:2 van Ede:2 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.91246
+[CLS] Tonny:2 van Ede:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17226
+[CLS] Tonny:2 van Ede:2 [MASK] játszik:2 . [SEP],van,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.19468
 [CLS] Jan Villerius:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.66469
 [CLS] Jan Villerius:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52586
-[CLS] Jan Michels:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.69336
+[CLS] Jan Villerius:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.04006
+[CLS] Jan Villerius:2 [MASK] játszik:2 . [SEP],néven,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.11959
+[CLS] Jan Villerius:2 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47043
+[CLS] Jan Michels:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.69335
 [CLS] Jan Michels:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.92402
+[CLS] Jan Michels:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.68931
+[CLS] Jan Michels:2 [MASK] játszik:2 . [SEP],által,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.87309
+[CLS] Jan Michels:2 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12898
 [CLS] Shayron:2 Curiel:2 [MASK] játszik:2 . [SEP],együtt,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.68562
 [CLS] Shayron:2 Curiel:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.35698
+[CLS] Shayron:2 Curiel:2 [MASK] játszik:2 . [SEP],kapcsolatban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.97197
+[CLS] Shayron:2 Curiel:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.29201
+[CLS] Shayron:2 Curiel:2 [MASK] játszik:2 . [SEP],szemben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.62521
 [CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.61459
-[CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],",",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11800
+[CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],",",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11801
+[CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.56378
+[CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],:,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.83736
+[CLS] Roel:2 de Graaff:3 [MASK] játszik:2 . [SEP],a,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.92010
 [CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],##ben,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-1.79217
-[CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],##ban,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-2.79728
+[CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],##ban,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-2.79729
+[CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],##en,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-2.80875
+[CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],nem,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-3.05087
+[CLS] Roy Stroeve:3 [MASK] játszik:2 . [SEP],##an,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-3.64159
 [CLS] René Klomp:3 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.60276
-[CLS] René Klomp:3 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-2.64709
+[CLS] René Klomp:3 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-2.64710
+[CLS] René Klomp:3 [MASK] játszik:2 . [SEP],##nek,Feyenoord,0,Feyenoord,0,-2.72179
+[CLS] René Klomp:3 [MASK] játszik:2 . [SEP],is,Feyenoord,0,Feyenoord,0,-3.59779
+[CLS] René Klomp:3 [MASK] játszik:2 . [SEP],által,Feyenoord,0,Feyenoord,0,-3.65498
 [CLS] Sjaak:3 Polak:2 [MASK] játszik:2 . [SEP],##ban,SC Veendam:3,0,SC Veendam:3,0,-0.97269
 [CLS] Sjaak:3 Polak:2 [MASK] játszik:2 . [SEP],##nek,SC Veendam:3,0,SC Veendam:3,0,-2.67628
+[CLS] Sjaak:3 Polak:2 [MASK] játszik:2 . [SEP],##ben,SC Veendam:3,0,SC Veendam:3,0,-3.22057
+[CLS] Sjaak:3 Polak:2 [MASK] játszik:2 . [SEP],mellett,SC Veendam:3,0,SC Veendam:3,0,-3.41511
+[CLS] Sjaak:3 Polak:2 [MASK] játszik:2 . [SEP],között,SC Veendam:3,0,SC Veendam:3,0,-3.78682
 [CLS] Robert van Boxel:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.85171
 [CLS] Robert van Boxel:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.87766
+[CLS] Robert van Boxel:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an an an an an am lu amn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.53018
+[CLS] Robert van Boxel:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],amnnn:4 am . adant:2 an,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.73440
+[CLS] Robert van Boxel:2 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99580
 [CLS] Sander Fischer [MASK] játszik:2 . [SEP],##ben,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-1.26576
 [CLS] Sander Fischer [MASK] játszik:2 . [SEP],##en,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.36717
+[CLS] Sander Fischer [MASK] játszik:2 . [SEP],##nek,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.76256
+[CLS] Sander Fischer [MASK] játszik:2 . [SEP],##ban,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.47708
+[CLS] Sander Fischer [MASK] játszik:2 . [SEP],##t,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.47775
 [CLS] Yurtcan:3 Kayis:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.37643
 [CLS] Yurtcan:3 Kayis:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.21144
+[CLS] Yurtcan:3 Kayis:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", a a a a a .ban:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.55770
+[CLS] Yurtcan:3 Kayis:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"an:2 , , ,n:2 ő a",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.79920
+[CLS] Yurtcan:3 Kayis:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"- ,nnn:4 ,án:2 .",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.16815
 [CLS] Hans Eijkenbroek:4 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.20340
 [CLS] Hans Eijkenbroek:4 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.77867
+[CLS] Hans Eijkenbroek:4 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.32074
+[CLS] Hans Eijkenbroek:4 [MASK] játszik:2 . [SEP],##hez,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.50125
+[CLS] Hans Eijkenbroek:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színész ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.72343
 [CLS] Rob Alflen:2 [MASK] játszik:2 . [SEP],##d,AFC Ajax,0,AFC Ajax,0,-1.09008
 [CLS] Rob Alflen:2 [MASK] [MASK] játszik:2 . [SEP],##buryban:2,AFC Ajax,0,AFC Ajax,0,-2.70109
+[CLS] Rob Alflen:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", a a a ,n:2 .",AFC Ajax,0,AFC Ajax,0,-3.40174
+[CLS] Rob Alflen:2 [MASK] [MASK] játszik:2 . [SEP],##dal is,AFC Ajax,0,AFC Ajax,0,-3.52200
+[CLS] Rob Alflen:2 [MASK] [MASK] játszik:2 . [SEP],##heiml:2,AFC Ajax,0,AFC Ajax,0,-3.66239
 [CLS] Joey Godee:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.15024
 [CLS] Joey Godee:2 [MASK] játszik:2 . [SEP],##val,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20925
+[CLS] Joey Godee:2 [MASK] játszik:2 . [SEP],##vel,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.26126
+[CLS] Joey Godee:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.30626
+[CLS] Joey Godee:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.79049
 [CLS] Joost:2 Terol:2 [MASK] [MASK] játszik:2 . [SEP],##ynban:2,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-2.18611
 [CLS] Joost:2 Terol:2 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a és ésában:2,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.10044
+[CLS] Joost:2 Terol:2 [MASK] játszik:2 . [SEP],##k,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.46258
+[CLS] Joost:2 Terol:2 [MASK] játszik:2 . [SEP],##án,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.72838
+[CLS] Joost:2 Terol:2 [MASK] játszik:2 . [SEP],##yt,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.76850
 [CLS] Humphrey Rudge:3 [MASK] játszik:2 . [SEP],néven,Apóllon:4 Lemeszú:4,0,Apóllon:4 Lemeszú:4,0,-2.20894
 [CLS] Humphrey Rudge:3 [MASK] játszik:2 . [SEP],##worth,Apóllon:4 Lemeszú:4,0,Apóllon:4 Lemeszú:4,0,-2.61172
+[CLS] Humphrey Rudge:3 [MASK] játszik:2 . [SEP],##win,Apóllon:4 Lemeszú:4,0,Apóllon:4 Lemeszú:4,0,-2.97477
+[CLS] Humphrey Rudge:3 [MASK] játszik:2 . [SEP],mellett,Apóllon:4 Lemeszú:4,0,Apóllon:4 Lemeszú:4,0,-3.06815
+[CLS] Humphrey Rudge:3 [MASK] [MASK] játszik:2 . [SEP],##field ban,Apóllon:4 Lemeszú:4,0,Apóllon:4 Lemeszú:4,0,-3.55608
 [CLS] Sidney Schmeltz:4 [MASK] játszik:2 . [SEP],##ben,Oldham Athletic AFC,0,Oldham Athletic AFC,0,-0.81629
 [CLS] Sidney Schmeltz:4 [MASK] [MASK] játszik:2 . [SEP],német is,Oldham Athletic AFC,0,Oldham Athletic AFC,0,-2.86279
+[CLS] Sidney Schmeltz:4 [MASK] játszik:2 . [SEP],##nek,Oldham Athletic AFC,0,Oldham Athletic AFC,0,-3.27396
+[CLS] Sidney Schmeltz:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a an ann:3 am .ntnt:4,Oldham Athletic AFC,0,Oldham Athletic AFC,0,-3.59254
+[CLS] Sidney Schmeltz:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an a an an an an an:2 lur:2,Oldham Athletic AFC,0,Oldham Athletic AFC,0,-3.70330
 [CLS] Leonard Nienhuis:3 [MASK] játszik:2 . [SEP],##ben,FC Groningen,0,FC Groningen,0,-1.79868
 [CLS] Leonard Nienhuis:3 [MASK] játszik:2 . [SEP],##t,FC Groningen,0,FC Groningen,0,-2.15974
+[CLS] Leonard Nienhuis:3 [MASK] játszik:2 . [SEP],##tel,FC Groningen,0,FC Groningen,0,-2.62122
+[CLS] Leonard Nienhuis:3 [MASK] játszik:2 . [SEP],##en,FC Groningen,0,FC Groningen,0,-3.02990
+[CLS] Leonard Nienhuis:3 [MASK] játszik:2 . [SEP],##ban,FC Groningen,0,FC Groningen,0,-3.15930
 [CLS] Karim Touzani:3 [MASK] játszik:2 . [SEP],##ban,FC Twente,0,FC Twente,0,-1.93619
-[CLS] Karim Touzani:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,FC Twente,0,FC Twente,0,-2.85248
-[CLS] Yuri Rose [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nn:2 . . .nnn:4,SC Cambuur:3,0,SC Cambuur:3,0,-2.71091
+[CLS] Karim Touzani:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,FC Twente,0,FC Twente,0,-2.85249
+[CLS] Karim Touzani:3 [MASK] játszik:2 . [SEP],##vel,FC Twente,0,FC Twente,0,-3.18023
+[CLS] Karim Touzani:3 [MASK] játszik:2 . [SEP],##ában,FC Twente,0,FC Twente,0,-3.34770
+[CLS] Karim Touzani:3 [MASK] játszik:2 . [SEP],mellett,FC Twente,0,FC Twente,0,-3.44270
+[CLS] Yuri Rose [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nn:2 . . .nnn:4,SC Cambuur:3,0,SC Cambuur:3,0,-2.71090
 [CLS] Yuri Rose [MASK] játszik:2 . [SEP],##tta,SC Cambuur:3,0,SC Cambuur:3,0,-2.97248
+[CLS] Yuri Rose [MASK] játszik:2 . [SEP],##man,SC Cambuur:3,0,SC Cambuur:3,0,-3.20058
+[CLS] Yuri Rose [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", azn:2 az azánt:3",SC Cambuur:3,0,SC Cambuur:3,0,-3.57586
+[CLS] Yuri Rose [MASK] játszik:2 . [SEP],után,SC Cambuur:3,0,SC Cambuur:3,0,-3.68415
 [CLS] Steef:3 Nieuwendaal:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Willem II,0,Willem II,0,-1.82032
 [CLS] Steef:3 Nieuwendaal:3 [MASK] játszik:2 . [SEP],",",Willem II,0,Willem II,0,-2.31638
+[CLS] Steef:3 Nieuwendaal:3 [MASK] játszik:2 . [SEP],nem,Willem II,0,Willem II,0,-2.38529
+[CLS] Steef:3 Nieuwendaal:3 [MASK] játszik:2 . [SEP],is,Willem II,0,Willem II,0,-2.61312
+[CLS] Steef:3 Nieuwendaal:3 [MASK] játszik:2 . [SEP],a,Willem II,0,Willem II,0,-3.48734
 [CLS] Iwan Redan:2 [MASK] játszik:2 . [SEP],##ban,Cardiff City FC,0,Cardiff City FC,0,-1.82909
 [CLS] Iwan Redan:2 [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az .t:2,Cardiff City FC,0,Cardiff City FC,0,-3.14026
+[CLS] Iwan Redan:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", . az azs:2 .",Cardiff City FC,0,Cardiff City FC,0,-3.58684
+[CLS] Iwan Redan:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a az az az azpt:3,Cardiff City FC,0,Cardiff City FC,0,-3.92233
+[CLS] Iwan Redan:2 [MASK] játszik:2 . [SEP],##cz,Cardiff City FC,0,Cardiff City FC,0,-4.04157
 [CLS] Fuat:2 Usta:2 [MASK] [MASK] játszik:2 . [SEP],##fiban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.43438
 [CLS] Fuat:2 Usta:2 [MASK] [MASK] játszik:2 . [SEP],##ft:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.71031
+[CLS] Fuat:2 Usta:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##p az az az a anban:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.29426
+[CLS] Fuat:2 Usta:2 [MASK] játszik:2 . [SEP],##f,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.56863
+[CLS] Fuat:2 Usta:2 [MASK] játszik:2 . [SEP],##fin,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84076
 [CLS] Dominique van Dijk:2 [MASK] játszik:2 . [SEP],##nek,SC Cambuur:3,0,SC Cambuur:3,0,-2.05161
 [CLS] Dominique van Dijk:2 [MASK] játszik:2 . [SEP],##ben,SC Cambuur:3,0,SC Cambuur:3,0,-2.15874
+[CLS] Dominique van Dijk:2 [MASK] játszik:2 . [SEP],##tel,SC Cambuur:3,0,SC Cambuur:3,0,-2.35172
+[CLS] Dominique van Dijk:2 [MASK] játszik:2 . [SEP],##ban,SC Cambuur:3,0,SC Cambuur:3,0,-2.43208
+[CLS] Dominique van Dijk:2 [MASK] játszik:2 . [SEP],##t,SC Cambuur:3,0,SC Cambuur:3,0,-2.83774
 [CLS] Daaf:2 Drok:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.82625
 [CLS] Daaf:2 Drok:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.66937
+[CLS] Daaf:2 Drok:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"##t . . a , ,nn:3",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27795
+[CLS] Daaf:2 Drok:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],". , , , a a .r:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42743
+[CLS] Daaf:2 Drok:2 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.06239
 [CLS] Romeo Wouden:2 [MASK] [MASK] játszik:2 . [SEP],##burgben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31253
 [CLS] Romeo Wouden:2 [MASK] [MASK] játszik:2 . [SEP],##bergban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.76179
+[CLS] Romeo Wouden:2 [MASK] [MASK] játszik:2 . [SEP],##baumt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.16638
+[CLS] Romeo Wouden:2 [MASK] [MASK] játszik:2 . [SEP],##eckaen:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.57769
+[CLS] Romeo Wouden:2 [MASK] [MASK] játszik:2 . [SEP],##ko mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.80273
 [CLS] Ivan Tsvetkov:4 [MASK] [MASK] játszik:2 . [SEP],##icsban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.13779
 [CLS] Ivan Tsvetkov:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],##sz oroszt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.65476
+[CLS] Ivan Tsvetkov:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],##cs -ában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22623
+[CLS] Ivan Tsvetkov:4 [MASK] [MASK] játszik:2 . [SEP],##skinek:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.69750
+[CLS] Ivan Tsvetkov:4 [MASK] [MASK] játszik:2 . [SEP],##skyben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.80778
 [CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.49631
-[CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.74165
-[CLS] Theo Laseroms:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Feyenoord,0,Feyenoord,0,-1.75500
-[CLS] Theo Laseroms:2 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.91069
+[CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.74166
+[CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12200
+[CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],által,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.31502
+[CLS] Frank Kooiman:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.49246
+[CLS] Theo Laseroms:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Feyenoord,0,Feyenoord,0,-1.75499
+[CLS] Theo Laseroms:2 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.91070
+[CLS] Theo Laseroms:2 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-2.09987
+[CLS] Theo Laseroms:2 [MASK] játszik:2 . [SEP],##on,Feyenoord,0,Feyenoord,0,-2.19562
+[CLS] Theo Laseroms:2 [MASK] játszik:2 . [SEP],##nál,Feyenoord,0,Feyenoord,0,-3.62324
 [CLS] Victor Kros:2 [MASK] [MASK] játszik:2 . [SEP],##lovban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.75005
 [CLS] Victor Kros:2 [MASK] [MASK] játszik:2 . [SEP],##kyben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.89373
+[CLS] Victor Kros:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nay a az az a aznt:2 a,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.54289
+[CLS] Victor Kros:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##ptnnn:5 aznt:2 az .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.68290
+[CLS] Victor Kros:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. azeeent:5 arr:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.00594
 [CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##en,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-1.91943
-[CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##ban,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.30792
+[CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##ban,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.30793
+[CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##et,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.74287
+[CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##ben,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.87682
+[CLS] Johan Voskamp:2 [MASK] játszik:2 . [SEP],##nek,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.99629
 [CLS] Mike Snoei:3 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-0.91172
 [CLS] Mike Snoei:3 [MASK] játszik:2 . [SEP],##vel,Feyenoord,0,Feyenoord,0,-2.73989
+[CLS] Mike Snoei:3 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-2.91982
+[CLS] Mike Snoei:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##pnnnnn:6 a . .,Feyenoord,0,Feyenoord,0,-3.56750
+[CLS] Mike Snoei:3 [MASK] [MASK] játszik:2 . [SEP],##csen:2,Feyenoord,0,Feyenoord,0,-3.90541
 [CLS] Ramon van Haaren:2 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.05502
 [CLS] Ramon van Haaren:2 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-2.07537
+[CLS] Ramon van Haaren:2 [MASK] játszik:2 . [SEP],nem,Feyenoord,0,Feyenoord,0,-3.04401
+[CLS] Ramon van Haaren:2 [MASK] játszik:2 . [SEP],mellett,Feyenoord,0,Feyenoord,0,-3.21530
+[CLS] Ramon van Haaren:2 [MASK] játszik:2 . [SEP],-,Feyenoord,0,Feyenoord,0,-3.34737
 [CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.59829
-[CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],##nél,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.00607
+[CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],##nél,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.00608
+[CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.23581
+[CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.16193
+[CLS] Ronald Lengkeek:4 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.36409
 [CLS] Michel Valke:2 [MASK] játszik:2 . [SEP],##vel,Feyenoord,0,Feyenoord,0,-2.45735
 [CLS] Michel Valke:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", . az az az azr:2",Feyenoord,0,Feyenoord,0,-3.00062
+[CLS] Michel Valke:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az a a a , őn:2",Feyenoord,0,Feyenoord,0,-3.38524
+[CLS] Michel Valke:2 [MASK] [MASK] játszik:2 . [SEP],##yben:2,Feyenoord,0,Feyenoord,0,-3.60436
+[CLS] Michel Valke:2 [MASK] [MASK] játszik:2 . [SEP],##vicet:2,Feyenoord,0,Feyenoord,0,-3.70010
 [CLS] Erik Tammer:2 [MASK] játszik:2 . [SEP],##ában,AFC Ajax,0,AFC Ajax,0,-1.59252
 [CLS] Erik Tammer:2 [MASK] játszik:2 . [SEP],##ban,AFC Ajax,0,AFC Ajax,0,-1.91131
+[CLS] Erik Tammer:2 [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-2.32811
+[CLS] Erik Tammer:2 [MASK] játszik:2 . [SEP],##án,AFC Ajax,0,AFC Ajax,0,-3.64590
+[CLS] Erik Tammer:2 [MASK] játszik:2 . [SEP],##man,AFC Ajax,0,AFC Ajax,0,-3.71116
 [CLS] Sander van Gessel:3 [MASK] [MASK] játszik:2 . [SEP],- is,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.90636
 [CLS] Sander van Gessel:3 [MASK] játszik:2 . [SEP],is,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.52153
+[CLS] Sander van Gessel:3 [MASK] játszik:2 . [SEP],##ban,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.87245
+[CLS] Sander van Gessel:3 [MASK] játszik:2 . [SEP],mellett,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.05911
+[CLS] Sander van Gessel:3 [MASK] játszik:2 . [SEP],nem,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.25873
 [CLS] Wouter:2 Gudde:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.14565
 [CLS] Wouter:2 Gudde:2 [MASK] játszik:2 . [SEP],mellett,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.90844
+[CLS] Wouter:2 Gudde:2 [MASK] játszik:2 . [SEP],által,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.15742
+[CLS] Wouter:2 Gudde:2 [MASK] játszik:2 . [SEP],##ban,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.59041
+[CLS] Wouter:2 Gudde:2 [MASK] játszik:2 . [SEP],nem,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.64252
 [CLS] Nixon Dias [MASK] [MASK] játszik:2 . [SEP],Diasban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.72063
-[CLS] Nixon Dias [MASK] játszik:2 . [SEP],.,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98460
+[CLS] Nixon Dias [MASK] játszik:2 . [SEP],.,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98461
+[CLS] Nixon Dias [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.07370
+[CLS] Nixon Dias [MASK] játszik:2 . [SEP],Dias,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.38189
+[CLS] Nixon Dias [MASK] játszik:2 . [SEP],de,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46078
 [CLS] Elbekay:3 Bouchiba:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgóban:2,Toronto FC,0,Toronto FC,0,-1.62612
-[CLS] Elbekay:3 Bouchiba:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz -ában:2,Toronto FC,0,Toronto FC,0,-2.81330
+[CLS] Elbekay:3 Bouchiba:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz -ában:2,Toronto FC,0,Toronto FC,0,-2.81331
+[CLS] Elbekay:3 Bouchiba:3 [MASK] játszik:2 . [SEP],mellett,Toronto FC,0,Toronto FC,0,-3.09523
+[CLS] Elbekay:3 Bouchiba:3 [MASK] játszik:2 . [SEP],##ben,Toronto FC,0,Toronto FC,0,-3.48652
+[CLS] Elbekay:3 Bouchiba:3 [MASK] játszik:2 . [SEP],néven,Toronto FC,0,Toronto FC,0,-3.63638
 [CLS] Jerold:3 Promes:2 [MASK] [MASK] játszik:2 . [SEP],##szban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.58747
 [CLS] Jerold:3 Promes:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52024
+[CLS] Jerold:3 Promes:2 [MASK] [MASK] játszik:2 . [SEP],##chen:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23036
+[CLS] Jerold:3 Promes:2 [MASK] játszik:2 . [SEP],##zt,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.53350
+[CLS] Jerold:3 Promes:2 [MASK] játszik:2 . [SEP],##ében,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.54636
 [CLS] Crescendo:3 van Berkel:3 [MASK] [MASK] játszik:2 . [SEP],- is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44968
-[CLS] Crescendo:3 van Berkel:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , , , , . . , sz az",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17496
-[CLS] Cees:2 Toet:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.95000
+[CLS] Crescendo:3 van Berkel:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , , , , . . , sz az",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17497
+[CLS] Crescendo:3 van Berkel:3 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.63367
+[CLS] Crescendo:3 van Berkel:3 [MASK] játszik:2 . [SEP],van,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.69012
+[CLS] Crescendo:3 van Berkel:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.74175
+[CLS] Cees:2 Toet:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.94999
 [CLS] Cees:2 Toet:2 [MASK] [MASK] játszik:2 . [SEP],##nekt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.76071
+[CLS] Cees:2 Toet:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"és . . a , ,nr:3",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.34415
+[CLS] Cees:2 Toet:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",n:2 , , an:2 . ő",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.62690
+[CLS] Cees:2 Toet:2 [MASK] játszik:2 . [SEP],##ában,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84663
 [CLS] Ruud:3 Knol:2 [MASK] játszik:2 . [SEP],##l,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.36963
 [CLS] Ruud:3 Knol:2 [MASK] [MASK] játszik:2 . [SEP],##lenben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.93388
+[CLS] Ruud:3 Knol:2 [MASK] [MASK] játszik:2 . [SEP],##let:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45427
+[CLS] Ruud:3 Knol:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],##len is is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47270
+[CLS] Ruud:3 Knol:2 [MASK] [MASK] játszik:2 . [SEP],##lern:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.64188
 [CLS] Regillio:3 Nooitmeer:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Dordrecht,0,FC Dordrecht,0,-1.94314
 [CLS] Regillio:3 Nooitmeer:3 [MASK] játszik:2 . [SEP],-,FC Dordrecht,0,FC Dordrecht,0,-2.63929
+[CLS] Regillio:3 Nooitmeer:3 [MASK] játszik:2 . [SEP],##en,FC Dordrecht,0,FC Dordrecht,0,-3.18007
+[CLS] Regillio:3 Nooitmeer:3 [MASK] játszik:2 . [SEP],is,FC Dordrecht,0,FC Dordrecht,0,-3.32694
+[CLS] Regillio:3 Nooitmeer:3 [MASK] [MASK] játszik:2 . [SEP],##tt:2,FC Dordrecht,0,FC Dordrecht,0,-3.61201
 [CLS] Jeffrey Rijsdijk:4 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.85406
 [CLS] Jeffrey Rijsdijk:4 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.76146
+[CLS] Jeffrey Rijsdijk:4 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.89174
+[CLS] Jeffrey Rijsdijk:4 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.90300
+[CLS] Jeffrey Rijsdijk:4 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.91394
 [CLS] Mark Veldmate:3 [MASK] játszik:2 . [SEP],##n,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.77944
 [CLS] Mark Veldmate:3 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.03069
+[CLS] Mark Veldmate:3 [MASK] játszik:2 . [SEP],##an,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40917
+[CLS] Mark Veldmate:3 [MASK] [MASK] játszik:2 . [SEP],##trat:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.81150
+[CLS] Mark Veldmate:3 [MASK] [MASK] játszik:2 . [SEP],##nil:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.91368
 [CLS] Anthony Bentem:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.46399
 [CLS] Anthony Bentem:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", a a a an:2 . a",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.19878
+[CLS] Anthony Bentem:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az a a a , ,n:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.36400
+[CLS] Anthony Bentem:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##o az az az az az azt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.65205
+[CLS] Anthony Bentem:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , , , ,nt:2 ant:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96831
 [CLS] Marco Sas:2 [MASK] játszik:2 . [SEP],##ban,FC Basel 1893,0,FC Basel 1893,0,-2.08232
 [CLS] Marco Sas:2 [MASK] [MASK] játszik:2 . [SEP],##falt:2,FC Basel 1893,0,FC Basel 1893,0,-2.83295
+[CLS] Marco Sas:2 [MASK] [MASK] játszik:2 . [SEP],##finiában:2,FC Basel 1893,0,FC Basel 1893,0,-2.99328
+[CLS] Marco Sas:2 [MASK] [MASK] játszik:2 . [SEP],##fono is,FC Basel 1893,0,FC Basel 1893,0,-3.55741
+[CLS] Marco Sas:2 [MASK] [MASK] játszik:2 . [SEP],##foben:2,FC Basel 1893,0,FC Basel 1893,0,-3.65633
 [CLS] Mitchell van der Gaag:2 [MASK] játszik:2 . [SEP],##ban,Al - Nassr:2,0,Al - Nassr:2,0,-1.04117
 [CLS] Mitchell van der Gaag:2 [MASK] játszik:2 . [SEP],##ben,Al - Nassr:2,0,Al - Nassr:2,0,-2.22083
-[CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11824
+[CLS] Mitchell van der Gaag:2 [MASK] játszik:2 . [SEP],is,Al - Nassr:2,0,Al - Nassr:2,0,-3.16974
+[CLS] Mitchell van der Gaag:2 [MASK] játszik:2 . [SEP],mellett,Al - Nassr:2,0,Al - Nassr:2,0,-3.20724
+[CLS] Mitchell van der Gaag:2 [MASK] játszik:2 . [SEP],##nek,Al - Nassr:2,0,Al - Nassr:2,0,-3.34094
+[CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11823
 [CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46297
+[CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.95147
+[CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.13603
+[CLS] Jeremy de Nooijer:3 [MASK] játszik:2 . [SEP],##tel,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.73194
 [CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],is,FC Utrecht,0,FC Utrecht,0,-2.16510
-[CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],nem,FC Utrecht,0,FC Utrecht,0,-2.41774
+[CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],nem,FC Utrecht,0,FC Utrecht,0,-2.41775
+[CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],##ben,FC Utrecht,0,FC Utrecht,0,-2.54748
+[CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],##nek,FC Utrecht,0,FC Utrecht,0,-2.78883
+[CLS] Romano van der Stoep:3 [MASK] játszik:2 . [SEP],-,FC Utrecht,0,FC Utrecht,0,-2.98852
 [CLS] Jan van der Veen:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.99079
 [CLS] Jan van der Veen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.99748
+[CLS] Jan van der Veen:2 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.34343
+[CLS] Jan van der Veen:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.01085
+[CLS] Jan van der Veen:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.07372
 [CLS] Joh:2 van Zoest:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],is -t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.68069
 [CLS] Joh:2 van Zoest:2 [MASK] [MASK] játszik:2 . [SEP],##veenban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.82392
+[CLS] Joh:2 van Zoest:2 [MASK] [MASK] játszik:2 . [SEP],##veldn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.18849
+[CLS] Joh:2 van Zoest:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.26653
+[CLS] Joh:2 van Zoest:2 [MASK] [MASK] játszik:2 . [SEP],##loopben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42914
 [CLS] Roelf:3 - Jan Tiktak:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,SC Veendam:3,0,SC Veendam:3,0,-2.12448
 [CLS] Roelf:3 - Jan Tiktak:3 [MASK] játszik:2 . [SEP],között,SC Veendam:3,0,SC Veendam:3,0,-2.35291
+[CLS] Roelf:3 - Jan Tiktak:3 [MASK] játszik:2 . [SEP],is,SC Veendam:3,0,SC Veendam:3,0,-2.51272
+[CLS] Roelf:3 - Jan Tiktak:3 [MASK] játszik:2 . [SEP],mellett,SC Veendam:3,0,SC Veendam:3,0,-2.77122
+[CLS] Roelf:3 - Jan Tiktak:3 [MASK] játszik:2 . [SEP],##ban,SC Veendam:3,0,SC Veendam:3,0,-2.95098
 [CLS] Terell:2 Ondaan:2 [MASK] játszik:2 . [SEP],##ban,Willem II,0,Willem II,0,-0.88685
 [CLS] Terell:2 Ondaan:2 [MASK] játszik:2 . [SEP],##t,Willem II,0,Willem II,0,-2.29071
+[CLS] Terell:2 Ondaan:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az a a a az ő ő,Willem II,0,Willem II,0,-3.59633
+[CLS] Terell:2 Ondaan:2 [MASK] játszik:2 . [SEP],##ál,Willem II,0,Willem II,0,-3.72653
+[CLS] Terell:2 Ondaan:2 [MASK] játszik:2 . [SEP],##an,Willem II,0,Willem II,0,-3.90379
 [CLS] Wout:2 Holverda:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.55772
 [CLS] Wout:2 Holverda:3 [MASK] játszik:2 . [SEP],##an,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91717
+[CLS] Wout:2 Holverda:3 [MASK] játszik:2 . [SEP],##ag,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.13360
+[CLS] Wout:2 Holverda:3 [MASK] [MASK] játszik:2 . [SEP],##ck ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.57183
+[CLS] Wout:2 Holverda:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgóben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.80411
 [CLS] Bram:2 Marbus:2 [MASK] játszik:2 . [SEP],néven,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-1.82781
-[CLS] Bram:2 Marbus:2 [MASK] [MASK] játszik:2 . [SEP],##zban:2,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.63079
+[CLS] Bram:2 Marbus:2 [MASK] [MASK] játszik:2 . [SEP],##zban:2,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.63080
+[CLS] Bram:2 Marbus:2 [MASK] [MASK] játszik:2 . [SEP],##son is,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.76739
+[CLS] Bram:2 Marbus:2 [MASK] játszik:2 . [SEP],##z,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.00790
+[CLS] Bram:2 Marbus:2 [MASK] játszik:2 . [SEP],##son,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.31701
 [CLS] Dwight Eli [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.50480
 [CLS] Dwight Eli [MASK] játszik:2 . [SEP],##e,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.93189
+[CLS] Dwight Eli [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##nt a ann:3 antn:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42841
+[CLS] Dwight Eli [MASK] játszik:2 . [SEP],##n,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75258
+[CLS] Dwight Eli [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.82183
 [CLS] Maurits:2 van Dalen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.70653
 [CLS] Maurits:2 van Dalen:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.30163
+[CLS] Maurits:2 van Dalen:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.66638
+[CLS] Maurits:2 van Dalen:2 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.85069
+[CLS] Maurits:2 van Dalen:2 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.15679
 [CLS] Tim Coremans:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.70612
 [CLS] Tim Coremans:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.57055
+[CLS] Tim Coremans:2 [MASK] játszik:2 . [SEP],##on,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.74759
+[CLS] Tim Coremans:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.85998
+[CLS] Tim Coremans:2 [MASK] játszik:2 . [SEP],##nál,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.06010
 [CLS] Mark Noorlander:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.78287
 [CLS] Mark Noorlander:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.12743
+[CLS] Mark Noorlander:3 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.51890
+[CLS] Mark Noorlander:3 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.60791
+[CLS] Mark Noorlander:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.06329
 [CLS] Quentin Albertus:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.81883
 [CLS] Quentin Albertus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a a a a . .nn:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.10853
+[CLS] Quentin Albertus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az az a aánt:3",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.34429
+[CLS] Quentin Albertus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , , , , őr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.67496
+[CLS] Quentin Albertus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"Vannn:4 ,nn:3 .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.98704
 [CLS] Chris Kronshorst:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.84254
 [CLS] Chris Kronshorst:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.96029
+[CLS] Chris Kronshorst:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a a a a , aminr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32704
+[CLS] Chris Kronshorst:3 [MASK] [MASK] játszik:2 . [SEP],csapatt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.64221
+[CLS] Chris Kronshorst:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##n az az an an anp:2 ane:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84147
 [CLS] Rick Ketting:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.52783
 [CLS] Rick Ketting:2 [MASK] [MASK] játszik:2 . [SEP],##ert:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.08177
+[CLS] Rick Ketting:2 [MASK] [MASK] játszik:2 . [SEP],##manban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.02994
+[CLS] Rick Ketting:2 [MASK] [MASK] játszik:2 . [SEP],##sen:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.52764
+[CLS] Rick Ketting:2 [MASK] [MASK] játszik:2 . [SEP],##ton is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.66253
 [CLS] Stijn:2 Spierings:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,AZ,0,AZ,0,-1.64277
 [CLS] Stijn:2 Spierings:3 [MASK] játszik:2 . [SEP],##en,AZ,0,AZ,0,-2.45068
+[CLS] Stijn:2 Spierings:3 [MASK] játszik:2 . [SEP],##ban,AZ,0,AZ,0,-2.52455
+[CLS] Stijn:2 Spierings:3 [MASK] játszik:2 . [SEP],##ben,AZ,0,AZ,0,-2.69666
+[CLS] Stijn:2 Spierings:3 [MASK] játszik:2 . [SEP],##et,AZ,0,AZ,0,-2.86601
 [CLS] Denzel:2 Dumfries:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.01818
 [CLS] Denzel:2 Dumfries:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.69430
+[CLS] Denzel:2 Dumfries:3 [MASK] játszik:2 . [SEP],##nél,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20390
+[CLS] Denzel:2 Dumfries:3 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42670
+[CLS] Denzel:2 Dumfries:3 [MASK] játszik:2 . [SEP],##on,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.26045
 [CLS] Yaël:2 Eisden:2 [MASK] játszik:2 . [SEP],##feld,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45475
 [CLS] Yaël:2 Eisden:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.48995
+[CLS] Yaël:2 Eisden:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.15449
+[CLS] Yaël:2 Eisden:2 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46177
+[CLS] Yaël:2 Eisden:2 [MASK] játszik:2 . [SEP],",",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59425
 [CLS] Rick van Drongelen:3 [MASK] játszik:2 . [SEP],##d,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.52329
-[CLS] Rick van Drongelen:3 [MASK] [MASK] játszik:2 . [SEP],##beeken:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42045
+[CLS] Rick van Drongelen:3 [MASK] [MASK] játszik:2 . [SEP],##beeken:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42046
+[CLS] Rick van Drongelen:3 [MASK] [MASK] játszik:2 . [SEP],##hovenben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.70793
+[CLS] Rick van Drongelen:3 [MASK] [MASK] játszik:2 . [SEP],##dt is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.00867
+[CLS] Rick van Drongelen:3 [MASK] [MASK] játszik:2 . [SEP],##veenn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.13922
 [CLS] Ilias:2 Alhaft:2 [MASK] [MASK] játszik:2 . [SEP],##isban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.38053
 [CLS] Ilias:2 Alhaft:2 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##is az aában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12905
+[CLS] Ilias:2 Alhaft:2 [MASK] [MASK] játszik:2 . [SEP],##ovben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46397
+[CLS] Ilias:2 Alhaft:2 [MASK] [MASK] játszik:2 . [SEP],##iann:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.72056
+[CLS] Ilias:2 Alhaft:2 [MASK] játszik:2 . [SEP],##an,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.76901
 [CLS] Bryan Janssen [MASK] játszik:2 . [SEP],##s,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.24938
 [CLS] Bryan Janssen [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.76980
+[CLS] Bryan Janssen [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.20669
+[CLS] Bryan Janssen [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an an an an .nt:2 a an,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.49541
+[CLS] Bryan Janssen [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.89306
 [CLS] Menno:2 Bergsen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.97596
 [CLS] Menno:2 Bergsen:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.41881
+[CLS] Menno:2 Bergsen:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.64898
+[CLS] Menno:2 Bergsen:2 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48741
+[CLS] Menno:2 Bergsen:2 [MASK] játszik:2 . [SEP],##vel,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.66514
 [CLS] Godfried:2 Frimpong:4 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.07318
 [CLS] Godfried:2 Frimpong:4 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11492
+[CLS] Godfried:2 Frimpong:4 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.25534
+[CLS] Godfried:2 Frimpong:4 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.58627
+[CLS] Godfried:2 Frimpong:4 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.92284
 [CLS] Bryan Richardson [MASK] játszik:2 . [SEP],##ban,FC Dordrecht,0,FC Dordrecht,0,-1.17366
 [CLS] Bryan Richardson [MASK] játszik:2 . [SEP],##ben,FC Dordrecht,0,FC Dordrecht,0,-2.25190
+[CLS] Bryan Richardson [MASK] játszik:2 . [SEP],##en,FC Dordrecht,0,FC Dordrecht,0,-2.67725
+[CLS] Bryan Richardson [MASK] játszik:2 . [SEP],##t,FC Dordrecht,0,FC Dordrecht,0,-3.70350
+[CLS] Bryan Richardson [MASK] játszik:2 . [SEP],##nek,FC Dordrecht,0,FC Dordrecht,0,-3.86821
 [CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],##ben,XerxesDZB:6,0,XerxesDZB:6,0,-1.42580
-[CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],##ban,XerxesDZB:6,0,XerxesDZB:6,0,-1.50928
+[CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],##ban,XerxesDZB:6,0,XerxesDZB:6,0,-1.50929
+[CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],##nek,XerxesDZB:6,0,XerxesDZB:6,0,-2.69258
+[CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],##en,XerxesDZB:6,0,XerxesDZB:6,0,-3.25418
+[CLS] John Spinhoven:2 [MASK] játszik:2 . [SEP],által,XerxesDZB:6,0,XerxesDZB:6,0,-3.68155
 [CLS] Jason Meerstadt:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.95199
 [CLS] Jason Meerstadt:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.03132
+[CLS] Jason Meerstadt:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.56901
+[CLS] Jason Meerstadt:2 [MASK] játszik:2 . [SEP],##hez,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.25906
+[CLS] Jason Meerstadt:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48636
 [CLS] Dick Advocaat:4 [MASK] játszik:2 . [SEP],##ban,Chicago Sting,0,Chicago Sting,0,-0.82473
 [CLS] Dick Advocaat:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az a az az az az . szn:2,Chicago Sting,0,Chicago Sting,0,-2.93056
+[CLS] Dick Advocaat:4 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a . a a a a szszban:3,Chicago Sting,0,Chicago Sting,0,-3.25195
+[CLS] Dick Advocaat:4 [MASK] játszik:2 . [SEP],után,Chicago Sting,0,Chicago Sting,0,-3.65026
+[CLS] Dick Advocaat:4 [MASK] játszik:2 . [SEP],alatt,Chicago Sting,0,Chicago Sting,0,-3.70712
 [CLS] Karim el - Ahmadi:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Feyenoord,0,Feyenoord,0,-2.21458
-[CLS] Karim el - Ahmadi:2 [MASK] játszik:2 . [SEP],is,Feyenoord,0,Feyenoord,0,-2.44246
+[CLS] Karim el - Ahmadi:2 [MASK] játszik:2 . [SEP],is,Feyenoord,0,Feyenoord,0,-2.44247
+[CLS] Karim el - Ahmadi:2 [MASK] játszik:2 . [SEP],mellett,Feyenoord,0,Feyenoord,0,-2.97444
+[CLS] Karim el - Ahmadi:2 [MASK] játszik:2 . [SEP],között,Feyenoord,0,Feyenoord,0,-3.08330
+[CLS] Karim el - Ahmadi:2 [MASK] játszik:2 . [SEP],nem,Feyenoord,0,Feyenoord,0,-3.09177
 [CLS] Danny Hoesen:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . .t:2,AFC Ajax,0,AFC Ajax,0,-2.37039
-[CLS] Danny Hoesen:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,AFC Ajax,0,AFC Ajax,0,-3.12394
+[CLS] Danny Hoesen:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,AFC Ajax,0,AFC Ajax,0,-3.12395
+[CLS] Danny Hoesen:2 [MASK] játszik:2 . [SEP],##en,AFC Ajax,0,AFC Ajax,0,-3.14762
+[CLS] Danny Hoesen:2 [MASK] játszik:2 . [SEP],##nek,AFC Ajax,0,AFC Ajax,0,-3.30639
+[CLS] Danny Hoesen:2 [MASK] játszik:2 . [SEP],által,AFC Ajax,0,AFC Ajax,0,-3.57671
 [CLS] Zakaria:3 Labyad:3 [MASK] játszik:2 . [SEP],##ban,PSV Eindhoven,0,PSV Eindhoven,0,-0.48820
 [CLS] Zakaria:3 Labyad:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,PSV Eindhoven,0,PSV Eindhoven,0,-2.53495
+[CLS] Zakaria:3 Labyad:3 [MASK] [MASK] játszik:2 . [SEP],##zsaán:2,PSV Eindhoven,0,PSV Eindhoven,0,-3.10968
+[CLS] Zakaria:3 Labyad:3 [MASK] [MASK] játszik:2 . [SEP],csapatában:2,PSV Eindhoven,0,PSV Eindhoven,0,-3.27764
+[CLS] Zakaria:3 Labyad:3 [MASK] [MASK] játszik:2 . [SEP],játékos is,PSV Eindhoven,0,PSV Eindhoven,0,-3.44379
 [CLS] Tom Beugelsdijk:5 [MASK] játszik:2 . [SEP],##nek,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-1.83368
 [CLS] Tom Beugelsdijk:5 [MASK] játszik:2 . [SEP],is,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.34416
+[CLS] Tom Beugelsdijk:5 [MASK] játszik:2 . [SEP],nem,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.94572
+[CLS] Tom Beugelsdijk:5 [MASK] játszik:2 . [SEP],##ban,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.05172
+[CLS] Tom Beugelsdijk:5 [MASK] játszik:2 . [SEP],mellett,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.25401
 [CLS] Wayne Van Dorp:2 [MASK] játszik:2 . [SEP],##ben,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-1.74936
 [CLS] Wayne Van Dorp:2 [MASK] játszik:2 . [SEP],##nek,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-2.10905
+[CLS] Wayne Van Dorp:2 [MASK] játszik:2 . [SEP],##ban,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-2.40905
+[CLS] Wayne Van Dorp:2 [MASK] játszik:2 . [SEP],is,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-3.17503
+[CLS] Wayne Van Dorp:2 [MASK] játszik:2 . [SEP],nem,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-3.27023
 [CLS] Kevin Strootman:4 [MASK] játszik:2 . [SEP],##ban,AS Roma,0,AS Roma,0,-1.54185
 [CLS] Kevin Strootman:4 [MASK] játszik:2 . [SEP],##ben,AS Roma,0,AS Roma,0,-2.56373
+[CLS] Kevin Strootman:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],az at:2,AS Roma,0,AS Roma,0,-3.06493
+[CLS] Kevin Strootman:4 [MASK] játszik:2 . [SEP],mellett,AS Roma,0,AS Roma,0,-3.18380
+[CLS] Kevin Strootman:4 [MASK] játszik:2 . [SEP],nem,AS Roma,0,AS Roma,0,-3.25817
 [CLS] Johnny Rep [MASK] játszik:2 . [SEP],##rese,AFC Ajax,0,AFC Ajax,0,-1.68504
-[CLS] Johnny Rep [MASK] [MASK] játszik:2 . [SEP],##licaban:2,AFC Ajax,0,AFC Ajax,0,-2.66144
+[CLS] Johnny Rep [MASK] [MASK] játszik:2 . [SEP],##licaban:2,AFC Ajax,0,AFC Ajax,0,-2.66145
+[CLS] Johnny Rep [MASK] [MASK] játszik:2 . [SEP],##eatt:2,AFC Ajax,0,AFC Ajax,0,-2.78561
+[CLS] Johnny Rep [MASK] játszik:2 . [SEP],##lace,AFC Ajax,0,AFC Ajax,0,-3.47191
+[CLS] Johnny Rep [MASK] játszik:2 . [SEP],Rep,AFC Ajax,0,AFC Ajax,0,-3.48416
 [CLS] Uszáma:3 asz:2 - Szaídi:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Stoke City FC,0,Stoke City FC,0,-1.64388
 [CLS] Uszáma:3 asz:2 - Szaídi:4 [MASK] játszik:2 . [SEP],is,Stoke City FC,0,Stoke City FC,0,-2.30900
+[CLS] Uszáma:3 asz:2 - Szaídi:4 [MASK] játszik:2 . [SEP],mellett,Stoke City FC,0,Stoke City FC,0,-2.69736
+[CLS] Uszáma:3 asz:2 - Szaídi:4 [MASK] játszik:2 . [SEP],##ben,Stoke City FC,0,Stoke City FC,0,-2.81179
+[CLS] Uszáma:3 asz:2 - Szaídi:4 [MASK] játszik:2 . [SEP],szerepet,Stoke City FC,0,Stoke City FC,0,-2.99702
 [CLS] Hakim Zijes:2 [MASK] játszik:2 . [SEP],##ban,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.93518
 [CLS] Hakim Zijes:2 [MASK] játszik:2 . [SEP],##ben,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.17535
+[CLS] Hakim Zijes:2 [MASK] játszik:2 . [SEP],##z,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.39102
+[CLS] Hakim Zijes:2 [MASK] [MASK] játszik:2 . [SEP],##h nem,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.77960
+[CLS] Hakim Zijes:2 [MASK] [MASK] játszik:2 . [SEP],##zalában:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.97112
 [CLS] Arsenio:3 Valpoort:3 [MASK] játszik:2 . [SEP],##ban,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.30879
 [CLS] Arsenio:3 Valpoort:3 [MASK] játszik:2 . [SEP],##ában,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.81142
+[CLS] Arsenio:3 Valpoort:3 [MASK] játszik:2 . [SEP],##óban,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.91722
+[CLS] Arsenio:3 Valpoort:3 [MASK] játszik:2 . [SEP],##ól,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.35371
+[CLS] Arsenio:3 Valpoort:3 [MASK] játszik:2 . [SEP],##ben,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.58723
 [CLS] Lerin:2 Duarte [MASK] játszik:2 . [SEP],##t,AFC Ajax,0,AFC Ajax,0,-2.22039
 [CLS] Lerin:2 Duarte [MASK] játszik:2 . [SEP],já,AFC Ajax,0,AFC Ajax,0,-2.82250
+[CLS] Lerin:2 Duarte [MASK] játszik:2 . [SEP],nem,AFC Ajax,0,AFC Ajax,0,-3.10146
+[CLS] Lerin:2 Duarte [MASK] játszik:2 . [SEP],-,AFC Ajax,0,AFC Ajax,0,-3.22035
+[CLS] Lerin:2 Duarte [MASK] játszik:2 . [SEP],a,AFC Ajax,0,AFC Ajax,0,-3.64784
 [CLS] Danny Koevermans:3 [MASK] játszik:2 . [SEP],##ban,Toronto FC,0,Toronto FC,0,-1.35384
 [CLS] Danny Koevermans:3 [MASK] játszik:2 . [SEP],##ben,Toronto FC,0,Toronto FC,0,-1.91982
+[CLS] Danny Koevermans:3 [MASK] játszik:2 . [SEP],##en,Toronto FC,0,Toronto FC,0,-1.92557
+[CLS] Danny Koevermans:3 [MASK] játszik:2 . [SEP],##nál,Toronto FC,0,Toronto FC,0,-3.52386
+[CLS] Danny Koevermans:3 [MASK] játszik:2 . [SEP],##t,Toronto FC,0,Toronto FC,0,-3.72722
 [CLS] Ismaïl:4 Aissati:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Twente,0,FC Twente,0,-1.90886
 [CLS] Ismaïl:4 Aissati:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,FC Twente,0,FC Twente,0,-2.85087
+[CLS] Ismaïl:4 Aissati:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],az franciaában:2,FC Twente,0,FC Twente,0,-3.33225
+[CLS] Ismaïl:4 Aissati:3 [MASK] [MASK] játszik:2 . [SEP],játékben:2,FC Twente,0,FC Twente,0,-3.62147
+[CLS] Ismaïl:4 Aissati:3 [MASK] [MASK] játszik:2 . [SEP],franciaában:2,FC Twente,0,FC Twente,0,-3.66330
 [CLS] Daniël:2 de Ridder [MASK] játszik:2 . [SEP],-,Birmingham City FC,0,Birmingham City FC,0,-2.46918
 [CLS] Daniël:2 de Ridder [MASK] játszik:2 . [SEP],is,Birmingham City FC,0,Birmingham City FC,0,-2.83783
+[CLS] Daniël:2 de Ridder [MASK] játszik:2 . [SEP],",",Birmingham City FC,0,Birmingham City FC,0,-3.09965
+[CLS] Daniël:2 de Ridder [MASK] játszik:2 . [SEP],:,Birmingham City FC,0,Birmingham City FC,0,-3.60992
+[CLS] Daniël:2 de Ridder [MASK] játszik:2 . [SEP],.,Birmingham City FC,0,Birmingham City FC,0,-3.89084
 [CLS] Nordin:2 Amrabat:3 [MASK] játszik:2 . [SEP],##ban,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-0.59538
 [CLS] Nordin:2 Amrabat:3 [MASK] játszik:2 . [SEP],##ben,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-1.85568
+[CLS] Nordin:2 Amrabat:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],szsatában:3,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.47028
+[CLS] Nordin:2 Amrabat:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],és labdarúgóet:2,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.75510
+[CLS] Nordin:2 Amrabat:3 [MASK] [MASK] játszik:2 . [SEP],napában:2,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.87454
 [CLS] Youssef:3 El Akchaoui:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Augsburg,0,FC Augsburg,0,-1.45926
 [CLS] Youssef:3 El Akchaoui:4 [MASK] játszik:2 . [SEP],nem,FC Augsburg,0,FC Augsburg,0,-2.29909
+[CLS] Youssef:3 El Akchaoui:4 [MASK] játszik:2 . [SEP],-,FC Augsburg,0,FC Augsburg,0,-2.68955
+[CLS] Youssef:3 El Akchaoui:4 [MASK] játszik:2 . [SEP],mellett,FC Augsburg,0,FC Augsburg,0,-3.09333
+[CLS] Youssef:3 El Akchaoui:4 [MASK] játszik:2 . [SEP],##ban,FC Augsburg,0,FC Augsburg,0,-3.72473
 [CLS] Julian Jenner:2 [MASK] játszik:2 . [SEP],##ben,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-0.58122
 [CLS] Julian Jenner:2 [MASK] játszik:2 . [SEP],##ban,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.33623
+[CLS] Julian Jenner:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az az , aznt:2",Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.48582
+[CLS] Julian Jenner:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az aznn:3 az annt:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.67993
+[CLS] Julian Jenner:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an an an anntnt:3 .r:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.98331
 [CLS] Danny Blind [MASK] játszik:2 . [SEP],##en,AFC Ajax,0,AFC Ajax,0,-1.27492
 [CLS] Danny Blind [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-1.67651
+[CLS] Danny Blind [MASK] játszik:2 . [SEP],által,AFC Ajax,0,AFC Ajax,0,-2.69027
+[CLS] Danny Blind [MASK] játszik:2 . [SEP],##nek,AFC Ajax,0,AFC Ajax,0,-3.43087
+[CLS] Danny Blind [MASK] [MASK] játszik:2 . [SEP],##ert:2,AFC Ajax,0,AFC Ajax,0,-3.54150
 [CLS] Donovan Slijngard:3 [MASK] játszik:2 . [SEP],##t,AFC Ajax,0,AFC Ajax,0,-1.78710
 [CLS] Donovan Slijngard:3 [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-1.92651
-[CLS] Marcel Peeper:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91661
+[CLS] Donovan Slijngard:3 [MASK] játszik:2 . [SEP],##ban,AFC Ajax,0,AFC Ajax,0,-2.87182
+[CLS] Donovan Slijngard:3 [MASK] játszik:2 . [SEP],##en,AFC Ajax,0,AFC Ajax,0,-3.65337
+[CLS] Donovan Slijngard:3 [MASK] játszik:2 . [SEP],nem,AFC Ajax,0,AFC Ajax,0,-3.67636
+[CLS] Marcel Peeper:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91660
 [CLS] Marcel Peeper:3 [MASK] [MASK] játszik:2 . [SEP],német szerepet,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.91610
+[CLS] Marcel Peeper:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.11757
+[CLS] Marcel Peeper:3 [MASK] játszik:2 . [SEP],által,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.30706
+[CLS] Marcel Peeper:3 [MASK] játszik:2 . [SEP],-,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32711
 [CLS] Mike Havenaar:2 [MASK] játszik:2 . [SEP],##ban,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-1.02413
 [CLS] Mike Havenaar:2 [MASK] játszik:2 . [SEP],##ben,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-1.44264
+[CLS] Mike Havenaar:2 [MASK] játszik:2 . [SEP],##t,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-2.30558
+[CLS] Mike Havenaar:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a , , a , -n:2",Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-3.60403
+[CLS] Mike Havenaar:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",n:2 an an an an .zent:2 .",Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-3.80675
 [CLS] Soufian:3 El Hassnaoui:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.25402
 [CLS] Soufian:3 El Hassnaoui:4 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52983
+[CLS] Soufian:3 El Hassnaoui:4 [MASK] játszik:2 . [SEP],##nél,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98363
+[CLS] Soufian:3 El Hassnaoui:4 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.13082
+[CLS] Soufian:3 El Hassnaoui:4 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.24972
 [CLS] Mubárak:3 Busszufa:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,KAA:2 Gent,0,KAA:2 Gent,0,-1.74015
 [CLS] Mubárak:3 Busszufa:4 [MASK] játszik:2 . [SEP],is,KAA:2 Gent,0,KAA:2 Gent,0,-1.83437
+[CLS] Mubárak:3 Busszufa:4 [MASK] játszik:2 . [SEP],szerepet,KAA:2 Gent,0,KAA:2 Gent,0,-2.56138
+[CLS] Mubárak:3 Busszufa:4 [MASK] játszik:2 . [SEP],mellett,KAA:2 Gent,0,KAA:2 Gent,0,-2.60933
+[CLS] Mubárak:3 Busszufa:4 [MASK] játszik:2 . [SEP],néven,KAA:2 Gent,0,KAA:2 Gent,0,-2.94983
 [CLS] Khalid Sinouh:2 [MASK] játszik:2 . [SEP],##i,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.01318
 [CLS] Khalid Sinouh:2 [MASK] játszik:2 . [SEP],##e,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.08469
+[CLS] Khalid Sinouh:2 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##e egy aában:2,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.22246
+[CLS] Khalid Sinouh:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],egy -án:2,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.57311
+[CLS] Khalid Sinouh:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],az francia is,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.87176
 [CLS] Michel Breuer:3 [MASK] játszik:2 . [SEP],##ben,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-1.12297
 [CLS] Michel Breuer:3 [MASK] játszik:2 . [SEP],##ban,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.20676
+[CLS] Michel Breuer:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az az az ,r:2",SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.39816
+[CLS] Michel Breuer:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],az gitárában:2,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.71083
+[CLS] Michel Breuer:3 [MASK] játszik:2 . [SEP],##vel,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.75332
 [CLS] Youri:2 Loen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.88109
 [CLS] Youri:2 Loen:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.05004
+[CLS] Youri:2 Loen:2 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.41938
+[CLS] Youri:2 Loen:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],is anrr:4 lunr:3 .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.73595
+[CLS] Youri:2 Loen:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],estrrnnrrán:8 a,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.88457
 [CLS] Romano Denneboom:3 [MASK] játszik:2 . [SEP],##ban,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-1.02280
 [CLS] Romano Denneboom:3 [MASK] játszik:2 . [SEP],##ben,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.49662
+[CLS] Romano Denneboom:3 [MASK] játszik:2 . [SEP],mellett,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.85176
+[CLS] Romano Denneboom:3 [MASK] játszik:2 . [SEP],##hoz,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-3.68939
+[CLS] Romano Denneboom:3 [MASK] játszik:2 . [SEP],néven,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-3.69828
 [CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-1.61326
-[CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.67325
+[CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.67326
+[CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##en,Feyenoord,0,Feyenoord,0,-2.65107
+[CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##t,Feyenoord,0,Feyenoord,0,-3.18422
+[CLS] Wim Rijsbergen:3 [MASK] játszik:2 . [SEP],##nek,Feyenoord,0,Feyenoord,0,-3.33228
 [CLS] Bram:2 Appel:2 [MASK] játszik:2 . [SEP],##ben,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-1.53717
-[CLS] Bram:2 Appel:2 [MASK] játszik:2 . [SEP],##ban,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.07879
+[CLS] Bram:2 Appel:2 [MASK] játszik:2 . [SEP],##ban,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.07880
+[CLS] Bram:2 Appel:2 [MASK] játszik:2 . [SEP],oldalán,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.77345
+[CLS] Bram:2 Appel:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a , , , a an:2 ő",Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.71036
+[CLS] Bram:2 Appel:2 [MASK] [MASK] játszik:2 . [SEP],##falben:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.81736
 [CLS] Jurgen:2 Colin [MASK] játszik:2 . [SEP],##ban,AFC Ajax,0,AFC Ajax,0,-2.41091
 [CLS] Jurgen:2 Colin [MASK] játszik:2 . [SEP],##t,AFC Ajax,0,AFC Ajax,0,-2.63203
+[CLS] Jurgen:2 Colin [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-3.22592
+[CLS] Jurgen:2 Colin [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##ntt:2 azntnt:3 azrr:3,AFC Ajax,0,AFC Ajax,0,-3.71438
+[CLS] Jurgen:2 Colin [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a at:2 az az az az azr:2,AFC Ajax,0,AFC Ajax,0,-3.88835
 [CLS] Ed Kea:2 [MASK] játszik:2 . [SEP],nem,Atlanta Flames,0,Atlanta Flames,0,-2.37521
 [CLS] Ed Kea:2 [MASK] játszik:2 . [SEP],néven,Atlanta Flames,0,Atlanta Flames,0,-2.39648
+[CLS] Ed Kea:2 [MASK] játszik:2 . [SEP],mellett,Atlanta Flames,0,Atlanta Flames,0,-2.79275
+[CLS] Ed Kea:2 [MASK] játszik:2 . [SEP],is,Atlanta Flames,0,Atlanta Flames,0,-2.92771
+[CLS] Ed Kea:2 [MASK] játszik:2 . [SEP],által,Atlanta Flames,0,Atlanta Flames,0,-3.76489
 [CLS] Danny Buijs:2 [MASK] játszik:2 . [SEP],##en,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-1.70932
 [CLS] Danny Buijs:2 [MASK] játszik:2 . [SEP],##ban,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.48081
+[CLS] Danny Buijs:2 [MASK] játszik:2 . [SEP],##ben,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.82419
+[CLS] Danny Buijs:2 [MASK] játszik:2 . [SEP],##sen,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.95626
+[CLS] Danny Buijs:2 [MASK] játszik:2 . [SEP],##tel,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.02205
 [CLS] Mark Otten:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,Feyenoord,0,Feyenoord,0,-2.30706
 [CLS] Mark Otten:2 [MASK] játszik:2 . [SEP],##mann,Feyenoord,0,Feyenoord,0,-2.93239
+[CLS] Mark Otten:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",nnnnn:6 a ant:2",Feyenoord,0,Feyenoord,0,-3.44375
+[CLS] Mark Otten:2 [MASK] játszik:2 . [SEP],##baum,Feyenoord,0,Feyenoord,0,-3.53870
+[CLS] Mark Otten:2 [MASK] játszik:2 . [SEP],-,Feyenoord,0,Feyenoord,0,-3.82258
 [CLS] Roland Bergkamp:2 [MASK] játszik:2 . [SEP],##ban,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-1.37032
 [CLS] Roland Bergkamp:2 [MASK] játszik:2 . [SEP],##en,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-1.98161
+[CLS] Roland Bergkamp:2 [MASK] játszik:2 . [SEP],##ben,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-2.47862
+[CLS] Roland Bergkamp:2 [MASK] játszik:2 . [SEP],##et,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.24202
+[CLS] Roland Bergkamp:2 [MASK] játszik:2 . [SEP],##nek,SBV:2 Excelsior:2,0,SBV:2 Excelsior:2,0,-3.71838
 [CLS] Bok:2 de Korver:3 [MASK] játszik:2 . [SEP],néven,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.71100
 [CLS] Bok:2 de Korver:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.82382
+[CLS] Bok:2 de Korver:3 [MASK] játszik:2 . [SEP],után,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23723
+[CLS] Bok:2 de Korver:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35879
+[CLS] Bok:2 de Korver:3 [MASK] játszik:2 . [SEP],között,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48149
 [CLS] Serginho:3 Greene [MASK] játszik:2 . [SEP],nem,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.50248
 [CLS] Serginho:3 Greene [MASK] játszik:2 . [SEP],já,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.52989
+[CLS] Serginho:3 Greene [MASK] játszik:2 . [SEP],",",HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.85733
+[CLS] Serginho:3 Greene [MASK] játszik:2 . [SEP],a,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.96182
+[CLS] Serginho:3 Greene [MASK] játszik:2 . [SEP],-,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.02311
 [CLS] Antoine van der Linden [MASK] játszik:2 . [SEP],##ben,FC Emmen:2,0,FC Emmen:2,0,-1.21002
 [CLS] Antoine van der Linden [MASK] játszik:2 . [SEP],##ban,FC Emmen:2,0,FC Emmen:2,0,-1.99054
+[CLS] Antoine van der Linden [MASK] játszik:2 . [SEP],##nek,FC Emmen:2,0,FC Emmen:2,0,-2.80270
+[CLS] Antoine van der Linden [MASK] játszik:2 . [SEP],##en,FC Emmen:2,0,FC Emmen:2,0,-2.84642
+[CLS] Antoine van der Linden [MASK] játszik:2 . [SEP],mellett,FC Emmen:2,0,FC Emmen:2,0,-3.24122
 [CLS] Frank Wiafe:3 Danquah:3 [MASK] játszik:2 . [SEP],##ban,Newcastle United FC,0,Newcastle United FC,0,-1.36306
 [CLS] Frank Wiafe:3 Danquah:3 [MASK] játszik:2 . [SEP],##ben,Newcastle United FC,0,Newcastle United FC,0,-1.64033
+[CLS] Frank Wiafe:3 Danquah:3 [MASK] játszik:2 . [SEP],mellett,Newcastle United FC,0,Newcastle United FC,0,-2.78923
+[CLS] Frank Wiafe:3 Danquah:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],egy egy az az . nem,Newcastle United FC,0,Newcastle United FC,0,-3.42224
+[CLS] Frank Wiafe:3 Danquah:3 [MASK] játszik:2 . [SEP],városban,Newcastle United FC,0,Newcastle United FC,0,-3.62321
 [CLS] Rochdi:2 Achenteh:3 [MASK] játszik:2 . [SEP],##ban,FC Eindhoven,0,FC Eindhoven,0,-1.31253
 [CLS] Rochdi:2 Achenteh:3 [MASK] játszik:2 . [SEP],##ben,FC Eindhoven,0,FC Eindhoven,0,-1.67231
+[CLS] Rochdi:2 Achenteh:3 [MASK] játszik:2 . [SEP],##et,FC Eindhoven,0,FC Eindhoven,0,-3.07318
+[CLS] Rochdi:2 Achenteh:3 [MASK] játszik:2 . [SEP],##t,FC Eindhoven,0,FC Eindhoven,0,-3.12684
+[CLS] Rochdi:2 Achenteh:3 [MASK] játszik:2 . [SEP],##en,FC Eindhoven,0,FC Eindhoven,0,-3.53645
 [CLS] Cas:2 Ruffelse:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.45669
 [CLS] Cas:2 Ruffelse:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],egy labdarúgóában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.07676
+[CLS] Cas:2 Ruffelse:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.28789
+[CLS] Cas:2 Ruffelse:3 [MASK] játszik:2 . [SEP],tagja,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.30942
+[CLS] Cas:2 Ruffelse:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59163
 [CLS] Herman Jurgens:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.85281
 [CLS] Herman Jurgens:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.85929
+[CLS] Herman Jurgens:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.70765
+[CLS] Herman Jurgens:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.90036
+[CLS] Herman Jurgens:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22343
 [CLS] Frank Verlaat:2 [MASK] játszik:2 . [SEP],##en,SV Werder Bremen,0,SV Werder Bremen,0,-1.35457
 [CLS] Frank Verlaat:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,SV Werder Bremen,0,SV Werder Bremen,0,-3.10904
+[CLS] Frank Verlaat:2 [MASK] [MASK] játszik:2 . [SEP],##enben:2,SV Werder Bremen,0,SV Werder Bremen,0,-3.23346
+[CLS] Frank Verlaat:2 [MASK] [MASK] játszik:2 . [SEP],##t is,SV Werder Bremen,0,SV Werder Bremen,0,-3.46359
+[CLS] Frank Verlaat:2 [MASK] [MASK] játszik:2 . [SEP],##szában:2,SV Werder Bremen,0,SV Werder Bremen,0,-3.61420
 [CLS] Wim Meutstege:4 [MASK] [MASK] játszik:2 . [SEP],-t:2,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-2.07254
 [CLS] Wim Meutstege:4 [MASK] játszik:2 . [SEP],mellett,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-2.48776
+[CLS] Wim Meutstege:4 [MASK] játszik:2 . [SEP],is,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-2.82696
+[CLS] Wim Meutstege:4 [MASK] játszik:2 . [SEP],által,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.12325
+[CLS] Wim Meutstege:4 [MASK] játszik:2 . [SEP],nem,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.16701
 [CLS] Henk Fraser [MASK] játszik:2 . [SEP],##ban,Feyenoord,0,Feyenoord,0,-1.56751
-[CLS] Henk Fraser [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-2.09323
+[CLS] Henk Fraser [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-2.09324
+[CLS] Henk Fraser [MASK] játszik:2 . [SEP],##nek,Feyenoord,0,Feyenoord,0,-2.15758
+[CLS] Henk Fraser [MASK] játszik:2 . [SEP],##en,Feyenoord,0,Feyenoord,0,-2.81827
+[CLS] Henk Fraser [MASK] játszik:2 . [SEP],-,Feyenoord,0,Feyenoord,0,-3.64187
 [CLS] Rachid:2 Bouaouzan:4 [MASK] játszik:2 . [SEP],-,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-1.90998
 [CLS] Rachid:2 Bouaouzan:4 [MASK] játszik:2 . [SEP],is,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.23283
+[CLS] Rachid:2 Bouaouzan:4 [MASK] játszik:2 . [SEP],nem,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.69599
+[CLS] Rachid:2 Bouaouzan:4 [MASK] játszik:2 . [SEP],",",N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.75822
+[CLS] Rachid:2 Bouaouzan:4 [MASK] játszik:2 . [SEP],a,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.88626
 [CLS] Toon:2 Nijssen:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.22390
 [CLS] Toon:2 Nijssen:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.34762
+[CLS] Toon:2 Nijssen:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.08913
+[CLS] Toon:2 Nijssen:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.25933
+[CLS] Toon:2 Nijssen:3 [MASK] játszik:2 . [SEP],##veen,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.45574
 [CLS] Kiran:2 Bechan:2 [MASK] [MASK] játszik:2 . [SEP],##iban:2,AFC Ajax,0,AFC Ajax,0,-1.52791
 [CLS] Kiran:2 Bechan:2 [MASK] játszik:2 . [SEP],##en,AFC Ajax,0,AFC Ajax,0,-2.16979
+[CLS] Kiran:2 Bechan:2 [MASK] játszik:2 . [SEP],##e,AFC Ajax,0,AFC Ajax,0,-2.63714
+[CLS] Kiran:2 Bechan:2 [MASK] játszik:2 . [SEP],##d,AFC Ajax,0,AFC Ajax,0,-3.20301
+[CLS] Kiran:2 Bechan:2 [MASK] játszik:2 . [SEP],##a,AFC Ajax,0,AFC Ajax,0,-3.32502
 [CLS] Charles Dissels:2 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Volendam:3,0,FC Volendam:3,0,-2.11599
 [CLS] Charles Dissels:2 [MASK] játszik:2 . [SEP],##on,FC Volendam:3,0,FC Volendam:3,0,-2.66561
+[CLS] Charles Dissels:2 [MASK] játszik:2 . [SEP],##en,FC Volendam:3,0,FC Volendam:3,0,-2.88146
+[CLS] Charles Dissels:2 [MASK] játszik:2 . [SEP],által,FC Volendam:3,0,FC Volendam:3,0,-3.24549
+[CLS] Charles Dissels:2 [MASK] játszik:2 . [SEP],-,FC Volendam:3,0,FC Volendam:3,0,-3.36047
 [CLS] Edward Metgod:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.09823
 [CLS] Edward Metgod:3 [MASK] játszik:2 . [SEP],által,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.32770
+[CLS] Edward Metgod:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.37488
+[CLS] Edward Metgod:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.05914
+[CLS] Edward Metgod:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],angol .ben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.68712
 [CLS] Lorenzo Rimkus:2 [MASK] játszik:2 . [SEP],##ban,Lierse:2 SK,0,Lierse:2 SK,0,-1.29690
 [CLS] Lorenzo Rimkus:2 [MASK] játszik:2 . [SEP],##t,Lierse:2 SK,0,Lierse:2 SK,0,-2.55914
+[CLS] Lorenzo Rimkus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##e a az az a a anr:3,Lierse:2 SK,0,Lierse:2 SK,0,-3.20199
+[CLS] Lorenzo Rimkus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , , , a szet:2",Lierse:2 SK,0,Lierse:2 SK,0,-3.63814
+[CLS] Lorenzo Rimkus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##t anr:2 anrr:3 nganr:3 .,Lierse:2 SK,0,Lierse:2 SK,0,-3.88512
 [CLS] Aziz Doufikar:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Vitória FC,0,Vitória FC,0,-1.79197
 [CLS] Aziz Doufikar:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],az angolában:2,Vitória FC,0,Vitória FC,0,-2.85541
+[CLS] Aziz Doufikar:4 [MASK] játszik:2 . [SEP],nem,Vitória FC,0,Vitória FC,0,-3.09238
+[CLS] Aziz Doufikar:4 [MASK] játszik:2 . [SEP],után,Vitória FC,0,Vitória FC,0,-3.37830
+[CLS] Aziz Doufikar:4 [MASK] játszik:2 . [SEP],néven,Vitória FC,0,Vitória FC,0,-3.47902
 [CLS] Maikel:2 Renfurm:3 [MASK] játszik:2 . [SEP],##ben,St . Mirren:2 FC,0,St . Mirren:2 FC,0,-1.18019
 [CLS] Maikel:2 Renfurm:3 [MASK] játszik:2 . [SEP],##ban,St . Mirren:2 FC,0,St . Mirren:2 FC,0,-1.25138
+[CLS] Maikel:2 Renfurm:3 [MASK] [MASK] játszik:2 . [SEP],is is,St . Mirren:2 FC,0,St . Mirren:2 FC,0,-3.29794
+[CLS] Maikel:2 Renfurm:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgót:2,St . Mirren:2 FC,0,St . Mirren:2 FC,0,-3.47991
+[CLS] Maikel:2 Renfurm:3 [MASK] [MASK] játszik:2 . [SEP],táben:2,St . Mirren:2 FC,0,St . Mirren:2 FC,0,-3.80468
 [CLS] Marco van Duin:2 [MASK] játszik:2 . [SEP],##ban,FC Volendam:3,0,FC Volendam:3,0,-0.90120
 [CLS] Marco van Duin:2 [MASK] játszik:2 . [SEP],##ben,FC Volendam:3,0,FC Volendam:3,0,-1.55115
+[CLS] Marco van Duin:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],és at:2,FC Volendam:3,0,FC Volendam:3,0,-3.32243
+[CLS] Marco van Duin:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",nnnn:5 az a ann:2",FC Volendam:3,0,FC Volendam:3,0,-3.52773
+[CLS] Marco van Duin:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],am an an an amnn:3 aznt:2,FC Volendam:3,0,FC Volendam:3,0,-3.73145
 [CLS] Nathan Rutjes:3 [MASK] játszik:2 . [SEP],##en,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-1.40497
 [CLS] Nathan Rutjes:3 [MASK] játszik:2 . [SEP],##t,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-2.43779
+[CLS] Nathan Rutjes:3 [MASK] [MASK] játszik:2 . [SEP],##zkit:2,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-3.09087
+[CLS] Nathan Rutjes:3 [MASK] [MASK] játszik:2 . [SEP],##zen:2,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-3.25338
+[CLS] Nathan Rutjes:3 [MASK] játszik:2 . [SEP],##ban,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-3.37787
 [CLS] Henk Bosveld:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.58476
 [CLS] Henk Bosveld:2 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.32316
+[CLS] Henk Bosveld:2 [MASK] játszik:2 . [SEP],##et,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.71664
+[CLS] Henk Bosveld:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.78857
+[CLS] Henk Bosveld:2 [MASK] [MASK] játszik:2 . [SEP],##et nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.29452
 [CLS] Mart Dijkstra:3 [MASK] játszik:2 . [SEP],##ban,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-1.56727
 [CLS] Mart Dijkstra:3 [MASK] játszik:2 . [SEP],##nek,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-1.89016
+[CLS] Mart Dijkstra:3 [MASK] játszik:2 . [SEP],##ben,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-2.81949
+[CLS] Mart Dijkstra:3 [MASK] játszik:2 . [SEP],mellett,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-2.87017
+[CLS] Mart Dijkstra:3 [MASK] játszik:2 . [SEP],##n,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-3.02241
 [CLS] Toine:2 van Huizen:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.75109
-[CLS] Toine:2 van Huizen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.22471
+[CLS] Toine:2 van Huizen:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.22472
+[CLS] Toine:2 van Huizen:2 [MASK] játszik:2 . [SEP],##veen,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.72126
+[CLS] Toine:2 van Huizen:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.62374
+[CLS] Toine:2 van Huizen:2 [MASK] [MASK] játszik:2 . [SEP],##neket:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84758
 [CLS] Geert:2 Meijer:2 [MASK] játszik:2 . [SEP],##nek,FC Dordrecht,0,FC Dordrecht,0,-1.87967
 [CLS] Geert:2 Meijer:2 [MASK] [MASK] játszik:2 . [SEP],##nek is,FC Dordrecht,0,FC Dordrecht,0,-2.52838
+[CLS] Geert:2 Meijer:2 [MASK] játszik:2 . [SEP],is,FC Dordrecht,0,FC Dordrecht,0,-2.92891
+[CLS] Geert:2 Meijer:2 [MASK] [MASK] játszik:2 . [SEP],##t nem,FC Dordrecht,0,FC Dordrecht,0,-3.69047
+[CLS] Geert:2 Meijer:2 [MASK] játszik:2 . [SEP],##tje,FC Dordrecht,0,FC Dordrecht,0,-3.80523
 [CLS] Samuel Scheimann:3 [MASK] játszik:2 . [SEP],##ben,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-1.75208
 [CLS] Samuel Scheimann:3 [MASK] [MASK] játszik:2 . [SEP],németban:2,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-2.59642
+[CLS] Samuel Scheimann:3 [MASK] játszik:2 . [SEP],##nek,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.34706
+[CLS] Samuel Scheimann:3 [MASK] játszik:2 . [SEP],után,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.38140
+[CLS] Samuel Scheimann:3 [MASK] játszik:2 . [SEP],mellett,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.89389
 [CLS] Petrus van Rhijn:3 [MASK] játszik:2 . [SEP],##tje,Valenciennes FC,0,Valenciennes FC,0,-1.63484
 [CLS] Petrus van Rhijn:3 [MASK] játszik:2 . [SEP],##t,Valenciennes FC,0,Valenciennes FC,0,-2.26767
+[CLS] Petrus van Rhijn:3 [MASK] játszik:2 . [SEP],##dt,Valenciennes FC,0,Valenciennes FC,0,-2.54256
+[CLS] Petrus van Rhijn:3 [MASK] [MASK] játszik:2 . [SEP],##dtt:2,Valenciennes FC,0,Valenciennes FC,0,-3.36751
+[CLS] Petrus van Rhijn:3 [MASK] [MASK] játszik:2 . [SEP],##burgh is,Valenciennes FC,0,Valenciennes FC,0,-3.55647
 [CLS] Alí:2 el - Hattábí:3 [MASK] játszik:2 . [SEP],##n,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-1.10658
 [CLS] Alí:2 el - Hattábí:3 [MASK] játszik:2 . [SEP],##ban,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-1.40445
+[CLS] Alí:2 el - Hattábí:3 [MASK] játszik:2 . [SEP],##ában,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-2.89830
+[CLS] Alí:2 el - Hattábí:3 [MASK] játszik:2 . [SEP],##l,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-2.94505
+[CLS] Alí:2 el - Hattábí:3 [MASK] [MASK] játszik:2 . [SEP],##szában:2,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-3.72970
 [CLS] Jos van Eck:2 [MASK] [MASK] játszik:2 . [SEP],##velden:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.01963
 [CLS] Jos van Eck:2 [MASK] [MASK] játszik:2 . [SEP],##henben:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.72614
+[CLS] Jos van Eck:2 [MASK] játszik:2 . [SEP],##hen,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.87442
+[CLS] Jos van Eck:2 [MASK] játszik:2 . [SEP],##veld,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.01745
+[CLS] Jos van Eck:2 [MASK] [MASK] játszik:2 . [SEP],##hovenn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35072
 [CLS] Brutil:3 Hosé:2 [MASK] játszik:2 . [SEP],##n,FC Dordrecht,0,FC Dordrecht,0,-1.78835
 [CLS] Brutil:3 Hosé:2 [MASK] játszik:2 . [SEP],##nek,FC Dordrecht,0,FC Dordrecht,0,-2.18239
+[CLS] Brutil:3 Hosé:2 [MASK] játszik:2 . [SEP],##t,FC Dordrecht,0,FC Dordrecht,0,-2.68690
+[CLS] Brutil:3 Hosé:2 [MASK] játszik:2 . [SEP],##vel,FC Dordrecht,0,FC Dordrecht,0,-2.80762
+[CLS] Brutil:3 Hosé:2 [MASK] játszik:2 . [SEP],##ben,FC Dordrecht,0,FC Dordrecht,0,-2.95178
 [CLS] Nourdin:2 Boukhari:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,Wisła:3 Kraków SA,0,Wisła:3 Kraków SA,0,-1.79076
 [CLS] Nourdin:2 Boukhari:3 [MASK] játszik:2 . [SEP],##ban,Wisła:3 Kraków SA,0,Wisła:3 Kraków SA,0,-2.62064
+[CLS] Nourdin:2 Boukhari:3 [MASK] játszik:2 . [SEP],##ában,Wisła:3 Kraków SA,0,Wisła:3 Kraków SA,0,-2.63135
+[CLS] Nourdin:2 Boukhari:3 [MASK] játszik:2 . [SEP],között,Wisła:3 Kraków SA,0,Wisła:3 Kraków SA,0,-3.21747
+[CLS] Nourdin:2 Boukhari:3 [MASK] játszik:2 . [SEP],mellett,Wisła:3 Kraków SA,0,Wisła:3 Kraków SA,0,-3.33504
 [CLS] Stefan Maletić:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,TOP Oss:2,0,TOP Oss:2,0,-2.05147
 [CLS] Stefan Maletić:3 [MASK] játszik:2 . [SEP],##nek,TOP Oss:2,0,TOP Oss:2,0,-2.64629
+[CLS] Stefan Maletić:3 [MASK] játszik:2 . [SEP],is,TOP Oss:2,0,TOP Oss:2,0,-2.66458
+[CLS] Stefan Maletić:3 [MASK] játszik:2 . [SEP],-,TOP Oss:2,0,TOP Oss:2,0,-3.00819
+[CLS] Stefan Maletić:3 [MASK] játszik:2 . [SEP],##ben,TOP Oss:2,0,TOP Oss:2,0,-3.17738
 [CLS] Joshua John [MASK] [MASK] játszik:2 . [SEP],-ban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.28461
 [CLS] Joshua John [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],ofnn:3 az . aznt:2 .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22948
+[CLS] Joshua John [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",nt:2 aznn:3 . .t:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.44733
+[CLS] Joshua John [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a ,nt:2 antnt:3 aznt:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59827
+[CLS] Joshua John [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"##n a ,nt:2 a aán:2 a",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84158
 [CLS] Dick Schreuder:3 [MASK] játszik:2 . [SEP],##ben,Stoke City FC,0,Stoke City FC,0,-0.81957
 [CLS] Dick Schreuder:3 [MASK] játszik:2 . [SEP],##ban,Stoke City FC,0,Stoke City FC,0,-2.96784
+[CLS] Dick Schreuder:3 [MASK] [MASK] játszik:2 . [SEP],német is,Stoke City FC,0,Stoke City FC,0,-3.22793
+[CLS] Dick Schreuder:3 [MASK] [MASK] játszik:2 . [SEP],##nekben:2,Stoke City FC,0,Stoke City FC,0,-3.39698
+[CLS] Dick Schreuder:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],- .t:2,Stoke City FC,0,Stoke City FC,0,-3.75661
 [CLS] Donovan Deekman:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.71786
 [CLS] Donovan Deekman:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.65496
+[CLS] Donovan Deekman:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.99554
+[CLS] Donovan Deekman:3 [MASK] játszik:2 . [SEP],##nál,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.41854
+[CLS] Donovan Deekman:3 [MASK] játszik:2 . [SEP],néven,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.82848
 [CLS] John den Dunnen:2 [MASK] játszik:2 . [SEP],##ben,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-0.86905
 [CLS] John den Dunnen:2 [MASK] játszik:2 . [SEP],##nek,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-2.44536
+[CLS] John den Dunnen:2 [MASK] játszik:2 . [SEP],##ban,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.29294
+[CLS] John den Dunnen:2 [MASK] [MASK] játszik:2 . [SEP],németen:2,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.78296
+[CLS] John den Dunnen:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],és néen:2,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.98042
 [CLS] Jens van Son [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.94843
 [CLS] Jens van Son [MASK] [MASK] játszik:2 . [SEP],##enban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29044
+[CLS] Jens van Son [MASK] [MASK] játszik:2 . [SEP],##ten:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.96653
+[CLS] Jens van Son [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98809
+[CLS] Jens van Son [MASK] játszik:2 . [SEP],##re,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.21995
 [CLS] Glenn Helder:2 [MASK] játszik:2 . [SEP],##ben,Arsenal FC,0,Arsenal FC,0,-1.43235
 [CLS] Glenn Helder:2 [MASK] játszik:2 . [SEP],##ban,Arsenal FC,0,Arsenal FC,0,-2.53038
+[CLS] Glenn Helder:2 [MASK] játszik:2 . [SEP],##nek,Arsenal FC,0,Arsenal FC,0,-3.13890
+[CLS] Glenn Helder:2 [MASK] játszik:2 . [SEP],nem,Arsenal FC,0,Arsenal FC,0,-3.69960
+[CLS] Glenn Helder:2 [MASK] játszik:2 . [SEP],által,Arsenal FC,0,Arsenal FC,0,-3.79795
 [CLS] Adri:2 van Staveren:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.80634
 [CLS] Adri:2 van Staveren:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.45742
+[CLS] Adri:2 van Staveren:3 [MASK] [MASK] játszik:2 . [SEP],hangen:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.33014
+[CLS] Adri:2 van Staveren:3 [MASK] [MASK] játszik:2 . [SEP],dobában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.51779
+[CLS] Adri:2 van Staveren:3 [MASK] [MASK] játszik:2 . [SEP],szóet:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.66272
 [CLS] Lars Veldwijk:3 [MASK] játszik:2 . [SEP],##ben,FC Volendam:3,0,FC Volendam:3,0,-1.51929
 [CLS] Lars Veldwijk:3 [MASK] játszik:2 . [SEP],##ban,FC Volendam:3,0,FC Volendam:3,0,-1.75940
+[CLS] Lars Veldwijk:3 [MASK] játszik:2 . [SEP],##en,FC Volendam:3,0,FC Volendam:3,0,-2.35537
+[CLS] Lars Veldwijk:3 [MASK] játszik:2 . [SEP],##nek,FC Volendam:3,0,FC Volendam:3,0,-2.52885
+[CLS] Lars Veldwijk:3 [MASK] játszik:2 . [SEP],##hez,FC Volendam:3,0,FC Volendam:3,0,-3.20024
 [CLS] Jan Olde:2 Riekerink:4 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.48419
 [CLS] Jan Olde:2 Riekerink:4 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.73118
+[CLS] Jan Olde:2 Riekerink:4 [MASK] játszik:2 . [SEP],##nél,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.77710
+[CLS] Jan Olde:2 Riekerink:4 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23279
+[CLS] Jan Olde:2 Riekerink:4 [MASK] játszik:2 . [SEP],##ből,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40812
 [CLS] Dennis de Nooijer:3 [MASK] [MASK] játszik:2 . [SEP],- is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.33098
 [CLS] Dennis de Nooijer:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.50977
+[CLS] Dennis de Nooijer:3 [MASK] játszik:2 . [SEP],##t,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.72201
+[CLS] Dennis de Nooijer:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.03018
+[CLS] Dennis de Nooijer:3 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32047
 [CLS] Gerard van der Lem:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -t:2,Feyenoord,0,Feyenoord,0,-2.45263
 [CLS] Gerard van der Lem:2 [MASK] [MASK] játszik:2 . [SEP],##ken:2,Feyenoord,0,Feyenoord,0,-3.14711
+[CLS] Gerard van der Lem:2 [MASK] játszik:2 . [SEP],##pen,Feyenoord,0,Feyenoord,0,-3.40636
+[CLS] Gerard van der Lem:2 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-3.41296
+[CLS] Gerard van der Lem:2 [MASK] játszik:2 . [SEP],nem,Feyenoord,0,Feyenoord,0,-3.56304
 [CLS] Willy Scheepers:3 [MASK] játszik:2 . [SEP],##en,PSV Eindhoven,0,PSV Eindhoven,0,-1.79458
 [CLS] Willy Scheepers:3 [MASK] játszik:2 . [SEP],##ben,PSV Eindhoven,0,PSV Eindhoven,0,-1.91189
+[CLS] Willy Scheepers:3 [MASK] játszik:2 . [SEP],##ban,PSV Eindhoven,0,PSV Eindhoven,0,-2.58479
+[CLS] Willy Scheepers:3 [MASK] játszik:2 . [SEP],##nek,PSV Eindhoven,0,PSV Eindhoven,0,-3.23345
+[CLS] Willy Scheepers:3 [MASK] játszik:2 . [SEP],##tel,PSV Eindhoven,0,PSV Eindhoven,0,-3.72832
 [CLS] Eric Abdul [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.65512
 [CLS] Eric Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. az . . az .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17792
+[CLS] Eric Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##a an:2 az .nntn:4,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40047
+[CLS] Eric Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],.nt:2 aznn:3 az azt:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.65761
+[CLS] Eric Abdul [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##mantntntnt:6 ant:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.89401
 [CLS] Robert Kok:2 [MASK] [MASK] játszik:2 . [SEP],##cban:2,AFC Ajax,0,AFC Ajax,0,-2.08559
 [CLS] Robert Kok:2 [MASK] [MASK] játszik:2 . [SEP],##vicában:2,AFC Ajax,0,AFC Ajax,0,-3.11252
-[CLS] Quenten:2 Martinus [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.33547
+[CLS] Robert Kok:2 [MASK] [MASK] játszik:2 . [SEP],##csnek:2,AFC Ajax,0,AFC Ajax,0,-3.39801
+[CLS] Robert Kok:2 [MASK] [MASK] játszik:2 . [SEP],##łot:2,AFC Ajax,0,AFC Ajax,0,-3.52271
+[CLS] Robert Kok:2 [MASK] [MASK] játszik:2 . [SEP],##řiben:2,AFC Ajax,0,AFC Ajax,0,-3.72318
+[CLS] Quenten:2 Martinus [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.33546
 [CLS] Quenten:2 Martinus [MASK] [MASK] játszik:2 . [SEP],csapatban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.82718
+[CLS] Quenten:2 Martinus [MASK] játszik:2 . [SEP],##nál,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22522
+[CLS] Quenten:2 Martinus [MASK] [MASK] játszik:2 . [SEP],Stadionában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.49800
+[CLS] Quenten:2 Martinus [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.63333
 [CLS] Paul Gladon:3 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-0.89473
 [CLS] Paul Gladon:3 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.83318
+[CLS] Paul Gladon:3 [MASK] játszik:2 . [SEP],által,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.09876
+[CLS] Paul Gladon:3 [MASK] játszik:2 . [SEP],mellett,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.49089
+[CLS] Paul Gladon:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],nga az azenn:4 an . azr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.97374
 [CLS] Adnane:3 Tighadouini:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Volendam:3,0,FC Volendam:3,0,-1.73508
 [CLS] Adnane:3 Tighadouini:4 [MASK] játszik:2 . [SEP],##ban,FC Volendam:3,0,FC Volendam:3,0,-2.44359
+[CLS] Adnane:3 Tighadouini:4 [MASK] játszik:2 . [SEP],##l,FC Volendam:3,0,FC Volendam:3,0,-2.57120
+[CLS] Adnane:3 Tighadouini:4 [MASK] játszik:2 . [SEP],##vel,FC Volendam:3,0,FC Volendam:3,0,-2.88486
+[CLS] Adnane:3 Tighadouini:4 [MASK] játszik:2 . [SEP],##ben,FC Volendam:3,0,FC Volendam:3,0,-2.94553
 [CLS] Gérard de Nooijer:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,Feyenoord,0,Feyenoord,0,-1.84249
 [CLS] Gérard de Nooijer:3 [MASK] játszik:2 . [SEP],##ben,Feyenoord,0,Feyenoord,0,-1.97698
+[CLS] Gérard de Nooijer:3 [MASK] játszik:2 . [SEP],##hez,Feyenoord,0,Feyenoord,0,-2.45144
+[CLS] Gérard de Nooijer:3 [MASK] játszik:2 . [SEP],##t,Feyenoord,0,Feyenoord,0,-2.67648
+[CLS] Gérard de Nooijer:3 [MASK] játszik:2 . [SEP],mellett,Feyenoord,0,Feyenoord,0,-3.33963
 [CLS] John Nieuwenburg:2 [MASK] [MASK] játszik:2 . [SEP],##hban:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.17271
-[CLS] John Nieuwenburg:2 [MASK] játszik:2 . [SEP],##hen,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.89976
+[CLS] John Nieuwenburg:2 [MASK] játszik:2 . [SEP],##hen,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.89977
+[CLS] John Nieuwenburg:2 [MASK] játszik:2 . [SEP],##hem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.34498
+[CLS] John Nieuwenburg:2 [MASK] játszik:2 . [SEP],##he,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.73220
+[CLS] John Nieuwenburg:2 [MASK] játszik:2 . [SEP],##hel,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.63880
 [CLS] Frank Broers:2 [MASK] játszik:2 . [SEP],##ban,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.67929
 [CLS] Frank Broers:2 [MASK] játszik:2 . [SEP],##ben,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.00835
+[CLS] Frank Broers:2 [MASK] játszik:2 . [SEP],##en,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.76111
+[CLS] Frank Broers:2 [MASK] játszik:2 . [SEP],##nek,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47771
+[CLS] Frank Broers:2 [MASK] [MASK] játszik:2 . [SEP],##mannek:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.68884
 [CLS] Silvio Diliberto:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91208
 [CLS] Silvio Diliberto:3 [MASK] játszik:2 . [SEP],nem,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.69970
+[CLS] Silvio Diliberto:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz aában:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12965
+[CLS] Silvio Diliberto:3 [MASK] játszik:2 . [SEP],is,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.29792
+[CLS] Silvio Diliberto:3 [MASK] játszik:2 . [SEP],dal,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35167
 [CLS] Anouar:2 Diba:2 [MASK] [MASK] játszik:2 . [SEP],##baban:2,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-2.30321
 [CLS] Anouar:2 Diba:2 [MASK] játszik:2 . [SEP],##ban,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-2.96528
+[CLS] Anouar:2 Diba:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##b a a a a a ő ő .,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-3.56942
+[CLS] Anouar:2 Diba:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"##qen:3 , , ,n:2 az ő",Al Nasr:2 SC,0,Al Nasr:2 SC,0,-3.77479
+[CLS] Anouar:2 Diba:2 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##a angol labdarúgó ban,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-3.97035
 [CLS] Brahim:3 Zaari:2 [MASK] játszik:2 . [SEP],##t,FC Eindhoven,0,FC Eindhoven,0,-2.28248
 [CLS] Brahim:3 Zaari:2 [MASK] játszik:2 . [SEP],##ban,FC Eindhoven,0,FC Eindhoven,0,-2.86960
+[CLS] Brahim:3 Zaari:2 [MASK] játszik:2 . [SEP],##l,FC Eindhoven,0,FC Eindhoven,0,-3.01471
+[CLS] Brahim:3 Zaari:2 [MASK] játszik:2 . [SEP],##ában,FC Eindhoven,0,FC Eindhoven,0,-3.51340
+[CLS] Brahim:3 Zaari:2 [MASK] játszik:2 . [SEP],##d,FC Eindhoven,0,FC Eindhoven,0,-3.78860
 [CLS] Jack Tuyp:2 [MASK] játszik:2 . [SEP],##ben,FC Volendam:3,0,FC Volendam:3,0,-1.06515
 [CLS] Jack Tuyp:2 [MASK] játszik:2 . [SEP],##ban,FC Volendam:3,0,FC Volendam:3,0,-2.15065
+[CLS] Jack Tuyp:2 [MASK] [MASK] játszik:2 . [SEP],##nekt:2,FC Volendam:3,0,FC Volendam:3,0,-3.68266
+[CLS] Jack Tuyp:2 [MASK] játszik:2 . [SEP],mellett,FC Volendam:3,0,FC Volendam:3,0,-3.74877
+[CLS] Jack Tuyp:2 [MASK] játszik:2 . [SEP],##nek,FC Volendam:3,0,FC Volendam:3,0,-3.76999
 [CLS] Oussama:3 Tannane:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.66252
 [CLS] Oussama:3 Tannane:3 [MASK] játszik:2 . [SEP],nem,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.21060
+[CLS] Oussama:3 Tannane:3 [MASK] játszik:2 . [SEP],##ben,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.50070
+[CLS] Oussama:3 Tannane:3 [MASK] játszik:2 . [SEP],##ban,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.84403
+[CLS] Oussama:3 Tannane:3 [MASK] [MASK] játszik:2 . [SEP],angol ban,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.32348
 [CLS] Yassine:3 Ayoub:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,FC Utrecht,0,FC Utrecht,0,-1.61149
 [CLS] Yassine:3 Ayoub:3 [MASK] játszik:2 . [SEP],",",FC Utrecht,0,FC Utrecht,0,-2.41944
+[CLS] Yassine:3 Ayoub:3 [MASK] játszik:2 . [SEP],a,FC Utrecht,0,FC Utrecht,0,-2.72448
+[CLS] Yassine:3 Ayoub:3 [MASK] játszik:2 . [SEP],is,FC Utrecht,0,FC Utrecht,0,-3.05589
+[CLS] Yassine:3 Ayoub:3 [MASK] játszik:2 . [SEP],##ban,FC Utrecht,0,FC Utrecht,0,-3.29910
 [CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],##en,Queensland Lions FC,0,Queensland Lions FC,0,-1.85234
-[CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],##e,Queensland Lions FC,0,Queensland Lions FC,0,-3.01646
+[CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],##e,Queensland Lions FC,0,Queensland Lions FC,0,-3.01647
+[CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],is,Queensland Lions FC,0,Queensland Lions FC,0,-3.15537
+[CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],##t,Queensland Lions FC,0,Queensland Lions FC,0,-3.19687
+[CLS] Boudewijn:4 de Geer:2 [MASK] játszik:2 . [SEP],nem,Queensland Lions FC,0,Queensland Lions FC,0,-3.39379
 [CLS] Mimoun:2 Mahi:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az . . . . . .nn:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.79020
 [CLS] Mimoun:2 Mahi:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],.nnnnnn:7 .t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.21751
+[CLS] Mimoun:2 Mahi:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a az . az a a az .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.50899
+[CLS] Mimoun:2 Mahi:2 [MASK] játszik:2 . [SEP],##za,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75676
+[CLS] Mimoun:2 Mahi:2 [MASK] játszik:2 . [SEP],##va,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.98751
 [CLS] Tarik:2 Tissoudali:4 [MASK] játszik:2 . [SEP],is,SC Telstar:2,0,SC Telstar:2,0,-1.61610
-[CLS] Tarik:2 Tissoudali:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],egy aában:2,SC Telstar:2,0,SC Telstar:2,0,-2.71756
+[CLS] Tarik:2 Tissoudali:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],egy aában:2,SC Telstar:2,0,SC Telstar:2,0,-2.71757
+[CLS] Tarik:2 Tissoudali:4 [MASK] játszik:2 . [SEP],",",SC Telstar:2,0,SC Telstar:2,0,-3.01665
+[CLS] Tarik:2 Tissoudali:4 [MASK] játszik:2 . [SEP],a,SC Telstar:2,0,SC Telstar:2,0,-3.34516
+[CLS] Tarik:2 Tissoudali:4 [MASK] játszik:2 . [SEP],nem,SC Telstar:2,0,SC Telstar:2,0,-3.69156
 [CLS] Ismail H ' Maidat:2 [MASK] játszik:2 . [SEP],##t,Brescia Calcio,0,Brescia Calcio,0,-1.59566
 [CLS] Ismail H ' Maidat:2 [MASK] játszik:2 . [SEP],##ban,Brescia Calcio,0,Brescia Calcio,0,-2.17591
+[CLS] Ismail H ' Maidat:2 [MASK] [MASK] játszik:2 . [SEP],##h is,Brescia Calcio,0,Brescia Calcio,0,-3.25161
+[CLS] Ismail H ' Maidat:2 [MASK] [MASK] játszik:2 . [SEP],##z ban,Brescia Calcio,0,Brescia Calcio,0,-3.53962
+[CLS] Ismail H ' Maidat:2 [MASK] [MASK] játszik:2 . [SEP],##szában:2,Brescia Calcio,0,Brescia Calcio,0,-3.79175
 [CLS] Herzl:2 Fritzner:2 [MASK] játszik:2 . [SEP],##ben,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-0.87128
 [CLS] Herzl:2 Fritzner:2 [MASK] játszik:2 . [SEP],##nek,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.08566
+[CLS] Herzl:2 Fritzner:2 [MASK] játszik:2 . [SEP],##ban,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.18935
+[CLS] Herzl:2 Fritzner:2 [MASK] játszik:2 . [SEP],##nél,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.63421
+[CLS] Herzl:2 Fritzner:2 [MASK] játszik:2 . [SEP],##t,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.86045
 [CLS] Oussama:3 Idrissi:2 [MASK] játszik:2 . [SEP],is,FC Groningen,0,FC Groningen,0,-2.03097
 [CLS] Oussama:3 Idrissi:2 [MASK] játszik:2 . [SEP],-,FC Groningen,0,FC Groningen,0,-2.16649
+[CLS] Oussama:3 Idrissi:2 [MASK] játszik:2 . [SEP],mellett,FC Groningen,0,FC Groningen,0,-3.13555
+[CLS] Oussama:3 Idrissi:2 [MASK] játszik:2 . [SEP],",",FC Groningen,0,FC Groningen,0,-3.51470
+[CLS] Oussama:3 Idrissi:2 [MASK] [MASK] játszik:2 . [SEP],háten:2,FC Groningen,0,FC Groningen,0,-3.60440
 [CLS] Noussair:3 Mazraoui:4 [MASK] játszik:2 . [SEP],##ban,AFC Ajax,0,AFC Ajax,0,-1.93383
 [CLS] Noussair:3 Mazraoui:4 [MASK] játszik:2 . [SEP],##ben,AFC Ajax,0,AFC Ajax,0,-2.91832
-[CLS] Souffian:3 El Karouani:3 [MASK] játszik:2 . [SEP],##ban,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-0.66984
+[CLS] Noussair:3 Mazraoui:4 [MASK] játszik:2 . [SEP],is,AFC Ajax,0,AFC Ajax,0,-3.07993
+[CLS] Noussair:3 Mazraoui:4 [MASK] játszik:2 . [SEP],##l,AFC Ajax,0,AFC Ajax,0,-3.21770
+[CLS] Noussair:3 Mazraoui:4 [MASK] játszik:2 . [SEP],##vel,AFC Ajax,0,AFC Ajax,0,-3.27523
+[CLS] Souffian:3 El Karouani:3 [MASK] játszik:2 . [SEP],##ban,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-0.66983
 [CLS] Souffian:3 El Karouani:3 [MASK] játszik:2 . [SEP],##ben,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-2.82993
+[CLS] Souffian:3 El Karouani:3 [MASK] [MASK] játszik:2 . [SEP],város is,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-3.27518
+[CLS] Souffian:3 El Karouani:3 [MASK] játszik:2 . [SEP],##ában,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-3.36918
+[CLS] Souffian:3 El Karouani:3 [MASK] játszik:2 . [SEP],##n,N . E . C . Nijmegen,0,N . E . C . Nijmegen,0,-3.62432
 [CLS] Mounir:2 El Hamdaoui:3 [MASK] játszik:2 . [SEP],##ban,Willem II,0,Willem II,0,-1.72669
 [CLS] Mounir:2 El Hamdaoui:3 [MASK] játszik:2 . [SEP],##vel,Willem II,0,Willem II,0,-2.65120
+[CLS] Mounir:2 El Hamdaoui:3 [MASK] játszik:2 . [SEP],##l,Willem II,0,Willem II,0,-3.06433
+[CLS] Mounir:2 El Hamdaoui:3 [MASK] játszik:2 . [SEP],##ben,Willem II,0,Willem II,0,-3.12835
+[CLS] Mounir:2 El Hamdaoui:3 [MASK] játszik:2 . [SEP],##z,Willem II,0,Willem II,0,-3.24714

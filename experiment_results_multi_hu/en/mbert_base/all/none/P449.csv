@@ -1,395 +1,986 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] DC Cupcakes:3 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.89711
 [CLS] DC Cupcakes:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.47193
+[CLS] DC Cupcakes:3 eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-2.52848
+[CLS] DC Cupcakes:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.54382
+[CLS] DC Cupcakes:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szen:2 a az az ,reet:3",TLC:2,0,TLC:2,0,-3.83435
 [CLS] Doña Bella eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,RCN:2 TV,0,RCN:2 TV,0,-1.95476
 [CLS] Doña Bella eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,RCN:2 TV,0,RCN:2 TV,0,-2.64053
+[CLS] Doña Bella eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"azzat:2 , a . , aznn:3",RCN:2 TV,0,RCN:2 TV,0,-3.45786
+[CLS] Doña Bella eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", film a . . és filml:2",RCN:2 TV,0,RCN:2 TV,0,-3.61001
+[CLS] Doña Bella eredetileg [MASK] sugározták:4 . [SEP],Franciaországban,RCN:2 TV,0,RCN:2 TV,0,-3.89949
 [CLS] American Hot Rod eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , , a a -t:2",TLC:2,0,TLC:2,0,-2.08806
 [CLS] American Hot Rod eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a - . . az az .re:2,TLC:2,0,TLC:2,0,-2.67262
+[CLS] American Hot Rod eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azt:2 , a az . .ren:3",TLC:2,0,TLC:2,0,-3.13103
+[CLS] American Hot Rod eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A ,t:2 és és , ,re:2 is",TLC:2,0,TLC:2,0,-3.58966
+[CLS] American Hot Rod eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.75140
 [CLS] Miami Ink:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],Miami -t:2,TLC:2,0,TLC:2,0,-1.52242
 [CLS] Miami Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és az .re:2",TLC:2,0,TLC:2,0,-2.59753
+[CLS] Miami Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - . . . azn:2,TLC:2,0,TLC:2,0,-3.04984
+[CLS] Miami Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - - . és és is",TLC:2,0,TLC:2,0,-3.41159
+[CLS] Miami Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Miami az a az , , és",TLC:2,0,TLC:2,0,-3.70858
 [CLS] Who Do You Think You Are ? eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-0.94721
 [CLS] Who Do You Think You Are ? eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.47837
+[CLS] Who Do You Think You Are ? eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.93284
+[CLS] Who Do You Think You Are ? eredetileg [MASK] [MASK] sugározták:4 . [SEP],azre:2,TLC:2,0,TLC:2,0,-3.29680
+[CLS] Who Do You Think You Are ? eredetileg [MASK] [MASK] sugározták:4 . [SEP],briten:2,TLC:2,0,TLC:2,0,-3.53427
 [CLS] LA Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,TLC:2,0,TLC:2,0,-1.81610
 [CLS] LA Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , . . .re:2",TLC:2,0,TLC:2,0,-2.69955
+[CLS] LA Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az és . és az azn:2,TLC:2,0,TLC:2,0,-2.99474
+[CLS] LA Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az a , és ésre:2",TLC:2,0,TLC:2,0,-3.51738
+[CLS] LA Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Azattt:4 , észatl:3",TLC:2,0,TLC:2,0,-3.70137
 [CLS] Peep:2 and the Big Wide World eredetileg [MASK] sugározták:4 . [SEP],nem,PBS Kids,0,PBS Kids,0,-1.71574
 [CLS] Peep:2 and the Big Wide World eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,PBS Kids,0,PBS Kids,0,-2.48316
+[CLS] Peep:2 and the Big Wide World eredetileg [MASK] sugározták:4 . [SEP],is,PBS Kids,0,PBS Kids,0,-2.74387
+[CLS] Peep:2 and the Big Wide World eredetileg [MASK] sugározták:4 . [SEP],itt,PBS Kids,0,PBS Kids,0,-3.37995
+[CLS] Peep:2 and the Big Wide World eredetileg [MASK] sugározták:4 . [SEP],Disney,PBS Kids,0,PBS Kids,0,-3.41874
 [CLS] Nitro:2 Circus eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , , és a -t:2",MTV2:2 Pop,0,MTV2:2 Pop,0,-2.12509
 [CLS] Nitro:2 Circus eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . a . -re:2",MTV2:2 Pop,0,MTV2:2 Pop,0,-2.70683
+[CLS] Nitro:2 Circus eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 és az azatn:3,MTV2:2 Pop,0,MTV2:2 Pop,0,-2.99797
+[CLS] Nitro:2 Circus eredetileg [MASK] sugározták:4 . [SEP],is,MTV2:2 Pop,0,MTV2:2 Pop,0,-3.14469
+[CLS] Nitro:2 Circus eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,MTV2:2 Pop,0,MTV2:2 Pop,0,-3.24064
 [CLS] Medical Detectives:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.89007
 [CLS] Medical Detectives:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.59477
+[CLS] Medical Detectives:2 eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-2.65418
+[CLS] Medical Detectives:2 eredetileg [MASK] sugározták:4 . [SEP],CBS,TLC:2,0,TLC:2,0,-3.21027
+[CLS] Medical Detectives:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.77289
 [CLS] El amor no tiene precio eredetileg [MASK] sugározták:4 . [SEP],nem,XEW:3 - TV,0,XEW:3 - TV,0,-2.21029
 [CLS] El amor no tiene precio eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a . . . . , azrere:3",XEW:3 - TV,0,XEW:3 - TV,0,-3.04308
+[CLS] El amor no tiene precio eredetileg [MASK] sugározták:4 . [SEP],##t,XEW:3 - TV,0,XEW:3 - TV,0,-3.26195
+[CLS] El amor no tiene precio eredetileg [MASK] sugározták:4 . [SEP],is,XEW:3 - TV,0,XEW:3 - TV,0,-3.36559
+[CLS] El amor no tiene precio eredetileg [MASK] sugározták:4 . [SEP],filmet,XEW:3 - TV,0,XEW:3 - TV,0,-3.75609
 [CLS] Overhaulin:3 ' eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.80251
 [CLS] Overhaulin:3 ' eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . a . .re:2",TLC:2,0,TLC:2,0,-2.83146
+[CLS] Overhaulin:3 ' eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az -t:2 és , a azn:2",TLC:2,0,TLC:2,0,-3.23258
+[CLS] Overhaulin:3 ' eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és a . , éset:2",TLC:2,0,TLC:2,0,-3.60166
+[CLS] Overhaulin:3 ' eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-3.74266
 [CLS] The Little Couple:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , , , a a -t:2",TLC:2,0,TLC:2,0,-2.11748
 [CLS] The Little Couple:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.58768
+[CLS] The Little Couple:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.85238
+[CLS] The Little Couple:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - és - a . ,ren:3",TLC:2,0,TLC:2,0,-3.50939
+[CLS] The Little Couple:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.61044
 [CLS] Sister Wives:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.02968
 [CLS] Sister Wives:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.20525
+[CLS] Sister Wives:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.35817
+[CLS] Sister Wives:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországonen:2,TLC:2,0,TLC:2,0,-3.41139
+[CLS] Sister Wives:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a a az és és ésl:2",TLC:2,0,TLC:2,0,-3.85014
 [CLS] Cake:2 Boss eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,TLC:2,0,TLC:2,0,-2.01688
 [CLS] Cake:2 Boss eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a , , , az az azre:2",TLC:2,0,TLC:2,0,-2.76672
+[CLS] Cake:2 Boss eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az aztt:3 és , aren:3",TLC:2,0,TLC:2,0,-3.17693
+[CLS] Cake:2 Boss eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,tt:3 és ,rel:3",TLC:2,0,TLC:2,0,-3.60310
+[CLS] Cake:2 Boss eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],Ae:2 és a az ése:2 is,TLC:2,0,TLC:2,0,-3.88124
 [CLS] Here Comes Honey Boo Boo eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.55231
 [CLS] Here Comes Honey Boo Boo eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.08284
+[CLS] Here Comes Honey Boo Boo eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.19328
+[CLS] Here Comes Honey Boo Boo eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", me , . és a . , azen:2",TLC:2,0,TLC:2,0,-3.48864
+[CLS] Here Comes Honey Boo Boo eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A szkn:3 a az és szk:2 alapján,TLC:2,0,TLC:2,0,-3.84408
 [CLS] Say Yes to the Dress:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.64172
 [CLS] Say Yes to the Dress:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a ,t:2 . és . az .re:2",TLC:2,0,TLC:2,0,-2.91054
+[CLS] Say Yes to the Dress:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - . és . , .ren:3",TLC:2,0,TLC:2,0,-3.19446
+[CLS] Say Yes to the Dress:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azt:2 - a a és ,en:2 is",TLC:2,0,TLC:2,0,-3.50916
+[CLS] Say Yes to the Dress:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-3.65277
 [CLS] 19 Kids and Counting:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.98107
 [CLS] 19 Kids and Counting:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.29032
+[CLS] 19 Kids and Counting:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - . . és és azzatn:3,TLC:2,0,TLC:2,0,-3.07157
+[CLS] 19 Kids and Counting:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.16008
+[CLS] 19 Kids and Counting:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A - és és a az az ésen:2 is,TLC:2,0,TLC:2,0,-3.71598
 [CLS] Hoarding:3 : Buried:2 Alive eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-0.59027
 [CLS] Hoarding:3 : Buried:2 Alive eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.91814
+[CLS] Hoarding:3 : Buried:2 Alive eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.97054
+[CLS] Hoarding:3 : Buried:2 Alive eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -en:2 - a a . , ,en:2",TLC:2,0,TLC:2,0,-3.52106
+[CLS] Hoarding:3 : Buried:2 Alive eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A azt:2 ést:2 az az ésreet:3,TLC:2,0,TLC:2,0,-3.92872
 [CLS] Morelia:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . és és -t:2,XEW:3 - TV,0,XEW:3 - TV,0,-2.14262
 [CLS] Morelia:2 eredetileg [MASK] sugározták:4 . [SEP],Olaszországban,XEW:3 - TV,0,XEW:3 - TV,0,-2.57489
+[CLS] Morelia:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , és . , ann:3",XEW:3 - TV,0,XEW:3 - TV,0,-3.21240
+[CLS] Morelia:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zatn:3 a az és azl:2",XEW:3 - TV,0,XEW:3 - TV,0,-3.61551
+[CLS] Morelia:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"és az a az a , ésr:2",XEW:3 - TV,0,XEW:3 - TV,0,-3.83842
 "[CLS] Little People , Big World eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP]",a -t:2,TLC:2,0,TLC:2,0,-2.05106
 "[CLS] Little People , Big World eredetileg [MASK] sugározták:4 . [SEP]",itt,TLC:2,0,TLC:2,0,-2.78733
+"[CLS] Little People , Big World eredetileg [MASK] sugározták:4 . [SEP]",Magyarországon,TLC:2,0,TLC:2,0,-2.91060
+"[CLS] Little People , Big World eredetileg [MASK] sugározták:4 . [SEP]",Nickelodeon,TLC:2,0,TLC:2,0,-3.15637
+"[CLS] Little People , Big World eredetileg [MASK] sugározták:4 . [SEP]",NBC,TLC:2,0,TLC:2,0,-3.24121
 [CLS] Long Island Medium eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,TLC:2,0,TLC:2,0,-2.03629
 [CLS] Long Island Medium eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a - , a a .re:2",TLC:2,0,TLC:2,0,-2.92022
+[CLS] Long Island Medium eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.31089
+[CLS] Long Island Medium eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a és , - azr:2",TLC:2,0,TLC:2,0,-3.69496
+[CLS] Long Island Medium eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az és - sz ,n:2 is",TLC:2,0,TLC:2,0,-3.85045
 [CLS] Toddlers:2 & Tiaras:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.85785
 [CLS] Toddlers:2 & Tiaras:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.93631
+[CLS] Toddlers:2 & Tiaras:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.06652
+[CLS] Toddlers:2 & Tiaras:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azt:2 ést:2 a .zatre:3 is",TLC:2,0,TLC:2,0,-3.52574
+[CLS] Toddlers:2 & Tiaras:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.72579
 [CLS] Trading Spaces:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.03240
 [CLS] Trading Spaces:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.84241
+[CLS] Trading Spaces:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a . és az azzatn:3,TLC:2,0,TLC:2,0,-3.24899
+[CLS] Trading Spaces:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , - és a , , - alapján",TLC:2,0,TLC:2,0,-3.57721
+[CLS] Trading Spaces:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],amerikaisat:2,TLC:2,0,TLC:2,0,-3.83266
 [CLS] Next Great Baker eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.97166
 [CLS] Next Great Baker eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . , a az azt:2",TLC:2,0,TLC:2,0,-2.73610
+[CLS] Next Great Baker eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az at:2 a a az aznn:3,TLC:2,0,TLC:2,0,-3.25134
+[CLS] Next Great Baker eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , és a az ,rel:3",TLC:2,0,TLC:2,0,-3.64862
+[CLS] Next Great Baker eredetileg [MASK] sugározták:4 . [SEP],TV,TLC:2,0,TLC:2,0,-3.78506
 [CLS] 10 Years Younger eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.55164
 [CLS] 10 Years Younger eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a . , a az ésre:2",TLC:2,0,TLC:2,0,-2.77917
+[CLS] 10 Years Younger eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az a . , a az azn:2",TLC:2,0,TLC:2,0,-3.04042
+[CLS] 10 Years Younger eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az - a az . azvel:2",TLC:2,0,TLC:2,0,-3.43230
+[CLS] 10 Years Younger eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - és a az , , -vel:2",TLC:2,0,TLC:2,0,-3.74187
 [CLS] A Baby Story eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.44856
 [CLS] A Baby Story eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.41210
+[CLS] A Baby Story eredetileg [MASK] sugározták:4 . [SEP],filmet,TLC:2,0,TLC:2,0,-3.16699
+[CLS] A Baby Story eredetileg [MASK] [MASK] sugározták:4 . [SEP],az filmet,TLC:2,0,TLC:2,0,-3.30353
+[CLS] A Baby Story eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.55348
 [CLS] A Model Life eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.60666
-[CLS] A Model Life eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.58049
+[CLS] A Model Life eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.58048
+[CLS] A Model Life eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.76631
+[CLS] A Model Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A -tt:3 . . és az alapján,TLC:2,0,TLC:2,0,-3.71311
+[CLS] A Model Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , a - az , -zaten:3",TLC:2,0,TLC:2,0,-3.82255
 [CLS] Abby & Brittany eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-1.97804
 [CLS] Abby & Brittany eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a . , a és ésre:2",TLC:2,0,TLC:2,0,-2.77245
+[CLS] Abby & Brittany eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-3.10816
+[CLS] Abby & Brittany eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,TLC:2,0,TLC:2,0,-3.52926
+[CLS] Abby & Brittany eredetileg [MASK] [MASK] sugározták:4 . [SEP],kanasat:2,TLC:2,0,TLC:2,0,-3.77028
 [CLS] addicted:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.23829
 [CLS] addicted:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.65770
+[CLS] addicted:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az az - és a a .l:2,TLC:2,0,TLC:2,0,-3.26721
+[CLS] addicted:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és az , ,nn:3",TLC:2,0,TLC:2,0,-3.54485
+[CLS] addicted:3 eredetileg [MASK] sugározták:4 . [SEP],tovább,TLC:2,0,TLC:2,0,-3.74466
 [CLS] Ancient Mysteries:2 eredetileg [MASK] sugározták:4 . [SEP],BBC,A & E Networks,0,A & E Networks,0,-2.20759
 [CLS] Ancient Mysteries:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a at:2 a a a .nre:3,A & E Networks,0,A & E Networks,0,-2.84984
+[CLS] Ancient Mysteries:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azn:2 a , az az az azn:2",A & E Networks,0,A & E Networks,0,-3.23423
+[CLS] Ancient Mysteries:2 eredetileg [MASK] sugározták:4 . [SEP],angolul,A & E Networks,0,A & E Networks,0,-3.43706
+[CLS] Ancient Mysteries:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,A & E Networks,0,A & E Networks,0,-3.81935
 [CLS] See Arnold Run eredetileg [MASK] sugározták:4 . [SEP],nem,A & E Networks,0,A & E Networks,0,-2.04509
 [CLS] See Arnold Run eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a a , , a a azre:2",A & E Networks,0,A & E Networks,0,-2.76457
+[CLS] See Arnold Run eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az ,t:2 a az aznn:3",A & E Networks,0,A & E Networks,0,-3.17406
+[CLS] See Arnold Run eredetileg [MASK] sugározták:4 . [SEP],azért,A & E Networks,0,A & E Networks,0,-3.52271
+[CLS] See Arnold Run eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A sz a - az ,enl:3",A & E Networks,0,A & E Networks,0,-3.82184
 [CLS] BBQ:2 Pitmasters:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.68390
 [CLS] BBQ:2 Pitmasters:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.46206
+[CLS] BBQ:2 Pitmasters:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.89252
+[CLS] BBQ:2 Pitmasters:3 eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.08613
+[CLS] BBQ:2 Pitmasters:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.39946
 [CLS] Beyond the Glory eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Fox Sports,0,Fox Sports,0,-2.19725
 [CLS] Beyond the Glory eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Fox Sports,0,Fox Sports,0,-2.60038
+[CLS] Beyond the Glory eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az a ,t:2 a a a azn:2",Fox Sports,0,Fox Sports,0,-3.17435
+[CLS] Beyond the Glory eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és a az ésreen:3",Fox Sports,0,Fox Sports,0,-3.64651
+[CLS] Beyond the Glory eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Azatenre:4 az , ,enr:3",Fox Sports,0,Fox Sports,0,-3.82770
 [CLS] Big Medicine eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,TLC:2,0,TLC:2,0,-2.18187
 [CLS] Big Medicine eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és az azt:2",TLC:2,0,TLC:2,0,-2.71787
+[CLS] Big Medicine eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az at:2 a az aznn:3,TLC:2,0,TLC:2,0,-3.07616
+[CLS] Big Medicine eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a a . ,nr:3",TLC:2,0,TLC:2,0,-3.58830
+[CLS] Big Medicine eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz -t:2 az és ésvel:2",TLC:2,0,TLC:2,0,-3.83774
 [CLS] Cheer:2 Perfection:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.99189
 [CLS] Cheer:2 Perfection:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.47873
+[CLS] Cheer:2 Perfection:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.72921
+[CLS] Cheer:2 Perfection:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Nickelodeonen:2,TLC:2,0,TLC:2,0,-3.47792
+[CLS] Cheer:2 Perfection:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországon között,TLC:2,0,TLC:2,0,-3.50393
 [CLS] D . U . I . eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.95512
 [CLS] D . U . I . eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.44107
+[CLS] D . U . I . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a , . és és az az . is",TLC:2,0,TLC:2,0,-3.13318
+[CLS] D . U . I . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , szt:2 a a , sznn:3",TLC:2,0,TLC:2,0,-3.56135
+[CLS] D . U . I . eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.72566
 [CLS] Diagnosis:3 X eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.44472
 [CLS] Diagnosis:3 X eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.90337
+[CLS] Diagnosis:3 X eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - és és az ann:3",TLC:2,0,TLC:2,0,-3.38543
+[CLS] Diagnosis:3 X eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. a és a . éskvel:3,TLC:2,0,TLC:2,0,-3.69506
+[CLS] Diagnosis:3 X eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A az és a az a észl:3,TLC:2,0,TLC:2,0,-3.88294
 [CLS] Extreme Cheapskates:4 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.10892
 [CLS] Extreme Cheapskates:4 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.54221
+[CLS] Extreme Cheapskates:4 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.76669
+[CLS] Extreme Cheapskates:4 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.92527
+[CLS] Extreme Cheapskates:4 eredetileg [MASK] [MASK] sugározták:4 . [SEP],azsat:2,TLC:2,0,TLC:2,0,-3.72320
 [CLS] Extreme Couponing:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.03460
 [CLS] Extreme Couponing:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.72835
+[CLS] Extreme Couponing:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.00137
+[CLS] Extreme Couponing:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.24180
+[CLS] Extreme Couponing:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - a és az és és ,en:2",TLC:2,0,TLC:2,0,-3.94274
 [CLS] Extreme Cougar:2 Wives:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.71449
 [CLS] Extreme Cougar:2 Wives:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.99264
+[CLS] Extreme Cougar:2 Wives:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.76286
+[CLS] Extreme Cougar:2 Wives:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.83500
+[CLS] Extreme Cougar:2 Wives:2 eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.66400
 [CLS] Flight 175 : As the World Watched:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.11903
 [CLS] Flight 175 : As the World Watched:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.61534
+[CLS] Flight 175 : As the World Watched:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.71865
+[CLS] Flight 175 : As the World Watched:2 eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.64782
+[CLS] Flight 175 : As the World Watched:2 eredetileg [MASK] sugározták:4 . [SEP],filmet,TLC:2,0,TLC:2,0,-3.88197
 [CLS] Flip:2 That House eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.04326
 [CLS] Flip:2 That House eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.64800
+[CLS] Flip:2 That House eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az ,t:2 . az .enn:3",TLC:2,0,TLC:2,0,-3.02820
+[CLS] Flip:2 That House eredetileg [MASK] sugározták:4 . [SEP],HBO,TLC:2,0,TLC:2,0,-3.48694
+[CLS] Flip:2 That House eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,TLC:2,0,TLC:2,0,-3.59410
 [CLS] Freaky:2 Eaters:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-1.83258
 [CLS] Freaky:2 Eaters:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.60221
+[CLS] Freaky:2 Eaters:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , , és . ann:3",TLC:2,0,TLC:2,0,-3.06530
+[CLS] Freaky:2 Eaters:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],kanaat:2,TLC:2,0,TLC:2,0,-3.58549
+[CLS] Freaky:2 Eaters:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],azsat:2,TLC:2,0,TLC:2,0,-3.82619
 [CLS] Gypsy Sisters eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.03522
 [CLS] Gypsy Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és . az -re:2",TLC:2,0,TLC:2,0,-2.85912
+[CLS] Gypsy Sisters eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-3.06735
+[CLS] Gypsy Sisters eredetileg [MASK] sugározták:4 . [SEP],kana,TLC:2,0,TLC:2,0,-3.28552
+[CLS] Gypsy Sisters eredetileg [MASK] sugározták:4 . [SEP],magyar,TLC:2,0,TLC:2,0,-3.60976
 [CLS] Paleoworld:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . . , . . . .t:2",TLC:2,0,TLC:2,0,-2.43566
 [CLS] Paleoworld:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". an:2 . . , az aznre:3",TLC:2,0,TLC:2,0,-3.06948
+[CLS] Paleoworld:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , - és és az anr:3",TLC:2,0,TLC:2,0,-3.36780
+[CLS] Paleoworld:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -nt:3 a , sz azn:2",TLC:2,0,TLC:2,0,-3.68890
+[CLS] Paleoworld:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A szr:2 - az és ,rl:3",TLC:2,0,TLC:2,0,-3.91812
 [CLS] Ice Diaries eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , és a -t:2",TLC:2,0,TLC:2,0,-2.12565
 [CLS] Ice Diaries eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a . és a az azre:2,TLC:2,0,TLC:2,0,-2.66033
+[CLS] Ice Diaries eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és és az . azre:2,TLC:2,0,TLC:2,0,-2.94410
+[CLS] Ice Diaries eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zat:2 - a a észat:2 a alapján",TLC:2,0,TLC:2,0,-3.42190
+[CLS] Ice Diaries eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-3.72778
 [CLS] If Walls Could Talk eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.08290
 [CLS] If Walls Could Talk eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a . , . . . azzatre:3",TLC:2,0,TLC:2,0,-2.75037
+[CLS] If Walls Could Talk eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. azt:2 - és és és . .n:2,TLC:2,0,TLC:2,0,-3.00961
+[CLS] If Walls Could Talk eredetileg [MASK] sugározták:4 . [SEP],Németországban,TLC:2,0,TLC:2,0,-3.24799
+[CLS] If Walls Could Talk eredetileg [MASK] [MASK] sugározták:4 . [SEP],amerikai között,TLC:2,0,TLC:2,0,-3.59340
 [CLS] King of the Crown eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.40868
 [CLS] King of the Crown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . az . .re:2",TLC:2,0,TLC:2,0,-3.03701
+[CLS] King of the Crown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 a az . a azn:2,TLC:2,0,TLC:2,0,-3.44874
+[CLS] King of the Crown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A az - a és , sz azn:2",TLC:2,0,TLC:2,0,-3.69556
+[CLS] King of the Crown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - és - az és -enr:3",TLC:2,0,TLC:2,0,-3.90593
 [CLS] Let ' s Paint:2 TV eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,public - access television,0,public - access television,0,-1.96174
 [CLS] Let ' s Paint:2 TV eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,public - access television,0,public - access television,0,-2.30624
+[CLS] Let ' s Paint:2 TV eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,public - access television,0,public - access television,0,-3.01215
+[CLS] Let ' s Paint:2 TV eredetileg [MASK] sugározták:4 . [SEP],itt,public - access television,0,public - access television,0,-3.31474
+[CLS] Let ' s Paint:2 TV eredetileg [MASK] sugározták:4 . [SEP],is,public - access television,0,public - access television,0,-3.39100
 [CLS] Livin:2 ' for the Apocalypse eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.06964
 [CLS] Livin:2 ' for the Apocalypse eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.55774
+[CLS] Livin:2 ' for the Apocalypse eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-3.13866
+[CLS] Livin:2 ' for the Apocalypse eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-3.34627
+[CLS] Livin:2 ' for the Apocalypse eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.53135
 [CLS] Mega64:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Megat:2,public - access television,0,public - access television,0,-1.97850
 [CLS] Mega64:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],Mega -et:2,public - access television,0,public - access television,0,-2.77302
+[CLS] Mega64:2 eredetileg [MASK] sugározták:4 . [SEP],is,public - access television,0,public - access television,0,-3.11177
+[CLS] Mega64:2 eredetileg [MASK] sugározták:4 . [SEP],HD,public - access television,0,public - access television,0,-3.11586
+[CLS] Mega64:2 eredetileg [MASK] sugározták:4 . [SEP],tovább,public - access television,0,public - access television,0,-3.45207
 [CLS] Moving Up eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a a és . -t:2,TLC:2,0,TLC:2,0,-2.09575
 [CLS] Moving Up eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . az .re:2",TLC:2,0,TLC:2,0,-2.73791
+[CLS] Moving Up eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - és és .enn:3,TLC:2,0,TLC:2,0,-3.07654
+[CLS] Moving Up eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,TLC:2,0,TLC:2,0,-3.59456
+[CLS] Moving Up eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Azat:2 a a , ,rer:3",TLC:2,0,TLC:2,0,-3.79727
 [CLS] My Strange Addiction:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.11852
 [CLS] My Strange Addiction:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -t:2 . . az -re:2,TLC:2,0,TLC:2,0,-2.76017
+[CLS] My Strange Addiction:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.87488
+[CLS] My Strange Addiction:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", met:2 és a és ,reen:3",TLC:2,0,TLC:2,0,-3.56385
+[CLS] My Strange Addiction:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A szen:2 ést:2 az és szenen:3,TLC:2,0,TLC:2,0,-3.77205
 [CLS] NY Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,TLC:2,0,TLC:2,0,-1.78405
 [CLS] NY Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . .re:2",TLC:2,0,TLC:2,0,-2.59580
+[CLS] NY Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - és és az azn:2,TLC:2,0,TLC:2,0,-3.05479
+[CLS] NY Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,tt:3 , , és is",TLC:2,0,TLC:2,0,-3.53355
+[CLS] NY Ink:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - és a az és ,l:2",TLC:2,0,TLC:2,0,-3.74892
 [CLS] On the Fly eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . és a a -t:2,TLC:2,0,TLC:2,0,-2.23810
 [CLS] On the Fly eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , és az .re:2",TLC:2,0,TLC:2,0,-2.74044
+[CLS] On the Fly eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 és az a azn:2,TLC:2,0,TLC:2,0,-3.16575
+[CLS] On the Fly eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és a az és azl:2",TLC:2,0,TLC:2,0,-3.59864
+[CLS] On the Fly eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - a - , ,re:2 is",TLC:2,0,TLC:2,0,-3.83878
 [CLS] One Big Happy Family eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , , a a -t:2",TLC:2,0,TLC:2,0,-2.09498
 [CLS] One Big Happy Family eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és az azzatre:3",TLC:2,0,TLC:2,0,-2.70595
+[CLS] One Big Happy Family eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 és a . . azn:2,TLC:2,0,TLC:2,0,-3.13066
+[CLS] One Big Happy Family eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zat:2 a és a és ,zat:2 - alapján",TLC:2,0,TLC:2,0,-3.38753
+[CLS] One Big Happy Family eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországonsat:2,TLC:2,0,TLC:2,0,-3.68736
 [CLS] Pete Rose : Hits & Mrs . eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-0.35636
 [CLS] Pete Rose : Hits & Mrs . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a .t:2 . . , azkn:3",TLC:2,0,TLC:2,0,-3.10339
+[CLS] Pete Rose : Hits & Mrs . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - , - és a az szre:2 is",TLC:2,0,TLC:2,0,-3.45783
+[CLS] Pete Rose : Hits & Mrs . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szt:2 . a és . . isre:2",TLC:2,0,TLC:2,0,-3.61587
+[CLS] Pete Rose : Hits & Mrs . eredetileg [MASK] [MASK] sugározták:4 . [SEP],csak is,TLC:2,0,TLC:2,0,-3.71974
 [CLS] Police Women of Broward:2 County eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.80512
 [CLS] Police Women of Broward:2 County eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.95427
+[CLS] Police Women of Broward:2 County eredetileg [MASK] sugározták:4 . [SEP],a,TLC:2,0,TLC:2,0,-3.52585
+[CLS] Police Women of Broward:2 County eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A - a és és és sz azkk:3,TLC:2,0,TLC:2,0,-3.82271
+[CLS] Police Women of Broward:2 County eredetileg [MASK] sugározták:4 . [SEP],TV,TLC:2,0,TLC:2,0,-3.90840
 [CLS] Police Women of Maricopa:2 County eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.89936
 [CLS] Police Women of Maricopa:2 County eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],az évet:2,TLC:2,0,TLC:2,0,-3.03707
+[CLS] Police Women of Maricopa:2 County eredetileg [MASK] sugározták:4 . [SEP],a,TLC:2,0,TLC:2,0,-3.45876
+[CLS] Police Women of Maricopa:2 County eredetileg [MASK] sugározták:4 . [SEP],TV,TLC:2,0,TLC:2,0,-3.69744
+[CLS] Police Women of Maricopa:2 County eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-3.85698
 [CLS] Police Women of Cincinnati eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.13816
 [CLS] Police Women of Cincinnati eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.80089
+[CLS] Police Women of Cincinnati eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.32347
+[CLS] Police Women of Cincinnati eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A az - a és és , , az is",TLC:2,0,TLC:2,0,-3.68387
+[CLS] Police Women of Cincinnati eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", film és - az , és - ésnt:2",TLC:2,0,TLC:2,0,-3.91210
 [CLS] Police Women of Memphis eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.97903
 [CLS] Police Women of Memphis eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a a a a . az .re:2,TLC:2,0,TLC:2,0,-2.89642
+[CLS] Police Women of Memphis eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az a a , az az ann:3",TLC:2,0,TLC:2,0,-3.28480
+[CLS] Police Women of Memphis eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , és , és és - azr:2",TLC:2,0,TLC:2,0,-3.62645
+[CLS] Police Women of Memphis eredetileg [MASK] sugározták:4 . [SEP],TV,TLC:2,0,TLC:2,0,-3.76787
 [CLS] Quints:2 by Surprise:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.76935
 [CLS] Quints:2 by Surprise:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.08004
+[CLS] Quints:2 by Surprise:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.87197
+[CLS] Quints:2 by Surprise:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.31857
+[CLS] Quints:2 by Surprise:2 eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-3.68412
 [CLS] Rides:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,TLC:2,0,TLC:2,0,-1.99060
 [CLS] Rides:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.55560
+[CLS] Rides:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azn:2 , a az az azn:2",TLC:2,0,TLC:2,0,-3.14649
+[CLS] Rides:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - a . az ,et:2",TLC:2,0,TLC:2,0,-3.63512
+[CLS] Rides:2 eredetileg [MASK] sugározták:4 . [SEP],HBO,TLC:2,0,TLC:2,0,-3.68708
 [CLS] Robotica:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.16538
 [CLS] Robotica:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , , a a azre:2",TLC:2,0,TLC:2,0,-2.85161
+[CLS] Robotica:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. aztt:3 a az aznn:3,TLC:2,0,TLC:2,0,-3.15474
+[CLS] Robotica:2 eredetileg [MASK] sugározták:4 . [SEP],Németországban,TLC:2,0,TLC:2,0,-3.47919
+[CLS] Robotica:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A - a az az ésrel:3,TLC:2,0,TLC:2,0,-3.79723
 [CLS] Salty:2 ' s Lighthouse:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.36660
 [CLS] Salty:2 ' s Lighthouse:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . . . .re:2",TLC:2,0,TLC:2,0,-2.94836
+[CLS] Salty:2 ' s Lighthouse:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". sz -t:2 és a , az azn:2",TLC:2,0,TLC:2,0,-3.34730
+[CLS] Salty:2 ' s Lighthouse:2 eredetileg [MASK] sugározták:4 . [SEP],BBC,TLC:2,0,TLC:2,0,-3.51976
+[CLS] Salty:2 ' s Lighthouse:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - sz sz volt az és , szk:2",TLC:2,0,TLC:2,0,-3.95349
 [CLS] Sarah Palin:2 ' s Alaska eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.83923
 [CLS] Sarah Palin:2 ' s Alaska eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a - . . a az az .re:2,TLC:2,0,TLC:2,0,-2.80880
+[CLS] Sarah Palin:2 ' s Alaska eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az ,t:2 és . . . azn:2",TLC:2,0,TLC:2,0,-3.24434
+[CLS] Sarah Palin:2 ' s Alaska eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.35616
+[CLS] Sarah Palin:2 ' s Alaska eredetileg [MASK] sugározták:4 . [SEP],tovább,TLC:2,0,TLC:2,0,-3.87633
 [CLS] Say Yes to the Dress:2 : Atlanta eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.78085
 [CLS] Say Yes to the Dress:2 : Atlanta eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.00141
+[CLS] Say Yes to the Dress:2 : Atlanta eredetileg [MASK] sugározták:4 . [SEP],Atlanta,TLC:2,0,TLC:2,0,-2.82433
+[CLS] Say Yes to the Dress:2 : Atlanta eredetileg [MASK] [MASK] sugározták:4 . [SEP],",ig:2",TLC:2,0,TLC:2,0,-3.70824
+[CLS] Say Yes to the Dress:2 : Atlanta eredetileg [MASK] [MASK] sugározták:4 . [SEP],is is,TLC:2,0,TLC:2,0,-3.99345
 [CLS] Secret Princes:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.03326
 [CLS] Secret Princes:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.70487
+[CLS] Secret Princes:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-3.05606
+[CLS] Secret Princes:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországon között,TLC:2,0,TLC:2,0,-3.56349
+[CLS] Secret Princes:2 eredetileg [MASK] sugározták:4 . [SEP],kana,TLC:2,0,TLC:2,0,-3.73915
 [CLS] Sextuplets:3 Take New York eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.79715
 [CLS] Sextuplets:3 Take New York eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.89964
+[CLS] Sextuplets:3 Take New York eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-2.99298
+[CLS] Sextuplets:3 Take New York eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-3.19800
+[CLS] Sextuplets:3 Take New York eredetileg [MASK] sugározták:4 . [SEP],magyarul,TLC:2,0,TLC:2,0,-3.30866
 [CLS] Sin City Rules eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . . , a a -re:2",TLC:2,0,TLC:2,0,-2.16441
 [CLS] Sin City Rules eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a a a a a . . azre:2,TLC:2,0,TLC:2,0,-2.66837
+[CLS] Sin City Rules eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az a és , az azzat:2 alapján",TLC:2,0,TLC:2,0,-3.02963
+[CLS] Sin City Rules eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.35980
+[CLS] Sin City Rules eredetileg [MASK] sugározták:4 . [SEP],HBO,TLC:2,0,TLC:2,0,-3.51196
 [CLS] Something Borrowed:3 Something New eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.14636
 [CLS] Something Borrowed:3 Something New eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.66083
+[CLS] Something Borrowed:3 Something New eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - .t:2 és az .nn:3,TLC:2,0,TLC:2,0,-3.08606
+[CLS] Something Borrowed:3 Something New eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz ,n:2 és a , sz . is",TLC:2,0,TLC:2,0,-3.49735
+[CLS] Something Borrowed:3 Something New eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A men:2 - a az és , szk:2",TLC:2,0,TLC:2,0,-3.71421
 [CLS] Starter:2 Wives:2 Confidential:4 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-0.86339
 [CLS] Starter:2 Wives:2 Confidential:4 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.57626
+[CLS] Starter:2 Wives:2 Confidential:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - - és és , az , is",TLC:2,0,TLC:2,0,-3.33796
+[CLS] Starter:2 Wives:2 Confidential:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -tt:3 a a az ,kn:3",TLC:2,0,TLC:2,0,-3.63185
+[CLS] Starter:2 Wives:2 Confidential:4 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A az és ést:2 az és -enen:3,TLC:2,0,TLC:2,0,-3.97016
 [CLS] Take Home Chef eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . és a a -t:2,TLC:2,0,TLC:2,0,-2.14424
 [CLS] Take Home Chef eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a a . , a a . azre:2",TLC:2,0,TLC:2,0,-2.72360
+[CLS] Take Home Chef eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.89397
+[CLS] Take Home Chef eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-2.96567
+[CLS] Take Home Chef eredetileg [MASK] sugározták:4 . [SEP],Disney,TLC:2,0,TLC:2,0,-3.72323
 [CLS] The Adam Carolla:2 Project eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.07524
 [CLS] The Adam Carolla:2 Project eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . . a -re:2",TLC:2,0,TLC:2,0,-2.78912
+[CLS] The Adam Carolla:2 Project eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 és és az azenn:3,TLC:2,0,TLC:2,0,-3.13524
+[CLS] The Adam Carolla:2 Project eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - és a , és éset:2",TLC:2,0,TLC:2,0,-3.58876
+[CLS] The Adam Carolla:2 Project eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-3.69164
 [CLS] A nagy rablás:3 eredetileg [MASK] sugározták:4 . [SEP],nem,A & E Networks,0,A & E Networks,0,-1.70958
 [CLS] A nagy rablás:3 eredetileg [MASK] sugározták:4 . [SEP],is,A & E Networks,0,A & E Networks,0,-2.77371
+[CLS] A nagy rablás:3 eredetileg [MASK] sugározták:4 . [SEP],úgy,A & E Networks,0,A & E Networks,0,-2.88415
+[CLS] A nagy rablás:3 eredetileg [MASK] sugározták:4 . [SEP],itt,A & E Networks,0,A & E Networks,0,-3.14194
+[CLS] A nagy rablás:3 eredetileg [MASK] sugározták:4 . [SEP],ezt,A & E Networks,0,A & E Networks,0,-3.74499
 [CLS] The Learning Channel ' s Great Books eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.17023
 [CLS] The Learning Channel ' s Great Books eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.58043
+[CLS] The Learning Channel ' s Great Books eredetileg [MASK] sugározták:4 . [SEP],magyarul,TLC:2,0,TLC:2,0,-2.68139
+[CLS] The Learning Channel ' s Great Books eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-2.71042
+[CLS] The Learning Channel ' s Great Books eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.02684
 [CLS] The Sisterhood:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , és a a -t:2",TLC:2,0,TLC:2,0,-2.12457
 [CLS] The Sisterhood:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . és . azatre:3",TLC:2,0,TLC:2,0,-2.86521
+[CLS] The Sisterhood:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-3.23983
+[CLS] The Sisterhood:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zat:2 at:2 a és , és alapján",TLC:2,0,TLC:2,0,-3.60343
+[CLS] The Sisterhood:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Foxen:2,TLC:2,0,TLC:2,0,-3.68958
 [CLS] ToddWorld:4 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.04768
 [CLS] ToddWorld:4 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.77934
+[CLS] ToddWorld:4 eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.02058
+[CLS] ToddWorld:4 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-3.30824
+[CLS] ToddWorld:4 eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-3.64510
 [CLS] Totally:2 T - Boz:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.66379
 [CLS] Totally:2 T - Boz:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.68344
+[CLS] Totally:2 T - Boz:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az az ,tt:3 és az a -n:2",TLC:2,0,TLC:2,0,-3.25382
+[CLS] Totally:2 T - Boz:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 és a és , ,et:2",TLC:2,0,TLC:2,0,-3.62282
+[CLS] Totally:2 T - Boz:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],az között,TLC:2,0,TLC:2,0,-3.98036
 [CLS] Ultimate Cake:2 Off eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . . , , , a a .t:2",TLC:2,0,TLC:2,0,-2.18721
 [CLS] Ultimate Cake:2 Off eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a - . . . . . -re:2,TLC:2,0,TLC:2,0,-2.74204
+[CLS] Ultimate Cake:2 Off eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.99688
+[CLS] Ultimate Cake:2 Off eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-3.19483
+[CLS] Ultimate Cake:2 Off eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-3.49734
 [CLS] Amiről:2 a vészhelyzetben:4 sem beszélnek:4 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.44574
 [CLS] Amiről:2 a vészhelyzetben:4 sem beszélnek:4 eredetileg [MASK] sugározták:4 . [SEP],a,TLC:2,0,TLC:2,0,-2.55581
+[CLS] Amiről:2 a vészhelyzetben:4 sem beszélnek:4 eredetileg [MASK] sugározták:4 . [SEP],",",TLC:2,0,TLC:2,0,-2.98121
+[CLS] Amiről:2 a vészhelyzetben:4 sem beszélnek:4 eredetileg [MASK] sugározták:4 . [SEP],ezt,TLC:2,0,TLC:2,0,-3.26568
+[CLS] Amiről:2 a vészhelyzetben:4 sem beszélnek:4 eredetileg [MASK] sugározták:4 . [SEP],.,TLC:2,0,TLC:2,0,-3.27427
 [CLS] Wa:2 $ ted:2 ! eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.96861
 [CLS] Wa:2 $ ted:2 ! eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.65456
+[CLS] Wa:2 $ ted:2 ! eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , - - . . , . .n:2",TLC:2,0,TLC:2,0,-3.07378
+[CLS] Wa:2 $ ted:2 ! eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.34481
+[CLS] Wa:2 $ ted:2 ! eredetileg [MASK] sugározták:4 . [SEP],Németországban,TLC:2,0,TLC:2,0,-3.38362
 [CLS] Welcome to Myrtle:3 Manor eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.62705
 [CLS] Welcome to Myrtle:3 Manor eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a , . . . . . .re:2",TLC:2,0,TLC:2,0,-2.86800
+[CLS] Welcome to Myrtle:3 Manor eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , -t:2 és és , az ,n:2",TLC:2,0,TLC:2,0,-3.30950
+[CLS] Welcome to Myrtle:3 Manor eredetileg [MASK] sugározták:4 . [SEP],itt,TLC:2,0,TLC:2,0,-3.52399
+[CLS] Welcome to Myrtle:3 Manor eredetileg [MASK] sugározták:4 . [SEP],BBC,TLC:2,0,TLC:2,0,-3.65007
 [CLS] What Not to Wear:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . . , és a a -t:2",TLC:2,0,TLC:2,0,-2.05891
 [CLS] What Not to Wear:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . . . -re:2",TLC:2,0,TLC:2,0,-2.70225
+[CLS] What Not to Wear:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 és és az a azn:2,TLC:2,0,TLC:2,0,-2.93060
+[CLS] What Not to Wear:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],az nyelven,TLC:2,0,TLC:2,0,-3.34909
+[CLS] What Not to Wear:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.62031
 [CLS] Your Place or Mine ? eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.08598
 [CLS] Your Place or Mine ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -t:2 és és az az .re:2,TLC:2,0,TLC:2,0,-2.76360
+[CLS] Your Place or Mine ? eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.97091
+[CLS] Your Place or Mine ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szen:2 - a a és sz -en:2",TLC:2,0,TLC:2,0,-3.45043
+[CLS] Your Place or Mine ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"sz , és ést:2 az , , és alapján",TLC:2,0,TLC:2,0,-3.68573
 [CLS] Hi - 5 eredetileg [MASK] sugározták:4 . [SEP],nem,Discovery Kids Latin America,0,Discovery Kids Latin America,0,-1.52128
 [CLS] Hi - 5 eredetileg [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],Hi Hi -t:2,Discovery Kids Latin America,0,Discovery Kids Latin America,0,-2.70740
+[CLS] Hi - 5 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - , és az - azn:2",Discovery Kids Latin America,0,Discovery Kids Latin America,0,-3.24492
+[CLS] Hi - 5 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -n:2 - és a sz az .",Discovery Kids Latin America,0,Discovery Kids Latin America,0,-3.68863
+[CLS] Hi - 5 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , szt:2 és anr:3",Discovery Kids Latin America,0,Discovery Kids Latin America,0,-3.86144
 [CLS] Mostly:2 True Stories : Urban Legends Revealed:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.26832
 [CLS] Mostly:2 True Stories : Urban Legends Revealed:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.07280
+[CLS] Mostly:2 True Stories : Urban Legends Revealed:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , és és . éset:2",TLC:2,0,TLC:2,0,-3.32597
+[CLS] Mostly:2 True Stories : Urban Legends Revealed:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. - és a a és . is,TLC:2,0,TLC:2,0,-3.58986
+[CLS] Mostly:2 True Stories : Urban Legends Revealed:3 eredetileg [MASK] [MASK] sugározták:4 . [SEP],",en:2",TLC:2,0,TLC:2,0,-3.94636
 [CLS] Take Home Nanny:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.66721
 [CLS] Take Home Nanny:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.81638
+[CLS] Take Home Nanny:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,TLC:2,0,TLC:2,0,-2.95763
+[CLS] Take Home Nanny:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 és a és ,reen:3",TLC:2,0,TLC:2,0,-3.51866
+[CLS] Take Home Nanny:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],magyarat:2,TLC:2,0,TLC:2,0,-3.82073
 [CLS] Homemade:2 Millionaire:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.98222
 [CLS] Homemade:2 Millionaire:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és és az azre:2",TLC:2,0,TLC:2,0,-2.77092
+[CLS] Homemade:2 Millionaire:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az - . . , . .n:2",TLC:2,0,TLC:2,0,-3.17705
+[CLS] Homemade:2 Millionaire:2 eredetileg [MASK] sugározták:4 . [SEP],magyar,TLC:2,0,TLC:2,0,-3.49079
+[CLS] Homemade:2 Millionaire:2 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.51787
 [CLS] My Five Wives:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . és a a -t:2,TLC:2,0,TLC:2,0,-2.14786
 [CLS] My Five Wives:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.50838
+[CLS] My Five Wives:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , és . és azenn:3",TLC:2,0,TLC:2,0,-3.05397
+[CLS] My Five Wives:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-3.31812
+[CLS] My Five Wives:2 eredetileg [MASK] sugározták:4 . [SEP],CBS,TLC:2,0,TLC:2,0,-3.70948
 [CLS] Sex Sent Me to the ER eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-1.98503
 [CLS] Sex Sent Me to the ER eredetileg [MASK] sugározták:4 . [SEP],NBC,TLC:2,0,TLC:2,0,-2.15614
+[CLS] Sex Sent Me to the ER eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-2.38723
+[CLS] Sex Sent Me to the ER eredetileg [MASK] sugározták:4 . [SEP],HBO,TLC:2,0,TLC:2,0,-3.27200
+[CLS] Sex Sent Me to the ER eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.52718
 [CLS] I Am Jazz eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,TLC:2,0,TLC:2,0,-2.09634
 [CLS] I Am Jazz eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a - . , az .rere:3",TLC:2,0,TLC:2,0,-2.86287
+[CLS] I Am Jazz eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azt:2 , a a a azn:2",TLC:2,0,TLC:2,0,-3.16839
+[CLS] I Am Jazz eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A me , - és , , -r:2",TLC:2,0,TLC:2,0,-3.69507
+[CLS] I Am Jazz eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , ést:2 az -enl:3",TLC:2,0,TLC:2,0,-3.79983
 "[CLS] Love , Lust or Run eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP]",a -t:2,TLC:2,0,TLC:2,0,-2.24648
 "[CLS] Love , Lust or Run eredetileg [MASK] sugározták:4 . [SEP]",nem,TLC:2,0,TLC:2,0,-2.55536
+"[CLS] Love , Lust or Run eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",". az , - . . , .enn:3",TLC:2,0,TLC:2,0,-3.20198
+"[CLS] Love , Lust or Run eredetileg [MASK] sugározták:4 . [SEP]",Németországban,TLC:2,0,TLC:2,0,-3.40520
+"[CLS] Love , Lust or Run eredetileg [MASK] [MASK] sugározták:4 . [SEP]",kana Magyarországon,TLC:2,0,TLC:2,0,-3.49635
 [CLS] 90 Day Fiancé:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-1.81792
 [CLS] 90 Day Fiancé:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-2.19708
+[CLS] 90 Day Fiancé:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-2.86238
+[CLS] 90 Day Fiancé:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - - a . és ésen:2",TLC:2,0,TLC:2,0,-3.54136
+[CLS] 90 Day Fiancé:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],Azatnn:4 a az észat:2 -en:2,TLC:2,0,TLC:2,0,-3.78216
 [CLS] El Comandante eredetileg [MASK] sugározták:4 . [SEP],nem,RCN:2 TV,0,RCN:2 TV,0,-1.83812
 [CLS] El Comandante eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. a a a a a a azre:2,RCN:2 TV,0,RCN:2 TV,0,-2.96629
+[CLS] El Comandante eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az az , , , az aznn:3",RCN:2 TV,0,RCN:2 TV,0,-3.47881
+[CLS] El Comandante eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - - és az -zl:3",RCN:2 TV,0,RCN:2 TV,0,-3.85376
+[CLS] El Comandante eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A az de de , és ,r:2",RCN:2 TV,0,RCN:2 TV,0,-3.98602
 [CLS] Counting:2 On eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.85718
 [CLS] Counting:2 On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a -t:2 , a . -re:2",TLC:2,0,TLC:2,0,-2.77844
+[CLS] Counting:2 On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , . a az a azn:2",TLC:2,0,TLC:2,0,-3.10647
+[CLS] Counting:2 On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 - és , ,nvel:3",TLC:2,0,TLC:2,0,-3.59258
+[CLS] Counting:2 On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A -en:2 a . és ésen:2,TLC:2,0,TLC:2,0,-3.80635
 [CLS] Ashley Paige : Bikini:2 or Bust:2 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-0.64342
 [CLS] Ashley Paige : Bikini:2 or Bust:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországonet:2,TLC:2,0,TLC:2,0,-3.00792
+[CLS] Ashley Paige : Bikini:2 or Bust:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,TLC:2,0,TLC:2,0,-3.12161
+[CLS] Ashley Paige : Bikini:2 or Bust:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Nickelodeonig:2,TLC:2,0,TLC:2,0,-3.64625
+[CLS] Ashley Paige : Bikini:2 or Bust:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],nem között,TLC:2,0,TLC:2,0,-3.84309
 [CLS] 1000 - lb Sisters eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.90792
 [CLS] 1000 - lb Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , , a a azre:2",TLC:2,0,TLC:2,0,-2.93988
+[CLS] 1000 - lb Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , at:2 a a az az aznt:2",TLC:2,0,TLC:2,0,-3.38337
+[CLS] 1000 - lb Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - - és az , ,nn:3",TLC:2,0,TLC:2,0,-3.67662
+[CLS] 1000 - lb Sisters eredetileg [MASK] sugározták:4 . [SEP],csak,TLC:2,0,TLC:2,0,-3.92315
 [CLS] Welcome to Plathville:3 eredetileg [MASK] sugározták:4 . [SEP],nem,TLC:2,0,TLC:2,0,-1.16974
 [CLS] Welcome to Plathville:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a ,t:2 . és . . .re:2",TLC:2,0,TLC:2,0,-2.87117
+[CLS] Welcome to Plathville:3 eredetileg [MASK] sugározták:4 . [SEP],is,TLC:2,0,TLC:2,0,-3.20877
+[CLS] Welcome to Plathville:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -t:2 -t:2 a , , és is",TLC:2,0,TLC:2,0,-3.52125
+[CLS] Welcome to Plathville:3 eredetileg [MASK] sugározták:4 . [SEP],angolul,TLC:2,0,TLC:2,0,-3.89262
 [CLS] Danny Phantom eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Nickelodeon,0,Nickelodeon,0,-1.90196
 [CLS] Danny Phantom eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . .re:2",Nickelodeon,0,Nickelodeon,0,-2.79071
+[CLS] Danny Phantom eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Nickelodeon,1,Nickelodeon,1,-3.14528
+[CLS] Danny Phantom eredetileg [MASK] sugározták:4 . [SEP],nem,Nickelodeon,0,Nickelodeon,0,-3.23822
+[CLS] Danny Phantom eredetileg [MASK] sugározták:4 . [SEP],itt,Nickelodeon,0,Nickelodeon,0,-3.50980
 [CLS] Mad Labs eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . -t:2,National Geographic Channel,0,National Geographic Channel,0,-1.97511
 [CLS] Mad Labs eredetileg [MASK] sugározták:4 . [SEP],is,National Geographic Channel,0,National Geographic Channel,0,-2.57634
+[CLS] Mad Labs eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , - a , azenvel:3",National Geographic Channel,0,National Geographic Channel,0,-3.41530
+[CLS] Mad Labs eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azt:2 és az , azr:2",National Geographic Channel,0,National Geographic Channel,0,-3.70220
+[CLS] Mad Labs eredetileg [MASK] sugározták:4 . [SEP],",",National Geographic Channel,0,National Geographic Channel,0,-3.92518
 "[CLS] Ki vagy , doki:2 ? eredetileg [MASK] sugározták:4 . [SEP]",nem,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-1.17276
 "[CLS] Ki vagy , doki:2 ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",az a . - a a az . .re:2,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.01841
+"[CLS] Ki vagy , doki:2 ? eredetileg [MASK] [MASK] sugározták:4 . [SEP]",Magyarországon Magyarországon,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.44646
+"[CLS] Ki vagy , doki:2 ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",", , a és és és . sz ésnt:2",Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.63382
+"[CLS] Ki vagy , doki:2 ? eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",A sz és . az az és és sz alapján,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.83884
 [CLS] A kiskutya:3 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-1.33449
 [CLS] A kiskutya:3 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-1.51404
+[CLS] A kiskutya:3 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],itt,American Broadcasting Company,0,American Broadcasting Company,0,-3.27758
+[CLS] A kiskutya:3 kalandjai:3 eredetileg [MASK] [MASK] sugározták:4 . [SEP],kana Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-3.47416
+[CLS] A kiskutya:3 kalandjai:3 eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.59681
 [CLS] A tolvajok:3 hercegnője:3 eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-1.22278
 [CLS] A tolvajok:3 hercegnője:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-2.30070
+[CLS] A tolvajok:3 hercegnője:3 eredetileg [MASK] sugározták:4 . [SEP],is,American Broadcasting Company,0,American Broadcasting Company,0,-3.16358
+[CLS] A tolvajok:3 hercegnője:3 eredetileg [MASK] sugározták:4 . [SEP],itt,American Broadcasting Company,0,American Broadcasting Company,0,-3.27566
+[CLS] A tolvajok:3 hercegnője:3 eredetileg [MASK] sugározták:4 . [SEP],filmet,American Broadcasting Company,0,American Broadcasting Company,0,-3.59739
 [CLS] A fagy:2 birodalma:3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.90774
 [CLS] A fagy:2 birodalma:3 eredetileg [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -et:2,BBC One,0,BBC One,0,-3.31038
+[CLS] A fagy:2 birodalma:3 eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.39387
+[CLS] A fagy:2 birodalma:3 eredetileg [MASK] sugározták:4 . [SEP],úgy,BBC One,0,BBC One,0,-3.51015
+[CLS] A fagy:2 birodalma:3 eredetileg [MASK] sugározták:4 . [SEP],itt,BBC One,0,BBC One,0,-3.51304
 "[CLS] Roary:3 , a versenyautó:4 eredetileg [MASK] sugározták:4 . [SEP]",nem,Nickelodeon,0,Nickelodeon,0,-1.48165
 "[CLS] Roary:3 , a versenyautó:4 eredetileg [MASK] sugározták:4 . [SEP]",itt,Nickelodeon,0,Nickelodeon,0,-2.07105
+"[CLS] Roary:3 , a versenyautó:4 eredetileg [MASK] sugározták:4 . [SEP]",Magyarországon,Nickelodeon,0,Nickelodeon,0,-2.78218
+"[CLS] Roary:3 , a versenyautó:4 eredetileg [MASK] sugározták:4 . [SEP]",is,Nickelodeon,0,Nickelodeon,0,-3.41475
+"[CLS] Roary:3 , a versenyautó:4 eredetileg [MASK] sugározták:4 . [SEP]",azért,Nickelodeon,0,Nickelodeon,0,-3.94499
 [CLS] Pingu:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,BBC Two,0,BBC Two,0,-2.05080
 [CLS] Pingu:2 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC Two,0,BBC Two,0,-2.51015
+[CLS] Pingu:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. azn:2 és és aznn:3,BBC Two,0,BBC Two,0,-3.20154
+[CLS] Pingu:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - a . az ésl:2",BBC Two,0,BBC Two,0,-3.63737
+[CLS] Pingu:2 eredetileg [MASK] sugározták:4 . [SEP],is,BBC Two,0,BBC Two,0,-3.87805
 [CLS] Anubisz:3 házának:2 rejtélyei:4 eredetileg [MASK] sugározták:4 . [SEP],nem,Nickelodeon,0,Nickelodeon,0,-1.38070
 [CLS] Anubisz:3 házának:2 rejtélyei:4 eredetileg [MASK] sugározták:4 . [SEP],is,Nickelodeon,0,Nickelodeon,0,-2.69178
+[CLS] Anubisz:3 házának:2 rejtélyei:4 eredetileg [MASK] sugározták:4 . [SEP],úgy,Nickelodeon,0,Nickelodeon,0,-3.11654
+[CLS] Anubisz:3 házának:2 rejtélyei:4 eredetileg [MASK] sugározták:4 . [SEP],itt,Nickelodeon,0,Nickelodeon,0,-3.67033
+[CLS] Anubisz:3 házának:2 rejtélyei:4 eredetileg [MASK] sugározták:4 . [SEP],így,Nickelodeon,0,Nickelodeon,0,-3.80686
 [CLS] James Paul McCartney eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,American Broadcasting Company,0,American Broadcasting Company,0,-1.97548
 [CLS] James Paul McCartney eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],az Beatleset:2,American Broadcasting Company,0,American Broadcasting Company,0,-2.85106
+[CLS] James Paul McCartney eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. a szt:2 a az a -n:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.16754
+[CLS] James Paul McCartney eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A azt:2 sz az , sz sznt:2",American Broadcasting Company,0,American Broadcasting Company,0,-3.60147
+[CLS] James Paul McCartney eredetileg [MASK] sugározták:4 . [SEP],",",American Broadcasting Company,0,American Broadcasting Company,0,-3.76925
 [CLS] Purple and Brown eredetileg [MASK] sugározták:4 . [SEP],nem,Nickelodeon,0,Nickelodeon,0,-1.92492
 [CLS] Purple and Brown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és a .re:2",Nickelodeon,0,Nickelodeon,0,-2.94596
+[CLS] Purple and Brown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. aznt:3 és az a azn:2,Nickelodeon,0,Nickelodeon,0,-3.35814
+[CLS] Purple and Brown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , - a . ésrer:3",Nickelodeon,0,Nickelodeon,0,-3.70132
+[CLS] Purple and Brown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A sz at:2 , sz és is",Nickelodeon,0,Nickelodeon,0,-3.82973
 [CLS] Kis piros:2 traktor:2 eredetileg [MASK] sugározták:4 . [SEP],nem,Nickelodeon,0,Nickelodeon,0,-1.00911
 [CLS] Kis piros:2 traktor:2 eredetileg [MASK] sugározták:4 . [SEP],itt,Nickelodeon,0,Nickelodeon,0,-2.75528
+[CLS] Kis piros:2 traktor:2 eredetileg [MASK] sugározták:4 . [SEP],is,Nickelodeon,0,Nickelodeon,0,-3.08767
+[CLS] Kis piros:2 traktor:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz ,t:2 sz az , - .r:2",Nickelodeon,0,Nickelodeon,0,-3.59133
+[CLS] Kis piros:2 traktor:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , sz szt:2 a sz atn:3",Nickelodeon,0,Nickelodeon,0,-3.75556
 [CLS] The Last Days of Pompeii:3 eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-1.63251
 [CLS] The Last Days of Pompeii:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-2.68444
+[CLS] The Last Days of Pompeii:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", a . és . a . -enn:3",American Broadcasting Company,0,American Broadcasting Company,0,-3.31349
+[CLS] The Last Days of Pompeii:3 eredetileg [MASK] sugározták:4 . [SEP],filmet,American Broadcasting Company,0,American Broadcasting Company,0,-3.45412
+[CLS] The Last Days of Pompeii:3 eredetileg [MASK] sugározták:4 . [SEP],kin,American Broadcasting Company,0,American Broadcasting Company,0,-3.53801
 [CLS] I Didn:2 ' t Know That eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,National Geographic Channel,0,National Geographic Channel,0,-2.31010
 [CLS] I Didn:2 ' t Know That eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . és és és . .re:2",National Geographic Channel,0,National Geographic Channel,0,-2.89996
+[CLS] I Didn:2 ' t Know That eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - és . . . az ésn:2",National Geographic Channel,0,National Geographic Channel,0,-3.18882
+[CLS] I Didn:2 ' t Know That eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az és - a a , ,reen:3",National Geographic Channel,0,National Geographic Channel,0,-3.60177
+[CLS] I Didn:2 ' t Know That eredetileg [MASK] sugározták:4 . [SEP],is,National Geographic Channel,0,National Geographic Channel,0,-3.77821
 [CLS] Love Hurts:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-2.08877
 [CLS] Love Hurts:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a - és a az .re:2,BBC One,0,BBC One,0,-2.74379
+[CLS] Love Hurts:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azt:2 és , és .zatn:3",BBC One,0,BBC One,0,-2.95735
+[CLS] Love Hurts:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", me , . a az és és alapján",BBC One,0,BBC One,0,-3.45905
+[CLS] Love Hurts:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"mezate:3 és az és , , a alapján",BBC One,0,BBC One,0,-3.75413
 [CLS] S . O . S . Titanic eredetileg [MASK] sugározták:4 . [SEP],Titanic,American Broadcasting Company,0,American Broadcasting Company,0,-1.53908
 [CLS] S . O . S . Titanic eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-2.48023
+[CLS] S . O . S . Titanic eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-2.59610
+[CLS] S . O . S . Titanic eredetileg [MASK] sugározták:4 . [SEP],is,American Broadcasting Company,0,American Broadcasting Company,0,-3.02931
+[CLS] S . O . S . Titanic eredetileg [MASK] sugározták:4 . [SEP],filmet,American Broadcasting Company,0,American Broadcasting Company,0,-3.10456
 [CLS] Fakopáncs:4 Frici:2 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-0.98306
 [CLS] Fakopáncs:4 Frici:2 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],nem,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-1.97071
+[CLS] Fakopáncs:4 Frici:2 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],is,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-2.86934
+[CLS] Fakopáncs:4 Frici:2 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],itt,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.01728
+[CLS] Fakopáncs:4 Frici:2 kalandjai:3 eredetileg [MASK] sugározták:4 . [SEP],magyarul,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.57194
 [CLS] Action Man eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . -t:2,Nickelodeon,0,Nickelodeon,0,-2.15951
 [CLS] Action Man eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . .t:2",Nickelodeon,0,Nickelodeon,0,-2.84350
+[CLS] Action Man eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Nickelodeon,0,Nickelodeon,0,-3.17076
+[CLS] Action Man eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , - a , , azr:2",Nickelodeon,0,Nickelodeon,0,-3.65903
+[CLS] Action Man eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A - a - az ésl:2,Nickelodeon,0,Nickelodeon,0,-3.92963
 [CLS] The Vicar:2 of Dibley:3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.10114
 [CLS] The Vicar:2 of Dibley:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.93651
+[CLS] The Vicar:2 of Dibley:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - , - . , . -ren:3",BBC One,0,BBC One,0,-3.23525
+[CLS] The Vicar:2 of Dibley:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , és . a . az azen:2 alapján",BBC One,0,BBC One,0,-3.50758
+[CLS] The Vicar:2 of Dibley:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", film at:2 - az , szk:2 is",BBC One,0,BBC One,0,-3.85469
 [CLS] Hector ' s House eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.66823
 [CLS] Hector ' s House eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . , . .re:2",BBC One,0,BBC One,0,-2.83988
+[CLS] Hector ' s House eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.26253
+[CLS] Hector ' s House eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A az - és és az , az alapján",BBC One,0,BBC One,0,-3.59911
+[CLS] Hector ' s House eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zatt:3 -t:2 az és ésn:2 is",BBC One,0,BBC One,0,-3.90982
 [CLS] Murder in Mind eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-1.22724
 [CLS] Murder in Mind eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a a , , a . . azre:2",BBC One,0,BBC One,0,-2.73830
+[CLS] Murder in Mind eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az ,t:2 a , az az an:2",BBC One,0,BBC One,0,-3.04619
+[CLS] Murder in Mind eredetileg [MASK] [MASK] sugározták:4 . [SEP],az Magyarországon,BBC One,0,BBC One,0,-3.35306
+[CLS] Murder in Mind eredetileg [MASK] [MASK] sugározták:4 . [SEP],amerikai között,BBC One,0,BBC One,0,-3.61489
 "[CLS] Big , Bigger:2 , Biggest:2 eredetileg [MASK] sugározták:4 . [SEP]",nem,National Geographic Channel,0,National Geographic Channel,0,-1.57627
 "[CLS] Big , Bigger:2 , Biggest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]","az a . - . . , az .n:2",National Geographic Channel,0,National Geographic Channel,0,-3.09371
+"[CLS] Big , Bigger:2 , Biggest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",". - , . és és és .kre:3",National Geographic Channel,0,National Geographic Channel,0,-3.38243
+"[CLS] Big , Bigger:2 , Biggest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",". , és - . . éskn:3",National Geographic Channel,0,National Geographic Channel,0,-3.67118
+"[CLS] Big , Bigger:2 , Biggest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",A szt:2 ést:2 az . és ésk:2,National Geographic Channel,0,National Geographic Channel,0,-3.94138
 [CLS] Eddsworld:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,Newgrounds:3,0,Newgrounds:3,0,-2.06374
 [CLS] Eddsworld:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , , a a azre:2",Newgrounds:3,0,Newgrounds:3,0,-2.83339
+[CLS] Eddsworld:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. aznt:3 a az az -n:2,Newgrounds:3,0,Newgrounds:3,0,-3.07310
+[CLS] Eddsworld:3 eredetileg [MASK] sugározták:4 . [SEP],BBC,Newgrounds:3,0,Newgrounds:3,0,-3.52365
+[CLS] Eddsworld:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Newgrounds:3,0,Newgrounds:3,0,-3.82343
 [CLS] Ben és Holly apró:2 királysága:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Nickelodeon,0,Nickelodeon,0,-1.88040
 [CLS] Ben és Holly apró:2 királysága:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Nickelodeon,0,Nickelodeon,0,-2.87242
+[CLS] Ben és Holly apró:2 királysága:2 eredetileg [MASK] sugározták:4 . [SEP],is,Nickelodeon,0,Nickelodeon,0,-3.05013
+[CLS] Ben és Holly apró:2 királysága:2 eredetileg [MASK] sugározták:4 . [SEP],itt,Nickelodeon,0,Nickelodeon,0,-3.50039
+[CLS] Ben és Holly apró:2 királysága:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Nickelodeon,1,Nickelodeon,1,-3.59796
 [CLS] Journey to the Unknown eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-2.15788
 [CLS] Journey to the Unknown eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-2.20492
+[CLS] Journey to the Unknown eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - . . és . .n:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.16381
+[CLS] Journey to the Unknown eredetileg [MASK] [MASK] sugározták:4 . [SEP],azen:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.29945
+[CLS] Journey to the Unknown eredetileg [MASK] sugározták:4 . [SEP],BBC,American Broadcasting Company,0,American Broadcasting Company,0,-3.58590
 [CLS] Parkinson eredetileg [MASK] sugározták:4 . [SEP],Parkinson,BBC One,0,BBC One,0,-0.73000
 [CLS] Parkinson eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.45621
+[CLS] Parkinson eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , sz sz sz sznt:2",BBC One,0,BBC One,0,-3.26701
+[CLS] Parkinson eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , sz sz sz sz azet:2",BBC One,0,BBC One,0,-3.55700
+[CLS] Parkinson eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],sz at:2 és és és ől:2,BBC One,0,BBC One,0,-3.85504
 [CLS] Richard Hammond ' s Engineering Connections:2 eredetileg [MASK] sugározták:4 . [SEP],nem,National Geographic Channel,0,National Geographic Channel,0,-1.74381
 [CLS] Richard Hammond ' s Engineering Connections:2 eredetileg [MASK] sugározták:4 . [SEP],is,National Geographic Channel,0,National Geographic Channel,0,-2.97069
+[CLS] Richard Hammond ' s Engineering Connections:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,National Geographic Channel,0,National Geographic Channel,0,-3.19335
+[CLS] Richard Hammond ' s Engineering Connections:2 eredetileg [MASK] sugározták:4 . [SEP],tovább,National Geographic Channel,0,National Geographic Channel,0,-3.65423
+[CLS] Richard Hammond ' s Engineering Connections:2 eredetileg [MASK] sugározták:4 . [SEP],itt,National Geographic Channel,0,National Geographic Channel,0,-3.75534
 [CLS] Vision On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a a . . -t:2,BBC One,0,BBC One,0,-2.11476
 [CLS] Vision On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . az a .re:2",BBC One,0,BBC One,0,-2.72504
+[CLS] Vision On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az az , az a ann:3",BBC One,0,BBC One,0,-3.01323
+[CLS] Vision On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , at:2 , ,envel:3",BBC One,0,BBC One,0,-3.64426
+[CLS] Vision On eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - a az , azl:2",BBC One,0,BBC One,0,-3.91738
 [CLS] Five Days eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , és a -re:2",BBC One,0,BBC One,0,-1.99198
 [CLS] Five Days eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a . és a azzatre:3,BBC One,0,BBC One,0,-2.58623
+[CLS] Five Days eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , a , . . azre:2",BBC One,0,BBC One,0,-2.94165
+[CLS] Five Days eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zat:2 az és és észatn:3 alapján",BBC One,0,BBC One,0,-3.46650
+[CLS] Five Days eredetileg [MASK] sugározták:4 . [SEP],HBO,BBC One,0,BBC One,0,-3.63438
 [CLS] Édesek:3 és mostohák:3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.30409
 [CLS] Édesek:3 és mostohák:3 eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-2.76907
+[CLS] Édesek:3 és mostohák:3 eredetileg [MASK] [MASK] sugározták:4 . [SEP],TVra:2,BBC One,0,BBC One,0,-3.41458
+[CLS] Édesek:3 és mostohák:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-3.67801
+[CLS] Édesek:3 és mostohák:3 eredetileg [MASK] sugározták:4 . [SEP],a,BBC One,0,BBC One,0,-3.79428
 [CLS] Here Come the Double Deckers:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,American Broadcasting Company,0,American Broadcasting Company,0,-1.89206
 [CLS] Here Come the Double Deckers:2 eredetileg [MASK] sugározták:4 . [SEP],nem,American Broadcasting Company,0,American Broadcasting Company,0,-2.04380
+[CLS] Here Come the Double Deckers:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , , - . . , .enn:3",American Broadcasting Company,0,American Broadcasting Company,0,-3.24162
+[CLS] Here Come the Double Deckers:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,American Broadcasting Company,0,American Broadcasting Company,0,-3.48940
+[CLS] Here Come the Double Deckers:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Nickelodeonen:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.72187
 [CLS] The Great War eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,BBC One,0,BBC One,0,-2.31359
 [CLS] The Great War eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a a , a a azatre:3",BBC One,0,BBC One,0,-2.98049
+[CLS] The Great War eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-3.12825
+[CLS] The Great War eredetileg [MASK] sugározták:4 . [SEP],NBC,BBC One,0,BBC One,0,-3.20386
+[CLS] The Great War eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-3.43662
 [CLS] Totally:2 Doctor Who eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a a - és a a -re:2,BBC One,0,BBC One,0,-2.10779
 [CLS] Totally:2 Doctor Who eredetileg [MASK] sugározták:4 . [SEP],BBC,BBC One,0,BBC One,0,-2.45368
+[CLS] Totally:2 Doctor Who eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , . , és .zatn:3",BBC One,0,BBC One,0,-3.06919
+[CLS] Totally:2 Doctor Who eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.23645
+[CLS] Totally:2 Doctor Who eredetileg [MASK] sugározták:4 . [SEP],Anglia,BBC One,0,BBC One,0,-3.24643
 [CLS] The Body Farm eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-2.16674
 [CLS] The Body Farm eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.64601
+[CLS] The Body Farm eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,BBC One,0,BBC One,0,-2.93597
+[CLS] The Body Farm eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],Azat:2 - a és észat:2 - alapján,BBC One,0,BBC One,0,-3.50275
+[CLS] The Body Farm eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,BBC One,0,BBC One,0,-3.77739
 [CLS] Hollywood 7 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Hollywoodet:2,CBBC:2,0,CBBC:2,0,-2.12894
 [CLS] Hollywood 7 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , , a az .re:2",CBBC:2,0,CBBC:2,0,-2.71365
+[CLS] Hollywood 7 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],.zattt:4 a az . azn:2,CBBC:2,0,CBBC:2,0,-2.98802
+[CLS] Hollywood 7 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - - . , , is",CBBC:2,0,CBBC:2,0,-3.52978
+[CLS] Hollywood 7 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,CBBC:2,0,CBBC:2,0,-3.78417
 [CLS] Garrow:2 ' s Law eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.97078
 [CLS] Garrow:2 ' s Law eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a ,t:2 és és . . .re:2",BBC One,0,BBC One,0,-2.91327
+[CLS] Garrow:2 ' s Law eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az - . . . , azenn:3",BBC One,0,BBC One,0,-3.25999
+[CLS] Garrow:2 ' s Law eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a - a a az ,re:2 alapján",BBC One,0,BBC One,0,-3.56253
+[CLS] Garrow:2 ' s Law eredetileg [MASK] sugározták:4 . [SEP],HBO,BBC One,0,BBC One,0,-3.72823
 [CLS] Casanova eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,American Broadcasting Company,0,American Broadcasting Company,0,-2.05760
 [CLS] Casanova eredetileg [MASK] sugározták:4 . [SEP],Olaszországban,American Broadcasting Company,0,American Broadcasting Company,0,-2.22593
+[CLS] Casanova eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],azzat:2 és a azren:3,American Broadcasting Company,0,American Broadcasting Company,0,-3.27742
+[CLS] Casanova eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , a és ,zatl:3",American Broadcasting Company,0,American Broadcasting Company,0,-3.51020
+[CLS] Casanova eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A aznt:3 észat:2 - alapján,American Broadcasting Company,0,American Broadcasting Company,0,-3.90404
 [CLS] 999 eredetileg [MASK] sugározták:4 . [SEP],999,BBC One,0,BBC One,0,-1.53017
 [CLS] 999 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az az az az az az azre:2,BBC One,0,BBC One,0,-2.60024
+[CLS] 999 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a a a -n:2,BBC One,0,BBC One,0,-3.29102
+[CLS] 999 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz a a , ,urr:3",BBC One,0,BBC One,0,-3.84755
+[CLS] 999 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - és ,envel:3",BBC One,0,BBC One,0,-4.07370
 [CLS] A Gift for Zooter:2 eredetileg [MASK] sugározták:4 . [SEP],nem,Playhouse Disney,0,Playhouse Disney,0,-1.73131
 [CLS] A Gift for Zooter:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Playhouse Disney,0,Playhouse Disney,0,-1.74135
+[CLS] A Gift for Zooter:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],aen:2,Playhouse Disney,0,Playhouse Disney,0,-3.10034
+[CLS] A Gift for Zooter:2 eredetileg [MASK] sugározták:4 . [SEP],is,Playhouse Disney,0,Playhouse Disney,0,-3.26712
+[CLS] A Gift for Zooter:2 eredetileg [MASK] sugározták:4 . [SEP],itt,Playhouse Disney,0,Playhouse Disney,0,-3.42496
 [CLS] Animal Hospital eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,BBC One,0,BBC One,0,-2.29081
 [CLS] Animal Hospital eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , . az -re:2",BBC One,0,BBC One,0,-2.79174
+[CLS] Animal Hospital eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és az a azr:2,BBC One,0,BBC One,0,-3.21563
+[CLS] Animal Hospital eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-3.34474
+[CLS] Animal Hospital eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.51132
 [CLS] BBC - 3 eredetileg [MASK] sugározták:4 . [SEP],BBC,BBC One,0,BBC One,0,-1.12027
 [CLS] BBC - 3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.39173
+[CLS] BBC - 3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". -z:2 . , az .zre:3",BBC One,0,BBC One,0,-2.96326
+[CLS] BBC - 3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azt:2 és a és és aznt:2",BBC One,0,BBC One,0,-3.41920
+[CLS] BBC - 3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"észat:2 -n:2 az , sz és és",BBC One,0,BBC One,0,-3.71625
 [CLS] BBC Look North eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-1.79385
 [CLS] BBC Look North eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.25520
+[CLS] BBC Look North eredetileg [MASK] sugározták:4 . [SEP],BBC,BBC One,0,BBC One,0,-2.47398
+[CLS] BBC Look North eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zatt:3 és a . és az is",BBC One,0,BBC One,0,-3.45924
+[CLS] BBC Look North eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"BBC , ésn:2 az , , ésk:2",BBC One,0,BBC One,0,-3.67065
 [CLS] BBC News Summary eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.52449
 [CLS] BBC News Summary eredetileg [MASK] [MASK] sugározták:4 . [SEP],BBCet:2,BBC One,0,BBC One,0,-2.86143
+[CLS] BBC News Summary eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],BBC BBCre:2,BBC One,0,BBC One,0,-3.14327
+[CLS] BBC News Summary eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],",zat:2 an:2 . és szzaten:3",BBC One,0,BBC One,0,-3.49271
+[CLS] BBC News Summary eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"sz sznt:3 az , és .vel:2",BBC One,0,BBC One,0,-3.72428
 [CLS] Backup:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . -t:2,BBC One,0,BBC One,0,-2.06536
 [CLS] Backup:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . az . -re:2",BBC One,0,BBC One,0,-2.65493
+[CLS] Backup:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - és a a azn:2,BBC One,0,BBC One,0,-3.10246
+[CLS] Backup:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A az - a , , is",BBC One,0,BBC One,0,-3.65473
+[CLS] Backup:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , az a és sznl:3",BBC One,0,BBC One,0,-3.85195
 [CLS] Beast eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-2.05961
 [CLS] Beast eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , a . azre:2",BBC One,0,BBC One,0,-2.71639
+[CLS] Beast eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és a -n:2,BBC One,0,BBC One,0,-3.18648
+[CLS] Beast eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A me a a , ,enr:3",BBC One,0,BBC One,0,-3.78754
+[CLS] Beast eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", me és az , ésl:2",BBC One,0,BBC One,0,-3.92882
 [CLS] Being Mick eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a a és és a -t:2,American Broadcasting Company,0,American Broadcasting Company,0,-2.23242
 [CLS] Being Mick eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az . at:2 az az az .re:2,American Broadcasting Company,0,American Broadcasting Company,0,-2.62783
+[CLS] Being Mick eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az az az az az az az an:2,American Broadcasting Company,0,American Broadcasting Company,0,-3.03606
+[CLS] Being Mick eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A met:2 és és és és és alapján,American Broadcasting Company,0,American Broadcasting Company,0,-3.69484
+[CLS] Being Mick eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz at:2 . , és alapján",American Broadcasting Company,0,American Broadcasting Company,0,-3.88052
 [CLS] Big Break eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , és a -re:2",BBC One,0,BBC One,0,-2.07583
 [CLS] Big Break eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és az a .t:2",BBC One,0,BBC One,0,-2.58028
+[CLS] Big Break eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. a at:2 az a azatn:3,BBC One,0,BBC One,0,-2.97233
+[CLS] Big Break eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , a . és ésen:2",BBC One,0,BBC One,0,-3.57358
+[CLS] Big Break eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Azat:2 az az , ésnen:3",BBC One,0,BBC One,0,-3.82805
 [CLS] Big Deal eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,BBC One,0,BBC One,0,-1.97485
 [CLS] Big Deal eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . a a azre:2",BBC One,0,BBC One,0,-2.69456
+[CLS] Big Deal eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és és az -n:2,BBC One,0,BBC One,0,-3.05136
+[CLS] Big Deal eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-3.45613
+[CLS] Big Deal eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-3.51768
 [CLS] Bitsa:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,BBC One,0,BBC One,0,-1.90619
 [CLS] Bitsa:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , az az azre:2",BBC One,0,BBC One,0,-2.78377
+[CLS] Bitsa:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azn:2 és , ann:3",BBC One,0,BBC One,0,-3.13721
+[CLS] Bitsa:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az - a és ,n:2",BBC One,0,BBC One,0,-3.62766
+[CLS] Bitsa:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - a az , éset:2",BBC One,0,BBC One,0,-3.82815
 [CLS] Blessed:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,BBC One,0,BBC One,0,-2.01974
 [CLS] Blessed:3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.67492
+[CLS] Blessed:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - . . az ésn:2,BBC One,0,BBC One,0,-3.21137
+[CLS] Blessed:3 eredetileg [MASK] [MASK] sugározták:4 . [SEP],kana Magyarországon,BBC One,0,BBC One,0,-3.55114
+[CLS] Blessed:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A - at:2 az ,enl:3",BBC One,0,BBC One,0,-3.84632
 [CLS] Brush:2 Strokes:3 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.69434
 [CLS] Brush:2 Strokes:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a ,t:2 . . a az -re:2",BBC One,0,BBC One,0,-2.82383
+[CLS] Brush:2 Strokes:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azt:2 .t:2 és , ann:3",BBC One,0,BBC One,0,-3.20947
+[CLS] Brush:2 Strokes:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", -tt:3 a és ,enet:3",BBC One,0,BBC One,0,-3.56738
+[CLS] Brush:2 Strokes:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A szn:2 és a az és sz azr:2,BBC One,0,BBC One,0,-3.93543
 [CLS] Bump:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,BBC One,0,BBC One,0,-2.07246
 [CLS] Bump:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , az az -re:2",BBC One,0,BBC One,0,-2.75198
+[CLS] Bump:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és a ann:3,BBC One,0,BBC One,0,-3.17973
+[CLS] Bump:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , az a , sz azr:2",BBC One,0,BBC One,0,-3.67373
+[CLS] Bump:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz - az és ,enl:3",BBC One,0,BBC One,0,-3.81897
 [CLS] Bus Life eredetileg [MASK] sugározták:4 . [SEP],nem,Disney Channel,0,Disney Channel,0,-1.76818
 [CLS] Bus Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . -re:2",Disney Channel,0,Disney Channel,0,-2.70219
+[CLS] Bus Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". azt:2 , a az aznn:3",Disney Channel,0,Disney Channel,0,-3.12942
+[CLS] Bus Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az a . , az is",Disney Channel,0,Disney Channel,0,-3.65826
+[CLS] Bus Life eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A -t:2 a és és ,vel:2",Disney Channel,0,Disney Channel,0,-3.88919
 [CLS] Cabbages:3 and Kings eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.98738
 [CLS] Cabbages:3 and Kings eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.86773
+[CLS] Cabbages:3 and Kings eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,BBC One,0,BBC One,0,-2.97272
+[CLS] Cabbages:3 and Kings eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.12517
+[CLS] Cabbages:3 and Kings eredetileg [MASK] [MASK] sugározták:4 . [SEP],azat:2,BBC One,0,BBC One,0,-3.65796
 [CLS] Call My Bluff eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . és a a -re:2,BBC Two,0,BBC Two,0,-2.18864
 [CLS] Call My Bluff eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a a , , a . azatre:3",BBC Two,0,BBC Two,0,-2.79929
+[CLS] Call My Bluff eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és és az az és alapján,BBC Two,0,BBC Two,0,-3.24278
+[CLS] Call My Bluff eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"Azat:2 - a . és , -n:2",BBC Two,0,BBC Two,0,-3.54689
+[CLS] Call My Bluff eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és - az , és azvel:2",BBC Two,0,BBC Two,0,-3.75842
 [CLS] Camberwick:3 Green eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.31401
 [CLS] Camberwick:3 Green eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . , a -re:2",BBC One,0,BBC One,0,-2.75025
+[CLS] Camberwick:3 Green eredetileg [MASK] sugározták:4 . [SEP],BBC,BBC One,0,BBC One,0,-3.01240
+[CLS] Camberwick:3 Green eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az a és és az ,n:2 is",BBC One,0,BBC One,0,-3.59053
+[CLS] Camberwick:3 Green eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],A az a - az -ket:3,BBC One,0,BBC One,0,-3.93701
 [CLS] Candy Cabs:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-1.94452
-[CLS] Candy Cabs:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.29657
+[CLS] Candy Cabs:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.29656
+[CLS] Candy Cabs:2 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.86645
+[CLS] Candy Cabs:2 eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.47365
+[CLS] Candy Cabs:2 eredetileg [MASK] sugározták:4 . [SEP],itt,BBC One,0,BBC One,0,-3.60871
 [CLS] Cardiac:2 Arrest:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-2.01590
 [CLS] Cardiac:2 Arrest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . . az -re:2",BBC One,0,BBC One,0,-2.88030
+[CLS] Cardiac:2 Arrest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az -t:2 a a az ann:3,BBC One,0,BBC One,0,-3.30422
+[CLS] Cardiac:2 Arrest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a és és , ,enl:3",BBC One,0,BBC One,0,-3.53332
+[CLS] Cardiac:2 Arrest:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", A és - az és sz azvel:2",BBC One,0,BBC One,0,-3.80727
 [CLS] Casanova ' 73 eredetileg [MASK] sugározták:4 . [SEP],Olaszországban,BBC One,0,BBC One,0,-1.85263
 [CLS] Casanova ' 73 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],".zat:2 , . , az azzatre:3",BBC One,0,BBC One,0,-2.85665
+[CLS] Casanova ' 73 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -t:2 és a a -n:2,BBC One,0,BBC One,0,-3.18699
+[CLS] Casanova ' 73 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azt:2 és az ,zatnl:4",BBC One,0,BBC One,0,-3.56166
+[CLS] Casanova ' 73 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],": ,nre:3 a és , az alapján",BBC One,0,BBC One,0,-3.87247
 [CLS] Challenge Anneka:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,BBC One,0,BBC One,0,-2.05445
 [CLS] Challenge Anneka:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a , , , , a a are:2",BBC One,0,BBC One,0,-2.62739
+[CLS] Challenge Anneka:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.78421
+[CLS] Challenge Anneka:2 eredetileg [MASK] sugározták:4 . [SEP],itt,BBC One,0,BBC One,0,-3.49920
+[CLS] Challenge Anneka:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"és az - az , a is",BBC One,0,BBC One,0,-3.93718
 [CLS] Chock:2 - A - Block eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.67305
 [CLS] Chock:2 - A - Block eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a - . . . . az .re:2,BBC One,0,BBC One,0,-2.91395
+[CLS] Chock:2 - A - Block eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - ,t:2 és és , ann:3",BBC One,0,BBC One,0,-3.33388
+[CLS] Chock:2 - A - Block eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 -t:2 a az , az is",BBC One,0,BBC One,0,-3.60926
+[CLS] Chock:2 - A - Block eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-3.72032
 [CLS] Compact eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . -t:2,BBC One,0,BBC One,0,-2.07873
 [CLS] Compact eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , az az azre:2",BBC One,0,BBC One,0,-2.95398
+[CLS] Compact eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az a , a -r:2",BBC One,0,BBC One,0,-3.33510
+[CLS] Compact eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , az a ,nn:3",BBC One,0,BBC One,0,-3.83521
+[CLS] Compact eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szn:2 és szenl:3",BBC One,0,BBC One,0,-3.98414
 [CLS] Court Martial eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,American Broadcasting Company,0,American Broadcasting Company,0,-2.02618
 [CLS] Court Martial eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". a , , a a .re:2",American Broadcasting Company,0,American Broadcasting Company,0,-2.82490
+[CLS] Court Martial eredetileg [MASK] sugározták:4 . [SEP],Franciaországban,American Broadcasting Company,0,American Broadcasting Company,0,-3.21093
+[CLS] Court Martial eredetileg [MASK] sugározták:4 . [SEP],is,American Broadcasting Company,0,American Broadcasting Company,0,-3.45345
+[CLS] Court Martial eredetileg [MASK] sugározták:4 . [SEP],HBO,American Broadcasting Company,0,American Broadcasting Company,0,-3.68732
 [CLS] Crocodile:4 Shoes II eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-1.64985
 [CLS] Crocodile:4 Shoes II eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.98096
+[CLS] Crocodile:4 Shoes II eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , -t:2 és a . ,en:2 is",BBC One,0,BBC One,0,-3.39635
+[CLS] Crocodile:4 Shoes II eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,BBC One,0,BBC One,0,-3.58129
+[CLS] Crocodile:4 Shoes II eredetileg [MASK] sugározták:4 . [SEP],tovább,BBC One,0,BBC One,0,-3.73338
 [CLS] Crown Prosecutor:3 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-1.97462
 [CLS] Crown Prosecutor:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.16185
+[CLS] Crown Prosecutor:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , a a , az az azn:2",BBC One,0,BBC One,0,-3.16954
+[CLS] Crown Prosecutor:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , -t:2 és az , ,n:2 alapján",BBC One,0,BBC One,0,-3.63412
+[CLS] Crown Prosecutor:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szn:2 és az és és szenr:3",BBC One,0,BBC One,0,-3.86795
 [CLS] Didn:2 ' t They Do Well eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-1.81198
 [CLS] Didn:2 ' t They Do Well eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.68105
+[CLS] Didn:2 ' t They Do Well eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-2.86538
+[CLS] Didn:2 ' t They Do Well eredetileg [MASK] [MASK] sugározták:4 . [SEP],Magyarországonen:2,BBC One,0,BBC One,0,-3.36186
+[CLS] Didn:2 ' t They Do Well eredetileg [MASK] [MASK] sugározták:4 . [SEP],amerikai Magyarországon,BBC One,0,BBC One,0,-3.79162
 "[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] sugározták:4 . [SEP]",Magyarországon,BBC One,0,BBC One,0,-1.90100
-"[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] sugározták:4 . [SEP]",nem,BBC One,0,BBC One,0,-2.22304
+"[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] sugározták:4 . [SEP]",nem,BBC One,0,BBC One,0,-2.22303
+"[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",". , , - . . , az ésre:2",BBC One,0,BBC One,0,-3.34644
+"[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] sugározták:4 . [SEP]",is,BBC One,0,BBC One,0,-3.55202
+"[CLS] Don ' t Get Done , Get Dom eredetileg [MASK] sugározták:4 . [SEP]",Nickelodeon,BBC One,0,BBC One,0,-3.66102
 [CLS] Don ' t Tell the Bride eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC Three,0,BBC Three,0,-1.88484
 [CLS] Don ' t Tell the Bride eredetileg [MASK] sugározták:4 . [SEP],nem,BBC Three,0,BBC Three,0,-2.41948
+[CLS] Don ' t Tell the Bride eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az , , . . . , azren:3",BBC Three,0,BBC Three,0,-3.18773
+[CLS] Don ' t Tell the Bride eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - és - a . , , is",BBC Three,0,BBC Three,0,-3.52353
+[CLS] Don ' t Tell the Bride eredetileg [MASK] [MASK] sugározták:4 . [SEP],kanare:2,BBC Three,0,BBC Three,0,-3.59648
 [CLS] Drama Connections:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC One,0,BBC One,0,-1.91574
 [CLS] Drama Connections:2 eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-2.64647
+[CLS] Drama Connections:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],.zat:2 at:2 és az az azn:2,BBC One,0,BBC One,0,-3.09156
+[CLS] Drama Connections:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azzat:2 és a ,zatn:3 alapján",BBC One,0,BBC One,0,-3.54980
+[CLS] Drama Connections:2 eredetileg [MASK] sugározták:4 . [SEP],HBO,BBC One,0,BBC One,0,-3.62423
 [CLS] East Midlands Today eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,BBC One,0,BBC One,0,-2.23213
 [CLS] East Midlands Today eredetileg [MASK] sugározták:4 . [SEP],BBC,BBC One,0,BBC One,0,-2.36824
+[CLS] East Midlands Today eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-2.49424
+[CLS] East Midlands Today eredetileg [MASK] sugározták:4 . [SEP],ITV,BBC One,0,BBC One,0,-2.87763
+[CLS] East Midlands Today eredetileg [MASK] sugározták:4 . [SEP],heti,BBC One,0,BBC One,0,-3.29957
 [CLS] El Nombre eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . . .t:2,BBC One,0,BBC One,0,-2.02235
 [CLS] El Nombre eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és , . .re:2",BBC One,0,BBC One,0,-2.88400
+[CLS] El Nombre eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a . és az azn:2,BBC One,0,BBC One,0,-3.27222
+[CLS] El Nombre eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", , és a . és ésl:2",BBC One,0,BBC One,0,-3.52228
+[CLS] El Nombre eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"és - - de az ,zr:3",BBC One,0,BBC One,0,-3.79323
 [CLS] The Spooky:3 Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , , és a a -t:2",Jetix:2,0,Jetix:2,0,-2.03197
 [CLS] The Spooky:3 Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -t:2 és és . . .re:2,Jetix:2,0,Jetix:2,0,-2.79500
+[CLS] The Spooky:3 Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , . . . az azzatn:3",Jetix:2,0,Jetix:2,0,-3.11361
+[CLS] The Spooky:3 Sisters eredetileg [MASK] sugározták:4 . [SEP],CBS,Jetix:2,0,Jetix:2,0,-3.44558
+[CLS] The Spooky:3 Sisters eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a és a az ,zatre:3 alapján",Jetix:2,0,Jetix:2,0,-3.73152
 [CLS] Explorations:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,National Geographic Channel,0,National Geographic Channel,0,-1.97538
 [CLS] Explorations:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , a a -re:2",National Geographic Channel,0,National Geographic Channel,0,-2.89146
+[CLS] Explorations:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a a az azenn:3,National Geographic Channel,0,National Geographic Channel,0,-3.20006
+[CLS] Explorations:2 eredetileg [MASK] sugározták:4 . [SEP],NBC,National Geographic Channel,0,National Geographic Channel,0,-3.61957
+[CLS] Explorations:2 eredetileg [MASK] sugározták:4 . [SEP],a,National Geographic Channel,0,National Geographic Channel,0,-3.86362
 [CLS] It ' s Only TV . . . but I Like It eredetileg [MASK] sugározták:4 . [SEP],nem,BBC One,0,BBC One,0,-0.88583
 [CLS] It ' s Only TV . . . but I Like It eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,BBC One,0,BBC One,0,-2.49502
+[CLS] It ' s Only TV . . . but I Like It eredetileg [MASK] sugározták:4 . [SEP],is,BBC One,0,BBC One,0,-3.03837
+[CLS] It ' s Only TV . . . but I Like It eredetileg [MASK] sugározták:4 . [SEP],angolul,BBC One,0,BBC One,0,-3.61369
+[CLS] It ' s Only TV . . . but I Like It eredetileg [MASK] [MASK] sugározták:4 . [SEP],és nem,BBC One,0,BBC One,0,-3.84797
 "[CLS] Jungle Junction , series 2 eredetileg [MASK] sugározták:4 . [SEP]",nem,Playhouse Disney,0,Playhouse Disney,0,-1.37108
 "[CLS] Jungle Junction , series 2 eredetileg [MASK] sugározták:4 . [SEP]",Magyarországon,Playhouse Disney,0,Playhouse Disney,0,-1.61932
+"[CLS] Jungle Junction , series 2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",", - . és . és , .et:2",Playhouse Disney,0,Playhouse Disney,0,-3.30634
+"[CLS] Jungle Junction , series 2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",", ,t:2 -t:2 a és az ,en:2",Playhouse Disney,0,Playhouse Disney,0,-3.63194
+"[CLS] Jungle Junction , series 2 eredetileg [MASK] sugározták:4 . [SEP]",NBC,Playhouse Disney,0,Playhouse Disney,0,-3.75692
 "[CLS] Jungle Junction , series 1 eredetileg [MASK] sugározták:4 . [SEP]",nem,Playhouse Disney,0,Playhouse Disney,0,-1.47013
 "[CLS] Jungle Junction , series 1 eredetileg [MASK] sugározták:4 . [SEP]",Magyarországon,Playhouse Disney,0,Playhouse Disney,0,-1.57499
+"[CLS] Jungle Junction , series 1 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP]",", - . . a , ,et:2",Playhouse Disney,0,Playhouse Disney,0,-3.25985
+"[CLS] Jungle Junction , series 1 eredetileg [MASK] sugározták:4 . [SEP]",itt,Playhouse Disney,0,Playhouse Disney,0,-3.54986
+"[CLS] Jungle Junction , series 1 eredetileg [MASK] sugározták:4 . [SEP]",NBC,Playhouse Disney,0,Playhouse Disney,0,-3.74002
 [CLS] Marvo:2 the Wonder Chicken eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Jetix:2,0,Jetix:2,0,-2.02485
 [CLS] Marvo:2 the Wonder Chicken eredetileg [MASK] sugározták:4 . [SEP],nem,Jetix:2,0,Jetix:2,0,-2.41155
+[CLS] Marvo:2 the Wonder Chicken eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Jetix:2,0,Jetix:2,0,-2.53119
+[CLS] Marvo:2 the Wonder Chicken eredetileg [MASK] sugározták:4 . [SEP],itt,Jetix:2,0,Jetix:2,0,-3.21874
+[CLS] Marvo:2 the Wonder Chicken eredetileg [MASK] sugározták:4 . [SEP],Disney,Jetix:2,0,Jetix:2,0,-3.33207
 [CLS] Oakie:2 Doke:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,BBC,0,BBC,0,-1.83128
 [CLS] Oakie:2 Doke:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . . . a azre:2",BBC,0,BBC,0,-2.70760
+[CLS] Oakie:2 Doke:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,BBC,0,BBC,0,-2.93871
+[CLS] Oakie:2 Doke:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az - a . és ésen:2",BBC,0,BBC,0,-3.59558
+[CLS] Oakie:2 Doke:2 eredetileg [MASK] sugározták:4 . [SEP],is,BBC,0,BBC,0,-3.85762
 [CLS] PXG:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,Jetix:2,0,Jetix:2,0,-2.02925
 [CLS] PXG:3 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],P -et:2,Jetix:2,0,Jetix:2,0,-2.63189
+[CLS] PXG:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az és és és aenn:3,Jetix:2,0,Jetix:2,0,-3.22745
+[CLS] PXG:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Jetix:2,0,Jetix:2,0,-3.36308
+[CLS] PXG:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a a , és az is",Jetix:2,0,Jetix:2,0,-3.85293
 [CLS] Paranormal:2 ? eredetileg [MASK] sugározták:4 . [SEP],nem,National Geographic Channel,0,National Geographic Channel,0,-1.97766
 [CLS] Paranormal:2 ? eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,National Geographic Channel,0,National Geographic Channel,0,-2.48031
+[CLS] Paranormal:2 ? eredetileg [MASK] sugározták:4 . [SEP],is,National Geographic Channel,0,National Geographic Channel,0,-2.78331
+[CLS] Paranormal:2 ? eredetileg [MASK] sugározták:4 . [SEP],angolul,National Geographic Channel,0,National Geographic Channel,0,-3.26682
+[CLS] Paranormal:2 ? eredetileg [MASK] [MASK] sugározták:4 . [SEP],német között,National Geographic Channel,0,National Geographic Channel,0,-3.71410
 [CLS] Perfect Weapon:2 eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,National Geographic Channel,0,National Geographic Channel,0,-1.91376
 [CLS] Perfect Weapon:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,National Geographic Channel,0,National Geographic Channel,0,-2.58932
+[CLS] Perfect Weapon:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az az , , a , az az azn:2",National Geographic Channel,0,National Geographic Channel,0,-3.27194
+[CLS] Perfect Weapon:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],az között,National Geographic Channel,0,National Geographic Channel,0,-3.63722
+[CLS] Perfect Weapon:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],Nickelodeonsat:2,National Geographic Channel,0,National Geographic Channel,0,-3.67669
 [CLS] Pinky:2 Picnic:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Playhouse Disney,0,Playhouse Disney,0,-1.71348
 [CLS] Pinky:2 Picnic:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a . és a . .t:2,Playhouse Disney,0,Playhouse Disney,0,-2.73136
+[CLS] Pinky:2 Picnic:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az azt:2 és és és azren:3,Playhouse Disney,0,Playhouse Disney,0,-3.07497
+[CLS] Pinky:2 Picnic:2 eredetileg [MASK] sugározták:4 . [SEP],is,Playhouse Disney,0,Playhouse Disney,0,-3.35662
+[CLS] Pinky:2 Picnic:2 eredetileg [MASK] sugározták:4 . [SEP],angolul,Playhouse Disney,0,Playhouse Disney,0,-3.73868
 [CLS] Planet Mechanics eredetileg [MASK] sugározták:4 . [SEP],nem,National Geographic Channel,0,National Geographic Channel,0,-2.27745
 [CLS] Planet Mechanics eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a a a a a a azre:2,National Geographic Channel,0,National Geographic Channel,0,-2.79796
+[CLS] Planet Mechanics eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az az , az az aznn:3",National Geographic Channel,0,National Geographic Channel,0,-3.19808
+[CLS] Planet Mechanics eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - és , ,nvel:3",National Geographic Channel,0,National Geographic Channel,0,-3.68990
+[CLS] Planet Mechanics eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", A az az és -enn:3",National Geographic Channel,0,National Geographic Channel,0,-3.89028
 [CLS] Return to Treasure Island eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"a . , és és a -re:2",Disney Channel,0,Disney Channel,0,-2.12315
 [CLS] Return to Treasure Island eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , és és és . .t:2",Disney Channel,0,Disney Channel,0,-2.77872
+[CLS] Return to Treasure Island eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Disney Channel,0,Disney Channel,0,-3.07339
+[CLS] Return to Treasure Island eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 - a a és ,enen:3",Disney Channel,0,Disney Channel,0,-3.46386
+[CLS] Return to Treasure Island eredetileg [MASK] sugározták:4 . [SEP],is,Disney Channel,0,Disney Channel,0,-3.73649
 [CLS] Secret Life of Toys:2 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Disney Channel,0,Disney Channel,0,-1.80588
 [CLS] Secret Life of Toys:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Disney Channel,0,Disney Channel,0,-2.81845
+[CLS] Secret Life of Toys:2 eredetileg [MASK] sugározták:4 . [SEP],nem,Disney Channel,0,Disney Channel,0,-3.14571
+[CLS] Secret Life of Toys:2 eredetileg [MASK] [MASK] sugározták:4 . [SEP],kana között,Disney Channel,0,Disney Channel,0,-3.47027
+[CLS] Secret Life of Toys:2 eredetileg [MASK] sugározták:4 . [SEP],magyar,Disney Channel,0,Disney Channel,0,-3.68877
 [CLS] The Night Before Zipsmas:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Playhouse Disney,0,Playhouse Disney,0,-1.89955
 [CLS] The Night Before Zipsmas:3 eredetileg [MASK] sugározták:4 . [SEP],nem,Playhouse Disney,0,Playhouse Disney,0,-2.19276
+[CLS] The Night Before Zipsmas:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". , - - . a . . .n:2",Playhouse Disney,0,Playhouse Disney,0,-3.14357
+[CLS] The Night Before Zipsmas:3 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azen:2 . a . az ,reen:3",Playhouse Disney,0,Playhouse Disney,0,-3.50102
+[CLS] The Night Before Zipsmas:3 eredetileg [MASK] sugározták:4 . [SEP],is,Playhouse Disney,0,Playhouse Disney,0,-3.67669
 [CLS] Claude eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Playhouse Disney,0,Playhouse Disney,0,-2.07379
 [CLS] Claude eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az . , , a azre:2",Playhouse Disney,0,Playhouse Disney,0,-2.95228
+[CLS] Claude eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az aznt:3 a a aznr:3,Playhouse Disney,0,Playhouse Disney,0,-3.31646
+[CLS] Claude eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", sz -t:2 . , ésr:2",Playhouse Disney,0,Playhouse Disney,0,-3.65562
+[CLS] Claude eredetileg [MASK] sugározták:4 . [SEP],is,Playhouse Disney,0,Playhouse Disney,0,-3.75395
 [CLS] The Whipping:3 Boy eredetileg [MASK] sugározták:4 . [SEP],nem,Disney Channel,0,Disney Channel,0,-1.71371
 [CLS] The Whipping:3 Boy eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],az a -t:2 . . . . .re:2,Disney Channel,0,Disney Channel,0,-2.79911
+[CLS] The Whipping:3 Boy eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , . és és , azren:3",Disney Channel,0,Disney Channel,0,-3.16083
+[CLS] The Whipping:3 Boy eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A ,t:2 -t:2 a és ,en:2 alapján",Disney Channel,0,Disney Channel,0,-3.49199
+[CLS] The Whipping:3 Boy eredetileg [MASK] sugározták:4 . [SEP],is,Disney Channel,0,Disney Channel,0,-3.75851
 [CLS] Houdini:3 and Doyle eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-1.99644
 [CLS] Houdini:3 and Doyle eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-2.69788
+[CLS] Houdini:3 and Doyle eredetileg [MASK] sugározták:4 . [SEP],is,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.29284
+[CLS] Houdini:3 and Doyle eredetileg [MASK] sugározták:4 . [SEP],angolul,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.49270
+[CLS] Houdini:3 and Doyle eredetileg [MASK] sugározták:4 . [SEP],magyarul,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.77976
 [CLS] Modellek:2 közt eredetileg [MASK] sugározták:4 . [SEP],nem,Comedy Central,0,Comedy Central,0,-1.52696
 [CLS] Modellek:2 közt eredetileg [MASK] [MASK] sugározták:4 . [SEP],azt:2,Comedy Central,0,Comedy Central,0,-2.83993
+[CLS] Modellek:2 közt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az , , a a a azet:2",Comedy Central,0,Comedy Central,0,-3.48922
+[CLS] Modellek:2 közt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"then:2 , a , , ,ntet:4",Comedy Central,0,Comedy Central,0,-3.89794
+[CLS] Modellek:2 közt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - - , sz - .l:2",Comedy Central,0,Comedy Central,0,-4.02435
 [CLS] Kipper:2 eredetileg [MASK] sugározták:4 . [SEP],nem,Nickelodeon,0,Nickelodeon,0,-1.79390
 [CLS] Kipper:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , . a a .re:2",Nickelodeon,0,Nickelodeon,0,-2.76189
+[CLS] Kipper:2 eredetileg [MASK] sugározták:4 . [SEP],is,Nickelodeon,0,Nickelodeon,0,-3.09805
+[CLS] Kipper:2 eredetileg [MASK] sugározták:4 . [SEP],itt,Nickelodeon,0,Nickelodeon,0,-3.11515
+[CLS] Kipper:2 eredetileg [MASK] sugározták:4 . [SEP],tovább,Nickelodeon,0,Nickelodeon,0,-3.73727
 [CLS] Wilf:2 the Witch ' s Dog eredetileg [MASK] sugározták:4 . [SEP],nem,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-1.61388
 [CLS] Wilf:2 the Witch ' s Dog eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a . - . a , . .re:2",Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.20174
+[CLS] Wilf:2 the Witch ' s Dog eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", - , . és és . azenn:3",Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.39006
+[CLS] Wilf:2 the Witch ' s Dog eredetileg [MASK] sugározták:4 . [SEP],itt,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.59480
+[CLS] Wilf:2 the Witch ' s Dog eredetileg [MASK] sugározták:4 . [SEP],BBC,Fox Broadcasting Company,0,Fox Broadcasting Company,0,-3.87303
 [CLS] Taskmaster:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . -t:2,Comedy Central,0,Comedy Central,0,-1.99086
 [CLS] Taskmaster:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a , , a az .re:2",Comedy Central,0,Comedy Central,0,-2.89783
+[CLS] Taskmaster:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az - a az anvel:3,Comedy Central,0,Comedy Central,0,-3.28356
+[CLS] Taskmaster:2 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Comedy Central,0,Comedy Central,0,-3.58154
+[CLS] Taskmaster:2 eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szn:2 az és ,kr:3",Comedy Central,0,Comedy Central,0,-3.95822
 [CLS] The State eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . . . . . .t:2,Channel 4,0,Channel 4,0,-2.13645
 [CLS] The State eredetileg [MASK] sugározták:4 . [SEP],NBC,Channel 4,0,Channel 4,0,-2.82122
+[CLS] The State eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. az a és az aznn:3,Channel 4,0,Channel 4,0,-3.25190
+[CLS] The State eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , és a és , -r:2",Channel 4,0,Channel 4,0,-3.72739
+[CLS] The State eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", szn:2 az ,zatzatl:4",Channel 4,0,Channel 4,0,-3.96123
 [CLS] Scooby - Doo és a Winchester fivérek:3 eredetileg [MASK] sugározták:4 . [SEP],nem,Cartoon Network,0,Cartoon Network,0,-1.55397
 [CLS] Scooby - Doo és a Winchester fivérek:3 eredetileg [MASK] sugározták:4 . [SEP],Magyarországon,Cartoon Network,0,Cartoon Network,0,-2.35552
+[CLS] Scooby - Doo és a Winchester fivérek:3 eredetileg [MASK] sugározták:4 . [SEP],is,Cartoon Network,0,Cartoon Network,0,-2.95429
+[CLS] Scooby - Doo és a Winchester fivérek:3 eredetileg [MASK] sugározták:4 . [SEP],itt,Cartoon Network,0,Cartoon Network,0,-3.22809
+[CLS] Scooby - Doo és a Winchester fivérek:3 eredetileg [MASK] sugározták:4 . [SEP],Nickelodeon,Cartoon Network,0,Cartoon Network,0,-3.31214
 [CLS] Dalmata:2 utca 101 . eredetileg [MASK] sugározták:4 . [SEP],nem,Disney Channel,0,Disney Channel,0,-1.13998
 [CLS] Dalmata:2 utca 101 . eredetileg [MASK] sugározták:4 . [SEP],is,Disney Channel,0,Disney Channel,0,-2.46066
+[CLS] Dalmata:2 utca 101 . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],. sz - - a . az azn:3,Disney Channel,0,Disney Channel,0,-3.11419
+[CLS] Dalmata:2 utca 101 . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"A , a a és az , ,kk:3",Disney Channel,0,Disney Channel,0,-3.45418
+[CLS] Dalmata:2 utca 101 . eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", azk:2 sz - és és - azvel:2",Disney Channel,0,Disney Channel,0,-3.79740
 [CLS] It ' s Pony eredetileg [MASK] [MASK] [MASK] sugározták:4 . [SEP],a -t:2,Nickelodeon,0,Nickelodeon,0,-2.21443
 [CLS] It ' s Pony eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az at:2 , . . . az .re:2",Nickelodeon,0,Nickelodeon,0,-2.73171
+[CLS] It ' s Pony eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". az -t:2 és , . azn:2",Nickelodeon,0,Nickelodeon,0,-3.08285
+[CLS] It ' s Pony eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", ,t:2 és a az ,enen:3",Nickelodeon,0,Nickelodeon,0,-3.48453
+[CLS] It ' s Pony eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"és az a - az , ,n:2",Nickelodeon,0,Nickelodeon,0,-3.84231
 [CLS] Lost Treasures:2 of Egypt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],a . . és és a a -re:2,National Geographic Channel,0,National Geographic Channel,0,-2.19146
 [CLS] Lost Treasures:2 of Egypt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],"az a - - , a . . .re:2",National Geographic Channel,0,National Geographic Channel,0,-2.80158
+[CLS] Lost Treasures:2 of Egypt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],". - , és . , és azenn:3",National Geographic Channel,0,National Geographic Channel,0,-3.17382
+[CLS] Lost Treasures:2 of Egypt eredetileg [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sugározták:4 . [SEP],", az a . a . az ,reen:3",National Geographic Channel,0,National Geographic Channel,0,-3.43049
+[CLS] Lost Treasures:2 of Egypt eredetileg [MASK] sugározták:4 . [SEP],angolul,National Geographic Channel,0,National Geographic Channel,0,-3.67732

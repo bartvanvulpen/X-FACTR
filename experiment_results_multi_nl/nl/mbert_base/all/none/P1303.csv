@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Candy Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altsaxofoon:5,0,altsaxofoon:5,0,-2.74256
 [CLS] Candy Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.35300
-[CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . van de .,bugel:2,0,bugel:2,0,-2.17143
+[CLS] Candy Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -t:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.69229
+[CLS] Candy Dulfer:3 speelt [MASK] [MASK] . [SEP],dies:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.98213
+[CLS] Candy Dulfer:3 speelt [MASK] [MASK] [MASK] . [SEP],een alser:2,altsaxofoon:5,0,altsaxofoon:5,0,-4.24155
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . van de .,bugel:2,0,bugel:2,0,-2.17144
 [CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de de .s:2,bugel:2,0,bugel:2,0,-2.97980
-[CLS] Hans Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de -en:2,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-2.70110
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . .er:2,bugel:2,0,bugel:2,0,-3.41764
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],zijn hoofd -t:2,bugel:2,0,bugel:2,0,-3.75035
+[CLS] Adrianus:2 Cornelis van Leeuwen:2 speelt [MASK] [MASK] . [SEP],fl orgel,bugel:2,0,bugel:2,0,-3.89582
+[CLS] Hans Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de -en:2,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-2.70111
 [CLS] Hans Dulfer:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als deer:2,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.09261
-[CLS] Max Werner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,stem,0,stem,0,-1.84721
+[CLS] Hans Dulfer:3 speelt [MASK] . [SEP],tennis,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.28550
+[CLS] Hans Dulfer:3 speelt [MASK] . [SEP],Handball,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.47652
+[CLS] Hans Dulfer:3 speelt [MASK] . [SEP],badminton,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.80263
+[CLS] Max Werner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,stem,0,stem,0,-1.84722
 [CLS] Max Werner speelt [MASK] [MASK] [MASK] . [SEP],als -s:2,stem,0,stem,0,-3.52202
-[CLS] Hans Theessink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de -t:2,gitaar,0,gitaar,0,-2.66232
+[CLS] Max Werner speelt [MASK] [MASK] [MASK] [MASK] . [SEP],"la , -o:2",stem,0,stem,0,-3.96127
+[CLS] Max Werner speelt [MASK] [MASK] [MASK] . [SEP],den alsn:2,stem,0,stem,0,-4.28295
+[CLS] Max Werner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],",to:2 a -t:2",stem,0,stem,0,-4.52527
+[CLS] Hans Theessink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de -t:2,gitaar,0,gitaar,0,-2.66233
 [CLS] Hans Theessink:3 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-3.07173
-[CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,bugel:2,0,bugel:2,0,-2.30891
+[CLS] Hans Theessink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een rol van dee:2,gitaar,0,gitaar,0,-3.50604
+[CLS] Hans Theessink:3 speelt [MASK] . [SEP],speelt,gitaar,0,gitaar,0,-3.71730
+[CLS] Hans Theessink:3 speelt [MASK] . [SEP],bass,gitaar,0,gitaar,0,-3.75879
+[CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,bugel:2,0,bugel:2,0,-2.30892
 [CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van . .,bugel:2,0,bugel:2,0,-3.08825
+[CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het . vaner:2,bugel:2,0,bugel:2,0,-3.66936
+[CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -r:2,bugel:2,0,bugel:2,0,-3.87323
+[CLS] Ack:2 van Rooyen:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als van enen:2,bugel:2,0,bugel:2,0,-4.02071
 [CLS] Theo Loevendie:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,saxofoon:4,0,saxofoon:4,0,-2.72721
 [CLS] Theo Loevendie:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .s:2,saxofoon:4,0,saxofoon:4,0,-3.30330
-[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,piano,0,piano,0,-2.61874
-[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .,piano,0,piano,0,-3.39541
+[CLS] Theo Loevendie:3 speelt [MASK] . [SEP],acteur,saxofoon:4,0,saxofoon:4,0,-3.52873
+[CLS] Theo Loevendie:3 speelt [MASK] . [SEP],bass,saxofoon:4,0,saxofoon:4,0,-3.56393
+[CLS] Theo Loevendie:3 speelt [MASK] . [SEP],tenor,saxofoon:4,0,saxofoon:4,0,-3.84215
+[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,piano,0,piano,0,-2.61875
+[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .,piano,0,piano,0,-3.39540
+[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] . [SEP],op alsen:2,piano,0,piano,0,-3.59070
+[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] [MASK] . [SEP],de .e:2,piano,0,piano,0,-3.78560
+[CLS] Jan Ingenhoven:2 speelt [MASK] [MASK] . [SEP],opt:2,piano,0,piano,0,-3.94358
 [CLS] Igor Presnyakov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -en:2,gitaar,0,gitaar,0,-2.38457
-[CLS] Igor Presnyakov:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -er:2,gitaar,0,gitaar,0,-2.90654
-[CLS] Benjamin Herman speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,saxofoon:4,0,saxofoon:4,0,-1.78062
+[CLS] Igor Presnyakov:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een -er:2,gitaar,0,gitaar,0,-2.90653
+[CLS] Igor Presnyakov:3 speelt [MASK] [MASK] [MASK] . [SEP],de alsen:2,gitaar,0,gitaar,0,-3.31718
+[CLS] Igor Presnyakov:3 speelt [MASK] [MASK] [MASK] . [SEP],als hetspel:2,gitaar,0,gitaar,0,-3.60895
+[CLS] Igor Presnyakov:3 speelt [MASK] [MASK] . [SEP],een speler,gitaar,0,gitaar,0,-3.77341
+[CLS] Benjamin Herman speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,saxofoon:4,0,saxofoon:4,0,-1.78063
 [CLS] Benjamin Herman speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,saxofoon:4,0,saxofoon:4,0,-3.43404
+[CLS] Benjamin Herman speelt [MASK] . [SEP],bass,saxofoon:4,0,saxofoon:4,0,-3.90180
+[CLS] Benjamin Herman speelt [MASK] [MASK] [MASK] . [SEP],in alsn:2,saxofoon:4,0,saxofoon:4,0,-4.31279
+[CLS] Benjamin Herman speelt [MASK] . [SEP],tenor,saxofoon:4,0,saxofoon:4,0,-4.48250
 [CLS] Jozef van Wissem:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,luit:2,0,luit:2,0,-2.28001
 [CLS] Jozef van Wissem:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als een -en:2,luit:2,0,luit:2,0,-2.89276
-[CLS] Jan Akkerman:3 speelt [MASK] [MASK] . [SEP],de piano,gitaar,0,gitaar,0,-2.75925
+[CLS] Jozef van Wissem:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als alser:2,luit:2,0,luit:2,0,-3.26906
+[CLS] Jozef van Wissem:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in het ene:2,luit:2,0,luit:2,0,-3.39134
+[CLS] Jozef van Wissem:2 speelt [MASK] [MASK] [MASK] . [SEP],voor flr:2,luit:2,0,luit:2,0,-3.66212
+[CLS] Jan Akkerman:3 speelt [MASK] [MASK] . [SEP],de piano,gitaar,0,gitaar,0,-2.75926
 [CLS] Jan Akkerman:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,gitaar,0,gitaar,0,-3.13742
-[CLS] Ellen Helmus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,toetsinstrument:5,0,toetsinstrument:5,0,-2.28282
+[CLS] Jan Akkerman:3 speelt [MASK] . [SEP],piano,gitaar,0,gitaar,0,-3.41773
+[CLS] Jan Akkerman:3 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-3.61636
+[CLS] Jan Akkerman:3 speelt [MASK] . [SEP],fl,gitaar,0,gitaar,0,-3.82861
+[CLS] Ellen Helmus:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,toetsinstrument:5,0,toetsinstrument:5,0,-2.28283
 [CLS] Ellen Helmus:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,toetsinstrument:5,0,toetsinstrument:5,0,-3.60171
-[CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,orgel,0,orgel,0,-2.38223
+[CLS] Ellen Helmus:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die in -s:2,toetsinstrument:5,0,toetsinstrument:5,0,-3.87465
+[CLS] Ellen Helmus:2 speelt [MASK] . [SEP],Mrs,toetsinstrument:5,0,toetsinstrument:5,0,-4.14735
+[CLS] Ellen Helmus:2 speelt [MASK] [MASK] . [SEP],alss:2,toetsinstrument:5,0,toetsinstrument:5,0,-4.38768
+[CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,orgel,0,orgel,0,-2.38224
 [CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als . van .r:2,orgel,0,orgel,0,-3.23388
+[CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] . [SEP],in hetr:2,orgel,0,orgel,0,-3.56407
+[CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van .e:2,orgel,0,orgel,0,-3.72513
+[CLS] Thijs:2 van Leer:2 speelt [MASK] [MASK] [MASK] . [SEP],op zijnt:2,orgel,0,orgel,0,-3.83901
 [CLS] Friedmar:3 Hitzer:2 speelt [MASK] [MASK] . [SEP],die piano,jazzviool:3,0,jazzviool:3,0,-2.50129
 [CLS] Friedmar:3 Hitzer:2 speelt [MASK] [MASK] [MASK] . [SEP],de -t:2,jazzviool:3,0,jazzviool:3,0,-3.28178
+[CLS] Friedmar:3 Hitzer:2 speelt [MASK] . [SEP],tenor,jazzviool:3,0,jazzviool:3,0,-3.56176
+[CLS] Friedmar:3 Hitzer:2 speelt [MASK] . [SEP],bass,jazzviool:3,0,jazzviool:3,0,-3.76683
+[CLS] Friedmar:3 Hitzer:2 speelt [MASK] . [SEP],dirigent,jazzviool:3,0,jazzviool:3,0,-3.98395
 [CLS] Guillermo Marchena:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,stem,0,stem,0,-2.71156
 [CLS] Guillermo Marchena:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in op - .,stem,0,stem,0,-2.96951
+[CLS] Guillermo Marchena:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . in .g:2,stem,0,stem,0,-3.21741
+[CLS] Guillermo Marchena:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het een . op speelt,stem,0,stem,0,-3.67367
+[CLS] Guillermo Marchena:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op of eenen:2,stem,0,stem,0,-3.75833
 [CLS] Kyteman:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,trompet:2,0,trompet:2,0,-2.67055
 [CLS] Kyteman:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de -n:2,trompet:2,0,trompet:2,0,-3.24001
-[CLS] Marco Blaauw:4 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,bugel:2,0,bugel:2,0,-2.62364
+[CLS] Kyteman:3 speelt [MASK] . [SEP],hockey,trompet:2,0,trompet:2,0,-3.44726
+[CLS] Kyteman:3 speelt [MASK] . [SEP],polo,trompet:2,0,trompet:2,0,-3.72693
+[CLS] Kyteman:3 speelt [MASK] . [SEP],volleyball,trompet:2,0,trompet:2,0,-3.82530
+[CLS] Marco Blaauw:4 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,bugel:2,0,bugel:2,0,-2.62365
 [CLS] Marco Blaauw:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in de .,bugel:2,0,bugel:2,0,-3.01179
-[CLS] Eef:2 van Breen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,bugel:2,0,bugel:2,0,-2.39712
+[CLS] Marco Blaauw:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . -en:2,bugel:2,0,bugel:2,0,-3.45144
+[CLS] Marco Blaauw:4 speelt [MASK] [MASK] . [SEP],alss:2,bugel:2,0,bugel:2,0,-3.83195
+[CLS] Marco Blaauw:4 speelt [MASK] [MASK] [MASK] . [SEP],voor inen:2,bugel:2,0,bugel:2,0,-4.04100
+[CLS] Eef:2 van Breen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,bugel:2,0,bugel:2,0,-2.39713
 [CLS] Eef:2 van Breen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . van .e:2,bugel:2,0,bugel:2,0,-3.12872
+[CLS] Eef:2 van Breen:2 speelt [MASK] . [SEP],af,bugel:2,0,bugel:2,0,-3.34941
+[CLS] Eef:2 van Breen:2 speelt [MASK] . [SEP],op,bugel:2,0,bugel:2,0,-3.34958
+[CLS] Eef:2 van Breen:2 speelt [MASK] [MASK] [MASK] . [SEP],op - speelt,bugel:2,0,bugel:2,0,-3.90983
 [CLS] Edwin Evers:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.59937
 [CLS] Edwin Evers:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,stem,0,stem,0,-2.94282
+[CLS] Edwin Evers:2 speelt [MASK] . [SEP],basketball,stem,0,stem,0,-3.30366
+[CLS] Edwin Evers:2 speelt [MASK] . [SEP],voetbal,stem,0,stem,0,-3.38771
+[CLS] Edwin Evers:2 speelt [MASK] . [SEP],handball,stem,0,stem,0,-3.39613
 [CLS] Tol Hansse:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,trompet:2,0,trompet:2,0,-2.45486
 [CLS] Tol Hansse:2 speelt [MASK] . [SEP],fotbal,trompet:2,0,trompet:2,0,-3.07204
-[CLS] Tessa:2 Boomkamp:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,gitaar,0,gitaar,0,-2.59109
+[CLS] Tol Hansse:2 speelt [MASK] . [SEP],polo,trompet:2,0,trompet:2,0,-3.32570
+[CLS] Tol Hansse:2 speelt [MASK] . [SEP],vol,trompet:2,0,trompet:2,0,-3.44918
+[CLS] Tol Hansse:2 speelt [MASK] . [SEP],Volleyball,trompet:2,0,trompet:2,0,-3.64606
+[CLS] Tessa:2 Boomkamp:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,gitaar,0,gitaar,0,-2.59110
 [CLS] Tessa:2 Boomkamp:2 speelt [MASK] . [SEP],handball,gitaar,0,gitaar,0,-3.00609
-[CLS] Rutger:3 Molenkamp:3 speelt [MASK] [MASK] [MASK] . [SEP],in deball:2,saxofoon:4,0,saxofoon:4,0,-2.59421
+[CLS] Tessa:2 Boomkamp:2 speelt [MASK] . [SEP],badminton,gitaar,0,gitaar,0,-3.15492
+[CLS] Tessa:2 Boomkamp:2 speelt [MASK] . [SEP],volleyball,gitaar,0,gitaar,0,-3.28110
+[CLS] Tessa:2 Boomkamp:2 speelt [MASK] . [SEP],basketball,gitaar,0,gitaar,0,-3.32362
+[CLS] Rutger:3 Molenkamp:3 speelt [MASK] [MASK] [MASK] . [SEP],in deball:2,saxofoon:4,0,saxofoon:4,0,-2.59422
 [CLS] Rutger:3 Molenkamp:3 speelt [MASK] . [SEP],Handball,saxofoon:4,0,saxofoon:4,0,-3.28275
-[CLS] Sieb:2 Warner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de . .,stem,0,stem,0,-2.94019
+[CLS] Rutger:3 Molenkamp:3 speelt [MASK] . [SEP],tennis,saxofoon:4,0,saxofoon:4,0,-3.38685
+[CLS] Rutger:3 Molenkamp:3 speelt [MASK] . [SEP],fotbal,saxofoon:4,0,saxofoon:4,0,-3.57589
+[CLS] Rutger:3 Molenkamp:3 speelt [MASK] . [SEP],basketball,saxofoon:4,0,saxofoon:4,0,-3.75644
+[CLS] Sieb:2 Warner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de . .,stem,0,stem,0,-2.94020
 [CLS] Sieb:2 Warner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in dee:2,stem,0,stem,0,-3.28446
-[CLS] Joost:2 Marsman:2 speelt [MASK] [MASK] [MASK] . [SEP],de de speelt,saxofoon:4,0,saxofoon:4,0,-2.46440
+[CLS] Sieb:2 Warner speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de . -s:2,stem,0,stem,0,-3.86641
+[CLS] Sieb:2 Warner speelt [MASK] . [SEP],speelt,stem,0,stem,0,-4.07514
+[CLS] Sieb:2 Warner speelt [MASK] . [SEP],v,stem,0,stem,0,-4.09487
+[CLS] Joost:2 Marsman:2 speelt [MASK] [MASK] [MASK] . [SEP],de de speelt,saxofoon:4,0,saxofoon:4,0,-2.46441
 [CLS] Joost:2 Marsman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als -s:2,saxofoon:4,0,saxofoon:4,0,-3.23838
-[CLS] Rob van der Loo:2 speelt [MASK] [MASK] . [SEP],de acteur,basinstrument:3,0,basinstrument:3,0,-2.37121
+[CLS] Joost:2 Marsman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in -e:2,saxofoon:4,0,saxofoon:4,0,-3.49755
+[CLS] Joost:2 Marsman:2 speelt [MASK] . [SEP],fl,saxofoon:4,0,saxofoon:4,0,-3.65382
+[CLS] Joost:2 Marsman:2 speelt [MASK] [MASK] [MASK] . [SEP],in -r:2,saxofoon:4,0,saxofoon:4,0,-3.88394
+[CLS] Rob van der Loo:2 speelt [MASK] [MASK] . [SEP],de acteur,basinstrument:3,0,basinstrument:3,0,-2.37122
 [CLS] Rob van der Loo:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als . van .e:2,basinstrument:3,0,basinstrument:3,0,-3.19759
-[CLS] Robert Jan Stips:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,toetsinstrument:5,0,toetsinstrument:5,0,-2.51501
+[CLS] Rob van der Loo:2 speelt [MASK] [MASK] [MASK] . [SEP],als alser:2,basinstrument:3,0,basinstrument:3,0,-3.55381
+[CLS] Rob van der Loo:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het . -r:2,basinstrument:3,0,basinstrument:3,0,-3.85931
+[CLS] Rob van der Loo:2 speelt [MASK] [MASK] [MASK] . [SEP],het hetr:2,basinstrument:3,0,basinstrument:3,0,-3.94107
+[CLS] Robert Jan Stips:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,toetsinstrument:5,0,toetsinstrument:5,0,-2.51502
 [CLS] Robert Jan Stips:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,toetsinstrument:5,0,toetsinstrument:5,0,-3.19445
-[CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,stem,0,stem,0,-2.33712
+[CLS] Robert Jan Stips:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . -r:2,toetsinstrument:5,0,toetsinstrument:5,0,-3.53891
+[CLS] Robert Jan Stips:2 speelt [MASK] . [SEP],speelt,toetsinstrument:5,0,toetsinstrument:5,0,-3.77997
+[CLS] Robert Jan Stips:2 speelt [MASK] . [SEP],orgel,toetsinstrument:5,0,toetsinstrument:5,0,-3.87324
+[CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,stem,0,stem,0,-2.33713
 [CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in .en:2,stem,0,stem,0,-3.16870
-[CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,stem,0,stem,0,-2.62673
+[CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] . [SEP],op eenen:2,stem,0,stem,0,-3.44843
+[CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] . [SEP],als alst:2,stem,0,stem,0,-3.50575
+[CLS] Martijn:2 Bosman:2 speelt [MASK] [MASK] [MASK] . [SEP],een voorr:2,stem,0,stem,0,-3.79543
+[CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,stem,0,stem,0,-2.62674
 [CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . .s:2,stem,0,stem,0,-3.05767
-[CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,keyboard,0,keyboard,0,-2.20739
+[CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in op -e:2,stem,0,stem,0,-3.67003
+[CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] . [SEP],in -t:2,stem,0,stem,0,-4.02968
+[CLS] Carel:2 Copier:2 speelt [MASK] [MASK] [MASK] . [SEP],het alseur:2,stem,0,stem,0,-4.09683
+[CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,keyboard,0,keyboard,0,-2.20740
 [CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op als -er:2,keyboard,0,keyboard,0,-3.21530
-[CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] . [SEP],de piano,piano,0,piano,0,-2.34374
+[CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] . [SEP],alss:2,keyboard,0,keyboard,0,-3.35393
+[CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] . [SEP],in speelt,keyboard,0,keyboard,0,-3.51240
+[CLS] Martijn:2 Westerholt:3 speelt [MASK] [MASK] [MASK] . [SEP],de vooren:2,keyboard,0,keyboard,0,-3.77433
+[CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] . [SEP],de piano,piano,0,piano,0,-2.34375
 [CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] . [SEP],in acteur,piano,0,piano,0,-3.08995
-[CLS] Bram:2 van Sambeek:2 speelt [MASK] [MASK] [MASK] . [SEP],voor des:2,fagot:2,0,fagot:2,0,-2.38350
+[CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] [MASK] . [SEP],de heter:2,piano,0,piano,0,-3.31822
+[CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] . [SEP],het gitaar,piano,0,piano,0,-3.60646
+[CLS] Arthur Schoonderwoerd:5 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,piano,0,piano,0,-3.88610
+[CLS] Bram:2 van Sambeek:2 speelt [MASK] [MASK] [MASK] . [SEP],voor des:2,fagot:2,0,fagot:2,0,-2.38351
 [CLS] Bram:2 van Sambeek:2 speelt [MASK] [MASK] . [SEP],des:2,fagot:2,0,fagot:2,0,-2.91757
-[CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.55194
+[CLS] Bram:2 van Sambeek:2 speelt [MASK] . [SEP],handball,fagot:2,0,fagot:2,0,-3.30302
+[CLS] Bram:2 van Sambeek:2 speelt [MASK] . [SEP],bas,fagot:2,0,fagot:2,0,-3.33297
+[CLS] Bram:2 van Sambeek:2 speelt [MASK] . [SEP],football,fagot:2,0,fagot:2,0,-3.40182
+[CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.55195
 [CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . des:2,hoorn:2,0,hoorn:2,0,-3.47326
-[CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,bugel:2,0,bugel:2,0,-2.54391
+[CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een van van -e:2,hoorn:2,0,hoorn:2,0,-3.78558
+[CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als .er:2,hoorn:2,0,hoorn:2,0,-3.97049
+[CLS] Feike:2 van Tuinen:2 speelt [MASK] [MASK] [MASK] . [SEP],het . acteur,hoorn:2,0,hoorn:2,0,-4.27248
+[CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,bugel:2,0,bugel:2,0,-2.54392
 [CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van de .,bugel:2,0,bugel:2,0,-3.04453
-[CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,hoorn:2,0,hoorn:2,0,-2.57647
+[CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -t:2,bugel:2,0,bugel:2,0,-3.66594
+[CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van vanen:2,bugel:2,0,bugel:2,0,-3.81208
+[CLS] Jack Haegens:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het in alsr:2,bugel:2,0,bugel:2,0,-4.11494
+[CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,hoorn:2,0,hoorn:2,0,-2.57648
 [CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,hoorn:2,0,hoorn:2,0,-3.06003
-[CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],p,stem,0,stem,0,-2.77595
+[CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op op -s:2,hoorn:2,0,hoorn:2,0,-3.58217
+[CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] . [SEP],op opt:2,hoorn:2,0,hoorn:2,0,-4.00475
+[CLS] Bas Pollard:2 speelt [MASK] [MASK] [MASK] . [SEP],als 'ard:2,hoorn:2,0,hoorn:2,0,-4.19462
+[CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],p,stem,0,stem,0,-2.77596
 [CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],op,stem,0,stem,0,-3.10315
+[CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],in,stem,0,stem,0,-3.38093
+[CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],kb,stem,0,stem,0,-3.52556
+[CLS] Nout:2 Ingen Housz:2 speelt [MASK] . [SEP],prof,stem,0,stem,0,-3.69827
 [CLS] Ronald Karten speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,fagot:2,0,fagot:2,0,-2.07932
 [CLS] Ronald Karten speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .,fagot:2,0,fagot:2,0,-3.12129
-[CLS] Arie van Beek:2 speelt [MASK] [MASK] . [SEP],des:2,slaginstrument:4,0,slaginstrument:4,0,-2.33707
+[CLS] Ronald Karten speelt [MASK] [MASK] [MASK] . [SEP],in alse:2,fagot:2,0,fagot:2,0,-3.47617
+[CLS] Ronald Karten speelt [MASK] [MASK] [MASK] . [SEP],als .punt:2,fagot:2,0,fagot:2,0,-3.58849
+[CLS] Ronald Karten speelt [MASK] [MASK] [MASK] . [SEP],op -s:2,fagot:2,0,fagot:2,0,-3.99844
+[CLS] Arie van Beek:2 speelt [MASK] [MASK] . [SEP],des:2,slaginstrument:4,0,slaginstrument:4,0,-2.33708
 [CLS] Arie van Beek:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de de .e:2,slaginstrument:4,0,slaginstrument:4,0,-3.20923
+[CLS] Arie van Beek:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . .r:2,slaginstrument:4,0,slaginstrument:4,0,-3.63718
+[CLS] Arie van Beek:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],De in -er:2,slaginstrument:4,0,slaginstrument:4,0,-3.99500
+[CLS] Arie van Beek:2 speelt [MASK] [MASK] . [SEP],zijntje:2,slaginstrument:4,0,slaginstrument:4,0,-4.11073
 [CLS] Tony Vos speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,saxofoon:4,0,saxofoon:4,0,-2.13489
 [CLS] Tony Vos speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,saxofoon:4,0,saxofoon:4,0,-2.99065
-[CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.27325
+[CLS] Tony Vos speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het op -s:2,saxofoon:4,0,saxofoon:4,0,-3.74317
+[CLS] Tony Vos speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een in van op,saxofoon:4,0,saxofoon:4,0,-4.02690
+[CLS] Tony Vos speelt [MASK] [MASK] . [SEP],als hoofd,saxofoon:4,0,saxofoon:4,0,-4.18072
+[CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.27326
 [CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een rol van . .,hoorn:2,0,hoorn:2,0,-3.27146
-[CLS] Arjan:2 Brass speelt [MASK] [MASK] . [SEP],de Brass,saxofoon:4,0,saxofoon:4,0,-2.14518
+[CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] . [SEP],eene:2,hoorn:2,0,hoorn:2,0,-3.57318
+[CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] . [SEP],als actrice,hoorn:2,0,hoorn:2,0,-3.70821
+[CLS] Teunis:2 van der Zwart:2 speelt [MASK] [MASK] . [SEP],hettje:2,hoorn:2,0,hoorn:2,0,-3.76557
+[CLS] Arjan:2 Brass speelt [MASK] [MASK] . [SEP],de Brass,saxofoon:4,0,saxofoon:4,0,-2.14519
 [CLS] Arjan:2 Brass speelt [MASK] . [SEP],Brass,saxofoon:4,0,saxofoon:4,0,-2.50009
-[CLS] Dotan:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.93934
+[CLS] Arjan:2 Brass speelt [MASK] . [SEP],tenor,saxofoon:4,0,saxofoon:4,0,-3.37364
+[CLS] Arjan:2 Brass speelt [MASK] . [SEP],trombone,saxofoon:4,0,saxofoon:4,0,-3.46185
+[CLS] Arjan:2 Brass speelt [MASK] . [SEP],piano,saxofoon:4,0,saxofoon:4,0,-3.54264
+[CLS] Dotan:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-1.93935
 [CLS] Dotan:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,gitaar,0,gitaar,0,-3.19584
+[CLS] Dotan:2 speelt [MASK] . [SEP],polo,gitaar,0,gitaar,0,-3.80524
+[CLS] Dotan:2 speelt [MASK] . [SEP],Vol,gitaar,0,gitaar,0,-4.05694
+[CLS] Dotan:2 speelt [MASK] . [SEP],##ball,gitaar,0,gitaar,0,-4.15226
 [CLS] Minco:2 Eggersman:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,stem,0,stem,0,-2.98853
 [CLS] Minco:2 Eggersman:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,stem,0,stem,0,-3.39802
-[CLS] Riny:2 Schreijenberg:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,trompet:2,0,trompet:2,0,-2.64825
+[CLS] Minco:2 Eggersman:3 speelt [MASK] [MASK] [MASK] . [SEP],in . rol,stem,0,stem,0,-3.66848
+[CLS] Minco:2 Eggersman:3 speelt [MASK] [MASK] [MASK] . [SEP],een role:2,stem,0,stem,0,-3.83320
+[CLS] Minco:2 Eggersman:3 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,stem,0,stem,0,-4.04332
+[CLS] Riny:2 Schreijenberg:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,trompet:2,0,trompet:2,0,-2.64826
 [CLS] Riny:2 Schreijenberg:4 speelt [MASK] . [SEP],bas,trompet:2,0,trompet:2,0,-3.01037
-[CLS] Roger Peterson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,stem,0,stem,0,-2.04560
+[CLS] Riny:2 Schreijenberg:4 speelt [MASK] . [SEP],handball,trompet:2,0,trompet:2,0,-3.22780
+[CLS] Riny:2 Schreijenberg:4 speelt [MASK] . [SEP],tennis,trompet:2,0,trompet:2,0,-3.36154
+[CLS] Riny:2 Schreijenberg:4 speelt [MASK] . [SEP],hockey,trompet:2,0,trompet:2,0,-3.70619
+[CLS] Roger Peterson speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,stem,0,stem,0,-2.04561
 [CLS] Roger Peterson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een de . .,stem,0,stem,0,-2.94113
+[CLS] Roger Peterson speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in op - op,stem,0,stem,0,-3.37828
+[CLS] Roger Peterson speelt [MASK] [MASK] . [SEP],in gitaar,stem,0,stem,0,-3.75752
+[CLS] Roger Peterson speelt [MASK] . [SEP],drums,stem,0,stem,0,-3.84734
 [CLS] Anthon:2 van der Horst speelt [MASK] [MASK] [MASK] . [SEP],de des:2,orgel,0,orgel,0,-2.39566
 [CLS] Anthon:2 van der Horst speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -en:2,orgel,0,orgel,0,-2.98585
-[CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,fagot:2,0,fagot:2,0,-2.54932
+[CLS] Anthon:2 van der Horst speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een alse:2,orgel,0,orgel,0,-3.33962
+[CLS] Anthon:2 van der Horst speelt [MASK] [MASK] [MASK] . [SEP],in eenen:2,orgel,0,orgel,0,-3.52306
+[CLS] Anthon:2 van der Horst speelt [MASK] [MASK] [MASK] . [SEP],een hett:2,orgel,0,orgel,0,-3.70634
+[CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,fagot:2,0,fagot:2,0,-2.54933
 [CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,fagot:2,0,fagot:2,0,-3.22148
+[CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in op -e:2,fagot:2,0,fagot:2,0,-3.76675
+[CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , in opt:2",fagot:2,0,fagot:2,0,-4.20403
+[CLS] Brian Pollard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. op of / de,fagot:2,0,fagot:2,0,-4.38241
 [CLS] George de Fretes:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,steel guitar,0,steel guitar,0,-2.72365
 [CLS] George de Fretes:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . de .,steel guitar,0,steel guitar,0,-3.13985
+[CLS] George de Fretes:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in -s:2,steel guitar,0,steel guitar,0,-3.46373
+[CLS] George de Fretes:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het op van int:2,steel guitar,0,steel guitar,0,-3.96873
+[CLS] George de Fretes:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],George van vanen:2,steel guitar,0,steel guitar,0,-4.23077
 [CLS] Henco:2 de Berg speelt [MASK] . [SEP],bas,pijporgel:4,0,pijporgel:4,0,-2.71240
 [CLS] Henco:2 de Berg speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . de .,pijporgel:4,0,pijporgel:4,0,-3.20852
-[CLS] Hubert Cuypers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,pijporgel:4,0,pijporgel:4,0,-2.57756
+[CLS] Henco:2 de Berg speelt [MASK] [MASK] [MASK] . [SEP],de -e:2,pijporgel:4,0,pijporgel:4,0,-3.52260
+[CLS] Henco:2 de Berg speelt [MASK] [MASK] [MASK] . [SEP],op heter:2,pijporgel:4,0,pijporgel:4,0,-3.68655
+[CLS] Henco:2 de Berg speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een op enr:2,pijporgel:4,0,pijporgel:4,0,-3.79921
+[CLS] Hubert Cuypers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,pijporgel:4,0,pijporgel:4,0,-2.57757
 [CLS] Hubert Cuypers:3 speelt [MASK] . [SEP],fotbal,pijporgel:4,0,pijporgel:4,0,-2.96016
-[CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,blokfluit:3,0,blokfluit:3,0,-2.66512
+[CLS] Hubert Cuypers:3 speelt [MASK] . [SEP],handball,pijporgel:4,0,pijporgel:4,0,-3.31965
+[CLS] Hubert Cuypers:3 speelt [MASK] . [SEP],badminton,pijporgel:4,0,pijporgel:4,0,-3.35803
+[CLS] Hubert Cuypers:3 speelt [MASK] . [SEP],hockey,pijporgel:4,0,pijporgel:4,0,-3.50725
+[CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,blokfluit:3,0,blokfluit:3,0,-2.66513
 [CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . op de .,blokfluit:3,0,blokfluit:3,0,-3.00300
-[CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] . [SEP],de hoofde:2,harp:2,0,harp:2,0,-2.43363
+[CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in . -en:2,blokfluit:3,0,blokfluit:3,0,-3.32215
+[CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een op in ope:2,blokfluit:3,0,blokfluit:3,0,-3.64743
+[CLS] Kees:2 Otten:2 speelt [MASK] [MASK] [MASK] . [SEP],de heter:2,blokfluit:3,0,blokfluit:3,0,-3.80934
+[CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] . [SEP],de hoofde:2,harp:2,0,harp:2,0,-2.43364
 [CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] . [SEP],haar de rol,harp:2,0,harp:2,0,-2.90084
-[CLS] Johannes Barend:2 Litzau:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,pijporgel:4,0,pijporgel:4,0,-2.61579
+[CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] . [SEP],als rol actrice,harp:2,0,harp:2,0,-3.08125
+[CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als als rol,harp:2,0,harp:2,0,-3.62335
+[CLS] Jennifer Evans - Van der Harten:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als hoofd hoofdt:2,harp:2,0,harp:2,0,-3.80842
+[CLS] Johannes Barend:2 Litzau:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de des:2,pijporgel:4,0,pijporgel:4,0,-2.61580
 [CLS] Johannes Barend:2 Litzau:3 speelt [MASK] . [SEP],op,pijporgel:4,0,pijporgel:4,0,-2.93255
-[CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.47914
+[CLS] Johannes Barend:2 Litzau:3 speelt [MASK] . [SEP],tenor,pijporgel:4,0,pijporgel:4,0,-3.13591
+[CLS] Johannes Barend:2 Litzau:3 speelt [MASK] . [SEP],piano,pijporgel:4,0,pijporgel:4,0,-3.34608
+[CLS] Johannes Barend:2 Litzau:3 speelt [MASK] . [SEP],orgel,pijporgel:4,0,pijporgel:4,0,-3.38606
+[CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.47915
 [CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . des:2,hoorn:2,0,hoorn:2,0,-2.96733
-[CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] . [SEP],de rol,slaginstrument:4,0,slaginstrument:4,0,-2.66550
+[CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een het .e:2,hoorn:2,0,hoorn:2,0,-3.48785
+[CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] . [SEP],op eene:2,hoorn:2,0,hoorn:2,0,-3.59101
+[CLS] Henk Oenema:3 speelt [MASK] [MASK] [MASK] . [SEP],het voort:2,hoorn:2,0,hoorn:2,0,-3.85567
+[CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] . [SEP],de rol,slaginstrument:4,0,slaginstrument:4,0,-2.66551
 [CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in . .en:2,slaginstrument:4,0,slaginstrument:4,0,-3.07925
-[CLS] Mike del Ferro speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de op de op,piano,0,piano,0,-2.33224
+[CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in - op,slaginstrument:4,0,slaginstrument:4,0,-3.39887
+[CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] . [SEP],in piano,slaginstrument:4,0,slaginstrument:4,0,-3.59104
+[CLS] Pernell:2 Saturnino:2 speelt [MASK] [MASK] [MASK] . [SEP],die ine:2,slaginstrument:4,0,slaginstrument:4,0,-3.93692
+[CLS] Mike del Ferro speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de op de op,piano,0,piano,0,-2.33225
 [CLS] Mike del Ferro speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de - p,piano,0,piano,0,-2.94817
-[CLS] Arie Ribbens:3 speelt [MASK] [MASK] . [SEP],de orgel,stem,0,stem,0,-1.90192
+[CLS] Mike del Ferro speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in een of .s:2,piano,0,piano,0,-3.22015
+[CLS] Mike del Ferro speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in . op,piano,0,piano,0,-3.51599
+[CLS] Mike del Ferro speelt [MASK] . [SEP],acteur,piano,0,piano,0,-3.71393
+[CLS] Arie Ribbens:3 speelt [MASK] [MASK] . [SEP],de orgel,stem,0,stem,0,-1.90193
 [CLS] Arie Ribbens:3 speelt [MASK] [MASK] . [SEP],hets:2,stem,0,stem,0,-2.89770
-[CLS] Maurits:2 Samehtini:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,hoorn:2,0,hoorn:2,0,-2.74271
+[CLS] Arie Ribbens:3 speelt [MASK] . [SEP],af,stem,0,stem,0,-3.36754
+[CLS] Arie Ribbens:3 speelt [MASK] . [SEP],piano,stem,0,stem,0,-3.43974
+[CLS] Arie Ribbens:3 speelt [MASK] . [SEP],in,stem,0,stem,0,-3.78290
+[CLS] Maurits:2 Samehtini:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,hoorn:2,0,hoorn:2,0,-2.74272
 [CLS] Maurits:2 Samehtini:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . .e:2,hoorn:2,0,hoorn:2,0,-3.40437
+[CLS] Maurits:2 Samehtini:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als van vann:2,hoorn:2,0,hoorn:2,0,-3.74938
+[CLS] Maurits:2 Samehtini:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als .en:2,hoorn:2,0,hoorn:2,0,-3.89519
+[CLS] Maurits:2 Samehtini:3 speelt [MASK] . [SEP],op,hoorn:2,0,hoorn:2,0,-4.16629
 [CLS] Pieter Gouderjaan:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,hoorn:2,0,hoorn:2,0,-2.48225
 [CLS] Pieter Gouderjaan:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,hoorn:2,0,hoorn:2,0,-3.27621
-[CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],handball,altsaxofoon:5,0,altsaxofoon:5,0,-2.55002
+[CLS] Pieter Gouderjaan:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -r:2,hoorn:2,0,hoorn:2,0,-3.65996
+[CLS] Pieter Gouderjaan:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een vanen:2,hoorn:2,0,hoorn:2,0,-3.99297
+[CLS] Pieter Gouderjaan:3 speelt [MASK] [MASK] . [SEP],hete:2,hoorn:2,0,hoorn:2,0,-4.15511
+[CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],handball,altsaxofoon:5,0,altsaxofoon:5,0,-2.55003
 [CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],hockey,altsaxofoon:5,0,altsaxofoon:5,0,-2.97606
+[CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],tennis,altsaxofoon:5,0,altsaxofoon:5,0,-3.00692
+[CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],polo,altsaxofoon:5,0,altsaxofoon:5,0,-3.41651
+[CLS] Sanne:2 Landvreugd:4 speelt [MASK] . [SEP],fotbal,altsaxofoon:5,0,altsaxofoon:5,0,-3.64305
 [CLS] Martin Veerman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,stem,0,stem,0,-2.56140
 [CLS] Martin Veerman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de .s:2,stem,0,stem,0,-3.29952
+[CLS] Martin Veerman:2 speelt [MASK] [MASK] [MASK] . [SEP],in -e:2,stem,0,stem,0,-3.72515
+[CLS] Martin Veerman:2 speelt [MASK] [MASK] . [SEP],ine:2,stem,0,stem,0,-3.95290
+[CLS] Martin Veerman:2 speelt [MASK] . [SEP],bass,stem,0,stem,0,-4.05567
 [CLS] Cor Bute:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,beiaard:2,0,beiaard:2,0,-2.63053
 [CLS] Cor Bute:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,beiaard:2,0,beiaard:2,0,-3.10632
+[CLS] Cor Bute:2 speelt [MASK] . [SEP],speelt,beiaard:2,0,beiaard:2,0,-3.35995
+[CLS] Cor Bute:2 speelt [MASK] . [SEP],cricket,beiaard:2,0,beiaard:2,0,-3.62919
+[CLS] Cor Bute:2 speelt [MASK] . [SEP],op,beiaard:2,0,beiaard:2,0,-3.82471
 [CLS] Jan Wolff speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,hoorn:2,0,hoorn:2,0,-1.72822
 [CLS] Jan Wolff speelt [MASK] [MASK] . [SEP],des:2,hoorn:2,0,hoorn:2,0,-3.50873
-[CLS] Alphonse Barbe:2 speelt [MASK] . [SEP],piano,hoorn:2,0,hoorn:2,0,-2.38946
+[CLS] Jan Wolff speelt [MASK] [MASK] . [SEP],diee:2,hoorn:2,0,hoorn:2,0,-3.68512
+[CLS] Jan Wolff speelt [MASK] [MASK] [MASK] . [SEP],in despieler:2,hoorn:2,0,hoorn:2,0,-3.89305
+[CLS] Jan Wolff speelt [MASK] . [SEP],fl,hoorn:2,0,hoorn:2,0,-4.11060
+[CLS] Alphonse Barbe:2 speelt [MASK] . [SEP],piano,hoorn:2,0,hoorn:2,0,-2.38947
 [CLS] Alphonse Barbe:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,hoorn:2,0,hoorn:2,0,-3.08075
+[CLS] Alphonse Barbe:2 speelt [MASK] [MASK] . [SEP],ine:2,hoorn:2,0,hoorn:2,0,-3.68241
+[CLS] Alphonse Barbe:2 speelt [MASK] . [SEP],op,hoorn:2,0,hoorn:2,0,-3.76846
+[CLS] Alphonse Barbe:2 speelt [MASK] . [SEP],orgel,hoorn:2,0,hoorn:2,0,-3.91416
 [CLS] Okko:2 Jacobus Bekker:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de deen:2,beiaard:2,0,beiaard:2,0,-2.67856
 [CLS] Okko:2 Jacobus Bekker:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,beiaard:2,0,beiaard:2,0,-2.94159
-[CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] [MASK] . [SEP],de piano,dwarsfluit:4,0,dwarsfluit:4,0,-1.85055
+[CLS] Okko:2 Jacobus Bekker:2 speelt [MASK] [MASK] [MASK] . [SEP],voor hete:2,beiaard:2,0,beiaard:2,0,-3.55482
+[CLS] Okko:2 Jacobus Bekker:2 speelt [MASK] [MASK] [MASK] . [SEP],op voorer:2,beiaard:2,0,beiaard:2,0,-3.73489
+[CLS] Okko:2 Jacobus Bekker:2 speelt [MASK] . [SEP],basketball,beiaard:2,0,beiaard:2,0,-3.81347
+[CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] [MASK] . [SEP],de piano,dwarsfluit:4,0,dwarsfluit:4,0,-1.85056
 [CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] . [SEP],orgel,dwarsfluit:4,0,dwarsfluit:4,0,-2.95284
+[CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] . [SEP],bas,dwarsfluit:4,0,dwarsfluit:4,0,-2.99764
+[CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] [MASK] . [SEP],als gitaar,dwarsfluit:4,0,dwarsfluit:4,0,-3.40892
+[CLS] Nicolaas:2 Arie Bouwman:3 speelt [MASK] [MASK] [MASK] . [SEP],een alst:2,dwarsfluit:4,0,dwarsfluit:4,0,-3.79949
 [CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,pijporgel:4,0,pijporgel:4,0,-2.40299
-[CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,pijporgel:4,0,pijporgel:4,0,-3.25969
+[CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,pijporgel:4,0,pijporgel:4,0,-3.25968
+[CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van .r:2,pijporgel:4,0,pijporgel:4,0,-3.45584
+[CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] . [SEP],als vanr:2,pijporgel:4,0,pijporgel:4,0,-4.00250
+[CLS] Gert van Hoef:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in in iner:2,pijporgel:4,0,pijporgel:4,0,-4.17794
 [CLS] Dirk Speets:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,bugel:2,0,bugel:2,0,-2.48373
 [CLS] Dirk Speets:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . de .,bugel:2,0,bugel:2,0,-3.00703
+[CLS] Dirk Speets:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op als .e:2,bugel:2,0,bugel:2,0,-3.31381
+[CLS] Dirk Speets:3 speelt [MASK] [MASK] [MASK] . [SEP],als alst:2,bugel:2,0,bugel:2,0,-3.45785
+[CLS] Dirk Speets:3 speelt [MASK] [MASK] [MASK] . [SEP],voor vooren:2,bugel:2,0,bugel:2,0,-3.61569
 [CLS] Ger:2 van Voorden:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-2.37121
 [CLS] Ger:2 van Voorden:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van .s:2,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.29983
-[CLS] Ruud:3 Breuls:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,bugel:2,0,bugel:2,0,-2.30753
+[CLS] Ger:2 van Voorden:2 speelt [MASK] . [SEP],af,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.37574
+[CLS] Ger:2 van Voorden:2 speelt [MASK] . [SEP],vol,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.43889
+[CLS] Ger:2 van Voorden:2 speelt [MASK] . [SEP],speelt,tenorsaxofoon:5,0,tenorsaxofoon:5,0,-3.47284
+[CLS] Ruud:3 Breuls:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,bugel:2,0,bugel:2,0,-2.30754
 [CLS] Ruud:3 Breuls:3 speelt [MASK] [MASK] [MASK] . [SEP],op heten:2,bugel:2,0,bugel:2,0,-3.06203
-[CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,keyboard,0,keyboard,0,-2.22243
+[CLS] Ruud:3 Breuls:3 speelt [MASK] . [SEP],bas,bugel:2,0,bugel:2,0,-3.25688
+[CLS] Ruud:3 Breuls:3 speelt [MASK] [MASK] . [SEP],in PSV,bugel:2,0,bugel:2,0,-3.47782
+[CLS] Ruud:3 Breuls:3 speelt [MASK] [MASK] . [SEP],op bas,bugel:2,0,bugel:2,0,-3.71253
+[CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,keyboard,0,keyboard,0,-2.22244
 [CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als alser:2,keyboard,0,keyboard,0,-2.88778
-[CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,klarinet:2,0,klarinet:2,0,-2.48826
+[CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in een -en:2,keyboard,0,keyboard,0,-3.22907
+[CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] . [SEP],in speelt,keyboard,0,keyboard,0,-3.53189
+[CLS] Rob van Zandvoort:4 speelt [MASK] [MASK] . [SEP],op voetballer,keyboard,0,keyboard,0,-3.80493
+[CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,klarinet:2,0,klarinet:2,0,-2.48827
 [CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .s:2,klarinet:2,0,klarinet:2,0,-3.22354
-[CLS] Okko:2 Bekker:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,sitar:2,0,sitar:2,0,-2.72885
+[CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als vanr:2,klarinet:2,0,klarinet:2,0,-3.66691
+[CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van .t:2,klarinet:2,0,klarinet:2,0,-3.92058
+[CLS] Eric Hoeprich:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het in alsen:2,klarinet:2,0,klarinet:2,0,-4.14703
+[CLS] Okko:2 Bekker:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,sitar:2,0,sitar:2,0,-2.72886
 [CLS] Okko:2 Bekker:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op als -en:2,sitar:2,0,sitar:2,0,-3.16959
-[CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] . [SEP],des:2,fagot:2,0,fagot:2,0,-2.04846
+[CLS] Okko:2 Bekker:2 speelt [MASK] . [SEP],fotbal,sitar:2,0,sitar:2,0,-3.53819
+[CLS] Okko:2 Bekker:2 speelt [MASK] . [SEP],badminton,sitar:2,0,sitar:2,0,-3.68893
+[CLS] Okko:2 Bekker:2 speelt [MASK] . [SEP],op,sitar:2,0,sitar:2,0,-3.70767
+[CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] . [SEP],des:2,fagot:2,0,fagot:2,0,-2.04847
 [CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] [MASK] . [SEP],in hoofd speelt,fagot:2,0,fagot:2,0,-2.89213
-[CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,orgel,0,orgel,0,-2.71714
+[CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een een in -en:2,fagot:2,0,fagot:2,0,-3.35958
+[CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een speeltspeler:3,fagot:2,0,fagot:2,0,-3.62651
+[CLS] Jacob David Henriques:2 de la Fuente speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het als enen:2,fagot:2,0,fagot:2,0,-3.84054
+[CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] [MASK] . [SEP],in deer:2,orgel,0,orgel,0,-2.71715
 [CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] . [SEP],als piano,orgel,0,orgel,0,-3.19422
+[CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] [MASK] . [SEP],op alss:2,orgel,0,orgel,0,-3.47479
+[CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] [MASK] . [SEP],de een speelt,orgel,0,orgel,0,-3.51565
+[CLS] Janno:2 den Engelsman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een het alst:2,orgel,0,orgel,0,-3.86255
 [CLS] Margreeth:3 de Jong speelt [MASK] [MASK] [MASK] . [SEP],in de PSV,pijporgel:4,0,pijporgel:4,0,-2.28015
 [CLS] Margreeth:3 de Jong speelt [MASK] [MASK] . [SEP],als links,pijporgel:4,0,pijporgel:4,0,-2.82285
-[CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,orgel,0,orgel,0,-2.33568
+[CLS] Margreeth:3 de Jong speelt [MASK] [MASK] [MASK] . [SEP],bij hets:2,pijporgel:4,0,pijporgel:4,0,-3.42375
+[CLS] Margreeth:3 de Jong speelt [MASK] [MASK] [MASK] . [SEP],op als Eindhoven,pijporgel:4,0,pijporgel:4,0,-3.59076
+[CLS] Margreeth:3 de Jong speelt [MASK] [MASK] [MASK] . [SEP],als -er:2,pijporgel:4,0,pijporgel:4,0,-3.75666
+[CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,orgel,0,orgel,0,-2.33569
 [CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . van . .,orgel,0,orgel,0,-3.23160
+[CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] . [SEP],als hoofder:2,orgel,0,orgel,0,-3.44202
+[CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] . [SEP],een alse:2,orgel,0,orgel,0,-3.59518
+[CLS] Kees:2 van Eersel:3 speelt [MASK] [MASK] [MASK] . [SEP],op hetr:2,orgel,0,orgel,0,-3.76270
 [CLS] Bernard Diamant:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de op,piano,0,piano,0,-2.50554
 [CLS] Bernard Diamant:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de op .s:2,piano,0,piano,0,-2.88910
-[CLS] Willem Hutschenruijter:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de deer:2,hoorn:2,0,hoorn:2,0,-2.48898
+[CLS] Bernard Diamant:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in -e:2,piano,0,piano,0,-3.26523
+[CLS] Bernard Diamant:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op . opt:2,piano,0,piano,0,-3.67183
+[CLS] Bernard Diamant:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , van en .",piano,0,piano,0,-3.96762
+[CLS] Willem Hutschenruijter:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de deer:2,hoorn:2,0,hoorn:2,0,-2.48899
 [CLS] Willem Hutschenruijter:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -veld:2,hoorn:2,0,hoorn:2,0,-2.92979
+[CLS] Willem Hutschenruijter:5 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op een alsen:2,hoorn:2,0,hoorn:2,0,-3.38585
+[CLS] Willem Hutschenruijter:5 speelt [MASK] [MASK] [MASK] . [SEP],voor heten:2,hoorn:2,0,hoorn:2,0,-3.60289
+[CLS] Willem Hutschenruijter:5 speelt [MASK] . [SEP],nog,hoorn:2,0,hoorn:2,0,-3.71654
 [CLS] Lucie Horsch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de .e:2,blokfluit:3,0,blokfluit:3,0,-2.84803
 [CLS] Lucie Horsch:3 speelt [MASK] . [SEP],op,blokfluit:3,0,blokfluit:3,0,-3.13588
+[CLS] Lucie Horsch:3 speelt [MASK] [MASK] [MASK] . [SEP],op .s:2,blokfluit:3,0,blokfluit:3,0,-3.46979
+[CLS] Lucie Horsch:3 speelt [MASK] . [SEP],tennis,blokfluit:3,0,blokfluit:3,0,-3.76635
+[CLS] Lucie Horsch:3 speelt [MASK] . [SEP],o,blokfluit:3,0,blokfluit:3,0,-3.98725
 [CLS] Maurice de la Croix speelt [MASK] [MASK] . [SEP],de speelt,saxofoon:4,0,saxofoon:4,0,-2.09869
 [CLS] Maurice de la Croix speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . de speelt,saxofoon:4,0,saxofoon:4,0,-2.78970
-[CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,orgel,0,orgel,0,-2.35721
+[CLS] Maurice de la Croix speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op op -s:2,saxofoon:4,0,saxofoon:4,0,-3.27105
+[CLS] Maurice de la Croix speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in in speelt op,saxofoon:4,0,saxofoon:4,0,-3.54031
+[CLS] Maurice de la Croix speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , van open:2",saxofoon:4,0,saxofoon:4,0,-3.74432
+[CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,orgel,0,orgel,0,-2.35722
 [CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als de . .e:2,orgel,0,orgel,0,-3.04778
+[CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] [MASK] . [SEP],in eene:2,orgel,0,orgel,0,-3.46311
+[CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] [MASK] . [SEP],als hett:2,orgel,0,orgel,0,-3.64346
+[CLS] Frederik Nieuwenhuysen:4 speelt [MASK] [MASK] . [SEP],alss:2,orgel,0,orgel,0,-3.83964
 [CLS] Joachim Hess speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,orgel,0,orgel,0,-2.05815
 [CLS] Joachim Hess speelt [MASK] [MASK] [MASK] . [SEP],in des:2,orgel,0,orgel,0,-3.25517
-[CLS] Jan Menu:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-2.56815
+[CLS] Joachim Hess speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-3.40638
+[CLS] Joachim Hess speelt [MASK] . [SEP],Handball,orgel,0,orgel,0,-3.42546
+[CLS] Joachim Hess speelt [MASK] . [SEP],fotbal,orgel,0,orgel,0,-3.47352
+[CLS] Jan Menu:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-2.56816
 [CLS] Jan Menu:2 speelt [MASK] [MASK] [MASK] . [SEP],de dee:2,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-3.22052
-[CLS] Martinus Wilhelm Petri speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.71077
+[CLS] Jan Menu:2 speelt [MASK] . [SEP],tenor,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-3.67714
+[CLS] Jan Menu:2 speelt [MASK] . [SEP],bass,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-3.79123
+[CLS] Jan Menu:2 speelt [MASK] . [SEP],fl,baritonsaxofoon:6,0,baritonsaxofoon:6,0,-3.90648
+[CLS] Martinus Wilhelm Petri speelt [MASK] . [SEP],fotbal,piano,0,piano,0,-2.71078
 [CLS] Martinus Wilhelm Petri speelt [MASK] . [SEP],tennis,piano,0,piano,0,-3.00137
-[CLS] Albert Pomper:2 speelt [MASK] . [SEP],tennis,pijporgel:4,0,pijporgel:4,0,-2.36639
+[CLS] Martinus Wilhelm Petri speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als .n:2,piano,0,piano,0,-3.62122
+[CLS] Martinus Wilhelm Petri speelt [MASK] . [SEP],bas,piano,0,piano,0,-3.98546
+[CLS] Martinus Wilhelm Petri speelt [MASK] . [SEP],orgel,piano,0,piano,0,-4.08177
+[CLS] Albert Pomper:2 speelt [MASK] . [SEP],tennis,pijporgel:4,0,pijporgel:4,0,-2.36640
 [CLS] Albert Pomper:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de op de op,pijporgel:4,0,pijporgel:4,0,-2.91557
-[CLS] Anton H . Tierie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .e:2,pijporgel:4,0,pijporgel:4,0,-2.62988
+[CLS] Albert Pomper:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in . -s:2,pijporgel:4,0,pijporgel:4,0,-3.21960
+[CLS] Albert Pomper:2 speelt [MASK] . [SEP],voetbal,pijporgel:4,0,pijporgel:4,0,-3.56570
+[CLS] Albert Pomper:2 speelt [MASK] . [SEP],badminton,pijporgel:4,0,pijporgel:4,0,-3.59693
+[CLS] Anton H . Tierie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . .e:2,pijporgel:4,0,pijporgel:4,0,-2.62989
 [CLS] Anton H . Tierie:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de als -e:2,pijporgel:4,0,pijporgel:4,0,-3.20995
-[CLS] Josef Tijssen:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,pijporgel:4,0,pijporgel:4,0,-2.91195
+[CLS] Anton H . Tierie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als - de det:2,pijporgel:4,0,pijporgel:4,0,-3.53158
+[CLS] Anton H . Tierie:2 speelt [MASK] [MASK] . [SEP],des:2,pijporgel:4,0,pijporgel:4,0,-3.87575
+[CLS] Anton H . Tierie:2 speelt [MASK] [MASK] . [SEP],den acteur,pijporgel:4,0,pijporgel:4,0,-4.16667
+[CLS] Josef Tijssen:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,pijporgel:4,0,pijporgel:4,0,-2.91196
 [CLS] Josef Tijssen:3 speelt [MASK] . [SEP],fl,pijporgel:4,0,pijporgel:4,0,-3.32423
-[CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] . [SEP],de piano,piano,0,piano,0,-2.47931
+[CLS] Josef Tijssen:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als .e:2,pijporgel:4,0,pijporgel:4,0,-3.53733
+[CLS] Josef Tijssen:3 speelt [MASK] . [SEP],piano,pijporgel:4,0,pijporgel:4,0,-3.77381
+[CLS] Josef Tijssen:3 speelt [MASK] . [SEP],bass,pijporgel:4,0,pijporgel:4,0,-3.81887
+[CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] . [SEP],de piano,piano,0,piano,0,-2.47932
 [CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] [MASK] . [SEP],de alse:2,piano,0,piano,0,-2.88588
-[CLS] J . F . Tierie:2 speelt [MASK] [MASK] . [SEP],de rol,pijporgel:4,0,pijporgel:4,0,-2.29264
+[CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] . [SEP],diee:2,piano,0,piano,0,-3.13896
+[CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] . [SEP],hett:2,piano,0,piano,0,-3.74721
+[CLS] Jos . A . Verheijen:3 speelt [MASK] [MASK] . [SEP],fl rol,piano,0,piano,0,-3.82454
+[CLS] J . F . Tierie:2 speelt [MASK] [MASK] . [SEP],de rol,pijporgel:4,0,pijporgel:4,0,-2.29265
 [CLS] J . F . Tierie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het . van det:2,pijporgel:4,0,pijporgel:4,0,-3.11311
-[CLS] Isabelle Buhre:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,beiaard:2,0,beiaard:2,0,-2.32429
+[CLS] J . F . Tierie:2 speelt [MASK] [MASK] . [SEP],dies:2,pijporgel:4,0,pijporgel:4,0,-3.43782
+[CLS] J . F . Tierie:2 speelt [MASK] . [SEP],fl,pijporgel:4,0,pijporgel:4,0,-3.62191
+[CLS] J . F . Tierie:2 speelt [MASK] [MASK] . [SEP],als piano,pijporgel:4,0,pijporgel:4,0,-3.88818
+[CLS] Isabelle Buhre:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,beiaard:2,0,beiaard:2,0,-2.32430
 [CLS] Isabelle Buhre:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,beiaard:2,0,beiaard:2,0,-2.98426
+[CLS] Isabelle Buhre:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],laee:3 -s:2,beiaard:2,0,beiaard:2,0,-3.85713
+[CLS] Isabelle Buhre:2 speelt [MASK] [MASK] [MASK] . [SEP],in Bu .,beiaard:2,0,beiaard:2,0,-4.26020
+[CLS] Isabelle Buhre:2 speelt [MASK] . [SEP],Margot,beiaard:2,0,beiaard:2,0,-4.46963
 [CLS] Marnix:3 Busstra:2 speelt [MASK] [MASK] [MASK] . [SEP],in debal:2,Bouzouki:3,0,Bouzouki:3,0,-2.17464
-[CLS] Marnix:3 Busstra:2 speelt [MASK] [MASK] . [SEP],op club,Bouzouki:3,0,Bouzouki:3,0,-2.66232
+[CLS] Marnix:3 Busstra:2 speelt [MASK] [MASK] . [SEP],op club,Bouzouki:3,0,Bouzouki:3,0,-2.66231
+[CLS] Marnix:3 Busstra:2 speelt [MASK] . [SEP],fotbal,Bouzouki:3,0,Bouzouki:3,0,-2.86457
+[CLS] Marnix:3 Busstra:2 speelt [MASK] . [SEP],in,Bouzouki:3,0,Bouzouki:3,0,-3.42324
+[CLS] Marnix:3 Busstra:2 speelt [MASK] . [SEP],cricket,Bouzouki:3,0,Bouzouki:3,0,-3.48957
 [CLS] Paul Gerrits:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,gitaar,0,gitaar,0,-2.29635
 [CLS] Paul Gerrits:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de . .,gitaar,0,gitaar,0,-3.23021
-[CLS] Frieso:2 Moolenaar:3 speelt [MASK] [MASK] [MASK] . [SEP],in deen:2,piano,0,piano,0,-2.48634
+[CLS] Paul Gerrits:2 speelt [MASK] [MASK] . [SEP],een gitaar,gitaar,0,gitaar,0,-3.58502
+[CLS] Paul Gerrits:2 speelt [MASK] [MASK] . [SEP],in acteur,gitaar,0,gitaar,0,-3.89801
+[CLS] Paul Gerrits:2 speelt [MASK] . [SEP],acteur,gitaar,0,gitaar,0,-4.07578
+[CLS] Frieso:2 Moolenaar:3 speelt [MASK] [MASK] [MASK] . [SEP],in deen:2,piano,0,piano,0,-2.48635
 [CLS] Frieso:2 Moolenaar:3 speelt [MASK] . [SEP],handball,piano,0,piano,0,-3.12857
-[CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] [MASK] . [SEP],die orgel,fagot:2,0,fagot:2,0,-2.52109
+[CLS] Frieso:2 Moolenaar:3 speelt [MASK] . [SEP],polo,piano,0,piano,0,-3.33033
+[CLS] Frieso:2 Moolenaar:3 speelt [MASK] . [SEP],football,piano,0,piano,0,-3.60301
+[CLS] Frieso:2 Moolenaar:3 speelt [MASK] . [SEP],p,piano,0,piano,0,-3.61885
+[CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] [MASK] . [SEP],die orgel,fagot:2,0,fagot:2,0,-2.52110
 [CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] . [SEP],bass,fagot:2,0,fagot:2,0,-2.67721
-[CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de deen:2,hoorn:2,0,hoorn:2,0,-2.54111
+[CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] . [SEP],fl,fagot:2,0,fagot:2,0,-2.95114
+[CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] . [SEP],piano,fagot:2,0,fagot:2,0,-3.03612
+[CLS] Bernard Johannes Anton Rehl:2 speelt [MASK] . [SEP],orgel,fagot:2,0,fagot:2,0,-3.06312
+[CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de deen:2,hoorn:2,0,hoorn:2,0,-2.54112
 [CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als de . de .,hoorn:2,0,hoorn:2,0,-2.99414
+[CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] . [SEP],de heten:2,hoorn:2,0,hoorn:2,0,-3.32397
+[CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,hoorn:2,0,hoorn:2,0,-3.39222
+[CLS] Willem Cornelis Breethoff:3 speelt [MASK] [MASK] [MASK] . [SEP],voor eenr:2,hoorn:2,0,hoorn:2,0,-3.65787
 [CLS] Arie Peters speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,pijporgel:4,0,pijporgel:4,0,-1.86454
 [CLS] Arie Peters speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op de .e:2,pijporgel:4,0,pijporgel:4,0,-3.14519
+[CLS] Arie Peters speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in in -n:2,pijporgel:4,0,pijporgel:4,0,-3.63119
+[CLS] Arie Peters speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een op ops:2,pijporgel:4,0,pijporgel:4,0,-4.01027
+[CLS] Arie Peters speelt [MASK] . [SEP],ook,pijporgel:4,0,pijporgel:4,0,-4.11703
 [CLS] Teus:2 Nobel speelt [MASK] [MASK] . [SEP],de rol,trompet:2,0,trompet:2,0,-2.27097
 [CLS] Teus:2 Nobel speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . -e:2,trompet:2,0,trompet:2,0,-3.23768
-[CLS] Maurice van Elven:2 speelt [MASK] [MASK] . [SEP],de acteur,pijporgel:4,0,pijporgel:4,0,-1.87810
+[CLS] Teus:2 Nobel speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op op de op,trompet:2,0,trompet:2,0,-3.59162
+[CLS] Teus:2 Nobel speelt [MASK] . [SEP],speelt,trompet:2,0,trompet:2,0,-3.96055
+[CLS] Teus:2 Nobel speelt [MASK] . [SEP],u,trompet:2,0,trompet:2,0,-4.18740
+[CLS] Maurice van Elven:2 speelt [MASK] [MASK] . [SEP],de acteur,pijporgel:4,0,pijporgel:4,0,-1.87811
 [CLS] Maurice van Elven:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van .e:2,pijporgel:4,0,pijporgel:4,0,-2.92613
+[CLS] Maurice van Elven:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van vant:2,pijporgel:4,0,pijporgel:4,0,-3.51367
+[CLS] Maurice van Elven:2 speelt [MASK] [MASK] . [SEP],zijne:2,pijporgel:4,0,pijporgel:4,0,-3.99885
+[CLS] Maurice van Elven:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],zijn als inr:2,pijporgel:4,0,pijporgel:4,0,-4.25463
 [CLS] Tineke:2 Postma:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,altsaxofoon:5,0,altsaxofoon:5,0,-2.74941
 [CLS] Tineke:2 Postma:2 speelt [MASK] [MASK] . [SEP],haar rol,altsaxofoon:5,0,altsaxofoon:5,0,-3.14105
-[CLS] Floor Jansen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.84095
+[CLS] Tineke:2 Postma:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],haar de . -s:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.67710
+[CLS] Tineke:2 Postma:2 speelt [MASK] [MASK] . [SEP],hete:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.87716
+[CLS] Tineke:2 Postma:2 speelt [MASK] [MASK] . [SEP],ina:2,altsaxofoon:5,0,altsaxofoon:5,0,-3.99868
+[CLS] Floor Jansen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,elektrische gitaar,0,elektrische gitaar,0,-1.84096
 [CLS] Floor Jansen speelt [MASK] . [SEP],bas,elektrische gitaar,0,elektrische gitaar,0,-2.92472
-[CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de deen:2,Fortepiano:3,0,Fortepiano:3,0,-2.46092
+[CLS] Floor Jansen speelt [MASK] [MASK] . [SEP],voor bas,elektrische gitaar,0,elektrische gitaar,0,-3.05211
+[CLS] Floor Jansen speelt [MASK] [MASK] . [SEP],in gitaar,elektrische gitaar,0,elektrische gitaar,0,-3.36920
+[CLS] Floor Jansen speelt [MASK] [MASK] . [SEP],als band,elektrische gitaar,0,elektrische gitaar,0,-3.58053
+[CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de deen:2,Fortepiano:3,0,Fortepiano:3,0,-2.46093
 [CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -s:2,Fortepiano:3,0,Fortepiano:3,0,-3.04745
-[CLS] Will Sanders speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,hoorn:2,0,hoorn:2,0,-1.34785
-[CLS] Will Sanders speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,hoorn:2,0,hoorn:2,0,-3.27832
+[CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] . [SEP],in eenen:2,Fortepiano:3,0,Fortepiano:3,0,-3.44041
+[CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op een .r:2,Fortepiano:3,0,Fortepiano:3,0,-3.57818
+[CLS] Pieter - Jan Belder:2 speelt [MASK] [MASK] [MASK] . [SEP],voor voort:2,Fortepiano:3,0,Fortepiano:3,0,-3.63581
+[CLS] Will Sanders speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,hoorn:2,0,hoorn:2,0,-1.34786
+[CLS] Will Sanders speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,hoorn:2,0,hoorn:2,0,-3.27831
+[CLS] Will Sanders speelt [MASK] [MASK] . [SEP],die Sanders,hoorn:2,0,hoorn:2,0,-3.83833
+[CLS] Will Sanders speelt [MASK] [MASK] . [SEP],alse:2,hoorn:2,0,hoorn:2,0,-4.28774
+[CLS] Will Sanders speelt [MASK] [MASK] [MASK] [MASK] . [SEP],Re:2 / D,hoorn:2,0,hoorn:2,0,-4.48938
 [CLS] Ed Warby:2 speelt [MASK] . [SEP],cricket,drumstel:2,0,drumstel:2,0,-2.38721
 [CLS] Ed Warby:2 speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-3.08144
+[CLS] Ed Warby:2 speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-3.13125
+[CLS] Ed Warby:2 speelt [MASK] . [SEP],rugby,drumstel:2,0,drumstel:2,0,-3.58841
+[CLS] Ed Warby:2 speelt [MASK] . [SEP],football,drumstel:2,0,drumstel:2,0,-3.87683
 [CLS] Cesar Zuiderwijk:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,drumstel:2,0,drumstel:2,0,-2.41768
 [CLS] Cesar Zuiderwijk:3 speelt [MASK] [MASK] . [SEP],voors:2,drumstel:2,0,drumstel:2,0,-2.87989
-[CLS] Saskia:3 Laroo:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,trompet:2,0,trompet:2,0,-2.39052
+[CLS] Cesar Zuiderwijk:3 speelt [MASK] [MASK] [MASK] . [SEP],op eener:2,drumstel:2,0,drumstel:2,0,-3.39519
+[CLS] Cesar Zuiderwijk:3 speelt [MASK] . [SEP],af,drumstel:2,0,drumstel:2,0,-3.61263
+[CLS] Cesar Zuiderwijk:3 speelt [MASK] . [SEP],prof,drumstel:2,0,drumstel:2,0,-3.67089
+[CLS] Saskia:3 Laroo:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,trompet:2,0,trompet:2,0,-2.39053
 [CLS] Saskia:3 Laroo:3 speelt [MASK] . [SEP],polo,trompet:2,0,trompet:2,0,-2.92197
+[CLS] Saskia:3 Laroo:3 speelt [MASK] . [SEP],volleyball,trompet:2,0,trompet:2,0,-3.10999
+[CLS] Saskia:3 Laroo:3 speelt [MASK] . [SEP],basketball,trompet:2,0,trompet:2,0,-3.19201
+[CLS] Saskia:3 Laroo:3 speelt [MASK] . [SEP],handball,trompet:2,0,trompet:2,0,-3.36384
 [CLS] Rick van der Linden speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,piano,0,piano,0,-2.33093
 [CLS] Rick van der Linden speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als de van deo:2,piano,0,piano,0,-3.09514
-[CLS] Han Bennink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,drumstel:2,0,drumstel:2,0,-2.66399
+[CLS] Rick van der Linden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de . .,piano,0,piano,0,-3.43453
+[CLS] Rick van der Linden speelt [MASK] [MASK] [MASK] . [SEP],een hoofde:2,piano,0,piano,0,-3.98260
+[CLS] Rick van der Linden speelt [MASK] [MASK] [MASK] . [SEP],zijn alsman:2,piano,0,piano,0,-4.30054
+[CLS] Han Bennink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,drumstel:2,0,drumstel:2,0,-2.66400
 [CLS] Han Bennink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . de .,drumstel:2,0,drumstel:2,0,-3.15484
-[CLS] Pierre van der Linden speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-1.97233
+[CLS] Han Bennink:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -t:2,drumstel:2,0,drumstel:2,0,-3.62417
+[CLS] Han Bennink:3 speelt [MASK] [MASK] . [SEP],voor rol,drumstel:2,0,drumstel:2,0,-4.04030
+[CLS] Han Bennink:3 speelt [MASK] [MASK] . [SEP],in speelt,drumstel:2,0,drumstel:2,0,-4.21704
+[CLS] Pierre van der Linden speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-1.97234
 [CLS] Pierre van der Linden speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . .e:2,drumstel:2,0,drumstel:2,0,-3.09374
-[CLS] Cees:2 See speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,drumstel:2,0,drumstel:2,0,-2.62496
+[CLS] Pierre van der Linden speelt [MASK] [MASK] [MASK] . [SEP],het hoofds:2,drumstel:2,0,drumstel:2,0,-3.64075
+[CLS] Pierre van der Linden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het als -r:2,drumstel:2,0,drumstel:2,0,-3.90048
+[CLS] Pierre van der Linden speelt [MASK] [MASK] [MASK] . [SEP],als hetr:2,drumstel:2,0,drumstel:2,0,-4.03391
+[CLS] Cees:2 See speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,drumstel:2,0,drumstel:2,0,-2.62497
 [CLS] Cees:2 See speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de dee:2,drumstel:2,0,drumstel:2,0,-3.04927
-[CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.55841
+[CLS] Cees:2 See speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"speelt in , - op",drumstel:2,0,drumstel:2,0,-3.44939
+[CLS] Cees:2 See speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op op op ,s:2",drumstel:2,0,drumstel:2,0,-3.73102
+[CLS] Cees:2 See speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-3.94566
+[CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.55842
 [CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . . .,drumstel:2,0,drumstel:2,0,-3.27999
-[CLS] Ig:2 Henneman:3 speelt [MASK] . [SEP],bas,altviool:3,0,altviool:3,0,-2.44386
+[CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] . [SEP],in alser:2,drumstel:2,0,drumstel:2,0,-3.57303
+[CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] . [SEP],een hoofd speelt,drumstel:2,0,drumstel:2,0,-3.82299
+[CLS] Martin van Duynhoven:3 speelt [MASK] [MASK] [MASK] . [SEP],op flt:2,drumstel:2,0,drumstel:2,0,-3.94320
+[CLS] Ig:2 Henneman:3 speelt [MASK] . [SEP],bas,altviool:3,0,altviool:3,0,-2.44387
 [CLS] Ig:2 Henneman:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,altviool:3,0,altviool:3,0,-3.44674
+[CLS] Ig:2 Henneman:3 speelt [MASK] . [SEP],op,altviool:3,0,altviool:3,0,-3.71358
+[CLS] Ig:2 Henneman:3 speelt [MASK] . [SEP],fl,altviool:3,0,altviool:3,0,-3.71447
+[CLS] Ig:2 Henneman:3 speelt [MASK] . [SEP],tennis,altviool:3,0,altviool:3,0,-3.88481
 [CLS] Jacques Ogg:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,klavecimbel:4,0,klavecimbel:4,0,-2.49264
 [CLS] Jacques Ogg:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . de .,klavecimbel:4,0,klavecimbel:4,0,-3.13399
-[CLS] Wim de Vries speelt [MASK] [MASK] [MASK] . [SEP],op des:2,drumstel:2,0,drumstel:2,0,-2.61079
+[CLS] Jacques Ogg:2 speelt [MASK] . [SEP],trombone,klavecimbel:4,0,klavecimbel:4,0,-3.53809
+[CLS] Jacques Ogg:2 speelt [MASK] . [SEP],orgel,klavecimbel:4,0,klavecimbel:4,0,-3.72910
+[CLS] Jacques Ogg:2 speelt [MASK] . [SEP],bas,klavecimbel:4,0,klavecimbel:4,0,-3.75326
+[CLS] Wim de Vries speelt [MASK] [MASK] [MASK] . [SEP],op des:2,drumstel:2,0,drumstel:2,0,-2.61080
 [CLS] Wim de Vries speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de -e:2,drumstel:2,0,drumstel:2,0,-3.22932
+[CLS] Wim de Vries speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op op - B,drumstel:2,0,drumstel:2,0,-3.43016
+[CLS] Wim de Vries speelt [MASK] [MASK] [MASK] . [SEP],de alsr:2,drumstel:2,0,drumstel:2,0,-3.50505
+[CLS] Wim de Vries speelt [MASK] [MASK] [MASK] . [SEP],voor ener:2,drumstel:2,0,drumstel:2,0,-3.88354
 [CLS] Frits:2 Landesbergen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de deen:2,drumstel:2,0,drumstel:2,0,-2.45195
 [CLS] Frits:2 Landesbergen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],voor . . de B,drumstel:2,0,drumstel:2,0,-3.20297
-[CLS] Herman Jeurissen:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,hoorn:2,0,hoorn:2,0,-2.70478
+[CLS] Frits:2 Landesbergen:2 speelt [MASK] . [SEP],Handball,drumstel:2,0,drumstel:2,0,-3.44248
+[CLS] Frits:2 Landesbergen:2 speelt [MASK] . [SEP],football,drumstel:2,0,drumstel:2,0,-3.64628
+[CLS] Frits:2 Landesbergen:2 speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-3.66722
+[CLS] Herman Jeurissen:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,hoorn:2,0,hoorn:2,0,-2.70479
 [CLS] Herman Jeurissen:3 speelt [MASK] . [SEP],tenor,hoorn:2,0,hoorn:2,0,-2.98697
+[CLS] Herman Jeurissen:3 speelt [MASK] . [SEP],orgel,hoorn:2,0,hoorn:2,0,-3.10041
+[CLS] Herman Jeurissen:3 speelt [MASK] . [SEP],op,hoorn:2,0,hoorn:2,0,-3.22038
+[CLS] Herman Jeurissen:3 speelt [MASK] . [SEP],bass,hoorn:2,0,hoorn:2,0,-3.52113
 [CLS] Maurice Horsthuis:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,altviool:3,0,altviool:3,0,-2.47222
 [CLS] Maurice Horsthuis:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op . op . .,altviool:3,0,altviool:3,0,-3.08841
-[CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . op,orgel,0,orgel,0,-2.63342
+[CLS] Maurice Horsthuis:2 speelt [MASK] [MASK] [MASK] . [SEP],op eenen:2,altviool:3,0,altviool:3,0,-3.32394
+[CLS] Maurice Horsthuis:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een op opt:2,altviool:3,0,altviool:3,0,-3.79972
+[CLS] Maurice Horsthuis:2 speelt [MASK] [MASK] [MASK] . [SEP],het opt:2,altviool:3,0,altviool:3,0,-3.91736
+[CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . op,orgel,0,orgel,0,-2.63343
 [CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een de dee:2,orgel,0,orgel,0,-3.02480
-[CLS] René Creemers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,drumstel:2,0,drumstel:2,0,-2.53202
+[CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in op dee:2,orgel,0,orgel,0,-3.26284
+[CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op in op .,orgel,0,orgel,0,-3.89539
+[CLS] Léon Berben:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op - - een scène,orgel,0,orgel,0,-4.07790
+[CLS] René Creemers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,drumstel:2,0,drumstel:2,0,-2.53203
 [CLS] René Creemers:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . .e:2,drumstel:2,0,drumstel:2,0,-3.08264
+[CLS] René Creemers:3 speelt [MASK] . [SEP],hockey,drumstel:2,0,drumstel:2,0,-3.33768
+[CLS] René Creemers:3 speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-3.38726
+[CLS] René Creemers:3 speelt [MASK] . [SEP],badminton,drumstel:2,0,drumstel:2,0,-3.63723
 [CLS] Hans Dekker:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,drumstel:2,0,drumstel:2,0,-2.21073
 [CLS] Hans Dekker:2 speelt [MASK] [MASK] [MASK] . [SEP],in .e:2,drumstel:2,0,drumstel:2,0,-3.31947
+[CLS] Hans Dekker:2 speelt [MASK] [MASK] [MASK] . [SEP],op -r:2,drumstel:2,0,drumstel:2,0,-3.60740
+[CLS] Hans Dekker:2 speelt [MASK] [MASK] . [SEP],voors:2,drumstel:2,0,drumstel:2,0,-3.77303
+[CLS] Hans Dekker:2 speelt [MASK] [MASK] . [SEP],ope:2,drumstel:2,0,drumstel:2,0,-3.91110
 [CLS] Paul van Zelm:2 speelt [MASK] [MASK] . [SEP],de acteur,hoorn:2,0,hoorn:2,0,-2.20054
 [CLS] Paul van Zelm:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .e:2,hoorn:2,0,hoorn:2,0,-3.17676
-[CLS] Hein:2 van de Geyn:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,contrabas:2,0,contrabas:2,0,-2.48407
+[CLS] Paul van Zelm:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het . .er:2,hoorn:2,0,hoorn:2,0,-3.63155
+[CLS] Paul van Zelm:2 speelt [MASK] [MASK] [MASK] . [SEP],als vaner:2,hoorn:2,0,hoorn:2,0,-4.03901
+[CLS] Paul van Zelm:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als in int:2,hoorn:2,0,hoorn:2,0,-4.21951
+[CLS] Hein:2 van de Geyn:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,contrabas:2,0,contrabas:2,0,-2.48408
 [CLS] Hein:2 van de Geyn:2 speelt [MASK] . [SEP],bas,contrabas:2,0,contrabas:2,0,-3.08528
-[CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.26248
+[CLS] Hein:2 van de Geyn:2 speelt [MASK] [MASK] [MASK] . [SEP],op heter:2,contrabas:2,0,contrabas:2,0,-3.49562
+[CLS] Hein:2 van de Geyn:2 speelt [MASK] [MASK] [MASK] . [SEP],als alsr:2,contrabas:2,0,contrabas:2,0,-3.76226
+[CLS] Hein:2 van de Geyn:2 speelt [MASK] [MASK] [MASK] . [SEP],een eent:2,contrabas:2,0,contrabas:2,0,-3.83054
+[CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.26249
 [CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . de C,drumstel:2,0,drumstel:2,0,-2.99026
-[CLS] Jan Willem Jansen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,orgel,0,orgel,0,-2.32692
+[CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in - D,drumstel:2,0,drumstel:2,0,-3.49812
+[CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] . [SEP],op -er:2,drumstel:2,0,drumstel:2,0,-3.70705
+[CLS] Huub:2 Janssen speelt [MASK] [MASK] [MASK] . [SEP],voor voort:2,drumstel:2,0,drumstel:2,0,-3.83221
+[CLS] Jan Willem Jansen speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . . . .,orgel,0,orgel,0,-2.32693
 [CLS] Jan Willem Jansen speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de . de club,orgel,0,orgel,0,-3.15038
+[CLS] Jan Willem Jansen speelt [MASK] [MASK] . [SEP],in PSV,orgel,0,orgel,0,-3.42991
+[CLS] Jan Willem Jansen speelt [MASK] [MASK] . [SEP],ops:2,orgel,0,orgel,0,-3.67402
+[CLS] Jan Willem Jansen speelt [MASK] [MASK] . [SEP],als links,orgel,0,orgel,0,-3.71778
 [CLS] John Engels speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,drumstel:2,0,drumstel:2,0,-1.48413
 [CLS] John Engels speelt [MASK] . [SEP],bass,drumstel:2,0,drumstel:2,0,-3.18852
-[CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.18864
+[CLS] John Engels speelt [MASK] . [SEP],piano,drumstel:2,0,drumstel:2,0,-3.28497
+[CLS] John Engels speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de / D,drumstel:2,0,drumstel:2,0,-4.24445
+[CLS] John Engels speelt [MASK] [MASK] [MASK] [MASK] . [SEP],", in ,s:2",drumstel:2,0,drumstel:2,0,-4.36655
+[CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.18865
 [CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . van . .,drumstel:2,0,drumstel:2,0,-3.18859
-[CLS] Peter Ypma:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,drumstel:2,0,drumstel:2,0,-2.67353
+[CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] . [SEP],een fle:2,drumstel:2,0,drumstel:2,0,-3.62068
+[CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] . [SEP],het hoofder:2,drumstel:2,0,drumstel:2,0,-3.73116
+[CLS] Joost:2 Lijbaart:4 speelt [MASK] [MASK] [MASK] . [SEP],als eent:2,drumstel:2,0,drumstel:2,0,-4.04152
+[CLS] Peter Ypma:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,drumstel:2,0,drumstel:2,0,-2.67354
 [CLS] Peter Ypma:3 speelt [MASK] . [SEP],piano,drumstel:2,0,drumstel:2,0,-3.21117
+[CLS] Peter Ypma:3 speelt [MASK] . [SEP],bass,drumstel:2,0,drumstel:2,0,-3.38454
+[CLS] Peter Ypma:3 speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-3.52683
+[CLS] Peter Ypma:3 speelt [MASK] . [SEP],trombone,drumstel:2,0,drumstel:2,0,-3.57912
 [CLS] Gosling:2 Mol speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,hoorn:2,0,hoorn:2,0,-2.56868
 [CLS] Gosling:2 Mol speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de de dee:2,hoorn:2,0,hoorn:2,0,-3.33470
+[CLS] Gosling:2 Mol speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , , -t:2",hoorn:2,0,hoorn:2,0,-4.01493
+[CLS] Gosling:2 Mol speelt [MASK] [MASK] . [SEP],hett:2,hoorn:2,0,hoorn:2,0,-4.22504
+[CLS] Gosling:2 Mol speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelte:2 a aa:2,hoorn:2,0,hoorn:2,0,-4.46883
 [CLS] Alex Poelman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,hoorn:2,0,hoorn:2,0,-2.51779
 [CLS] Alex Poelman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . des:2,hoorn:2,0,hoorn:2,0,-3.29811
+[CLS] Alex Poelman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als -e:2,hoorn:2,0,hoorn:2,0,-3.89496
+[CLS] Alex Poelman:2 speelt [MASK] [MASK] . [SEP],alss:2,hoorn:2,0,hoorn:2,0,-3.99735
+[CLS] Alex Poelman:2 speelt [MASK] [MASK] . [SEP],eene:2,hoorn:2,0,hoorn:2,0,-4.28348
 [CLS] Peter Meuris:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.38572
 [CLS] Peter Meuris:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,drumstel:2,0,drumstel:2,0,-2.93270
-[CLS] Alex van Halen speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-1.88094
+[CLS] Peter Meuris:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in op op -s:2,drumstel:2,0,drumstel:2,0,-3.56378
+[CLS] Peter Meuris:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: in van op op,drumstel:2,0,drumstel:2,0,-3.99912
+[CLS] Peter Meuris:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in eent:2",drumstel:2,0,drumstel:2,0,-4.15908
+[CLS] Alex van Halen speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-1.88095
 [CLS] Alex van Halen speelt [MASK] [MASK] . [SEP],als gitaar,drumstel:2,0,drumstel:2,0,-2.58317
+[CLS] Alex van Halen speelt [MASK] [MASK] . [SEP],in bas,drumstel:2,0,drumstel:2,0,-2.78116
+[CLS] Alex van Halen speelt [MASK] [MASK] . [SEP],fl piano,drumstel:2,0,drumstel:2,0,-3.15263
+[CLS] Alex van Halen speelt [MASK] . [SEP],bass,drumstel:2,0,drumstel:2,0,-3.52934
 [CLS] Dick Roelofsen:4 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.68159
 [CLS] Dick Roelofsen:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .e:2,hoorn:2,0,hoorn:2,0,-3.22899
+[CLS] Dick Roelofsen:4 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het van vanen:2,hoorn:2,0,hoorn:2,0,-3.64968
+[CLS] Dick Roelofsen:4 speelt [MASK] [MASK] [MASK] . [SEP],als het speelt,hoorn:2,0,hoorn:2,0,-3.86436
+[CLS] Dick Roelofsen:4 speelt [MASK] [MASK] [MASK] . [SEP],een .er:2,hoorn:2,0,hoorn:2,0,-3.93453
 [CLS] Oene:2 van Geel:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,altviool:3,0,altviool:3,0,-2.40106
-[CLS] Oene:2 van Geel:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de van de .,altviool:3,0,altviool:3,0,-3.17995
-[CLS] Tonny:2 Eyk:2 speelt [MASK] [MASK] . [SEP],de piano,accordeon:2,0,accordeon:2,0,-2.54815
+[CLS] Oene:2 van Geel:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de van de .,altviool:3,0,altviool:3,0,-3.17994
+[CLS] Oene:2 van Geel:2 speelt [MASK] . [SEP],prof,altviool:3,0,altviool:3,0,-3.62709
+[CLS] Oene:2 van Geel:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een een vanen:2,altviool:3,0,altviool:3,0,-3.78994
+[CLS] Oene:2 van Geel:2 speelt [MASK] [MASK] [MASK] . [SEP],op flen:2,altviool:3,0,altviool:3,0,-3.93443
+[CLS] Tonny:2 Eyk:2 speelt [MASK] [MASK] . [SEP],de piano,accordeon:2,0,accordeon:2,0,-2.54816
 [CLS] Tonny:2 Eyk:2 speelt [MASK] [MASK] . [SEP],die rol,accordeon:2,0,accordeon:2,0,-3.17168
+[CLS] Tonny:2 Eyk:2 speelt [MASK] . [SEP],bas,accordeon:2,0,accordeon:2,0,-3.29106
+[CLS] Tonny:2 Eyk:2 speelt [MASK] . [SEP],fl,accordeon:2,0,accordeon:2,0,-3.36882
+[CLS] Tonny:2 Eyk:2 speelt [MASK] . [SEP],tenor,accordeon:2,0,accordeon:2,0,-3.45969
 [CLS] Andries:2 van Wieren:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.21328
 [CLS] Andries:2 van Wieren:2 speelt [MASK] [MASK] [MASK] . [SEP],een fler:2,drumstel:2,0,drumstel:2,0,-3.19296
+[CLS] Andries:2 van Wieren:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het als als .r:2,drumstel:2,0,drumstel:2,0,-3.50594
+[CLS] Andries:2 van Wieren:2 speelt [MASK] [MASK] [MASK] . [SEP],als eene:2,drumstel:2,0,drumstel:2,0,-3.59466
+[CLS] Andries:2 van Wieren:2 speelt [MASK] [MASK] [MASK] . [SEP],op alsr:2,drumstel:2,0,drumstel:2,0,-3.76196
 [CLS] Pierre Courbois:3 speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-2.44493
 [CLS] Pierre Courbois:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . . .,drumstel:2,0,drumstel:2,0,-3.04810
-[CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,drumstel:2,0,drumstel:2,0,-2.19300
+[CLS] Pierre Courbois:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in op -e:2,drumstel:2,0,drumstel:2,0,-3.33069
+[CLS] Pierre Courbois:3 speelt [MASK] . [SEP],handball,drumstel:2,0,drumstel:2,0,-3.53588
+[CLS] Pierre Courbois:3 speelt [MASK] . [SEP],badminton,drumstel:2,0,drumstel:2,0,-3.67464
+[CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,drumstel:2,0,drumstel:2,0,-2.19301
 [CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] [MASK] . [SEP],voors:2,drumstel:2,0,drumstel:2,0,-2.81802
+[CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] [MASK] [MASK] . [SEP],op voorer:2,drumstel:2,0,drumstel:2,0,-3.18144
+[CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de een vooren:2,drumstel:2,0,drumstel:2,0,-3.33585
+[CLS] Ariën:2 van Weesenbeek:3 speelt [MASK] . [SEP],football,drumstel:2,0,drumstel:2,0,-3.57240
 [CLS] Stefan Blonk:3 speelt [MASK] . [SEP],tennis,hoorn:2,0,hoorn:2,0,-2.35797
 [CLS] Stefan Blonk:3 speelt [MASK] . [SEP],handball,hoorn:2,0,hoorn:2,0,-2.93925
-[CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,drumstel:2,0,drumstel:2,0,-2.42407
+[CLS] Stefan Blonk:3 speelt [MASK] . [SEP],fotbal,hoorn:2,0,hoorn:2,0,-3.02655
+[CLS] Stefan Blonk:3 speelt [MASK] . [SEP],speelt,hoorn:2,0,hoorn:2,0,-3.49827
+[CLS] Stefan Blonk:3 speelt [MASK] . [SEP],Handball,hoorn:2,0,hoorn:2,0,-3.52224
+[CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,drumstel:2,0,drumstel:2,0,-2.42408
 [CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op als -en:2,drumstel:2,0,drumstel:2,0,-3.08414
-[CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.12764
+[CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] . [SEP],de speelt,drumstel:2,0,drumstel:2,0,-3.30716
+[CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] . [SEP],voors:2,drumstel:2,0,drumstel:2,0,-3.51399
+[CLS] Ruud:3 Pronk:2 speelt [MASK] [MASK] [MASK] . [SEP],de -e:2,drumstel:2,0,drumstel:2,0,-3.73734
+[CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,hoorn:2,0,hoorn:2,0,-2.12765
 [CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -er:2,hoorn:2,0,hoorn:2,0,-2.99195
+[CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in een alsen:2,hoorn:2,0,hoorn:2,0,-3.30304
+[CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] . [SEP],op eenen:2,hoorn:2,0,hoorn:2,0,-3.57917
+[CLS] Adriaan:3 van Woudenberg:3 speelt [MASK] [MASK] [MASK] . [SEP],een als speelt,hoorn:2,0,hoorn:2,0,-3.68022
 [CLS] Pim:2 Koopman:3 speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-2.29099
 [CLS] Pim:2 Koopman:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -er:2,drumstel:2,0,drumstel:2,0,-3.27315
-[CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] [MASK] [MASK] . [SEP],in .r:2,hoorn:2,0,hoorn:2,0,-2.45573
+[CLS] Pim:2 Koopman:3 speelt [MASK] [MASK] [MASK] . [SEP],in voor speelt,drumstel:2,0,drumstel:2,0,-3.51431
+[CLS] Pim:2 Koopman:3 speelt [MASK] [MASK] [MASK] . [SEP],op -t:2,drumstel:2,0,drumstel:2,0,-3.60682
+[CLS] Pim:2 Koopman:3 speelt [MASK] [MASK] [MASK] . [SEP],een alse:2,drumstel:2,0,drumstel:2,0,-3.78017
+[CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] [MASK] [MASK] . [SEP],in .r:2,hoorn:2,0,hoorn:2,0,-2.45574
 [CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] [MASK] [MASK] . [SEP],als de speelt,hoorn:2,0,hoorn:2,0,-2.92896
-[CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.49300
+[CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] . [SEP],p,hoorn:2,0,hoorn:2,0,-3.19905
+[CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] . [SEP],a,hoorn:2,0,hoorn:2,0,-3.44991
+[CLS] Sef:2 Pijpers:3 sr:2 . speelt [MASK] . [SEP],af,hoorn:2,0,hoorn:2,0,-3.59395
+[CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.49301
 [CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] . [SEP],op,altviool:3,0,altviool:3,0,-2.90420
-[CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-2.52042
+[CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in -er:2,altviool:3,0,altviool:3,0,-3.43554
+[CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de het als speelt,altviool:3,0,altviool:3,0,-3.69909
+[CLS] Gerard von Brucken:3 Fock:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op een van vant:2,altviool:3,0,altviool:3,0,-3.91832
+[CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-2.52043
 [CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de van des:2,drumstel:2,0,drumstel:2,0,-3.12406
-[CLS] Edwin Wieringa:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de -s:2,basgitaar:3,0,basgitaar:3,0,-2.83569
+[CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een . vaner:2,drumstel:2,0,drumstel:2,0,-3.59972
+[CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als van -r:2,drumstel:2,0,drumstel:2,0,-3.78303
+[CLS] Stephen van Haestregt:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het hoofd alst:2,drumstel:2,0,drumstel:2,0,-3.96249
+[CLS] Edwin Wieringa:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de -s:2,basgitaar:3,0,basgitaar:3,0,-2.83570
 [CLS] Edwin Wieringa:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als deen:2,basgitaar:3,0,basgitaar:3,0,-2.93448
-[CLS] Jacob Slagter:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,hoorn:2,0,hoorn:2,0,-2.43840
+[CLS] Edwin Wieringa:3 speelt [MASK] . [SEP],tennis,basgitaar:3,0,basgitaar:3,0,-3.18423
+[CLS] Edwin Wieringa:3 speelt [MASK] . [SEP],basketball,basgitaar:3,0,basgitaar:3,0,-3.29837
+[CLS] Edwin Wieringa:3 speelt [MASK] . [SEP],handball,basgitaar:3,0,basgitaar:3,0,-3.54724
+[CLS] Jacob Slagter:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,hoorn:2,0,hoorn:2,0,-2.43841
 [CLS] Jacob Slagter:2 speelt [MASK] [MASK] [MASK] . [SEP],in .s:2,hoorn:2,0,hoorn:2,0,-3.27945
-[CLS] Ivar de Graaf:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,drumstel:2,0,drumstel:2,0,-2.56221
+[CLS] Jacob Slagter:2 speelt [MASK] . [SEP],fl,hoorn:2,0,hoorn:2,0,-3.50516
+[CLS] Jacob Slagter:2 speelt [MASK] . [SEP],bass,hoorn:2,0,hoorn:2,0,-3.76394
+[CLS] Jacob Slagter:2 speelt [MASK] . [SEP],trombone,hoorn:2,0,hoorn:2,0,-3.93257
+[CLS] Ivar de Graaf:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,drumstel:2,0,drumstel:2,0,-2.56222
 [CLS] Ivar de Graaf:2 speelt [MASK] [MASK] . [SEP],de bas,drumstel:2,0,drumstel:2,0,-3.15705
-[CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,accordeon:2,0,accordeon:2,0,-2.44902
+[CLS] Ivar de Graaf:2 speelt [MASK] [MASK] . [SEP],in speelt,drumstel:2,0,drumstel:2,0,-3.29913
+[CLS] Ivar de Graaf:2 speelt [MASK] [MASK] [MASK] . [SEP],op heten:2,drumstel:2,0,drumstel:2,0,-3.54411
+[CLS] Ivar de Graaf:2 speelt [MASK] . [SEP],voetbal,drumstel:2,0,drumstel:2,0,-3.75847
+[CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,accordeon:2,0,accordeon:2,0,-2.44903
 [CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] . [SEP],voor club,accordeon:2,0,accordeon:2,0,-3.02188
+[CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] [MASK] . [SEP],de voorer:2,accordeon:2,0,accordeon:2,0,-3.54202
+[CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] . [SEP],in speelt,accordeon:2,0,accordeon:2,0,-3.72068
+[CLS] Jaap:2 Valkhoff:3 speelt [MASK] [MASK] [MASK] . [SEP],als alsr:2,accordeon:2,0,accordeon:2,0,-3.93506
 [CLS] Li Stadelmann:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de deen:2,klavecimbel:4,0,klavecimbel:4,0,-2.38124
 [CLS] Li Stadelmann:3 speelt [MASK] . [SEP],fotbal,klavecimbel:4,0,klavecimbel:4,0,-2.82824
-[CLS] Wessel:2 Ilcken:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de dee:2,drumstel:2,0,drumstel:2,0,-2.79707
+[CLS] Li Stadelmann:3 speelt [MASK] . [SEP],##ball,klavecimbel:4,0,klavecimbel:4,0,-3.02557
+[CLS] Li Stadelmann:3 speelt [MASK] . [SEP],hockey,klavecimbel:4,0,klavecimbel:4,0,-3.44291
+[CLS] Li Stadelmann:3 speelt [MASK] . [SEP],handball,klavecimbel:4,0,klavecimbel:4,0,-3.56141
+[CLS] Wessel:2 Ilcken:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de dee:2,drumstel:2,0,drumstel:2,0,-2.79708
 [CLS] Wessel:2 Ilcken:2 speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-3.29008
-[CLS] Dennis Leeflang:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de .en:2,drumstel:2,0,drumstel:2,0,-2.54376
+[CLS] Wessel:2 Ilcken:2 speelt [MASK] . [SEP],fl,drumstel:2,0,drumstel:2,0,-3.36044
+[CLS] Wessel:2 Ilcken:2 speelt [MASK] [MASK] . [SEP],fl piano,drumstel:2,0,drumstel:2,0,-3.96129
+[CLS] Wessel:2 Ilcken:2 speelt [MASK] [MASK] . [SEP],die speelt,drumstel:2,0,drumstel:2,0,-4.06065
+[CLS] Dennis Leeflang:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de de .en:2,drumstel:2,0,drumstel:2,0,-2.54377
 [CLS] Dennis Leeflang:3 speelt [MASK] [MASK] [MASK] . [SEP],een eenen:2,drumstel:2,0,drumstel:2,0,-3.19640
-[CLS] Ralph Rousseau speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-1.82675
+[CLS] Dennis Leeflang:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in in -s:2,drumstel:2,0,drumstel:2,0,-3.45078
+[CLS] Dennis Leeflang:3 speelt [MASK] . [SEP],hockey,drumstel:2,0,drumstel:2,0,-3.61496
+[CLS] Dennis Leeflang:3 speelt [MASK] . [SEP],Handball,drumstel:2,0,drumstel:2,0,-3.66097
+[CLS] Ralph Rousseau speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-1.82676
 [CLS] Ralph Rousseau speelt [MASK] [MASK] [MASK] [MASK] . [SEP],. de . .,viool:2,0,viool:2,0,-3.15478
+[CLS] Ralph Rousseau speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"de , , ,t:2",viool:2,0,viool:2,0,-3.80435
+[CLS] Ralph Rousseau speelt [MASK] [MASK] . [SEP],hete:2,viool:2,0,viool:2,0,-4.01538
+[CLS] Ralph Rousseau speelt [MASK] [MASK] . [SEP],ders:2,viool:2,0,viool:2,0,-4.42043
 [CLS] Johnny Meijer:2 speelt [MASK] [MASK] . [SEP],de piano,accordeon:2,0,accordeon:2,0,-2.45199
 [CLS] Johnny Meijer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de op op dee:2,accordeon:2,0,accordeon:2,0,-3.04480
-[CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] . [SEP],des:2,saxofoon:4,0,saxofoon:4,0,-2.17933
+[CLS] Johnny Meijer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de in op op,accordeon:2,0,accordeon:2,0,-3.40578
+[CLS] Johnny Meijer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in . -s:2,accordeon:2,0,accordeon:2,0,-3.63235
+[CLS] Johnny Meijer:2 speelt [MASK] [MASK] [MASK] . [SEP],een het speelt,accordeon:2,0,accordeon:2,0,-3.93805
+[CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] . [SEP],des:2,saxofoon:4,0,saxofoon:4,0,-2.17934
 [CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van .s:2,saxofoon:4,0,saxofoon:4,0,-2.96411
-[CLS] Helmig:2 van der Vegt:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,piano,0,piano,0,-2.52117
+[CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van vaner:2,saxofoon:4,0,saxofoon:4,0,-3.50137
+[CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -e:2,saxofoon:4,0,saxofoon:4,0,-3.92481
+[CLS] Klaas:2 van Beeck:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],zijn in enen:2,saxofoon:4,0,saxofoon:4,0,-4.04567
+[CLS] Helmig:2 van der Vegt:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,piano,0,piano,0,-2.52118
 [CLS] Helmig:2 van der Vegt:2 speelt [MASK] [MASK] [MASK] . [SEP],op fle:2,piano,0,piano,0,-3.14830
-[CLS] Jeroen:2 Simons speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-2.61267
+[CLS] Helmig:2 van der Vegt:2 speelt [MASK] [MASK] [MASK] . [SEP],in - speelt,piano,0,piano,0,-3.42895
+[CLS] Helmig:2 van der Vegt:2 speelt [MASK] . [SEP],op,piano,0,piano,0,-3.78561
+[CLS] Helmig:2 van der Vegt:2 speelt [MASK] . [SEP],Vol,piano,0,piano,0,-3.84160
+[CLS] Jeroen:2 Simons speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-2.61268
 [CLS] Jeroen:2 Simons speelt [MASK] . [SEP],basketball,drumstel:2,0,drumstel:2,0,-3.32766
-[CLS] Siebe:2 Henstra:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de .e:2,orgel,0,orgel,0,-2.89314
+[CLS] Jeroen:2 Simons speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-3.52233
+[CLS] Jeroen:2 Simons speelt [MASK] . [SEP],badminton,drumstel:2,0,drumstel:2,0,-3.53551
+[CLS] Jeroen:2 Simons speelt [MASK] . [SEP],handball,drumstel:2,0,drumstel:2,0,-3.60050
+[CLS] Siebe:2 Henstra:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de .e:2,orgel,0,orgel,0,-2.89315
 [CLS] Siebe:2 Henstra:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als des:2,orgel,0,orgel,0,-3.24024
-[CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.38494
+[CLS] Siebe:2 Henstra:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in in de .,orgel,0,orgel,0,-3.51240
+[CLS] Siebe:2 Henstra:2 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-3.72514
+[CLS] Siebe:2 Henstra:2 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-4.02057
+[CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.38495
 [CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . .e:2,drumstel:2,0,drumstel:2,0,-3.28810
+[CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als .en:2,drumstel:2,0,drumstel:2,0,-3.44306
+[CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,drumstel:2,0,drumstel:2,0,-3.69819
+[CLS] Rob van Barschot:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in enr:2,drumstel:2,0,drumstel:2,0,-3.90047
 [CLS] Sander Zoer:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,drumstel:2,0,drumstel:2,0,-2.10704
 [CLS] Sander Zoer:2 speelt [MASK] [MASK] [MASK] . [SEP],de der:2,drumstel:2,0,drumstel:2,0,-3.21912
-[CLS] Hans Boosman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.39281
+[CLS] Sander Zoer:2 speelt [MASK] [MASK] [MASK] . [SEP],in alse:2,drumstel:2,0,drumstel:2,0,-3.55793
+[CLS] Sander Zoer:2 speelt [MASK] [MASK] [MASK] . [SEP],op -er:2,drumstel:2,0,drumstel:2,0,-4.02776
+[CLS] Sander Zoer:2 speelt [MASK] [MASK] [MASK] . [SEP],"een ,t:2",drumstel:2,0,drumstel:2,0,-4.33556
+[CLS] Hans Boosman:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.39282
 [CLS] Hans Boosman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . .en:2,drumstel:2,0,drumstel:2,0,-3.10845
+[CLS] Hans Boosman:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op op -s:2,drumstel:2,0,drumstel:2,0,-3.51127
+[CLS] Hans Boosman:2 speelt [MASK] . [SEP],voetbal,drumstel:2,0,drumstel:2,0,-3.70873
+[CLS] Hans Boosman:2 speelt [MASK] . [SEP],basketball,drumstel:2,0,drumstel:2,0,-3.79364
 [CLS] Dirk Bruinenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de develd:2,drumstel:2,0,drumstel:2,0,-2.63694
 [CLS] Dirk Bruinenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,drumstel:2,0,drumstel:2,0,-3.14325
-[CLS] Stef:2 Broks:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.54235
+[CLS] Dirk Bruinenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op een .en:2,drumstel:2,0,drumstel:2,0,-3.51524
+[CLS] Dirk Bruinenberg:3 speelt [MASK] [MASK] [MASK] . [SEP],op -r:2,drumstel:2,0,drumstel:2,0,-3.65220
+[CLS] Dirk Bruinenberg:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in voore:2,drumstel:2,0,drumstel:2,0,-3.85613
+[CLS] Stef:2 Broks:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.54236
 [CLS] Stef:2 Broks:2 speelt [MASK] [MASK] [MASK] . [SEP],als .e:2,drumstel:2,0,drumstel:2,0,-3.28636
-[CLS] Roel:2 van Helden speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-2.24258
+[CLS] Stef:2 Broks:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als .e:2,drumstel:2,0,drumstel:2,0,-3.54553
+[CLS] Stef:2 Broks:2 speelt [MASK] . [SEP],speelt,drumstel:2,0,drumstel:2,0,-3.96962
+[CLS] Stef:2 Broks:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op in /t:2,drumstel:2,0,drumstel:2,0,-4.12927
+[CLS] Roel:2 van Helden speelt [MASK] [MASK] . [SEP],de acteur,drumstel:2,0,drumstel:2,0,-2.24259
 [CLS] Roel:2 van Helden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],R . deer:2,drumstel:2,0,drumstel:2,0,-3.21228
-[CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.48081
+[CLS] Roel:2 van Helden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een van .e:2,drumstel:2,0,drumstel:2,0,-3.68731
+[CLS] Roel:2 van Helden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het als -r:2,drumstel:2,0,drumstel:2,0,-3.99442
+[CLS] Roel:2 van Helden speelt [MASK] [MASK] . [SEP],Detje:2,drumstel:2,0,drumstel:2,0,-4.24036
+[CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,drumstel:2,0,drumstel:2,0,-2.48082
 [CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de de dee:2,drumstel:2,0,drumstel:2,0,-3.50072
+[CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die de van .,drumstel:2,0,drumstel:2,0,-3.65990
+[CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als - Jr,drumstel:2,0,drumstel:2,0,-4.25192
+[CLS] Seth Van De Loo:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het rol alsr:2,drumstel:2,0,drumstel:2,0,-4.49224
 [CLS] Johan Dielemans:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,drumstel:2,0,drumstel:2,0,-2.67459
 [CLS] Johan Dielemans:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de . de .,drumstel:2,0,drumstel:2,0,-3.10256
-[CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,elektrische gitaar,0,elektrische gitaar,0,-2.55693
+[CLS] Johan Dielemans:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in als op -e:2,drumstel:2,0,drumstel:2,0,-3.47824
+[CLS] Johan Dielemans:3 speelt [MASK] [MASK] [MASK] . [SEP],op heten:2,drumstel:2,0,drumstel:2,0,-3.58904
+[CLS] Johan Dielemans:3 speelt [MASK] [MASK] [MASK] . [SEP],voor alsr:2,drumstel:2,0,drumstel:2,0,-3.77905
+[CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,elektrische gitaar,0,elektrische gitaar,0,-2.55694
 [CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . -s:2,elektrische gitaar,0,elektrische gitaar,0,-3.02843
-[CLS] Joop:2 Tromp:3 speelt [MASK] . [SEP],fl,drumstel:2,0,drumstel:2,0,-1.97114
+[CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in een op . op,elektrische gitaar,0,elektrische gitaar,0,-3.31569
+[CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als in in ofe:2,elektrische gitaar,0,elektrische gitaar,0,-3.87865
+[CLS] Selim Lemouchi:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het in vanen:2,elektrische gitaar,0,elektrische gitaar,0,-4.10165
+[CLS] Joop:2 Tromp:3 speelt [MASK] . [SEP],fl,drumstel:2,0,drumstel:2,0,-1.97115
 [CLS] Joop:2 Tromp:3 speelt [MASK] . [SEP],bas,drumstel:2,0,drumstel:2,0,-2.25219
-[CLS] André Smits:2 speelt [MASK] . [SEP],tennis,trombone,0,trombone,0,-2.60772
+[CLS] Joop:2 Tromp:3 speelt [MASK] [MASK] [MASK] . [SEP],de - speelt,drumstel:2,0,drumstel:2,0,-3.26515
+[CLS] Joop:2 Tromp:3 speelt [MASK] [MASK] [MASK] . [SEP],als ener:2,drumstel:2,0,drumstel:2,0,-3.40494
+[CLS] Joop:2 Tromp:3 speelt [MASK] [MASK] . [SEP],fl piano,drumstel:2,0,drumstel:2,0,-3.51493
+[CLS] André Smits:2 speelt [MASK] . [SEP],tennis,trombone,0,trombone,0,-2.60773
 [CLS] André Smits:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . -e:2,trombone,0,trombone,0,-3.09475
-[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.53653
-[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de -en:2,altviool:3,0,altviool:3,0,-2.92186
-[CLS] Hans Cleuver:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.58651
-[CLS] Hans Cleuver:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,drumstel:2,0,drumstel:2,0,-3.02250
-[CLS] Erik Kooger:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.63266
+[CLS] André Smits:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op in op des:2,trombone,0,trombone,0,-3.49366
+[CLS] André Smits:2 speelt [MASK] [MASK] [MASK] . [SEP],op eene:2,trombone,0,trombone,0,-3.55781
+[CLS] André Smits:2 speelt [MASK] . [SEP],hockey,trombone,0,trombone,0,-3.65786
+[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] [MASK] [MASK] . [SEP],in des:2,altviool:3,0,altviool:3,0,-2.53654
+[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als de -en:2,altviool:3,0,altviool:3,0,-2.92185
+[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] [MASK] . [SEP],voor voetbal,altviool:3,0,altviool:3,0,-3.38719
+[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] . [SEP],badminton,altviool:3,0,altviool:3,0,-3.44306
+[CLS] Johan Coenradus:4 Boers:2 speelt [MASK] . [SEP],cricket,altviool:3,0,altviool:3,0,-3.56641
+[CLS] Hans Cleuver:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.58652
+[CLS] Hans Cleuver:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,drumstel:2,0,drumstel:2,0,-3.02249
+[CLS] Hans Cleuver:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],een als -er:2,drumstel:2,0,drumstel:2,0,-3.46352
+[CLS] Hans Cleuver:3 speelt [MASK] [MASK] . [SEP],het orgel,drumstel:2,0,drumstel:2,0,-3.79350
+[CLS] Hans Cleuver:3 speelt [MASK] [MASK] . [SEP],open:2,drumstel:2,0,drumstel:2,0,-3.98512
+[CLS] Erik Kooger:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,drumstel:2,0,drumstel:2,0,-2.63267
 [CLS] Erik Kooger:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt de . des:2,drumstel:2,0,drumstel:2,0,-3.14926
+[CLS] Erik Kooger:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -r:2,drumstel:2,0,drumstel:2,0,-3.48747
+[CLS] Erik Kooger:3 speelt [MASK] . [SEP],piano,drumstel:2,0,drumstel:2,0,-3.79853
+[CLS] Erik Kooger:3 speelt [MASK] [MASK] [MASK] . [SEP],op alsr:2,drumstel:2,0,drumstel:2,0,-3.98546
 [CLS] Johan Veugelers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,accordeon:2,0,accordeon:2,0,-2.67200
 [CLS] Johan Veugelers:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op de . .s:2,accordeon:2,0,accordeon:2,0,-3.08408
-[CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,viool:2,0,viool:2,0,-2.66505
+[CLS] Johan Veugelers:3 speelt [MASK] . [SEP],cricket,accordeon:2,0,accordeon:2,0,-3.46931
+[CLS] Johan Veugelers:3 speelt [MASK] . [SEP],handball,accordeon:2,0,accordeon:2,0,-3.53180
+[CLS] Johan Veugelers:3 speelt [MASK] . [SEP],badminton,accordeon:2,0,accordeon:2,0,-3.66805
+[CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,viool:2,0,viool:2,0,-2.66506
 [CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . op .e:2,viool:2,0,viool:2,0,-3.02120
-[CLS] Jeroen:2 Gulikers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,accordeon:2,0,accordeon:2,0,-2.47641
+[CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een in in - .,viool:2,0,viool:2,0,-3.27098
+[CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt op . op op,viool:2,0,viool:2,0,-3.77065
+[CLS] Paul Gaillard:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , , eenen:2",viool:2,0,viool:2,0,-3.96624
+[CLS] Jeroen:2 Gulikers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,accordeon:2,0,accordeon:2,0,-2.47642
 [CLS] Jeroen:2 Gulikers:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -en:2,accordeon:2,0,accordeon:2,0,-3.33751
+[CLS] Jeroen:2 Gulikers:3 speelt [MASK] . [SEP],handball,accordeon:2,0,accordeon:2,0,-3.54779
+[CLS] Jeroen:2 Gulikers:3 speelt [MASK] . [SEP],basketball,accordeon:2,0,accordeon:2,0,-3.75071
+[CLS] Jeroen:2 Gulikers:3 speelt [MASK] . [SEP],football,accordeon:2,0,accordeon:2,0,-3.80477
 [CLS] Berend:2 Giltay:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,viool:2,0,viool:2,0,-2.79342
 [CLS] Berend:2 Giltay:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -t:2,viool:2,0,viool:2,0,-3.04342
-[CLS] Marnix:3 Dorrestein:3 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-2.29556
+[CLS] Berend:2 Giltay:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -e:2,viool:2,0,viool:2,0,-3.33708
+[CLS] Berend:2 Giltay:2 speelt [MASK] . [SEP],handball,viool:2,0,viool:2,0,-3.48370
+[CLS] Berend:2 Giltay:2 speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-3.58969
+[CLS] Marnix:3 Dorrestein:3 speelt [MASK] . [SEP],op,gitaar,0,gitaar,0,-2.29557
 [CLS] Marnix:3 Dorrestein:3 speelt [MASK] [MASK] [MASK] . [SEP],in ops:2,gitaar,0,gitaar,0,-3.16804
-[CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,altviool:3,0,altviool:3,0,-2.68555
+[CLS] Marnix:3 Dorrestein:3 speelt [MASK] [MASK] . [SEP],in piano,gitaar,0,gitaar,0,-3.35967
+[CLS] Marnix:3 Dorrestein:3 speelt [MASK] [MASK] . [SEP],het rol,gitaar,0,gitaar,0,-3.57588
+[CLS] Marnix:3 Dorrestein:3 speelt [MASK] [MASK] . [SEP],voor op,gitaar,0,gitaar,0,-3.79096
+[CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de . .,altviool:3,0,altviool:3,0,-2.68556
 [CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . des:2,altviool:3,0,altviool:3,0,-2.99288
-[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] . [SEP],handball,klavecimbel:4,0,klavecimbel:4,0,-2.03802
-[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . dee:2,klavecimbel:4,0,klavecimbel:4,0,-2.98538
+[CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in , -en:2",altviool:3,0,altviool:3,0,-3.61700
+[CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het een of eene:2,altviool:3,0,altviool:3,0,-4.00538
+[CLS] Dana Zemtsov:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"op , in ,n:2",altviool:3,0,altviool:3,0,-4.07278
+[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] . [SEP],handball,klavecimbel:4,0,klavecimbel:4,0,-2.03803
+[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . dee:2,klavecimbel:4,0,klavecimbel:4,0,-2.98537
+[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] [MASK] [MASK] . [SEP],de -e:2,klavecimbel:4,0,klavecimbel:4,0,-3.50568
+[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] . [SEP],volleyball,klavecimbel:4,0,klavecimbel:4,0,-3.54521
+[CLS] Anneke:2 Uittenbosch:3 speelt [MASK] . [SEP],Handball,klavecimbel:4,0,klavecimbel:4,0,-3.61124
 [CLS] Dries:2 Bijlsma:3 speelt [MASK] [MASK] [MASK] . [SEP],op des:2,gitaar,0,gitaar,0,-2.48251
 [CLS] Dries:2 Bijlsma:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als -en:2,gitaar,0,gitaar,0,-3.22414
-[CLS] Petra Veenswijk:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,orgel,0,orgel,0,-2.57796
+[CLS] Dries:2 Bijlsma:3 speelt [MASK] . [SEP],tennis,gitaar,0,gitaar,0,-3.40577
+[CLS] Dries:2 Bijlsma:3 speelt [MASK] . [SEP],bas,gitaar,0,gitaar,0,-3.62287
+[CLS] Dries:2 Bijlsma:3 speelt [MASK] . [SEP],p,gitaar,0,gitaar,0,-3.76334
+[CLS] Petra Veenswijk:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de des:2,orgel,0,orgel,0,-2.57797
 [CLS] Petra Veenswijk:3 speelt [MASK] . [SEP],tennis,orgel,0,orgel,0,-3.11713
-[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Hammondorgel:3,0,Hammondorgel:3,0,-2.61218
-[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,Hammondorgel:3,0,Hammondorgel:3,0,-3.22052
-[CLS] Ton Lebbink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,drumstel:2,0,drumstel:2,0,-2.68776
+[CLS] Petra Veenswijk:3 speelt [MASK] . [SEP],handball,orgel,0,orgel,0,-3.25176
+[CLS] Petra Veenswijk:3 speelt [MASK] . [SEP],p,orgel,0,orgel,0,-3.38334
+[CLS] Petra Veenswijk:3 speelt [MASK] . [SEP],badminton,orgel,0,orgel,0,-3.48568
+[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Hammondorgel:3,0,Hammondorgel:3,0,-2.61219
+[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . dee:2,Hammondorgel:3,0,Hammondorgel:3,0,-3.22051
+[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het van .en:2,Hammondorgel:3,0,Hammondorgel:3,0,-3.69990
+[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in in vanr:2,Hammondorgel:3,0,Hammondorgel:3,0,-3.81857
+[CLS] Carlo de Wijs:2 speelt [MASK] [MASK] . [SEP],een piano,Hammondorgel:3,0,Hammondorgel:3,0,-4.17742
+[CLS] Ton Lebbink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,drumstel:2,0,drumstel:2,0,-2.68777
 [CLS] Ton Lebbink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . de .,drumstel:2,0,drumstel:2,0,-3.47410
-[CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,altviool:3,0,altviool:3,0,-2.70809
+[CLS] Ton Lebbink:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],die als det:2,drumstel:2,0,drumstel:2,0,-3.74440
+[CLS] Ton Lebbink:3 speelt [MASK] [MASK] . [SEP],hets:2,drumstel:2,0,drumstel:2,0,-4.15313
+[CLS] Ton Lebbink:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],die - in op D,drumstel:2,0,drumstel:2,0,-4.41744
+[CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,altviool:3,0,altviool:3,0,-2.70810
 [CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in -en:2,altviool:3,0,altviool:3,0,-3.10985
+[CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],speelt . of .e:2,altviool:3,0,altviool:3,0,-3.30088
+[CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] . [SEP],ine:2,altviool:3,0,altviool:3,0,-3.64322
+[CLS] Kees:2 Hartvelt:2 speelt [MASK] [MASK] [MASK] . [SEP],op .er:2,altviool:3,0,altviool:3,0,-3.79677
 [CLS] Jo van Helden speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,altviool:3,0,altviool:3,0,-1.96121
 [CLS] Jo van Helden speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de deo:2,altviool:3,0,altviool:3,0,-3.25965
-[CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,contrabas:2,0,contrabas:2,0,-2.70499
+[CLS] Jo van Helden speelt [MASK] [MASK] [MASK] . [SEP],Jo vanr:2,altviool:3,0,altviool:3,0,-3.77296
+[CLS] Jo van Helden speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als De Dee:2,altviool:3,0,altviool:3,0,-4.11331
+[CLS] Jo van Helden speelt [MASK] . [SEP],Dr,altviool:3,0,altviool:3,0,-4.18268
+[CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de de de .,contrabas:2,0,contrabas:2,0,-2.70500
 [CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . . .s:2,contrabas:2,0,contrabas:2,0,-3.24569
-[CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,contrabas:2,0,contrabas:2,0,-2.39496
+[CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in -e:2,contrabas:2,0,contrabas:2,0,-3.53362
+[CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als een alsr:2,contrabas:2,0,contrabas:2,0,-3.82154
+[CLS] César Hinderdael:3 speelt [MASK] [MASK] [MASK] . [SEP],een eener:2,contrabas:2,0,contrabas:2,0,-4.00156
+[CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,contrabas:2,0,contrabas:2,0,-2.39497
 [CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van . .,contrabas:2,0,contrabas:2,0,-3.17452
-[CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.66231
+[CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],het van vant:2,contrabas:2,0,contrabas:2,0,-3.68964
+[CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . -en:2,contrabas:2,0,contrabas:2,0,-3.80934
+[CLS] Tonny:2 van Hulst:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als een enr:2,contrabas:2,0,contrabas:2,0,-4.00805
+[CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] [MASK] . [SEP],de des:2,drumstel:2,0,drumstel:2,0,-2.66232
 [CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de in in .s:2,drumstel:2,0,drumstel:2,0,-3.05649
-[CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,drumstel:2,0,drumstel:2,0,-2.76373
+[CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] . [SEP],voors:2,drumstel:2,0,drumstel:2,0,-3.44960
+[CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],op als ofveld:2,drumstel:2,0,drumstel:2,0,-3.79742
+[CLS] Joost:2 Oomen:2 speelt [MASK] [MASK] [MASK] . [SEP],op -e:2,drumstel:2,0,drumstel:2,0,-3.93064
+[CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,drumstel:2,0,drumstel:2,0,-2.76374
 [CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . in .en:2,drumstel:2,0,drumstel:2,0,-3.14271
-[CLS] Cyril Directie:2 speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-1.63482
+[CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in op -s:2,drumstel:2,0,drumstel:2,0,-3.42850
+[CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] . [SEP],in hoofden:2,drumstel:2,0,drumstel:2,0,-3.79169
+[CLS] Wouter:2 Macare:2 speelt [MASK] [MASK] [MASK] . [SEP],op -r:2,drumstel:2,0,drumstel:2,0,-3.98926
+[CLS] Cyril Directie:2 speelt [MASK] . [SEP],op,drumstel:2,0,drumstel:2,0,-1.63483
 [CLS] Cyril Directie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in de . dee:2,drumstel:2,0,drumstel:2,0,-3.13613
+[CLS] Cyril Directie:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op op op - op,drumstel:2,0,drumstel:2,0,-3.34150
+[CLS] Cyril Directie:2 speelt [MASK] . [SEP],prof,drumstel:2,0,drumstel:2,0,-3.78690
+[CLS] Cyril Directie:2 speelt [MASK] . [SEP],af,drumstel:2,0,drumstel:2,0,-4.03407
 [CLS] Kees:2 Kranenburg:3 speelt [MASK] [MASK] [MASK] . [SEP],in deball:2,drumstel:2,0,drumstel:2,0,-2.09482
 [CLS] Kees:2 Kranenburg:3 speelt [MASK] . [SEP],fotbal,drumstel:2,0,drumstel:2,0,-2.99394
-[CLS] Albert Schuurmans:4 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,drumstel:2,0,drumstel:2,0,-2.62330
+[CLS] Kees:2 Kranenburg:3 speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-3.23029
+[CLS] Kees:2 Kranenburg:3 speelt [MASK] . [SEP],handball,drumstel:2,0,drumstel:2,0,-3.46716
+[CLS] Kees:2 Kranenburg:3 speelt [MASK] . [SEP],polo,drumstel:2,0,drumstel:2,0,-3.57964
+[CLS] Albert Schuurmans:4 speelt [MASK] [MASK] [MASK] . [SEP],als des:2,drumstel:2,0,drumstel:2,0,-2.62331
 [CLS] Albert Schuurmans:4 speelt [MASK] . [SEP],tennis,drumstel:2,0,drumstel:2,0,-3.07243
-[CLS] Herman Meerloo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de . .,altviool:3,0,altviool:3,0,-2.69606
+[CLS] Albert Schuurmans:4 speelt [MASK] . [SEP],handball,drumstel:2,0,drumstel:2,0,-3.26744
+[CLS] Albert Schuurmans:4 speelt [MASK] [MASK] . [SEP],opt:2,drumstel:2,0,drumstel:2,0,-3.53520
+[CLS] Albert Schuurmans:4 speelt [MASK] [MASK] . [SEP],inen:2,drumstel:2,0,drumstel:2,0,-3.62207
+[CLS] Herman Meerloo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in . de . .,altviool:3,0,altviool:3,0,-2.69607
 [CLS] Herman Meerloo:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de de . dee:2,altviool:3,0,altviool:3,0,-3.10416
-[CLS] Andreas Otto speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-2.02896
+[CLS] Herman Meerloo:3 speelt [MASK] [MASK] . [SEP],hets:2,altviool:3,0,altviool:3,0,-3.39034
+[CLS] Herman Meerloo:3 speelt [MASK] [MASK] . [SEP],zijn orgel,altviool:3,0,altviool:3,0,-3.81189
+[CLS] Herman Meerloo:3 speelt [MASK] [MASK] . [SEP],als gitaar,altviool:3,0,altviool:3,0,-3.94800
+[CLS] Andreas Otto speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,viool:2,0,viool:2,0,-2.02897
 [CLS] Andreas Otto speelt [MASK] [MASK] [MASK] . [SEP],in -s:2,viool:2,0,viool:2,0,-3.34856
+[CLS] Andreas Otto speelt [MASK] [MASK] [MASK] . [SEP],de dee:2,viool:2,0,viool:2,0,-3.71550
+[CLS] Andreas Otto speelt [MASK] [MASK] [MASK] . [SEP],op .er:2,viool:2,0,viool:2,0,-3.94457
+[CLS] Andreas Otto speelt [MASK] . [SEP],tennis,viool:2,0,viool:2,0,-4.03447
 [CLS] Sam Praeger:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,altviool:3,0,altviool:3,0,-2.56148
 [CLS] Sam Praeger:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . des:2,altviool:3,0,altviool:3,0,-3.34045
+[CLS] Sam Praeger:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -t:2,altviool:3,0,altviool:3,0,-3.72356
+[CLS] Sam Praeger:3 speelt [MASK] [MASK] [MASK] . [SEP],op alst:2,altviool:3,0,altviool:3,0,-3.99939
+[CLS] Sam Praeger:3 speelt [MASK] . [SEP],p,altviool:3,0,altviool:3,0,-4.06306
 [CLS] Siebe:2 Sol speelt [MASK] . [SEP],op,basgitaar:3,0,basgitaar:3,0,-1.56308
 [CLS] Siebe:2 Sol speelt [MASK] [MASK] . [SEP],open:2,basgitaar:3,0,basgitaar:3,0,-3.01733
-[CLS] Joseph Schebal:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,altviool:3,0,altviool:3,0,-2.63901
+[CLS] Siebe:2 Sol speelt [MASK] [MASK] [MASK] [MASK] . [SEP],de in -s:2,basgitaar:3,0,basgitaar:3,0,-3.68757
+[CLS] Siebe:2 Sol speelt [MASK] [MASK] . [SEP],als speelt,basgitaar:3,0,basgitaar:3,0,-3.80837
+[CLS] Siebe:2 Sol speelt [MASK] . [SEP],af,basgitaar:3,0,basgitaar:3,0,-4.05883
+[CLS] Joseph Schebal:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,altviool:3,0,altviool:3,0,-2.63902
 [CLS] Joseph Schebal:3 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als de . de .,altviool:3,0,altviool:3,0,-3.29339
-[CLS] Berend:2 Dubbe:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,drumstel:2,0,drumstel:2,0,-2.85646
+[CLS] Joseph Schebal:3 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in . .t:2,altviool:3,0,altviool:3,0,-3.60245
+[CLS] Joseph Schebal:3 speelt [MASK] [MASK] . [SEP],die speelt,altviool:3,0,altviool:3,0,-3.92938
+[CLS] Joseph Schebal:3 speelt [MASK] . [SEP],tennis,altviool:3,0,altviool:3,0,-4.09909
+[CLS] Berend:2 Dubbe:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],als als -s:2,drumstel:2,0,drumstel:2,0,-2.85647
 [CLS] Berend:2 Dubbe:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in de dee:2,drumstel:2,0,drumstel:2,0,-3.01183
-[CLS] André de Raaff:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de dee:2,piano,0,piano,0,-2.52404
+[CLS] Berend:2 Dubbe:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],als als als -s:2,drumstel:2,0,drumstel:2,0,-3.41541
+[CLS] Berend:2 Dubbe:2 speelt [MASK] [MASK] . [SEP],als speelt,drumstel:2,0,drumstel:2,0,-3.61123
+[CLS] Berend:2 Dubbe:2 speelt [MASK] . [SEP],speelt,drumstel:2,0,drumstel:2,0,-3.96163
+[CLS] André de Raaff:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de dee:2,piano,0,piano,0,-2.52405
 [CLS] André de Raaff:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van - .,piano,0,piano,0,-3.21849
-[CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] . [SEP],diee:2,luit:2,0,luit:2,0,-2.42655
+[CLS] André de Raaff:2 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het - . .s:2,piano,0,piano,0,-3.62420
+[CLS] André de Raaff:2 speelt [MASK] [MASK] [MASK] . [SEP],het - speelt,piano,0,piano,0,-3.80372
+[CLS] André de Raaff:2 speelt [MASK] . [SEP],bass,piano,0,piano,0,-3.81633
+[CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] . [SEP],diee:2,luit:2,0,luit:2,0,-2.42656
 [CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] [MASK] . [SEP],als ders:2,luit:2,0,luit:2,0,-3.09317
-[CLS] Gustav Leonhardt:2 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.45215
+[CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] [MASK] . [SEP],in -n:2,luit:2,0,luit:2,0,-3.52448
+[CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"de , . de .",luit:2,0,luit:2,0,-4.03893
+[CLS] Gusta:2 Goldschmidt:4 speelt [MASK] [MASK] [MASK] . [SEP],eine alsspieler:2,luit:2,0,luit:2,0,-4.18288
+[CLS] Gustav Leonhardt:2 speelt [MASK] . [SEP],op,orgel,0,orgel,0,-2.45216
 [CLS] Gustav Leonhardt:2 speelt [MASK] . [SEP],orgel,orgel,1,orgel,1,-3.30432
+[CLS] Gustav Leonhardt:2 speelt [MASK] [MASK] [MASK] [MASK] . [SEP],in als des:2,orgel,0,orgel,0,-3.66056
+[CLS] Gustav Leonhardt:2 speelt [MASK] [MASK] [MASK] . [SEP],op ops:2,orgel,0,orgel,0,-3.95144
+[CLS] Gustav Leonhardt:2 speelt [MASK] [MASK] [MASK] . [SEP],die dern:2,orgel,0,orgel,0,-4.14376

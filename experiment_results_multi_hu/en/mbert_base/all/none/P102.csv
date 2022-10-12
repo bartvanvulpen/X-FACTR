@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
-[CLS] Jeremiah:3 Clemens tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.91654
+[CLS] Jeremiah:3 Clemens tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.91653
 [CLS] Jeremiah:3 Clemens tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.77795
-[CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , , a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.40770
+[CLS] Jeremiah:3 Clemens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . ( a és és és - a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.11832
+[CLS] Jeremiah:3 Clemens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - ( ( és ) és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.52906
+[CLS] Jeremiah:3 Clemens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( a a - - ( és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.75945
+[CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , , a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.40769
 [CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] politikai pártnak:2 . [SEP],Wilson,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.84868
-[CLS] Carly:2 Fiorina:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.42351
+[CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.26431
+[CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.36800
+[CLS] Edith Bolling:2 Galt:2 Wilson tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.47839
+[CLS] Carly:2 Fiorina:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.42350
 [CLS] Carly:2 Fiorina:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.75303
-[CLS] John A . Carroll tagja a [MASK] politikai pártnak:2 . [SEP],Carroll,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.65273
+[CLS] Carly:2 Fiorina:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - és a és és - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.40925
+[CLS] Carly:2 Fiorina:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.54942
+[CLS] Carly:2 Fiorina:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.61159
+[CLS] John A . Carroll tagja a [MASK] politikai pártnak:2 . [SEP],Carroll,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.65272
 [CLS] John A . Carroll tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.48417
-[CLS] June Lockhart:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - a",California Republican Party,0,California Republican Party,0,-2.10719
+[CLS] John A . Carroll tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.97115
+[CLS] John A . Carroll tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( - - - . ) -",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.63224
+[CLS] John A . Carroll tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". of a ( ( . és . ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.83558
+[CLS] June Lockhart:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - a",California Republican Party,0,California Republican Party,0,-2.10718
 [CLS] June Lockhart:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , , - a )",California Republican Party,0,California Republican Party,0,-2.74089
-[CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.22697
+[CLS] June Lockhart:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - a és és és és , . nevű",California Republican Party,0,California Republican Party,0,-3.21827
+[CLS] June Lockhart:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,California Republican Party,0,California Republican Party,0,-3.40934
+[CLS] June Lockhart:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,California Republican Party,0,California Republican Party,0,-3.47028
+[CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.22696
 [CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a és , - a )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.75572
-[CLS] Oakley:2 C . Curtis tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.13765
+[CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , és , , , az sz és és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.15239
+[CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a . . . . . és sz angol,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.44046
+[CLS] Charles Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és sz sz az az , . . ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.63653
+[CLS] Oakley:2 C . Curtis tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.13764
 [CLS] Oakley:2 C . Curtis tagja a [MASK] politikai pártnak:2 . [SEP],Curtis,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.23048
-"[CLS] John R . McKernan:5 , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.30490
+[CLS] Oakley:2 C . Curtis tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.37504
+[CLS] Oakley:2 C . Curtis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - a ( ( és a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.55153
+[CLS] Oakley:2 C . Curtis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Ss:2 a - - ( . ) . -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.73112
+"[CLS] John R . McKernan:5 , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.30489
 "[CLS] John R . McKernan:5 , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.05079
-[CLS] Preston Smith tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.65681
+"[CLS] John R . McKernan:5 , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.06313
+"[CLS] John R . McKernan:5 , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.56993
+"[CLS] John R . McKernan:5 , Jr . tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",( a a a - - és ) . politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.81408
+[CLS] Preston Smith tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.65680
 [CLS] Preston Smith tagja a [MASK] politikai pártnak:2 . [SEP],Smith,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.31230
-[CLS] Dan Moody tagja a [MASK] politikai pártnak:2 . [SEP],Moody,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.19764
+[CLS] Preston Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a a , , . . . és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.12248
+[CLS] Preston Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . . . , és és nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.34640
+[CLS] Preston Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a - - - az - az az ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.58784
+[CLS] Dan Moody tagja a [MASK] politikai pártnak:2 . [SEP],Moody,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.19763
 [CLS] Dan Moody tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a , , - a )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.91236
-[CLS] Joshua Baker tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Unionist:2 Party,0,Unionist:2 Party,0,-1.84229
+[CLS] Dan Moody tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , . és . és az az azt:2",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.24568
+[CLS] Dan Moody tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a sz . , , sz . és nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.44513
+[CLS] Dan Moody tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],éssz:2 és - az az és és . ),Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.69255
+[CLS] Joshua Baker tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Unionist:2 Party,0,Unionist:2 Party,0,-1.84228
 [CLS] Joshua Baker tagja a [MASK] politikai pártnak:2 . [SEP],párt,Unionist:2 Party,0,Unionist:2 Party,0,-2.72537
-[CLS] Dale Bumpers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.05036
+[CLS] Joshua Baker tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , . , . . és . az )",Unionist:2 Party,0,Unionist:2 Party,0,-3.09513
+[CLS] Joshua Baker tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Unionist:2 Party,0,Unionist:2 Party,0,-3.27987
+[CLS] Joshua Baker tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és sz - az , - sz sz nevű",Unionist:2 Party,0,Unionist:2 Party,0,-3.60673
+[CLS] Dale Bumpers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.05035
 [CLS] Dale Bumpers:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.55193
-[CLS] David I . Walsh tagja a [MASK] politikai pártnak:2 . [SEP],Walsh,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.70943
+[CLS] Dale Bumpers:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - ) nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.14840
+[CLS] Dale Bumpers:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - és és ( )s:2",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.56162
+[CLS] Dale Bumpers:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.75189
+[CLS] David I . Walsh tagja a [MASK] politikai pártnak:2 . [SEP],Walsh,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.70942
 [CLS] David I . Walsh tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.56658
-[CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.76101
+[CLS] David I . Walsh tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.78258
+[CLS] David I . Walsh tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - és és és a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.54315
+[CLS] David I . Walsh tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a a - - ( és . -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.75002
+[CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.76100
 [CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.97072
-[CLS] James Sevier:2 Conway tagja a [MASK] politikai pártnak:2 . [SEP],Conway,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.03846
+[CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.77520
+[CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( ( és a és és és ( a -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.54996
+[CLS] Octaviano:3 A . Larrazolo:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S a a és - - - ) ési:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.68503
+[CLS] James Sevier:2 Conway tagja a [MASK] politikai pártnak:2 . [SEP],Conway,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.03845
 [CLS] James Sevier:2 Conway tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz - és és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.82517
-[CLS] Nathaniel Pitcher:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.52777
+[CLS] James Sevier:2 Conway tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( a és és és - a nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.17612
+[CLS] James Sevier:2 Conway tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( - és a -",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.53732
+[CLS] James Sevier:2 Conway tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( ( a - - ( és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.77960
+[CLS] Nathaniel Pitcher:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.52776
 [CLS] Nathaniel Pitcher:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , . a a",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.76637
-[CLS] Henry Dodge tagja a [MASK] politikai pártnak:2 . [SEP],Dodge,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.87864
+[CLS] Nathaniel Pitcher:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - a a és és és - . nevű,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.20569
+[CLS] Nathaniel Pitcher:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S és a ( ( ( . ) és,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.57438
+[CLS] Nathaniel Pitcher:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.74670
+[CLS] Henry Dodge tagja a [MASK] politikai pártnak:2 . [SEP],Dodge,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.87863
 [CLS] Henry Dodge tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.76131
-[CLS] Lucius F . C . Garvin:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.91595
+[CLS] Henry Dodge tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , a a , és és és sz ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.07949
+[CLS] Henry Dodge tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az és . . . . , . az és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.28858
+[CLS] Henry Dodge tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],volt a sz sz sz sz sz az . .,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.58601
+[CLS] Lucius F . C . Garvin:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.91594
 [CLS] Lucius F . C . Garvin:3 tagja a [MASK] politikai pártnak:2 . [SEP],római,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.52852
-[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.89737
-[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.41501
+[CLS] Lucius F . C . Garvin:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.52867
+[CLS] Lucius F . C . Garvin:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.99948
+[CLS] Lucius F . C . Garvin:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ ( a - - ( ( és a -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79706
+[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.89736
+[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.41502
+[CLS] Ned McWherter:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S - ( a és és és - ) nevű,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.20882
+[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],Maryland,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.35318
+[CLS] Ned McWherter:4 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.48403
 [CLS] Francis T . Nicholls:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.06588
 [CLS] Francis T . Nicholls:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.64099
-[CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.53372
+[CLS] Francis T . Nicholls:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.19255
+[CLS] Francis T . Nicholls:3 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.34976
+[CLS] Francis T . Nicholls:3 tagja a [MASK] politikai pártnak:2 . [SEP],Nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.64905
+[CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.53371
 [CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.97527
+[CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . - a és és és - ) nevű",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.30085
+[CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( és és és és ( a és,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.59715
+[CLS] Nathaniel P . Tallmadge:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.77819
 [CLS] William H . Murray tagja a [MASK] politikai pártnak:2 . [SEP],Murray,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.46180
-[CLS] William H . Murray tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.86871
-[CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.80739
+[CLS] William H . Murray tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.86872
+[CLS] William H . Murray tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - - a és és és - , -",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.23045
+[CLS] William H . Murray tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S és ( - - - . a nevű,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.64108
+[CLS] William H . Murray tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ a a ( ( ( ési:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.87898
+[CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.80738
 [CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.43318
-[CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.01528
+[CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],Maryland,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.21147
+[CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],Pennsylvania,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.35576
+[CLS] Silas:2 A . Holcomb:3 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.56423
+[CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.01527
 [CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.69107
-[CLS] Thomas Clarke Rye:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.31149
+[CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.22853
+[CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.46265
+[CLS] Julius Caldeen:3 Gunter:2 tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.63738
+[CLS] Thomas Clarke Rye:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.31148
 [CLS] Thomas Clarke Rye:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.71919
-[CLS] Earl L . Brewer tagja a [MASK] politikai pártnak:2 . [SEP],Brewer,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.51113
+[CLS] Thomas Clarke Rye:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S . ( a , , és - ) nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.14556
+[CLS] Thomas Clarke Rye:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a ( ( - és , és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.62380
+[CLS] Thomas Clarke Rye:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( - - - és és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79955
+[CLS] Earl L . Brewer tagja a [MASK] politikai pártnak:2 . [SEP],Brewer,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.51112
 [CLS] Earl L . Brewer tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.76384
-[CLS] John H . Sununu:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.42841
+[CLS] Earl L . Brewer tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.15596
+[CLS] Earl L . Brewer tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S és - ( ( - . . és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.55503
+[CLS] Earl L . Brewer tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a a - - - - és a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.75179
+[CLS] John H . Sununu:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.42840
 [CLS] John H . Sununu:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.00598
-[CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.20519
+[CLS] John H . Sununu:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.99951
+[CLS] John H . Sununu:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"„ ( és és és és ) ,i:2",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.62735
+[CLS] John H . Sununu:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a a - - - ( és -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.85339
+[CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.20518
 [CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , - ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.78527
+[CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és és és ( - a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.24303
+[CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S és - ( ( és ) , -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.55909
+[CLS] Harold Stassen:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a a - - - . . ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.72380
 [CLS] Garrey:3 Carruthers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.68960
 [CLS] Garrey:3 Carruthers:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.28367
-[CLS] Bob Gibbs tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.48557
+[CLS] Garrey:3 Carruthers:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és , a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.16133
+[CLS] Garrey:3 Carruthers:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . - a és és ( a és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.45553
+[CLS] Garrey:3 Carruthers:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( és a - - - és és -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.72379
+[CLS] Bob Gibbs tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.48556
 [CLS] Bob Gibbs tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.85496
-[CLS] Coe:2 I . Crawford tagja a [MASK] politikai pártnak:2 . [SEP],Crawford,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.53627
+[CLS] Bob Gibbs tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz és és , és az az az nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.17170
+[CLS] Bob Gibbs tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . , , - . és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.41196
+[CLS] Bob Gibbs tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],volt és - - az az és sz ést:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.70113
+[CLS] Coe:2 I . Crawford tagja a [MASK] politikai pártnak:2 . [SEP],Crawford,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.53626
 [CLS] Coe:2 I . Crawford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . és és a és és - ) a,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.87840
-[CLS] William D . Williamson tagja a [MASK] politikai pártnak:2 . [SEP],Williamson,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-0.05239
+[CLS] Coe:2 I . Crawford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a , , , , . és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.23198
+[CLS] Coe:2 I . Crawford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( a ( ( és és -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.58172
+[CLS] Coe:2 I . Crawford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"Ss:2 a - - - . . , ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.80277
+[CLS] William D . Williamson tagja a [MASK] politikai pártnak:2 . [SEP],Williamson,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-0.05238
 [CLS] William D . Williamson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , , ) a",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.81732
-[CLS] William Tudor Gardiner tagja a [MASK] politikai pártnak:2 . [SEP],Gardiner,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.16984
+[CLS] William D . Williamson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - , nevű",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.20312
+[CLS] William D . Williamson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( és és a -",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.57082
+[CLS] William D . Williamson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a a - - ( és . és,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.78093
+[CLS] William Tudor Gardiner tagja a [MASK] politikai pártnak:2 . [SEP],Gardiner,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.16983
 [CLS] William Tudor Gardiner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , - a )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.73394
-[CLS] Charles Paine:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Paine:2,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.38593
+[CLS] William Tudor Gardiner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és a a és és és , ) ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.22958
+[CLS] William Tudor Gardiner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( - - - és ) ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.61875
+[CLS] William Tudor Gardiner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", sz ( . . . . és és -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.86493
+[CLS] Charles Paine:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Paine:2,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.38592
 [CLS] Charles Paine:2 tagja a [MASK] politikai pártnak:2 . [SEP],francia,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.39398
-[CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.39300
+[CLS] Charles Paine:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.80258
+[CLS] Charles Paine:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.91083
+[CLS] Charles Paine:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.71247
+[CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.39299
 [CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.80278
-[CLS] John Philo:2 Hoyt:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.60082
+[CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.00400
+[CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],Edwards,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.44492
+[CLS] James B . Edwards tagja a [MASK] politikai pártnak:2 . [SEP],független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.56866
+[CLS] John Philo:2 Hoyt:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.60081
 [CLS] John Philo:2 Hoyt:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.83257
-[CLS] John N . Irwin tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.37218
+[CLS] John Philo:2 Hoyt:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.12458
+[CLS] John Philo:2 Hoyt:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a ( ( és és , és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.55907
+[CLS] John Philo:2 Hoyt:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( és - - - és és -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.85784
+[CLS] John N . Irwin tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.37217
 [CLS] John N . Irwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , - ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.87984
+[CLS] John N . Irwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - a a és és és , a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.14591
+[CLS] John N . Irwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( - - . ) -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.62369
+[CLS] John N . Irwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],.s:2 a - ( . és . és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.79010
 [CLS] Edward W . Hoch:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.29157
 [CLS] Edward W . Hoch:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.83014
-[CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.73903
+[CLS] Edward W . Hoch:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.16818
+[CLS] Edward W . Hoch:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.20222
+[CLS] Edward W . Hoch:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a a - - . . és , ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.81703
+[CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.73902
 [CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.92236
-[CLS] George B . Shaw tagja a [MASK] politikai pártnak:2 . [SEP],Shaw,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.36001
+[CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.10830
+[CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],Democratic,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.48314
+[CLS] William E . Borah:2 tagja a [MASK] politikai pártnak:2 . [SEP],Nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.64881
+[CLS] George B . Shaw tagja a [MASK] politikai pártnak:2 . [SEP],Shaw,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.36000
 [CLS] George B . Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.82144
-[CLS] Henry Baldwin tagja a [MASK] politikai pártnak:2 . [SEP],Baldwin,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-0.05162
+[CLS] George B . Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - , ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.25047
+[CLS] George B . Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( és és a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.61630
+[CLS] George B . Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ a a - - ( és politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.83817
+[CLS] Henry Baldwin tagja a [MASK] politikai pártnak:2 . [SEP],Baldwin,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-0.05161
 [CLS] Henry Baldwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , és és és és és . és a",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.84058
-[CLS] Clair Engle:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.15889
+[CLS] Henry Baldwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". sz a a , , , és . és",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.15907
+[CLS] Henry Baldwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az és . . . . . az - ,",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.41877
+[CLS] Henry Baldwin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és a sz - az az az sz azk:2,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.65391
+[CLS] Clair Engle:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.15888
 [CLS] Clair Engle:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . a a , , , - a )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.78027
-[CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.97022
+[CLS] Clair Engle:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - a és és és - , nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.20463
+[CLS] Clair Engle:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a - - . . és , és nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.56822
+[CLS] Clair Engle:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", sz . . - - - az , és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.69205
+[CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.97021
 [CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.02450
-[CLS] Clarence MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.59323
+[CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.89536
+[CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.37446
+[CLS] Clara G . McMillan:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.78492
+[CLS] Clarence MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.59322
 [CLS] Clarence MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , , ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.83296
-[CLS] Clark MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.36367
-[CLS] Clark MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.48624
+[CLS] Clarence MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - , ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.22222
+[CLS] Clarence MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . - ( ( ( és a nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.53122
+[CLS] Clarence MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.77074
+[CLS] Clark MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.36366
+[CLS] Clark MacGregor:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.48625
+[CLS] Clark MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.19052
+[CLS] Clark MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . - ( ( és és a és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.49461
+[CLS] Clark MacGregor:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a - - - - . . . és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.79536
 [CLS] Clayton R . Lusk:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.00758
 [CLS] Clayton R . Lusk:2 tagja a [MASK] politikai pártnak:2 . [SEP],Clayton,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.65885
-[CLS] Clifford McIntire:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.56455
+[CLS] Clayton R . Lusk:2 tagja a [MASK] politikai pártnak:2 . [SEP],Lincoln,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.80897
+[CLS] Clayton R . Lusk:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.24805
+[CLS] Clayton R . Lusk:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"szs:2 a - - - - és , és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.75802
+[CLS] Clifford McIntire:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.56454
 [CLS] Clifford McIntire:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.10331
-[CLS] Robert Nodar:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Nodar:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.69562
+[CLS] Clifford McIntire:5 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( és és és és - ) nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.23455
+[CLS] Clifford McIntire:5 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz és a ( ( ( - . a ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.56112
+[CLS] Clifford McIntire:5 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a - - - - ( ) . -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.78103
+[CLS] Robert Nodar:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Nodar:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.69561
 [CLS] Robert Nodar:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.39972
+[CLS] Robert Nodar:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.07284
+[CLS] Robert Nodar:2 tagja a [MASK] politikai pártnak:2 . [SEP],parti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.22402
+[CLS] Robert Nodar:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.60890
 [CLS] Louis Freeh:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Freeh:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.56397
 [CLS] Louis Freeh:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.68619
-[CLS] Samuel F . Hersey:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.84145
+[CLS] Louis Freeh:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az és a a , , . . és és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.11654
+[CLS] Louis Freeh:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a - . . . , és az ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.53624
+[CLS] Louis Freeh:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. sz . - - - az az . nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.67386
+[CLS] Samuel F . Hersey:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.84144
 [CLS] Samuel F . Hersey:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.33877
+[CLS] Samuel F . Hersey:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és a és és és - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.17837
+[CLS] Samuel F . Hersey:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és és a ( ( és ) és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.52751
+[CLS] Samuel F . Hersey:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ ( a - - és és -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.76889
 [CLS] Conrad Baker tagja a [MASK] politikai pártnak:2 . [SEP],Baker,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.23623
 [CLS] Conrad Baker tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.40066
-[CLS] Robert Lee Moore tagja a [MASK] politikai pártnak:2 . [SEP],Moore,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.14507
+[CLS] Conrad Baker tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.84648
+[CLS] Conrad Baker tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a . . . . . és . nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.49416
+[CLS] Conrad Baker tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és - - - - az - az az ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.69493
+[CLS] Robert Lee Moore tagja a [MASK] politikai pártnak:2 . [SEP],Moore,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.14506
 [CLS] Robert Lee Moore tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.12554
-[CLS] Francis P . Blair tagja a [MASK] politikai pártnak:2 . [SEP],Blair,Free Soil:2 Party,0,Free Soil:2 Party,0,-0.11332
+[CLS] Robert Lee Moore tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az - a a , , és . . nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.20700
+[CLS] Robert Lee Moore tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . - ( és és ) és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.58535
+[CLS] Robert Lee Moore tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és a . - - az - és ) és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.78185
+[CLS] Francis P . Blair tagja a [MASK] politikai pártnak:2 . [SEP],Blair,Free Soil:2 Party,0,Free Soil:2 Party,0,-0.11331
 [CLS] Francis P . Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , , ) a",Free Soil:2 Party,0,Free Soil:2 Party,0,-2.84244
-[CLS] John Conness:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Conness:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.45664
+[CLS] Francis P . Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - a nevű",Free Soil:2 Party,0,Free Soil:2 Party,0,-3.24101
+[CLS] Francis P . Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( - és a és",Free Soil:2 Party,0,Free Soil:2 Party,0,-3.59336
+[CLS] Francis P . Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],P . a - - és és és,Free Soil:2 Party,0,Free Soil:2 Party,0,-3.78243
+[CLS] John Conness:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Conness:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.45663
 [CLS] John Conness:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.42038
-[CLS] John William Davis tagja a [MASK] politikai pártnak:2 . [SEP],Davis,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.38209
+[CLS] John Conness:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a a és , , és az és nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.20402
+[CLS] John Conness:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. sz . - . az az sz az és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.71046
+[CLS] John Conness:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"szervezet és - . - . . . . ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79883
+[CLS] John William Davis tagja a [MASK] politikai pártnak:2 . [SEP],Davis,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.38208
 [CLS] John William Davis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és , , , . a a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.76649
-[CLS] Lloyd Blankfein:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , és a a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.34150
+[CLS] John William Davis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és a a és és . - ) ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.23815
+[CLS] John William Davis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a . . . . és , . és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.57585
+[CLS] John William Davis tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S a - - ( . és . ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.77446
+[CLS] Lloyd Blankfein:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , és a a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.34149
 [CLS] Lloyd Blankfein:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és , és és , - a a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.85139
-[CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.50573
+[CLS] Lloyd Blankfein:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.99453
+[CLS] Lloyd Blankfein:4 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.36392
+[CLS] Lloyd Blankfein:4 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.65858
+[CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.50572
 [CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.77669
-[CLS] John Bryson:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.64143
+[CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.13209
+[CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.49396
+[CLS] Joseph W . Chalmers:3 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.52102
+[CLS] John Bryson:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.64142
 [CLS] John Bryson:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.70473
-[CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],Grant,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.34220
+[CLS] John Bryson:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - a a , , és , ) nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.19471
+[CLS] John Bryson:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( és ) -",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.58573
+[CLS] John Bryson:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a - - ( . és . és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79489
+[CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],Grant,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.34219
 [CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.45729
+[CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.13889
+[CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.34998
+[CLS] Robert A . Grant tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.36272
 [CLS] John Armstrong tagja a [MASK] politikai pártnak:2 . [SEP],Armstrong,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.60469
 [CLS] John Armstrong tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.65382
+[CLS] John Armstrong tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a sz . . és . az és és,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.11374
+[CLS] John Armstrong tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . , az az sz és szt:2",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.37829
+[CLS] John Armstrong tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és , , sz sz sz és . . )",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.49829
 [CLS] Harold L . Runnels:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.42480
 [CLS] Harold L . Runnels:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.83100
-[CLS] Harry W . Musselwhite:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.69032
+[CLS] Harold L . Runnels:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.05038
+[CLS] Harold L . Runnels:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.40082
+[CLS] Harold L . Runnels:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.70168
+[CLS] Harry W . Musselwhite:5 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.69031
 [CLS] Harry W . Musselwhite:5 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.78915
-[CLS] Stephen A . Rudd:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.01099
+[CLS] Harry W . Musselwhite:5 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . - ( és és ( - , nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.31329
+[CLS] Harry W . Musselwhite:5 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.37198
+[CLS] Harry W . Musselwhite:5 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( a a - - - és . . és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.76726
+[CLS] Stephen A . Rudd:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.01098
 [CLS] Stephen A . Rudd:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.91817
+[CLS] Stephen A . Rudd:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S - és a és és és - a nevű,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.18566
+[CLS] Stephen A . Rudd:2 tagja a [MASK] politikai pártnak:2 . [SEP],Nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.29434
+[CLS] Stephen A . Rudd:2 tagja a [MASK] politikai pártnak:2 . [SEP],Democratic,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.45472
 [CLS] David J . O ' Connell tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.10311
 [CLS] David J . O ' Connell tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.43576
-[CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.16216
+[CLS] David J . O ' Connell tagja a [MASK] politikai pártnak:2 . [SEP],Democratic,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.14456
+[CLS] David J . O ' Connell tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.45518
+[CLS] David J . O ' Connell tagja a [MASK] politikai pártnak:2 . [SEP],liberal,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.48370
+[CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.16215
 [CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.29662
-[CLS] Kirtland:3 I . Perky:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.86340
+[CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.82958
+[CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.48227
+[CLS] William F . DeSaussure:4 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.70716
+[CLS] Kirtland:3 I . Perky:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.86339
 [CLS] Kirtland:3 I . Perky:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.69665
-[CLS] John Alexander Cocke:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.03432
+[CLS] Kirtland:3 I . Perky:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.14608
+[CLS] Kirtland:3 I . Perky:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"„ ( - a ( ( - , ,k:2",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.72439
+[CLS] Kirtland:3 I . Perky:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79690
+[CLS] John Alexander Cocke:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.03431
 [CLS] John Alexander Cocke:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , a a",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.82544
-[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Lanham:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.27259
-[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.48138
-[CLS] Samuel Wadsworth:3 Gould tagja a [MASK] politikai pártnak:2 . [SEP],Gould,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.17030
+[CLS] John Alexander Cocke:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - ) nevű",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.27037
+[CLS] John Alexander Cocke:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( és ) és",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.56877
+[CLS] John Alexander Cocke:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . a és és és és",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.82042
+[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Lanham:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.27258
+[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.48139
+[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( és és és és - a nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.22245
+[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - és és és ) a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.52949
+[CLS] Henderson Lovelace:2 Lanham:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( ( a - - - ( és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.79706
+[CLS] Samuel Wadsworth:3 Gould tagja a [MASK] politikai pártnak:2 . [SEP],Gould,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.17029
 [CLS] Samuel Wadsworth:3 Gould tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz - ( és a , , , , a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.81362
-[CLS] Henry D . Flood tagja a [MASK] politikai pártnak:2 . [SEP],Flood,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.50540
+[CLS] Samuel Wadsworth:3 Gould tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és és a és és és - ) ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.20101
+[CLS] Samuel Wadsworth:3 Gould tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S ( és a ( ( és a -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.48748
+[CLS] Samuel Wadsworth:3 Gould tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"( . a - - ( és ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.74993
+[CLS] Henry D . Flood tagja a [MASK] politikai pártnak:2 . [SEP],Flood,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.50539
 [CLS] Henry D . Flood tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.25762
-[CLS] Henry D . Moorman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.02746
+[CLS] Henry D . Flood tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - a a és és és - . nevű,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.22561
+[CLS] Henry D . Flood tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - ( ( és ) és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.55134
+[CLS] Henry D . Flood tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a a ( ( . és ) ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.73290
+[CLS] Henry D . Moorman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.02745
 [CLS] Henry D . Moorman:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.08085
-[CLS] Henry E . Stubbs:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.84813
+[CLS] Henry D . Moorman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és a és és és - . nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.18832
+[CLS] Henry D . Moorman:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.55731
+[CLS] Henry D . Moorman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( és a - - és és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.76787
+[CLS] Henry E . Stubbs:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.84812
 [CLS] Henry E . Stubbs:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.06820
-[CLS] Henry Marchmore:2 Shaw tagja a [MASK] politikai pártnak:2 . [SEP],Shaw,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.16832
+[CLS] Henry E . Stubbs:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - és a és és és - , nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.30219
+[CLS] Henry E . Stubbs:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( ( - . . -",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.57168
+[CLS] Henry E . Stubbs:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". ( a - - - . ) a ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.78029
+[CLS] Henry Marchmore:2 Shaw tagja a [MASK] politikai pártnak:2 . [SEP],Shaw,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.16831
 [CLS] Henry Marchmore:2 Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a - és és a , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.74073
-[CLS] Henry P . Haun:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.07079
+[CLS] Henry Marchmore:2 Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( a és és és - , ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.16143
+[CLS] Henry Marchmore:2 Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - ( ( ( ) a és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.55963
+[CLS] Henry Marchmore:2 Shaw tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( . a - - és és -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.81728
+[CLS] Henry P . Haun:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.07078
 [CLS] Henry P . Haun:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.27667
-[CLS] Henry Smith tagja a [MASK] politikai pártnak:2 . [SEP],Smith,Union Labor Party,0,Union Labor Party,0,-0.82870
+[CLS] Henry P . Haun:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - és és és és és , a nevű",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.25928
+[CLS] Henry P . Haun:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( - és és és . a -,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.59946
+[CLS] Henry P . Haun:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],".s:2 a - - - . ) , ,",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.76597
+[CLS] Henry Smith tagja a [MASK] politikai pártnak:2 . [SEP],Smith,Union Labor Party,0,Union Labor Party,0,-0.82869
 [CLS] Henry Smith tagja a [MASK] politikai pártnak:2 . [SEP],párt,Union Labor Party,0,Union Labor Party,0,-2.55020
-[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.19121
-[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.55570
-[CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.45822
+[CLS] Henry Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , és , , . és sz az és",Union Labor Party,0,Union Labor Party,0,-3.07553
+[CLS] Henry Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . . , az és . .",Union Labor Party,0,Union Labor Party,0,-3.29280
+[CLS] Henry Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a sz sz az az , . sz ,",Union Labor Party,0,Union Labor Party,0,-3.52456
+[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.19120
+[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.55571
+[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.62085
+[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Peace and Freedom Party,0,Peace and Freedom Party,0,-3.24576
+[CLS] Herbert Aptheker:4 tagja a [MASK] politikai pártnak:2 . [SEP],német,Peace and Freedom Party,0,Peace and Freedom Party,0,-3.28580
+[CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.45821
 [CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - ( és , , , , ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.95317
-[CLS] Lucien B . Caswell:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.76361
+[CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.99366
+[CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - ( ( ( - ) a nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.51813
+[CLS] Hugh Judson:2 Kilpatrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( a a - - - ( és és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.74927
+[CLS] Lucien B . Caswell:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.76360
 [CLS] Lucien B . Caswell:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.82671
+[CLS] Lucien B . Caswell:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és ( és és és - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.25927
+[CLS] Lucien B . Caswell:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S ( - a ( ( - ) a -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.47576
+[CLS] Lucien B . Caswell:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( és a - - - ( . . és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.75365
 "[CLS] Hunter Holmes Moss , Jr . tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","sz , , , , a a a - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.53604
 "[CLS] Hunter Holmes Moss , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.88771
-[CLS] John Wesley Crockett:3 tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Crockett:3,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.03174
+"[CLS] Hunter Holmes Moss , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.31281
+"[CLS] Hunter Holmes Moss , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.45403
+"[CLS] Hunter Holmes Moss , Jr . tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.62941
+[CLS] John Wesley Crockett:3 tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Crockett:3,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.03173
 [CLS] John Wesley Crockett:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.55173
-[CLS] Toby Roth tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.28934
+[CLS] John Wesley Crockett:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - , és",Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.28955
+[CLS] John Wesley Crockett:3 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.50212
+[CLS] John Wesley Crockett:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.58539
+[CLS] Toby Roth tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.28933
 [CLS] Toby Roth tagja a [MASK] politikai pártnak:2 . [SEP],német,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.70834
-[CLS] Martin Kinsley:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.63004
+[CLS] Toby Roth tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , és és , , . sz - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.16443
+[CLS] Toby Roth tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a . . . az és . ésk:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.49070
+[CLS] Toby Roth tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt - sz - az . , - szt:2",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.64077
+[CLS] Martin Kinsley:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-1.63003
 [CLS] Martin Kinsley:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és és és , , ) a",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-2.67127
-[CLS] Spencer Jarnagin:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.93884
+[CLS] Martin Kinsley:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( a , , és - a nevű",Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.11909
+[CLS] Martin Kinsley:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.38679
+[CLS] Martin Kinsley:3 tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Demokrata:3 Republikánus:3 Párt:2,0,Demokrata:3 Republikánus:3 Párt:2,0,-3.70013
+[CLS] Spencer Jarnagin:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.93883
 [CLS] Spencer Jarnagin:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , ) a",Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.77983
-[CLS] Truman H . Aldrich:2 tagja a [MASK] politikai pártnak:2 . [SEP],Truman,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.45606
+[CLS] Spencer Jarnagin:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - a nevű",Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.11680
+[CLS] Spencer Jarnagin:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S és a ( ( ( és a és,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.48695
+[CLS] Spencer Jarnagin:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". ( - - - - . . ,",Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.76716
+[CLS] Truman H . Aldrich:2 tagja a [MASK] politikai pártnak:2 . [SEP],Truman,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.45605
 [CLS] Truman H . Aldrich:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.49184
-[CLS] Joe Skeen:3 tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Skeen:3,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.62124
+[CLS] Truman H . Aldrich:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.10850
+[CLS] Truman H . Aldrich:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.17243
+[CLS] Truman H . Aldrich:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. ( a - - - ( ) . és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.91603
+[CLS] Joe Skeen:3 tagja a [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Skeen:3,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.62123
 [CLS] Joe Skeen:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.83431
-[CLS] Montgomery Blair tagja a [MASK] politikai pártnak:2 . [SEP],Blair,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.28257
+[CLS] Joe Skeen:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - ( a , , és - a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.17261
+[CLS] Joe Skeen:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a ( ( - . a és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.62892
+[CLS] Joe Skeen:3 tagja a [MASK] politikai pártnak:2 . [SEP],független,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.70621
+[CLS] Montgomery Blair tagja a [MASK] politikai pártnak:2 . [SEP],Blair,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.28256
 [CLS] Montgomery Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a és és és az - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.77018
-[CLS] Luther Youngdahl:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.28102
+[CLS] Montgomery Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a , , , , - az és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.10773
+[CLS] Montgomery Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . . az az . . ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.40888
+[CLS] Montgomery Blair tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és a - - az . . és ésk:2,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.56359
+[CLS] Luther Youngdahl:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.28101
 [CLS] Luther Youngdahl:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.29200
-[CLS] Mark H . Dunnell:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.37809
+[CLS] Luther Youngdahl:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S - ( a és és - a nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.14376
+[CLS] Luther Youngdahl:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.38832
+[CLS] Luther Youngdahl:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.52038
+[CLS] Mark H . Dunnell:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.37808
 [CLS] Mark H . Dunnell:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.41384
-[CLS] Mark Hopkins tagja a [MASK] politikai pártnak:2 . [SEP],Hopkins,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.51534
+[CLS] Mark H . Dunnell:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - ( a és és és , a nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.24134
+[CLS] Mark H . Dunnell:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( és ) a -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.58336
+[CLS] Mark H . Dunnell:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a - ( . . ) , -",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.75556
+[CLS] Mark Hopkins tagja a [MASK] politikai pártnak:2 . [SEP],Hopkins,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.51533
 [CLS] Mark Hopkins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és és és , - a )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.82202
-[CLS] Mark Neumann tagja a [MASK] politikai pártnak:2 . [SEP],német,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.46288
+[CLS] Mark Hopkins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , . . az és szk:2",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.14005
+[CLS] Mark Hopkins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . , az . az az nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.34170
+[CLS] Mark Hopkins tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt és sz sz az , sz . - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.54696
+[CLS] Mark Neumann tagja a [MASK] politikai pártnak:2 . [SEP],német,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-1.46287
 [CLS] Mark Neumann tagja a [MASK] politikai pártnak:2 . [SEP],Neumann,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.17643
-[CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.37727
+[CLS] Mark Neumann tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.08713
+[CLS] Mark Neumann tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , és , , az az és - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.36302
+[CLS] Mark Neumann tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és - sz sz az sz sz . az nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.52069
+[CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-1.37726
 [CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],német,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-2.60986
-[CLS] Marty Nothstein:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.33098
+[CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],SPD,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.03283
+[CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.38342
+[CLS] Martin Welker:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Whig:2 Párt:2,0,Whig:2 Párt:2,0,-3.38535
+[CLS] Marty Nothstein:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.33097
 [CLS] Marty Nothstein:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , - . a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.86121
+[CLS] Marty Nothstein:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - ( a , , és , ) nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.23983
+[CLS] Marty Nothstein:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.42004
+[CLS] Marty Nothstein:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.44808
 [CLS] Matthew G . Martínez tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.13005
 [CLS] Matthew G . Martínez tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.56830
-[CLS] Maurice Connolly tagja a [MASK] politikai pártnak:2 . [SEP],Connolly,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.44881
+[CLS] Matthew G . Martínez tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S - ( a és és és - a nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.14916
+[CLS] Matthew G . Martínez tagja a [MASK] politikai pártnak:2 . [SEP],Nemzeti,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.28679
+[CLS] Matthew G . Martínez tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.29372
+[CLS] Maurice Connolly tagja a [MASK] politikai pártnak:2 . [SEP],Connolly,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-0.44880
 [CLS] Maurice Connolly tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és , - ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.74509
-[CLS] Maurice E . Crumpacker:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.42599
+[CLS] Maurice Connolly tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , a a , , az sz az angol",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.17850
+[CLS] Maurice Connolly tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és . . . . . az sz és,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.45388
+[CLS] Maurice Connolly tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a sz and az az , . -k:2",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.65372
+[CLS] Maurice E . Crumpacker:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.42598
 [CLS] Maurice E . Crumpacker:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.81322
-[CLS] Mel Levine tagja a [MASK] politikai pártnak:2 . [SEP],Levine,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.41871
+[CLS] Maurice E . Crumpacker:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . - ( és és - - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.30729
+[CLS] Maurice E . Crumpacker:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( és a ( ( és . a -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.63629
+[CLS] Maurice E . Crumpacker:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"C a a - - - ( ) . ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.86108
+[CLS] Mel Levine tagja a [MASK] politikai pártnak:2 . [SEP],Levine,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-1.41870
 [CLS] Mel Levine tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . sz és és és az sz szk:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.92785
-[CLS] Melbourne H . Ford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.30256
+[CLS] Mel Levine tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , . . és az és és",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.13244
+[CLS] Mel Levine tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],.sz:2 és . az az sz és azn:2,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.37797
+[CLS] Mel Levine tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és , . sz sz sz . . .z:2",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.53812
+[CLS] Melbourne H . Ford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.30255
 [CLS] Melbourne H . Ford tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , , ) a",Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-2.80660
-[CLS] Melvin Maas tagja a [MASK] politikai pártnak:2 . [SEP],Maas,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.82533
+[CLS] Melbourne H . Ford tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.18680
+[CLS] Melbourne H . Ford tagja a [MASK] politikai pártnak:2 . [SEP],független,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.27772
+[CLS] Melbourne H . Ford tagja a [MASK] politikai pártnak:2 . [SEP],párt,Demokrata:3 Párt:2,0,Demokrata:3 Párt:2,0,-3.28983
+[CLS] Melvin Maas tagja a [MASK] politikai pártnak:2 . [SEP],Maas,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.82532
 [CLS] Melvin Maas tagja a [MASK] politikai pártnak:2 . [SEP],párt,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.68462
-[CLS] Meshack:3 Franklin tagja a [MASK] politikai pártnak:2 . [SEP],Franklin,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.22081
+[CLS] Melvin Maas tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az - a és és . . . nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.25729
+[CLS] Melvin Maas tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a és . . és és az és nevű,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.47236
+[CLS] Melvin Maas tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és - sz - az az , - sz és",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.73669
+[CLS] Meshack:3 Franklin tagja a [MASK] politikai pártnak:2 . [SEP],Franklin,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.22080
 [CLS] Meshack:3 Franklin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , a a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.71617
-[CLS] W . Sterling Cole tagja a [MASK] politikai pártnak:2 . [SEP],Cole,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.49622
+[CLS] Meshack:3 Franklin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - - a , , és - . nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.08509
+[CLS] Meshack:3 Franklin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S és ( - - - . . ,",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.61698
+[CLS] Meshack:3 Franklin tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a a ( ( . és ) -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.76540
+[CLS] W . Sterling Cole tagja a [MASK] politikai pártnak:2 . [SEP],Cole,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-0.49621
 [CLS] W . Sterling Cole tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és és , , , , ) a",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-2.83064
-[CLS] Ida Copeland tagja a [MASK] politikai pártnak:2 . [SEP],Copeland,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.08642
+[CLS] W . Sterling Cole tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( a és és és - , nevű",Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.12717
+[CLS] W . Sterling Cole tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és - ( ( - és a és,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.51158
+[CLS] W . Sterling Cole tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ ( a - - és és -,Republikánus:3 Párt:2,0,Republikánus:3 Párt:2,0,-3.71440
+[CLS] Ida Copeland tagja a [MASK] politikai pártnak:2 . [SEP],Copeland,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.08641
 [CLS] Ida Copeland tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , , a a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.76718
-[CLS] Jennette:2 Arnold tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.85834
+[CLS] Ida Copeland tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - a és és és - . nevű,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.21400
+[CLS] Ida Copeland tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a . . . . és az . ,",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.55349
+[CLS] Ida Copeland tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - and and az az az , éss:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.80737
+[CLS] Jennette:2 Arnold tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.85833
 [CLS] Jennette:2 Arnold tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.21522
-[CLS] Ion Hamilton Benn:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.45633
-[CLS] Ion Hamilton Benn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( és , , , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.91562
-[CLS] Ivan Neill tagja a [MASK] politikai pártnak:2 . [SEP],Neill,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.34267
+[CLS] Jennette:2 Arnold tagja a [MASK] politikai pártnak:2 . [SEP],Arnold,Munkáspárt:5,0,Munkáspárt:5,0,-2.29443
+[CLS] Jennette:2 Arnold tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az és . . . . . és és nevű,Munkáspárt:5,0,Munkáspárt:5,0,-3.56958
+[CLS] Jennette:2 Arnold tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és a - - - - - az az angol,Munkáspárt:5,0,Munkáspárt:5,0,-3.70498
+[CLS] Ion Hamilton Benn:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.45632
+[CLS] Ion Hamilton Benn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( és , , , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.91563
+[CLS] Ion Hamilton Benn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és a és és és - a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.25446
+[CLS] Ion Hamilton Benn:2 tagja a [MASK] politikai pártnak:2 . [SEP],román,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.51274
+[CLS] Ion Hamilton Benn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a a - és ) és és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.86958
+[CLS] Ivan Neill tagja a [MASK] politikai pártnak:2 . [SEP],Neill,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.34266
 [CLS] Ivan Neill tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.70552
-[CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.42471
+[CLS] Ivan Neill tagja a [MASK] politikai pártnak:2 . [SEP],Nemzeti,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.06761
+[CLS] Ivan Neill tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.38361
+[CLS] Ivan Neill tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és sz sz az , sz . .t:2",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.64490
+[CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.42470
 [CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.82605
+[CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],Hughes,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.83911
+[CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.02663
+[CLS] Stuart Hughes ( politician ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.51924
 [CLS] Stuart Wheeler tagja a [MASK] politikai pártnak:2 . [SEP],Wheeler,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.45540
 [CLS] Stuart Wheeler tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és , - a )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.76247
-[CLS] Susan Lawrence tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.24445
+[CLS] Stuart Wheeler tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a , , . az és az és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.08132
+[CLS] Stuart Wheeler tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . . , . . . angol",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.36941
+[CLS] Stuart Wheeler tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a sz - az az , sz sz ,",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.55820
+[CLS] Susan Lawrence tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.24444
 [CLS] Susan Lawrence tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-2.71833
-[CLS] Syd Rapson:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Rapson:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.04805
-[CLS] Syd Rapson:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.83037
-[CLS] T . E . Utley:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.74432
+[CLS] Susan Lawrence tagja a [MASK] politikai pártnak:2 . [SEP],független,Munkáspárt:5,0,Munkáspárt:5,0,-2.98846
+[CLS] Susan Lawrence tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-3.00450
+[CLS] Susan Lawrence tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.24197
+[CLS] Syd Rapson:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Rapson:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.04804
+[CLS] Syd Rapson:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.83038
+[CLS] Syd Rapson:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - ( a és és - . nevű,Munkáspárt:5,0,Munkáspárt:5,0,-3.19150
+[CLS] Syd Rapson:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. sz . . . . . és és és,Munkáspárt:5,0,Munkáspárt:5,0,-3.54712
+[CLS] Syd Rapson:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],",s:2 - - - . és , ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.74407
+[CLS] T . E . Utley:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.74431
 [CLS] T . E . Utley:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.25632
-[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.19377
-[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.34811
-[CLS] Terry Sutton tagja a [MASK] politikai pártnak:2 . [SEP],Sutton,Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-1.41024
+[CLS] T . E . Utley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( a és és és , , nevű",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.19773
+[CLS] T . E . Utley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ és és a ( és és a -,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.53698
+[CLS] T . E . Utley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( a - - - ( és és,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.69025
+[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.19376
+[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.34812
+[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - ( a , , és , a nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.19269
+[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", ( - és és és ( , és",Munkáspárt:5,0,Munkáspárt:5,0,-3.53487
+[CLS] Tamsin:2 Dunwoody:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ és a - - - és ési:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.77931
+[CLS] Terry Sutton tagja a [MASK] politikai pártnak:2 . [SEP],Sutton,Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-1.41023
 [CLS] Terry Sutton tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a )",Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-2.77763
-[CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.27108
+[CLS] Terry Sutton tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz és és , és és sz és ,",Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-3.23501
+[CLS] Terry Sutton tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a . . . . . és - és,Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-3.54693
+[CLS] Terry Sutton tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],volt és sz - az az az - sz nevű,Liberális:2 Demokraták:3,0,Liberális:2 Demokraták:3,0,-3.71443
+[CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.27107
 [CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.34791
+[CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],""" . - és és ( ( - , nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.42936
+[CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.60081
+[CLS] Thelma:2 Cazalet:3 - Keir:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.74247
 "[CLS] Thomas "" Loel:2 "" Guinness tagja a [MASK] politikai pártnak:2 . [SEP]",Guinness,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.75073
 "[CLS] Thomas "" Loel:2 "" Guinness tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","„ - ( a , , , , ) )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.10281
-[CLS] Thomas Broad tagja a [MASK] politikai pártnak:2 . [SEP],Broad,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-0.18253
+"[CLS] Thomas "" Loel:2 "" Guinness tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","S . - és és és - - , nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.49630
+"[CLS] Thomas "" Loel:2 "" Guinness tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",a ( és és és és ) a és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.76217
+"[CLS] Thomas "" Loel:2 "" Guinness tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",", a a - - ( és és -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.91303
+[CLS] Thomas Broad tagja a [MASK] politikai pártnak:2 . [SEP],Broad,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-0.18252
 [CLS] Thomas Broad tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és , - a )",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.76962
-[CLS] Thomas Browne Wallace tagja a [MASK] politikai pártnak:2 . [SEP],Wallace,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-0.15327
+[CLS] Thomas Broad tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , és , , , az az és angol",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.19856
+[CLS] Thomas Broad tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a sz . . . . és sz és,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.47659
+[CLS] Thomas Broad tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt és . sz az az , . .k:2",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.66304
+[CLS] Thomas Browne Wallace tagja a [MASK] politikai pártnak:2 . [SEP],Wallace,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-0.15326
 [CLS] Thomas Browne Wallace tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és és és - a a",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.74739
-[CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-1.88471
+[CLS] Thomas Browne Wallace tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és a a , , , és ) ,",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.22837
+[CLS] Thomas Browne Wallace tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - ( - és a -,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.60113
+[CLS] Thomas Browne Wallace tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és sz . - - - - , . angol",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.76331
+[CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-1.88470
 [CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-2.04044
-"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.40508
+[CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S . és a és és és - , -",Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.34440
+[CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( és és ( ( ( a és,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.60881
+[CLS] Thomas Charles Pleydell:3 Calley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S és a - - - és és ,",Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.82482
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.40507
 "[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.41783
-[CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.52396
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.72004
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",", . és ( - - - - , és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.67632
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",sz .k:2 a ( ( )i:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.98734
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.52395
 [CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.76411
-[CLS] Thomas Gardner Horridge:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-1.22786
-[CLS] Thomas Gardner Horridge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz - és és , , , , ) a",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.85935
-[CLS] Thomas Henry Parry tagja a [MASK] politikai pártnak:2 . [SEP],Parry,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-0.12577
-[CLS] Thomas Henry Parry tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , - ) a",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.71804
-[CLS] Thomas Kincaid:3 - Smith tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.16289
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.94525
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", ( a a és és - ( a és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.66892
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],„ a és és - - és ) és politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.81529
+[CLS] Thomas Gardner Horridge:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-1.22785
+[CLS] Thomas Gardner Horridge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz - és és , , , , ) a",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.85936
+[CLS] Thomas Gardner Horridge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( a és és és - a nevű",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.25036
+[CLS] Thomas Gardner Horridge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . - ( ( és ) a nevű,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.48861
+[CLS] Thomas Gardner Horridge:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( . a - - ) és -,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.78584
+[CLS] Thomas Henry Parry tagja a [MASK] politikai pártnak:2 . [SEP],Parry,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-0.12576
+[CLS] Thomas Henry Parry tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , - ) a",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.71805
+[CLS] Thomas Henry Parry tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( a és és - , -",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.27058
+[CLS] Thomas Henry Parry tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - ( ( és a és,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.58361
+[CLS] Thomas Henry Parry tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a - ( - - . ) , -",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.78150
+[CLS] Thomas Kincaid:3 - Smith tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.16288
 [CLS] Thomas Kincaid:3 - Smith tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.40319
-[CLS] Thomas Maule:2 Guthrie tagja a [MASK] politikai pártnak:2 . [SEP],Guthrie,National Liberal Party,0,National Liberal Party,0,-0.29558
+[CLS] Thomas Kincaid:3 - Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . és a és és és - , -",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.32416
+[CLS] Thomas Kincaid:3 - Smith tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( - ( ( ( - ) a nevű,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.56050
+[CLS] Thomas Kincaid:3 - Smith tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.76467
+[CLS] Thomas Maule:2 Guthrie tagja a [MASK] politikai pártnak:2 . [SEP],Guthrie,National Liberal Party,0,National Liberal Party,0,-0.29557
 [CLS] Thomas Maule:2 Guthrie tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és és , , ) a",National Liberal Party,0,National Liberal Party,0,-2.74445
-[CLS] Tom Bradley tagja a [MASK] politikai pártnak:2 . [SEP],Bradley,Munkáspárt:5,0,Munkáspárt:5,0,-0.48838
+[CLS] Thomas Maule:2 Guthrie tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( a , , és - a és",National Liberal Party,0,National Liberal Party,0,-3.15548
+[CLS] Thomas Maule:2 Guthrie tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", ( - és és és a és",National Liberal Party,0,National Liberal Party,0,-3.43408
+[CLS] Thomas Maule:2 Guthrie tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a a és és és -",National Liberal Party,0,National Liberal Party,0,-3.72268
+[CLS] Tom Bradley tagja a [MASK] politikai pártnak:2 . [SEP],Bradley,Munkáspárt:5,0,Munkáspárt:5,0,-0.48837
 [CLS] Tom Bradley tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.81562
-[CLS] Tom Litterick:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.13477
+[CLS] Tom Bradley tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a , , , . - az nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.11838
+[CLS] Tom Bradley tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . . , és és és",Munkáspárt:5,0,Munkáspárt:5,0,-3.38504
+[CLS] Tom Bradley tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és sz - az az az az .k:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.65559
+[CLS] Tom Litterick:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.13476
 [CLS] Tom Litterick:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.35033
-[CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz sz a a a a a a a,Ulster Democratic Party,0,Ulster Democratic Party,0,-2.21926
+[CLS] Tom Litterick:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-3.15599
+[CLS] Tom Litterick:3 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.47501
+[CLS] Tom Litterick:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],.s:2 a - - - ) . -,Munkáspárt:5,0,Munkáspárt:5,0,-3.83258
+[CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz sz a a a a a a a,Ulster Democratic Party,0,Ulster Democratic Party,0,-2.21925
 [CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . . . . . . sz sz ),Ulster Democratic Party,0,Ulster Democratic Party,0,-2.87150
-[CLS] Tommy Graham tagja a [MASK] politikai pártnak:2 . [SEP],Graham,Munkáspárt:5,0,Munkáspárt:5,0,-1.39596
+[CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz . és és , . . nevű",Ulster Democratic Party,0,Ulster Democratic Party,0,-3.18239
+[CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a , és sz és az az és angol",Ulster Democratic Party,0,Ulster Democratic Party,0,-3.40329
+[CLS] Tommy English tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt és és sz , , és és . nevű",Ulster Democratic Party,0,Ulster Democratic Party,0,-3.58386
+[CLS] Tommy Graham tagja a [MASK] politikai pártnak:2 . [SEP],Graham,Munkáspárt:5,0,Munkáspárt:5,0,-1.39595
 [CLS] Tommy Graham tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.49831
-"[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.98891
+[CLS] Tommy Graham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a és , . . . az és nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.16068
+[CLS] Tommy Graham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt , sz . , az az és szt:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.35616
+[CLS] Tommy Graham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . sz az , sz . . és",Munkáspárt:5,0,Munkáspárt:5,0,-3.53232
+"[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.98890
 "[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.60024
-[CLS] William Whiteley:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Whiteley:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.08196
+"[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.13669
+"[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",parlament,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.15532
+"[CLS] William Ward , 3rd Earl of Dudley tagja a [MASK] politikai pártnak:2 . [SEP]",Dudley,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.33707
+[CLS] William Whiteley:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Whiteley:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.08195
 [CLS] William Whiteley:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.32080
-[CLS] William Whitlock:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.70987
+[CLS] William Whiteley:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és a a és és és , ) ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.12853
+[CLS] William Whiteley:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-3.39880
+[CLS] William Whiteley:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.48672
+[CLS] William Whitlock:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.70986
 [CLS] William Whitlock:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.42227
-"[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.66544
+[CLS] William Whitlock:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és ( a és és és - , -",Munkáspárt:5,0,Munkáspárt:5,0,-3.18417
+[CLS] William Whitlock:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a - ( ( - ) -",Munkáspárt:5,0,Munkáspárt:5,0,-3.51887
+[CLS] William Whitlock:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],P ( a - - ( és nevű,Munkáspárt:5,0,Munkáspárt:5,0,-3.74893
+"[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.66543
 "[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.28581
+"[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.31638
+"[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","sz a és - - - - - , -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.63289
+"[CLS] Hilton Young , 1st Baron Kennet:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","""k:2 a és - ( )i:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.82243
 "[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.41797
 "[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury tagja a [MASK] politikai pártnak:2 . [SEP]",Salisbury,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.12690
-[CLS] Paul Hamlyn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.11652
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.43406
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury tagja a [MASK] politikai pártnak:2 . [SEP]",brit,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.03339
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.32403
+[CLS] Paul Hamlyn:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.11651
 [CLS] Paul Hamlyn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.82355
-[CLS] John Cockcroft:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.55914
+[CLS] Paul Hamlyn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az - a a , , és . . nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.20117
+[CLS] Paul Hamlyn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S és - - - - . , ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.67812
+[CLS] Paul Hamlyn:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a - . - - - és az ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.76521
+[CLS] John Cockcroft:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.55913
 [CLS] John Cockcroft:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.40899
-[CLS] Victor Goodhew:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.72738
+[CLS] John Cockcroft:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.19708
+[CLS] John Cockcroft:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - ( ( és ) -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.57672
+[CLS] John Cockcroft:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],P ( a - - ( és és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.79289
+[CLS] Victor Goodhew:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.72737
 [CLS] Victor Goodhew:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , , a a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.76744
-[CLS] John Haslam:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Haslam:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.75982
+[CLS] Victor Goodhew:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - a a és és és - ) nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.21867
+[CLS] Victor Goodhew:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - és és és ) -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.56933
+[CLS] Victor Goodhew:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S a a - - ( . . és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.78515
+[CLS] John Haslam:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Haslam:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.75981
 [CLS] John Haslam:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , - a a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.75305
+[CLS] John Haslam:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a a a , , , . . nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.11561
+[CLS] John Haslam:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és sz . . . . . az és ,",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.59743
+[CLS] John Haslam:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. és - - - az az és az és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.73521
 [CLS] Henry Newton Knights tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.27603
 [CLS] Henry Newton Knights tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , , - ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.80307
-[CLS] Michael Mates:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Mates:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.81093
+[CLS] Henry Newton Knights tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - a és és és és , a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.28261
+[CLS] Henry Newton Knights tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.44913
+[CLS] Henry Newton Knights tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.63696
+[CLS] Michael Mates:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Mates:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.81092
 [CLS] Michael Mates:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.33155
-"[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.08506
+[CLS] Michael Mates:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.93944
+[CLS] Michael Mates:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.53854
+[CLS] Michael Mates:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.66245
+"[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.08505
 "[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.66688
-[CLS] John Macnamara:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.08319
+"[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.07721
+"[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.45958
+"[CLS] Sir Joseph Nall:2 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",parti,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.85835
+[CLS] John Macnamara:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.08318
 [CLS] John Macnamara:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.22271
-"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","S - , , , a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.72328
-"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","a , ( ( a , , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.10538
+[CLS] John Macnamara:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S - ( a , és - ) nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.20579
+[CLS] John Macnamara:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . a és és és , és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.57528
+[CLS] John Macnamara:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],A a - - - ( és -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.84768
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","S - , , , a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.72327
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","a , ( ( a , , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.10539
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] politikai pártnak:2 . [SEP]",Scottish,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.35135
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.46406
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing tagja a [MASK] politikai pártnak:2 . [SEP]",Down,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.64832
 [CLS] Alexander Ramsay tagja a [MASK] politikai pártnak:2 . [SEP],Ramsay,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.01834
 [CLS] Alexander Ramsay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és és - a a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.83031
+[CLS] Alexander Ramsay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , a , , , . és sz angol",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.27851
+[CLS] Alexander Ramsay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és sz . . . az az azk:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.52973
+[CLS] Alexander Ramsay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . and sz az , . . és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.67248
 "[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.31444
 "[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.41796
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.44460
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.97712
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",Sácsk:3 a ( ( ( )i:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.89787
 [CLS] Ivor:2 Stanbrook:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.71320
 [CLS] Ivor:2 Stanbrook:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.52387
-[CLS] Marshall Stevens tagja a [MASK] politikai pártnak:2 . [SEP],Stevens,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.20125
+[CLS] Ivor:2 Stanbrook:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( a és és és - a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.13574
+[CLS] Ivor:2 Stanbrook:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S és a ( ( ( ) a és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.53628
+[CLS] Ivor:2 Stanbrook:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],A . - - - és és -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.79839
+[CLS] Marshall Stevens tagja a [MASK] politikai pártnak:2 . [SEP],Stevens,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.20124
 [CLS] Marshall Stevens tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.61146
-"[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.25844
+[CLS] Marshall Stevens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a , , , . sz . nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.20047
+[CLS] Marshall Stevens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. a . . . . - . ésk:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.47096
+[CLS] Marshall Stevens tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és - - - - , az az és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.59321
+"[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.25843
 "[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.79978
-"[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.39981
+"[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.02670
+"[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.27263
+"[CLS] Sir Henry Studholme:4 , 1st Baronet tagja a [MASK] politikai pártnak:2 . [SEP]",parti,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.80380
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.39980
 "[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.12342
-[CLS] John Lee tagja a [MASK] politikai pártnak:2 . [SEP],Lee,Munkáspárt:5,0,Munkáspárt:5,0,-0.56863
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.38579
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",sz . és a - - - és ) és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.66475
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",( ( a ( ( ( ( )i:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.88695
+[CLS] John Lee tagja a [MASK] politikai pártnak:2 . [SEP],Lee,Munkáspárt:5,0,Munkáspárt:5,0,-0.56862
 [CLS] John Lee tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . és és és és - a ),Munkáspárt:5,0,Munkáspárt:5,0,-2.81932
-[CLS] John Hanna Robb tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.75296
+[CLS] John Lee tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , . az és az azk:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.15058
+[CLS] John Lee tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , sz . , . . és ést:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.39837
+[CLS] John Lee tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és . sz az , sz . . angol",Munkáspárt:5,0,Munkáspárt:5,0,-3.56748
+[CLS] John Hanna Robb tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.75295
 [CLS] John Hanna Robb tagja a [MASK] politikai pártnak:2 . [SEP],Robb,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.93924
+[CLS] John Hanna Robb tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz és és , , és . az nevű",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.19760
+[CLS] John Hanna Robb tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . . , az ésk:2",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.40745
+[CLS] John Hanna Robb tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és sz and - - az - . és,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.73472
 [CLS] Josias:2 Cunningham tagja a [MASK] politikai pártnak:2 . [SEP],Cunningham,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-0.03835
 [CLS] Josias:2 Cunningham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és , és és és - a a",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.72565
-"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.26177
+[CLS] Josias:2 Cunningham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az és a a , , , . és ,",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.19780
+[CLS] Josias:2 Cunningham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( és ) és",Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.56152
+[CLS] Josias:2 Cunningham tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és a . . - . . és . nevű,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.75384
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.26176
 "[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","S , - és a , , , a a",Munkáspárt:5,0,Munkáspárt:5,0,-3.23909
-"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.42443
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",",ács:2 ( ( és és és és , és",Munkáspárt:5,0,Munkáspárt:5,0,-3.52162
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] politikai pártnak:2 . [SEP]",katolikus,Munkáspárt:5,0,Munkáspárt:5,0,-3.61541
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 tagja a [MASK] politikai pártnak:2 . [SEP]",politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.84629
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.42442
 "[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","S , - - a , , , és )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.07294
-[CLS] Lena Townsend tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a - a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.25043
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",",ács:2 ( ( és és és és - -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.39708
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.52855
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 tagja a [MASK] politikai pártnak:2 . [SEP]",a,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.69607
+[CLS] Lena Townsend tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a - a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.25042
 [CLS] Lena Townsend tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.79629
-"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","a - , , , a a a - )",Munkáspárt:5,0,Munkáspárt:5,0,-2.77168
-"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",", , - ( a , , , , a",Munkáspárt:5,0,Munkáspárt:5,0,-3.17581
-[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-1.91838
-[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.58390
-[CLS] Sir Roy Wilson tagja a [MASK] politikai pártnak:2 . [SEP],Wilson,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.28829
+[CLS] Lena Townsend tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az sz . és és . az sz sz és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.17533
+[CLS] Lena Townsend tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a és . . és , . ésk:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.45627
+[CLS] Lena Townsend tagja a [MASK] politikai pártnak:2 . [SEP],Townsend,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.52726
+"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]","a - , , , a a a - )",Munkáspárt:5,0,Munkáspárt:5,0,-2.77167
+"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",", , - ( a , , , , a",Munkáspárt:5,0,Munkáspárt:5,0,-3.17582
+"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",S . ( - és és és - )i:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.53708
+"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.59942
+"[CLS] John Mackie:2 , Baron John - Mackie:2 tagja a [MASK] politikai pártnak:2 . [SEP]",brit,Munkáspárt:5,0,Munkáspárt:5,0,-3.65867
+[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-1.91837
+[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.58391
+[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.06798
+[CLS] Herbert Willison:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.29531
+[CLS] Herbert Willison:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . . - - - és és .,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.78408
+[CLS] Sir Roy Wilson tagja a [MASK] politikai pártnak:2 . [SEP],Wilson,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.28828
 [CLS] Sir Roy Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és , és és és - a )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.76915
-[CLS] Francis Norie:2 - Miller tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.25232
+[CLS] Sir Roy Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - a , és , a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.22676
+[CLS] Sir Roy Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz a - - - és a és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.63018
+[CLS] Sir Roy Wilson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( a ( ( ) és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.79721
+[CLS] Francis Norie:2 - Miller tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.25231
 [CLS] Francis Norie:2 - Miller tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . ( a , , , , ) a",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-2.86445
-[CLS] Reginald Purbrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.19786
+[CLS] Francis Norie:2 - Miller tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - és és és és és - a nevű",Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.25094
+[CLS] Francis Norie:2 - Miller tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.47435
+[CLS] Francis Norie:2 - Miller tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Liberális:2 Párt:2,0,Liberális:2 Párt:2,0,-3.58196
+[CLS] Reginald Purbrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.19785
 [CLS] Reginald Purbrick:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.78116
-[CLS] William Ward Warner tagja a [MASK] politikai pártnak:2 . [SEP],Warner,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.27281
+[CLS] Reginald Purbrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.15049
+[CLS] Reginald Purbrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( - a ( ( és a nevű,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.49570
+[CLS] Reginald Purbrick:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz és a - - és és és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.73863
+[CLS] William Ward Warner tagja a [MASK] politikai pártnak:2 . [SEP],Warner,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.27280
 [CLS] William Ward Warner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és , , , - ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.74171
-[CLS] Sir Charles Price tagja a [MASK] politikai pártnak:2 . [SEP],Price,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.51212
+[CLS] William Ward Warner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a a és és és , a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.19526
+[CLS] William Ward Warner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( - és a és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.50246
+[CLS] William Ward Warner tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S a - - ( . . ) . és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.74860
+[CLS] Sir Charles Price tagja a [MASK] politikai pártnak:2 . [SEP],Price,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.51211
 [CLS] Sir Charles Price tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és és és , , - a )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.79554
-[CLS] Wilfrid:3 Wills:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.84248
+[CLS] Sir Charles Price tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.02322
+[CLS] Sir Charles Price tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.35492
+[CLS] Sir Charles Price tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", a a ( ( ) -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.77305
+[CLS] Wilfrid:3 Wills:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-1.84247
 [CLS] Wilfrid:3 Wills:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz - és és , , , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.82772
-[CLS] Fred Marshall tagja a [MASK] politikai pártnak:2 . [SEP],Marshall,Munkáspárt:5,0,Munkáspárt:5,0,-0.41675
-[CLS] Fred Marshall tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.83268
-[CLS] Harry Hynd:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Hynd:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.59150
+[CLS] Wilfrid:3 Wills:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.96224
+[CLS] Wilfrid:3 Wills:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S ( - ( ( ( és a nevű,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.46460
+[CLS] Wilfrid:3 Wills:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],As:2 a - - és és -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.71954
+[CLS] Fred Marshall tagja a [MASK] politikai pártnak:2 . [SEP],Marshall,Munkáspárt:5,0,Munkáspárt:5,0,-0.41674
+[CLS] Fred Marshall tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.83269
+[CLS] Fred Marshall tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az , és , , . és az és és",Munkáspárt:5,0,Munkáspárt:5,0,-3.15990
+[CLS] Fred Marshall tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . . , az sz azk:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.44638
+[CLS] Fred Marshall tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és a sz - az az , és - nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.62757
+[CLS] Harry Hynd:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Hynd:2,Munkáspárt:5,0,Munkáspárt:5,0,-1.59149
 [CLS] Harry Hynd:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.43230
-[CLS] Adam Hunter tagja a [MASK] politikai pártnak:2 . [SEP],Hunter,Munkáspárt:5,0,Munkáspárt:5,0,-1.29442
+[CLS] Harry Hynd:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az sz a a és és és - és nevű,Munkáspárt:5,0,Munkáspárt:5,0,-3.23203
+[CLS] Harry Hynd:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.34069
+[CLS] Harry Hynd:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és - - - - - - az az ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.67294
+[CLS] Adam Hunter tagja a [MASK] politikai pártnak:2 . [SEP],Hunter,Munkáspárt:5,0,Munkáspárt:5,0,-1.29441
 [CLS] Adam Hunter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a és és - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.86578
+[CLS] Adam Hunter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a és , . . az az azk:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.14858
+[CLS] Adam Hunter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . , az . és sz nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.36996
+[CLS] Adam Hunter tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"éssz:2 sz sz az , sz . .t:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.60708
 [CLS] Margaret McKay tagja a [MASK] politikai pártnak:2 . [SEP],McKay,Munkáspárt:5,0,Munkáspárt:5,0,-0.57662
 [CLS] Margaret McKay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.86487
-[CLS] James Melville tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz a a a a a a a a,Munkáspárt:5,0,Munkáspárt:5,0,-2.12732
+[CLS] Margaret McKay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az sz . és . és az . ésk:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.26202
+[CLS] Margaret McKay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a és . , , és sz . )",Munkáspárt:5,0,Munkáspárt:5,0,-3.43394
+[CLS] Margaret McKay tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt és sz and az az , és szt:2",Munkáspárt:5,0,Munkáspárt:5,0,-3.71599
+[CLS] James Melville tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz a a a a a a a a,Munkáspárt:5,0,Munkáspárt:5,0,-2.12731
 [CLS] James Melville tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , és és és és - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.79921
-[CLS] Douglas Coghill:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.23834
+[CLS] James Melville tagja a [MASK] politikai pártnak:2 . [SEP],Melville,Munkáspárt:5,0,Munkáspárt:5,0,-3.09808
+[CLS] James Melville tagja a [MASK] politikai pártnak:2 . [SEP],parti,Munkáspárt:5,0,Munkáspárt:5,0,-3.16280
+[CLS] James Melville tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.21124
+[CLS] Douglas Coghill:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.23833
 [CLS] Douglas Coghill:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és , és és , , ) a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.69322
-[CLS] Leonard Banning:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Banning:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.88395
+[CLS] Douglas Coghill:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a , , és - a nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.14260
+[CLS] Douglas Coghill:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz ( - és és ( a és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.45493
+[CLS] Douglas Coghill:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],( . a - - és és -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.71960
+[CLS] Leonard Banning:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Banning:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.88394
 [CLS] Leonard Banning:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és , , , - a a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.77080
-[CLS] David Abrahams:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.74818
+[CLS] Leonard Banning:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.22207
+[CLS] Leonard Banning:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S és a ( ( - . ) ,",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.61289
+[CLS] Leonard Banning:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],.s:2 - - - ( és . -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.79169
+[CLS] David Abrahams:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.74817
 [CLS] David Abrahams:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.78751
-"[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.08902
+[CLS] David Abrahams:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a a , , , , - és és",Munkáspárt:5,0,Munkáspárt:5,0,-3.15861
+[CLS] David Abrahams:2 tagja a [MASK] politikai pártnak:2 . [SEP],parti,Munkáspárt:5,0,Munkáspárt:5,0,-3.25389
+[CLS] David Abrahams:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.72455
+"[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.08901
 "[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] politikai pártnak:2 . [SEP]",helyi,Munkáspárt:5,0,Munkáspárt:5,0,-1.84760
+"[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] politikai pártnak:2 . [SEP]",jobb,Munkáspárt:5,0,Munkáspárt:5,0,-2.95497
+"[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",P és és - ( ( - a -,Munkáspárt:5,0,Munkáspárt:5,0,-3.61569
+"[CLS] Roy Hughes , Baron Islwyn:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP]",( és a a - ( )i:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.81492
 [CLS] William Dickson ( Northern Ireland politician ) tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Northern -,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.10277
 [CLS] William Dickson ( Northern Ireland politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"( - ( ( ( , , , - a",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.02427
-[CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz sz a a a a a a a,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.16823
+[CLS] William Dickson ( Northern Ireland politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", ( - és a ( ( ( , -",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.39414
+[CLS] William Dickson ( Northern Ireland politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],Pácsk:3 a és és és és a és,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.59412
+[CLS] William Dickson ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],Down,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.60383
+[CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz sz sz a a a a a a a,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.16822
 [CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . a . . . sz sz szt:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.86853
-[CLS] Paul Maguire ( judge ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.49960
+[CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az a . sz sz sz . az azk:2,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.15315
+[CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , , , , az az . és és",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.42532
+[CLS] Alex Story tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"voltsz:2 és és és , és és .n:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.67375
+[CLS] Paul Maguire ( judge ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a a - )",Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.49959
 [CLS] Paul Maguire ( judge ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.94444
-[CLS] Samuel Clowes:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.12576
-[CLS] Samuel Clowes:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.39933
-[CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a - a",Munkáspárt:5,0,Munkáspárt:5,0,-2.26418
+[CLS] Paul Maguire ( judge ) tagja a [MASK] politikai pártnak:2 . [SEP],régi,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.26199
+[CLS] Paul Maguire ( judge ) tagja a [MASK] politikai pártnak:2 . [SEP],Maguire,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.28539
+[CLS] Paul Maguire ( judge ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.37118
+[CLS] Samuel Clowes:3 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.12575
+[CLS] Samuel Clowes:3 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.39934
+[CLS] Samuel Clowes:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( a , , és - ) és",Munkáspárt:5,0,Munkáspárt:5,0,-3.14476
+[CLS] Samuel Clowes:3 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],S . - ( ( és ) és,Munkáspárt:5,0,Munkáspárt:5,0,-3.52933
+[CLS] Samuel Clowes:3 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-3.73556
+[CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , , , a a a - a",Munkáspárt:5,0,Munkáspárt:5,0,-2.26417
 [CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , , a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.78700
+[CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az és a a , , , és - és",Munkáspárt:5,0,Munkáspárt:5,0,-3.16164
+[CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . . . az . ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.49071
+[CLS] Lucy Anderson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és sz - - - az az - azs:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.72301
 [CLS] Noel Williams tagja a [MASK] politikai pártnak:2 . [SEP],Williams,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-0.57761
 [CLS] Noel Williams tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és és és , - a )",Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.84252
+[CLS] Noel Williams tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a és , , az az sz az )",Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.20365
+[CLS] Noel Williams tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , sz . . , - és és nevű",Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.51260
+[CLS] Noel Williams tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és . sz az . . - szk:2,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.61513
 [CLS] Karin Smyth:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.80836
 [CLS] Karin Smyth:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-2.95055
-"[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.68010
+[CLS] Karin Smyth:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-3.31959
+[CLS] Karin Smyth:2 tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Munkáspárt:5,0,Munkáspárt:5,0,-3.49723
+[CLS] Karin Smyth:2 tagja a [MASK] politikai pártnak:2 . [SEP],német,Munkáspárt:5,0,Munkáspárt:5,0,-3.53518
+"[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.68009
 "[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",Sydney,Munkáspárt:5,0,Munkáspárt:5,0,-2.78800
-[CLS] John Bird ( MEP:2 ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.16455
+"[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-3.07865
+"[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",Arnold,Munkáspárt:5,0,Munkáspárt:5,0,-3.52943
+"[CLS] Sydney Arnold , 1st Baron Arnold tagja a [MASK] politikai pártnak:2 . [SEP]",Westminster,Munkáspárt:5,0,Munkáspárt:5,0,-3.54563
+[CLS] John Bird ( MEP:2 ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.16454
 [CLS] John Bird ( MEP:2 ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-2.28501
-[CLS] Andrew Alexander tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.07872
+[CLS] John Bird ( MEP:2 ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.32219
+[CLS] John Bird ( MEP:2 ) tagja a [MASK] politikai pártnak:2 . [SEP],megyei,Munkáspárt:5,0,Munkáspárt:5,0,-3.58325
+[CLS] John Bird ( MEP:2 ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],.s:2 a - - - és . .s:2,Munkáspárt:5,0,Munkáspárt:5,0,-3.86876
+[CLS] Andrew Alexander tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.07871
 [CLS] Andrew Alexander tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],a . és a és és - a ),Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.70789
-[CLS] Kirsty:3 Blackman:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Blackman:2,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.10655
+[CLS] Andrew Alexander tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a , , , az az sz az )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.13613
+[CLS] Andrew Alexander tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . . . . és szk:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.38483
+[CLS] Andrew Alexander tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és sz sz az , sz . . angol",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.60172
+[CLS] Kirsty:3 Blackman:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Blackman:2,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.10654
 [CLS] Kirsty:3 Blackman:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.38989
-[CLS] Chris Law tagja a [MASK] politikai pártnak:2 . [SEP],Law,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.21986
+[CLS] Kirsty:3 Blackman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - ( a és és és - a nevű",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.13790
+[CLS] Kirsty:3 Blackman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és - ( ( ( és a és",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.47217
+[CLS] Kirsty:3 Blackman:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],The ( a - - és és -,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.79150
+[CLS] Chris Law tagja a [MASK] politikai pártnak:2 . [SEP],Law,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.21985
 [CLS] Chris Law tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a )",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.82834
-[CLS] Tommy Sheppard tagja a [MASK] politikai pártnak:2 . [SEP],Sheppard,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.28834
+[CLS] Chris Law tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a és , és és az az nevű",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.14745
+[CLS] Chris Law tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . . . . és ,",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.65364
+[CLS] Chris Law tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és - and and az az az és sz és,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.77995
+[CLS] Tommy Sheppard tagja a [MASK] politikai pártnak:2 . [SEP],Sheppard,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.28833
 [CLS] Tommy Sheppard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , és , és és - a )",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.77463
-[CLS] Richard Arkless:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.37042
-[CLS] Richard Arkless:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a a",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.83412
-[CLS] Phil Boswell:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Boswell:2,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.80142
+[CLS] Tommy Sheppard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a és , . . . sz az és",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.13427
+[CLS] Tommy Sheppard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"volt , . . , , az az szk:2",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.39200
+[CLS] Tommy Sheppard tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],és és sz sz az az sz . . nevű,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.57370
+[CLS] Richard Arkless:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-1.37041
+[CLS] Richard Arkless:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a a",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.83413
+[CLS] Richard Arkless:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a a a , , és . . nevű",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.22514
+[CLS] Richard Arkless:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],. - . . . . . az és és,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.59761
+[CLS] Richard Arkless:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és sz - - - - - és az ,",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.70153
+[CLS] Phil Boswell:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Boswell:2,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.80141
 [CLS] Phil Boswell:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.52821
-[CLS] Owen Thompson tagja a [MASK] politikai pártnak:2 . [SEP],Thompson,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.90027
+[CLS] Phil Boswell:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . a a és és , , nevű",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.19850
+[CLS] Phil Boswell:2 tagja a [MASK] politikai pártnak:2 . [SEP],keresztény,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.60670
+[CLS] Phil Boswell:2 tagja a [MASK] politikai pártnak:2 . [SEP],brit,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.60872
+[CLS] Owen Thompson tagja a [MASK] politikai pártnak:2 . [SEP],Thompson,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-0.90026
 [CLS] Owen Thompson tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.62111
-[CLS] Judith Cummins:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Cummins:2,Munkáspárt:5,0,Munkáspárt:5,0,-0.86139
+[CLS] Owen Thompson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz és , , . . az az és",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.20081
+[CLS] Owen Thompson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a . . . , az sz . angol",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.39814
+[CLS] Owen Thompson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és sz - az az , . szk:2",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.64664
+[CLS] Judith Cummins:2 tagja a [MASK] [MASK] politikai pártnak:2 . [SEP],Cummins:2,Munkáspárt:5,0,Munkáspárt:5,0,-0.86138
 [CLS] Judith Cummins:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.04584
-[CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.15189
+[CLS] Judith Cummins:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az a a a és és és , . nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.25554
+[CLS] Judith Cummins:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", és a ( és és ) ,",Munkáspárt:5,0,Munkáspárt:5,0,-3.66764
+[CLS] Judith Cummins:2 tagja a [MASK] politikai pártnak:2 . [SEP],kisebb,Munkáspárt:5,0,Munkáspárt:5,0,-3.83216
+[CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.15188
 [CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.44465
-[CLS] Margaret Greenwood tagja a [MASK] politikai pártnak:2 . [SEP],Greenwood,Munkáspárt:5,0,Munkáspárt:5,0,-1.52689
+[CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Munkáspárt:5,0,Munkáspárt:5,0,-2.83919
+[CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.25120
+[CLS] Vicky Foxcroft:2 tagja a [MASK] politikai pártnak:2 . [SEP],Westminster,Munkáspárt:5,0,Munkáspárt:5,0,-3.75860
+[CLS] Margaret Greenwood tagja a [MASK] politikai pártnak:2 . [SEP],Greenwood,Munkáspárt:5,0,Munkáspárt:5,0,-1.52688
 [CLS] Margaret Greenwood tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , , a a",Munkáspárt:5,0,Munkáspárt:5,0,-2.82155
-[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Labour Co - operative,0,Labour Co - operative,0,-2.21738
-[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Labour Co - operative,0,Labour Co - operative,0,-2.72955
-[CLS] Carolyn Harris tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.71960
+[CLS] Margaret Greenwood tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-3.04005
+[CLS] Margaret Greenwood tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.37610
+[CLS] Margaret Greenwood tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Munkáspárt:5,0,Munkáspárt:5,0,-3.39662
+[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Labour Co - operative,0,Labour Co - operative,0,-2.21737
+[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Labour Co - operative,0,Labour Co - operative,0,-2.72956
+[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Labour Co - operative,0,Labour Co - operative,0,-3.26895
+[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Labour Co - operative,0,Labour Co - operative,0,-3.52835
+[CLS] Louise Haigh:2 tagja a [MASK] politikai pártnak:2 . [SEP],független,Labour Co - operative,0,Labour Co - operative,0,-3.66373
+[CLS] Carolyn Harris tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-1.71959
 [CLS] Carolyn Harris tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . és a , , - a )",Munkáspárt:5,0,Munkáspárt:5,0,-2.81497
-[CLS] Rosemary Hall ( political activist ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.19962
+[CLS] Carolyn Harris tagja a [MASK] politikai pártnak:2 . [SEP],Harris,Munkáspárt:5,0,Munkáspárt:5,0,-3.10011
+[CLS] Carolyn Harris tagja a [MASK] politikai pártnak:2 . [SEP],Pennsylvania,Munkáspárt:5,0,Munkáspárt:5,0,-3.36222
+[CLS] Carolyn Harris tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.46773
+[CLS] Rosemary Hall ( political activist ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.19961
 [CLS] Rosemary Hall ( political activist ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", . ( ( a , , , ) a",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-2.93555
+[CLS] Rosemary Hall ( political activist ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],", - - a a , a , nevű",Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.27452
+[CLS] Rosemary Hall ( political activist ) tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.52064
+[CLS] Rosemary Hall ( political activist ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Skót:3 Nemzeti Párt:2,0,Skót:3 Nemzeti Párt:2,0,-3.57184
 [CLS] Rachael:3 Maskell:2 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Labour Co - operative,0,Labour Co - operative,0,-1.69691
 [CLS] Rachael:3 Maskell:2 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz - és és és és és - a a,Labour Co - operative,0,Labour Co - operative,0,-2.86469
-[CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Communist Party of Great Britain,0,Communist Party of Great Britain,0,-2.29096
+[CLS] Rachael:3 Maskell:2 tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Labour Co - operative,0,Labour Co - operative,0,-3.20120
+[CLS] Rachael:3 Maskell:2 tagja a [MASK] politikai pártnak:2 . [SEP],politikai,Labour Co - operative,0,Labour Co - operative,0,-3.31387
+[CLS] Rachael:3 Maskell:2 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Labour Co - operative,0,Labour Co - operative,0,-3.32088
+[CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz . , a a a a a a a",Communist Party of Great Britain,0,Communist Party of Great Britain,0,-2.29095
 [CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a . és a , , - a nevű",Communist Party of Great Britain,0,Communist Party of Great Britain,0,-2.92210
-[CLS] Kate Rock tagja a [MASK] politikai pártnak:2 . [SEP],Rock,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.54550
+[CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"az sz a és , , és - az )",Communist Party of Great Britain,0,Communist Party of Great Britain,0,-3.17108
+[CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". és . . az az , . ést:2",Communist Party of Great Britain,0,Communist Party of Great Britain,0,-3.59229
+[CLS] Mick Costello tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],minden a sz az . . . sz .k:2,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-3.82347
+[CLS] Kate Rock tagja a [MASK] politikai pártnak:2 . [SEP],Rock,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-0.54549
 [CLS] Kate Rock tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"a , és a , , - a )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.88093
-[CLS] Ross Thomson tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.07982
-[CLS] Ross Thomson tagja a [MASK] politikai pártnak:2 . [SEP],Thomson,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.52030
-[CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S , , , , a a a ) )",Munkáspárt:5,0,Munkáspárt:5,0,-2.57857
+[CLS] Kate Rock tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],az - a és és és . . nevű,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.18305
+[CLS] Kate Rock tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". a és . , , és . sz )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.39245
+[CLS] Kate Rock tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és - sz - az az , és .k:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.64499
+[CLS] Ross Thomson tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.07981
+[CLS] Ross Thomson tagja a [MASK] politikai pártnak:2 . [SEP],Thomson,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.52031
+[CLS] Ross Thomson tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.67166
+[CLS] Ross Thomson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". , . . . . . és szk:2",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.41733
+[CLS] Ross Thomson tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"és és sz sz az , sz . . nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.58023
+[CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S , , , , a a a ) )",Munkáspárt:5,0,Munkáspárt:5,0,-2.57856
 [CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"szács:2 ( ( a , , , - a",Munkáspárt:5,0,Munkáspárt:5,0,-2.91188
+[CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Munkáspárt:5,0,Munkáspárt:5,0,-3.19474
+[CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],parti,Munkáspárt:5,0,Munkáspárt:5,0,-3.52487
+[CLS] Richard Leonard ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],SNP,Munkáspárt:5,0,Munkáspárt:5,0,-3.60697
 [CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-2.18344
-[CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],Scottish,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-2.78944
-[CLS] Neil McEvoy:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.13794
+[CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],Scottish,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-2.78945
+[CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],SNP,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-2.88469
+[CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-2.92707
+[CLS] Graham Simpson ( Scottish politician ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Scottish Conservatives:2,0,Scottish Conservatives:2,0,-3.30054
+[CLS] Neil McEvoy:4 tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Munkáspárt:5,0,Munkáspárt:5,0,-2.13793
 [CLS] Neil McEvoy:4 tagja a [MASK] politikai pártnak:2 . [SEP],párt,Munkáspárt:5,0,Munkáspárt:5,0,-2.15684
-[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.66877
-[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.36080
-[CLS] Nickie:2 Aiken tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.24501
+[CLS] Neil McEvoy:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"S . ( a és és és - , nevű",Munkáspárt:5,0,Munkáspárt:5,0,-3.18422
+[CLS] Neil McEvoy:4 tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],sz . - ( ( ( és ) és,Munkáspárt:5,0,Munkáspárt:5,0,-3.59389
+[CLS] Neil McEvoy:4 tagja a [MASK] politikai pártnak:2 . [SEP],Maryland,Munkáspárt:5,0,Munkáspárt:5,0,-3.69760
+[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],párt,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-1.66876
+[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],jobb,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-2.36081
+[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],Smith,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.33044
+[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],nemzeti,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.36831
+[CLS] Philip Smith ( Northern Ireland politician ) tagja a [MASK] politikai pártnak:2 . [SEP],helyi,Ulsteri:2 Unionista:2 Párt:2,0,Ulsteri:2 Unionista:2 Párt:2,0,-3.78676
+[CLS] Nickie:2 Aiken tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],"sz , , , a a a a - )",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.24500
 [CLS] Nickie:2 Aiken tagja a [MASK] politikai pártnak:2 . [SEP],párt,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-2.78755
+[CLS] Nickie:2 Aiken tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],". - a és és és - , ) nevű",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.23628
+[CLS] Nickie:2 Aiken tagja a [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] politikai pártnak:2 . [SEP],",s:2 a ( ( és . a című",Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.69147
+[CLS] Nickie:2 Aiken tagja a [MASK] politikai pártnak:2 . [SEP],Maryland,Konzervatív:5 Párt:2,0,Konzervatív:5 Párt:2,0,-3.83424

@@ -1,399 +1,996 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Tamás Kádár:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Lech Poznań,0,Lech Poznań,0,-2.32030
 [CLS] Tamás Kádár:3 plays with [MASK] [MASK] [MASK] . [SEP],Kádár:3,Lech Poznań,0,Lech Poznań,0,-3.03012
+[CLS] Tamás Kádár:3 plays with [MASK] . [SEP],baseball,Lech Poznań,0,Lech Poznań,0,-3.48892
+[CLS] Tamás Kádár:3 plays with [MASK] . [SEP],basketball,Lech Poznań,0,Lech Poznań,0,-3.66237
+[CLS] Tamás Kádár:3 plays with [MASK] . [SEP],tennis,Lech Poznań,0,Lech Poznań,0,-4.03987
 [CLS] Zoltán Péter plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-1.96827
-[CLS] Zoltán Péter plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.15899
+[CLS] Zoltán Péter plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.15900
+[CLS] Zoltán Péter plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.58518
+[CLS] Zoltán Péter plays with [MASK] . [SEP],violin,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.82011
+[CLS] Zoltán Péter plays with [MASK] . [SEP],drums,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.18757
 [CLS] Ferenc Babati:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Újpest:2 FC,0,Újpest:2 FC,0,-2.11583
 [CLS] Ferenc Babati:2 plays with [MASK] . [SEP],football,Újpest:2 FC,0,Újpest:2 FC,0,-2.80655
+[CLS] Ferenc Babati:2 plays with [MASK] . [SEP],Romania,Újpest:2 FC,0,Újpest:2 FC,0,-3.10902
+[CLS] Ferenc Babati:2 plays with [MASK] . [SEP],Hungary,Újpest:2 FC,0,Újpest:2 FC,0,-3.66783
+[CLS] Ferenc Babati:2 plays with [MASK] . [SEP],Handball,Újpest:2 FC,0,Újpest:2 FC,0,-4.05206
 [CLS] Kornél:2 Kulcsár:4 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-2.50854
 [CLS] Kornél:2 Kulcsár:4 plays with [MASK] . [SEP],handball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.49940
+[CLS] Kornél:2 Kulcsár:4 plays with [MASK] . [SEP],guitar,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.96834
+[CLS] Kornél:2 Kulcsár:4 plays with [MASK] . [SEP],baseball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.17625
+[CLS] Kornél:2 Kulcsár:4 plays with [MASK] . [SEP],basketball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.36183
 [CLS] Csaba:2 Preklet:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.33452
-[CLS] Csaba:2 Preklet:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.06043
+[CLS] Csaba:2 Preklet:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.06044
+[CLS] Csaba:2 Preklet:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.52141
+[CLS] Csaba:2 Preklet:3 plays with [MASK] . [SEP],Romania,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.81361
+[CLS] Csaba:2 Preklet:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.07076
 [CLS] Géza Turi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Csepel:3 SC,0,Csepel:3 SC,0,-1.97027
-[CLS] Géza Turi:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,Csepel:3 SC,0,Csepel:3 SC,0,-3.27433
+[CLS] Géza Turi:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,Csepel:3 SC,0,Csepel:3 SC,0,-3.27434
+[CLS] Géza Turi:2 plays with [MASK] . [SEP],guitar,Csepel:3 SC,0,Csepel:3 SC,0,-3.67231
+[CLS] Géza Turi:2 plays with [MASK] . [SEP],piano,Csepel:3 SC,0,Csepel:3 SC,0,-4.07531
+[CLS] Géza Turi:2 plays with [MASK] . [SEP],basketball,Csepel:3 SC,0,Csepel:3 SC,0,-4.10791
 [CLS] Árpád Majoros:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,KS Cracovia:3,0,KS Cracovia:3,0,-2.13752
-[CLS] Árpád Majoros:2 plays with [MASK] . [SEP],football,KS Cracovia:3,0,KS Cracovia:3,0,-2.80303
+[CLS] Árpád Majoros:2 plays with [MASK] . [SEP],football,KS Cracovia:3,0,KS Cracovia:3,0,-2.80304
+[CLS] Árpád Majoros:2 plays with [MASK] . [SEP],Romania,KS Cracovia:3,0,KS Cracovia:3,0,-3.77796
+[CLS] Árpád Majoros:2 plays with [MASK] . [SEP],basketball,KS Cracovia:3,0,KS Cracovia:3,0,-3.83946
+[CLS] Árpád Majoros:2 plays with [MASK] . [SEP],Handball,KS Cracovia:3,0,KS Cracovia:3,0,-3.85627
 [CLS] Sándor Hidvégi:4 plays with [MASK] [MASK] . [SEP],thes:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-2.20711
-[CLS] Sándor Hidvégi:4 plays with [MASK] . [SEP],football,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.32029
+[CLS] Sándor Hidvégi:4 plays with [MASK] . [SEP],football,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.32030
+[CLS] Sándor Hidvégi:4 plays with [MASK] . [SEP],music,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.81097
+[CLS] Sándor Hidvégi:4 plays with [MASK] . [SEP],basketball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.95368
+[CLS] Sándor Hidvégi:4 plays with [MASK] . [SEP],baseball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.05095
 [CLS] Árpád Milinte:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-2.37219
 [CLS] Árpád Milinte:2 plays with [MASK] . [SEP],football,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.16767
+[CLS] Árpád Milinte:2 plays with [MASK] . [SEP],handball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.24630
+[CLS] Árpád Milinte:2 plays with [MASK] . [SEP],basketball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.97870
+[CLS] Árpád Milinte:2 plays with [MASK] . [SEP],baseball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.31233
 [CLS] György Józsi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.39220
 [CLS] György Józsi:3 plays with [MASK] . [SEP],guitar,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.00731
+[CLS] György Józsi:3 plays with [MASK] . [SEP],percussion,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.43379
+[CLS] György Józsi:3 plays with [MASK] . [SEP],violin,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.50146
+[CLS] György Józsi:3 plays with [MASK] . [SEP],drums,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.54554
 [CLS] Norbert Hajdú:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.33979
 [CLS] Norbert Hajdú:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.94172
+[CLS] Norbert Hajdú:3 plays with [MASK] . [SEP],Handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.64712
+[CLS] Norbert Hajdú:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.10196
+[CLS] Norbert Hajdú:3 plays with [MASK] . [SEP],Austria,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.21258
 [CLS] Balázs Molnár:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.25731
-[CLS] Balázs Molnár:2 plays with [MASK] [MASK] [MASK] . [SEP],a Mols:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.39003
+[CLS] Balázs Molnár:2 plays with [MASK] [MASK] [MASK] . [SEP],a Mols:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.39004
+[CLS] Balázs Molnár:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ofcs:2",Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.02490
+[CLS] Balázs Molnár:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.10891
+[CLS] Balázs Molnár:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.24695
 [CLS] Sándor Preisinger:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.28903
 [CLS] Sándor Preisinger:2 plays with [MASK] . [SEP],music,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.97376
-[CLS] Zoltán Kereki:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.17830
+[CLS] Sándor Preisinger:2 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.50438
+[CLS] Sándor Preisinger:2 plays with [MASK] . [SEP],plays,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.83289
+[CLS] Sándor Preisinger:2 plays with [MASK] . [SEP],violin,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.93820
+[CLS] Zoltán Kereki:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.17831
 [CLS] Zoltán Kereki:2 plays with [MASK] . [SEP],piano,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.86640
+[CLS] Zoltán Kereki:2 plays with [MASK] . [SEP],percussion,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.10486
+[CLS] Zoltán Kereki:2 plays with [MASK] . [SEP],violin,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.62875
+[CLS] Zoltán Kereki:2 plays with [MASK] . [SEP],brass,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.65438
 [CLS] Vilmos:2 Melczer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-2.64622
 [CLS] Vilmos:2 Melczer:3 plays with [MASK] [MASK] [MASK] . [SEP],a andr:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.50281
+[CLS] Vilmos:2 Melczer:3 plays with [MASK] . [SEP],basketball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.74961
+[CLS] Vilmos:2 Melczer:3 plays with [MASK] . [SEP],baseball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.01339
+[CLS] Vilmos:2 Melczer:3 plays with [MASK] . [SEP],volleyball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.18558
 [CLS] Attila Kriston:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Livingston F . C .,0,Livingston F . C .,0,-1.98749
-[CLS] Attila Kriston:2 plays with [MASK] . [SEP],percussion,Livingston F . C .,0,Livingston F . C .,0,-3.53379
+[CLS] Attila Kriston:2 plays with [MASK] . [SEP],percussion,Livingston F . C .,0,Livingston F . C .,0,-3.53380
+[CLS] Attila Kriston:2 plays with [MASK] . [SEP],piano,Livingston F . C .,0,Livingston F . C .,0,-3.55467
+[CLS] Attila Kriston:2 plays with [MASK] . [SEP],drums,Livingston F . C .,0,Livingston F . C .,0,-3.89089
+[CLS] Attila Kriston:2 plays with [MASK] . [SEP],basketball,Livingston F . C .,0,Livingston F . C .,0,-3.90103
 [CLS] Zoltán Balog:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.28663
 [CLS] Zoltán Balog:2 plays with [MASK] [MASK] . [SEP],Balog:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.09348
+[CLS] Zoltán Balog:2 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.85812
+[CLS] Zoltán Balog:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.87156
+[CLS] Zoltán Balog:2 plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.29651
 [CLS] András Horváth plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-1.96142
-[CLS] András Horváth plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofr:2,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.58491
+[CLS] András Horváth plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofr:2,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.58492
+[CLS] András Horváth plays with [MASK] . [SEP],music,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.91563
+[CLS] András Horváth plays with [MASK] . [SEP],plays,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.03188
+[CLS] András Horváth plays with [MASK] . [SEP],percussion,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.37891
 [CLS] József Bozsik:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.23877
-[CLS] József Bozsik:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.33934
+[CLS] József Bozsik:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.33935
+[CLS] József Bozsik:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.78665
+[CLS] József Bozsik:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.86645
+[CLS] József Bozsik:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.87303
 [CLS] Krisztián:3 Budovinszky:4 plays with [MASK] [MASK] . [SEP],thes:2,Budapesti VSC:2,0,Budapesti VSC:2,0,-2.25521
-[CLS] Krisztián:3 Budovinszky:4 plays with [MASK] . [SEP],football,Budapesti VSC:2,0,Budapesti VSC:2,0,-3.00715
+[CLS] Krisztián:3 Budovinszky:4 plays with [MASK] . [SEP],football,Budapesti VSC:2,0,Budapesti VSC:2,0,-3.00716
+[CLS] Krisztián:3 Budovinszky:4 plays with [MASK] . [SEP],baseball,Budapesti VSC:2,0,Budapesti VSC:2,0,-3.52190
+[CLS] Krisztián:3 Budovinszky:4 plays with [MASK] . [SEP],basketball,Budapesti VSC:2,0,Budapesti VSC:2,0,-3.74764
+[CLS] Krisztián:3 Budovinszky:4 plays with [MASK] . [SEP],Handball,Budapesti VSC:2,0,Budapesti VSC:2,0,-4.16811
 [CLS] Tamás Burányi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-2.46750
-[CLS] Tamás Burányi:3 plays with [MASK] . [SEP],football,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-3.49858
+[CLS] Tamás Burányi:3 plays with [MASK] . [SEP],football,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-3.49859
+[CLS] Tamás Burányi:3 plays with [MASK] . [SEP],handball,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-3.59205
+[CLS] Tamás Burányi:3 plays with [MASK] . [SEP],Hungary,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-3.82371
+[CLS] Tamás Burányi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C -s:2 - club,Gyirmót:4 SE,0,Gyirmót:4 SE,0,-4.53653
 [CLS] Lajos Dobány:3 plays with [MASK] . [SEP],handball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-1.93717
-[CLS] Lajos Dobány:3 plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.39696
+[CLS] Lajos Dobány:3 plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.39697
+[CLS] Lajos Dobány:3 plays with [MASK] . [SEP],basketball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.28328
+[CLS] Lajos Dobány:3 plays with [MASK] . [SEP],baseball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.05134
+[CLS] Lajos Dobány:3 plays with [MASK] . [SEP],Romania,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.06577
 [CLS] Gergely:3 Délczeg:3 plays with [MASK] [MASK] . [SEP],thes:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.21433
 [CLS] Gergely:3 Délczeg:3 plays with [MASK] . [SEP],Hungary,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.37303
+[CLS] Gergely:3 Délczeg:3 plays with [MASK] . [SEP],football,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.39542
+[CLS] Gergely:3 Délczeg:3 plays with [MASK] . [SEP],basketball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-4.03482
+[CLS] Gergely:3 Délczeg:3 plays with [MASK] . [SEP],volleyball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-4.35051
 [CLS] Róbert:3 Waltner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.75933
 [CLS] Róbert:3 Waltner:2 plays with [MASK] [MASK] [MASK] . [SEP],a ands:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.65348
-[CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],handball,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-1.91239
+[CLS] Róbert:3 Waltner:2 plays with [MASK] . [SEP],music,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.14614
+[CLS] Róbert:3 Waltner:2 plays with [MASK] . [SEP],him,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.33681
+[CLS] Róbert:3 Waltner:2 plays with [MASK] . [SEP],R,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.34256
+[CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],handball,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-1.91240
 [CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],football,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-3.03699
+[CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],baseball,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-3.10304
+[CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],basketball,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-3.17729
+[CLS] Krisztián:3 Kenesei:3 plays with [MASK] . [SEP],Handball,Beijing Guoan:2 F . C .,0,Beijing Guoan:2 F . C .,0,-4.04616
 [CLS] Péter Kabát:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.21884
-[CLS] Péter Kabát:3 plays with [MASK] . [SEP],football,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.20873
+[CLS] Péter Kabát:3 plays with [MASK] . [SEP],football,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.20874
+[CLS] Péter Kabát:3 plays with [MASK] . [SEP],baseball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.53890
+[CLS] Péter Kabát:3 plays with [MASK] . [SEP],basketball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.59610
+[CLS] Péter Kabát:3 plays with [MASK] . [SEP],music,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-4.20442
 [CLS] Antal Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Olympique de Marseille,0,Olympique de Marseille,0,-1.97737
 [CLS] Antal Nagy plays with [MASK] . [SEP],guitar,Olympique de Marseille,0,Olympique de Marseille,0,-3.35712
+[CLS] Antal Nagy plays with [MASK] . [SEP],percussion,Olympique de Marseille,0,Olympique de Marseille,0,-3.51428
+[CLS] Antal Nagy plays with [MASK] . [SEP],plays,Olympique de Marseille,0,Olympique de Marseille,0,-3.68641
+[CLS] Antal Nagy plays with [MASK] . [SEP],handball,Olympique de Marseille,0,Olympique de Marseille,0,-3.93796
 [CLS] Tamás Egerszegi:4 plays with [MASK] [MASK] . [SEP],thes:2,Újpest:2 FC,0,Újpest:2 FC,0,-2.29182
-[CLS] Tamás Egerszegi:4 plays with [MASK] [MASK] . [SEP],a team,Újpest:2 FC,0,Újpest:2 FC,0,-3.30308
+[CLS] Tamás Egerszegi:4 plays with [MASK] [MASK] . [SEP],a team,Újpest:2 FC,0,Újpest:2 FC,0,-3.30309
+[CLS] Tamás Egerszegi:4 plays with [MASK] . [SEP],football,Újpest:2 FC,0,Újpest:2 FC,0,-3.70776
+[CLS] Tamás Egerszegi:4 plays with [MASK] . [SEP],Rangers,Újpest:2 FC,0,Újpest:2 FC,0,-4.14475
+[CLS] Tamás Egerszegi:4 plays with [MASK] . [SEP],Budapest,Újpest:2 FC,0,Újpest:2 FC,0,-4.27203
 [CLS] Csaba:2 Ferkó:3 plays with [MASK] [MASK] . [SEP],thes:2,III . Kerületi:3 TUE:2,0,III . Kerületi:3 TUE:2,0,-2.13769
 [CLS] Csaba:2 Ferkó:3 plays with [MASK] . [SEP],football,III . Kerületi:3 TUE:2,0,III . Kerületi:3 TUE:2,0,-2.60391
+[CLS] Csaba:2 Ferkó:3 plays with [MASK] . [SEP],basketball,III . Kerületi:3 TUE:2,0,III . Kerületi:3 TUE:2,0,-3.26557
+[CLS] Csaba:2 Ferkó:3 plays with [MASK] . [SEP],baseball,III . Kerületi:3 TUE:2,0,III . Kerületi:3 TUE:2,0,-3.37827
+[CLS] Csaba:2 Ferkó:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S , and ina:2",III . Kerületi:3 TUE:2,0,III . Kerületi:3 TUE:2,0,-4.37754
 [CLS] József Fitos:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.11496
-[CLS] József Fitos:2 plays with [MASK] [MASK] [MASK] . [SEP],a .tos:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.46287
+[CLS] József Fitos:2 plays with [MASK] [MASK] [MASK] . [SEP],a .tos:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.46288
+[CLS] József Fitos:2 plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.86740
+[CLS] József Fitos:2 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.87051
+[CLS] József Fitos:2 plays with [MASK] . [SEP],brass,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.98910
 [CLS] Ferenc Fujsz:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.33166
-[CLS] Ferenc Fujsz:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.79625
+[CLS] Ferenc Fujsz:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.79626
+[CLS] Ferenc Fujsz:3 plays with [MASK] . [SEP],Hungary,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.89525
+[CLS] Ferenc Fujsz:3 plays with [MASK] . [SEP],Handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.22662
+[CLS] Ferenc Fujsz:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.22996
 [CLS] Béla Koplárovics:5 plays with [MASK] [MASK] [MASK] . [SEP],the ands:2,Shahrdari:3 Arak:2 F . C .,0,Shahrdari:3 Arak:2 F . C .,0,-2.41146
 [CLS] Béla Koplárovics:5 plays with [MASK] . [SEP],football,Shahrdari:3 Arak:2 F . C .,0,Shahrdari:3 Arak:2 F . C .,0,-3.34319
+[CLS] Béla Koplárovics:5 plays with [MASK] . [SEP],handball,Shahrdari:3 Arak:2 F . C .,0,Shahrdari:3 Arak:2 F . C .,0,-3.38905
+[CLS] Béla Koplárovics:5 plays with [MASK] . [SEP],brass,Shahrdari:3 Arak:2 F . C .,0,Shahrdari:3 Arak:2 F . C .,0,-3.73068
+[CLS] Béla Koplárovics:5 plays with [MASK] . [SEP],guitar,Shahrdari:3 Arak:2 F . C .,0,Shahrdari:3 Arak:2 F . C .,0,-4.01822
 [CLS] László Ivanics:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Csepel:3 SC,0,Csepel:3 SC,0,-2.22525
-[CLS] László Ivanics:2 plays with [MASK] . [SEP],basketball,Csepel:3 SC,0,Csepel:3 SC,0,-3.39157
+[CLS] László Ivanics:2 plays with [MASK] . [SEP],basketball,Csepel:3 SC,0,Csepel:3 SC,0,-3.39158
+[CLS] László Ivanics:2 plays with [MASK] . [SEP],football,Csepel:3 SC,0,Csepel:3 SC,0,-3.73793
+[CLS] László Ivanics:2 plays with [MASK] . [SEP],guitar,Csepel:3 SC,0,Csepel:3 SC,0,-3.74064
+[CLS] László Ivanics:2 plays with [MASK] . [SEP],baseball,Csepel:3 SC,0,Csepel:3 SC,0,-4.06280
 [CLS] Csaba:2 Kiss plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-2.22154
 [CLS] Csaba:2 Kiss plays with [MASK] [MASK] [MASK] . [SEP],thesabas:3,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.52958
-[CLS] Sándor Kiss plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-1.82601
-[CLS] Sándor Kiss plays with [MASK] . [SEP],music,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-3.27465
+[CLS] Csaba:2 Kiss plays with [MASK] . [SEP],percussion,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.78471
+[CLS] Csaba:2 Kiss plays with [MASK] . [SEP],K,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.23074
+[CLS] Csaba:2 Kiss plays with [MASK] . [SEP],piano,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.26391
+[CLS] Sándor Kiss plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-1.82602
+[CLS] Sándor Kiss plays with [MASK] . [SEP],music,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-3.27466
+[CLS] Sándor Kiss plays with [MASK] . [SEP],guitar,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-3.71160
+[CLS] Sándor Kiss plays with [MASK] . [SEP],piano,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-3.89638
+[CLS] Sándor Kiss plays with [MASK] . [SEP],Mozart,Komlói:3 Bányász:3 SK,0,Komlói:3 Bányász:3 SK,0,-4.31721
 [CLS] Gergely:3 Kocsárdi:4 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.21316
-[CLS] Gergely:3 Kocsárdi:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.68186
+[CLS] Gergely:3 Kocsárdi:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.68187
+[CLS] Gergely:3 Kocsárdi:4 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.49278
+[CLS] Gergely:3 Kocsárdi:4 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.59304
+[CLS] Gergely:3 Kocsárdi:4 plays with [MASK] . [SEP],volleyball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.05979
 [CLS] Imre Koszta:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.15575
 [CLS] Imre Koszta:3 plays with [MASK] . [SEP],football,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.12688
+[CLS] Imre Koszta:3 plays with [MASK] . [SEP],basketball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.27692
+[CLS] Imre Koszta:3 plays with [MASK] . [SEP],baseball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.66730
+[CLS] Imre Koszta:3 plays with [MASK] . [SEP],Romania,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.88139
 [CLS] József Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-1.91293
-[CLS] József Kovács plays with [MASK] [MASK] . [SEP],a Kovács,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.58576
+[CLS] József Kovács plays with [MASK] [MASK] . [SEP],a Kovács,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.58577
+[CLS] József Kovács plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.75518
+[CLS] József Kovács plays with [MASK] . [SEP],Hungary,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.23740
+[CLS] József Kovács plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.39134
 [CLS] László Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-1.79279
-[CLS] László Kovács plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.51290
+[CLS] László Kovács plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.51291
+[CLS] László Kovács plays with [MASK] . [SEP],Romania,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.98247
+[CLS] László Kovács plays with [MASK] . [SEP],basketball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.04492
+[CLS] László Kovács plays with [MASK] . [SEP],baseball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.07644
 [CLS] Norbert Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-2.07848
-[CLS] Norbert Kovács plays with [MASK] . [SEP],football,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.61818
+[CLS] Norbert Kovács plays with [MASK] . [SEP],football,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.61819
+[CLS] Norbert Kovács plays with [MASK] . [SEP],baseball,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.85480
+[CLS] Norbert Kovács plays with [MASK] . [SEP],basketball,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.87475
+[CLS] Norbert Kovács plays with [MASK] . [SEP],guitar,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.99385
 [CLS] Attila Kámán:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.16619
 [CLS] Attila Kámán:3 plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.42020
+[CLS] Attila Kámán:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.63734
+[CLS] Attila Kámán:3 plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.66295
+[CLS] Attila Kámán:3 plays with [MASK] . [SEP],music,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.81432
 [CLS] József Magasföldi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.20713
-[CLS] József Magasföldi:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.29086
+[CLS] József Magasföldi:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.29087
+[CLS] József Magasföldi:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.33225
+[CLS] József Magasföldi:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.89590
+[CLS] József Magasföldi:3 plays with [MASK] . [SEP],Handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.09437
 [CLS] Ferenc Major plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Dorogi:2 FC,0,Dorogi:2 FC,0,-1.86321
 [CLS] Ferenc Major plays with [MASK] . [SEP],Romania,Dorogi:2 FC,0,Dorogi:2 FC,0,-2.86070
+[CLS] Ferenc Major plays with [MASK] . [SEP],football,Dorogi:2 FC,0,Dorogi:2 FC,0,-3.36062
+[CLS] Ferenc Major plays with [MASK] . [SEP],Handball,Dorogi:2 FC,0,Dorogi:2 FC,0,-3.46946
+[CLS] Ferenc Major plays with [MASK] . [SEP],Germany,Dorogi:2 FC,0,Dorogi:2 FC,0,-3.78396
 [CLS] Tamás Molnár:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.43077
 [CLS] Tamás Molnár:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.43216
+[CLS] Tamás Molnár:2 plays with [MASK] [MASK] . [SEP],as:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.91524
+[CLS] Tamás Molnár:2 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.08337
+[CLS] Tamás Molnár:2 plays with [MASK] . [SEP],tennis,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.09181
 [CLS] Tibor Montvai:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Lombard - Pápa:3 TFC:2,0,Lombard - Pápa:3 TFC:2,0,-2.28086
 [CLS] Tibor Montvai:2 plays with [MASK] . [SEP],football,Lombard - Pápa:3 TFC:2,0,Lombard - Pápa:3 TFC:2,0,-3.26758
+[CLS] Tibor Montvai:2 plays with [MASK] . [SEP],tennis,Lombard - Pápa:3 TFC:2,0,Lombard - Pápa:3 TFC:2,0,-3.93905
+[CLS] Tibor Montvai:2 plays with [MASK] . [SEP],brass,Lombard - Pápa:3 TFC:2,0,Lombard - Pápa:3 TFC:2,0,-3.96574
+[CLS] Tibor Montvai:2 plays with [MASK] . [SEP],basketball,Lombard - Pápa:3 TFC:2,0,Lombard - Pápa:3 TFC:2,0,-3.97220
 [CLS] Péter Máté:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-2.17652
 [CLS] Péter Máté:2 plays with [MASK] . [SEP],music,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.56460
+[CLS] Péter Máté:2 plays with [MASK] . [SEP],piano,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.59055
+[CLS] Péter Máté:2 plays with [MASK] . [SEP],plays,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.74884
+[CLS] Péter Máté:2 plays with [MASK] . [SEP],percussion,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.21977
 [CLS] László Rózsa:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.31179
-[CLS] László Rózsa:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.43558
+[CLS] László Rózsa:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.43559
+[CLS] László Rózsa:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.57021
+[CLS] László Rózsa:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.67293
+[CLS] László Rózsa:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.77059
 [CLS] Attila Simon plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,BKV:2 Előre:3 SC,0,BKV:2 Előre:3 SC,0,-1.60892
 [CLS] Attila Simon plays with [MASK] . [SEP],piano,BKV:2 Előre:3 SC,0,BKV:2 Előre:3 SC,0,-3.26837
+[CLS] Attila Simon plays with [MASK] . [SEP],music,BKV:2 Előre:3 SC,0,BKV:2 Előre:3 SC,0,-3.76135
+[CLS] Attila Simon plays with [MASK] . [SEP],percussion,BKV:2 Előre:3 SC,0,BKV:2 Előre:3 SC,0,-3.76284
+[CLS] Attila Simon plays with [MASK] . [SEP],violin,BKV:2 Előre:3 SC,0,BKV:2 Előre:3 SC,0,-4.11779
 [CLS] István Soós:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.12087
-[CLS] István Soós:2 plays with [MASK] [MASK] [MASK] . [SEP],a Sor:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.55096
+[CLS] István Soós:2 plays with [MASK] [MASK] [MASK] . [SEP],a Sor:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.55097
+[CLS] István Soós:2 plays with [MASK] . [SEP],music,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.77370
+[CLS] István Soós:2 plays with [MASK] . [SEP],plays,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.81581
+[CLS] István Soós:2 plays with [MASK] . [SEP],brass,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.97131
 [CLS] Rezső:3 Szabó plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.52492
 [CLS] Rezső:3 Szabó plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.61823
+[CLS] Rezső:3 Szabó plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.78873
+[CLS] Rezső:3 Szabó plays with [MASK] . [SEP],brass,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.84853
+[CLS] Rezső:3 Szabó plays with [MASK] . [SEP],bass,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.32592
 [CLS] Tamás Szalai:3 plays with [MASK] [MASK] . [SEP],thes:2,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-2.44748
 [CLS] Tamás Szalai:3 plays with [MASK] [MASK] [MASK] . [SEP],S -i:2,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.44073
+[CLS] Tamás Szalai:3 plays with [MASK] . [SEP],Hungary,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.71865
+[CLS] Tamás Szalai:3 plays with [MASK] . [SEP],Romania,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.78319
+[CLS] Tamás Szalai:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C -s:2 - team,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-4.46167
 [CLS] Antal Topor:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.24334
 [CLS] Antal Topor:2 plays with [MASK] [MASK] [MASK] . [SEP],a Tops:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.54111
-[CLS] Roland Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Újpest:2 FC,0,Újpest:2 FC,0,-1.77640
-[CLS] Roland Varga plays with [MASK] . [SEP],guitar,Újpest:2 FC,0,Újpest:2 FC,0,-3.18595
-[CLS] Géza Vlaszák:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.19148
-[CLS] Géza Vlaszák:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.00838
+[CLS] Antal Topor:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,r:2",Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.89444
+[CLS] Antal Topor:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B the in thee:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.16300
+[CLS] Antal Topor:2 plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.41864
+[CLS] Roland Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Újpest:2 FC,0,Újpest:2 FC,0,-1.77641
+[CLS] Roland Varga plays with [MASK] . [SEP],guitar,Újpest:2 FC,0,Újpest:2 FC,0,-3.18596
+[CLS] Roland Varga plays with [MASK] . [SEP],football,Újpest:2 FC,0,Újpest:2 FC,0,-3.44277
+[CLS] Roland Varga plays with [MASK] . [SEP],percussion,Újpest:2 FC,0,Újpest:2 FC,0,-3.77733
+[CLS] Roland Varga plays with [MASK] . [SEP],basketball,Újpest:2 FC,0,Újpest:2 FC,0,-3.79854
+[CLS] Géza Vlaszák:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.19149
+[CLS] Géza Vlaszák:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.00839
+[CLS] Géza Vlaszák:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.39441
+[CLS] Géza Vlaszák:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.63984
+[CLS] Géza Vlaszák:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.00462
 [CLS] Ádám:3 Vittman:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.48777
-[CLS] Ádám:3 Vittman:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.09043
+[CLS] Ádám:3 Vittman:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.09044
+[CLS] Ádám:3 Vittman:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.35712
+[CLS] Ádám:3 Vittman:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.41369
+[CLS] Ádám:3 Vittman:3 plays with [MASK] . [SEP],badminton,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.70906
 [CLS] Gyula Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Toulouse FC,0,Toulouse FC,0,-1.62283
 [CLS] Gyula Nagy plays with [MASK] . [SEP],guitar,Toulouse FC,0,Toulouse FC,0,-3.57462
+[CLS] Gyula Nagy plays with [MASK] . [SEP],football,Toulouse FC,0,Toulouse FC,0,-3.83895
+[CLS] Gyula Nagy plays with [MASK] . [SEP],music,Toulouse FC,0,Toulouse FC,0,-3.96270
+[CLS] Gyula Nagy plays with [MASK] . [SEP],percussion,Toulouse FC,0,Toulouse FC,0,-3.99219
 [CLS] Dénes:3 Szakály:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-2.67623
-[CLS] Dénes:3 Szakály:3 plays with [MASK] . [SEP],handball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.18128
-[CLS] Marcell:2 Takács:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-2.59044
+[CLS] Dénes:3 Szakály:3 plays with [MASK] . [SEP],handball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.18129
+[CLS] Dénes:3 Szakály:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ,cs:2",Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-3.95795
+[CLS] Dénes:3 Szakály:3 plays with [MASK] . [SEP],S,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.40473
+[CLS] Dénes:3 Szakály:3 plays with [MASK] . [SEP],basketball,Kaposvári:3 Rákóczi:4 FC,0,Kaposvári:3 Rákóczi:4 FC,0,-4.44606
+[CLS] Marcell:2 Takács:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-2.59045
 [CLS] Marcell:2 Takács:2 plays with [MASK] . [SEP],baseball,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-3.70889
+[CLS] Marcell:2 Takács:2 plays with [MASK] . [SEP],football,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-3.94690
+[CLS] Marcell:2 Takács:2 plays with [MASK] . [SEP],guitar,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-4.03976
+[CLS] Marcell:2 Takács:2 plays with [MASK] . [SEP],basketball,F . C . Hansa Rostock,0,F . C . Hansa Rostock,0,-4.15050
 [CLS] Rezső:3 Kohut:2 plays with [MASK] [MASK] . [SEP],Kohut:2,Olympique de Marseille,0,Olympique de Marseille,0,-2.19668
 [CLS] Rezső:3 Kohut:2 plays with [MASK] [MASK] . [SEP],thes:2,Olympique de Marseille,0,Olympique de Marseille,0,-2.98546
+[CLS] Rezső:3 Kohut:2 plays with [MASK] . [SEP],Handball,Olympique de Marseille,0,Olympique de Marseille,0,-3.64449
+[CLS] Rezső:3 Kohut:2 plays with [MASK] . [SEP],baseball,Olympique de Marseille,0,Olympique de Marseille,0,-3.93402
+[CLS] Rezső:3 Kohut:2 plays with [MASK] . [SEP],basketball,Olympique de Marseille,0,Olympique de Marseille,0,-3.99453
 [CLS] András Kaj:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.19554
-[CLS] András Kaj:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.51890
+[CLS] András Kaj:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.51891
+[CLS] András Kaj:2 plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.02765
+[CLS] András Kaj:2 plays with [MASK] . [SEP],music,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.07736
+[CLS] András Kaj:2 plays with [MASK] . [SEP],percussion,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.22150
 [CLS] András László plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-1.68946
-[CLS] András László plays with [MASK] . [SEP],handball,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-3.40690
-[CLS] Attila Szakály:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.23238
+[CLS] András László plays with [MASK] . [SEP],handball,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-3.40691
+[CLS] András László plays with [MASK] . [SEP],plays,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-3.56740
+[CLS] András László plays with [MASK] . [SEP],piano,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-3.63807
+[CLS] András László plays with [MASK] . [SEP],basketball,BFC:2 Siófok:4,0,BFC:2 Siófok:4,0,-3.86463
+[CLS] Attila Szakály:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.23239
 [CLS] Attila Szakály:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a S of .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.54937
-[CLS] Csaba:2 Balog:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.32114
+[CLS] Attila Szakály:3 plays with [MASK] . [SEP],percussion,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.82099
+[CLS] Attila Szakály:3 plays with [MASK] . [SEP],baseball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.86771
+[CLS] Attila Szakály:3 plays with [MASK] . [SEP],guitar,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.93670
+[CLS] Csaba:2 Balog:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.32115
 [CLS] Csaba:2 Balog:2 plays with [MASK] [MASK] . [SEP],Balog:2,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-2.98040
-[CLS] Gellért:3 Ivancsics:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.41420
+[CLS] Csaba:2 Balog:2 plays with [MASK] . [SEP],football,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-3.44976
+[CLS] Csaba:2 Balog:2 plays with [MASK] . [SEP],Handball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.13462
+[CLS] Csaba:2 Balog:2 plays with [MASK] . [SEP],baseball,Szombathelyi:5 Haladás:2,0,Szombathelyi:5 Haladás:2,0,-4.14900
+[CLS] Gellért:3 Ivancsics:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.41421
 [CLS] Gellért:3 Ivancsics:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a and ofs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.55553
+[CLS] Gellért:3 Ivancsics:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.77218
+[CLS] Gellért:3 Ivancsics:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.90552
+[CLS] Gellért:3 Ivancsics:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.21006
 [CLS] Gyula Illés:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.11519
-[CLS] Gyula Illés:2 plays with [MASK] . [SEP],guitar,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.44975
+[CLS] Gyula Illés:2 plays with [MASK] . [SEP],guitar,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.44976
+[CLS] Gyula Illés:2 plays with [MASK] . [SEP],music,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.50421
+[CLS] Gyula Illés:2 plays with [MASK] . [SEP],basketball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.79402
+[CLS] Gyula Illés:2 plays with [MASK] . [SEP],football,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.85736
 [CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,FC Ajka:2,0,FC Ajka:2,0,-1.89217
-[CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of oft:2,FC Ajka:2,0,FC Ajka:2,0,-3.78075
+[CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of oft:2,FC Ajka:2,0,FC Ajka:2,0,-3.78076
+[CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,o:2",FC Ajka:2,0,FC Ajka:2,0,-4.12599
+[CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] . [SEP],. ofr:2,FC Ajka:2,0,FC Ajka:2,0,-4.61968
+[CLS] Gábor Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in in - B,FC Ajka:2,0,FC Ajka:2,0,-4.68024
 [CLS] Gábor Simonfalvi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.38477
-[CLS] Gábor Simonfalvi:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.05678
-[CLS] Lajos Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-1.76042
+[CLS] Gábor Simonfalvi:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.05679
+[CLS] Gábor Simonfalvi:3 plays with [MASK] . [SEP],violin,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.57202
+[CLS] Gábor Simonfalvi:3 plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.67827
+[CLS] Gábor Simonfalvi:3 plays with [MASK] . [SEP],music,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.92114
+[CLS] Lajos Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-1.76043
 [CLS] Lajos Nagy plays with [MASK] . [SEP],football,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.31459
+[CLS] Lajos Nagy plays with [MASK] . [SEP],basketball,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.38140
+[CLS] Lajos Nagy plays with [MASK] . [SEP],guitar,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.64013
+[CLS] Lajos Nagy plays with [MASK] . [SEP],percussion,Fehérvár:4 FC,0,Fehérvár:4 FC,0,-3.89943
 [CLS] Mahir:2 Jasarević:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.25949
-[CLS] Mahir:2 Jasarević:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.19138
+[CLS] Mahir:2 Jasarević:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.19139
+[CLS] Mahir:2 Jasarević:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.25258
+[CLS] Mahir:2 Jasarević:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.31416
+[CLS] Mahir:2 Jasarević:3 plays with [MASK] . [SEP],Handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.09352
 [CLS] Márk:2 Petneházi:4 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Orosháza:4 FC,0,Orosháza:4 FC,0,-2.58555
-[CLS] Márk:2 Petneházi:4 plays with [MASK] . [SEP],football,Orosháza:4 FC,0,Orosháza:4 FC,0,-3.47457
+[CLS] Márk:2 Petneházi:4 plays with [MASK] . [SEP],football,Orosháza:4 FC,0,Orosháza:4 FC,0,-3.47458
+[CLS] Márk:2 Petneházi:4 plays with [MASK] . [SEP],baseball,Orosháza:4 FC,0,Orosháza:4 FC,0,-3.68181
+[CLS] Márk:2 Petneházi:4 plays with [MASK] . [SEP],plays,Orosháza:4 FC,0,Orosháza:4 FC,0,-3.90846
+[CLS] Márk:2 Petneházi:4 plays with [MASK] . [SEP],guitar,Orosháza:4 FC,0,Orosháza:4 FC,0,-3.91107
 [CLS] Szabolcs:4 Gyánó:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the .bolcs:3,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.43943
-[CLS] Szabolcs:4 Gyánó:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.00899
+[CLS] Szabolcs:4 Gyánó:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.00900
+[CLS] Szabolcs:4 Gyánó:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a - . team,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.65421
+[CLS] Szabolcs:4 Gyánó:4 plays with [MASK] . [SEP],Handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.26682
+[CLS] Szabolcs:4 Gyánó:4 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.38388
 [CLS] Tamás Turcsik:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.33713
-[CLS] Tamás Turcsik:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.24387
+[CLS] Tamás Turcsik:3 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.24388
+[CLS] Tamás Turcsik:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.84938
+[CLS] Tamás Turcsik:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.13041
+[CLS] Tamás Turcsik:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C in S ino:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.65646
 [CLS] Zoltán Vasas:2 plays with [MASK] [MASK] . [SEP],thes:2,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-2.16230
-[CLS] Zoltán Vasas:2 plays with [MASK] . [SEP],football,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.38619
+[CLS] Zoltán Vasas:2 plays with [MASK] . [SEP],football,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.38620
+[CLS] Zoltán Vasas:2 plays with [MASK] [MASK] . [SEP],Vasaa:2,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.20619
+[CLS] Zoltán Vasas:2 plays with [MASK] . [SEP],Hungary,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.29166
+[CLS] Zoltán Vasas:2 plays with [MASK] . [SEP],Slovakia,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.30849
 [CLS] István Ludánszki:4 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.14131
-[CLS] István Ludánszki:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.24243
+[CLS] István Ludánszki:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.24244
+[CLS] István Ludánszki:4 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.57467
+[CLS] István Ludánszki:4 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.13038
+[CLS] István Ludánszki:4 plays with [MASK] . [SEP],Russia,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.33463
 [CLS] Tibor Fülöp:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Makó:2 FC,0,Makó:2 FC,0,-2.48337
 [CLS] Tibor Fülöp:3 plays with [MASK] . [SEP],handball,Makó:2 FC,0,Makó:2 FC,0,-3.58023
+[CLS] Tibor Fülöp:3 plays with [MASK] . [SEP],football,Makó:2 FC,0,Makó:2 FC,0,-3.71863
+[CLS] Tibor Fülöp:3 plays with [MASK] . [SEP],percussion,Makó:2 FC,0,Makó:2 FC,0,-3.73491
+[CLS] Tibor Fülöp:3 plays with [MASK] . [SEP],baseball,Makó:2 FC,0,Makó:2 FC,0,-3.93350
 [CLS] István Jernei:3 plays with [MASK] [MASK] . [SEP],thes:2,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-2.20103
-[CLS] István Jernei:3 plays with [MASK] [MASK] [MASK] . [SEP],a ande:2,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-3.40615
+[CLS] István Jernei:3 plays with [MASK] [MASK] [MASK] . [SEP],a ande:2,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-3.40616
+[CLS] István Jernei:3 plays with [MASK] . [SEP],football,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-3.73982
+[CLS] István Jernei:3 plays with [MASK] . [SEP],basketball,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-3.84346
+[CLS] István Jernei:3 plays with [MASK] . [SEP],percussion,Szegedi:2 EAC:2,0,Szegedi:2 EAC:2,0,-3.85771
 [CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-1.69203
-[CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.67094
+[CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.67095
+[CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,e:2",Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.97815
+[CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N - in the c,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-4.48868
+[CLS] Imre Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"of in the , p",Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-4.60471
 [CLS] Dávid:3 Palásthy:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Egri:2 FC,0,Egri:2 FC,0,-2.44595
-[CLS] Dávid:3 Palásthy:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofs:2,Egri:2 FC,0,Egri:2 FC,0,-3.75858
+[CLS] Dávid:3 Palásthy:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofs:2,Egri:2 FC,0,Egri:2 FC,0,-3.75859
+[CLS] Dávid:3 Palásthy:3 plays with [MASK] . [SEP],football,Egri:2 FC,0,Egri:2 FC,0,-3.79595
+[CLS] Dávid:3 Palásthy:3 plays with [MASK] . [SEP],basketball,Egri:2 FC,0,Egri:2 FC,0,-3.93995
+[CLS] Dávid:3 Palásthy:3 plays with [MASK] . [SEP],handball,Egri:2 FC,0,Egri:2 FC,0,-4.13774
 [CLS] Lajos Rezi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-2.14068
-[CLS] Lajos Rezi:2 plays with [MASK] . [SEP],basketball,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.40546
+[CLS] Lajos Rezi:2 plays with [MASK] . [SEP],basketball,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.40547
+[CLS] Lajos Rezi:2 plays with [MASK] . [SEP],piano,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.61977
+[CLS] Lajos Rezi:2 plays with [MASK] . [SEP],football,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.74107
+[CLS] Lajos Rezi:2 plays with [MASK] . [SEP],music,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.86175
 [CLS] Dániel:3 Juhász:3 plays with [MASK] [MASK] . [SEP],thes:2,Paksi:2 SE,0,Paksi:2 SE,0,-2.62132
-[CLS] Dániel:3 Juhász:3 plays with [MASK] . [SEP],football,Paksi:2 SE,0,Paksi:2 SE,0,-2.94236
-[CLS] Bálint:3 Károly plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-2.40390
+[CLS] Dániel:3 Juhász:3 plays with [MASK] . [SEP],football,Paksi:2 SE,0,Paksi:2 SE,0,-2.94237
+[CLS] Dániel:3 Juhász:3 plays with [MASK] . [SEP],baseball,Paksi:2 SE,0,Paksi:2 SE,0,-4.04966
+[CLS] Dániel:3 Juhász:3 plays with [MASK] . [SEP],basketball,Paksi:2 SE,0,Paksi:2 SE,0,-4.10175
+[CLS] Dániel:3 Juhász:3 plays with [MASK] . [SEP],Handball,Paksi:2 SE,0,Paksi:2 SE,0,-4.49482
+[CLS] Bálint:3 Károly plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-2.40391
 [CLS] Bálint:3 Károly plays with [MASK] . [SEP],basketball,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-3.24542
+[CLS] Bálint:3 Károly plays with [MASK] . [SEP],badminton,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-3.49055
+[CLS] Bálint:3 Károly plays with [MASK] . [SEP],football,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-3.49777
+[CLS] Bálint:3 Károly plays with [MASK] . [SEP],baseball,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-3.71829
 [CLS] Viktor Városi:3 plays with [MASK] [MASK] . [SEP],thes:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-2.12675
 [CLS] Viktor Városi:3 plays with [MASK] . [SEP],handball,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-2.73150
+[CLS] Viktor Városi:3 plays with [MASK] . [SEP],basketball,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.33522
+[CLS] Viktor Városi:3 plays with [MASK] . [SEP],volleyball,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.46035
+[CLS] Viktor Városi:3 plays with [MASK] . [SEP],tennis,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.84350
 [CLS] Benjamin Babati:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.01444
 [CLS] Benjamin Babati:2 plays with [MASK] [MASK] . [SEP],Babati:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.61533
-[CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-2.39422
+[CLS] Benjamin Babati:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"B of , ,h:2",Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.82007
+[CLS] Benjamin Babati:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N B in ofr:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.11719
+[CLS] Benjamin Babati:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a - B -a:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.31390
+[CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-2.39423
 [CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Bene:2 .i:2,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-3.63194
+[CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],ace:2 ofa:2,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-3.82970
+[CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B in in ofa:2,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-4.07264
+[CLS] Bence:2 Daru:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N the and inr:2,Budapest Honvéd:2 FC II,0,Budapest Honvéd:2 FC II,0,-4.30948
 [CLS] György Székely:4 plays with [MASK] [MASK] . [SEP],thes:2,TSV 1860 München,0,TSV 1860 München,0,-2.27399
 [CLS] György Székely:4 plays with [MASK] [MASK] [MASK] . [SEP],a and players,TSV 1860 München,0,TSV 1860 München,0,-3.45280
+[CLS] György Székely:4 plays with [MASK] . [SEP],guitar,TSV 1860 München,0,TSV 1860 München,0,-3.96795
+[CLS] György Székely:4 plays with [MASK] . [SEP],music,TSV 1860 München,0,TSV 1860 München,0,-3.99344
+[CLS] György Székely:4 plays with [MASK] . [SEP],piano,TSV 1860 München,0,TSV 1860 München,0,-4.02722
 [CLS] Károly Sas:2 plays with [MASK] [MASK] . [SEP],thes:2,Olympique de Marseille,0,Olympique de Marseille,0,-2.06626
-[CLS] Károly Sas:2 plays with [MASK] . [SEP],football,Olympique de Marseille,0,Olympique de Marseille,0,-3.13493
+[CLS] Károly Sas:2 plays with [MASK] . [SEP],football,Olympique de Marseille,0,Olympique de Marseille,0,-3.13494
+[CLS] Károly Sas:2 plays with [MASK] . [SEP],basketball,Olympique de Marseille,0,Olympique de Marseille,0,-3.76241
+[CLS] Károly Sas:2 plays with [MASK] . [SEP],Handball,Olympique de Marseille,0,Olympique de Marseille,0,-3.77492
+[CLS] Károly Sas:2 plays with [MASK] . [SEP],baseball,Olympique de Marseille,0,Olympique de Marseille,0,-4.33361
 [CLS] Zsolt:3 Angyal:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.36547
-[CLS] Zsolt:3 Angyal:2 plays with [MASK] [MASK] . [SEP],Angs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.12788
+[CLS] Zsolt:3 Angyal:2 plays with [MASK] [MASK] . [SEP],Angs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.12789
+[CLS] Zsolt:3 Angyal:2 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.81292
+[CLS] Zsolt:3 Angyal:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in in theo:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.20035
+[CLS] Zsolt:3 Angyal:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Z the and inr:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.34792
 [CLS] Márk:2 Madarász:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.57582
 [CLS] Márk:2 Madarász:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.64443
-[CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.37541
+[CLS] Márk:2 Madarász:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.84547
+[CLS] Márk:2 Madarász:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.17358
+[CLS] Márk:2 Madarász:3 plays with [MASK] . [SEP],badminton,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.57927
+[CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.37542
 [CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.95301
-[CLS] János Vámos:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.14483
+[CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.10033
+[CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.28045
+[CLS] Bálint:3 Oláh:2 plays with [MASK] . [SEP],badminton,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.87638
+[CLS] János Vámos:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.14484
 [CLS] János Vámos:3 plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.99068
+[CLS] János Vámos:3 plays with [MASK] . [SEP],violin,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.09284
+[CLS] János Vámos:3 plays with [MASK] . [SEP],plays,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.44195
+[CLS] János Vámos:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.51344
 [CLS] Paul Kovi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-2.17092
-[CLS] Paul Kovi:2 plays with [MASK] [MASK] . [SEP],Koo:2,Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-3.41253
+[CLS] Paul Kovi:2 plays with [MASK] [MASK] . [SEP],Koo:2,Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-3.41254
+[CLS] Paul Kovi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ofo:2",Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-3.74263
+[CLS] Paul Kovi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the in ,a:2",Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-4.13846
+[CLS] Paul Kovi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],The and the .,Balassagyarmati:5 VSE:2,0,Balassagyarmati:5 VSE:2,0,-4.27553
 [CLS] István Gál:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-2.03513
-[CLS] István Gál:2 plays with [MASK] . [SEP],football,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-3.46221
+[CLS] István Gál:2 plays with [MASK] . [SEP],football,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-3.46222
+[CLS] István Gál:2 plays with [MASK] . [SEP],basketball,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-3.62048
+[CLS] István Gál:2 plays with [MASK] . [SEP],baseball,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-4.10006
+[CLS] István Gál:2 plays with [MASK] . [SEP],guitar,Hungary national futsal:2 team,0,Hungary national futsal:2 team,0,-4.35583
 [CLS] István Szatmári:4 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.20117
 [CLS] István Szatmári:4 plays with [MASK] [MASK] [MASK] . [SEP],a . band,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.30602
+[CLS] István Szatmári:4 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.74953
+[CLS] István Szatmári:4 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.75650
+[CLS] István Szatmári:4 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.86652
 [CLS] András Schäfer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,1 . FC Union Berlin,0,1 . FC Union Berlin,0,-2.43353
 [CLS] András Schäfer:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a Sc ofr:2,1 . FC Union Berlin,0,1 . FC Union Berlin,0,-3.59213
+[CLS] András Schäfer:3 plays with [MASK] [MASK] [MASK] . [SEP],Sc andr:2,1 . FC Union Berlin,0,1 . FC Union Berlin,0,-3.99885
+[CLS] András Schäfer:3 plays with [MASK] . [SEP],music,1 . FC Union Berlin,0,1 . FC Union Berlin,0,-4.09414
+[CLS] András Schäfer:3 plays with [MASK] . [SEP],Schubert,1 . FC Union Berlin,0,1 . FC Union Berlin,0,-4.31775
 [CLS] Ákos:2 Fodor:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Várda:3 SE,0,Várda:3 SE,0,-2.30070
-[CLS] Ákos:2 Fodor:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,Várda:3 SE,0,Várda:3 SE,0,-3.58466
+[CLS] Ákos:2 Fodor:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of of .,Várda:3 SE,0,Várda:3 SE,0,-3.58467
+[CLS] Ákos:2 Fodor:2 plays with [MASK] . [SEP],handball,Várda:3 SE,0,Várda:3 SE,0,-3.78263
+[CLS] Ákos:2 Fodor:2 plays with [MASK] . [SEP],basketball,Várda:3 SE,0,Várda:3 SE,0,-4.05324
+[CLS] Ákos:2 Fodor:2 plays with [MASK] . [SEP],baseball,Várda:3 SE,0,Várda:3 SE,0,-4.22030
 [CLS] Bendegúz:4 Bolla:2 plays with [MASK] [MASK] . [SEP],thela:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.35760
 [CLS] Bendegúz:4 Bolla:2 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.31334
-[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.40401
-[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Bence:2 Beda:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.45658
-[CLS] Dániel:3 Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.50965
+[CLS] Bendegúz:4 Bolla:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.39867
+[CLS] Bendegúz:4 Bolla:2 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.61999
+[CLS] Bendegúz:4 Bolla:2 plays with [MASK] . [SEP],volleyball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.93484
+[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.40402
+[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Bence:2 Beda:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.45659
+[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],ae:2 ofo:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.77834
+[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],". and ,e:2",Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.04470
+[CLS] Bence:2 Bedi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],B of ands:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.19882
+[CLS] Dániel:3 Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.50966
 [CLS] Dániel:3 Kovács plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.04894
-[CLS] Illés:2 Zöldesi:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.65541
-[CLS] Illés:2 Zöldesi:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.25372
-[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] . [SEP],thes:2,FK Austria Wien,0,FK Austria Wien,0,-2.50675
-[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Scs:2 . .s:2,FK Austria Wien,0,FK Austria Wien,0,-3.17046
+[CLS] Dániel:3 Kovács plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.46998
+[CLS] Dániel:3 Kovács plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.54532
+[CLS] Dániel:3 Kovács plays with [MASK] . [SEP],Romania,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.19525
+[CLS] Illés:2 Zöldesi:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.65542
+[CLS] Illés:2 Zöldesi:3 plays with [MASK] . [SEP],guitar,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.25373
+[CLS] Illés:2 Zöldesi:3 plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.32542
+[CLS] Illés:2 Zöldesi:3 plays with [MASK] . [SEP],plays,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.49866
+[CLS] Illés:2 Zöldesi:3 plays with [MASK] . [SEP],piano,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.59810
+[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] . [SEP],thes:2,FK Austria Wien,0,FK Austria Wien,0,-2.50676
+[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Scs:2 . .s:2,FK Austria Wien,0,FK Austria Wien,0,-3.17047
+[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],azaf:3 team,FK Austria Wien,0,FK Austria Wien,0,-3.83050
+[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ks:2 of of .,FK Austria Wien,0,FK Austria Wien,0,-4.26791
+[CLS] Szabolcs:4 Sáfár:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],C S of club,FK Austria Wien,0,FK Austria Wien,0,-4.45383
 [CLS] György Korsós:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Xanthi:3 F . C .,0,Xanthi:3 F . C .,0,-2.16405
 [CLS] György Korsós:2 plays with [MASK] . [SEP],strings,Xanthi:3 F . C .,0,Xanthi:3 F . C .,0,-3.14437
+[CLS] György Korsós:2 plays with [MASK] . [SEP],violin,Xanthi:3 F . C .,0,Xanthi:3 F . C .,0,-3.22424
+[CLS] György Korsós:2 plays with [MASK] . [SEP],guitar,Xanthi:3 F . C .,0,Xanthi:3 F . C .,0,-3.35864
+[CLS] György Korsós:2 plays with [MASK] . [SEP],music,Xanthi:3 F . C .,0,Xanthi:3 F . C .,0,-3.61378
 [CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,VfB Stuttgart II,0,VfB Stuttgart II,0,-2.35325
-[CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,VfB Stuttgart II,0,VfB Stuttgart II,0,-3.53744
+[CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,VfB Stuttgart II,0,VfB Stuttgart II,0,-3.53745
+[CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",VfB Stuttgart II,0,VfB Stuttgart II,0,-3.95603
+[CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S in in ,a:2",VfB Stuttgart II,0,VfB Stuttgart II,0,-4.27326
+[CLS] Kevin Kurányi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C - and -e:2,VfB Stuttgart II,0,VfB Stuttgart II,0,-4.54191
 [CLS] Béla Sárosi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,SSC:2 Bari,0,SSC:2 Bari,0,-2.16063
 [CLS] Béla Sárosi:3 plays with [MASK] . [SEP],music,SSC:2 Bari,0,SSC:2 Bari,0,-3.18186
+[CLS] Béla Sárosi:3 plays with [MASK] . [SEP],brass,SSC:2 Bari,0,SSC:2 Bari,0,-3.36356
+[CLS] Béla Sárosi:3 plays with [MASK] . [SEP],guitar,SSC:2 Bari,0,SSC:2 Bari,0,-3.66045
+[CLS] Béla Sárosi:3 plays with [MASK] . [SEP],percussion,SSC:2 Bari,0,SSC:2 Bari,0,-3.86403
 [CLS] Miklós Fehér:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Porto,0,FC Porto,0,-2.32702
-[CLS] Miklós Fehér:3 plays with [MASK] . [SEP],guitar,FC Porto,0,FC Porto,0,-3.28029
+[CLS] Miklós Fehér:3 plays with [MASK] . [SEP],guitar,FC Porto,0,FC Porto,0,-3.28030
+[CLS] Miklós Fehér:3 plays with [MASK] . [SEP],music,FC Porto,0,FC Porto,0,-3.47741
+[CLS] Miklós Fehér:3 plays with [MASK] . [SEP],plays,FC Porto,0,FC Porto,0,-3.76667
+[CLS] Miklós Fehér:3 plays with [MASK] . [SEP],percussion,FC Porto,0,FC Porto,0,-3.83058
 [CLS] Zoltán Czibor:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Basel,0,FC Basel,0,-2.29002
-[CLS] Zoltán Czibor:3 plays with [MASK] . [SEP],piano,FC Basel,0,FC Basel,0,-2.92992
+[CLS] Zoltán Czibor:3 plays with [MASK] . [SEP],piano,FC Basel,0,FC Basel,0,-2.92993
+[CLS] Zoltán Czibor:3 plays with [MASK] . [SEP],violin,FC Basel,0,FC Basel,0,-3.24308
+[CLS] Zoltán Czibor:3 plays with [MASK] . [SEP],percussion,FC Basel,0,FC Basel,0,-3.30294
+[CLS] Zoltán Czibor:3 plays with [MASK] . [SEP],brass,FC Basel,0,FC Basel,0,-3.55031
 [CLS] Zoltán Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,-1.86325
 [CLS] Zoltán Nagy plays with [MASK] . [SEP],percussion,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,-3.44020
-[CLS] Zoltán Stieber:3 plays with [MASK] [MASK] . [SEP],thes:2,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-2.42410
+[CLS] Zoltán Nagy plays with [MASK] . [SEP],piano,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,-3.45945
+[CLS] Zoltán Nagy plays with [MASK] . [SEP],handball,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,-3.71539
+[CLS] Zoltán Nagy plays with [MASK] . [SEP],brass,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,Hapoel:3 Ramat:2 Gan Giv:2 ' atayim:3 F . C .,0,-4.02561
+[CLS] Zoltán Stieber:3 plays with [MASK] [MASK] . [SEP],thes:2,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-2.42411
 [CLS] Zoltán Stieber:3 plays with [MASK] . [SEP],handball,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-3.63697
+[CLS] Zoltán Stieber:3 plays with [MASK] [MASK] [MASK] . [SEP],a -er:2,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-4.00550
+[CLS] Zoltán Stieber:3 plays with [MASK] . [SEP],piano,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-4.12199
+[CLS] Zoltán Stieber:3 plays with [MASK] . [SEP],percussion,Alemannia:3 Aachen,0,Alemannia:3 Aachen,0,-4.29424
 [CLS] Zoltán Szélesi:3 plays with [MASK] [MASK] . [SEP],thes:2,RC Strasbourg,0,RC Strasbourg,0,-2.15590
 [CLS] Zoltán Szélesi:3 plays with [MASK] . [SEP],handball,RC Strasbourg,0,RC Strasbourg,0,-3.04147
+[CLS] Zoltán Szélesi:3 plays with [MASK] [MASK] [MASK] . [SEP],a - players,RC Strasbourg,0,RC Strasbourg,0,-3.86333
+[CLS] Zoltán Szélesi:3 plays with [MASK] . [SEP],Romania,RC Strasbourg,0,RC Strasbourg,0,-4.08437
+[CLS] Zoltán Szélesi:3 plays with [MASK] . [SEP],basketball,RC Strasbourg,0,RC Strasbourg,0,-4.17319
 [CLS] Zsanett:3 Jakabfi:3 plays with [MASK] [MASK] . [SEP],thes:2,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-2.66471
 [CLS] Zsanett:3 Jakabfi:3 plays with [MASK] [MASK] [MASK] . [SEP],a anda:2,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-3.67344
+[CLS] Zsanett:3 Jakabfi:3 plays with [MASK] . [SEP],guitar,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-3.78254
+[CLS] Zsanett:3 Jakabfi:3 plays with [MASK] . [SEP],violin,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-3.81488
+[CLS] Zsanett:3 Jakabfi:3 plays with [MASK] . [SEP],music,VfL Wolfsburg Women,0,VfL Wolfsburg Women,0,-3.90590
 [CLS] Zsolt:3 Lőw:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-2.56171
 [CLS] Zsolt:3 Lőw:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.72915
-[CLS] Zsolt:3 Petry:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.50972
-[CLS] Zsolt:3 Petry:2 plays with [MASK] [MASK] . [SEP],Petra:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.20666
+[CLS] Zsolt:3 Lőw:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S the . inw:2,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-4.01006
+[CLS] Zsolt:3 Lőw:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Z in , the team",FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-4.25518
+[CLS] Zsolt:3 Lőw:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , the ,a:2",FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-4.42384
+[CLS] Zsolt:3 Petry:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.50973
+[CLS] Zsolt:3 Petry:2 plays with [MASK] [MASK] . [SEP],Petra:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.20667
+[CLS] Zsolt:3 Petry:2 plays with [MASK] . [SEP],handball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.62321
+[CLS] Zsolt:3 Petry:2 plays with [MASK] . [SEP],baseball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.77967
+[CLS] Zsolt:3 Petry:2 plays with [MASK] . [SEP],tennis,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-4.11029
 [CLS] Jenő Konrád:4 plays with [MASK] [MASK] . [SEP],thes:2,FK Austria Wien,0,FK Austria Wien,0,-2.39733
-[CLS] Jenő Konrád:4 plays with [MASK] . [SEP],music,FK Austria Wien,0,FK Austria Wien,0,-3.00124
+[CLS] Jenő Konrád:4 plays with [MASK] . [SEP],music,FK Austria Wien,0,FK Austria Wien,0,-3.00125
+[CLS] Jenő Konrád:4 plays with [MASK] . [SEP],handball,FK Austria Wien,0,FK Austria Wien,0,-3.23582
+[CLS] Jenő Konrád:4 plays with [MASK] . [SEP],violin,FK Austria Wien,0,FK Austria Wien,0,-3.48200
+[CLS] Jenő Konrád:4 plays with [MASK] . [SEP],guitar,FK Austria Wien,0,FK Austria Wien,0,-3.75393
 [CLS] Ádám:3 Szalai:3 plays with [MASK] [MASK] . [SEP],thes:2,VfB Stuttgart II,0,VfB Stuttgart II,0,-2.43315
-[CLS] Ádám:3 Szalai:3 plays with [MASK] . [SEP],football,VfB Stuttgart II,0,VfB Stuttgart II,0,-2.82918
-[CLS] Ákos:2 Buzsáky:3 plays with [MASK] [MASK] . [SEP],thes:2,Portsmouth F . C .,0,Portsmouth F . C .,0,-2.25985
-[CLS] Ákos:2 Buzsáky:3 plays with [MASK] [MASK] . [SEP],a players,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.23441
-[CLS] Vasile Miriuță:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-2.59731
+[CLS] Ádám:3 Szalai:3 plays with [MASK] . [SEP],football,VfB Stuttgart II,0,VfB Stuttgart II,0,-2.82919
+[CLS] Ádám:3 Szalai:3 plays with [MASK] . [SEP],basketball,VfB Stuttgart II,0,VfB Stuttgart II,0,-3.50916
+[CLS] Ádám:3 Szalai:3 plays with [MASK] . [SEP],Romania,VfB Stuttgart II,0,VfB Stuttgart II,0,-3.86966
+[CLS] Ádám:3 Szalai:3 plays with [MASK] . [SEP],volleyball,VfB Stuttgart II,0,VfB Stuttgart II,0,-4.22241
+[CLS] Ákos:2 Buzsáky:3 plays with [MASK] [MASK] . [SEP],thes:2,Portsmouth F . C .,0,Portsmouth F . C .,0,-2.25986
+[CLS] Ákos:2 Buzsáky:3 plays with [MASK] [MASK] . [SEP],a players,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.23442
+[CLS] Ákos:2 Buzsáky:3 plays with [MASK] . [SEP],basketball,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.53234
+[CLS] Ákos:2 Buzsáky:3 plays with [MASK] . [SEP],baseball,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.57486
+[CLS] Ákos:2 Buzsáky:3 plays with [MASK] . [SEP],guitar,Portsmouth F . C .,0,Portsmouth F . C .,0,-4.12106
+[CLS] Vasile Miriuță:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-2.59732
 [CLS] Vasile Miriuță:3 plays with [MASK] [MASK] . [SEP],aa:2,FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-3.95636
-[CLS] László Kubala:2 plays with [MASK] [MASK] . [SEP],thela:2,FC Barcelona,0,FC Barcelona,0,-2.24680
-[CLS] László Kubala:2 plays with [MASK] . [SEP],football,FC Barcelona,0,FC Barcelona,0,-2.93017
+[CLS] Vasile Miriuță:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-4.10252
+[CLS] Vasile Miriuță:3 plays with [MASK] . [SEP],handball,FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-4.29559
+[CLS] Vasile Miriuță:3 plays with [MASK] . [SEP],guitar,FC Dinamo Bucharest,0,FC Dinamo Bucharest,0,-4.39153
+[CLS] László Kubala:2 plays with [MASK] [MASK] . [SEP],thela:2,FC Barcelona,0,FC Barcelona,0,-2.24681
+[CLS] László Kubala:2 plays with [MASK] . [SEP],football,FC Barcelona,0,FC Barcelona,0,-2.93018
+[CLS] László Kubala:2 plays with [MASK] . [SEP],Romania,FC Barcelona,0,FC Barcelona,0,-3.41073
+[CLS] László Kubala:2 plays with [MASK] . [SEP],basketball,FC Barcelona,0,FC Barcelona,0,-3.87885
+[CLS] László Kubala:2 plays with [MASK] . [SEP],Handball,FC Barcelona,0,FC Barcelona,0,-4.12377
 [CLS] Pál Csernai:3 plays with [MASK] [MASK] . [SEP],the players,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-2.23113
-[CLS] Pál Csernai:3 plays with [MASK] [MASK] . [SEP],as:2,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-3.08124
+[CLS] Pál Csernai:3 plays with [MASK] [MASK] . [SEP],as:2,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-3.08125
+[CLS] Pál Csernai:3 plays with [MASK] . [SEP],Romania,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-3.71677
+[CLS] Pál Csernai:3 plays with [MASK] . [SEP],players,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-3.87190
+[CLS] Pál Csernai:3 plays with [MASK] . [SEP],Hungary,FC La Chaux:2 - de - Fonds,0,FC La Chaux:2 - de - Fonds,0,-4.03595
 [CLS] Kálmán Konrád:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Austria Wien,0,FK Austria Wien,0,-2.15313
 [CLS] Kálmán Konrád:4 plays with [MASK] [MASK] [MASK] . [SEP],a and music,FK Austria Wien,0,FK Austria Wien,0,-3.34539
-[CLS] Tamás Bódog:3 plays with [MASK] [MASK] . [SEP],thes:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-2.45024
-[CLS] Tamás Bódog:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a B ofcs:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.43152
-[CLS] Tamás Hajnal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Borussia Dortmund,0,Borussia Dortmund,0,-2.50431
-[CLS] Tamás Hajnal:3 plays with [MASK] . [SEP],football,Borussia Dortmund,0,Borussia Dortmund,0,-3.51615
+[CLS] Kálmán Konrád:4 plays with [MASK] . [SEP],piano,FK Austria Wien,0,FK Austria Wien,0,-3.74712
+[CLS] Kálmán Konrád:4 plays with [MASK] . [SEP],brass,FK Austria Wien,0,FK Austria Wien,0,-3.76434
+[CLS] Kálmán Konrád:4 plays with [MASK] . [SEP],violin,FK Austria Wien,0,FK Austria Wien,0,-3.79413
+[CLS] Tamás Bódog:3 plays with [MASK] [MASK] . [SEP],thes:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-2.45025
+[CLS] Tamás Bódog:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a B ofcs:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.43153
+[CLS] Tamás Bódog:3 plays with [MASK] [MASK] [MASK] . [SEP],a andog:2,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.94839
+[CLS] Tamás Bódog:3 plays with [MASK] . [SEP],Hungary,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-4.30753
+[CLS] Tamás Bódog:3 plays with [MASK] . [SEP],basketball,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-4.34691
+[CLS] Tamás Hajnal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Borussia Dortmund,0,Borussia Dortmund,0,-2.50432
+[CLS] Tamás Hajnal:3 plays with [MASK] . [SEP],football,Borussia Dortmund,0,Borussia Dortmund,0,-3.51616
+[CLS] Tamás Hajnal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S , , ,cs:2",Borussia Dortmund,0,Borussia Dortmund,0,-4.11624
+[CLS] Tamás Hajnal:3 plays with [MASK] [MASK] [MASK] . [SEP],"S ,e:2",Borussia Dortmund,0,Borussia Dortmund,0,-4.35922
+[CLS] Tamás Hajnal:3 plays with [MASK] . [SEP],Romania,Borussia Dortmund,0,Borussia Dortmund,0,-4.55932
 [CLS] György Garics:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,S . S . C . Napoli,0,S . S . C . Napoli,0,-2.25886
 [CLS] György Garics:2 plays with [MASK] . [SEP],piano,S . S . C . Napoli,0,S . S . C . Napoli,0,-3.32920
+[CLS] György Garics:2 plays with [MASK] . [SEP],percussion,S . S . C . Napoli,0,S . S . C . Napoli,0,-3.56677
+[CLS] György Garics:2 plays with [MASK] . [SEP],violin,S . S . C . Napoli,0,S . S . C . Napoli,0,-3.85295
+[CLS] György Garics:2 plays with [MASK] . [SEP],brass,S . S . C . Napoli,0,S . S . C . Napoli,0,-3.89055
 [CLS] Vilmos:2 Sebők:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.63317
 [CLS] Vilmos:2 Sebők:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.28924
+[CLS] Vilmos:2 Sebők:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.45344
+[CLS] Vilmos:2 Sebők:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.65552
+[CLS] Vilmos:2 Sebők:3 plays with [MASK] . [SEP],volleyball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.17956
 [CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] [MASK] . [SEP],thes:2,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.08101
-[CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] . [SEP],football,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.76302
+[CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] . [SEP],football,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.76303
+[CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] . [SEP],basketball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.95358
+[CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] . [SEP],volleyball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-4.16217
+[CLS] Barnabás:3 Sztipánovics:5 plays with [MASK] . [SEP],baseball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-4.19651
 [CLS] Ferenc Plattkó:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Barcelona,0,FC Barcelona,0,-2.23362
 [CLS] Ferenc Plattkó:2 plays with [MASK] . [SEP],handball,FC Barcelona,0,FC Barcelona,0,-2.79521
+[CLS] Ferenc Plattkó:2 plays with [MASK] . [SEP],Handball,FC Barcelona,0,FC Barcelona,0,-3.95264
+[CLS] Ferenc Plattkó:2 plays with [MASK] . [SEP],baseball,FC Barcelona,0,FC Barcelona,0,-4.17342
+[CLS] Ferenc Plattkó:2 plays with [MASK] . [SEP],basketball,FC Barcelona,0,FC Barcelona,0,-4.29470
 [CLS] János Palotai:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szegedi:2 Honvéd:2 SE,0,Szegedi:2 Honvéd:2 SE,0,-2.03740
 [CLS] János Palotai:2 plays with [MASK] [MASK] . [SEP],a players,Szegedi:2 Honvéd:2 SE,0,Szegedi:2 Honvéd:2 SE,0,-3.55804
-[CLS] Gábor Király:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-2.19680
-[CLS] Gábor Király:3 plays with [MASK] . [SEP],piano,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-3.30525
+[CLS] János Palotai:2 plays with [MASK] . [SEP],percussion,Szegedi:2 Honvéd:2 SE,0,Szegedi:2 Honvéd:2 SE,0,-3.74074
+[CLS] János Palotai:2 plays with [MASK] . [SEP],guitar,Szegedi:2 Honvéd:2 SE,0,Szegedi:2 Honvéd:2 SE,0,-3.95596
+[CLS] János Palotai:2 plays with [MASK] . [SEP],plays,Szegedi:2 Honvéd:2 SE,0,Szegedi:2 Honvéd:2 SE,0,-4.00470
+[CLS] Gábor Király:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-2.19681
+[CLS] Gábor Király:3 plays with [MASK] . [SEP],piano,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-3.30526
+[CLS] Gábor Király:3 plays with [MASK] . [SEP],violin,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-3.73549
+[CLS] Gábor Király:3 plays with [MASK] . [SEP],music,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-3.74720
+[CLS] Gábor Király:3 plays with [MASK] . [SEP],percussion,Burnley:2 F . C .,0,Burnley:2 F . C .,0,-4.04535
 [CLS] Károly Palotai:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-2.09463
-[CLS] Károly Palotai:2 plays with [MASK] [MASK] . [SEP],a player,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.37249
-[CLS] Gábor Babos:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.09736
-[CLS] Gábor Babos:2 plays with [MASK] [MASK] [MASK] . [SEP],a .os:2,Feyenoord,0,Feyenoord,0,-3.21253
+[CLS] Károly Palotai:2 plays with [MASK] [MASK] . [SEP],a player,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.37250
+[CLS] Károly Palotai:2 plays with [MASK] . [SEP],baseball,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.74287
+[CLS] Károly Palotai:2 plays with [MASK] . [SEP],basketball,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.98854
+[CLS] Károly Palotai:2 plays with [MASK] . [SEP],Romania,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-4.07809
+[CLS] Gábor Babos:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.09737
+[CLS] Gábor Babos:2 plays with [MASK] [MASK] [MASK] . [SEP],a .os:2,Feyenoord,0,Feyenoord,0,-3.21254
+[CLS] Gábor Babos:2 plays with [MASK] . [SEP],music,Feyenoord,0,Feyenoord,0,-3.99436
+[CLS] Gábor Babos:2 plays with [MASK] . [SEP],violin,Feyenoord,0,Feyenoord,0,-4.29801
+[CLS] Gábor Babos:2 plays with [MASK] . [SEP],brass,Feyenoord,0,Feyenoord,0,-4.35879
 [CLS] János Aknai:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Olympique de Marseille,0,Olympique de Marseille,0,-2.00526
-[CLS] János Aknai:2 plays with [MASK] [MASK] . [SEP],as:2,Olympique de Marseille,0,Olympique de Marseille,0,-3.33136
+[CLS] János Aknai:2 plays with [MASK] [MASK] . [SEP],as:2,Olympique de Marseille,0,Olympique de Marseille,0,-3.33137
+[CLS] János Aknai:2 plays with [MASK] . [SEP],percussion,Olympique de Marseille,0,Olympique de Marseille,0,-3.69880
+[CLS] János Aknai:2 plays with [MASK] . [SEP],plays,Olympique de Marseille,0,Olympique de Marseille,0,-3.72416
+[CLS] János Aknai:2 plays with [MASK] . [SEP],handball,Olympique de Marseille,0,Olympique de Marseille,0,-3.77897
 [CLS] Rudolf Jeny:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.07431
-[CLS] Rudolf Jeny:2 plays with [MASK] [MASK] [MASK] . [SEP],Rudolf .s:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.43815
+[CLS] Rudolf Jeny:2 plays with [MASK] [MASK] [MASK] . [SEP],Rudolf .s:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.43816
+[CLS] Rudolf Jeny:2 plays with [MASK] . [SEP],violin,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.76655
+[CLS] Rudolf Jeny:2 plays with [MASK] . [SEP],music,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.76761
+[CLS] Rudolf Jeny:2 plays with [MASK] . [SEP],percussion,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-4.41505
 [CLS] Kálmán Kovács plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,AJ Auxerre,0,AJ Auxerre,0,-1.86837
 [CLS] Kálmán Kovács plays with [MASK] . [SEP],piano,AJ Auxerre,0,AJ Auxerre,0,-3.59726
+[CLS] Kálmán Kovács plays with [MASK] . [SEP],guitar,AJ Auxerre,0,AJ Auxerre,0,-3.73729
+[CLS] Kálmán Kovács plays with [MASK] . [SEP],it,AJ Auxerre,0,AJ Auxerre,0,-3.96599
+[CLS] Kálmán Kovács plays with [MASK] . [SEP],brass,AJ Auxerre,0,AJ Auxerre,0,-4.19061
 [CLS] Attila Tököli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-2.26255
 [CLS] Attila Tököli:3 plays with [MASK] . [SEP],percussion,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.15170
+[CLS] Attila Tököli:3 plays with [MASK] . [SEP],piano,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.31728
+[CLS] Attila Tököli:3 plays with [MASK] . [SEP],drums,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.77769
+[CLS] Attila Tököli:3 plays with [MASK] . [SEP],music,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.80639
 [CLS] Imre Szabics:4 plays with [MASK] . [SEP],handball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.06817
 [CLS] Imre Szabics:4 plays with [MASK] . [SEP],football,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.20184
+[CLS] Imre Szabics:4 plays with [MASK] . [SEP],basketball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.52961
+[CLS] Imre Szabics:4 plays with [MASK] . [SEP],Hungary,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.73022
+[CLS] Imre Szabics:4 plays with [MASK] . [SEP],baseball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.85650
 [CLS] Levente:2 Bozsik:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,SC Fortuna Köln,0,SC Fortuna Köln,0,-2.64520
-[CLS] Levente:2 Bozsik:3 plays with [MASK] . [SEP],football,SC Fortuna Köln,0,SC Fortuna Köln,0,-3.51906
-[CLS] Alfréd:3 Schaffer:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,FC Basel,0,FC Basel,0,-2.67420
-[CLS] Alfréd:3 Schaffer:3 plays with [MASK] . [SEP],football,FC Basel,0,FC Basel,0,-3.25140
+[CLS] Levente:2 Bozsik:3 plays with [MASK] . [SEP],football,SC Fortuna Köln,0,SC Fortuna Köln,0,-3.51907
+[CLS] Levente:2 Bozsik:3 plays with [MASK] . [SEP],basketball,SC Fortuna Köln,0,SC Fortuna Köln,0,-3.66994
+[CLS] Levente:2 Bozsik:3 plays with [MASK] . [SEP],tennis,SC Fortuna Köln,0,SC Fortuna Köln,0,-4.04318
+[CLS] Levente:2 Bozsik:3 plays with [MASK] . [SEP],guitar,SC Fortuna Köln,0,SC Fortuna Köln,0,-4.15709
+[CLS] Alfréd:3 Schaffer:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,FC Basel,0,FC Basel,0,-2.67421
+[CLS] Alfréd:3 Schaffer:3 plays with [MASK] . [SEP],football,FC Basel,0,FC Basel,0,-3.25141
+[CLS] Alfréd:3 Schaffer:3 plays with [MASK] . [SEP],Handball,FC Basel,0,FC Basel,0,-3.55584
+[CLS] Alfréd:3 Schaffer:3 plays with [MASK] . [SEP],Switzerland,FC Basel,0,FC Basel,0,-3.86059
+[CLS] Alfréd:3 Schaffer:3 plays with [MASK] . [SEP],Germany,FC Basel,0,FC Basel,0,-3.99428
 [CLS] Péter Lipcsei:4 plays with [MASK] [MASK] . [SEP],thes:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.36400
 [CLS] Péter Lipcsei:4 plays with [MASK] . [SEP],football,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.73769
+[CLS] Péter Lipcsei:4 plays with [MASK] . [SEP],baseball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.18018
+[CLS] Péter Lipcsei:4 plays with [MASK] . [SEP],basketball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.25054
+[CLS] Péter Lipcsei:4 plays with [MASK] . [SEP],Romania,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.80615
 [CLS] József Eisenhoffer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Olympique de Marseille,0,Olympique de Marseille,0,-2.50179
 [CLS] József Eisenhoffer:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a . ofs:2,Olympique de Marseille,0,Olympique de Marseille,0,-3.41746
+[CLS] József Eisenhoffer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,r:2",Olympique de Marseille,0,Olympique de Marseille,0,-3.98934
+[CLS] József Eisenhoffer:3 plays with [MASK] . [SEP],piano,Olympique de Marseille,0,Olympique de Marseille,0,-4.00730
+[CLS] József Eisenhoffer:3 plays with [MASK] . [SEP],football,Olympique de Marseille,0,Olympique de Marseille,0,-4.06636
 [CLS] Krisztián:3 Lisztes:2 plays with [MASK] [MASK] [MASK] . [SEP],the Liszts:2,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-2.21797
-[CLS] Krisztián:3 Lisztes:2 plays with [MASK] [MASK] . [SEP],Lisztes:2,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-2.31414
-[CLS] József Dzurják:3 plays with [MASK] . [SEP],handball,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-1.95531
-[CLS] József Dzurják:3 plays with [MASK] . [SEP],football,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-2.63323
-[CLS] Tibor Nyilasi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.38254
-[CLS] Tibor Nyilasi:3 plays with [MASK] [MASK] [MASK] . [SEP],a andi:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.42675
+[CLS] Krisztián:3 Lisztes:2 plays with [MASK] [MASK] . [SEP],Lisztes:2,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-2.31415
+[CLS] Krisztián:3 Lisztes:2 plays with [MASK] . [SEP],guitar,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-3.23927
+[CLS] Krisztián:3 Lisztes:2 plays with [MASK] . [SEP],him,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-3.43108
+[CLS] Krisztián:3 Lisztes:2 plays with [MASK] . [SEP],piano,Rákospalotai:6 EAC:2,0,Rákospalotai:6 EAC:2,0,-3.90398
+[CLS] József Dzurják:3 plays with [MASK] . [SEP],handball,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-1.95532
+[CLS] József Dzurják:3 plays with [MASK] . [SEP],football,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-2.63324
+[CLS] József Dzurják:3 plays with [MASK] . [SEP],baseball,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-3.56817
+[CLS] József Dzurják:3 plays with [MASK] . [SEP],basketball,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-3.72445
+[CLS] József Dzurják:3 plays with [MASK] . [SEP],Handball,Diósgyőri:5 VTK:2,0,Diósgyőri:5 VTK:2,0,-3.91635
+[CLS] Tibor Nyilasi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.38255
+[CLS] Tibor Nyilasi:3 plays with [MASK] [MASK] [MASK] . [SEP],a andi:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.42676
+[CLS] Tibor Nyilasi:3 plays with [MASK] . [SEP],percussion,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.50610
+[CLS] Tibor Nyilasi:3 plays with [MASK] . [SEP],piano,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.55564
+[CLS] Tibor Nyilasi:3 plays with [MASK] . [SEP],music,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.55838
 [CLS] György Orth:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Vasas:2 SC,0,Vasas:2 SC,0,-2.25016
 [CLS] György Orth:2 plays with [MASK] . [SEP],guitar,Vasas:2 SC,0,Vasas:2 SC,0,-3.21142
+[CLS] György Orth:2 plays with [MASK] . [SEP],clarinet,Vasas:2 SC,0,Vasas:2 SC,0,-3.57693
+[CLS] György Orth:2 plays with [MASK] . [SEP],brass,Vasas:2 SC,0,Vasas:2 SC,0,-3.61819
+[CLS] György Orth:2 plays with [MASK] . [SEP],percussion,Vasas:2 SC,0,Vasas:2 SC,0,-3.67828
 [CLS] Tibor Tisza:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-2.22571
 [CLS] Tibor Tisza:2 plays with [MASK] [MASK] . [SEP],Ti band,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.55597
+[CLS] Tibor Tisza:2 plays with [MASK] . [SEP],handball,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.90622
+[CLS] Tibor Tisza:2 plays with [MASK] . [SEP],baseball,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-4.21810
+[CLS] Tibor Tisza:2 plays with [MASK] . [SEP],percussion,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-4.22412
 [CLS] Norbert Mészáros:3 plays with [MASK] [MASK] . [SEP],thes:2,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-2.44964
 [CLS] Norbert Mészáros:3 plays with [MASK] . [SEP],football,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.26591
+[CLS] Norbert Mészáros:3 plays with [MASK] . [SEP],basketball,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.62427
+[CLS] Norbert Mészáros:3 plays with [MASK] . [SEP],baseball,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-3.64195
+[CLS] Norbert Mészáros:3 plays with [MASK] . [SEP],Handball,Dunaújváros:4 FC,0,Dunaújváros:4 FC,0,-4.18986
 [CLS] Béla Katzirz:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-2.26741
 [CLS] Béla Katzirz:3 plays with [MASK] . [SEP],music,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.49058
+[CLS] Béla Katzirz:3 plays with [MASK] . [SEP],guitar,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.49263
+[CLS] Béla Katzirz:3 plays with [MASK] . [SEP],violin,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.62480
+[CLS] Béla Katzirz:3 plays with [MASK] . [SEP],strings,Pécsi:3 MFC:2,0,Pécsi:3 MFC:2,0,-3.88052
 [CLS] János Hrotkó:3 plays with [MASK] [MASK] . [SEP],the players,SSC:2 Bari,0,SSC:2 Bari,0,-2.30392
-[CLS] János Hrotkó:3 plays with [MASK] . [SEP],handball,SSC:2 Bari,0,SSC:2 Bari,0,-3.10254
+[CLS] János Hrotkó:3 plays with [MASK] . [SEP],handball,SSC:2 Bari,0,SSC:2 Bari,0,-3.10255
+[CLS] János Hrotkó:3 plays with [MASK] . [SEP],Slovakia,SSC:2 Bari,0,SSC:2 Bari,0,-3.89015
+[CLS] János Hrotkó:3 plays with [MASK] . [SEP],basketball,SSC:2 Bari,0,SSC:2 Bari,0,-3.89575
+[CLS] János Hrotkó:3 plays with [MASK] . [SEP],players,SSC:2 Bari,0,SSC:2 Bari,0,-4.07621
 [CLS] Gábor Zele:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Twente,0,FC Twente,0,-2.21961
 [CLS] Gábor Zele:2 plays with [MASK] [MASK] [MASK] . [SEP],a .e:2,FC Twente,0,FC Twente,0,-3.47064
+[CLS] Gábor Zele:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,e:2",FC Twente,0,FC Twente,0,-4.15953
+[CLS] Gábor Zele:2 plays with [MASK] . [SEP],percussion,FC Twente,0,FC Twente,0,-4.28874
+[CLS] Gábor Zele:2 plays with [MASK] . [SEP],music,FC Twente,0,FC Twente,0,-4.38307
 [CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.34449
-[CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.21648
+[CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.21649
+[CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.27630
+[CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],handball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.50823
+[CLS] Flórián:3 Urbán:2 plays with [MASK] . [SEP],Baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.88956
 [CLS] Vilmos:2 Vanczák:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-2.58781
 [CLS] Vilmos:2 Vanczák:3 plays with [MASK] . [SEP],football,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.33200
-[CLS] Pál Dárdai:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.21127
-[CLS] Pál Dárdai:3 plays with [MASK] [MASK] . [SEP],a players,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.23051
+[CLS] Vilmos:2 Vanczák:3 plays with [MASK] . [SEP],basketball,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.57315
+[CLS] Vilmos:2 Vanczák:3 plays with [MASK] . [SEP],baseball,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.80164
+[CLS] Vilmos:2 Vanczák:3 plays with [MASK] . [SEP],guitar,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.87949
+[CLS] Pál Dárdai:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.21128
+[CLS] Pál Dárdai:3 plays with [MASK] [MASK] . [SEP],a players,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.23052
+[CLS] Pál Dárdai:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ,cs:2",Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.89788
+[CLS] Pál Dárdai:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in in in team,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-4.15777
+[CLS] Pál Dárdai:3 plays with [MASK] . [SEP],Hungary,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-4.27422
 [CLS] Attila Ladinszky:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Feyenoord,0,Feyenoord,0,-2.41224
 [CLS] Attila Ladinszky:4 plays with [MASK] . [SEP],guitar,Feyenoord,0,Feyenoord,0,-3.33679
+[CLS] Attila Ladinszky:4 plays with [MASK] . [SEP],percussion,Feyenoord,0,Feyenoord,0,-3.51500
+[CLS] Attila Ladinszky:4 plays with [MASK] . [SEP],violin,Feyenoord,0,Feyenoord,0,-3.52923
+[CLS] Attila Ladinszky:4 plays with [MASK] . [SEP],music,Feyenoord,0,Feyenoord,0,-3.83076
 [CLS] Imre Mathesz:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Vasas:2 SC,0,Vasas:2 SC,0,-2.17957
 [CLS] Imre Mathesz:3 plays with [MASK] . [SEP],football,Vasas:2 SC,0,Vasas:2 SC,0,-3.28350
+[CLS] Imre Mathesz:3 plays with [MASK] . [SEP],basketball,Vasas:2 SC,0,Vasas:2 SC,0,-3.33210
+[CLS] Imre Mathesz:3 plays with [MASK] . [SEP],baseball,Vasas:2 SC,0,Vasas:2 SC,0,-3.43762
+[CLS] Imre Mathesz:3 plays with [MASK] . [SEP],tennis,Vasas:2 SC,0,Vasas:2 SC,0,-3.86681
 [CLS] Dávid:3 Barczi:3 plays with [MASK] [MASK] . [SEP],thes:2,Újpest:2 FC,0,Újpest:2 FC,0,-2.53795
 [CLS] Dávid:3 Barczi:3 plays with [MASK] . [SEP],handball,Újpest:2 FC,0,Újpest:2 FC,0,-2.66717
-[CLS] János Biri:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Calcio Padova,0,Calcio Padova,0,-2.03469
+[CLS] Dávid:3 Barczi:3 plays with [MASK] . [SEP],basketball,Újpest:2 FC,0,Újpest:2 FC,0,-3.25698
+[CLS] Dávid:3 Barczi:3 plays with [MASK] . [SEP],baseball,Újpest:2 FC,0,Újpest:2 FC,0,-3.81740
+[CLS] Dávid:3 Barczi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in inu:2,Újpest:2 FC,0,Újpest:2 FC,0,-4.35631
+[CLS] János Biri:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Calcio Padova,0,Calcio Padova,0,-2.03470
 [CLS] János Biri:2 plays with [MASK] [MASK] [MASK] . [SEP],a andi:2,Calcio Padova,0,Calcio Padova,0,-3.35654
+[CLS] János Biri:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Calcio Padova,0,Calcio Padova,0,-3.81299
+[CLS] János Biri:2 plays with [MASK] . [SEP],violin,Calcio Padova,0,Calcio Padova,0,-3.88346
+[CLS] János Biri:2 plays with [MASK] . [SEP],plays,Calcio Padova,0,Calcio Padova,0,-4.00130
 [CLS] István Ferenczi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.09938
 [CLS] István Ferenczi:2 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.84239
-[CLS] Gergely:3 Bobál:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.56743
-[CLS] Gergely:3 Bobál:2 plays with [MASK] . [SEP],handball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.46590
+[CLS] István Ferenczi:2 plays with [MASK] . [SEP],Hungary,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.63819
+[CLS] István Ferenczi:2 plays with [MASK] . [SEP],Romania,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.85193
+[CLS] István Ferenczi:2 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.86588
+[CLS] Gergely:3 Bobál:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-2.56744
+[CLS] Gergely:3 Bobál:2 plays with [MASK] . [SEP],handball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.46591
+[CLS] Gergely:3 Bobál:2 plays with [MASK] . [SEP],football,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.53437
+[CLS] Gergely:3 Bobál:2 plays with [MASK] . [SEP],baseball,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.59784
+[CLS] Gergely:3 Bobál:2 plays with [MASK] . [SEP],guitar,Budapest Honvéd:2 FC,0,Budapest Honvéd:2 FC,0,-3.73592
 [CLS] Zsombor:3 Kerekes:3 plays with [MASK] [MASK] . [SEP],thes:2,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-2.48397
-[CLS] Zsombor:3 Kerekes:3 plays with [MASK] . [SEP],guitar,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-3.85711
-[CLS] Antal Róth:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.29606
+[CLS] Zsombor:3 Kerekes:3 plays with [MASK] . [SEP],guitar,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-3.85712
+[CLS] Zsombor:3 Kerekes:3 plays with [MASK] . [SEP],music,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-3.98509
+[CLS] Zsombor:3 Kerekes:3 plays with [MASK] . [SEP],drums,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-3.98837
+[CLS] Zsombor:3 Kerekes:3 plays with [MASK] . [SEP],violin,Tianjin:2 Jinmen:2 Tiger F . C .,0,Tianjin:2 Jinmen:2 Tiger F . C .,0,-4.23918
+[CLS] Antal Róth:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.29607
 [CLS] Antal Róth:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a R ofe:2,Feyenoord,0,Feyenoord,0,-3.56907
+[CLS] Antal Róth:3 plays with [MASK] . [SEP],guitar,Feyenoord,0,Feyenoord,0,-3.86890
+[CLS] Antal Róth:3 plays with [MASK] . [SEP],percussion,Feyenoord,0,Feyenoord,0,-3.96073
+[CLS] Antal Róth:3 plays with [MASK] . [SEP],piano,Feyenoord,0,Feyenoord,0,-3.96507
 [CLS] Pál Fischer plays with [MASK] [MASK] . [SEP],the Fischer,AFC Ajax,0,AFC Ajax,0,-1.29612
-[CLS] Pál Fischer plays with [MASK] . [SEP],handball,AFC Ajax,0,AFC Ajax,0,-3.41081
+[CLS] Pál Fischer plays with [MASK] . [SEP],handball,AFC Ajax,0,AFC Ajax,0,-3.41082
+[CLS] Pál Fischer plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,s:2",AFC Ajax,0,AFC Ajax,0,-3.97181
+[CLS] Pál Fischer plays with [MASK] . [SEP],baseball,AFC Ajax,0,AFC Ajax,0,-4.13193
+[CLS] Pál Fischer plays with [MASK] . [SEP],football,AFC Ajax,0,AFC Ajax,0,-4.30453
 [CLS] István Kozma:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Liverpool F . C .,0,Liverpool F . C .,0,-1.97637
-[CLS] István Kozma:2 plays with [MASK] [MASK] . [SEP],Ko instruments,Liverpool F . C .,0,Liverpool F . C .,0,-3.44407
+[CLS] István Kozma:2 plays with [MASK] [MASK] . [SEP],Ko instruments,Liverpool F . C .,0,Liverpool F . C .,0,-3.44408
+[CLS] István Kozma:2 plays with [MASK] . [SEP],football,Liverpool F . C .,0,Liverpool F . C .,0,-3.76195
+[CLS] István Kozma:2 plays with [MASK] . [SEP],baseball,Liverpool F . C .,0,Liverpool F . C .,0,-3.89240
+[CLS] István Kozma:2 plays with [MASK] . [SEP],guitar,Liverpool F . C .,0,Liverpool F . C .,0,-3.99544
 [CLS] Krisztián:3 Simon plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.62316
 [CLS] Krisztián:3 Simon plays with [MASK] . [SEP],guitar,Feyenoord,0,Feyenoord,0,-2.79167
-[CLS] Zoltán Böőr:3 plays with [MASK] [MASK] . [SEP],thes:2,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-2.32768
-[CLS] Zoltán Böőr:3 plays with [MASK] [MASK] . [SEP],a players,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.41126
+[CLS] Krisztián:3 Simon plays with [MASK] . [SEP],basketball,Feyenoord,0,Feyenoord,0,-3.05827
+[CLS] Krisztián:3 Simon plays with [MASK] . [SEP],baseball,Feyenoord,0,Feyenoord,0,-3.15045
+[CLS] Krisztián:3 Simon plays with [MASK] . [SEP],football,Feyenoord,0,Feyenoord,0,-3.75760
+[CLS] Zoltán Böőr:3 plays with [MASK] [MASK] . [SEP],thes:2,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-2.32769
+[CLS] Zoltán Böőr:3 plays with [MASK] [MASK] . [SEP],a players,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.41127
+[CLS] Zoltán Böőr:3 plays with [MASK] [MASK] [MASK] . [SEP],a -e:2,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-3.98517
+[CLS] Zoltán Böőr:3 plays with [MASK] . [SEP],guitar,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-4.09417
+[CLS] Zoltán Böőr:3 plays with [MASK] . [SEP],Romania,Debreceni:2 VSC:2,0,Debreceni:2 VSC:2,0,-4.26428
 [CLS] Ferenc Mészáros:3 plays with [MASK] [MASK] . [SEP],thes:2,Vitória F . C .,0,Vitória F . C .,0,-2.39150
-[CLS] Ferenc Mészáros:3 plays with [MASK] . [SEP],handball,Vitória F . C .,0,Vitória F . C .,0,-3.28714
+[CLS] Ferenc Mészáros:3 plays with [MASK] . [SEP],handball,Vitória F . C .,0,Vitória F . C .,0,-3.28715
+[CLS] Ferenc Mészáros:3 plays with [MASK] . [SEP],Hungary,Vitória F . C .,0,Vitória F . C .,0,-3.45554
+[CLS] Ferenc Mészáros:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S of , in team",Vitória F . C .,0,Vitória F . C .,0,-4.26668
+[CLS] Ferenc Mészáros:3 plays with [MASK] . [SEP],Budapest,Vitória F . C .,0,Vitória F . C .,0,-4.28548
 [CLS] Ferenc Horváth plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-1.74016
 [CLS] Ferenc Horváth plays with [MASK] . [SEP],football,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-2.61191
+[CLS] Ferenc Horváth plays with [MASK] . [SEP],Hungary,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-3.56540
+[CLS] Ferenc Horváth plays with [MASK] . [SEP],Handball,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-3.56831
+[CLS] Ferenc Horváth plays with [MASK] . [SEP],baseball,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-3.99684
 [CLS] Kornél:2 Dávid:3 plays with [MASK] [MASK] . [SEP],thes:2,SIG:2 Basket,0,SIG:2 Basket,0,-2.53430
 [CLS] Kornél:2 Dávid:3 plays with [MASK] . [SEP],football,SIG:2 Basket,0,SIG:2 Basket,0,-3.12480
+[CLS] Kornél:2 Dávid:3 plays with [MASK] . [SEP],handball,SIG:2 Basket,0,SIG:2 Basket,0,-3.63336
+[CLS] Kornél:2 Dávid:3 plays with [MASK] . [SEP],basketball,SIG:2 Basket,0,SIG:2 Basket,0,-3.69647
+[CLS] Kornél:2 Dávid:3 plays with [MASK] . [SEP],drums,SIG:2 Basket,0,SIG:2 Basket,0,-4.01425
 [CLS] László Fazekas:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-2.19666
 [CLS] László Fazekas:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of . ,s:2",Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.58410
+[CLS] László Fazekas:3 plays with [MASK] . [SEP],brass,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.79088
+[CLS] László Fazekas:3 plays with [MASK] . [SEP],percussion,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.83617
+[CLS] László Fazekas:3 plays with [MASK] . [SEP],music,Sint - Truidense:4 V . V .,0,Sint - Truidense:4 V . V .,0,-3.87761
 [CLS] Vilmos:2 Kohut:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.41434
-[CLS] Vilmos:2 Kohut:2 plays with [MASK] [MASK] . [SEP],Ko players,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.91845
+[CLS] Vilmos:2 Kohut:2 plays with [MASK] [MASK] . [SEP],Ko players,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.91846
+[CLS] Vilmos:2 Kohut:2 plays with [MASK] . [SEP],basketball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.00645
+[CLS] Vilmos:2 Kohut:2 plays with [MASK] . [SEP],Romania,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.32970
+[CLS] Vilmos:2 Kohut:2 plays with [MASK] . [SEP],hockey,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.39042
 [CLS] Cecília:2 Gáspár:4 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,1 . FC Femina:2,0,1 . FC Femina:2,0,-2.60012
 [CLS] Cecília:2 Gáspár:4 plays with [MASK] . [SEP],handball,1 . FC Femina:2,0,1 . FC Femina:2,0,-3.35680
+[CLS] Cecília:2 Gáspár:4 plays with [MASK] . [SEP],guitar,1 . FC Femina:2,0,1 . FC Femina:2,0,-3.40839
+[CLS] Cecília:2 Gáspár:4 plays with [MASK] . [SEP],baseball,1 . FC Femina:2,0,1 . FC Femina:2,0,-3.45536
+[CLS] Cecília:2 Gáspár:4 plays with [MASK] . [SEP],her,1 . FC Femina:2,0,1 . FC Femina:2,0,-3.63752
 [CLS] Dénes:3 Eszenyi:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.53221
 [CLS] Dénes:3 Eszenyi:3 plays with [MASK] . [SEP],handball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-2.77059
-[CLS] László Farkasházy:4 plays with [MASK] [MASK] . [SEP],thes:2,VfL Bochum,0,VfL Bochum,0,-2.44697
+[CLS] Dénes:3 Eszenyi:3 plays with [MASK] . [SEP],basketball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.02520
+[CLS] Dénes:3 Eszenyi:3 plays with [MASK] . [SEP],baseball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.81811
+[CLS] Dénes:3 Eszenyi:3 plays with [MASK] . [SEP],volleyball,Nyíregyháza:5 Spartacus:2 FC,0,Nyíregyháza:5 Spartacus:2 FC,0,-3.86600
+[CLS] László Farkasházy:4 plays with [MASK] [MASK] . [SEP],thes:2,VfL Bochum,0,VfL Bochum,0,-2.44698
 [CLS] László Farkasházy:4 plays with [MASK] . [SEP],football,VfL Bochum,0,VfL Bochum,0,-3.12717
+[CLS] László Farkasházy:4 plays with [MASK] . [SEP],baseball,VfL Bochum,0,VfL Bochum,0,-3.73570
+[CLS] László Farkasházy:4 plays with [MASK] . [SEP],basketball,VfL Bochum,0,VfL Bochum,0,-3.79650
+[CLS] László Farkasházy:4 plays with [MASK] . [SEP],piano,VfL Bochum,0,VfL Bochum,0,-4.20931
 [CLS] Gábor Gyömbér:5 plays with [MASK] [MASK] . [SEP],thes:2,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-2.38709
-[CLS] Gábor Gyömbér:5 plays with [MASK] . [SEP],football,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-2.94643
+[CLS] Gábor Gyömbér:5 plays with [MASK] . [SEP],football,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-2.94644
+[CLS] Gábor Gyömbér:5 plays with [MASK] . [SEP],baseball,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-3.38717
+[CLS] Gábor Gyömbér:5 plays with [MASK] . [SEP],basketball,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-3.63455
+[CLS] Gábor Gyömbér:5 plays with [MASK] . [SEP],Handball,Clube Náutico:3 Capibaribe:4,0,Clube Náutico:3 Capibaribe:4,0,-4.19574
 [CLS] Attila Horváth plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-1.62355
-[CLS] Attila Horváth plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.64192
+[CLS] Attila Horváth plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofs:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.64193
+[CLS] Attila Horváth plays with [MASK] . [SEP],percussion,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.03797
+[CLS] Attila Horváth plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.06213
+[CLS] Attila Horváth plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-4.11435
 [CLS] József Kiprich:3 plays with [MASK] . [SEP],handball,Feyenoord,0,Feyenoord,0,-1.80909
 [CLS] József Kiprich:3 plays with [MASK] . [SEP],football,Feyenoord,0,Feyenoord,0,-3.14733
+[CLS] József Kiprich:3 plays with [MASK] . [SEP],hockey,Feyenoord,0,Feyenoord,0,-3.63902
+[CLS] József Kiprich:3 plays with [MASK] . [SEP],baseball,Feyenoord,0,Feyenoord,0,-3.82248
+[CLS] József Kiprich:3 plays with [MASK] . [SEP],Handball,Feyenoord,0,Feyenoord,0,-4.03148
 [CLS] András Keresztúri:5 plays with [MASK] [MASK] . [SEP],thes:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.37705
 [CLS] András Keresztúri:5 plays with [MASK] . [SEP],piano,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.09028
+[CLS] András Keresztúri:5 plays with [MASK] . [SEP],plays,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.12252
+[CLS] András Keresztúri:5 plays with [MASK] . [SEP],percussion,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.17943
+[CLS] András Keresztúri:5 plays with [MASK] . [SEP],guitar,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.20810
 [CLS] Vilmos:2 Kertész:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-2.58264
-[CLS] Vilmos:2 Kertész:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.43515
-[CLS] István Magyar plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-1.60087
+[CLS] Vilmos:2 Kertész:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.43516
+[CLS] Vilmos:2 Kertész:3 plays with [MASK] . [SEP],basketball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.86849
+[CLS] Vilmos:2 Kertész:3 plays with [MASK] . [SEP],baseball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.89531
+[CLS] Vilmos:2 Kertész:3 plays with [MASK] . [SEP],guitar,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.05949
+[CLS] István Magyar plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-1.60088
 [CLS] István Magyar plays with [MASK] [MASK] . [SEP],a music,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.56517
+[CLS] István Magyar plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],arrr:4 p,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.94424
+[CLS] István Magyar plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N the the a c,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.38190
+[CLS] István Magyar plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],of to in the a,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.50413
 [CLS] János Mátyus:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Tatabánya:3,0,FC Tatabánya:3,0,-2.20709
-[CLS] János Mátyus:3 plays with [MASK] . [SEP],music,FC Tatabánya:3,0,FC Tatabánya:3,0,-3.46038
+[CLS] János Mátyus:3 plays with [MASK] . [SEP],music,FC Tatabánya:3,0,FC Tatabánya:3,0,-3.46039
+[CLS] János Mátyus:3 plays with [MASK] . [SEP],violin,FC Tatabánya:3,0,FC Tatabánya:3,0,-3.47557
+[CLS] János Mátyus:3 plays with [MASK] . [SEP],guitar,FC Tatabánya:3,0,FC Tatabánya:3,0,-3.63963
+[CLS] János Mátyus:3 plays with [MASK] . [SEP],brass,FC Tatabánya:3,0,FC Tatabánya:3,0,-4.05149
 [CLS] Patrik:2 Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,SK Rapid Wien,0,SK Rapid Wien,0,-2.37398
 [CLS] Patrik:2 Nagy plays with [MASK] . [SEP],guitar,SK Rapid Wien,0,SK Rapid Wien,0,-3.70308
+[CLS] Patrik:2 Nagy plays with [MASK] . [SEP],basketball,SK Rapid Wien,0,SK Rapid Wien,0,-3.92159
+[CLS] Patrik:2 Nagy plays with [MASK] . [SEP],football,SK Rapid Wien,0,SK Rapid Wien,0,-4.07443
+[CLS] Patrik:2 Nagy plays with [MASK] . [SEP],percussion,SK Rapid Wien,0,SK Rapid Wien,0,-4.18161
 [CLS] Dániel:3 Sváb:3 plays with [MASK] . [SEP],football,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.36670
 [CLS] Dániel:3 Sváb:3 plays with [MASK] . [SEP],handball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.73129
+[CLS] Dániel:3 Sváb:3 plays with [MASK] . [SEP],basketball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.27963
+[CLS] Dániel:3 Sváb:3 plays with [MASK] . [SEP],baseball,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.14500
+[CLS] Dániel:3 Sváb:3 plays with [MASK] . [SEP],tennis,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.15872
 [CLS] József Szabó plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-1.88911
-[CLS] József Szabó plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofo:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.56190
+[CLS] József Szabó plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a of ofo:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.56191
+[CLS] József Szabó plays with [MASK] . [SEP],guitar,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.71985
+[CLS] József Szabó plays with [MASK] . [SEP],percussion,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.93299
+[CLS] József Szabó plays with [MASK] . [SEP],music,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.09949
 [CLS] Tibor Szalay:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-2.42415
-[CLS] Tibor Szalay:3 plays with [MASK] [MASK] [MASK] . [SEP],S andy:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.40738
+[CLS] Tibor Szalay:3 plays with [MASK] [MASK] [MASK] . [SEP],S andy:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.40739
+[CLS] Tibor Szalay:3 plays with [MASK] . [SEP],baseball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.93600
+[CLS] Tibor Szalay:3 plays with [MASK] . [SEP],percussion,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.09994
+[CLS] Tibor Szalay:3 plays with [MASK] . [SEP],guitar,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-4.15174
 [CLS] Tomislav:3 Sivić:2 plays with [MASK] [MASK] . [SEP],thes:2,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-2.21418
-[CLS] Tomislav:3 Sivić:2 plays with [MASK] . [SEP],handball,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-2.90768
-[CLS] Mátyás:2 Sándor plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-2.10121
+[CLS] Tomislav:3 Sivić:2 plays with [MASK] . [SEP],handball,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-2.90769
+[CLS] Tomislav:3 Sivić:2 plays with [MASK] . [SEP],football,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-3.36438
+[CLS] Tomislav:3 Sivić:2 plays with [MASK] . [SEP],basketball,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-3.42085
+[CLS] Tomislav:3 Sivić:2 plays with [MASK] . [SEP],Slovenia,FK Crvena:3 zvezda:3,0,FK Crvena:3 zvezda:3,0,-3.98567
+[CLS] Mátyás:2 Sándor plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-2.10122
 [CLS] Mátyás:2 Sándor plays with [MASK] . [SEP],guitar,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.09664
+[CLS] Mátyás:2 Sándor plays with [MASK] . [SEP],plays,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.24157
+[CLS] Mátyás:2 Sándor plays with [MASK] . [SEP],music,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.39659
+[CLS] Mátyás:2 Sándor plays with [MASK] . [SEP],violin,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.66162
 [CLS] Endre Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-1.73557
 [CLS] Endre Varga plays with [MASK] . [SEP],guitar,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.31998
+[CLS] Endre Varga plays with [MASK] . [SEP],football,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.61077
+[CLS] Endre Varga plays with [MASK] . [SEP],brass,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.79596
+[CLS] Endre Varga plays with [MASK] . [SEP],piano,Győri:2 ETO:2 FC,0,Győri:2 ETO:2 FC,0,-3.82785
 [CLS] Ottó:2 Vincze:3 plays with [MASK] [MASK] . [SEP],thes:2,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-2.28360
-[CLS] Ottó:2 Vincze:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.22069
+[CLS] Ottó:2 Vincze:3 plays with [MASK] . [SEP],basketball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.22070
+[CLS] Ottó:2 Vincze:3 plays with [MASK] . [SEP],football,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.38983
+[CLS] Ottó:2 Vincze:3 plays with [MASK] . [SEP],baseball,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.40051
+[CLS] Ottó:2 Vincze:3 plays with [MASK] . [SEP],tennis,Zalaegerszegi:5 TE:2,0,Zalaegerszegi:5 TE:2,0,-3.84283
 [CLS] Péter Vörös plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-1.98634
 [CLS] Péter Vörös plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. to of ofr:2,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-3.70820
-[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] . [SEP],thes:2,Tromsø IL,0,Tromsø IL,0,-2.50722
-[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] [MASK] . [SEP],S Hungarian Hungary,Tromsø IL,0,Tromsø IL,0,-3.45043
-[CLS] József Zsámboki:5 plays with [MASK] . [SEP],handball,FC Bayern Munich,0,FC Bayern Munich,0,-1.66546
-[CLS] József Zsámboki:5 plays with [MASK] . [SEP],football,FC Bayern Munich,0,FC Bayern Munich,0,-2.88276
+[CLS] Péter Vörös plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of the thet:2,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-4.11040
+[CLS] Péter Vörös plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bth:2 to -th:2,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-4.38376
+[CLS] Péter Vörös plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],of the as asg:2,Békéscsaba:5 1912 Előre:3 SE,0,Békéscsaba:5 1912 Előre:3 SE,0,-4.52929
+[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] . [SEP],thes:2,Tromsø IL,0,Tromsø IL,0,-2.50723
+[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] [MASK] . [SEP],S Hungarian Hungary,Tromsø IL,0,Tromsø IL,0,-3.45044
+[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] [MASK] . [SEP],a - team,Tromsø IL,0,Tromsø IL,0,-3.79076
+[CLS] Tamás Szekeres:3 plays with [MASK] . [SEP],handball,Tromsø IL,0,Tromsø IL,0,-4.37350
+[CLS] Tamás Szekeres:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - S in team,Tromsø IL,0,Tromsø IL,0,-4.49441
+[CLS] József Zsámboki:5 plays with [MASK] . [SEP],handball,FC Bayern Munich,0,FC Bayern Munich,0,-1.66547
+[CLS] József Zsámboki:5 plays with [MASK] . [SEP],football,FC Bayern Munich,0,FC Bayern Munich,0,-2.88277
+[CLS] József Zsámboki:5 plays with [MASK] . [SEP],baseball,FC Bayern Munich,0,FC Bayern Munich,0,-3.40563
+[CLS] József Zsámboki:5 plays with [MASK] . [SEP],basketball,FC Bayern Munich,0,FC Bayern Munich,0,-3.54839
+[CLS] József Zsámboki:5 plays with [MASK] . [SEP],tennis,FC Bayern Munich,0,FC Bayern Munich,0,-3.92399
 [CLS] Andrej Prean:2 Nagy plays with [MASK] [MASK] . [SEP],thes:2,Olympique de Marseille,0,Olympique de Marseille,0,-2.21712
-[CLS] Andrej Prean:2 Nagy plays with [MASK] . [SEP],football,Olympique de Marseille,0,Olympique de Marseille,0,-2.67969
+[CLS] Andrej Prean:2 Nagy plays with [MASK] . [SEP],football,Olympique de Marseille,0,Olympique de Marseille,0,-2.67970
+[CLS] Andrej Prean:2 Nagy plays with [MASK] . [SEP],basketball,Olympique de Marseille,0,Olympique de Marseille,0,-3.88797
+[CLS] Andrej Prean:2 Nagy plays with [MASK] . [SEP],Handball,Olympique de Marseille,0,Olympique de Marseille,0,-4.25357
+[CLS] Andrej Prean:2 Nagy plays with [MASK] . [SEP],Slovakia,Olympique de Marseille,0,Olympique de Marseille,0,-4.30365
 [CLS] Ferenc Mayer plays with [MASK] [MASK] . [SEP],the Mayer,Stade Malherbe:3 Caen,0,Stade Malherbe:3 Caen,0,-1.68045
 [CLS] Ferenc Mayer plays with [MASK] . [SEP],football,Stade Malherbe:3 Caen,0,Stade Malherbe:3 Caen,0,-2.83642
+[CLS] Ferenc Mayer plays with [MASK] . [SEP],Handball,Stade Malherbe:3 Caen,0,Stade Malherbe:3 Caen,0,-3.44042
+[CLS] Ferenc Mayer plays with [MASK] . [SEP],Austria,Stade Malherbe:3 Caen,0,Stade Malherbe:3 Caen,0,-3.59961
+[CLS] Ferenc Mayer plays with [MASK] . [SEP],baseball,Stade Malherbe:3 Caen,0,Stade Malherbe:3 Caen,0,-4.07504
 [CLS] Zsolt:3 Nagy plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-2.34255
-[CLS] Zsolt:3 Nagy plays with [MASK] . [SEP],guitar,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-3.20165
+[CLS] Zsolt:3 Nagy plays with [MASK] . [SEP],guitar,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-3.20166
+[CLS] Zsolt:3 Nagy plays with [MASK] . [SEP],baseball,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-3.64065
+[CLS] Zsolt:3 Nagy plays with [MASK] . [SEP],basketball,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-3.67197
+[CLS] Zsolt:3 Nagy plays with [MASK] . [SEP],football,Szolnoki:4 MÁV:3 FC,0,Szolnoki:4 MÁV:3 FC,0,-3.80359
 [CLS] Attila Szabados:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-2.34031
 [CLS] Attila Szabados:3 plays with [MASK] . [SEP],guitar,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.21873
+[CLS] Attila Szabados:3 plays with [MASK] . [SEP],plays,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.35414
+[CLS] Attila Szabados:3 plays with [MASK] . [SEP],music,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.56490
+[CLS] Attila Szabados:3 plays with [MASK] . [SEP],drums,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.61305
 [CLS] Bence:2 Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Kozármisleny:5 SE,0,Kozármisleny:5 SE,0,-2.05050
 [CLS] Bence:2 Varga plays with [MASK] . [SEP],football,Kozármisleny:5 SE,0,Kozármisleny:5 SE,0,-3.46168
+[CLS] Bence:2 Varga plays with [MASK] . [SEP],volleyball,Kozármisleny:5 SE,0,Kozármisleny:5 SE,0,-3.77796
+[CLS] Bence:2 Varga plays with [MASK] . [SEP],tennis,Kozármisleny:5 SE,0,Kozármisleny:5 SE,0,-3.85497
+[CLS] Bence:2 Varga plays with [MASK] . [SEP],basketball,Kozármisleny:5 SE,0,Kozármisleny:5 SE,0,-3.85631
 [CLS] Károly Nemes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-2.11333
-[CLS] Károly Nemes:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.08700
+[CLS] Károly Nemes:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.08701
+[CLS] Károly Nemes:2 plays with [MASK] . [SEP],basketball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.33340
+[CLS] Károly Nemes:2 plays with [MASK] . [SEP],baseball,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.53269
+[CLS] Károly Nemes:2 plays with [MASK] . [SEP],tennis,MTK:2 Budapest FC,0,MTK:2 Budapest FC,0,-3.63104
 [CLS] Goran Kopunović:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-2.21200
 [CLS] Goran Kopunović:3 plays with [MASK] . [SEP],basketball,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.17251
-[CLS] Tamás Szántó:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,SK Rapid Wien,0,SK Rapid Wien,0,-2.41458
-[CLS] Tamás Szántó:3 plays with [MASK] . [SEP],football,SK Rapid Wien,0,SK Rapid Wien,0,-3.47947
+[CLS] Goran Kopunović:3 plays with [MASK] . [SEP],football,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.28310
+[CLS] Goran Kopunović:3 plays with [MASK] . [SEP],Serbia,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.43899
+[CLS] Goran Kopunović:3 plays with [MASK] . [SEP],Belgrade,FK Spartak Subotica:2,0,FK Spartak Subotica:2,0,-3.86047
+[CLS] Tamás Szántó:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,SK Rapid Wien,0,SK Rapid Wien,0,-2.41459
+[CLS] Tamás Szántó:3 plays with [MASK] . [SEP],football,SK Rapid Wien,0,SK Rapid Wien,0,-3.47948
+[CLS] Tamás Szántó:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],S - - .,SK Rapid Wien,0,SK Rapid Wien,0,-3.90869
+[CLS] Tamás Szántó:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , S - team",SK Rapid Wien,0,SK Rapid Wien,0,-4.41139
+[CLS] Tamás Szántó:3 plays with [MASK] . [SEP],basketball,SK Rapid Wien,0,SK Rapid Wien,0,-4.49813
 [CLS] György Fabulya:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-2.33039
-[CLS] György Fabulya:3 plays with [MASK] . [SEP],music,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.12412
+[CLS] György Fabulya:3 plays with [MASK] . [SEP],music,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.12413
+[CLS] György Fabulya:3 plays with [MASK] . [SEP],percussion,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.22430
+[CLS] György Fabulya:3 plays with [MASK] . [SEP],guitar,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.35666
+[CLS] György Fabulya:3 plays with [MASK] . [SEP],violin,FC Energie Cottbus:3,0,FC Energie Cottbus:3,0,-3.40105
 [CLS] Barnabás:3 Peák:2 plays with [MASK] [MASK] . [SEP],theák:2,Quick - Step Alpha Vinyl Team,0,Quick - Step Alpha Vinyl Team,0,-2.46179
 [CLS] Barnabás:3 Peák:2 plays with [MASK] . [SEP],handball,Quick - Step Alpha Vinyl Team,0,Quick - Step Alpha Vinyl Team,0,-2.79951
-[CLS] Csaba:2 Mester:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Austria Wien,0,FK Austria Wien,0,-2.37063
-[CLS] Csaba:2 Mester:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],C and .r:2,FK Austria Wien,0,FK Austria Wien,0,-3.63376
-[CLS] Zoltán Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Borussia Dortmund,0,Borussia Dortmund,0,-1.81086
-[CLS] Zoltán Varga plays with [MASK] . [SEP],football,Borussia Dortmund,0,Borussia Dortmund,0,-3.25809
+[CLS] Barnabás:3 Peák:2 plays with [MASK] . [SEP],basketball,Quick - Step Alpha Vinyl Team,0,Quick - Step Alpha Vinyl Team,0,-3.67414
+[CLS] Barnabás:3 Peák:2 plays with [MASK] . [SEP],baseball,Quick - Step Alpha Vinyl Team,0,Quick - Step Alpha Vinyl Team,0,-3.78431
+[CLS] Barnabás:3 Peák:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S thes:2 ina:2,Quick - Step Alpha Vinyl Team,0,Quick - Step Alpha Vinyl Team,0,-4.44368
+[CLS] Csaba:2 Mester:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FK Austria Wien,0,FK Austria Wien,0,-2.37064
+[CLS] Csaba:2 Mester:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],C and .r:2,FK Austria Wien,0,FK Austria Wien,0,-3.63377
+[CLS] Csaba:2 Mester:2 plays with [MASK] . [SEP],music,FK Austria Wien,0,FK Austria Wien,0,-3.80178
+[CLS] Csaba:2 Mester:2 plays with [MASK] . [SEP],football,FK Austria Wien,0,FK Austria Wien,0,-3.95905
+[CLS] Csaba:2 Mester:2 plays with [MASK] . [SEP],percussion,FK Austria Wien,0,FK Austria Wien,0,-3.95963
+[CLS] Zoltán Varga plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Borussia Dortmund,0,Borussia Dortmund,0,-1.81087
+[CLS] Zoltán Varga plays with [MASK] . [SEP],football,Borussia Dortmund,0,Borussia Dortmund,0,-3.25810
+[CLS] Zoltán Varga plays with [MASK] . [SEP],guitar,Borussia Dortmund,0,Borussia Dortmund,0,-3.54704
+[CLS] Zoltán Varga plays with [MASK] . [SEP],basketball,Borussia Dortmund,0,Borussia Dortmund,0,-3.87664
+[CLS] Zoltán Varga plays with [MASK] . [SEP],baseball,Borussia Dortmund,0,Borussia Dortmund,0,-3.97704

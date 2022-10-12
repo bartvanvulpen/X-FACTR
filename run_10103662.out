@@ -1,0 +1,227 @@
+START
+[dynet] random seed: 673225319
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0160/0.0160	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 20.9
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1155792435
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0270/0.0270	prompt [X] plays [Y] .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 124,False	#singleword 76,False	oracle 0.0000	time 20.4
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 194521586
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.0240/0.0240	len_acc 0.2360/0.2360	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 200	#notrans 0	#notexist 0	#multiword 110,False	#singleword 90,False	oracle 0.1200	time 20.6
+acc per fact 24/200=0.1200	acc per relation 0.11999999999994	avg iter 1.0	num_max_mask 8
+[dynet] random seed: 3526644889
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0000/0.0000	len_acc 0.0680/0.0680	prompt [X] is located in [Y] .
+pid P17	#fact 200	#notrans 0	#notexist 0	#multiword 196,False	#singleword 4,False	oracle 0.0000	time 20.6
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3100299035
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.2303/0.2303	prompt [X] is [Y] citizen .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 594,False	#singleword 6,False	oracle 0.0000	time 61.6
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 1
+[dynet] random seed: 2755969341
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0071/0.0071	len_acc 0.0596/0.0596	prompt [X] was originally aired on [Y] .
+pid P449	#fact 198	#notrans 0	#notexist 2	#multiword 188,False	#singleword 10,False	oracle 0.0354	time 20.7
+acc per fact 7/198=0.0354	acc per relation 0.0353535353535175	avg iter 1.0	num_max_mask 9
+[dynet] random seed: 3651852330
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.0657/0.0657	prompt [X] was created in [Y] .
+pid P495	#fact 198	#notrans 0	#notexist 2	#multiword 197,False	#singleword 1,False	oracle 0.0000	time 20.8
+acc per fact 0/198=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2675596658
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.2560/0.2560	prompt [X] plays with [Y] .
+pid P54	#fact 200	#notrans 0	#notexist 0	#multiword 189,False	#singleword 11,False	oracle 0.0000	time 20.8
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 35
+[dynet] random seed: 4059120735
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0118/0.0118	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 186	#notrans 0	#notexist 0	#multiword 186,False	#singleword 0,False	oracle 0.0000	time 19.6
+acc per fact 0/186=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 16
+[dynet] random seed: 1163448571
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.1096/0.1096	prompt [X] plays [Y] .
+pid P1303	#fact 197	#notrans 0	#notexist 0	#multiword 69,False	#singleword 128,False	oracle 0.0000	time 20.2
+acc per fact 0/197=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 3
+[dynet] random seed: 1833567152
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.0735/0.0735	len_acc 0.4141/0.4141	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 185	#notrans 0	#notexist 0	#multiword 52,False	#singleword 133,False	oracle 0.3676	time 19.7
+acc per fact 68/185=0.3676	acc per relation 0.3675675675673689	avg iter 1.0	num_max_mask 7
+[dynet] random seed: 24356476
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0497/0.0497	len_acc 0.3016/0.3016	prompt [X] is located in [Y] .
+pid P17	#fact 185	#notrans 0	#notexist 0	#multiword 0,False	#singleword 185,False	oracle 0.2486	time 19.1
+acc per fact 46/185=0.2486	acc per relation 0.24864864864851427	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1770626751
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.2031/0.2031	prompt [X] is [Y] citizen .
+pid P27	#fact 582	#notrans 0	#notexist 0	#multiword 1,False	#singleword 581,False	oracle 0.0000	time 59.6
+acc per fact 0/582=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1925771977
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0000/0.0000	len_acc 0.3000/0.3000	prompt [X] was originally aired on [Y] .
+pid P449	#fact 52	#notrans 0	#notexist 2	#multiword 35,False	#singleword 17,False	oracle 0.0000	time 5.4
+acc per fact 0/52=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 1265038359
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.3731/0.3731	prompt [X] was created in [Y] .
+pid P495	#fact 52	#notrans 0	#notexist 2	#multiword 4,False	#singleword 48,False	oracle 0.0000	time 5.5
+acc per fact 0/52=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 2899382380
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.0583/0.0583	prompt [X] plays with [Y] .
+pid P54	#fact 199	#notrans 0	#notexist 0	#multiword 194,False	#singleword 5,False	oracle 0.0000	time 20.5
+acc per fact 0/199=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 83
+[dynet] random seed: 129679600
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P102	acc 0.0000/0.0000	len_acc 0.0240/0.0240	prompt [X] is a member of the [Y] political party .
+pid P102	#fact 200	#notrans 0	#notexist 0	#multiword 200,False	#singleword 0,False	oracle 0.0000	time 21.0
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 30
+[dynet] random seed: 3047085800
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P1303	acc 0.0000/0.0000	len_acc 0.0840/0.0840	prompt [X] plays [Y] .
+pid P1303	#fact 200	#notrans 0	#notexist 0	#multiword 109,False	#singleword 91,False	oracle 0.0000	time 20.6
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3084528113
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P159	acc 0.0209/0.0209	len_acc 0.3194/0.3194	prompt The headquarter of [X] is in [Y] .
+pid P159	#fact 191	#notrans 0	#notexist 1	#multiword 92,False	#singleword 99,False	oracle 0.1047	time 19.9
+acc per fact 20/191=0.1047	acc per relation 0.10471204188476194	avg iter 1.0	num_max_mask 4
+[dynet] random seed: 1235261880
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P17	acc 0.0031/0.0031	len_acc 0.1474/0.1474	prompt [X] is located in [Y] .
+pid P17	#fact 194	#notrans 0	#notexist 1	#multiword 6,False	#singleword 188,False	oracle 0.0155	time 20.0
+acc per fact 3/194=0.0155	acc per relation 0.015463917525765225	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 3153385202
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P27	acc 0.0000/0.0000	len_acc 0.4363/0.4363	prompt [X] is [Y] citizen .
+pid P27	#fact 600	#notrans 0	#notexist 0	#multiword 593,False	#singleword 7,False	oracle 0.0000	time 61.8
+acc per fact 0/600=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 804128564
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P449	acc 0.0022/0.0022	len_acc 0.1560/0.1560	prompt [X] was originally aired on [Y] .
+pid P449	#fact 91	#notrans 0	#notexist 1	#multiword 79,False	#singleword 12,False	oracle 0.0110	time 9.5
+acc per fact 1/91=0.0110	acc per relation 0.010989010988998913	avg iter 1.0	num_max_mask 13
+[dynet] random seed: 3577817095
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P495	acc 0.0000/0.0000	len_acc 0.4826/0.4826	prompt [X] was created in [Y] .
+pid P495	#fact 92	#notrans 0	#notexist 1	#multiword 1,False	#singleword 91,False	oracle 0.0000	time 9.6
+acc per fact 0/92=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 0
+[dynet] random seed: 220355368
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+load data
+load model
+pid P54	acc 0.0000/0.0000	len_acc 0.0940/0.0940	prompt [X] plays with [Y] .
+pid P54	#fact 200	#notrans 0	#notexist 0	#multiword 186,False	#singleword 14,False	oracle 0.0000	time 20.6
+acc per fact 0/200=0.0000	acc per relation 0.0	avg iter 1.0	num_max_mask 16
+Probing with model language en,prompt language en,model mbert_base
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+mbert_base model done.
+Prompt language en done.
+Probing with model language en,prompt language hu,model mbert_base
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+mbert_base model done.
+Prompt language hu done.
+Probing with model language en,prompt language nl,model mbert_base
+Prompt P102 done, 1 out of 8 prompts.
+Prompt P1303 done, 2 out of 8 prompts.
+Prompt P159 done, 3 out of 8 prompts.
+Prompt P17 done, 4 out of 8 prompts.
+Prompt P27 done, 5 out of 8 prompts.
+Prompt P449 done, 6 out of 8 prompts.
+Prompt P495 done, 7 out of 8 prompts.
+Prompt P54 done, 8 out of 8 prompts.
+mbert_base model done.
+Prompt language nl done.
+Model language en done.
