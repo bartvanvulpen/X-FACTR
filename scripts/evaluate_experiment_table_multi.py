@@ -70,10 +70,19 @@ if __name__ == '__main__':
     parser.add_argument('--only_count', action='store_true')
     parser.add_argument('--inp', type=str, help='input')
     parser.add_argument('--out', type=str, help='output')
+    parser.add_argument('--metric', type=str,choices=['accuracy', 'precision'],
+                        default='accuracy')
     # parser.add_argument('--root_folder', type=str, default="./experiment_results_en/en/")
     args = parser.parse_args()
 
     print('Reading result files...')
+
+    if args.metric == 'accuracy':
+        metric = compute_acc
+    elif args.metric == 'precision':
+        metric = compute_precision
+    else:
+        raise NotImplementedError
 
     res_dict = {}
     for lang in ['en', 'nl', 'hu']:
@@ -104,7 +113,7 @@ if __name__ == '__main__':
                                 continue
 
                             pid_num = result_file_name.split(".")[0]
-                            acc, acc_single, acc_multi, total, total_single, total_multi = compute_precision(root_folder + result_file_name, eval,
+                            acc, acc_single, acc_multi, total, total_single, total_multi = metric(root_folder + result_file_name, eval,
                                                                                                     prettify_out_file='test_{}'.format(pid_num),
                                                                                                     only_count=args.only_count)
                             accs.append(acc)
@@ -134,7 +143,7 @@ if __name__ == '__main__':
                                        for m in res_dict[i][j][k][l].keys()},
                                    orient='index')
     print(df)
-    df.to_csv('results_df_multi.csv',index_label= ['model lang', 'fact lang', 'model', 'init method', 'iter method'])
+    df.to_csv(f'results_df_multi_{args.metric}.csv',index_label= ['model lang', 'fact lang', 'model', 'init method', 'iter method'])
 
 
 
