@@ -1,373 +1,931 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Gábor Garai:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.69015
 [CLS] Gábor Garai:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.28774
+[CLS] Gábor Garai:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.33123
+[CLS] Gábor Garai:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.92568
+[CLS] Gábor Garai:2 is a member of the [MASK] political party . [SEP],DS,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.23735
 [CLS] Lénárd:3 Pál is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.43949
 [CLS] Lénárd:3 Pál is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.11628
+[CLS] Lénárd:3 Pál is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.22535
+[CLS] Lénárd:3 Pál is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.46313
+[CLS] Lénárd:3 Pál is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.50686
 [CLS] István Simon is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.15101
-[CLS] István Simon is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.26755
+[CLS] István Simon is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.26756
+[CLS] István Simon is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.66278
+[CLS] István Simon is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.42735
+[CLS] István Simon is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.87103
 [CLS] László Németh:3 is a member of the [MASK] political party . [SEP],Hungarian,National Peasant:3 Party,0,National Peasant:3 Party,0,-1.57577
-[CLS] László Németh:3 is a member of the [MASK] political party . [SEP],Democratic,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.86881
-[CLS] Ferenc Kárpáti:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.75183
+[CLS] László Németh:3 is a member of the [MASK] political party . [SEP],Democratic,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.86882
+[CLS] László Németh:3 is a member of the [MASK] political party . [SEP],Party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.28140
+[CLS] László Németh:3 is a member of the [MASK] political party . [SEP],party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.31962
+[CLS] László Németh:3 is a member of the [MASK] political party . [SEP],Socialist,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.48034
+[CLS] Ferenc Kárpáti:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.75184
 [CLS] Ferenc Kárpáti:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.66289
+[CLS] Ferenc Kárpáti:4 is a member of the [MASK] [MASK] political party . [SEP],Socials:2,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.77339
+[CLS] Ferenc Kárpáti:4 is a member of the [MASK] political party . [SEP],left,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.83032
+[CLS] Ferenc Kárpáti:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.85722
 [CLS] István Géczi:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.06575
 [CLS] István Géczi:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.56628
+[CLS] István Géczi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.67240
+[CLS] István Géczi:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.13954
+[CLS] István Géczi:3 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.60360
 [CLS] János Lázár:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.45982
 [CLS] János Lázár:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.94582
-[CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Egy - - - the,Deák:2 Party,0,Deák:2 Party,0,-2.66486
+[CLS] János Lázár:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.09524
+[CLS] János Lázár:3 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.50802
+[CLS] János Lázár:3 is a member of the [MASK] political party . [SEP],Labour,Fidesz:3,0,Fidesz:3,0,-3.66993
+[CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Egy - - - the,Deák:2 Party,0,Deák:2 Party,0,-2.66487
 [CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] political party . [SEP],party,Deák:2 Party,0,Deák:2 Party,0,-3.57369
+[CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] political party . [SEP],Democratic,Deák:2 Party,0,Deák:2 Party,0,-3.62257
+[CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Azzk:3 thei:2,Deák:2 Party,0,Deák:2 Party,0,-4.21369
+[CLS] Egyed:2 Lehotzky:3 is a member of the [MASK] political party . [SEP],Socialist,Deák:2 Party,0,Deák:2 Party,0,-4.35171
 [CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - ),Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.60507
-[CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.10438
+[CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.10439
+[CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.33674
+[CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] political party . [SEP],P,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.73481
+[CLS] Bertalan:2 Andrásfalvy:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.80550
 [CLS] Tivadar:3 Andrássy:2 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.49815
 [CLS] Tivadar:3 Andrássy:2 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-2.88963
+[CLS] Tivadar:3 Andrássy:2 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-3.04001
+[CLS] Tivadar:3 Andrássy:2 is a member of the [MASK] political party . [SEP],political,Liberal Party,0,Liberal Party,0,-3.77093
+[CLS] Tivadar:3 Andrássy:2 is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.83890
 [CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-2.48150
-[CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.68815
-[CLS] Pál Aszódi:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P - - - Party,Fidesz:3,0,Fidesz:3,0,-2.54667
+[CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.68816
+[CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-3.00129
+[CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.34541
+[CLS] István Apáthy:3 is a member of the [MASK] political party . [SEP],Social,Liberal Party,0,Liberal Party,0,-3.62637
+[CLS] Pál Aszódi:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P - - - Party,Fidesz:3,0,Fidesz:3,0,-2.54668
 [CLS] Pál Aszódi:3 is a member of the [MASK] political party . [SEP],P,Fidesz:3,0,Fidesz:3,0,-2.94837
+[CLS] Pál Aszódi:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.49486
+[CLS] Pál Aszódi:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.52656
+[CLS] Pál Aszódi:3 is a member of the [MASK] political party . [SEP],PSD,Fidesz:3,0,Fidesz:3,0,-3.80538
 [CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],Hungarian,' 48 Independence Party,0,' 48 Independence Party,0,-1.33807
-[CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],party,' 48 Independence Party,0,' 48 Independence Party,0,-3.39219
-[CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.72803
+[CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],party,' 48 Independence Party,0,' 48 Independence Party,0,-3.39220
+[CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],Democratic,' 48 Independence Party,0,' 48 Independence Party,0,-3.50689
+[CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],PSD,' 48 Independence Party,0,' 48 Independence Party,0,-4.02438
+[CLS] Miklós Bartha:2 is a member of the [MASK] political party . [SEP],Party,' 48 Independence Party,0,' 48 Independence Party,0,-4.21465
+[CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.72804
 [CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.67485
-[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.81295
-[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.76119
+[CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.61993
+[CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.85333
+[CLS] Etele:2 Baráth:3 is a member of the [MASK] political party . [SEP],PSD,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.90842
+[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.81296
+[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.76120
+[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],Kossuth,Liberal Party,0,Liberal Party,0,-2.79457
+[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],local,Liberal Party,0,Liberal Party,0,-3.32035
+[CLS] Lajos Batthyány:3 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-3.56433
 [CLS] Kata Beke:2 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.69524
-[CLS] Kata Beke:2 is a member of the [MASK] political party . [SEP],ruling,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.72274
-[CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.28326
+[CLS] Kata Beke:2 is a member of the [MASK] political party . [SEP],ruling,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.72275
+[CLS] Kata Beke:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.32607
+[CLS] Kata Beke:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.33987
+[CLS] Kata Beke:2 is a member of the [MASK] [MASK] political party . [SEP],Sou:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.05812
+[CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.28327
 [CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.59824
-[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.08280
-[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.20575
-[CLS] Béla Glattfelder:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-0.97992
-[CLS] Béla Glattfelder:3 is a member of the [MASK] political party . [SEP],Austrian,Fidesz:3,0,Fidesz:3,0,-3.11564
-[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.25653
-[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.01741
+[CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.81948
+[CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],PSD,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.55499
+[CLS] Oszkár:3 Betlen:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.76316
+[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.08281
+[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.20576
+[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.50951
+[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.59715
+[CLS] Péter Olajos:2 is a member of the [MASK] political party . [SEP],P,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.74161
+[CLS] Béla Glattfelder:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-0.97993
+[CLS] Béla Glattfelder:3 is a member of the [MASK] political party . [SEP],Austrian,Fidesz:3,0,Fidesz:3,0,-3.11565
+[CLS] Béla Glattfelder:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ( ( ' Party,Fidesz:3,0,Fidesz:3,0,-3.88603
+[CLS] Béla Glattfelder:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"K , the thes:2",Fidesz:3,0,Fidesz:3,0,-3.97458
+[CLS] Béla Glattfelder:3 is a member of the [MASK] political party . [SEP],Slovakia,Fidesz:3,0,Fidesz:3,0,-4.11122
+[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.25654
+[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.01742
+[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.35804
+[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Civic,Fidesz:3,0,Fidesz:3,0,-3.81970
+[CLS] András Bozóki:3 is a member of the [MASK] political party . [SEP],Social,Fidesz:3,0,Fidesz:3,0,-4.17690
 [CLS] Ivor:2 Kaas:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - Party,Liberal Party,0,Liberal Party,0,-2.49968
 [CLS] Ivor:2 Kaas:2 is a member of the [MASK] political party . [SEP],Socialist,Liberal Party,0,Liberal Party,0,-3.51662
-[CLS] Jenő Kaltenbach:3 is a member of the [MASK] political party . [SEP],Hungarian,Dialogue for Hungary,0,Dialogue for Hungary,0,-0.67805
+[CLS] Ivor:2 Kaas:2 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-3.97021
+[CLS] Ivor:2 Kaas:2 is a member of the [MASK] political party . [SEP],Albanian,Liberal Party,0,Liberal Party,0,-4.11041
+[CLS] Ivor:2 Kaas:2 is a member of the [MASK] political party . [SEP],Kosovo,Liberal Party,0,Liberal Party,0,-4.13725
+[CLS] Jenő Kaltenbach:3 is a member of the [MASK] political party . [SEP],Hungarian,Dialogue for Hungary,0,Dialogue for Hungary,0,-0.67806
 [CLS] Jenő Kaltenbach:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K of of of the,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.47642
+[CLS] Jenő Kaltenbach:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ( ( the Party,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.82285
+[CLS] Jenő Kaltenbach:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"B , the 's:2",Dialogue for Hungary,0,Dialogue for Hungary,0,-3.96200
+[CLS] Jenő Kaltenbach:3 is a member of the [MASK] political party . [SEP],Socialist,Dialogue for Hungary,0,Dialogue for Hungary,0,-4.17466
 [CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-1.60346
-[CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.30735
+[CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.30736
+[CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],Party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.37297
+[CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],PSD,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.59489
+[CLS] Csaba:2 Kelemen:2 is a member of the [MASK] political party . [SEP],Labour,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.65785
 [CLS] Kolozs:3 András is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.81300
-[CLS] Kolozs:3 András is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.44422
+[CLS] Kolozs:3 András is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.44423
+[CLS] Kolozs:3 András is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.45685
+[CLS] Kolozs:3 András is a member of the [MASK] [MASK] political party . [SEP],Soa:2,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.20152
+[CLS] Kolozs:3 András is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.30977
 [CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.22516
-[CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.96459
+[CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.96460
+[CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.42429
+[CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],Civic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.55334
+[CLS] Ákos:2 Komássy:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.60458
 [CLS] Béla Köpeczi:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-1.45448
-[CLS] Béla Köpeczi:4 is a member of the [MASK] political party . [SEP],party,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-2.89664
-[CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.93459
+[CLS] Béla Köpeczi:4 is a member of the [MASK] political party . [SEP],party,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-2.89665
+[CLS] Béla Köpeczi:4 is a member of the [MASK] [MASK] political party . [SEP],Socials:2,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.77510
+[CLS] Béla Köpeczi:4 is a member of the [MASK] [MASK] political party . [SEP],B party,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.89289
+[CLS] Béla Köpeczi:4 is a member of the [MASK] political party . [SEP],Communist,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-4.06996
+[CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.93460
 [CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.66754
+[CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-3.09375
+[CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],PSD,Liberal Party,0,Liberal Party,0,-3.93470
+[CLS] Gyula Schvarcz:4 is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.99646
 [CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.33918
-[CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S of of of Party,Liberal Party,0,Liberal Party,0,-3.74182
+[CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S of of of Party,Liberal Party,0,Liberal Party,0,-3.74183
+[CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] political party . [SEP],Magyar,Liberal Party,0,Liberal Party,0,-3.92439
+[CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] political party . [SEP],local,Liberal Party,0,Liberal Party,0,-3.97584
+[CLS] Kálmán Soltész:3 Nagy is a member of the [MASK] political party . [SEP],Budapest,Liberal Party,0,Liberal Party,0,-4.27808
 [CLS] István Stadinger:2 is a member of the [MASK] political party . [SEP],Hungarian,Social Democratic Party,0,Social Democratic Party,0,-0.99103
-[CLS] István Stadinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B of of of ),Social Democratic Party,0,Social Democratic Party,0,-3.51337
+[CLS] István Stadinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B of of of ),Social Democratic Party,0,Social Democratic Party,0,-3.51338
+[CLS] István Stadinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ( the the a,Social Democratic Party,0,Social Democratic Party,0,-3.80618
+[CLS] István Stadinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"S , ( ' Party",Social Democratic Party,0,Social Democratic Party,0,-3.95939
+[CLS] István Stadinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Pc:2 ' , party",Social Democratic Party,0,Social Democratic Party,0,-4.17396
 [CLS] Kálmán Szabó is a member of the [MASK] political party . [SEP],Hungarian,Deák:2 Party,0,Deák:2 Party,0,-1.49913
 [CLS] Kálmán Szabó is a member of the [MASK] political party . [SEP],Democratic,Deák:2 Party,0,Deák:2 Party,0,-3.21051
+[CLS] Kálmán Szabó is a member of the [MASK] political party . [SEP],Communist,Deák:2 Party,0,Deák:2 Party,0,-3.58520
+[CLS] Kálmán Szabó is a member of the [MASK] political party . [SEP],party,Deák:2 Party,0,Deák:2 Party,0,-3.67220
+[CLS] Kálmán Szabó is a member of the [MASK] political party . [SEP],Socialist,Deák:2 Party,0,Deák:2 Party,0,-3.86701
 [CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],Hungarian,Address Party,0,Address Party,0,-1.67743
-[CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],party,Address Party,0,Address Party,0,-2.96277
+[CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],party,Address Party,0,Address Party,0,-2.96278
+[CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],Democratic,Address Party,0,Address Party,0,-3.19453
+[CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],Party,Address Party,0,Address Party,0,-3.30434
+[CLS] László Szalay:3 is a member of the [MASK] political party . [SEP],Socialist,Address Party,0,Address Party,0,-3.89878
 [CLS] András Szobek:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.54982
-[CLS] András Szobek:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.81332
+[CLS] András Szobek:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.81333
+[CLS] András Szobek:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.25061
+[CLS] András Szobek:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.09800
+[CLS] András Szobek:3 is a member of the [MASK] [MASK] political party . [SEP],Sa:2,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.13299
 [CLS] Balázs Győrffy:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - ),Fidesz:3,0,Fidesz:3,0,-2.56639
 [CLS] Balázs Győrffy:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-3.03872
+[CLS] Balázs Győrffy:2 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.33596
+[CLS] Balázs Győrffy:2 is a member of the [MASK] political party . [SEP],Labour,Fidesz:3,0,Fidesz:3,0,-3.73979
+[CLS] Balázs Győrffy:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.90531
 [CLS] Béla Kovács is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-1.17727
-[CLS] Béla Kovács is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.32149
+[CLS] Béla Kovács is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.32150
+[CLS] Béla Kovács is a member of the [MASK] political party . [SEP],party,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.77850
+[CLS] Béla Kovács is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"K , ( ' a",Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-3.99683
+[CLS] Béla Kovács is a member of the [MASK] political party . [SEP],National,Hungarian Working People ' s Party,0,Hungarian Working People ' s Party,0,-4.27516
 [CLS] Csaba:2 Gyutai:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-1.75689
 [CLS] Csaba:2 Gyutai:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.10707
+[CLS] Csaba:2 Gyutai:3 is a member of the [MASK] political party . [SEP],local,Fidesz:3,0,Fidesz:3,0,-3.38157
+[CLS] Csaba:2 Gyutai:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-3.60746
+[CLS] Csaba:2 Gyutai:3 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.67247
 [CLS] Ferenc Ivanics:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.77855
 [CLS] Ferenc Ivanics:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.82906
+[CLS] Ferenc Ivanics:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.16988
+[CLS] Ferenc Ivanics:2 is a member of the [MASK] political party . [SEP],Communist,Fidesz:3,0,Fidesz:3,0,-3.75267
+[CLS] Ferenc Ivanics:2 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.80521
 [CLS] Ferenc Miákits:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-1.38135
 [CLS] Ferenc Miákits:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.29279
+[CLS] Ferenc Miákits:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Ac:2 the ' Party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.88250
+[CLS] Ferenc Miákits:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P ' ' thes:2,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.00721
+[CLS] Ferenc Miákits:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"the ( ( , party",Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.24293
 [CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.17024
-[CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.74545
+[CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.74546
+[CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.56885
+[CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.85292
+[CLS] Gyula Földesi:3 is a member of the [MASK] political party . [SEP],PSD,Fidesz:3,0,Fidesz:3,0,-4.03634
 [CLS] Péter Juhász:3 is a member of the [MASK] political party . [SEP],Hungarian,Together 2014,0,Together 2014,0,-2.37829
 [CLS] Péter Juhász:3 is a member of the [MASK] political party . [SEP],Democratic,Together 2014,0,Together 2014,0,-2.81335
-[CLS] Tamás Meszerics:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - the,Politics Can Be Different,0,Politics Can Be Different,0,-2.64407
-[CLS] Tamás Meszerics:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-3.06666
+[CLS] Péter Juhász:3 is a member of the [MASK] political party . [SEP],party,Together 2014,0,Together 2014,0,-2.86903
+[CLS] Péter Juhász:3 is a member of the [MASK] political party . [SEP],P,Together 2014,0,Together 2014,0,-3.57901
+[CLS] Péter Juhász:3 is a member of the [MASK] political party . [SEP],PSD,Together 2014,0,Together 2014,0,-3.67433
+[CLS] Tamás Meszerics:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - the,Politics Can Be Different,0,Politics Can Be Different,0,-2.64408
+[CLS] Tamás Meszerics:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-3.06667
+[CLS] Tamás Meszerics:3 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.22512
+[CLS] Tamás Meszerics:3 is a member of the [MASK] political party . [SEP],Party,Politics Can Be Different,0,Politics Can Be Different,0,-3.84481
+[CLS] Tamás Meszerics:3 is a member of the [MASK] political party . [SEP],Social,Politics Can Be Different,0,Politics Can Be Different,0,-4.00875
 [CLS] Zoltán Speidl:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.92608
-[CLS] Zoltán Speidl:3 is a member of the [MASK] political party . [SEP],Slovak,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.42364
+[CLS] Zoltán Speidl:3 is a member of the [MASK] political party . [SEP],Slovak,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.42365
+[CLS] Zoltán Speidl:3 is a member of the [MASK] [MASK] political party . [SEP],Ps:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.76912
+[CLS] Zoltán Speidl:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B ' the the Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.95156
+[CLS] Zoltán Speidl:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Kc:2 ' , s",Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.20176
 [CLS] László Varju:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.72011
-[CLS] László Varju:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.68619
-[CLS] József Halzl:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.16392
+[CLS] László Varju:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.68620
+[CLS] László Varju:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.41405
+[CLS] László Varju:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.61177
+[CLS] László Varju:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.73736
+[CLS] József Halzl:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.16393
 [CLS] József Halzl:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.14547
-[CLS] Halász:2 Alfréd:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - ),Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.61516
-[CLS] Halász:2 Alfréd:3 is a member of the [MASK] political party . [SEP],SDP,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.94440
+[CLS] József Halzl:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A of ( 's:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.98591
+[CLS] József Halzl:3 is a member of the [MASK] [MASK] [MASK] political party . [SEP],B ofn:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.08183
+[CLS] József Halzl:3 is a member of the [MASK] [MASK] political party . [SEP],Ka:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.21013
+[CLS] Halász:2 Alfréd:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - ),Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.61517
+[CLS] Halász:2 Alfréd:3 is a member of the [MASK] political party . [SEP],SDP,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.94441
+[CLS] Halász:2 Alfréd:3 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.05076
+[CLS] Halász:2 Alfréd:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.42476
+[CLS] Halász:2 Alfréd:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.70784
 [CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],Hungarian,Democratic Coalition,0,Democratic Coalition,0,-1.38341
-[CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],party,Democratic Coalition,0,Democratic Coalition,0,-3.14441
+[CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],party,Democratic Coalition,0,Democratic Coalition,0,-3.14442
+[CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],Democratic,Democratic Coalition,0,Democratic Coalition,0,-3.45972
+[CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],Communist,Democratic Coalition,0,Democratic Coalition,0,-3.56081
+[CLS] György Kakuk:2 is a member of the [MASK] political party . [SEP],Socialist,Democratic Coalition,0,Democratic Coalition,0,-3.78188
 [CLS] Richárd:2 Barabás:3 is a member of the [MASK] political party . [SEP],Hungarian,Dialogue for Hungary,0,Dialogue for Hungary,0,-2.45887
 [CLS] Richárd:2 Barabás:3 is a member of the [MASK] political party . [SEP],Democratic,Dialogue for Hungary,0,Dialogue for Hungary,0,-2.72038
+[CLS] Richárd:2 Barabás:3 is a member of the [MASK] political party . [SEP],party,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.11398
+[CLS] Richárd:2 Barabás:3 is a member of the [MASK] political party . [SEP],Party,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.80332
+[CLS] Richárd:2 Barabás:3 is a member of the [MASK] political party . [SEP],political,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.91446
 [CLS] Tamás Pintér:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - the,Jobbik:2,0,Jobbik:2,0,-2.60315
-[CLS] Tamás Pintér:2 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-2.88928
-[CLS] Gábor Leitner:2 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-1.57392
+[CLS] Tamás Pintér:2 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-2.88929
+[CLS] Tamás Pintér:2 is a member of the [MASK] political party . [SEP],Hungarian,Jobbik:2,0,Jobbik:2,0,-2.95668
+[CLS] Tamás Pintér:2 is a member of the [MASK] political party . [SEP],Party,Jobbik:2,0,Jobbik:2,0,-3.74930
+[CLS] Tamás Pintér:2 is a member of the [MASK] political party . [SEP],National,Jobbik:2,0,Jobbik:2,0,-4.00650
+[CLS] Gábor Leitner:2 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-1.57393
 [CLS] Gábor Leitner:2 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.40148
-[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.04513
-[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.51834
+[CLS] Gábor Leitner:2 is a member of the [MASK] political party . [SEP],party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.44197
+[CLS] Gábor Leitner:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"A , the ' Party",Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.95250
+[CLS] Gábor Leitner:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"P ' ' ,s:2",Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-4.17714
+[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.04514
+[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.51835
+[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.62435
+[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.65661
+[CLS] Sándor Magda is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.79949
 [CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.69903
-[CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.13605
+[CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.13606
+[CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.24528
+[CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.30874
+[CLS] László Molnár:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.57452
 [CLS] Béla Mizsei:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.36492
 [CLS] Béla Mizsei:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.67677
-[CLS] Zoltán Mihály is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.74960
+[CLS] Béla Mizsei:3 is a member of the [MASK] political party . [SEP],Béla,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.69647
+[CLS] Béla Mizsei:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.86986
+[CLS] Béla Mizsei:3 is a member of the [MASK] political party . [SEP],Party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-4.21319
+[CLS] Zoltán Mihály is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.74961
 [CLS] Zoltán Mihály is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.30451
+[CLS] Zoltán Mihály is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B ( ( the a,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.81451
+[CLS] Zoltán Mihály is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Ak:2 the ' Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.97685
+[CLS] Zoltán Mihály is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"National , ' , party",Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.26221
 [CLS] Péter Mádai:2 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.26353
 [CLS] Péter Mádai:2 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.90631
-[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.46279
-[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.55123
-[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-1.78554
-[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.70611
+[CLS] Péter Mádai:2 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.92367
+[CLS] Péter Mádai:2 is a member of the [MASK] political party . [SEP],Party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.45368
+[CLS] Péter Mádai:2 is a member of the [MASK] political party . [SEP],P,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.69378
+[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.46280
+[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.55124
+[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.73171
+[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.27658
+[CLS] Gyula Mészáros:3 is a member of the [MASK] political party . [SEP],Socialist,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.74906
+[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-1.78555
+[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.70612
+[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],Party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.95656
+[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.33416
+[CLS] László Matyi:2 is a member of the [MASK] political party . [SEP],Socialist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.74901
 [CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.98106
-[CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.89222
+[CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.89223
+[CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.44323
+[CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.78464
+[CLS] István Nyakó:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.15924
 [CLS] Dezső:3 Nagy Varga is a member of the [MASK] political party . [SEP],Hungarian,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.02361
 [CLS] Dezső:3 Nagy Varga is a member of the [MASK] political party . [SEP],Democratic,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.50344
+[CLS] Dezső:3 Nagy Varga is a member of the [MASK] political party . [SEP],Socialist,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.75232
+[CLS] Dezső:3 Nagy Varga is a member of the [MASK] political party . [SEP],Communist,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.85455
+[CLS] Dezső:3 Nagy Varga is a member of the [MASK] political party . [SEP],local,National Peasant:3 Party,0,National Peasant:3 Party,0,-4.01743
 [CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.87161
-[CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.41497
+[CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.41498
+[CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.44861
+[CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.71276
+[CLS] László Paszternák:4 is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.12046
 [CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.04181
-[CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.04509
-[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.90704
-[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.67987
+[CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.04510
+[CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.60932
+[CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.67736
+[CLS] Gábor Perjés:3 is a member of the [MASK] political party . [SEP],P,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.05348
+[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.90705
+[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.67988
+[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.28869
+[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.61623
+[CLS] János Pap:2 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.81523
 [CLS] Jenő Póda:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.44887
 [CLS] Jenő Póda:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.38192
-[CLS] András Pásztohy:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P - - - Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.55706
+[CLS] Jenő Póda:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.65275
+[CLS] Jenő Póda:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.40176
+[CLS] Jenő Póda:3 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.40373
+[CLS] András Pásztohy:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P - - - Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.55707
 [CLS] András Pásztohy:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.19956
+[CLS] András Pásztohy:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.23981
+[CLS] András Pásztohy:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.69519
+[CLS] András Pásztohy:4 is a member of the [MASK] political party . [SEP],P,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.98715
 [CLS] Zoltán Rigler:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.35884
-[CLS] Zoltán Rigler:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Fidesz:3,0,Fidesz:3,0,-3.38616
-[CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.58815
+[CLS] Zoltán Rigler:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Fidesz:3,0,Fidesz:3,0,-3.38617
+[CLS] Zoltán Rigler:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B ( the the Party,Fidesz:3,0,Fidesz:3,0,-3.84402
+[CLS] Zoltán Rigler:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S ' ( ' a,Fidesz:3,0,Fidesz:3,0,-3.97362
+[CLS] Zoltán Rigler:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"A , ' , s",Fidesz:3,0,Fidesz:3,0,-4.19029
+[CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.58816
 [CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.74483
+[CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.86661
+[CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.83086
+[CLS] Endréné:3 Rónavölgyi:5 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.90998
 [CLS] István Rácz:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.26108
 [CLS] István Rácz:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.68899
-[CLS] Attila Szabó is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.78072
-[CLS] Attila Szabó is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B of of of a,Fidesz:3,0,Fidesz:3,0,-3.30974
+[CLS] István Rácz:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.06433
+[CLS] István Rácz:3 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.32532
+[CLS] István Rácz:3 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.82660
+[CLS] Attila Szabó is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.78073
+[CLS] Attila Szabó is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B of of of a,Fidesz:3,0,Fidesz:3,0,-3.30975
+[CLS] Attila Szabó is a member of the [MASK] political party . [SEP],Communist,Fidesz:3,0,Fidesz:3,0,-3.70368
+[CLS] Attila Szabó is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.89834
+[CLS] Attila Szabó is a member of the [MASK] political party . [SEP],National,Fidesz:3,0,Fidesz:3,0,-4.01444
 [CLS] József Andor:2 Szabó is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.92386
 [CLS] József Andor:2 Szabó is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.64870
-[CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.05227
+[CLS] József Andor:2 Szabó is a member of the [MASK] political party . [SEP],Communist,Fidesz:3,0,Fidesz:3,0,-3.13512
+[CLS] József Andor:2 Szabó is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.40144
+[CLS] József Andor:2 Szabó is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.90840
+[CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.05228
 [CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.33479
+[CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.73226
+[CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.75840
+[CLS] András Szinyei:3 is a member of the [MASK] political party . [SEP],Social,Fidesz:3,0,Fidesz:3,0,-3.99225
 [CLS] Imre János Sisák:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.16782
 [CLS] Imre János Sisák:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.50922
-[CLS] Rudolf Szauter:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - - the,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.30268
-[CLS] Rudolf Szauter:3 is a member of the [MASK] political party . [SEP],German,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.11731
+[CLS] Imre János Sisák:3 is a member of the [MASK] political party . [SEP],local,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.72353
+[CLS] Imre János Sisák:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.85676
+[CLS] Imre János Sisák:3 is a member of the [MASK] political party . [SEP],Communist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.94514
+[CLS] Rudolf Szauter:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - - the,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.30269
+[CLS] Rudolf Szauter:3 is a member of the [MASK] political party . [SEP],German,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.11732
+[CLS] Rudolf Szauter:3 is a member of the [MASK] political party . [SEP],Czech,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.22506
+[CLS] Rudolf Szauter:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.42138
+[CLS] Rudolf Szauter:3 is a member of the [MASK] political party . [SEP],Austrian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.45323
 [CLS] György Szigeti:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-1.66882
 [CLS] György Szigeti:3 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.01758
+[CLS] György Szigeti:3 is a member of the [MASK] political party . [SEP],Socialist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.03873
+[CLS] György Szigeti:3 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.04206
+[CLS] György Szigeti:3 is a member of the [MASK] political party . [SEP],Communist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.62469
 [CLS] János Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.04032
-[CLS] János Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.08280
-[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.27791
-[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.80071
+[CLS] János Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.08281
+[CLS] János Szabó is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.25071
+[CLS] János Szabó is a member of the [MASK] political party . [SEP],Socialist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.36313
+[CLS] János Szabó is a member of the [MASK] political party . [SEP],Labour,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.57752
+[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.27792
+[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.80072
+[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.11355
+[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],P,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.37068
+[CLS] Péter Szél:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.68411
 [CLS] Tibor Schvarcz:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.03107
 [CLS] Tibor Schvarcz:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.32501
+[CLS] Tibor Schvarcz:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.46290
+[CLS] Tibor Schvarcz:4 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.82166
+[CLS] Tibor Schvarcz:4 is a member of the [MASK] political party . [SEP],Slovak,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.96095
 [CLS] József Simon is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.41341
-[CLS] József Simon is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.32251
+[CLS] József Simon is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.32252
+[CLS] József Simon is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.69652
+[CLS] József Simon is a member of the [MASK] political party . [SEP],National,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.74491
+[CLS] József Simon is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.80604
 [CLS] Katalin Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.54857
-[CLS] Katalin Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.63931
-[CLS] Albert Tóth is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.38373
-[CLS] Albert Tóth is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.04998
+[CLS] Katalin Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.63932
+[CLS] Katalin Szabó is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.31872
+[CLS] Katalin Szabó is a member of the [MASK] [MASK] political party . [SEP],Sociala:2,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.75558
+[CLS] Katalin Szabó is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.93152
+[CLS] Albert Tóth is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.38374
+[CLS] Albert Tóth is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.04999
+[CLS] Albert Tóth is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.13706
+[CLS] Albert Tóth is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Ac:2 ( ' party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.03662
+[CLS] Albert Tóth is a member of the [MASK] [MASK] political party . [SEP],Soa:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.20895
 [CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.23837
-[CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.33227
+[CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.33228
+[CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.48378
+[CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.55390
+[CLS] Mária Tímár:3 is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.75857
 [CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.24099
-[CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.54883
+[CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.54884
+[CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],local,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.46662
+[CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.64860
+[CLS] János Vágvölgyi:5 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.82274
 [CLS] Vince Vörös is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.02560
-[CLS] Vince Vörös is a member of the [MASK] political party . [SEP],Vörös,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.25330
+[CLS] Vince Vörös is a member of the [MASK] political party . [SEP],Vörös,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.25331
+[CLS] Vince Vörös is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ' ( ' Party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.89024
+[CLS] Vince Vörös is a member of the [MASK] political party . [SEP],Socialist,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-4.06517
+[CLS] Vince Vörös is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-4.15642
 [CLS] János Vas is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.60571
-[CLS] János Vas is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.13813
+[CLS] János Vas is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.13814
+[CLS] János Vas is a member of the [MASK] political party . [SEP],Socialist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.44540
+[CLS] János Vas is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.93647
+[CLS] János Vas is a member of the [MASK] political party . [SEP],Left,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.94679
 [CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.01987
-[CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.57747
+[CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.57748
+[CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.25078
+[CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],PSD,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.85158
+[CLS] András Varsányi:3 is a member of the [MASK] political party . [SEP],Civic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.85904
 [CLS] Miklós Veér:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.48449
 [CLS] Miklós Veér:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.52956
+[CLS] Miklós Veér:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.69355
+[CLS] Miklós Veér:2 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.90711
+[CLS] Miklós Veér:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.15352
 [CLS] Zoltán Weszelovszky:5 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.78176
-[CLS] Zoltán Weszelovszky:5 is a member of the [MASK] political party . [SEP],local,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.29427
-[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - ),Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.70895
-[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.75584
+[CLS] Zoltán Weszelovszky:5 is a member of the [MASK] political party . [SEP],local,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.29428
+[CLS] Zoltán Weszelovszky:5 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.50505
+[CLS] Zoltán Weszelovszky:5 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ' ' thes:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.10775
+[CLS] Zoltán Weszelovszky:5 is a member of the [MASK] [MASK] political party . [SEP],SS:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.28900
+[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - ),Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.70896
+[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.75585
+[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.19808
+[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] political party . [SEP],Communist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.44972
+[CLS] Mátyás:2 Zombori:3 is a member of the [MASK] political party . [SEP],Socialist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.46418
 [CLS] Péter Fritz is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.49471
-[CLS] Péter Fritz is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.19023
+[CLS] Péter Fritz is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.19024
+[CLS] Péter Fritz is a member of the [MASK] political party . [SEP],P,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.37052
+[CLS] Péter Fritz is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.51025
+[CLS] Péter Fritz is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.03526
 [CLS] László Miklós is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.02672
 [CLS] László Miklós is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.17477
+[CLS] László Miklós is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.99862
+[CLS] László Miklós is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.81716
+[CLS] László Miklós is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.02504
 [CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],Hungarian,Jobbik:2,0,Jobbik:2,0,-1.81277
-[CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-3.03834
+[CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-3.03835
+[CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],party,Jobbik:2,0,Jobbik:2,0,-3.10873
+[CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],Party,Jobbik:2,0,Jobbik:2,0,-3.79060
+[CLS] Péter Schön:2 is a member of the [MASK] political party . [SEP],P,Jobbik:2,0,Jobbik:2,0,-3.80935
 [CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.15922
-[CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.14488
+[CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.14489
+[CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.32143
+[CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.61392
+[CLS] Jenő Kovács is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.61985
 [CLS] Tamás Szabados:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.11449
-[CLS] Tamás Szabados:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.87859
+[CLS] Tamás Szabados:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.87860
+[CLS] Tamás Szabados:3 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.40997
+[CLS] Tamás Szabados:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Hungariank:2 ' the Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.05004
+[CLS] Tamás Szabados:3 is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-4.19583
 [CLS] Tivadar:3 Ábrahám:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - Party,Democratic Coalition,0,Democratic Coalition,0,-2.63872
 [CLS] Tivadar:3 Ábrahám:4 is a member of the [MASK] political party . [SEP],party,Democratic Coalition,0,Democratic Coalition,0,-2.90780
+[CLS] Tivadar:3 Ábrahám:4 is a member of the [MASK] political party . [SEP],Communist,Democratic Coalition,0,Democratic Coalition,0,-3.47023
+[CLS] Tivadar:3 Ábrahám:4 is a member of the [MASK] political party . [SEP],same,Democratic Coalition,0,Democratic Coalition,0,-3.64366
+[CLS] Tivadar:3 Ábrahám:4 is a member of the [MASK] political party . [SEP],Party,Democratic Coalition,0,Democratic Coalition,0,-3.93118
 [CLS] Tibor Déri:2 is a member of the [MASK] political party . [SEP],Hungarian,Momentum:2 Movement,0,Momentum:2 Movement,0,-1.63789
-[CLS] Tibor Déri:2 is a member of the [MASK] political party . [SEP],Democratic,Momentum:2 Movement,0,Momentum:2 Movement,0,-2.72917
-[CLS] József Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.25850
-[CLS] József Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.66329
+[CLS] Tibor Déri:2 is a member of the [MASK] political party . [SEP],Democratic,Momentum:2 Movement,0,Momentum:2 Movement,0,-2.72918
+[CLS] Tibor Déri:2 is a member of the [MASK] political party . [SEP],DS,Momentum:2 Movement,0,Momentum:2 Movement,0,-3.57687
+[CLS] Tibor Déri:2 is a member of the [MASK] political party . [SEP],party,Momentum:2 Movement,0,Momentum:2 Movement,0,-3.61230
+[CLS] Tibor Déri:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Kc:2 ' , party",Momentum:2 Movement,0,Momentum:2 Movement,0,-4.11289
+[CLS] József Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-1.25851
+[CLS] József Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.66330
+[CLS] József Szabó is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.56320
+[CLS] József Szabó is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.61172
+[CLS] József Szabó is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.98721
 [CLS] Imre Komor:2 is a member of the [MASK] political party . [SEP],Hungarian,Communist Party of Hungary,0,Communist Party of Hungary,0,-0.86426
 [CLS] Imre Komor:2 is a member of the [MASK] [MASK] political party . [SEP],Hungarians:2,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.33838
-[CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - - ),Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.47489
+[CLS] Imre Komor:2 is a member of the [MASK] political party . [SEP],party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.77630
+[CLS] Imre Komor:2 is a member of the [MASK] political party . [SEP],Communist,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.97765
+[CLS] Imre Komor:2 is a member of the [MASK] political party . [SEP],Socialist,Communist Party of Hungary,0,Communist Party of Hungary,0,-4.15708
+[CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - - ),Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.47490
 [CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.51100
+[CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.75775
+[CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.96741
+[CLS] Ernőné:3 Csizmadia:4 Magda Székely:4 is a member of the [MASK] political party . [SEP],DS,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-4.03971
 [CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.02508
-[CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.99982
+[CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.99983
+[CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.06780
+[CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.82165
+[CLS] Ilona Ambró:2 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.98130
 [CLS] elderly Rudolf Végh:3 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.20650
 [CLS] elderly Rudolf Végh:3 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.74684
+[CLS] elderly Rudolf Végh:3 is a member of the [MASK] political party . [SEP],Socialist,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.36530
+[CLS] elderly Rudolf Végh:3 is a member of the [MASK] political party . [SEP],Communist,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.38868
+[CLS] elderly Rudolf Végh:3 is a member of the [MASK] political party . [SEP],Austrian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.93954
 [CLS] Ernő:2 Gerő:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.59170
-[CLS] Ernő:2 Gerő:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.46350
+[CLS] Ernő:2 Gerő:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.46351
+[CLS] Ernő:2 Gerő:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.55304
+[CLS] Ernő:2 Gerő:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.64163
+[CLS] Ernő:2 Gerő:3 is a member of the [MASK] political party . [SEP],same,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.89377
 [CLS] Tibor Szamuely:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-1.93533
-[CLS] Tibor Szamuely:4 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.10500
+[CLS] Tibor Szamuely:4 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.10501
+[CLS] Tibor Szamuely:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.21576
+[CLS] Tibor Szamuely:4 is a member of the [MASK] [MASK] political party . [SEP],Sos:2,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.96072
+[CLS] Tibor Szamuely:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.04739
 [CLS] György Budaházy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.42074
-[CLS] György Budaházy:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K of of of the,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.60606
+[CLS] György Budaházy:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K of of of the,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.60607
+[CLS] György Budaházy:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Sk:2 the 'y:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.90573
+[CLS] György Budaházy:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Bc:2 ' the Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.05662
+[CLS] György Budaházy:3 is a member of the [MASK] political party . [SEP],European,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.15027
 [CLS] Mihály Ráday:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-1.18995
-[CLS] Mihály Ráday:3 is a member of the [MASK] [MASK] political party . [SEP],SocialP:2,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.19744
+[CLS] Mihály Ráday:3 is a member of the [MASK] [MASK] political party . [SEP],SocialP:2,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.19745
+[CLS] Mihály Ráday:3 is a member of the [MASK] political party . [SEP],Mihály,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.50856
+[CLS] Mihály Ráday:3 is a member of the [MASK] political party . [SEP],Communist,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.88299
+[CLS] Mihály Ráday:3 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.90134
 [CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],Hungarian,Constitution Party,0,Constitution Party,0,-1.54756
-[CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],party,Constitution Party,0,Constitution Party,0,-2.62763
-[CLS] József Antall:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.18278
-[CLS] József Antall:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.59572
-[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.60484
-[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.60860
+[CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],party,Constitution Party,0,Constitution Party,0,-2.62764
+[CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],Democratic,Constitution Party,0,Constitution Party,0,-3.52622
+[CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],PSD,Constitution Party,0,Constitution Party,0,-3.77094
+[CLS] Sándor Wekerle:3 is a member of the [MASK] political party . [SEP],Party,Constitution Party,0,Constitution Party,0,-3.93505
+[CLS] József Antall:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.18279
+[CLS] József Antall:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.59573
+[CLS] József Antall:2 is a member of the [MASK] political party . [SEP],National,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.63655
+[CLS] József Antall:2 is a member of the [MASK] [MASK] political party . [SEP],Nationals:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.95683
+[CLS] József Antall:2 is a member of the [MASK] [MASK] political party . [SEP],An:2,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.03928
+[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.60485
+[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.60861
+[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.09673
+[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Socialist,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.52213
+[CLS] Lajos Dinnyés:3 is a member of the [MASK] political party . [SEP],Party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.97158
 [CLS] Tünde:2 Szabó is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.96953
-[CLS] Tünde:2 Szabó is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.12716
-[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Hungarian,National Peasant:3 Party,0,National Peasant:3 Party,0,-1.57453
-[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Democratic,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.65917
+[CLS] Tünde:2 Szabó is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.12717
+[CLS] Tünde:2 Szabó is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.49162
+[CLS] Tünde:2 Szabó is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K ' ( ' a,Fidesz:3,0,Fidesz:3,0,-3.87660
+[CLS] Tünde:2 Szabó is a member of the [MASK] political party . [SEP],Communist,Fidesz:3,0,Fidesz:3,0,-4.00467
+[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Hungarian,National Peasant:3 Party,0,National Peasant:3 Party,0,-1.57454
+[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Democratic,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.65918
+[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.05599
+[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.51336
+[CLS] István Bibó:2 is a member of the [MASK] political party . [SEP],Communist,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.79733
 [CLS] István Bethlen:2 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.71297
 [CLS] István Bethlen:2 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-3.13274
+[CLS] István Bethlen:2 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-3.30731
+[CLS] István Bethlen:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"the , ( ' a",Liberal Party,0,Liberal Party,0,-4.04055
+[CLS] István Bethlen:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Ac:2 ' , s",Liberal Party,0,Liberal Party,0,-4.18907
 [CLS] Ernő:2 Mesterházy:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - ),Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.48222
 [CLS] Ernő:2 Mesterházy:4 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.20822
+[CLS] Ernő:2 Mesterházy:4 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.73365
+[CLS] Ernő:2 Mesterházy:4 is a member of the [MASK] political party . [SEP],local,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.00702
+[CLS] Ernő:2 Mesterházy:4 is a member of the [MASK] political party . [SEP],Party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.02328
 [CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.61405
-[CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.78688
-[CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.81397
+[CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.78689
+[CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.87180
+[CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.50405
+[CLS] Pál Losonczi:4 is a member of the [MASK] political party . [SEP],PSD,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.87239
+[CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.81398
 [CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.07620
+[CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.50848
+[CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.75971
+[CLS] Imre Dimény:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.76847
 [CLS] János Halász:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - Party,Fidesz:3,0,Fidesz:3,0,-2.58298
-[CLS] János Halász:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.04023
+[CLS] János Halász:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.04024
+[CLS] János Halász:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.11199
+[CLS] János Halász:2 is a member of the [MASK] political party . [SEP],Labour,Fidesz:3,0,Fidesz:3,0,-3.46990
+[CLS] János Halász:2 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.71231
 [CLS] József Haubrich:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-0.60780
-[CLS] József Haubrich:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S of of of ),Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.59065
+[CLS] József Haubrich:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S of of of ),Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.59066
+[CLS] József Haubrich:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ( the the s,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.95334
+[CLS] József Haubrich:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"K , ( ' Party",Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.08566
+[CLS] József Haubrich:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"A ' ' ,s:2",Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.21626
 [CLS] Dóra:2 Dúró:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],D - - -a:2,Jobbik:2,0,Jobbik:2,0,-2.68015
-[CLS] Dóra:2 Dúró:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Bk:2 of ofi:2,Jobbik:2,0,Jobbik:2,0,-3.44992
+[CLS] Dóra:2 Dúró:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Bk:2 of ofi:2,Jobbik:2,0,Jobbik:2,0,-3.44993
+[CLS] Dóra:2 Dúró:3 is a member of the [MASK] political party . [SEP],same,Jobbik:2,0,Jobbik:2,0,-3.67184
+[CLS] Dóra:2 Dúró:3 is a member of the [MASK] political party . [SEP],DS,Jobbik:2,0,Jobbik:2,0,-3.88666
+[CLS] Dóra:2 Dúró:3 is a member of the [MASK] political party . [SEP],ruling,Jobbik:2,0,Jobbik:2,0,-3.90508
 [CLS] Tamás Deutsch is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the - - - the,Fidesz:3,0,Fidesz:3,0,-2.63614
 [CLS] Tamás Deutsch is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.09193
-[CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],Hungarian,Deák:2 Party,0,Deák:2 Party,0,-1.23323
+[CLS] Tamás Deutsch is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.23615
+[CLS] Tamás Deutsch is a member of the [MASK] political party . [SEP],Czech,Fidesz:3,0,Fidesz:3,0,-3.41664
+[CLS] Tamás Deutsch is a member of the [MASK] political party . [SEP],German,Fidesz:3,0,Fidesz:3,0,-3.54215
+[CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],Hungarian,Deák:2 Party,0,Deák:2 Party,0,-1.23324
 [CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],Democratic,Deák:2 Party,0,Deák:2 Party,0,-3.06601
+[CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],party,Deák:2 Party,0,Deák:2 Party,0,-3.59175
+[CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],Labour,Deák:2 Party,0,Deák:2 Party,0,-3.93781
+[CLS] Károly Kerkapoly:3 is a member of the [MASK] political party . [SEP],Social,Deák:2 Party,0,Deák:2 Party,0,-4.23417
 [CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],party,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-2.19111
-[CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],Swedish,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-3.01975
-[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.90903
-[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.34659
+[CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],Swedish,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-3.01976
+[CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],Hungarian,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-3.54606
+[CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],Democratic,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-3.67834
+[CLS] Ödön:3 Beniczky:3 is a member of the [MASK] political party . [SEP],Party,Catholic People ' s Party ( Hungary ),0,Catholic People ' s Party ( Hungary ),0,-3.81996
+[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.90904
+[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.34660
+[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Socialist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.96000
+[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Labour,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.00131
+[CLS] Iván Szabó is a member of the [MASK] political party . [SEP],Communist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.07274
 [CLS] Lajos Ercsey:3 is a member of the [MASK] political party . [SEP],Hungarian,National 1848 Party,0,National 1848 Party,0,-1.80642
 [CLS] Lajos Ercsey:3 is a member of the [MASK] political party . [SEP],Democratic,National 1848 Party,0,National 1848 Party,0,-2.80127
+[CLS] Lajos Ercsey:3 is a member of the [MASK] political party . [SEP],party,National 1848 Party,0,National 1848 Party,0,-3.40445
+[CLS] Lajos Ercsey:3 is a member of the [MASK] political party . [SEP],Socialist,National 1848 Party,0,National 1848 Party,0,-3.69495
+[CLS] Lajos Ercsey:3 is a member of the [MASK] political party . [SEP],Party,National 1848 Party,0,National 1848 Party,0,-3.83080
 [CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.70432
-[CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.34267
-[CLS] Márton:2 Horváth is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - the,Communist Party of Hungary,0,Communist Party of Hungary,0,-2.66246
+[CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.34268
+[CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.34800
+[CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.46092
+[CLS] György Gonda:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.67975
+[CLS] Márton:2 Horváth is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - the,Communist Party of Hungary,0,Communist Party of Hungary,0,-2.66247
 [CLS] Márton:2 Horváth is a member of the [MASK] political party . [SEP],Democratic,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.13739
+[CLS] Márton:2 Horváth is a member of the [MASK] political party . [SEP],Party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.23519
+[CLS] Márton:2 Horváth is a member of the [MASK] political party . [SEP],party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.24467
+[CLS] Márton:2 Horváth is a member of the [MASK] political party . [SEP],Labour,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.93951
 [CLS] György Keleti:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.88422
 [CLS] György Keleti:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.52435
+[CLS] György Keleti:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.57591
+[CLS] György Keleti:2 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.63777
+[CLS] György Keleti:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.78245
 [CLS] Ferenc Kőszeg:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-1.20509
-[CLS] Ferenc Kőszeg:3 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.20956
+[CLS] Ferenc Kőszeg:3 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.20957
+[CLS] Ferenc Kőszeg:3 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.73000
+[CLS] Ferenc Kőszeg:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Social , the ' Party",Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.00354
+[CLS] Ferenc Kőszeg:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"Ac:2 ' , s",Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.19124
 [CLS] Zoltán Lengyel:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.55257
 [CLS] Zoltán Lengyel:3 is a member of the [MASK] [MASK] political party . [SEP],P Party,Fidesz:3,0,Fidesz:3,0,-3.43065
+[CLS] Zoltán Lengyel:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ' ' ' ),Fidesz:3,0,Fidesz:3,0,-3.74268
+[CLS] Zoltán Lengyel:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.89605
+[CLS] Zoltán Lengyel:3 is a member of the [MASK] political party . [SEP],local,Fidesz:3,0,Fidesz:3,0,-3.89764
 [CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-1.89840
-[CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-2.49442
+[CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-2.49443
+[CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-2.86673
+[CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],local,Liberal Party,0,Liberal Party,0,-3.40918
+[CLS] Leó:2 Lánczy:3 is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.62771
 [CLS] Tamás Meggyes:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - the,Fidesz:3,0,Fidesz:3,0,-2.68571
-[CLS] Tamás Meggyes:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.28006
-[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - Party,Jobbik:2,0,Jobbik:2,0,-2.56836
-[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] political party . [SEP],Hungarian,Jobbik:2,0,Jobbik:2,0,-2.94056
+[CLS] Tamás Meggyes:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.28007
+[CLS] Tamás Meggyes:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.64119
+[CLS] Tamás Meggyes:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Kc:2 ' thes:2,Fidesz:3,0,Fidesz:3,0,-3.96918
+[CLS] Tamás Meggyes:3 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-4.16637
+[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],A - - - Party,Jobbik:2,0,Jobbik:2,0,-2.56837
+[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] political party . [SEP],Hungarian,Jobbik:2,0,Jobbik:2,0,-2.94057
+[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] political party . [SEP],local,Jobbik:2,0,Jobbik:2,0,-3.47337
+[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-3.66858
+[CLS] Ádám:3 Mirkóczki:3 is a member of the [MASK] political party . [SEP],political,Jobbik:2,0,Jobbik:2,0,-4.12274
 [CLS] Ferenc Molnár:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Communist Party,0,Hungarian Communist Party,0,-1.26080
 [CLS] Ferenc Molnár:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.16044
+[CLS] Ferenc Molnár:2 is a member of the [MASK] political party . [SEP],National,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.33562
+[CLS] Ferenc Molnár:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.51323
+[CLS] Ferenc Molnár:2 is a member of the [MASK] political party . [SEP],national,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.76668
 [CLS] Levente:2 Murányi:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P - - - ),Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.63109
 [CLS] Levente:2 Murányi:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.81312
+[CLS] Levente:2 Murányi:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.70337
+[CLS] Levente:2 Murányi:2 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.78099
+[CLS] Levente:2 Murányi:2 is a member of the [MASK] political party . [SEP],Román,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.80066
 [CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.91098
-[CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.90325
-[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.39593
-[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],party,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.53733
-[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-1.82780
-[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-2.50945
+[CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.90326
+[CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.40324
+[CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.80392
+[CLS] Ferenc Márta:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.95796
+[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.39594
+[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],party,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.53734
+[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.36462
+[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.57438
+[CLS] Sándor Palkó:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.72010
+[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-1.82781
+[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-2.50946
+[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],Party,Politics Can Be Different,0,Politics Can Be Different,0,-3.15716
+[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.39344
+[CLS] László Perneczky:3 is a member of the [MASK] political party . [SEP],Socialist,Politics Can Be Different,0,Politics Can Be Different,0,-3.99587
 [CLS] Zsigmond Perényi:2 is a member of the [MASK] political party . [SEP],Hungarian,National Party of Work,0,National Party of Work,0,-2.27373
 [CLS] Zsigmond Perényi:2 is a member of the [MASK] political party . [SEP],party,National Party of Work,0,National Party of Work,0,-3.17781
+[CLS] Zsigmond Perényi:2 is a member of the [MASK] political party . [SEP],Democratic,National Party of Work,0,National Party of Work,0,-3.32534
+[CLS] Zsigmond Perényi:2 is a member of the [MASK] political party . [SEP],Labour,National Party of Work,0,National Party of Work,0,-3.81141
+[CLS] Zsigmond Perényi:2 is a member of the [MASK] political party . [SEP],Party,National Party of Work,0,National Party of Work,0,-4.00925
 [CLS] Tibor Pethő:3 is a member of the [MASK] political party . [SEP],Hungarian,National Peasant:3 Party,0,National Peasant:3 Party,0,-2.01388
 [CLS] Tibor Pethő:3 is a member of the [MASK] [MASK] political party . [SEP],Social Party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.44792
+[CLS] Tibor Pethő:3 is a member of the [MASK] political party . [SEP],party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.47869
+[CLS] Tibor Pethő:3 is a member of the [MASK] political party . [SEP],Communist,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.80771
+[CLS] Tibor Pethő:3 is a member of the [MASK] political party . [SEP],Party,National Peasant:3 Party,0,National Peasant:3 Party,0,-3.95732
 [CLS] György Pogácsás:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.06951
 [CLS] György Pogácsás:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.16505
-[CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.72787
+[CLS] György Pogácsás:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.42482
+[CLS] György Pogácsás:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.68503
+[CLS] György Pogácsás:4 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.72001
+[CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-1.72788
 [CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.04163
+[CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.08636
+[CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.14550
+[CLS] László Regéczy:3 - Nagy is a member of the [MASK] political party . [SEP],Socialist,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.41847
 [CLS] Ferenc Reisinger:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-1.52878
-[CLS] Ferenc Reisinger:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.16188
-[CLS] Attila Retkes:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.09991
+[CLS] Ferenc Reisinger:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.16189
+[CLS] Ferenc Reisinger:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],P ( ( the Party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.70118
+[CLS] Ferenc Reisinger:2 is a member of the [MASK] political party . [SEP],Austrian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.88101
+[CLS] Ferenc Reisinger:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.17088
+[CLS] Attila Retkes:3 is a member of the [MASK] political party . [SEP],Hungarian,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-2.09992
 [CLS] Attila Retkes:3 is a member of the [MASK] political party . [SEP],Democratic,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.34508
+[CLS] Attila Retkes:3 is a member of the [MASK] political party . [SEP],party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-3.76179
+[CLS] Attila Retkes:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K ( ' the Party,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.00014
+[CLS] Attila Retkes:3 is a member of the [MASK] political party . [SEP],the,Alliance of Free Democrats,0,Alliance of Free Democrats,0,-4.24585
 [CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-1.32747
-[CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.77522
-[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.04043
-[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.01537
+[CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.77523
+[CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.35330
+[CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],Communist,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.54407
+[CLS] György Rubovszky:5 is a member of the [MASK] political party . [SEP],Socialist,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.98007
+[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.04044
+[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.01538
+[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.46180
+[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],Communist,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.61379
+[CLS] Béla Vágó:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.68944
 [CLS] Aladár:3 Weisshaus:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.54775
 [CLS] Aladár:3 Weisshaus:2 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.22718
-[CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.00378
+[CLS] Aladár:3 Weisshaus:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.59869
+[CLS] Aladár:3 Weisshaus:2 is a member of the [MASK] political party . [SEP],local,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.89004
+[CLS] Aladár:3 Weisshaus:2 is a member of the [MASK] political party . [SEP],Slovak,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.16570
+[CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.00379
 [CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-3.07008
+[CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.39410
+[CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],DS,Politics Can Be Different,0,Politics Can Be Different,0,-3.50511
+[CLS] Gábor Scheiring:3 is a member of the [MASK] political party . [SEP],Party,Politics Can Be Different,0,Politics Can Be Different,0,-3.88569
 [CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-1.94097
-[CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.30581
+[CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.30582
+[CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.38124
+[CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],local,Fidesz:3,0,Fidesz:3,0,-3.77680
+[CLS] János Kővári:3 is a member of the [MASK] political party . [SEP],Labour,Fidesz:3,0,Fidesz:3,0,-3.83714
 [CLS] Lajos Kupcsok:4 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.10082
 [CLS] Lajos Kupcsok:4 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-3.06607
+[CLS] Lajos Kupcsok:4 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.19559
+[CLS] Lajos Kupcsok:4 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.57146
+[CLS] Lajos Kupcsok:4 is a member of the [MASK] political party . [SEP],Social,Fidesz:3,0,Fidesz:3,0,-3.61119
 [CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.11903
-[CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.79186
+[CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.79187
+[CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.04857
+[CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.28334
+[CLS] László Koszorús:3 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.75928
 [CLS] László Lakos:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.26613
 [CLS] László Lakos:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.40650
-[CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.56061
+[CLS] László Lakos:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.99489
+[CLS] László Lakos:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.36471
+[CLS] László Lakos:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.71592
+[CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.56062
 [CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.35227
+[CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],Labour,Fidesz:3,0,Fidesz:3,0,-3.60659
+[CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.61657
+[CLS] Márk:2 Bíró:2 is a member of the [MASK] political party . [SEP],local,Fidesz:3,0,Fidesz:3,0,-3.90656
 [CLS] Pál Kontur:3 is a member of the [MASK] political party . [SEP],Hungarian,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-1.97465
 [CLS] Pál Kontur:3 is a member of the [MASK] political party . [SEP],party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-2.95604
+[CLS] Pál Kontur:3 is a member of the [MASK] political party . [SEP],Democratic,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.58584
+[CLS] Pál Kontur:3 is a member of the [MASK] political party . [SEP],Party,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.82429
+[CLS] Pál Kontur:3 is a member of the [MASK] political party . [SEP],P,Christian Democratic People ' s Party,0,Christian Democratic People ' s Party,0,-3.96030
 [CLS] Péter Szilágyi:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.06190
 [CLS] Péter Szilágyi:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.95874
+[CLS] Péter Szilágyi:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.03250
+[CLS] Péter Szilágyi:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.62441
+[CLS] Péter Szilágyi:4 is a member of the [MASK] political party . [SEP],P,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.68354
 [CLS] Szabolcs:4 Czira:2 is a member of the [MASK] [MASK] [MASK] [MASK] political party . [SEP],Sza:2 -cs:2,Fidesz:3,0,Fidesz:3,0,-2.33649
-[CLS] Szabolcs:4 Czira:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.88775
-[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.67355
-[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.26437
+[CLS] Szabolcs:4 Czira:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.88776
+[CLS] Szabolcs:4 Czira:2 is a member of the [MASK] political party . [SEP],local,Fidesz:3,0,Fidesz:3,0,-3.68594
+[CLS] Szabolcs:4 Czira:2 is a member of the [MASK] political party . [SEP],Social,Fidesz:3,0,Fidesz:3,0,-3.81238
+[CLS] Szabolcs:4 Czira:2 is a member of the [MASK] political party . [SEP],Socialist,Fidesz:3,0,Fidesz:3,0,-3.89813
+[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.67356
+[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.26438
+[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.11475
+[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],Party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.38993
+[CLS] Sándor Bejczy:3 is a member of the [MASK] political party . [SEP],national,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.76096
 [CLS] Sándor Farkas:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-2.06032
-[CLS] Sándor Farkas:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.68994
+[CLS] Sándor Farkas:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.68995
+[CLS] Sándor Farkas:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-3.29803
+[CLS] Sándor Farkas:2 is a member of the [MASK] [MASK] political party . [SEP],Hungarians:2,Fidesz:3,0,Fidesz:3,0,-3.90655
+[CLS] Sándor Farkas:2 is a member of the [MASK] political party . [SEP],PSD,Fidesz:3,0,Fidesz:3,0,-3.93414
 [CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],Hungarian,Christian National Party,0,Christian National Party,0,-1.28574
-[CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],Democratic,Christian National Party,0,Christian National Party,0,-3.35977
+[CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],Democratic,Christian National Party,0,Christian National Party,0,-3.35978
+[CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],party,Christian National Party,0,Christian National Party,0,-3.48972
+[CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],Communist,Christian National Party,0,Christian National Party,0,-3.88862
+[CLS] Tibor Zsitvay:3 is a member of the [MASK] political party . [SEP],Socialist,Christian National Party,0,Christian National Party,0,-4.19241
 [CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.16622
-[CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.57048
+[CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.57049
+[CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-3.61402
+[CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],Swedish,Politics Can Be Different,0,Politics Can Be Different,0,-3.81170
+[CLS] Virág:2 Kaufer:2 is a member of the [MASK] political party . [SEP],Estonian,Politics Can Be Different,0,Politics Can Be Different,0,-4.01110
 [CLS] Mór:2 Erdélyi:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - the,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-2.61252
-[CLS] Mór:2 Erdélyi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.01937
-[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],Hungarian,Communist Party of Hungary,0,Communist Party of Hungary,0,-1.80407
-[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.16956
-[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.98024
-[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.75691
+[CLS] Mór:2 Erdélyi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.01938
+[CLS] Mór:2 Erdélyi:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.56140
+[CLS] Mór:2 Erdélyi:3 is a member of the [MASK] political party . [SEP],PSD,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.75339
+[CLS] Mór:2 Erdélyi:3 is a member of the [MASK] political party . [SEP],Labour,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.80375
+[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],Hungarian,Communist Party of Hungary,0,Communist Party of Hungary,0,-1.80408
+[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.16957
+[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],Democratic,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.54683
+[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],Party,Communist Party of Hungary,0,Communist Party of Hungary,0,-3.62851
+[CLS] Edit Horváth is a member of the [MASK] political party . [SEP],Labour,Communist Party of Hungary,0,Communist Party of Hungary,0,-4.04175
+[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.98025
+[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.75692
+[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.05623
+[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.26361
+[CLS] László Bokor:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.65494
 [CLS] Pál Eötvös:4 is a member of the [MASK] [MASK] political party . [SEP],P Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.40348
-[CLS] Pál Eötvös:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.79166
-[CLS] Nándor:3 Gúr:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - -i:2,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.62988
+[CLS] Pál Eötvös:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.79167
+[CLS] Pál Eötvös:4 is a member of the [MASK] political party . [SEP],P,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.01928
+[CLS] Pál Eötvös:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.08509
+[CLS] Pál Eötvös:4 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.39221
+[CLS] Nándor:3 Gúr:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - -i:2,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-2.62989
 [CLS] Nándor:3 Gúr:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.22676
-[CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.15793
+[CLS] Nándor:3 Gúr:2 is a member of the [MASK] political party . [SEP],local,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.32518
+[CLS] Nándor:3 Gúr:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.62575
+[CLS] Nándor:3 Gúr:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Party,0,Hungarian Socialist Party,0,-3.65488
+[CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.15794
 [CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.39431
+[CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.47072
+[CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.58400
+[CLS] György Antalffy:2 is a member of the [MASK] political party . [SEP],Labour,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.61764
 [CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - - Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.56156
-[CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.02325
+[CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.02326
+[CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.04882
+[CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] political party . [SEP],social,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.62258
+[CLS] Zsuzsanna:4 Juhász:3 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.96936
 [CLS] Túrós:3 András is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - ),Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.85220
 [CLS] Túrós:3 András is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.99997
-[CLS] Pál Kovács is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.81730
+[CLS] Túrós:3 András is a member of the [MASK] political party . [SEP],Social,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.72934
+[CLS] Túrós:3 András is a member of the [MASK] political party . [SEP],SDP,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.88323
+[CLS] Túrós:3 András is a member of the [MASK] political party . [SEP],PSD,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.94801
+[CLS] Pál Kovács is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.81731
 [CLS] Pál Kovács is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-3.15699
-[CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.48252
+[CLS] Pál Kovács is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-3.65364
+[CLS] Pál Kovács is a member of the [MASK] political party . [SEP],Communist,Liberal Party,0,Liberal Party,0,-3.80542
+[CLS] Pál Kovács is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.88224
+[CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.48253
 [CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.67522
-[CLS] Gál:2 József is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.52383
+[CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-2.95120
+[CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],Party,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-3.81730
+[CLS] András Gergely:3 is a member of the [MASK] political party . [SEP],political,Hungarian Democratic Forum,0,Hungarian Democratic Forum,0,-4.18066
+[CLS] Gál:2 József is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.52384
 [CLS] Gál:2 József is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-2.89883
+[CLS] Gál:2 József is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.00400
+[CLS] Gál:2 József is a member of the [MASK] political party . [SEP],Party,Politics Can Be Different,0,Politics Can Be Different,0,-4.02302
+[CLS] Gál:2 József is a member of the [MASK] political party . [SEP],Socialist,Politics Can Be Different,0,Politics Can Be Different,0,-4.23641
 [CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.26836
-[CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.64327
-[CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-1.45957
+[CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.64328
+[CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.89990
+[CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.63726
+[CLS] Sándor Nógrádi:4 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.93297
+[CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-1.45958
 [CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],Democratic,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-3.11790
+[CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],Communist,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-3.71626
+[CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],party,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-3.94844
+[CLS] Gergely:3 Kovács is a member of the [MASK] political party . [SEP],Socialist,Hungarian Two - tailed Dog Party,0,Hungarian Two - tailed Dog Party,0,-4.04517
 [CLS] János Tóth is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-1.94263
 [CLS] János Tóth is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.74810
-[CLS] Mihály Witzmann:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-0.97577
-[CLS] Mihály Witzmann:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Fidesz:3,0,Fidesz:3,0,-3.56022
+[CLS] János Tóth is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.42095
+[CLS] János Tóth is a member of the [MASK] political party . [SEP],Socialist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.75762
+[CLS] János Tóth is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.77431
+[CLS] Mihály Witzmann:2 is a member of the [MASK] political party . [SEP],Hungarian,Fidesz:3,0,Fidesz:3,0,-0.97578
+[CLS] Mihály Witzmann:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],the of of of ),Fidesz:3,0,Fidesz:3,0,-3.56023
+[CLS] Mihály Witzmann:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K ( ( the s,Fidesz:3,0,Fidesz:3,0,-3.81889
+[CLS] Mihály Witzmann:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Hungarianc:2 the 's:2,Fidesz:3,0,Fidesz:3,0,-3.97384
+[CLS] Mihály Witzmann:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-4.16225
 [CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - ),Jobbik:2,0,Jobbik:2,0,-2.54405
-[CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] [MASK] political party . [SEP],Social Party,Jobbik:2,0,Jobbik:2,0,-3.08747
-[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - -s:2,United Christian Party,0,United Christian Party,0,-2.85240
-[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] political party . [SEP],local,United Christian Party,0,United Christian Party,0,-3.05201
+[CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] [MASK] political party . [SEP],Social Party,Jobbik:2,0,Jobbik:2,0,-3.08748
+[CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] political party . [SEP],Hungarian,Jobbik:2,0,Jobbik:2,0,-3.23210
+[CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] political party . [SEP],Party,Jobbik:2,0,Jobbik:2,0,-3.66017
+[CLS] Gergely:3 Kulcsár:4 is a member of the [MASK] political party . [SEP],PSD,Jobbik:2,0,Jobbik:2,0,-3.96043
+[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],S - - -s:2,United Christian Party,0,United Christian Party,0,-2.85241
+[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] political party . [SEP],local,United Christian Party,0,United Christian Party,0,-3.05202
+[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] political party . [SEP],Democratic,United Christian Party,0,United Christian Party,0,-3.35395
+[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] political party . [SEP],Hungarian,United Christian Party,0,United Christian Party,0,-3.46952
+[CLS] Thassy:2 Kristóf:3 is a member of the [MASK] political party . [SEP],same,United Christian Party,0,United Christian Party,0,-4.05718
 [CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-1.62397
-[CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],party,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-2.81663
+[CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],party,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-2.81664
+[CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-3.54358
+[CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],Labour,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-3.86802
+[CLS] György Szilasy:3 is a member of the [MASK] political party . [SEP],Socialist,Hungarian Justice and Life Party,0,Hungarian Justice and Life Party,0,-3.92991
 [CLS] László Boldvai:2 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.43127
 [CLS] László Boldvai:2 is a member of the [MASK] political party . [SEP],party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-2.99919
+[CLS] László Boldvai:2 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.29845
+[CLS] László Boldvai:2 is a member of the [MASK] political party . [SEP],Party,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.33427
+[CLS] László Boldvai:2 is a member of the [MASK] political party . [SEP],Communist,Hungarian Socialist Workers ' Party,0,Hungarian Socialist Workers ' Party,0,-3.46458
 [CLS] Miklós Hegedüs:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-1.27828
 [CLS] Miklós Hegedüs:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.28071
+[CLS] Miklós Hegedüs:3 is a member of the [MASK] political party . [SEP],Labour,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.80365
+[CLS] Miklós Hegedüs:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Bk:2 ( 's:2,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-4.07380
+[CLS] Miklós Hegedüs:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-4.09963
 [CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Á - - - Party,Fidesz:3,0,Fidesz:3,0,-2.46641
-[CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.72849
+[CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] political party . [SEP],party,Fidesz:3,0,Fidesz:3,0,-2.72850
+[CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] political party . [SEP],Democratic,Fidesz:3,0,Fidesz:3,0,-2.87056
+[CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] political party . [SEP],Communist,Fidesz:3,0,Fidesz:3,0,-3.55812
+[CLS] Ákos:2 Bence:2 Gát:2 is a member of the [MASK] political party . [SEP],Party,Fidesz:3,0,Fidesz:3,0,-3.55986
 [CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],Hungarian,Momentum:2 Movement,0,Momentum:2 Movement,0,-1.13366
-[CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],party,Momentum:2 Movement,0,Momentum:2 Movement,0,-3.43073
-[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],Hungarian,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-1.97519
-[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.45845
-[CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.29623
+[CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],party,Momentum:2 Movement,0,Momentum:2 Movement,0,-3.43074
+[CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],Democratic,Momentum:2 Movement,0,Momentum:2 Movement,0,-3.43862
+[CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],Communist,Momentum:2 Movement,0,Momentum:2 Movement,0,-4.03290
+[CLS] György Buzinkay:4 is a member of the [MASK] political party . [SEP],Magyar,Momentum:2 Movement,0,Momentum:2 Movement,0,-4.23362
+[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],Hungarian,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-1.97520
+[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.45846
+[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.51842
+[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],local,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.84657
+[CLS] Tamás Gergő:3 Ferencz:2 is a member of the [MASK] political party . [SEP],Party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-4.14390
+[CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.29624
 [CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],Hungarian,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.61913
+[CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.96281
+[CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],Party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.22438
+[CLS] Sándor Mészáros:3 is a member of the [MASK] political party . [SEP],Socialist,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.79885
 [CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],party,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.31654
-[CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.92434
+[CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],Democratic,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-2.92435
+[CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],local,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.44611
+[CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],PSD,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.56483
+[CLS] Viktória:3 Jelics:3 is a member of the [MASK] political party . [SEP],social,Our Homeland:2 Movement,0,Our Homeland:2 Movement,0,-3.56697
 [CLS] László Józsa:3 is a member of the [MASK] political party . [SEP],Hungarian,Politics Can Be Different,0,Politics Can Be Different,0,-2.42817
 [CLS] László Józsa:3 is a member of the [MASK] political party . [SEP],party,Politics Can Be Different,0,Politics Can Be Different,0,-2.50856
+[CLS] László Józsa:3 is a member of the [MASK] political party . [SEP],Party,Politics Can Be Different,0,Politics Can Be Different,0,-2.61632
+[CLS] László Józsa:3 is a member of the [MASK] political party . [SEP],Democratic,Politics Can Be Different,0,Politics Can Be Different,0,-3.02381
+[CLS] László Józsa:3 is a member of the [MASK] political party . [SEP],Communist,Politics Can Be Different,0,Politics Can Be Different,0,-3.38189
 [CLS] Balázs Szücs:4 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - - Party,Dialogue for Hungary,0,Dialogue for Hungary,0,-2.56346
 [CLS] Balázs Szücs:4 is a member of the [MASK] political party . [SEP],Hungarian,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.26290
+[CLS] Balázs Szücs:4 is a member of the [MASK] political party . [SEP],Democratic,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.35111
+[CLS] Balázs Szücs:4 is a member of the [MASK] political party . [SEP],Party,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.47294
+[CLS] Balázs Szücs:4 is a member of the [MASK] political party . [SEP],Social,Dialogue for Hungary,0,Dialogue for Hungary,0,-3.93340
 [CLS] Elek:2 Forster is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],K - - -s:2,Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-2.51635
-[CLS] Elek:2 Forster is a member of the [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ' of Party,Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-3.51702
+[CLS] Elek:2 Forster is a member of the [MASK] [MASK] [MASK] [MASK] political party . [SEP],the ' of Party,Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-3.51703
+[CLS] Elek:2 Forster is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],New ' ' of the,Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-3.87345
+[CLS] Elek:2 Forster is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],"National , the the )",Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-4.07802
+[CLS] Elek:2 Forster is a member of the [MASK] political party . [SEP],SDP,Agrarian:3 Party ( Agrárpárt:5 ),0,Agrarian:3 Party ( Agrárpárt:5 ),0,-4.31052
 [CLS] Gergely:3 Kálló:2 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],B - - - Party,Jobbik:2,0,Jobbik:2,0,-2.72711
-[CLS] Gergely:3 Kálló:2 is a member of the [MASK] [MASK] political party . [SEP],P Party,Jobbik:2,0,Jobbik:2,0,-3.53520
+[CLS] Gergely:3 Kálló:2 is a member of the [MASK] [MASK] political party . [SEP],P Party,Jobbik:2,0,Jobbik:2,0,-3.53521
+[CLS] Gergely:3 Kálló:2 is a member of the [MASK] political party . [SEP],Party,Jobbik:2,0,Jobbik:2,0,-3.71670
+[CLS] Gergely:3 Kálló:2 is a member of the [MASK] political party . [SEP],Democratic,Jobbik:2,0,Jobbik:2,0,-3.78027
+[CLS] Gergely:3 Kálló:2 is a member of the [MASK] political party . [SEP],Socialist,Jobbik:2,0,Jobbik:2,0,-3.84446
 [CLS] Ferenc Vidovics:3 is a member of the [MASK] political party . [SEP],Hungarian,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.14214
 [CLS] Ferenc Vidovics:3 is a member of the [MASK] political party . [SEP],party,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.60981
-[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.50178
-[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.42638
-[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-1.99009
-[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.21658
-[CLS] Zoltán Gergő:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Social - - - Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.56141
-[CLS] Zoltán Gergő:3 is a member of the [MASK] [MASK] political party . [SEP],P Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.41953
+[CLS] Ferenc Vidovics:3 is a member of the [MASK] political party . [SEP],Democratic,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-2.97389
+[CLS] Ferenc Vidovics:3 is a member of the [MASK] political party . [SEP],Communist,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.47955
+[CLS] Ferenc Vidovics:3 is a member of the [MASK] political party . [SEP],local,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,"Independent Smallholders:2 , Agrarian:3 Workers and Civic Party",0,-3.56502
+[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],Hungarian,Liberal Party,0,Liberal Party,0,-1.50179
+[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],Democratic,Liberal Party,0,Liberal Party,0,-2.42639
+[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],party,Liberal Party,0,Liberal Party,0,-2.55213
+[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],Party,Liberal Party,0,Liberal Party,0,-3.36244
+[CLS] Sándor Országh:3 is a member of the [MASK] political party . [SEP],local,Liberal Party,0,Liberal Party,0,-3.46110
+[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],Hungarian,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-1.99010
+[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],party,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.21659
+[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-3.26643
+[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] political party . [SEP],Communist,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.07378
+[CLS] Ármin:2 Ladányi:3 is a member of the [MASK] [MASK] political party . [SEP],As:2,Hungarian Social Democratic Party,0,Hungarian Social Democratic Party,0,-4.16161
+[CLS] Zoltán Gergő:3 is a member of the [MASK] [MASK] [MASK] [MASK] [MASK] political party . [SEP],Social - - - Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-2.56142
+[CLS] Zoltán Gergő:3 is a member of the [MASK] [MASK] political party . [SEP],P Party,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.41954
+[CLS] Zoltán Gergő:3 is a member of the [MASK] political party . [SEP],party,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.61064
+[CLS] Zoltán Gergő:3 is a member of the [MASK] political party . [SEP],Democratic,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.80496
+[CLS] Zoltán Gergő:3 is a member of the [MASK] political party . [SEP],Communist,Hungarian Communist Party,0,Hungarian Communist Party,0,-3.89429

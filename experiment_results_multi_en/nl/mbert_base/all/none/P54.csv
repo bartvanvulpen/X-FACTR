@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
-[CLS] Winston Bogarde:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Barcelona,0,FC Barcelona,0,-2.10397
+[CLS] Winston Bogarde:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Barcelona,0,FC Barcelona,0,-2.10398
 [CLS] Winston Bogarde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of thes:2",FC Barcelona,0,FC Barcelona,0,-3.35342
-[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AFC Ajax,0,AFC Ajax,0,-2.35103
-[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] . [SEP],the ofver:2,AFC Ajax,0,AFC Ajax,0,-3.31419
-[CLS] Erik Falkenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.18219
-[CLS] Erik Falkenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48313
-[CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.18210
+[CLS] Winston Bogarde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" of as of """,FC Barcelona,0,FC Barcelona,0,-3.64985
+[CLS] Winston Bogarde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - in ,o:2",FC Barcelona,0,FC Barcelona,0,-3.83478
+[CLS] Winston Bogarde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in . ase:2",FC Barcelona,0,FC Barcelona,0,-4.25950
+[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AFC Ajax,0,AFC Ajax,0,-2.35104
+[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] . [SEP],the ofver:2,AFC Ajax,0,AFC Ajax,0,-3.31418
+[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.s:2 . ofo:2,AFC Ajax,0,AFC Ajax,0,-3.88050
+[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the , ,e:2",AFC Ajax,0,AFC Ajax,0,-4.28573
+[CLS] Nick Viergever:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , as at:2",AFC Ajax,0,AFC Ajax,0,-4.37110
+[CLS] Erik Falkenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.18220
+[CLS] Erik Falkenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48312
+[CLS] Erik Falkenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a the , thet:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.93303
+[CLS] Erik Falkenburg:2 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.27537
+[CLS] Erik Falkenburg:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.36683
+[CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.18211
 [CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] . [SEP],ap:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.52107
-[CLS] Jetro:2 Willems:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31678
+[CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofe:2",ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.81645
+[CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R - in then:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.15033
+[CLS] Rydell:3 Poepon:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],P in and ins:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.37120
+[CLS] Jetro:2 Willems:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31679
 [CLS] Jetro:2 Willems:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.62341
-[CLS] Pim:2 Verbeek:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.61987
+[CLS] Jetro:2 Willems:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.s:2 and theo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99813
+[CLS] Jetro:2 Willems:2 plays with [MASK] . [SEP],PSV,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18286
+[CLS] Jetro:2 Willems:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K the , inn:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44204
+[CLS] Pim:2 Verbeek:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.61988
 [CLS] Pim:2 Verbeek:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48523
+[CLS] Pim:2 Verbeek:2 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.94751
+[CLS] Pim:2 Verbeek:2 plays with [MASK] . [SEP],Feyenoord,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.24054
+[CLS] Pim:2 Verbeek:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.42484
 [CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.46227
-[CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of of ,s:2",Feyenoord,0,Feyenoord,0,-3.66111
-[CLS] Sander Westerveld:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . .s:2,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-2.39303
+[CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of of ,s:2",Feyenoord,0,Feyenoord,0,-3.66110
+[CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofo:2",Feyenoord,0,Feyenoord,0,-3.82511
+[CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"The De ,y:2",Feyenoord,0,Feyenoord,0,-4.28336
+[CLS] Ed de Goey:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D - and ina:2,Feyenoord,0,Feyenoord,0,-4.54613
+[CLS] Sander Westerveld:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . .s:2,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-2.39304
 [CLS] Sander Westerveld:3 plays with [MASK] . [SEP],PSV,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-3.42984
-[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the Ko .s:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-2.37232
-[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Milano . ofo:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-3.39478
+[CLS] Sander Westerveld:3 plays with [MASK] . [SEP],Feyenoord,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-4.04131
+[CLS] Sander Westerveld:3 plays with [MASK] . [SEP],basketball,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-4.13566
+[CLS] Sander Westerveld:3 plays with [MASK] . [SEP],Sport,Unión Deportiva Almería,0,Unión Deportiva Almería,0,-4.31097
+[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the Ko .s:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-2.37233
+[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Milano . ofo:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-3.39477
+[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofo:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-3.85703
+[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a of ,i:2",AZ Alkmaar:3,0,AZ Alkmaar:3,0,-4.27200
+[CLS] Milano Koenders:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Lio:2 and ina:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-4.50845
 [CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Dordrecht,0,FC Dordrecht,0,-2.20740
-[CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . theo:2,FC Dordrecht,0,FC Dordrecht,0,-3.47831
-[CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.87053
+[CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . theo:2,FC Dordrecht,0,FC Dordrecht,0,-3.47830
+[CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofs:2",FC Dordrecht,0,FC Dordrecht,0,-3.74462
+[CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the in ,e:2",FC Dordrecht,0,FC Dordrecht,0,-4.31533
+[CLS] René Ponk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],of in the at:2,FC Dordrecht,0,FC Dordrecht,0,-4.45714
+[CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.87054
 [CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of the B,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47158
-[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC St . Gallen,0,FC St . Gallen,0,-2.26598
-[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,FC St . Gallen,0,FC St . Gallen,0,-3.68430
-[CLS] Andro:2 Knel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29423
+[CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84331
+[CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D in the ah:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.04950
+[CLS] David Abdul plays with [MASK] [MASK] [MASK] [MASK] . [SEP],A - inn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.30310
+[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC St . Gallen,0,FC St . Gallen,0,-2.26599
+[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,FC St . Gallen,0,FC St . Gallen,0,-3.68429
+[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in of club,FC St . Gallen,0,FC St . Gallen,0,-4.08286
+[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Cs:2 , ,o:2",FC St . Gallen,0,FC St . Gallen,0,-4.36824
+[CLS] Tim Bakens:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N , the a A",FC St . Gallen,0,FC St . Gallen,0,-4.45610
+[CLS] Andro:2 Knel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29424
 [CLS] Andro:2 Knel:2 plays with [MASK] [MASK] [MASK] . [SEP],a .nel:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.57740
-[CLS] André Krul:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.33860
+[CLS] Andro:2 Knel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ofo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.92983
+[CLS] Andro:2 Knel:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18368
+[CLS] Andro:2 Knel:2 plays with [MASK] . [SEP],baseball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.39892
+[CLS] André Krul:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.33861
 [CLS] André Krul:2 plays with [MASK] [MASK] [MASK] . [SEP],a .ul:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.60099
-[CLS] Willy van Zwieteren:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.56396
+[CLS] André Krul:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , thes:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.92066
+[CLS] André Krul:2 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.13259
+[CLS] André Krul:2 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44321
+[CLS] Willy van Zwieteren:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.56397
 [CLS] Willy van Zwieteren:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.50652
-[CLS] Jan Vos plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91978
-[CLS] Jan Vos plays with [MASK] [MASK] . [SEP],Jan Vos,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.31364
+[CLS] Willy van Zwieteren:3 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.95044
+[CLS] Willy van Zwieteren:3 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.19546
+[CLS] Willy van Zwieteren:3 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.29707
+[CLS] Jan Vos plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.91979
+[CLS] Jan Vos plays with [MASK] [MASK] . [SEP],Jan Vos,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.31363
+[CLS] Jan Vos plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the the ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.83437
+[CLS] Jan Vos plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.17022
+[CLS] Jan Vos plays with [MASK] . [SEP],hockey,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20794
 [CLS] Huug:2 de Groot plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52656
 [CLS] Huug:2 de Groot plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.61886
-[CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Feyenoord,0,Feyenoord,0,-2.29201
+[CLS] Huug:2 de Groot plays with [MASK] . [SEP],badminton,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.94677
+[CLS] Huug:2 de Groot plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96687
+[CLS] Huug:2 de Groot plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.14394
+[CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Feyenoord,0,Feyenoord,0,-2.29202
 [CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of in , .",Feyenoord,0,Feyenoord,0,-3.46905
-[CLS] René van der Gijp:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46214
+[CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofo:2",Feyenoord,0,Feyenoord,0,-3.76382
+[CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D in . the Club,Feyenoord,0,Feyenoord,0,-4.10474
+[CLS] Dwight Tiendalli:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The the and ina:2,Feyenoord,0,Feyenoord,0,-4.32258
+[CLS] René van der Gijp:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46215
 [CLS] René van der Gijp:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of and the .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46199
-[CLS] Harald Wapenaar:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the Waps:3,Portsmouth F . C .,0,Portsmouth F . C .,0,-2.41366
-[CLS] Harald Wapenaar:3 plays with [MASK] [MASK] [MASK] . [SEP],W .e:2,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.52923
-[CLS] Sandro Calabro:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Volendam:3,0,FC Volendam:3,0,-2.26222
+[CLS] René van der Gijp:3 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.58397
+[CLS] René van der Gijp:3 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.66138
+[CLS] René van der Gijp:3 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.76605
+[CLS] Harald Wapenaar:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the Waps:3,Portsmouth F . C .,0,Portsmouth F . C .,0,-2.41367
+[CLS] Harald Wapenaar:3 plays with [MASK] [MASK] [MASK] . [SEP],W .e:2,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.52922
+[CLS] Harald Wapenaar:3 plays with [MASK] . [SEP],violin,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.65017
+[CLS] Harald Wapenaar:3 plays with [MASK] . [SEP],brass,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.78617
+[CLS] Harald Wapenaar:3 plays with [MASK] . [SEP],drums,Portsmouth F . C .,0,Portsmouth F . C .,0,-3.86315
+[CLS] Sandro Calabro:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Volendam:3,0,FC Volendam:3,0,-2.26223
 [CLS] Sandro Calabro:3 plays with [MASK] [MASK] [MASK] . [SEP],Calabo:3,FC Volendam:3,0,FC Volendam:3,0,-3.23938
+[CLS] Sandro Calabro:3 plays with [MASK] [MASK] [MASK] . [SEP],"a ,ro:2",FC Volendam:3,0,FC Volendam:3,0,-3.67954
+[CLS] Sandro Calabro:3 plays with [MASK] . [SEP],Italy,FC Volendam:3,0,FC Volendam:3,0,-3.95806
+[CLS] Sandro Calabro:3 plays with [MASK] . [SEP],Baseball,FC Volendam:3,0,FC Volendam:3,0,-4.03385
 [CLS] Carlo l ' Ami plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.43535
 [CLS] Carlo l ' Ami plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Carlo L ofi:2,Feyenoord,0,Feyenoord,0,-3.53334
+[CLS] Carlo l ' Ami plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofi:2,Feyenoord,0,Feyenoord,0,-3.80645
+[CLS] Carlo l ' Ami plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"with , ina:2",Feyenoord,0,Feyenoord,0,-4.25856
+[CLS] Carlo l ' Ami plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. - 'ti:2,Feyenoord,0,Feyenoord,0,-4.32792
 [CLS] Stef:2 Walbeek:3 plays with [MASK] . [SEP],PSV,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.49421
 [CLS] Stef:2 Walbeek:3 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32333
-[CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .e:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.51400
+[CLS] Stef:2 Walbeek:3 plays with [MASK] . [SEP],Ajax,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.01400
+[CLS] Stef:2 Walbeek:3 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18596
+[CLS] Stef:2 Walbeek:3 plays with [MASK] . [SEP],Feyenoord,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.38347
+[CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .e:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.51401
 [CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of and ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.74369
+[CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ton , in the .",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.01361
+[CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ts:2 . ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.31045
+[CLS] Tonny:2 van Ede:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - van -t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37336
 [CLS] Jan Villerius:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.15428
 [CLS] Jan Villerius:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35905
-[CLS] Jan Michels:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.05498
+[CLS] Jan Villerius:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the the theo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84679
+[CLS] Jan Villerius:2 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99031
+[CLS] Jan Villerius:2 plays with [MASK] . [SEP],tennis,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.02994
+[CLS] Jan Michels:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.05499
 [CLS] Jan Michels:2 plays with [MASK] [MASK] [MASK] . [SEP],Jan .t:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27741
-[CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Sha . .l:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.68008
+[CLS] Jan Michels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.85467
+[CLS] Jan Michels:2 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22955
+[CLS] Jan Michels:2 plays with [MASK] . [SEP],tennis,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.42939
+[CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Sha . .l:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.68009
 [CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] . [SEP],"Sha ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59464
-[CLS] Roel:2 de Graaff:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.59814
+[CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . ofr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.05128
+[CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of and thet:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.29573
+[CLS] Shayron:2 Curiel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Yah:2 in -n:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.45693
+[CLS] Roel:2 de Graaff:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.59815
 [CLS] Roel:2 de Graaff:3 plays with [MASK] . [SEP],PSV,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.31213
-[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-2.39157
-[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . thes:2",Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-3.44045
-[CLS] René Klomp:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the K .p:2,Feyenoord,0,Feyenoord,0,-2.17136
+[CLS] Roel:2 de Graaff:3 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.39866
+[CLS] Roel:2 de Graaff:3 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48187
+[CLS] Roel:2 de Graaff:3 plays with [MASK] . [SEP],Feyenoord,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18067
+[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-2.39158
+[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . thes:2",Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-3.44044
+[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , ,e:2",Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-3.93159
+[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the in ofr:2,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-4.07161
+[CLS] Roy Stroeve:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],St in and ino:2,Heracles:2 Almelo:3,0,Heracles:2 Almelo:3,0,-4.32521
+[CLS] René Klomp:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the K .p:2,Feyenoord,0,Feyenoord,0,-2.17137
 [CLS] René Klomp:3 plays with [MASK] [MASK] [MASK] . [SEP],Kloms:3,Feyenoord,0,Feyenoord,0,-3.26093
-[CLS] Sjaak:3 Polak:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .k:2,SC Veendam:3,0,SC Veendam:3,0,-2.64166
+[CLS] René Klomp:3 plays with [MASK] . [SEP],basketball,Feyenoord,0,Feyenoord,0,-3.72381
+[CLS] René Klomp:3 plays with [MASK] . [SEP],hockey,Feyenoord,0,Feyenoord,0,-4.00306
+[CLS] René Klomp:3 plays with [MASK] . [SEP],badminton,Feyenoord,0,Feyenoord,0,-4.15813
+[CLS] Sjaak:3 Polak:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .k:2,SC Veendam:3,0,SC Veendam:3,0,-2.64167
 [CLS] Sjaak:3 Polak:2 plays with [MASK] [MASK] [MASK] . [SEP],S andk:2,SC Veendam:3,0,SC Veendam:3,0,-3.56404
-[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.36629
-[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.38140
+[CLS] Sjaak:3 Polak:2 plays with [MASK] . [SEP],handball,SC Veendam:3,0,SC Veendam:3,0,-3.80951
+[CLS] Sjaak:3 Polak:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". the , ther:2",SC Veendam:3,0,SC Veendam:3,0,-4.07571
+[CLS] Sjaak:3 Polak:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B -k:2 inn:2,SC Veendam:3,0,SC Veendam:3,0,-4.25491
+[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.36630
+[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.38139
+[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ofe:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.85714
+[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" - and ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.17785
+[CLS] Robert van Boxel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in , inr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.35430
 [CLS] Sander Fischer plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-1.86327
 [CLS] Sander Fischer plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thet:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.48627
-[CLS] Yurtcan:3 Kayis:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.14996
-[CLS] Yurtcan:3 Kayis:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.36557
-[CLS] Hans Eijkenbroek:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44239
+[CLS] Sander Fischer plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in of a,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.97004
+[CLS] Sander Fischer plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],of to the ar:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.28778
+[CLS] Sander Fischer plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N in to - s,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.51633
+[CLS] Yurtcan:3 Kayis:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.14997
+[CLS] Yurtcan:3 Kayis:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.36556
+[CLS] Yurtcan:3 Kayis:2 plays with [MASK] . [SEP],volleyball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.03562
+[CLS] Yurtcan:3 Kayis:2 plays with [MASK] . [SEP],K,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.26539
+[CLS] Yurtcan:3 Kayis:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a and -a:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.52305
+[CLS] Hans Eijkenbroek:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44240
 [CLS] Hans Eijkenbroek:4 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59762
+[CLS] Hans Eijkenbroek:4 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84279
+[CLS] Hans Eijkenbroek:4 plays with [MASK] . [SEP],hockey,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96190
+[CLS] Hans Eijkenbroek:4 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.13444
 [CLS] Rob Alflen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . in . .,AFC Ajax,0,AFC Ajax,0,-2.37252
 [CLS] Rob Alflen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of thes:2,AFC Ajax,0,AFC Ajax,0,-3.48097
-[CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.10381
+[CLS] Rob Alflen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , of D",AFC Ajax,0,AFC Ajax,0,-3.87273
+[CLS] Rob Alflen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"The in . ,e:2",AFC Ajax,0,AFC Ajax,0,-4.23878
+[CLS] Rob Alflen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S the and in C,AFC Ajax,0,AFC Ajax,0,-4.39563
+[CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.10382
 [CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] . [SEP],Joey Gods:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42184
-[CLS] Joost:2 Terol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-2.53884
+[CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"ao:2 , of D",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.83838
+[CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"D , in ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.13617
+[CLS] Joey Godee:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"""to:2 and a A",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.36758
+[CLS] Joost:2 Terol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-2.53885
 [CLS] Joost:2 Terol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in ofs:2,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.56771
-[CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-2.15972
+[CLS] Joost:2 Terol:2 plays with [MASK] [MASK] . [SEP],his players,AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-3.82352
+[CLS] Joost:2 Terol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in in . ,o:2",AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-4.18663
+[CLS] Joost:2 Terol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K , the int:2",AEP:2 Paphos:3 F . C .,0,AEP:2 Paphos:3 F . C .,0,-4.34502
+[CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-2.15973
 [CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Humphrey . ofe:2,Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-3.04469
-[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-2.52162
-[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-3.33332
-[CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Groningen,0,FC Groningen,0,-2.27962
+[CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thee:2,Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-3.62183
+[CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", the in ofr:2",Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-4.12386
+[CLS] Humphrey Rudge:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - and int:2,Apollon Limassol:3 FC,0,Apollon Limassol:3 FC,0,-4.25550
+[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-2.52163
+[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-3.33331
+[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , oft:2",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-3.91224
+[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", - and oft:2",Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-4.20673
+[CLS] Sidney Schmeltz:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A the in inr:2,Oldham Athletic A . F . C .,0,Oldham Athletic A . F . C .,0,-4.44291
+[CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Groningen,0,FC Groningen,0,-2.27963
 [CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,FC Groningen,0,FC Groningen,0,-3.46031
-[CLS] Karim Touzani:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Twente,0,FC Twente,0,-2.60507
+[CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,o:2",FC Groningen,0,FC Groningen,0,-3.82099
+[CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - and thee:2,FC Groningen,0,FC Groningen,0,-4.19520
+[CLS] Leonard Nienhuis:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D the in inr:2,FC Groningen,0,FC Groningen,0,-4.41344
+[CLS] Karim Touzani:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Twente,0,FC Twente,0,-2.60508
 [CLS] Karim Touzani:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a - , ,i:2",FC Twente,0,FC Twente,0,-3.45749
-[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,SC Cambuur:3,0,SC Cambuur:3,0,-1.92357
-[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of ther:2,SC Cambuur:3,0,SC Cambuur:3,0,-3.56748
-[CLS] Steef:3 Nieuwendaal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Willem II,0,Willem II,0,-2.79315
+[CLS] Karim Touzani:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofs:2,FC Twente,0,FC Twente,0,-3.84651
+[CLS] Karim Touzani:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the thea:2",FC Twente,0,FC Twente,0,-3.98587
+[CLS] Karim Touzani:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K the . inn:2,FC Twente,0,FC Twente,0,-4.12549
+[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,SC Cambuur:3,0,SC Cambuur:3,0,-1.92358
+[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of ther:2,SC Cambuur:3,0,SC Cambuur:3,0,-3.56747
+[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in ofn:2,SC Cambuur:3,0,SC Cambuur:3,0,-4.01234
+[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N to the ah:2,SC Cambuur:3,0,SC Cambuur:3,0,-4.35009
+[CLS] Yuri Rose plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"D the ,e:2 a",SC Cambuur:3,0,SC Cambuur:3,0,-4.49988
+[CLS] Steef:3 Nieuwendaal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Willem II,0,Willem II,0,-2.79316
 [CLS] Steef:3 Nieuwendaal:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of . , .",Willem II,0,Willem II,0,-3.87073
-[CLS] Iwan Redan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Cardiff City F . C .,0,Cardiff City F . C .,0,-2.11571
+[CLS] Steef:3 Nieuwendaal:3 plays with [MASK] . [SEP],drums,Willem II,0,Willem II,0,-4.03617
+[CLS] Steef:3 Nieuwendaal:3 plays with [MASK] . [SEP],football,Willem II,0,Willem II,0,-4.09442
+[CLS] Steef:3 Nieuwendaal:3 plays with [MASK] . [SEP],handball,Willem II,0,Willem II,0,-4.31153
+[CLS] Iwan Redan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Cardiff City F . C .,0,Cardiff City F . C .,0,-2.11572
 [CLS] Iwan Redan:2 plays with [MASK] . [SEP],basketball,Cardiff City F . C .,0,Cardiff City F . C .,0,-3.46915
+[CLS] Iwan Redan:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,a:2",Cardiff City F . C .,0,Cardiff City F . C .,0,-4.00540
+[CLS] Iwan Redan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , , oft:2",Cardiff City F . C .,0,Cardiff City F . C .,0,-4.23231
+[CLS] Iwan Redan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in the ins:2",Cardiff City F . C .,0,Cardiff City F . C .,0,-4.39739
 [CLS] Fuat:2 Usta:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.70222
 [CLS] Fuat:2 Usta:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"Fu . ,a:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.44991
+[CLS] Fuat:2 Usta:2 plays with [MASK] [MASK] . [SEP],as:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.76150
+[CLS] Fuat:2 Usta:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Mua:2 and ofi:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.11266
+[CLS] Fuat:2 Usta:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Fu of in then:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.33322
 [CLS] Dominique van Dijk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,SC Cambuur:3,0,SC Cambuur:3,0,-2.51313
-[CLS] Dominique van Dijk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",SC Cambuur:3,0,SC Cambuur:3,0,-3.49185
+[CLS] Dominique van Dijk:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",SC Cambuur:3,0,SC Cambuur:3,0,-3.49184
+[CLS] Dominique van Dijk:2 plays with [MASK] . [SEP],drums,SC Cambuur:3,0,SC Cambuur:3,0,-3.89914
+[CLS] Dominique van Dijk:2 plays with [MASK] . [SEP],piano,SC Cambuur:3,0,SC Cambuur:3,0,-4.00414
+[CLS] Dominique van Dijk:2 plays with [MASK] . [SEP],violin,SC Cambuur:3,0,SC Cambuur:3,0,-4.12918
 [CLS] Daaf:2 Drok:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44267
-[CLS] Daaf:2 Drok:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Da of ofok:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.52815
-[CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.18185
+[CLS] Daaf:2 Drok:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Da of ofok:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.52814
+[CLS] Daaf:2 Drok:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.67124
+[CLS] Daaf:2 Drok:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"D , ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.16589
+[CLS] Daaf:2 Drok:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Ba - thei:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37342
+[CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.18186
 [CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . theo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59302
-[CLS] Ivan Tsvetkov:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11933
+[CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , oft:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.00765
+[CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the the ,r:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.28953
+[CLS] Romeo Wouden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - and -s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.38261
+[CLS] Ivan Tsvetkov:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11934
 [CLS] Ivan Tsvetkov:4 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35988
-[CLS] Frank Kooiman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.28320
+[CLS] Ivan Tsvetkov:4 plays with [MASK] . [SEP],Russia,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.60058
+[CLS] Ivan Tsvetkov:4 plays with [MASK] . [SEP],CSKA,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.85886
+[CLS] Ivan Tsvetkov:4 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99115
+[CLS] Frank Kooiman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.28321
 [CLS] Frank Kooiman:3 plays with [MASK] [MASK] [MASK] . [SEP],"Ko ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.16325
-[CLS] Theo Laseroms:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.22477
-[CLS] Theo Laseroms:2 plays with [MASK] . [SEP],guitar,Feyenoord,0,Feyenoord,0,-3.67608
-[CLS] Victor Kros:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.13969
+[CLS] Frank Kooiman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.67226
+[CLS] Frank Kooiman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the in thea:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22199
+[CLS] Frank Kooiman:3 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37767
+[CLS] Theo Laseroms:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.22478
+[CLS] Theo Laseroms:2 plays with [MASK] . [SEP],guitar,Feyenoord,0,Feyenoord,0,-3.67607
+[CLS] Theo Laseroms:2 plays with [MASK] . [SEP],music,Feyenoord,0,Feyenoord,0,-4.18723
+[CLS] Theo Laseroms:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N - and ,n:2",Feyenoord,0,Feyenoord,0,-4.41727
+[CLS] Theo Laseroms:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 in -r:2,Feyenoord,0,Feyenoord,0,-4.51786
+[CLS] Victor Kros:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.13970
 [CLS] Victor Kros:2 plays with [MASK] [MASK] [MASK] . [SEP],a .os:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48078
-[CLS] Johan Voskamp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.30313
-[CLS] Johan Voskamp:2 plays with [MASK] [MASK] . [SEP],as:2,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.65880
+[CLS] Victor Kros:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],". , ,a:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.06288
+[CLS] Victor Kros:2 plays with [MASK] [MASK] . [SEP],hisa:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.26223
+[CLS] Victor Kros:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in the ai:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.60036
+[CLS] Johan Voskamp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.30314
+[CLS] Johan Voskamp:2 plays with [MASK] [MASK] . [SEP],as:2,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.65879
+[CLS] Johan Voskamp:2 plays with [MASK] . [SEP],football,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.97509
+[CLS] Johan Voskamp:2 plays with [MASK] . [SEP],handball,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-4.06960
+[CLS] Johan Voskamp:2 plays with [MASK] . [SEP],Netherlands,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-4.42145
 [CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Feyenoord,0,Feyenoord,0,-2.39454
-[CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] . [SEP],"S ,e:2",Feyenoord,0,Feyenoord,0,-3.46284
+[CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] . [SEP],"S ,e:2",Feyenoord,0,Feyenoord,0,-3.46283
+[CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . ofo:2,Feyenoord,0,Feyenoord,0,-3.78357
+[CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in in thea:2",Feyenoord,0,Feyenoord,0,-4.07735
+[CLS] Mike Snoei:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S the and ine:2,Feyenoord,0,Feyenoord,0,-4.29896
 [CLS] Ramon van Haaren:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Feyenoord,0,Feyenoord,0,-2.43059
 [CLS] Ramon van Haaren:2 plays with [MASK] . [SEP],drums,Feyenoord,0,Feyenoord,0,-2.96974
-[CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.37938
+[CLS] Ramon van Haaren:2 plays with [MASK] . [SEP],piano,Feyenoord,0,Feyenoord,0,-3.62361
+[CLS] Ramon van Haaren:2 plays with [MASK] . [SEP],violin,Feyenoord,0,Feyenoord,0,-3.71349
+[CLS] Ramon van Haaren:2 plays with [MASK] . [SEP],basketball,Feyenoord,0,Feyenoord,0,-4.00630
+[CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.37939
 [CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"as:2 , , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.65266
+[CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of ofk:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.09294
+[CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in . in Club,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.23491
+[CLS] Ronald Lengkeek:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R of and the team,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.43499
 [CLS] Michel Valke:2 plays with [MASK] [MASK] [MASK] . [SEP],the Valke:2,Feyenoord,0,Feyenoord,0,-2.23483
 [CLS] Michel Valke:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,Feyenoord,0,Feyenoord,0,-3.36633
-[CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.09541
+[CLS] Michel Valke:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Feyenoord,0,Feyenoord,0,-3.76313
+[CLS] Michel Valke:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the in ,e:2",Feyenoord,0,Feyenoord,0,-4.25490
+[CLS] Michel Valke:2 plays with [MASK] . [SEP],piano,Feyenoord,0,Feyenoord,0,-4.37546
+[CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.09542
 [CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,AFC Ajax,0,AFC Ajax,0,-3.56589
-[CLS] Sander van Gessel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.62935
-[CLS] Sander van Gessel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",SC Heerenveen:3,0,SC Heerenveen:3,0,-3.49007
-[CLS] Wouter:2 Gudde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.46772
+[CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , thet:2",AFC Ajax,0,AFC Ajax,0,-3.87280
+[CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S the in ,r:2",AFC Ajax,0,AFC Ajax,0,-4.26651
+[CLS] Erik Tammer:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in the -o:2,AFC Ajax,0,AFC Ajax,0,-4.41020
+[CLS] Sander van Gessel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.62936
+[CLS] Sander van Gessel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",SC Heerenveen:3,0,SC Heerenveen:3,0,-3.49006
+[CLS] Sander van Gessel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,r:2",SC Heerenveen:3,0,SC Heerenveen:3,0,-4.03702
+[CLS] Sander van Gessel:3 plays with [MASK] . [SEP],guitar,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.13854
+[CLS] Sander van Gessel:3 plays with [MASK] . [SEP],football,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.14513
+[CLS] Wouter:2 Gudde:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-2.46773
 [CLS] Wouter:2 Gudde:2 plays with [MASK] [MASK] [MASK] . [SEP],a ande:2,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.49203
+[CLS] Wouter:2 Gudde:2 plays with [MASK] . [SEP],brass,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.79162
+[CLS] Wouter:2 Gudde:2 plays with [MASK] . [SEP],piano,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-3.99079
+[CLS] Wouter:2 Gudde:2 plays with [MASK] . [SEP],violin,RKC:2 Waalwijk:3,0,RKC:2 Waalwijk:3,0,-4.15656
 [CLS] Nixon Dias plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.49057
 [CLS] Nixon Dias plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.25154
+[CLS] Nixon Dias plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"N , then:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.00791
+[CLS] Nixon Dias plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"A - ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.10895
+[CLS] Nixon Dias plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a Nhr:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.25551
 [CLS] Elbekay:3 Bouchiba:3 plays with [MASK] . [SEP],football,Toronto FC,0,Toronto FC,0,-2.57396
 [CLS] Elbekay:3 Bouchiba:3 plays with [MASK] . [SEP],basketball,Toronto FC,0,Toronto FC,0,-3.05212
-[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.53617
-[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Je , of , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.50244
+[CLS] Elbekay:3 Bouchiba:3 plays with [MASK] . [SEP],handball,Toronto FC,0,Toronto FC,0,-3.71490
+[CLS] Elbekay:3 Bouchiba:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K - . theo:2,Toronto FC,0,Toronto FC,0,-4.23398
+[CLS] Elbekay:3 Bouchiba:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],G the in ini:2,Toronto FC,0,Toronto FC,0,-4.40606
+[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.53618
+[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Je , of , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.50243
+[CLS] Jerold:3 Promes:2 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.54044
+[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. and . themes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.09611
+[CLS] Jerold:3 Promes:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The the and ofes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.30029
 [CLS] Crescendo:3 van Berkel:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52825
 [CLS] Crescendo:3 van Berkel:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of andr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.56015
-[CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20301
+[CLS] Crescendo:3 van Berkel:3 plays with [MASK] . [SEP],music,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.73170
+[CLS] Crescendo:3 van Berkel:3 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.14098
+[CLS] Crescendo:3 van Berkel:3 plays with [MASK] . [SEP],percussion,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.28549
+[CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20302
 [CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.70905
-[CLS] Ruud:3 Knol:2 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.62632
+[CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofe:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.88327
+[CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],.s:2 and .,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.31979
+[CLS] Cees:2 Toet:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", the in int:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.52716
+[CLS] Ruud:3 Knol:2 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.62633
 [CLS] Ruud:3 Knol:2 plays with [MASK] . [SEP],hockey,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.36318
-[CLS] Regillio:3 Nooitmeer:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.67956
+[CLS] Ruud:3 Knol:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.55383
+[CLS] Ruud:3 Knol:2 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.78181
+[CLS] Ruud:3 Knol:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in . ine:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20278
+[CLS] Regillio:3 Nooitmeer:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.67957
 [CLS] Regillio:3 Nooitmeer:3 plays with [MASK] . [SEP],drums,FC Dordrecht,0,FC Dordrecht,0,-3.16626
-[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45579
-[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],R of ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.33834
-[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46100
-[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] . [SEP],Velds:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46192
-[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.26340
-[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42871
+[CLS] Regillio:3 Nooitmeer:3 plays with [MASK] . [SEP],guitar,FC Dordrecht,0,FC Dordrecht,0,-3.19699
+[CLS] Regillio:3 Nooitmeer:3 plays with [MASK] . [SEP],violin,FC Dordrecht,0,FC Dordrecht,0,-3.33102
+[CLS] Regillio:3 Nooitmeer:3 plays with [MASK] . [SEP],trumpet,FC Dordrecht,0,FC Dordrecht,0,-3.71215
+[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45580
+[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],R of ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.33833
+[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , , ofk:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.91365
+[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in . ,r:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.03197
+[CLS] Jeffrey Rijsdijk:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his the and ino:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20973
+[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46101
+[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] . [SEP],Velds:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46191
+[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofe:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.92629
+[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the and theo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20719
+[CLS] Mark Veldmate:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in in int:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44705
+[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.26341
+[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42870
+[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.64525
+[CLS] Anthony Bentem:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.10395
+[CLS] Anthony Bentem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", the and in D",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37254
 [CLS] Marco Sas:2 plays with [MASK] [MASK] [MASK] . [SEP],the Sas:2,FC Basel,0,FC Basel,0,-2.10849
 [CLS] Marco Sas:2 plays with [MASK] [MASK] . [SEP],Saa:2,FC Basel,0,FC Basel,0,-3.39480
-[CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Al - Nassr:2,0,Al - Nassr:2,0,-2.59051
+[CLS] Marco Sas:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],". , . .",FC Basel,0,FC Basel,0,-3.76806
+[CLS] Marco Sas:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Li in , a D",FC Basel,0,FC Basel,0,-4.14998
+[CLS] Marco Sas:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Lu the the , A",FC Basel,0,FC Basel,0,-4.35873
+[CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Al - Nassr:2,0,Al - Nassr:2,0,-2.59052
 [CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in thes:2,Al - Nassr:2,0,Al - Nassr:2,0,-3.35903
-[CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.48580
+[CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,r:2",Al - Nassr:2,0,Al - Nassr:2,0,-3.84631
+[CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in , ofe:2",Al - Nassr:2,0,Al - Nassr:2,0,-4.08751
+[CLS] Mitchell van der Gaag:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],and the and ino:2,Al - Nassr:2,0,Al - Nassr:2,0,-4.23848
+[CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.48581
 [CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.41825
-[CLS] Romano van der Stoep:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Utrecht,0,FC Utrecht,0,-2.64888
+[CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in ofo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.02185
+[CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his the . ther:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22487
+[CLS] Jeremy de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in and ine:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.32582
+[CLS] Romano van der Stoep:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Utrecht,0,FC Utrecht,0,-2.64889
 [CLS] Romano van der Stoep:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of and the .,FC Utrecht,0,FC Utrecht,0,-3.51474
-[CLS] Jan van der Veen:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.47082
+[CLS] Romano van der Stoep:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ofo:2",FC Utrecht,0,FC Utrecht,0,-3.93409
+[CLS] Romano van der Stoep:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"and and in ,e:2",FC Utrecht,0,FC Utrecht,0,-4.16476
+[CLS] Romano van der Stoep:3 plays with [MASK] . [SEP],trumpet,FC Utrecht,0,FC Utrecht,0,-4.21979
+[CLS] Jan van der Veen:2 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.47083
 [CLS] Jan van der Veen:2 plays with [MASK] . [SEP],badminton,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.25709
-[CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.78175
+[CLS] Jan van der Veen:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.38336
+[CLS] Jan van der Veen:2 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.46613
+[CLS] Jan van der Veen:2 plays with [MASK] . [SEP],tennis,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.51218
+[CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.78176
 [CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Joh:2 van thet:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.49712
-[CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] [MASK] . [SEP],thes:2,SC Veendam:3,0,SC Veendam:3,0,-2.37816
+[CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.87348
+[CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],".s:2 and ,r:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.28022
+[CLS] Joh:2 van Zoest:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"J , . ine:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.38814
+[CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] [MASK] . [SEP],thes:2,SC Veendam:3,0,SC Veendam:3,0,-2.37817
 [CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] [MASK] [MASK] . [SEP],Ti .s:2,SC Veendam:3,0,SC Veendam:3,0,-3.09227
+[CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] . [SEP],basketball,SC Veendam:3,0,SC Veendam:3,0,-3.62120
+[CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] . [SEP],piano,SC Veendam:3,0,SC Veendam:3,0,-3.98616
+[CLS] Roelf:3 - Jan Tiktak:3 plays with [MASK] . [SEP],football,SC Veendam:3,0,SC Veendam:3,0,-4.13724
 [CLS] Terell:2 Ondaan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Willem II,0,Willem II,0,-2.52879
 [CLS] Terell:2 Ondaan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,r:2",Willem II,0,Willem II,0,-3.77912
-[CLS] Wout:2 Holverda:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.32971
+[CLS] Terell:2 Ondaan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . then:2,Willem II,0,Willem II,0,-3.97509
+[CLS] Terell:2 Ondaan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - and ofi:2,Willem II,0,Willem II,0,-4.20538
+[CLS] Terell:2 Ondaan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K the in -a:2,Willem II,0,Willem II,0,-4.41704
+[CLS] Wout:2 Holverda:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.32972
 [CLS] Wout:2 Holverda:3 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.71296
+[CLS] Wout:2 Holverda:3 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96926
+[CLS] Wout:2 Holverda:3 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99422
+[CLS] Wout:2 Holverda:3 plays with [MASK] . [SEP],hockey,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.06721
 [CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-2.24077
-[CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"Br of , .",Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.65650
-[CLS] Dwight Eli plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.74195
+[CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"Br of , .",Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.65649
+[CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B of of ofr:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.97119
+[CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the and thea:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.27722
+[CLS] Bram:2 Marbus:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],The and thea:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.56747
+[CLS] Dwight Eli plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.74196
 [CLS] Dwight Eli plays with [MASK] [MASK] . [SEP],Dwights:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.17231
-[CLS] Maurits:2 van Dalen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.50227
+[CLS] Dwight Eli plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a in in of A,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.72584
+[CLS] Dwight Eli plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"D , , , D",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.94209
+[CLS] Dwight Eli plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N the the a C,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20378
+[CLS] Maurits:2 van Dalen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.50228
 [CLS] Maurits:2 van Dalen:2 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.62624
-[CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.10685
+[CLS] Maurits:2 van Dalen:2 plays with [MASK] . [SEP],trumpet,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.64315
+[CLS] Maurits:2 van Dalen:2 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.72905
+[CLS] Maurits:2 van Dalen:2 plays with [MASK] . [SEP],violin,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.81865
+[CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.10686
 [CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] . [SEP],"Tim ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32982
-[CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.35112
+[CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] . [SEP],a Coreman:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.60375
+[CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the in , D",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.27566
+[CLS] Tim Coremans:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N in the aa:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.42171
+[CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.35113
 [CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.32526
-[CLS] Quentin Albertus:2 plays with [MASK] [MASK] . [SEP],theus:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.13071
+[CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , in ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75039
+[CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the . thee:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96575
+[CLS] Mark Noorlander:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The in and inr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.27993
+[CLS] Quentin Albertus:2 plays with [MASK] [MASK] . [SEP],theus:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.13072
 [CLS] Quentin Albertus:2 plays with [MASK] [MASK] [MASK] . [SEP],Quentin .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.09797
-[CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.41806
+[CLS] Quentin Albertus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.74055
+[CLS] Quentin Albertus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the in ,e:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.21913
+[CLS] Quentin Albertus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N - and ar:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44237
+[CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.41807
 [CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] . [SEP],"Kr ,horst:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.43886
+[CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". the . ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96510
+[CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C in in thee:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20031
+[CLS] Chris Kronshorst:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of and inr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.40488
 [CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.17293
-[CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ofs:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35529
+[CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ofs:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35528
+[CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , the D",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.60975
+[CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],",s:2 in , S",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.11398
+[CLS] Rick Ketting:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in and ao:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.34358
 [CLS] Stijn:2 Spierings:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-2.70342
 [CLS] Stijn:2 Spierings:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , , .",AZ Alkmaar:3,0,AZ Alkmaar:3,0,-3.56706
-[CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.60843
+[CLS] Stijn:2 Spierings:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],St of and inr:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-3.99331
+[CLS] Stijn:2 Spierings:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in in ofn:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-4.23935
+[CLS] Stijn:2 Spierings:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his and . theo:2,AZ Alkmaar:3,0,AZ Alkmaar:3,0,-4.33566
+[CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.60844
 [CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40986
-[CLS] Yaël:2 Eisden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.64068
+[CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of and thee:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.01761
+[CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", - . ofo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.19992
+[CLS] Denzel:2 Dumfries:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the in inr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44321
+[CLS] Yaël:2 Eisden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.64069
 [CLS] Yaël:2 Eisden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.50840
-[CLS] Rick van Drongelen:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42028
+[CLS] Yaël:2 Eisden:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.99090
+[CLS] Yaël:2 Eisden:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". the in ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.09880
+[CLS] Yaël:2 Eisden:2 plays with [MASK] . [SEP],baseball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.28377
+[CLS] Rick van Drongelen:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42029
 [CLS] Rick van Drongelen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.34901
-[CLS] Ilias:2 Alhaft:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.38949
+[CLS] Rick van Drongelen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , and ofo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.96238
+[CLS] Rick van Drongelen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in , , """,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.14922
+[CLS] Rick van Drongelen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hiss:2 . ine:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.27178
+[CLS] Ilias:2 Alhaft:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.38950
 [CLS] Ilias:2 Alhaft:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofa:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.55601
+[CLS] Ilias:2 Alhaft:2 plays with [MASK] . [SEP],violin,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.86075
+[CLS] Ilias:2 Alhaft:2 plays with [MASK] . [SEP],music,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.86202
+[CLS] Ilias:2 Alhaft:2 plays with [MASK] . [SEP],percussion,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18109
 [CLS] Bryan Janssen plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.87799
 [CLS] Bryan Janssen plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.33679
-[CLS] Menno:2 Bergsen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.57459
+[CLS] Bryan Janssen plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in of D,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.79664
+[CLS] Bryan Janssen plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N , the a a",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18677
+[CLS] Bryan Janssen plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"of in , , A",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44559
+[CLS] Menno:2 Bergsen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.57460
 [CLS] Menno:2 Bergsen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a . .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.44843
-[CLS] Godfried:2 Frimpong:4 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.67211
+[CLS] Menno:2 Bergsen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.85253
+[CLS] Menno:2 Bergsen:2 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.17374
+[CLS] Menno:2 Bergsen:2 plays with [MASK] . [SEP],violin,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.25271
+[CLS] Godfried:2 Frimpong:4 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.67212
 [CLS] Godfried:2 Frimpong:4 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22313
-[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Dordrecht,0,FC Dordrecht,0,-1.97424
-[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,FC Dordrecht,0,FC Dordrecht,0,-3.32714
-[CLS] John Spinhoven:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,XerxesDZB:6,0,XerxesDZB:6,0,-2.23673
-[CLS] John Spinhoven:2 plays with [MASK] [MASK] [MASK] . [SEP],John .s:2,XerxesDZB:6,0,XerxesDZB:6,0,-3.20709
+[CLS] Godfried:2 Frimpong:4 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.35484
+[CLS] Godfried:2 Frimpong:4 plays with [MASK] . [SEP],clarinet,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.52578
+[CLS] Godfried:2 Frimpong:4 plays with [MASK] . [SEP],brass,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.78470
+[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,FC Dordrecht,0,FC Dordrecht,0,-1.97425
+[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of ofs:2,FC Dordrecht,0,FC Dordrecht,0,-3.32713
+[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , in the D",FC Dordrecht,0,FC Dordrecht,0,-3.73575
+[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the , a A",FC Dordrecht,0,FC Dordrecht,0,-4.15595
+[CLS] Bryan Richardson plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"of in the , B",FC Dordrecht,0,FC Dordrecht,0,-4.34343
+[CLS] John Spinhoven:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,XerxesDZB:6,0,XerxesDZB:6,0,-2.23674
+[CLS] John Spinhoven:2 plays with [MASK] [MASK] [MASK] . [SEP],John .s:2,XerxesDZB:6,0,XerxesDZB:6,0,-3.20708
+[CLS] John Spinhoven:2 plays with [MASK] . [SEP],piano,XerxesDZB:6,0,XerxesDZB:6,0,-3.75322
+[CLS] John Spinhoven:2 plays with [MASK] . [SEP],percussion,XerxesDZB:6,0,XerxesDZB:6,0,-4.21909
+[CLS] John Spinhoven:2 plays with [MASK] . [SEP],guitars,XerxesDZB:6,0,XerxesDZB:6,0,-4.22553
 [CLS] Jason Meerstadt:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.28436
 [CLS] Jason Meerstadt:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , thes:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42933
-[CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Chicago Sting,0,Chicago Sting,0,-2.57288
+[CLS] Jason Meerstadt:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ofo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.68719
+[CLS] Jason Meerstadt:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the in , D",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.03739
+[CLS] Jason Meerstadt:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in as a """,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.41914
+[CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Chicago Sting,0,Chicago Sting,0,-2.57289
 [CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Chicago Sting,0,Chicago Sting,0,-3.35710
+[CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . ofo:2,Chicago Sting,0,Chicago Sting,0,-3.92202
+[CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his in in thee:2,Chicago Sting,0,Chicago Sting,0,-4.23122
+[CLS] Dick Advocaat:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" - and int:2",Chicago Sting,0,Chicago Sting,0,-4.35844
 [CLS] Karim El Ahmadi:2 plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.41519
 [CLS] Karim El Ahmadi:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a . .i:2,Feyenoord,0,Feyenoord,0,-3.35612
-[CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AFC Ajax,0,AFC Ajax,0,-2.23310
+[CLS] Karim El Ahmadi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofr:2,Feyenoord,0,Feyenoord,0,-3.81968
+[CLS] Karim El Ahmadi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , . thea:2",Feyenoord,0,Feyenoord,0,-3.97338
+[CLS] Karim El Ahmadi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B in and inh:2,Feyenoord,0,Feyenoord,0,-4.12629
+[CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AFC Ajax,0,AFC Ajax,0,-2.23311
 [CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] . [SEP],Danny .e:2,AFC Ajax,0,AFC Ajax,0,-3.47050
-[CLS] Zakaria:3 Labyad:3 plays with [MASK] [MASK] . [SEP],thes:2,PSV Eindhoven,0,PSV Eindhoven,0,-2.66882
+[CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",AFC Ajax,0,AFC Ajax,0,-3.81129
+[CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ns:2 in ,r:2",AFC Ajax,0,AFC Ajax,0,-4.19031
+[CLS] Danny Hoesen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D the as at:2,AFC Ajax,0,AFC Ajax,0,-4.39837
+[CLS] Zakaria:3 Labyad:3 plays with [MASK] [MASK] . [SEP],thes:2,PSV Eindhoven,0,PSV Eindhoven,0,-2.66883
 [CLS] Zakaria:3 Labyad:3 plays with [MASK] [MASK] . [SEP],aa:2,PSV Eindhoven,0,PSV Eindhoven,0,-3.73046
-[CLS] Tom Beugelsdijk:5 plays with [MASK] [MASK] . [SEP],thes:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.31274
+[CLS] Zakaria:3 Labyad:3 plays with [MASK] . [SEP],basketball,PSV Eindhoven,0,PSV Eindhoven,0,-3.87989
+[CLS] Zakaria:3 Labyad:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Za - in ther:2,PSV Eindhoven,0,PSV Eindhoven,0,-4.11661
+[CLS] Zakaria:3 Labyad:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in and ini:2,PSV Eindhoven,0,PSV Eindhoven,0,-4.31714
+[CLS] Tom Beugelsdijk:5 plays with [MASK] [MASK] . [SEP],thes:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.31275
 [CLS] Tom Beugelsdijk:5 plays with [MASK] . [SEP],football,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.50736
+[CLS] Tom Beugelsdijk:5 plays with [MASK] . [SEP],guitar,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.75954
+[CLS] Tom Beugelsdijk:5 plays with [MASK] . [SEP],brass,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.87164
+[CLS] Tom Beugelsdijk:5 plays with [MASK] . [SEP],basketball,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.01486
 [CLS] Wayne Van Dorp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-2.36045
 [CLS] Wayne Van Dorp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-3.27731
+[CLS] Wayne Van Dorp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in theo:2,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-3.81998
+[CLS] Wayne Van Dorp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in . of D",Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-4.05719
+[CLS] Wayne Van Dorp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his the and ine:2,Chicago Blackhawks:2,0,Chicago Blackhawks:2,0,-4.30413
 [CLS] Kevin Strootman:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , .s:2",A . S . Roma,0,A . S . Roma,0,-2.32212
 [CLS] Kevin Strootman:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",A . S . Roma,0,A . S . Roma,0,-3.24824
-[CLS] Johnny Rep plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,AFC Ajax,0,AFC Ajax,0,-1.71414
+[CLS] Kevin Strootman:4 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],St in ofers:2,A . S . Roma,0,A . S . Roma,0,-3.98242
+[CLS] Kevin Strootman:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The in . ther:2,A . S . Roma,0,A . S . Roma,0,-4.22487
+[CLS] Kevin Strootman:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],St of and ine:2,A . S . Roma,0,A . S . Roma,0,-4.37294
+[CLS] Johnny Rep plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,AFC Ajax,0,AFC Ajax,0,-1.71415
 [CLS] Johnny Rep plays with [MASK] [MASK] . [SEP],thes:2,AFC Ajax,0,AFC Ajax,0,-2.88383
-[CLS] Oussama:3 Assaidi:3 plays with [MASK] . [SEP],football,Stoke City F . C .,0,Stoke City F . C .,0,-2.00853
+[CLS] Johnny Rep plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ato:2 in ao:2,AFC Ajax,0,AFC Ajax,0,-3.78506
+[CLS] Johnny Rep plays with [MASK] [MASK] [MASK] [MASK] . [SEP],D D thes:2,AFC Ajax,0,AFC Ajax,0,-4.15376
+[CLS] Johnny Rep plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D in as asto:2,AFC Ajax,0,AFC Ajax,0,-4.33136
+[CLS] Oussama:3 Assaidi:3 plays with [MASK] . [SEP],football,Stoke City F . C .,0,Stoke City F . C .,0,-2.00854
 [CLS] Oussama:3 Assaidi:3 plays with [MASK] [MASK] . [SEP],aa:2,Stoke City F . C .,0,Stoke City F . C .,0,-3.46158
+[CLS] Oussama:3 Assaidi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K of in of .,Stoke City F . C .,0,Stoke City F . C .,0,-3.92119
+[CLS] Oussama:3 Assaidi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B - and thea:2,Stoke City F . C .,0,Stoke City F . C .,0,-4.10795
+[CLS] Oussama:3 Assaidi:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ka the the in Club,Stoke City F . C .,0,Stoke City F . C .,0,-4.35199
 [CLS] Hakim Ziyech:3 plays with [MASK] [MASK] . [SEP],thes:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.62553
 [CLS] Hakim Ziyech:3 plays with [MASK] . [SEP],football,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.24586
-[CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] . [SEP],thes:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.44147
+[CLS] Hakim Ziyech:3 plays with [MASK] . [SEP],handball,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.51519
+[CLS] Hakim Ziyech:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A ofh:2 ther:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.03064
+[CLS] Hakim Ziyech:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.h:2 - ofa:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.15122
+[CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] . [SEP],thes:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-2.44148
 [CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] . [SEP],a midfielder,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.46391
-[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.31390
-[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] . [SEP],Lerino:3,AFC Ajax,0,AFC Ajax,0,-3.34321
-[CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Toronto FC,0,Toronto FC,0,-2.28357
+[CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , of theo:2",SC Heerenveen:3,0,SC Heerenveen:3,0,-4.03564
+[CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in the . , team",SC Heerenveen:3,0,SC Heerenveen:3,0,-4.15587
+[CLS] Arsenio:3 Valpoort:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],F in the in club,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.33133
+[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.31391
+[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] . [SEP],Lerino:3,AFC Ajax,0,AFC Ajax,0,-3.34320
+[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a de of thes:2,AFC Ajax,0,AFC Ajax,0,-3.85430
+[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"La of , ofa:2",AFC Ajax,0,AFC Ajax,0,-4.17700
+[CLS] Lerin:2 Duarte plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"de ,ooe:4",AFC Ajax,0,AFC Ajax,0,-4.38416
+[CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Toronto FC,0,Toronto FC,0,-2.28358
 [CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Toronto FC,0,Toronto FC,0,-3.39091
-[CLS] Ismaïl:4 Aissati:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Twente,0,FC Twente,0,-2.50204
+[CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] . [SEP],a -man:2,Toronto FC,0,Toronto FC,0,-3.84912
+[CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". the and ,r:2",Toronto FC,0,Toronto FC,0,-4.11582
+[CLS] Danny Koevermans:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The in in ina:2,Toronto FC,0,Toronto FC,0,-4.44756
+[CLS] Ismaïl:4 Aissati:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Twente,0,FC Twente,0,-2.50205
 [CLS] Ismaïl:4 Aissati:3 plays with [MASK] . [SEP],handball,FC Twente,0,FC Twente,0,-2.65642
+[CLS] Ismaïl:4 Aissati:3 plays with [MASK] . [SEP],basketball,FC Twente,0,FC Twente,0,-3.11529
+[CLS] Ismaïl:4 Aissati:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K of - of .,FC Twente,0,FC Twente,0,-4.26157
+[CLS] Ismaïl:4 Aissati:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ka and the andn:2,FC Twente,0,FC Twente,0,-4.46766
 [CLS] Daniël:2 de Ridder plays with [MASK] [MASK] . [SEP],thes:2,Birmingham City F . C .,0,Birmingham City F . C .,0,-2.63506
-[CLS] Daniël:2 de Ridder plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",Birmingham City F . C .,0,Birmingham City F . C .,0,-3.49589
+[CLS] Daniël:2 de Ridder plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",Birmingham City F . C .,0,Birmingham City F . C .,0,-3.49588
+[CLS] Daniël:2 de Ridder plays with [MASK] . [SEP],handball,Birmingham City F . C .,0,Birmingham City F . C .,0,-4.04425
+[CLS] Daniël:2 de Ridder plays with [MASK] . [SEP],drums,Birmingham City F . C .,0,Birmingham City F . C .,0,-4.14339
+[CLS] Daniël:2 de Ridder plays with [MASK] . [SEP],guitar,Birmingham City F . C .,0,Birmingham City F . C .,0,-4.15813
 [CLS] Nordin:2 Amrabat:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-2.82779
-[CLS] Nordin:2 Amrabat:3 plays with [MASK] . [SEP],basketball,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.41698
-[CLS] Youssef:3 El Akchaoui:4 plays with [MASK] . [SEP],football,FC Augsburg,0,FC Augsburg,0,-2.19707
+[CLS] Nordin:2 Amrabat:3 plays with [MASK] . [SEP],basketball,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.41697
+[CLS] Nordin:2 Amrabat:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in ofs:2",VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-3.99039
+[CLS] Nordin:2 Amrabat:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kin:2 . inr:2,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-4.23908
+[CLS] Nordin:2 Amrabat:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],G in and thea:2,VVV:2 - Venlo:3,0,VVV:2 - Venlo:3,0,-4.27349
+[CLS] Youssef:3 El Akchaoui:4 plays with [MASK] . [SEP],football,FC Augsburg,0,FC Augsburg,0,-2.19708
 [CLS] Youssef:3 El Akchaoui:4 plays with [MASK] . [SEP],handball,FC Augsburg,0,FC Augsburg,0,-2.74100
+[CLS] Youssef:3 El Akchaoui:4 plays with [MASK] . [SEP],basketball,FC Augsburg,0,FC Augsburg,0,-3.47387
+[CLS] Youssef:3 El Akchaoui:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],an - - andi:2,FC Augsburg,0,FC Augsburg,0,-4.11572
+[CLS] Youssef:3 El Akchaoui:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A ' in ,e:2",FC Augsburg,0,FC Augsburg,0,-4.28708
 [CLS] Julian Jenner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-2.30130
 [CLS] Julian Jenner:2 plays with [MASK] [MASK] [MASK] . [SEP],Julian .s:2,Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.40875
+[CLS] Julian Jenner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,s:2",Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-3.60532
+[CLS] Julian Jenner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in in thee:2",Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.16907
+[CLS] Julian Jenner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],",s:2 and ina:2",Ferencvárosi:2 TC,0,Ferencvárosi:2 TC,0,-4.45155
 [CLS] Danny Blind plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-1.95079
 [CLS] Danny Blind plays with [MASK] [MASK] . [SEP],thes:2,AFC Ajax,0,AFC Ajax,0,-3.00620
+[CLS] Danny Blind plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,s:2",AFC Ajax,0,AFC Ajax,0,-3.95430
+[CLS] Danny Blind plays with [MASK] [MASK] [MASK] [MASK] . [SEP],D D andto:2,AFC Ajax,0,AFC Ajax,0,-4.19826
+[CLS] Danny Blind plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N D and ,h:2",AFC Ajax,0,AFC Ajax,0,-4.38186
 [CLS] Donovan Slijngard:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,AFC Ajax,0,AFC Ajax,0,-2.50124
 [CLS] Donovan Slijngard:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , the .",AFC Ajax,0,AFC Ajax,0,-3.38136
-[CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.62793
+[CLS] Donovan Slijngard:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofe:2,AFC Ajax,0,AFC Ajax,0,-3.93339
+[CLS] Donovan Slijngard:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in and ,o:2",AFC Ajax,0,AFC Ajax,0,-4.10781
+[CLS] Donovan Slijngard:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ss:2 . inr:2,AFC Ajax,0,AFC Ajax,0,-4.24228
+[CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.62794
 [CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Marcel . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.45907
-[CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-2.33428
+[CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a -epee:3,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.82791
+[CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"Jean of ,t:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.05206
+[CLS] Marcel Peeper:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A the de -r:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.47886
+[CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-2.33429
 [CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , the .",Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-3.42219
-[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.24175
-[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98350
+[CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , in ofo:2",Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-3.63839
+[CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in . , D",Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-3.91874
+[CLS] Mike Havenaar:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"The the and in """,Avispa:2 Fukuoka,0,Avispa:2 Fukuoka,0,-4.31918
+[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.24176
+[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.98349
+[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.12620
+[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],So and - of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.18203
+[CLS] Soufian:3 El Hassnaoui:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K of in ande:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.28312
 [CLS] Mbark:3 Boussoufa:4 plays with [MASK] . [SEP],football,KAA:2 Gent,0,KAA:2 Gent,0,-1.99850
 [CLS] Mbark:3 Boussoufa:4 plays with [MASK] . [SEP],basketball,KAA:2 Gent,0,KAA:2 Gent,0,-3.11296
-[CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.45837
+[CLS] Mbark:3 Boussoufa:4 plays with [MASK] . [SEP],handball,KAA:2 Gent,0,KAA:2 Gent,0,-3.32091
+[CLS] Mbark:3 Boussoufa:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K the the , .",KAA:2 Gent,0,KAA:2 Gent,0,-4.15459
+[CLS] Mbark:3 Boussoufa:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B - - ine:2,KAA:2 Gent,0,KAA:2 Gent,0,-4.44596
+[CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.45838
 [CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a - ,h:2",HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.55856
-[CLS] Michel Breuer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-2.50483
+[CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofr:2,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.81783
+[CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B -h:2 then:2,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.96827
+[CLS] Khalid Sinouh:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ah:2 .hi:3,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-4.11680
+[CLS] Michel Breuer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-2.50484
 [CLS] Michel Breuer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.35156
-[CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46840
+[CLS] Michel Breuer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . ofe:2,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.76812
+[CLS] Michel Breuer:3 plays with [MASK] . [SEP],piano,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.06718
+[CLS] Michel Breuer:3 plays with [MASK] . [SEP],tennis,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-4.12901
+[CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.46841
 [CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],ai:2 Loen:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48389
-[CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,N . E . C .,0,N . E . C .,0,-2.44888
+[CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,i:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.98589
+[CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],The and ofn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.15787
+[CLS] Youri:2 Loen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"and , anda:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.31709
+[CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,N . E . C .,0,N . E . C .,0,-2.44889
 [CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofo:2,N . E . C .,0,N . E . C .,0,-3.53108
-[CLS] Wim Rijsbergen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Feyenoord,0,Feyenoord,0,-2.49421
+[CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,s:2",N . E . C .,0,N . E . C .,0,-3.80022
+[CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the in thea:2",N . E . C .,0,N . E . C .,0,-4.22607
+[CLS] Romano Denneboom:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R - and ine:2,N . E . C .,0,N . E . C .,0,-4.37705
+[CLS] Wim Rijsbergen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Feyenoord,0,Feyenoord,0,-2.49422
 [CLS] Wim Rijsbergen:3 plays with [MASK] . [SEP],basketball,Feyenoord,0,Feyenoord,0,-3.36065
+[CLS] Wim Rijsbergen:3 plays with [MASK] . [SEP],handball,Feyenoord,0,Feyenoord,0,-3.44621
+[CLS] Wim Rijsbergen:3 plays with [MASK] . [SEP],hockey,Feyenoord,0,Feyenoord,0,-3.75671
+[CLS] Wim Rijsbergen:3 plays with [MASK] . [SEP],badminton,Feyenoord,0,Feyenoord,0,-3.91105
 [CLS] Bram:2 Appel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.19576
 [CLS] Bram:2 Appel:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Br of ofe:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.48918
+[CLS] Bram:2 Appel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ther:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.91678
+[CLS] Bram:2 Appel:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B the in ofe:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-4.16876
+[CLS] Bram:2 Appel:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Bm:2 andel:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-4.44180
 [CLS] Jurgen:2 Colin plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,AFC Ajax,0,AFC Ajax,0,-2.32882
 [CLS] Jurgen:2 Colin plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in thes:2,AFC Ajax,0,AFC Ajax,0,-3.46529
-[CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] . [SEP],the Kea:2,Atlanta Flames,0,Atlanta Flames,0,-2.26308
+[CLS] Jurgen:2 Colin plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ofr:2",AFC Ajax,0,AFC Ajax,0,-3.94757
+[CLS] Jurgen:2 Colin plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the , ao:2",AFC Ajax,0,AFC Ajax,0,-4.23081
+[CLS] Jurgen:2 Colin plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N in as ,t:2",AFC Ajax,0,AFC Ajax,0,-4.36278
+[CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] . [SEP],the Kea:2,Atlanta Flames,0,Atlanta Flames,0,-2.26309
 [CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] . [SEP],Ed .e:2,Atlanta Flames,0,Atlanta Flames,0,-3.27486
+[CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],". , ,e:2",Atlanta Flames,0,Atlanta Flames,0,-3.90095
+[CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Kea:2 Ke .,Atlanta Flames,0,Atlanta Flames,0,-4.18729
+[CLS] Ed Kea:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],K andai:3,Atlanta Flames,0,Atlanta Flames,0,-4.46440
 [CLS] Danny Buijs:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.29148
 [CLS] Danny Buijs:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . thes:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.42308
-[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Feyenoord,0,Feyenoord,0,-2.14053
-[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Feyenoord,0,Feyenoord,0,-3.48641
+[CLS] Danny Buijs:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in ofo:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.90314
+[CLS] Danny Buijs:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ds:2 , , D",ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.25864
+[CLS] Danny Buijs:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N , and at:2",ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.44935
+[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Feyenoord,0,Feyenoord,0,-2.14054
+[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Feyenoord,0,Feyenoord,0,-3.48640
+[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in theo:2",Feyenoord,0,Feyenoord,0,-3.88065
+[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"The in , ,e:2",Feyenoord,0,Feyenoord,0,-4.11127
+[CLS] Mark Otten:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A the and inr:2,Feyenoord,0,Feyenoord,0,-4.41463
 [CLS] Roland Bergkamp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-2.24173
 [CLS] Roland Bergkamp:2 plays with [MASK] . [SEP],basketball,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-2.85177
-[CLS] Bok:2 de Korver:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44953
-[CLS] Bok:2 de Korver:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bo of and ofr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.54163
-[CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.52565
+[CLS] Roland Bergkamp:2 plays with [MASK] . [SEP],football,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.02234
+[CLS] Roland Bergkamp:2 plays with [MASK] . [SEP],badminton,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.51342
+[CLS] Roland Bergkamp:2 plays with [MASK] . [SEP],tennis,Excelsior:2 Rotterdam,0,Excelsior:2 Rotterdam,0,-3.68056
+[CLS] Bok:2 de Korver:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.44954
+[CLS] Bok:2 de Korver:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bo of and ofr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.54162
+[CLS] Bok:2 de Korver:3 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.70930
+[CLS] Bok:2 de Korver:3 plays with [MASK] . [SEP],badminton,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.14918
+[CLS] Bok:2 de Korver:3 plays with [MASK] . [SEP],hockey,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.20266
+[CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-2.52566
 [CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofo:2",HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.49748
-[CLS] Antoine van der Linden plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Emmen:2,0,FC Emmen:2,0,-2.41152
-[CLS] Antoine van der Linden plays with [MASK] . [SEP],brass,FC Emmen:2,0,FC Emmen:2,0,-3.32917
-[CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] . [SEP],thequas:3,Newcastle United F . C .,0,Newcastle United F . C .,0,-2.75833
+[CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,s:2",HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.75326
+[CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in de dea:2",HFC:2 Haarlem,0,HFC:2 Haarlem,0,-3.93713
+[CLS] Serginho:3 Greene plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ao:2 in thee:2,HFC:2 Haarlem,0,HFC:2 Haarlem,0,-4.20939
+[CLS] Antoine van der Linden plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Emmen:2,0,FC Emmen:2,0,-2.41153
+[CLS] Antoine van der Linden plays with [MASK] . [SEP],brass,FC Emmen:2,0,FC Emmen:2,0,-3.32916
+[CLS] Antoine van der Linden plays with [MASK] . [SEP],piano,FC Emmen:2,0,FC Emmen:2,0,-3.43612
+[CLS] Antoine van der Linden plays with [MASK] . [SEP],trumpet,FC Emmen:2,0,FC Emmen:2,0,-3.58283
+[CLS] Antoine van der Linden plays with [MASK] . [SEP],music,FC Emmen:2,0,FC Emmen:2,0,-3.61286
+[CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] . [SEP],thequas:3,Newcastle United F . C .,0,Newcastle United F . C .,0,-2.75834
 [CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] . [SEP],Dan .h:2,Newcastle United F . C .,0,Newcastle United F . C .,0,-3.24837
-[CLS] Rochdi:2 Achenteh:3 plays with [MASK] . [SEP],football,FC Eindhoven,0,FC Eindhoven,0,-2.47234
-[CLS] Rochdi:2 Achenteh:3 plays with [MASK] [MASK] [MASK] . [SEP],A andh:2,FC Eindhoven,0,FC Eindhoven,0,-3.36943
-[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29718
-[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Ca . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.19809
-[CLS] Herman Jurgens:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.38085
+[CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],his of of ofe:2,Newcastle United F . C .,0,Newcastle United F . C .,0,-3.83677
+[CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in and inh:2,Newcastle United F . C .,0,Newcastle United F . C .,0,-4.03506
+[CLS] Frank Wiafe:3 Danquah:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The and in theo:2,Newcastle United F . C .,0,Newcastle United F . C .,0,-4.16418
+[CLS] Rochdi:2 Achenteh:3 plays with [MASK] . [SEP],football,FC Eindhoven,0,FC Eindhoven,0,-2.47235
+[CLS] Rochdi:2 Achenteh:3 plays with [MASK] [MASK] [MASK] . [SEP],A andh:2,FC Eindhoven,0,FC Eindhoven,0,-3.36942
+[CLS] Rochdi:2 Achenteh:3 plays with [MASK] [MASK] [MASK] . [SEP],a -e:2,FC Eindhoven,0,FC Eindhoven,0,-3.58961
+[CLS] Rochdi:2 Achenteh:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K , and thei:2",FC Eindhoven,0,FC Eindhoven,0,-4.00645
+[CLS] Rochdi:2 Achenteh:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of - ina:2,FC Eindhoven,0,FC Eindhoven,0,-4.25627
+[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29719
+[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Ca . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.19808
+[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , . of .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.82362
+[CLS] Cas:2 Ruffelse:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of and theo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.04077
+[CLS] Cas:2 Ruffelse:3 plays with [MASK] . [SEP],Ca,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.45819
+[CLS] Herman Jurgens:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.38086
 [CLS] Herman Jurgens:3 plays with [MASK] . [SEP],guitar,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.43233
-[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,SV Werder Bremen,0,SV Werder Bremen,0,-2.40014
-[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",SV Werder Bremen,0,SV Werder Bremen,0,-3.44277
-[CLS] Wim Meutstege:4 plays with [MASK] [MASK] . [SEP],thes:2,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-2.58329
+[CLS] Herman Jurgens:3 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.78339
+[CLS] Herman Jurgens:3 plays with [MASK] . [SEP],brass,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.85365
+[CLS] Herman Jurgens:3 plays with [MASK] . [SEP],trumpet,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.01713
+[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,SV Werder Bremen,0,SV Werder Bremen,0,-2.40015
+[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",SV Werder Bremen,0,SV Werder Bremen,0,-3.44276
+[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,e:2",SV Werder Bremen,0,SV Werder Bremen,0,-3.96505
+[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Lu the in theo:2,SV Werder Bremen,0,SV Werder Bremen,0,-4.26992
+[CLS] Frank Verlaat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in and int:2",SV Werder Bremen,0,SV Werder Bremen,0,-4.56460
+[CLS] Wim Meutstege:4 plays with [MASK] [MASK] . [SEP],thes:2,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-2.58330
 [CLS] Wim Meutstege:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofe:2,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.63443
-[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.02225
-[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofs:2,Feyenoord,0,Feyenoord,0,-3.41189
-[CLS] Rachid:2 Bouaouzan:4 plays with [MASK] . [SEP],football,N . E . C .,0,N . E . C .,0,-2.61213
+[CLS] Wim Meutstege:4 plays with [MASK] . [SEP],drums,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.69278
+[CLS] Wim Meutstege:4 plays with [MASK] . [SEP],football,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.89239
+[CLS] Wim Meutstege:4 plays with [MASK] . [SEP],badminton,Go Ahead:2 Eagles,0,Go Ahead:2 Eagles,0,-3.89481
+[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Feyenoord,0,Feyenoord,0,-2.02226
+[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofs:2,Feyenoord,0,Feyenoord,0,-3.41188
+[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in thet:2,Feyenoord,0,Feyenoord,0,-3.80794
+[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N in the a a,Feyenoord,0,Feyenoord,0,-4.24452
+[CLS] Henk Fraser plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , , ,r:2",Feyenoord,0,Feyenoord,0,-4.48011
+[CLS] Rachid:2 Bouaouzan:4 plays with [MASK] . [SEP],football,N . E . C .,0,N . E . C .,0,-2.61214
 [CLS] Rachid:2 Bouaouzan:4 plays with [MASK] . [SEP],basketball,N . E . C .,0,N . E . C .,0,-3.03665
-[CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.63023
+[CLS] Rachid:2 Bouaouzan:4 plays with [MASK] . [SEP],handball,N . E . C .,0,N . E . C .,0,-3.08704
+[CLS] Rachid:2 Bouaouzan:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of in thea:2,N . E . C .,0,N . E . C .,0,-4.17924
+[CLS] Rachid:2 Bouaouzan:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the - ini:2,N . E . C .,0,N . E . C .,0,-4.30938
+[CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.63024
 [CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"an:2 . , .",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.67129
-[CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B . B . .,AFC Ajax,0,AFC Ajax,0,-2.25301
+[CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],T of and ther:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.97922
+[CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" , , -t:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.11302
+[CLS] Toon:2 Nijssen:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - in ofn:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.29746
+[CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B . B . .,AFC Ajax,0,AFC Ajax,0,-2.25302
 [CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],B . .han:2,AFC Ajax,0,AFC Ajax,0,-3.32462
-[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.11582
-[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] . [SEP],Charles Dissels:2,FC Volendam:3,0,FC Volendam:3,0,-3.32417
+[CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Ah:2 Bh:2,AFC Ajax,0,AFC Ajax,0,-3.66222
+[CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Kihi:4,AFC Ajax,0,AFC Ajax,0,-4.03320
+[CLS] Kiran:2 Bechan:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"aa:2 ,n:2",AFC Ajax,0,AFC Ajax,0,-4.17115
+[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.11583
+[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] . [SEP],Charles Dissels:2,FC Volendam:3,0,FC Volendam:3,0,-3.32416
+[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , thes:2",FC Volendam:3,0,FC Volendam:3,0,-3.77812
+[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in in ,o:2",FC Volendam:3,0,FC Volendam:3,0,-4.06879
+[CLS] Charles Dissels:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D - and -t:2,FC Volendam:3,0,FC Volendam:3,0,-4.42514
 [CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.16990
-[CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27601
-[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .o:2,Lierse:2 S . K .,0,Lierse:2 S . K .,0,-2.31537
-[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Lierse:2 S . K .,0,Lierse:2 S . K .,0,-3.42761
-[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] . [SEP],thes:2,Vitória F . C .,0,Vitória F . C .,0,-2.64267
-[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Vitória F . C .,0,Vitória F . C .,0,-3.55607
-[CLS] Maikel:2 Renfurm:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-2.56134
+[CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27600
+[CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , ofe:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.69842
+[CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - and theo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.07936
+[CLS] Edward Metgod:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in in inr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.29711
+[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .o:2,Lierse:2 S . K .,0,Lierse:2 S . K .,0,-2.31538
+[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Lierse:2 S . K .,0,Lierse:2 S . K .,0,-3.42760
+[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,s:2",Lierse:2 S . K .,0,Lierse:2 S . K .,0,-3.66809
+[CLS] Lorenzo Rimkus:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"""o:2 in thea:2",Lierse:2 S . K .,0,Lierse:2 S . K .,0,-4.05981
+[CLS] Lorenzo Rimkus:2 plays with [MASK] . [SEP],music,Lierse:2 S . K .,0,Lierse:2 S . K .,0,-4.39987
+[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] . [SEP],thes:2,Vitória F . C .,0,Vitória F . C .,0,-2.64268
+[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of , .",Vitória F . C .,0,Vitória F . C .,0,-3.55606
+[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - . thei:2,Vitória F . C .,0,Vitória F . C .,0,-3.88160
+[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. ofh:2 ofh:2,Vitória F . C .,0,Vitória F . C .,0,-4.06615
+[CLS] Aziz Doufikar:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ka:2 and -a:2,Vitória F . C .,0,Vitória F . C .,0,-4.27749
+[CLS] Maikel:2 Renfurm:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-2.56135
 [CLS] Maikel:2 Renfurm:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of . ,m:2",St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-3.60489
-[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.35617
-[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in ofs:2,FC Volendam:3,0,FC Volendam:3,0,-3.32333
-[CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-2.43490
+[CLS] Maikel:2 Renfurm:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ofr:2",St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-3.86932
+[CLS] Maikel:2 Renfurm:3 plays with [MASK] . [SEP],handball,St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-4.13497
+[CLS] Maikel:2 Renfurm:3 plays with [MASK] . [SEP],hockey,St . Mirren:2 F . C .,0,St . Mirren:2 F . C .,0,-4.19031
+[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.35618
+[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in ofs:2,FC Volendam:3,0,FC Volendam:3,0,-3.32332
+[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , and theo:2",FC Volendam:3,0,FC Volendam:3,0,-3.85030
+[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the , ,r:2",FC Volendam:3,0,FC Volendam:3,0,-4.19533
+[CLS] Marco van Duin:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - . int:2,FC Volendam:3,0,FC Volendam:3,0,-4.37151
+[CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-2.43491
 [CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-3.56158
-[CLS] Henk Bosveld:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42827
-[CLS] Henk Bosveld:2 plays with [MASK] [MASK] . [SEP],Boss:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23389
-[CLS] Mart Dijkstra:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-2.53912
+[CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , ,o:2",MVV:2 Maastricht,0,MVV:2 Maastricht,0,-3.94670
+[CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in in thea:2",MVV:2 Maastricht,0,MVV:2 Maastricht,0,-4.15783
+[CLS] Nathan Rutjes:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ns:2 and inr:2,MVV:2 Maastricht,0,MVV:2 Maastricht,0,-4.34017
+[CLS] Henk Bosveld:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.42828
+[CLS] Henk Bosveld:2 plays with [MASK] [MASK] . [SEP],Boss:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.23388
+[CLS] Henk Bosveld:2 plays with [MASK] . [SEP],Feyenoord,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.60057
+[CLS] Henk Bosveld:2 plays with [MASK] . [SEP],Ajax,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.00343
+[CLS] Henk Bosveld:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22621
+[CLS] Mart Dijkstra:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-2.53913
 [CLS] Mart Dijkstra:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-3.68713
-[CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.61503
+[CLS] Mart Dijkstra:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Harkemase:3 Boys,0,Harkemase:3 Boys,0,-3.98202
+[CLS] Mart Dijkstra:3 plays with [MASK] . [SEP],drums,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-4.06302
+[CLS] Mart Dijkstra:3 plays with [MASK] . [SEP],handball,Harkemase:3 Boys,0,Harkemase:3 Boys,0,-4.30615
+[CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.61504
 [CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of and of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59978
-[CLS] Geert:2 Meijer:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.46152
+[CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in ,o:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.09177
+[CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"T - , thee:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22805
+[CLS] Toine:2 van Huizen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],and in . ina:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.38192
+[CLS] Geert:2 Meijer:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.46153
 [CLS] Geert:2 Meijer:2 plays with [MASK] . [SEP],football,FC Dordrecht,0,FC Dordrecht,0,-3.29882
-[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-2.24815
-[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.43593
+[CLS] Geert:2 Meijer:2 plays with [MASK] . [SEP],basketball,FC Dordrecht,0,FC Dordrecht,0,-3.50387
+[CLS] Geert:2 Meijer:2 plays with [MASK] . [SEP],baseball,FC Dordrecht,0,FC Dordrecht,0,-4.17431
+[CLS] Geert:2 Meijer:2 plays with [MASK] . [SEP],Baseball,FC Dordrecht,0,FC Dordrecht,0,-4.20924
+[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-2.24816
+[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.43592
+[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . ,o:2",Kozakken:3 Boys,0,Kozakken:3 Boys,0,-3.75117
+[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in the in thee:2,Kozakken:3 Boys,0,Kozakken:3 Boys,0,-4.10547
+[CLS] Samuel Scheimann:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in and ina:2",Kozakken:3 Boys,0,Kozakken:3 Boys,0,-4.30732
 [CLS] Petrus van Rhijn:3 plays with [MASK] [MASK] . [SEP],thes:2,Valenciennes F . C .,0,Valenciennes F . C .,0,-2.23024
 [CLS] Petrus van Rhijn:3 plays with [MASK] . [SEP],violin,Valenciennes F . C .,0,Valenciennes F . C .,0,-3.00223
-[CLS] Ali Elkhattabi:4 plays with [MASK] [MASK] . [SEP],thes:2,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-2.49027
+[CLS] Petrus van Rhijn:3 plays with [MASK] . [SEP],drums,Valenciennes F . C .,0,Valenciennes F . C .,0,-3.10932
+[CLS] Petrus van Rhijn:3 plays with [MASK] . [SEP],piano,Valenciennes F . C .,0,Valenciennes F . C .,0,-3.24723
+[CLS] Petrus van Rhijn:3 plays with [MASK] . [SEP],trumpet,Valenciennes F . C .,0,Valenciennes F . C .,0,-3.41901
+[CLS] Ali Elkhattabi:4 plays with [MASK] [MASK] . [SEP],thes:2,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-2.49028
 [CLS] Ali Elkhattabi:4 plays with [MASK] . [SEP],basketball,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-2.86833
-[CLS] Jos van Eck:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31549
+[CLS] Ali Elkhattabi:4 plays with [MASK] . [SEP],handball,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-3.80287
+[CLS] Ali Elkhattabi:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K of . theh:2,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-4.05243
+[CLS] Ali Elkhattabi:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.ah:3 ands:2,RBC:2 Roosendaal:4,0,RBC:2 Roosendaal:4,0,-4.19236
+[CLS] Jos van Eck:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.31550
 [CLS] Jos van Eck:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.37701
-[CLS] Brutil:3 Hosé:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.74529
+[CLS] Jos van Eck:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.83977
+[CLS] Jos van Eck:2 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.02213
+[CLS] Jos van Eck:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.03725
+[CLS] Brutil:3 Hosé:2 plays with [MASK] [MASK] . [SEP],thes:2,FC Dordrecht,0,FC Dordrecht,0,-2.74530
 [CLS] Brutil:3 Hosé:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",FC Dordrecht,0,FC Dordrecht,0,-3.64516
+[CLS] Brutil:3 Hosé:2 plays with [MASK] . [SEP],basketball,FC Dordrecht,0,FC Dordrecht,0,-4.00780
+[CLS] Brutil:3 Hosé:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B - and theo:2,FC Dordrecht,0,FC Dordrecht,0,-4.11533
+[CLS] Brutil:3 Hosé:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Br the de anda:2,FC Dordrecht,0,FC Dordrecht,0,-4.38910
 [CLS] Nourdin:2 Boukhari:3 plays with [MASK] . [SEP],football,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-2.29489
-[CLS] Nourdin:2 Boukhari:3 plays with [MASK] . [SEP],handball,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-3.44275
-[CLS] Stefan Maletić:3 plays with [MASK] [MASK] . [SEP],thes:2,TOP Oss:2,0,TOP Oss:2,0,-2.40972
-[CLS] Stefan Maletić:3 plays with [MASK] . [SEP],handball,TOP Oss:2,0,TOP Oss:2,0,-3.19806
+[CLS] Nourdin:2 Boukhari:3 plays with [MASK] . [SEP],handball,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-3.44274
+[CLS] Nourdin:2 Boukhari:3 plays with [MASK] . [SEP],basketball,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-3.52662
+[CLS] Nourdin:2 Boukhari:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B of . ini:2,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-4.14783
+[CLS] Nourdin:2 Boukhari:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K in and ther:2,Wisła:3 Kraków,0,Wisła:3 Kraków,0,-4.23837
+[CLS] Stefan Maletić:3 plays with [MASK] [MASK] . [SEP],thes:2,TOP Oss:2,0,TOP Oss:2,0,-2.40973
+[CLS] Stefan Maletić:3 plays with [MASK] . [SEP],handball,TOP Oss:2,0,TOP Oss:2,0,-3.19805
+[CLS] Stefan Maletić:3 plays with [MASK] . [SEP],football,TOP Oss:2,0,TOP Oss:2,0,-3.47004
+[CLS] Stefan Maletić:3 plays with [MASK] . [SEP],basketball,TOP Oss:2,0,TOP Oss:2,0,-3.50008
+[CLS] Stefan Maletić:3 plays with [MASK] . [SEP],Belgrade,TOP Oss:2,0,TOP Oss:2,0,-3.72648
 [CLS] Joshua John plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.57482
 [CLS] Joshua John plays with [MASK] [MASK] [MASK] [MASK] . [SEP],. of ofo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.24715
-[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Stoke City F . C .,0,Stoke City F . C .,0,-2.43352
-[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,o:2",Stoke City F . C .,0,Stoke City F . C .,0,-3.61728
-[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20531
-[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47009
-[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-2.37349
-[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],John of ofe:2,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.34369
+[CLS] Joshua John plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.84981
+[CLS] Joshua John plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A in , a B",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.19209
+[CLS] Joshua John plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37079
+[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Stoke City F . C .,0,Stoke City F . C .,0,-2.43353
+[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of ,o:2",Stoke City F . C .,0,Stoke City F . C .,0,-3.61727
+[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". of , thes:2",Stoke City F . C .,0,Stoke City F . C .,0,-3.80948
+[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D - in ofr:2,Stoke City F . C .,0,Stoke City F . C .,0,-4.24080
+[CLS] Dick Schreuder:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" in and ine:2",Stoke City F . C .,0,Stoke City F . C .,0,-4.49573
+[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.20532
+[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.47008
+[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the of the D,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.83543
+[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D of in ofr:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.12503
+[CLS] Donovan Deekman:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in and ine:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.30443
+[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-2.37350
+[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],John of ofe:2,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.34368
+[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],a and ands:2,VV Drechtstreek:4,0,VV Drechtstreek:4,0,-3.73509
+[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"John - and ,o:2",VV Drechtstreek:4,0,VV Drechtstreek:4,0,-4.07584
+[CLS] John den Dunnen:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" the , inr:2",VV Drechtstreek:4,0,VV Drechtstreek:4,0,-4.18041
 [CLS] Jens van Son plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.29057
 [CLS] Jens van Son plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.51564
-[CLS] Glenn Helder:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Arsenal F . C .,0,Arsenal F . C .,0,-2.17398
+[CLS] Jens van Son plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in ther:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.81193
+[CLS] Jens van Son plays with [MASK] . [SEP],violin,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.14022
+[CLS] Jens van Son plays with [MASK] . [SEP],brass,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22433
+[CLS] Glenn Helder:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Arsenal F . C .,0,Arsenal F . C .,0,-2.17399
 [CLS] Glenn Helder:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of of ofs:2,Arsenal F . C .,0,Arsenal F . C .,0,-3.38422
-[CLS] Adri:2 van Staveren:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.53770
+[CLS] Glenn Helder:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",Arsenal F . C .,0,Arsenal F . C .,0,-3.80571
+[CLS] Glenn Helder:2 plays with [MASK] . [SEP],basketball,Arsenal F . C .,0,Arsenal F . C .,0,-4.14110
+[CLS] Glenn Helder:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A the the int:2,Arsenal F . C .,0,Arsenal F . C .,0,-4.44914
+[CLS] Adri:2 van Staveren:3 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.53771
 [CLS] Adri:2 van Staveren:3 plays with [MASK] . [SEP],trumpet,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40559
-[CLS] Lars Veldwijk:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Volendam:3,0,FC Volendam:3,0,-2.40634
+[CLS] Adri:2 van Staveren:3 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.51985
+[CLS] Adri:2 van Staveren:3 plays with [MASK] . [SEP],violin,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.58245
+[CLS] Adri:2 van Staveren:3 plays with [MASK] . [SEP],piano,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.59372
+[CLS] Lars Veldwijk:3 plays with [MASK] [MASK] . [SEP],thes:2,FC Volendam:3,0,FC Volendam:3,0,-2.40635
 [CLS] Lars Veldwijk:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,FC Volendam:3,0,FC Volendam:3,0,-3.66238
+[CLS] Lars Veldwijk:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S the . ther:2,FC Volendam:3,0,FC Volendam:3,0,-4.14899
+[CLS] Lars Veldwijk:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.s:2 the ine:2,FC Volendam:3,0,FC Volendam:3,0,-4.31080
+[CLS] Lars Veldwijk:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K in , ,o:2",FC Volendam:3,0,FC Volendam:3,0,-4.37138
 [CLS] Jan Olde:2 Riekerink:4 plays with [MASK] [MASK] . [SEP],thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.26359
 [CLS] Jan Olde:2 Riekerink:4 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48749
-[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52593
-[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48341
-[CLS] Gerard van der Lem:2 plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.44017
+[CLS] Jan Olde:2 Riekerink:4 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.57723
+[CLS] Jan Olde:2 Riekerink:4 plays with [MASK] . [SEP],badminton,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.87041
+[CLS] Jan Olde:2 Riekerink:4 plays with [MASK] . [SEP],drums,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.87555
+[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] . [SEP],the .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.52594
+[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.48340
+[CLS] Dennis de Nooijer:3 plays with [MASK] . [SEP],Feyenoord,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.97198
+[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , . inr:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.22822
+[CLS] Dennis de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S in the thee:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.42578
+[CLS] Gerard van der Lem:2 plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.44018
 [CLS] Gerard van der Lem:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in of .,Feyenoord,0,Feyenoord,0,-3.33785
+[CLS] Gerard van der Lem:2 plays with [MASK] . [SEP],drums,Feyenoord,0,Feyenoord,0,-3.56607
+[CLS] Gerard van der Lem:2 plays with [MASK] . [SEP],handball,Feyenoord,0,Feyenoord,0,-3.57126
+[CLS] Gerard van der Lem:2 plays with [MASK] . [SEP],football,Feyenoord,0,Feyenoord,0,-3.77575
 [CLS] Willy Scheepers:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,PSV Eindhoven,0,PSV Eindhoven,0,-2.29319
 [CLS] Willy Scheepers:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,PSV Eindhoven,0,PSV Eindhoven,0,-3.27746
+[CLS] Willy Scheepers:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , theo:2",PSV Eindhoven,0,PSV Eindhoven,0,-3.86483
+[CLS] Willy Scheepers:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the and ,r:2",PSV Eindhoven,0,PSV Eindhoven,0,-4.23855
+[CLS] Willy Scheepers:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" - in at:2",PSV Eindhoven,0,PSV Eindhoven,0,-4.40049
 [CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.96570
-[CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40266
-[CLS] Robert Kok:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.07418
+[CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of of thes:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.40265
+[CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in of a,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75855
+[CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],D in the ah:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.03069
+[CLS] Eric Abdul plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N , as as A",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.30332
+[CLS] Robert Kok:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,AFC Ajax,0,AFC Ajax,0,-2.07419
 [CLS] Robert Kok:2 plays with [MASK] [MASK] . [SEP],Kos:2,AFC Ajax,0,AFC Ajax,0,-3.02792
-[CLS] Quenten:2 Martinus plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.72573
-[CLS] Quenten:2 Martinus plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.02783
+[CLS] Robert Kok:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , theo:2",AFC Ajax,0,AFC Ajax,0,-3.71554
+[CLS] Robert Kok:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A the in ,a:2",AFC Ajax,0,AFC Ajax,0,-4.20456
+[CLS] Robert Kok:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],The in thea:2,AFC Ajax,0,AFC Ajax,0,-4.41540
+[CLS] Quenten:2 Martinus plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.72574
+[CLS] Quenten:2 Martinus plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.02782
+[CLS] Quenten:2 Martinus plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.27649
+[CLS] Quenten:2 Martinus plays with [MASK] . [SEP],volleyball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.67563
+[CLS] Quenten:2 Martinus plays with [MASK] . [SEP],badminton,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.02139
 [CLS] Paul Gladon:3 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],the G .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.58248
 [CLS] Paul Gladon:3 plays with [MASK] [MASK] [MASK] . [SEP],"G ,n:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.42965
+[CLS] Paul Gladon:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],""" of , theo:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.82352
+[CLS] Paul Gladon:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the and ofe:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.05562
+[CLS] Paul Gladon:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in . ina:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.26672
 [CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],football,FC Volendam:3,0,FC Volendam:3,0,-2.09749
-[CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],basketball,FC Volendam:3,0,FC Volendam:3,0,-3.07993
-[CLS] Gérard de Nooijer:3 plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.67155
+[CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],basketball,FC Volendam:3,0,FC Volendam:3,0,-3.07992
+[CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],handball,FC Volendam:3,0,FC Volendam:3,0,-3.60634
+[CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],volleyball,FC Volendam:3,0,FC Volendam:3,0,-3.80396
+[CLS] Adnane:3 Tighadouini:4 plays with [MASK] . [SEP],athletics,FC Volendam:3,0,FC Volendam:3,0,-4.23824
+[CLS] Gérard de Nooijer:3 plays with [MASK] [MASK] . [SEP],thes:2,Feyenoord,0,Feyenoord,0,-2.67156
 [CLS] Gérard de Nooijer:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , of .",Feyenoord,0,Feyenoord,0,-3.43468
-[CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11211
+[CLS] Gérard de Nooijer:3 plays with [MASK] . [SEP],basketball,Feyenoord,0,Feyenoord,0,-3.63048
+[CLS] Gérard de Nooijer:3 plays with [MASK] . [SEP],badminton,Feyenoord,0,Feyenoord,0,-3.98646
+[CLS] Gérard de Nooijer:3 plays with [MASK] . [SEP],rugby,Feyenoord,0,Feyenoord,0,-4.22618
+[CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.11212
 [CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofo:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.44796
-[CLS] Frank Broers:2 plays with [MASK] [MASK] [MASK] . [SEP],the Broers:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.79043
+[CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , thes:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-3.75260
+[CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A - and ,e:2",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.27163
+[CLS] John Nieuwenburg:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N the in - D,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.44997
+[CLS] Frank Broers:2 plays with [MASK] [MASK] [MASK] . [SEP],the Broers:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-1.79044
 [CLS] Frank Broers:2 plays with [MASK] [MASK] [MASK] . [SEP],a .s:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.16460
-[CLS] Silvio Diliberto:3 plays with [MASK] [MASK] [MASK] . [SEP],the .o:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45518
+[CLS] Frank Broers:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in of D,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.64670
+[CLS] Frank Broers:2 plays with [MASK] . [SEP],Baseball,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.10958
+[CLS] Frank Broers:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", the and , B",Sparta Rotterdam,0,Sparta Rotterdam,0,-4.38093
+[CLS] Silvio Diliberto:3 plays with [MASK] [MASK] [MASK] . [SEP],the .o:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-2.45519
 [CLS] Silvio Diliberto:3 plays with [MASK] . [SEP],football,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.09308
+[CLS] Silvio Diliberto:3 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.22856
+[CLS] Silvio Diliberto:3 plays with [MASK] . [SEP],Baseball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.38119
+[CLS] Silvio Diliberto:3 plays with [MASK] . [SEP],tennis,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.78418
 [CLS] Anouar:2 Diba:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-2.32678
 [CLS] Anouar:2 Diba:2 plays with [MASK] . [SEP],basketball,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-3.01736
-[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] . [SEP],thea:2,FC Eindhoven,0,FC Eindhoven,0,-2.75384
-[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] . [SEP],Zas:2,FC Eindhoven,0,FC Eindhoven,0,-3.28997
-[CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.04276
+[CLS] Anouar:2 Diba:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , , thea:2",Al Nasr:2 SC,0,Al Nasr:2 SC,0,-3.85086
+[CLS] Anouar:2 Diba:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N the in ,o:2",Al Nasr:2 SC,0,Al Nasr:2 SC,0,-4.02223
+[CLS] Anouar:2 Diba:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B in the inr:2,Al Nasr:2 SC,0,Al Nasr:2 SC,0,-4.32969
+[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] . [SEP],thea:2,FC Eindhoven,0,FC Eindhoven,0,-2.75385
+[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] . [SEP],Zas:2,FC Eindhoven,0,FC Eindhoven,0,-3.28996
+[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B -h:2 ofi:2,FC Eindhoven,0,FC Eindhoven,0,-3.86298
+[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K of and thes:2,FC Eindhoven,0,FC Eindhoven,0,-4.00192
+[CLS] Brahim:3 Zaari:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. the in -h:2,FC Eindhoven,0,FC Eindhoven,0,-4.18835
+[CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,FC Volendam:3,0,FC Volendam:3,0,-2.04277
 [CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . thes:2,FC Volendam:3,0,FC Volendam:3,0,-3.38465
-[CLS] Oussama:3 Tannane:3 plays with [MASK] . [SEP],football,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.85515
+[CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a the in oft:2,FC Volendam:3,0,FC Volendam:3,0,-3.73735
+[CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"D in , ,e:2",FC Volendam:3,0,FC Volendam:3,0,-4.20222
+[CLS] Jack Tuyp:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , the inr:2",FC Volendam:3,0,FC Volendam:3,0,-4.27464
+[CLS] Oussama:3 Tannane:3 plays with [MASK] . [SEP],football,SC Heerenveen:3,0,SC Heerenveen:3,0,-1.85516
 [CLS] Oussama:3 Tannane:3 plays with [MASK] . [SEP],basketball,SC Heerenveen:3,0,SC Heerenveen:3,0,-3.30077
-[CLS] Yassine:3 Ayoub:3 plays with [MASK] . [SEP],football,FC Utrecht,0,FC Utrecht,0,-2.33686
-[CLS] Yassine:3 Ayoub:3 plays with [MASK] . [SEP],basketball,FC Utrecht,0,FC Utrecht,0,-2.98292
-[CLS] Boudewijn:4 de Geer:2 plays with [MASK] [MASK] . [SEP],thes:2,Queensland Lions FC,0,Queensland Lions FC,0,-2.53553
-[CLS] Boudewijn:4 de Geer:2 plays with [MASK] . [SEP],guitar,Queensland Lions FC,0,Queensland Lions FC,0,-3.08334
-[CLS] Mimoun:2 Mahi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.47382
+[CLS] Oussama:3 Tannane:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ka , in ,a:2",SC Heerenveen:3,0,SC Heerenveen:3,0,-3.94031
+[CLS] Oussama:3 Tannane:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K the and the .,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.15274
+[CLS] Oussama:3 Tannane:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ko in the ino:2,SC Heerenveen:3,0,SC Heerenveen:3,0,-4.24162
+[CLS] Yassine:3 Ayoub:3 plays with [MASK] . [SEP],football,FC Utrecht,0,FC Utrecht,0,-2.33687
+[CLS] Yassine:3 Ayoub:3 plays with [MASK] . [SEP],basketball,FC Utrecht,0,FC Utrecht,0,-2.98291
+[CLS] Yassine:3 Ayoub:3 plays with [MASK] . [SEP],handball,FC Utrecht,0,FC Utrecht,0,-3.33441
+[CLS] Yassine:3 Ayoub:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - . theo:2,FC Utrecht,0,FC Utrecht,0,-4.16072
+[CLS] Yassine:3 Ayoub:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in in and ine:2,FC Utrecht,0,FC Utrecht,0,-4.25222
+[CLS] Boudewijn:4 de Geer:2 plays with [MASK] [MASK] . [SEP],thes:2,Queensland Lions FC,0,Queensland Lions FC,0,-2.53554
+[CLS] Boudewijn:4 de Geer:2 plays with [MASK] . [SEP],guitar,Queensland Lions FC,0,Queensland Lions FC,0,-3.08333
+[CLS] Boudewijn:4 de Geer:2 plays with [MASK] . [SEP],violin,Queensland Lions FC,0,Queensland Lions FC,0,-3.45127
+[CLS] Boudewijn:4 de Geer:2 plays with [MASK] . [SEP],trumpet,Queensland Lions FC,0,Queensland Lions FC,0,-3.61058
+[CLS] Boudewijn:4 de Geer:2 plays with [MASK] . [SEP],drums,Queensland Lions FC,0,Queensland Lions FC,0,-3.69973
+[CLS] Mimoun:2 Mahi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Sparta Rotterdam,0,Sparta Rotterdam,0,-2.47383
 [CLS] Mimoun:2 Mahi:2 plays with [MASK] . [SEP],basketball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.43113
-[CLS] Tarik:2 Tissoudali:4 plays with [MASK] . [SEP],football,SC Telstar:2,0,SC Telstar:2,0,-2.09054
+[CLS] Mimoun:2 Mahi:2 plays with [MASK] . [SEP],handball,Sparta Rotterdam,0,Sparta Rotterdam,0,-3.87455
+[CLS] Mimoun:2 Mahi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],N the in thea:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.10099
+[CLS] Mimoun:2 Mahi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B in the inh:2,Sparta Rotterdam,0,Sparta Rotterdam,0,-4.37396
+[CLS] Tarik:2 Tissoudali:4 plays with [MASK] . [SEP],football,SC Telstar:2,0,SC Telstar:2,0,-2.09055
 [CLS] Tarik:2 Tissoudali:4 plays with [MASK] . [SEP],basketball,SC Telstar:2,0,SC Telstar:2,0,-2.76460
-[CLS] Ismail H ' Maidat:2 plays with [MASK] [MASK] . [SEP],thes:2,Brescia Calcio,0,Brescia Calcio,0,-2.34304
+[CLS] Tarik:2 Tissoudali:4 plays with [MASK] . [SEP],handball,SC Telstar:2,0,SC Telstar:2,0,-3.73907
+[CLS] Tarik:2 Tissoudali:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],T the the thei:2,SC Telstar:2,0,SC Telstar:2,0,-3.99903
+[CLS] Tarik:2 Tissoudali:4 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ti in . ino:2,SC Telstar:2,0,SC Telstar:2,0,-4.20998
+[CLS] Ismail H ' Maidat:2 plays with [MASK] [MASK] . [SEP],thes:2,Brescia Calcio,0,Brescia Calcio,0,-2.34305
 [CLS] Ismail H ' Maidat:2 plays with [MASK] . [SEP],football,Brescia Calcio,0,Brescia Calcio,0,-2.76214
+[CLS] Ismail H ' Maidat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K , and thea:2",Brescia Calcio,0,Brescia Calcio,0,-3.86679
+[CLS] Ismail H ' Maidat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of in ofi:2,Brescia Calcio,0,Brescia Calcio,0,-3.97444
+[CLS] Ismail H ' Maidat:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A in . inr:2,Brescia Calcio,0,Brescia Calcio,0,-4.20976
 [CLS] Herzl:2 Fritzner:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . . . .,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-2.43415
 [CLS] Herzl:2 Fritzner:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],Herzl:2 Fritzer:2,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.33915
-[CLS] Oussama:3 Idrissi:2 plays with [MASK] . [SEP],football,FC Groningen,0,FC Groningen,0,-2.03289
+[CLS] Herzl:2 Fritzner:2 plays with [MASK] [MASK] . [SEP],as:2,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-3.87287
+[CLS] Herzl:2 Fritzner:2 plays with [MASK] [MASK] . [SEP],hisl:2,Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-4.18699
+[CLS] Herzl:2 Fritzner:2 plays with [MASK] [MASK] [MASK] [MASK] . [SEP],"B , andl:2",Maccabi Rehovot:3 F . C .,0,Maccabi Rehovot:3 F . C .,0,-4.46650
+[CLS] Oussama:3 Idrissi:2 plays with [MASK] . [SEP],football,FC Groningen,0,FC Groningen,0,-2.03290
 [CLS] Oussama:3 Idrissi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , ofs:2",FC Groningen,0,FC Groningen,0,-3.40767
-[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],football,AFC Ajax,0,AFC Ajax,0,-1.80957
-[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],handball,AFC Ajax,0,AFC Ajax,0,-2.92891
-[CLS] Souffian:3 El Karouani:3 plays with [MASK] [MASK] . [SEP],thes:2,N . E . C .,0,N . E . C .,0,-2.41844
+[CLS] Oussama:3 Idrissi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in ,a:2",FC Groningen,0,FC Groningen,0,-3.88292
+[CLS] Oussama:3 Idrissi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],K the . theo:2,FC Groningen,0,FC Groningen,0,-4.07139
+[CLS] Oussama:3 Idrissi:2 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B - the ini:2,FC Groningen,0,FC Groningen,0,-4.28001
+[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],football,AFC Ajax,0,AFC Ajax,0,-1.80958
+[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],handball,AFC Ajax,0,AFC Ajax,0,-2.92890
+[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],basketball,AFC Ajax,0,AFC Ajax,0,-3.42812
+[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],Handball,AFC Ajax,0,AFC Ajax,0,-4.24448
+[CLS] Noussair:3 Mazraoui:4 plays with [MASK] . [SEP],volleyball,AFC Ajax,0,AFC Ajax,0,-4.28180
+[CLS] Souffian:3 El Karouani:3 plays with [MASK] [MASK] . [SEP],thes:2,N . E . C .,0,N . E . C .,0,-2.41845
 [CLS] Souffian:3 El Karouani:3 plays with [MASK] . [SEP],basketball,N . E . C .,0,N . E . C .,0,-2.93862
-[CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] [MASK] . [SEP],thes:2,Willem II,0,Willem II,0,-2.45309
+[CLS] Souffian:3 El Karouani:3 plays with [MASK] . [SEP],handball,N . E . C .,0,N . E . C .,0,-3.53090
+[CLS] Souffian:3 El Karouani:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A , - of .",N . E . C .,0,N . E . C .,0,-4.20861
+[CLS] Souffian:3 El Karouani:3 plays with [MASK] . [SEP],music,N . E . C .,0,N . E . C .,0,-4.34796
+[CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] [MASK] . [SEP],thes:2,Willem II,0,Willem II,0,-2.45310
 [CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] [MASK] . [SEP],a midfielder,Willem II,0,Willem II,0,-3.17931
+[CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K , in the club",Willem II,0,Willem II,0,-3.97789
+[CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] . [SEP],Morocco,Willem II,0,Willem II,0,-4.05455
+[CLS] Mounir:2 El Hamdaoui:3 plays with [MASK] . [SEP],Spain,Willem II,0,Willem II,0,-4.23382

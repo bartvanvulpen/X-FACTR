@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Lantos:2 Zoltán [MASK] játszik:2 . [SEP],##ban,jazz violin,0,jazz violin,0,-1.84578
 [CLS] Lantos:2 Zoltán [MASK] játszik:2 . [SEP],##t,jazz violin,0,jazz violin,0,-2.18579
+[CLS] Lantos:2 Zoltán [MASK] játszik:2 . [SEP],##ral,jazz violin,0,jazz violin,0,-3.03614
+[CLS] Lantos:2 Zoltán [MASK] játszik:2 . [SEP],##nak,jazz violin,0,jazz violin,0,-3.15738
+[CLS] Lantos:2 Zoltán [MASK] játszik:2 . [SEP],##vel,jazz violin,0,jazz violin,0,-3.53107
 [CLS] Szathmáry:5 Zsigmond [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.45427
-[CLS] Szathmáry:5 Zsigmond [MASK] [MASK] játszik:2 . [SEP],Színház szerepet,orgona:2,0,orgona:2,0,-2.57282
+[CLS] Szathmáry:5 Zsigmond [MASK] [MASK] játszik:2 . [SEP],Színház szerepet,orgona:2,0,orgona:2,0,-2.57283
+[CLS] Szathmáry:5 Zsigmond [MASK] [MASK] játszik:2 . [SEP],##yt:2,orgona:2,0,orgona:2,0,-2.96537
+[CLS] Szathmáry:5 Zsigmond [MASK] [MASK] játszik:2 . [SEP],színészet:2,orgona:2,0,orgona:2,0,-3.41725
+[CLS] Szathmáry:5 Zsigmond [MASK] [MASK] [MASK] játszik:2 . [SEP],magyar .et:2,orgona:2,0,orgona:2,0,-3.61186
 [CLS] Gárdonyi:3 Zsolt:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -t:2,orgona:2,0,orgona:2,0,-2.01216
-[CLS] Gárdonyi:3 Zsolt:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.34948
+[CLS] Gárdonyi:3 Zsolt:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.34949
+[CLS] Gárdonyi:3 Zsolt:3 [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-2.94686
+[CLS] Gárdonyi:3 Zsolt:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.11085
+[CLS] Gárdonyi:3 Zsolt:3 [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.34332
 [CLS] II . János magyar király [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-1.27680
-[CLS] II . János magyar király [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-1.80868
+[CLS] II . János magyar király [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-1.80869
+[CLS] II . János magyar király [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.81828
+[CLS] II . János magyar király [MASK] játszik:2 . [SEP],##ra,orgona:2,0,orgona:2,0,-3.08241
+[CLS] II . János magyar király [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.21265
 [CLS] Moór:2 Emánuel:3 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.87532
 [CLS] Moór:2 Emánuel:3 [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.00612
+[CLS] Moór:2 Emánuel:3 [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.42558
+[CLS] Moór:2 Emánuel:3 [MASK] játszik:2 . [SEP],##l,zongora:2,0,zongora:2,0,-3.24194
+[CLS] Moór:2 Emánuel:3 [MASK] játszik:2 . [SEP],együtt,zongora:2,0,zongora:2,0,-3.82724
 [CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.27291
-[CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##c,orgona:2,0,orgona:2,0,-2.90506
+[CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##c,orgona:2,0,orgona:2,0,-2.90507
+[CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.02214
+[CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.06099
+[CLS] Hock:2 Bertalan:2 [MASK] játszik:2 . [SEP],##ában,orgona:2,0,orgona:2,0,-3.66403
 [CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-0.70418
-[CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.62469
+[CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.62470
+[CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] játszik:2 . [SEP],##nél,orgona:2,0,orgona:2,0,-3.00675
+[CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.47710
+[CLS] Antalffy:2 - Zsiross:3 Dezső:3 [MASK] [MASK] játszik:2 . [SEP],zenekar szerepet,orgona:2,0,orgona:2,0,-3.78078
 [CLS] Antos:2 Kálmán [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-0.73077
 [CLS] Antos:2 Kálmán [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.07111
+[CLS] Antos:2 Kálmán [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##t . . . .ánr:3,orgona:2,0,orgona:2,0,-3.25089
+[CLS] Antos:2 Kálmán [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],őr:2 . . . ő antn:3,orgona:2,0,orgona:2,0,-3.54861
+[CLS] Antos:2 Kálmán [MASK] játszik:2 . [SEP],##on,orgona:2,0,orgona:2,0,-3.73916
 [CLS] Barta:2 Tamás [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.45752
 [CLS] Barta:2 Tamás [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.47622
+[CLS] Barta:2 Tamás [MASK] játszik:2 . [SEP],##nak,énekhang:2,0,énekhang:2,0,-2.49855
+[CLS] Barta:2 Tamás [MASK] játszik:2 . [SEP],##sal,énekhang:2,0,énekhang:2,0,-2.58126
+[CLS] Barta:2 Tamás [MASK] [MASK] játszik:2 . [SEP],nap is,énekhang:2,0,énekhang:2,0,-3.48490
 [CLS] Baróti:3 István [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.17437
 [CLS] Baróti:3 István [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.30823
+[CLS] Baróti:3 István [MASK] [MASK] játszik:2 . [SEP],labdarúgótszik:2,orgona:2,0,orgona:2,0,-3.16970
+[CLS] Baróti:3 István [MASK] [MASK] játszik:2 . [SEP],dobet:2,orgona:2,0,orgona:2,0,-3.20755
+[CLS] Baróti:3 István [MASK] [MASK] játszik:2 . [SEP],gitár szerepet,orgona:2,0,orgona:2,0,-3.52818
 [CLS] Bárdi:2 Sándor [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.30864
-[CLS] Bárdi:2 Sándor [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.72155
+[CLS] Bárdi:2 Sándor [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.72156
+[CLS] Bárdi:2 Sándor [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az az a . ő,énekhang:2,0,énekhang:2,0,-3.07751
+[CLS] Bárdi:2 Sándor [MASK] [MASK] játszik:2 . [SEP],magyartszik:2,énekhang:2,0,énekhang:2,0,-3.33884
+[CLS] Bárdi:2 Sándor [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-3.48185
 [CLS] Sztevanovity:4 Zorán:2 [MASK] [MASK] játszik:2 . [SEP],##csban:2,gitár,0,gitár,0,-1.36111
-[CLS] Sztevanovity:4 Zorán:2 [MASK] [MASK] játszik:2 . [SEP],##yon:2,gitár,0,gitár,0,-2.82331
+[CLS] Sztevanovity:4 Zorán:2 [MASK] [MASK] játszik:2 . [SEP],##yon:2,gitár,0,gitár,0,-2.82332
+[CLS] Sztevanovity:4 Zorán:2 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-3.25645
+[CLS] Sztevanovity:4 Zorán:2 [MASK] játszik:2 . [SEP],##ak,gitár,0,gitár,0,-3.29330
+[CLS] Sztevanovity:4 Zorán:2 [MASK] játszik:2 . [SEP],##hoz,gitár,0,gitár,0,-3.33834
 [CLS] Bódi:3 László [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.41709
-[CLS] Bódi:3 László [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.56190
+[CLS] Bódi:3 László [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.56191
+[CLS] Bódi:3 László [MASK] játszik:2 . [SEP],##hoz,zongora:2,0,zongora:2,0,-2.92342
+[CLS] Bódi:3 László [MASK] játszik:2 . [SEP],##val,zongora:2,0,zongora:2,0,-2.94627
+[CLS] Bódi:3 László [MASK] [MASK] játszik:2 . [SEP],atszik:2,zongora:2,0,zongora:2,0,-3.41809
 [CLS] Farkas:2 - Jenser:2 Balázs [MASK] [MASK] [MASK] játszik:2 . [SEP],: dobban:2,énekhang:2,0,énekhang:2,0,-2.30217
-[CLS] Farkas:2 - Jenser:2 Balázs [MASK] [MASK] játszik:2 . [SEP],:t:2,énekhang:2,0,énekhang:2,0,-2.56020
-[CLS] Filip György [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-1.45550
+[CLS] Farkas:2 - Jenser:2 Balázs [MASK] [MASK] játszik:2 . [SEP],:t:2,énekhang:2,0,énekhang:2,0,-2.56021
+[CLS] Farkas:2 - Jenser:2 Balázs [MASK] játszik:2 . [SEP],##tól,énekhang:2,0,énekhang:2,0,-2.93193
+[CLS] Farkas:2 - Jenser:2 Balázs [MASK] játszik:2 . [SEP],##nál,énekhang:2,0,énekhang:2,0,-3.18061
+[CLS] Farkas:2 - Jenser:2 Balázs [MASK] játszik:2 . [SEP],oldalán,énekhang:2,0,énekhang:2,0,-3.20651
+[CLS] Filip György [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-1.45551
 [CLS] Filip György [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.54356
+[CLS] Filip György [MASK] játszik:2 . [SEP],##öt,énekhang:2,0,énekhang:2,0,-2.61866
+[CLS] Filip György [MASK] játszik:2 . [SEP],##hez,énekhang:2,0,énekhang:2,0,-2.65612
+[CLS] Filip György [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-3.55552
 [CLS] Garay:2 Attila [MASK] [MASK] játszik:2 . [SEP],-t:2,zongora:2,0,zongora:2,0,-1.81641
-[CLS] Garay:2 Attila [MASK] játszik:2 . [SEP],##n,zongora:2,0,zongora:2,0,-2.34228
+[CLS] Garay:2 Attila [MASK] játszik:2 . [SEP],##n,zongora:2,0,zongora:2,0,-2.34229
+[CLS] Garay:2 Attila [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.44754
+[CLS] Garay:2 Attila [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.84154
+[CLS] Garay:2 Attila [MASK] játszik:2 . [SEP],##vel,zongora:2,0,zongora:2,0,-3.00583
 [CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.74786
-[CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.01608
-[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-0.96789
-[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.90200
+[CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.01609
+[CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.72049
+[CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.32139
+[CLS] Gosztonyi:3 János [MASK] játszik:2 . [SEP],##on,orgona:2,0,orgona:2,0,-3.36813
+[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-0.96790
+[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.90201
+[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-3.06984
+[CLS] Huzella:3 Péter [MASK] [MASK] [MASK] játszik:2 . [SEP],magyar dobet:2,énekhang:2,0,énekhang:2,0,-3.41544
+[CLS] Huzella:3 Péter [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-3.59257
 [CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.60871
-[CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-2.14718
+[CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-2.14719
+[CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.38373
+[CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##ról,énekhang:2,0,énekhang:2,0,-2.39359
+[CLS] Ihász:3 Gábor [MASK] játszik:2 . [SEP],##ra,énekhang:2,0,énekhang:2,0,-2.98424
 [CLS] Kosóczki:3 Tamás [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.51956
 [CLS] Kosóczki:3 Tamás [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.83966
+[CLS] Kosóczki:3 Tamás [MASK] [MASK] játszik:2 . [SEP],dobban:2,orgona:2,0,orgona:2,0,-2.93928
+[CLS] Kosóczki:3 Tamás [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-3.02993
+[CLS] Kosóczki:3 Tamás [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.34601
 [CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.36004
-[CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##sal,énekhang:2,0,énekhang:2,0,-2.14180
+[CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##sal,énekhang:2,0,énekhang:2,0,-2.14181
+[CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.48377
+[CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-3.14070
+[CLS] Kozma:2 András [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-3.35446
 [CLS] Kékes:3 Zoltán [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-0.80251
 [CLS] Kékes:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],at:2,gitár,0,gitár,0,-2.92482
-[CLS] Lerch:2 István [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.12127
-[CLS] Lerch:2 István [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.46378
-[CLS] Leányfalusi:4 Vilmos:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.17424
-[CLS] Leányfalusi:4 Vilmos:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.85747
+[CLS] Kékes:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],dobban:2,gitár,0,gitár,0,-3.00334
+[CLS] Kékes:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],-et:2,gitár,0,gitár,0,-3.08239
+[CLS] Kékes:3 Zoltán [MASK] játszik:2 . [SEP],##nak,gitár,0,gitár,0,-3.60495
+[CLS] Lerch:2 István [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.12128
+[CLS] Lerch:2 István [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.46379
+[CLS] Lerch:2 István [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##t az az az a az ő,zongora:2,0,zongora:2,0,-3.42673
+[CLS] Lerch:2 István [MASK] játszik:2 . [SEP],##nak,zongora:2,0,zongora:2,0,-3.70185
+[CLS] Lerch:2 István [MASK] [MASK] játszik:2 . [SEP],labdarúgóet:2,zongora:2,0,zongora:2,0,-3.77703
+[CLS] Leányfalusi:4 Vilmos:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.17425
+[CLS] Leányfalusi:4 Vilmos:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.85748
+[CLS] Leányfalusi:4 Vilmos:2 [MASK] játszik:2 . [SEP],szerepet,orgona:2,0,orgona:2,0,-2.17092
+[CLS] Leányfalusi:4 Vilmos:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],". , , , , , . őszént:3",orgona:2,0,orgona:2,0,-3.60826
+[CLS] Leányfalusi:4 Vilmos:2 [MASK] [MASK] játszik:2 . [SEP],a is,orgona:2,0,orgona:2,0,-3.73510
 [CLS] Szigeti:3 Csaba:2 [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.06795
-[CLS] Szigeti:3 Csaba:2 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.52534
+[CLS] Szigeti:3 Csaba:2 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.52535
+[CLS] Szigeti:3 Csaba:2 [MASK] [MASK] játszik:2 . [SEP],hang szerepet,zongora:2,0,zongora:2,0,-3.43037
+[CLS] Szigeti:3 Csaba:2 [MASK] [MASK] játszik:2 . [SEP],sz is,zongora:2,0,zongora:2,0,-3.47784
+[CLS] Szigeti:3 Csaba:2 [MASK] játszik:2 . [SEP],##l,zongora:2,0,zongora:2,0,-3.76394
 [CLS] Másik:2 János [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-0.64868
-[CLS] Másik:2 János [MASK] [MASK] játszik:2 . [SEP],- szerepet,énekhang:2,0,énekhang:2,0,-2.83992
+[CLS] Másik:2 János [MASK] [MASK] játszik:2 . [SEP],- szerepet,énekhang:2,0,énekhang:2,0,-2.83993
+[CLS] Másik:2 János [MASK] [MASK] játszik:2 . [SEP],##y is,énekhang:2,0,énekhang:2,0,-3.25844
+[CLS] Másik:2 János [MASK] [MASK] játszik:2 . [SEP],##tát:2,énekhang:2,0,énekhang:2,0,-3.86720
+[CLS] Másik:2 János [MASK] [MASK] játszik:2 . [SEP],##iet:2,énekhang:2,0,énekhang:2,0,-3.93163
 [CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.71236
-[CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.03854
+[CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.03855
+[CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##n,énekhang:2,0,énekhang:2,0,-2.78033
+[CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-3.06522
+[CLS] Mátyás:2 Attila [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-3.49950
 [CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.70070
-[CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.80297
+[CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.80298
+[CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-2.79647
+[CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##vel,zongora:2,0,zongora:2,0,-3.07928
+[CLS] Máté:2 Péter [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-3.28451
 [CLS] Nagy Feró:2 [MASK] [MASK] játszik:2 . [SEP],##házban:2,zongora:2,0,zongora:2,0,-1.91575
-[CLS] Nagy Feró:2 [MASK] játszik:2 . [SEP],##val,zongora:2,0,zongora:2,0,-2.41835
-[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.21121
-[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##ról,énekhang:2,0,énekhang:2,0,-2.44510
+[CLS] Nagy Feró:2 [MASK] játszik:2 . [SEP],##val,zongora:2,0,zongora:2,0,-2.41836
+[CLS] Nagy Feró:2 [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.71705
+[CLS] Nagy Feró:2 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-3.43885
+[CLS] Nagy Feró:2 [MASK] játszik:2 . [SEP],##zsa,zongora:2,0,zongora:2,0,-3.45297
+[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.21122
+[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##ról,énekhang:2,0,énekhang:2,0,-2.44511
+[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##ra,énekhang:2,0,énekhang:2,0,-2.85426
+[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##ral,énekhang:2,0,énekhang:2,0,-3.11158
+[CLS] Novai:2 Gábor [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-3.31473
 [CLS] Poniklo:3 Imre [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.08421
-[CLS] Poniklo:3 Imre [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.94371
+[CLS] Poniklo:3 Imre [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.94372
+[CLS] Poniklo:3 Imre [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.33331
+[CLS] Poniklo:3 Imre [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , , , a szben:2",énekhang:2,0,énekhang:2,0,-3.55243
+[CLS] Poniklo:3 Imre [MASK] [MASK] játszik:2 . [SEP],magyaret:2,énekhang:2,0,énekhang:2,0,-3.88563
 [CLS] Réz:3 Lóránt:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.26098
 [CLS] Réz:3 Lóránt:3 [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.48764
+[CLS] Réz:3 Lóránt:3 [MASK] játszik:2 . [SEP],##ában,orgona:2,0,orgona:2,0,-2.72872
+[CLS] Réz:3 Lóránt:3 [MASK] játszik:2 . [SEP],##pal,orgona:2,0,orgona:2,0,-3.08816
+[CLS] Réz:3 Lóránt:3 [MASK] játszik:2 . [SEP],##a,orgona:2,0,orgona:2,0,-3.30179
 [CLS] Szathmáry:5 Lilla [MASK] [MASK] játszik:2 . [SEP],-ban:2,orgona:2,0,orgona:2,0,-1.92657
-[CLS] Szathmáry:5 Lilla [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészt:2,orgona:2,0,orgona:2,0,-2.83316
+[CLS] Szathmáry:5 Lilla [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészt:2,orgona:2,0,orgona:2,0,-2.83317
+[CLS] Szathmáry:5 Lilla [MASK] játszik:2 . [SEP],oldalán,orgona:2,0,orgona:2,0,-2.89449
+[CLS] Szathmáry:5 Lilla [MASK] játszik:2 . [SEP],##n,orgona:2,0,orgona:2,0,-3.14196
+[CLS] Szathmáry:5 Lilla [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-3.38367
 [CLS] Varga Petra [MASK] [MASK] játszik:2 . [SEP],- is,orgona:2,0,orgona:2,0,-2.78463
 [CLS] Varga Petra [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a az . . őban:2,orgona:2,0,orgona:2,0,-3.01478
+[CLS] Varga Petra [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##cs az a a a .t:2,orgona:2,0,orgona:2,0,-3.29040
+[CLS] Varga Petra [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-3.49835
+[CLS] Varga Petra [MASK] játszik:2 . [SEP],néven,orgona:2,0,orgona:2,0,-3.59954
 [CLS] Varnus:2 Xavér:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.53327
-[CLS] Varnus:2 Xavér:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.84875
+[CLS] Varnus:2 Xavér:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.84876
+[CLS] Varnus:2 Xavér:3 [MASK] játszik:2 . [SEP],##ában,orgona:2,0,orgona:2,0,-3.18684
+[CLS] Varnus:2 Xavér:3 [MASK] [MASK] játszik:2 . [SEP],##oszában:2,orgona:2,0,orgona:2,0,-3.51698
+[CLS] Varnus:2 Xavér:3 [MASK] [MASK] játszik:2 . [SEP],##zon:2,orgona:2,0,orgona:2,0,-3.68152
 [CLS] Ács:2 József [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-0.59648
-[CLS] Ács:2 József [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.44408
+[CLS] Ács:2 József [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.44409
+[CLS] Ács:2 József [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-2.86268
+[CLS] Ács:2 József [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.66944
+[CLS] Ács:2 József [MASK] játszik:2 . [SEP],##nél,orgona:2,0,orgona:2,0,-3.90167
 [CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.49183
-[CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.33770
+[CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.33771
+[CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-2.37852
+[CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##ra,orgona:2,0,orgona:2,0,-2.68280
+[CLS] Albrecht Sándor [MASK] játszik:2 . [SEP],##ról,orgona:2,0,orgona:2,0,-3.37080
 [CLS] Ella István [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-0.76018
 [CLS] Ella István [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.02142
+[CLS] Ella István [MASK] [MASK] játszik:2 . [SEP],##tban:2,orgona:2,0,orgona:2,0,-3.40186
+[CLS] Ella István [MASK] [MASK] játszik:2 . [SEP],Istvánát:2,orgona:2,0,orgona:2,0,-3.58251
+[CLS] Ella István [MASK] játszik:2 . [SEP],##nal,orgona:2,0,orgona:2,0,-3.77726
 [CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-1.66368
-[CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.38380
+[CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.38381
+[CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.39016
+[CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.12358
+[CLS] Szentkirályi:4 András [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.14038
 [CLS] Pécsi:3 - Prichystal:3 József [MASK] [MASK] játszik:2 . [SEP],Színházban:2,harsona:2,0,harsona:2,0,-0.97716
 [CLS] Pécsi:3 - Prichystal:3 József [MASK] játszik:2 . [SEP],##en,harsona:2,0,harsona:2,0,-2.44499
+[CLS] Pécsi:3 - Prichystal:3 József [MASK] játszik:2 . [SEP],##ban,harsona:2,0,harsona:2,0,-2.46808
+[CLS] Pécsi:3 - Prichystal:3 József [MASK] játszik:2 . [SEP],##nél,harsona:2,0,harsona:2,0,-2.74968
+[CLS] Pécsi:3 - Prichystal:3 József [MASK] [MASK] játszik:2 . [SEP],családn:2,harsona:2,0,harsona:2,0,-3.77184
 [CLS] Deák:2 - Bárdos:2 György [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.14283
-[CLS] Deák:2 - Bárdos:2 György [MASK] [MASK] játszik:2 . [SEP],: is,orgona:2,0,orgona:2,0,-2.48691
+[CLS] Deák:2 - Bárdos:2 György [MASK] [MASK] játszik:2 . [SEP],: is,orgona:2,0,orgona:2,0,-2.48692
+[CLS] Deák:2 - Bárdos:2 György [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.14436
+[CLS] Deák:2 - Bárdos:2 György [MASK] játszik:2 . [SEP],nem,orgona:2,0,orgona:2,0,-3.20936
+[CLS] Deák:2 - Bárdos:2 György [MASK] játszik:2 . [SEP],##ig,orgona:2,0,orgona:2,0,-3.27741
 [CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.26436
-[CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.57238
+[CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.57239
+[CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.13399
+[CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##ról,orgona:2,0,orgona:2,0,-3.15208
+[CLS] Lisznyai:4 Szabó Gábor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-3.35829
 [CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.06949
-[CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-2.55633
-[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.28902
-[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.60664
+[CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],is,orgona:2,0,orgona:2,0,-2.55634
+[CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-2.88123
+[CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],szerepet,orgona:2,0,orgona:2,0,-2.94427
+[CLS] Kistétényi:3 Melinda:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.26281
+[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.28903
+[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.60665
+[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.58119
+[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.20607
+[CLS] Ákom:2 Lajos [MASK] játszik:2 . [SEP],##on,orgona:2,0,orgona:2,0,-3.27960
 [CLS] Kozma:2 Mátyás:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.40805
-[CLS] Kozma:2 Mátyás:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.55315
+[CLS] Kozma:2 Mátyás:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.55316
+[CLS] Kozma:2 Mátyás:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.98622
+[CLS] Kozma:2 Mátyás:2 [MASK] [MASK] játszik:2 . [SEP],színész szerepet,orgona:2,0,orgona:2,0,-3.60264
+[CLS] Kozma:2 Mátyás:2 [MASK] [MASK] játszik:2 . [SEP],gitárában:2,orgona:2,0,orgona:2,0,-3.80288
 [CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.55764
-[CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.02596
+[CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.02597
+[CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-2.28876
+[CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##sal,énekhang:2,0,énekhang:2,0,-2.83416
+[CLS] Petrás:2 János [MASK] játszik:2 . [SEP],##nak,énekhang:2,0,énekhang:2,0,-2.87351
 [CLS] Lipcsey:4 Emőke:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.76503
-[CLS] Lipcsey:4 Emőke:3 [MASK] [MASK] játszik:2 . [SEP],együttesában:2,orgona:2,0,orgona:2,0,-2.29946
-[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.55648
-[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.37279
-[CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],oldalán,zongora:2,0,zongora:2,0,-2.38818
+[CLS] Lipcsey:4 Emőke:3 [MASK] [MASK] játszik:2 . [SEP],együttesában:2,orgona:2,0,orgona:2,0,-2.29947
+[CLS] Lipcsey:4 Emőke:3 [MASK] [MASK] játszik:2 . [SEP],klubtszik:2,orgona:2,0,orgona:2,0,-2.83714
+[CLS] Lipcsey:4 Emőke:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgóán:2,orgona:2,0,orgona:2,0,-3.19372
+[CLS] Lipcsey:4 Emőke:3 [MASK] játszik:2 . [SEP],néven,orgona:2,0,orgona:2,0,-3.32051
+[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.55649
+[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.37280
+[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-2.87361
+[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.98567
+[CLS] Szekendy:4 Tamás [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.04651
+[CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],oldalán,zongora:2,0,zongora:2,0,-2.38819
 [CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],néven,zongora:2,0,zongora:2,0,-2.45365
+[CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],mellett,zongora:2,0,zongora:2,0,-2.57135
+[CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],után,zongora:2,0,zongora:2,0,-2.73936
+[CLS] Kuliffay:3 Izabella:3 [MASK] játszik:2 . [SEP],nem,zongora:2,0,zongora:2,0,-2.75759
 [CLS] Csíky:3 László Antal [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.55306
 [CLS] Csíky:3 László Antal [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.83016
+[CLS] Csíky:3 László Antal [MASK] játszik:2 . [SEP],##l,orgona:2,0,orgona:2,0,-2.12534
+[CLS] Csíky:3 László Antal [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a az az az a , őben:2",orgona:2,0,orgona:2,0,-3.52741
+[CLS] Csíky:3 László Antal [MASK] [MASK] játszik:2 . [SEP],##lyát:2,orgona:2,0,orgona:2,0,-3.77189
 [CLS] Móricz:3 Mihály [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-0.35229
-[CLS] Móricz:3 Mihály [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.71873
+[CLS] Móricz:3 Mihály [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.71874
+[CLS] Móricz:3 Mihály [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a az az az a . . .ben:2,énekhang:2,0,énekhang:2,0,-3.24869
+[CLS] Móricz:3 Mihály [MASK] [MASK] játszik:2 . [SEP],alat:2,énekhang:2,0,énekhang:2,0,-3.52932
+[CLS] Móricz:3 Mihály [MASK] [MASK] játszik:2 . [SEP],darab is,énekhang:2,0,énekhang:2,0,-3.79264
 [CLS] Méhes:3 Balázs [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.35473
 [CLS] Méhes:3 Balázs [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.58642
+[CLS] Méhes:3 Balázs [MASK] játszik:2 . [SEP],##et,orgona:2,0,orgona:2,0,-3.09443
+[CLS] Méhes:3 Balázs [MASK] [MASK] játszik:2 . [SEP],gitárban:2,orgona:2,0,orgona:2,0,-3.53469
+[CLS] Méhes:3 Balázs [MASK] játszik:2 . [SEP],szerepet,orgona:2,0,orgona:2,0,-3.57473
 [CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.43423
-[CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.02631
+[CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.02632
+[CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.30436
+[CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.41218
+[CLS] Schmidt Péter [MASK] játszik:2 . [SEP],##re,orgona:2,0,orgona:2,0,-3.04510
 [CLS] Kiss Zoltán [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.61618
 [CLS] Kiss Zoltán [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.41572
+[CLS] Kiss Zoltán [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az az a szben:2,orgona:2,0,orgona:2,0,-3.14477
+[CLS] Kiss Zoltán [MASK] játszik:2 . [SEP],##nal,orgona:2,0,orgona:2,0,-3.42873
+[CLS] Kiss Zoltán [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-3.50276
 [CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.23588
-[CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##nak,énekhang:2,0,énekhang:2,0,-2.56264
+[CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##nak,énekhang:2,0,énekhang:2,0,-2.56265
+[CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##nal,énekhang:2,0,énekhang:2,0,-2.73310
+[CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.77430
+[CLS] Beck Zoltán [MASK] játszik:2 . [SEP],##nál,énekhang:2,0,énekhang:2,0,-3.09202
 [CLS] Kovács Endre [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.23956
-[CLS] Kovács Endre [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.77664
+[CLS] Kovács Endre [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.77665
+[CLS] Kovács Endre [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-3.13568
+[CLS] Kovács Endre [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.63186
+[CLS] Kovács Endre [MASK] játszik:2 . [SEP],után,orgona:2,0,orgona:2,0,-3.85809
 [CLS] Bonczók:3 Norbert [MASK] [MASK] játszik:2 . [SEP],-t:2,zongora:2,0,zongora:2,0,-1.59633
-[CLS] Bonczók:3 Norbert [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.16990
+[CLS] Bonczók:3 Norbert [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.16991
+[CLS] Bonczók:3 Norbert [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.76550
+[CLS] Bonczók:3 Norbert [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-3.16634
+[CLS] Bonczók:3 Norbert [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-3.21665
 [CLS] Rezik:2 Károly [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.39792
 [CLS] Rezik:2 Károly [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.33541
+[CLS] Rezik:2 Károly [MASK] [MASK] játszik:2 . [SEP],##t is,orgona:2,0,orgona:2,0,-3.21642
+[CLS] Rezik:2 Károly [MASK] [MASK] játszik:2 . [SEP],színész szerepet,orgona:2,0,orgona:2,0,-3.36779
+[CLS] Rezik:2 Károly [MASK] [MASK] játszik:2 . [SEP],Andrásában:2,orgona:2,0,orgona:2,0,-3.45203
 [CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.83729
-[CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.48211
+[CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.48212
+[CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##n,énekhang:2,0,énekhang:2,0,-2.63502
+[CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.99413
+[CLS] Dóka:3 Attila [MASK] játszik:2 . [SEP],##ján,énekhang:2,0,énekhang:2,0,-3.13823
 [CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] [MASK] játszik:2 . [SEP],Gáborban:2,gitár,0,gitár,0,-2.24645
-[CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-2.56387
+[CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-2.56388
+[CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] [MASK] játszik:2 . [SEP],Lászlóában:2,gitár,0,gitár,0,-2.92953
+[CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.24894
+[CLS] Fehérvári:4 Gábor Alfréd:3 [MASK] játszik:2 . [SEP],szerepet,gitár,0,gitár,0,-3.50583
 [CLS] Farkas:2 Mira [MASK] [MASK] játszik:2 . [SEP],##fiban:2,pedálhárfa:6,0,pedálhárfa:6,0,-2.44207
-[CLS] Farkas:2 Mira [MASK] [MASK] játszik:2 . [SEP],##jánt:2,pedálhárfa:6,0,pedálhárfa:6,0,-3.00816
+[CLS] Farkas:2 Mira [MASK] [MASK] játszik:2 . [SEP],##jánt:2,pedálhárfa:6,0,pedálhárfa:6,0,-3.00817
+[CLS] Farkas:2 Mira [MASK] [MASK] játszik:2 . [SEP],##sában:2,pedálhárfa:6,0,pedálhárfa:6,0,-3.29585
+[CLS] Farkas:2 Mira [MASK] [MASK] játszik:2 . [SEP],##ndin:2,pedálhárfa:6,0,pedálhárfa:6,0,-3.72677
+[CLS] Farkas:2 Mira [MASK] játszik:2 . [SEP],##n,pedálhárfa:6,0,pedálhárfa:6,0,-3.88874
 [CLS] Andrejszki:3 Judit:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.28948
 [CLS] Andrejszki:3 Judit:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],szszt:3,orgona:2,0,orgona:2,0,-2.83453
-[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.86966
-[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.20675
-[CLS] Balasi:2 Barnabás:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.34283
-[CLS] Balasi:2 Barnabás:3 [MASK] [MASK] játszik:2 . [SEP],névában:2,orgona:2,0,orgona:2,0,-3.04552
+[CLS] Andrejszki:3 Judit:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.96163
+[CLS] Andrejszki:3 Judit:2 [MASK] [MASK] játszik:2 . [SEP],isban:2,orgona:2,0,orgona:2,0,-3.50099
+[CLS] Andrejszki:3 Judit:2 [MASK] [MASK] játszik:2 . [SEP],napját:2,orgona:2,0,orgona:2,0,-3.76124
+[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.86967
+[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.20676
+[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.38335
+[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],szerint,orgona:2,0,orgona:2,0,-3.00815
+[CLS] Hammerschlag:2 János [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.13916
+[CLS] Balasi:2 Barnabás:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.34284
+[CLS] Balasi:2 Barnabás:3 [MASK] [MASK] játszik:2 . [SEP],névában:2,orgona:2,0,orgona:2,0,-3.04553
+[CLS] Balasi:2 Barnabás:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. az az az az a aánt:3,orgona:2,0,orgona:2,0,-3.34109
+[CLS] Balasi:2 Barnabás:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],". , az az , aán:2 néven",orgona:2,0,orgona:2,0,-3.59892
+[CLS] Balasi:2 Barnabás:3 [MASK] [MASK] játszik:2 . [SEP],Lászlót:2,orgona:2,0,orgona:2,0,-3.73041
 [CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.25664
-[CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.49093
+[CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.49094
+[CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-3.14995
+[CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.27166
+[CLS] Király:3 Csaba:2 [MASK] játszik:2 . [SEP],##l,orgona:2,0,orgona:2,0,-3.34506
 [CLS] Zsasskovszky:5 Ferenc [MASK] [MASK] játszik:2 . [SEP],klubban:2,orgona:2,0,orgona:2,0,-1.74736
-[CLS] Zsasskovszky:5 Ferenc [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.64936
+[CLS] Zsasskovszky:5 Ferenc [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.64937
+[CLS] Zsasskovszky:5 Ferenc [MASK] [MASK] játszik:2 . [SEP],csapatán:2,orgona:2,0,orgona:2,0,-2.91774
+[CLS] Zsasskovszky:5 Ferenc [MASK] [MASK] játszik:2 . [SEP],atszik:2,orgona:2,0,orgona:2,0,-3.09121
+[CLS] Zsasskovszky:5 Ferenc [MASK] [MASK] játszik:2 . [SEP],FCában:2,orgona:2,0,orgona:2,0,-3.21047
 [CLS] Menyhárt:4 Jenő [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-0.51071
-[CLS] Menyhárt:4 Jenő [MASK] [MASK] játszik:2 . [SEP],színész szerepet,énekhang:2,0,énekhang:2,0,-2.74497
+[CLS] Menyhárt:4 Jenő [MASK] [MASK] játszik:2 . [SEP],színész szerepet,énekhang:2,0,énekhang:2,0,-2.74498
+[CLS] Menyhárt:4 Jenő [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-3.16721
+[CLS] Menyhárt:4 Jenő [MASK] játszik:2 . [SEP],##nél,énekhang:2,0,énekhang:2,0,-3.31539
+[CLS] Menyhárt:4 Jenő [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-3.34004
 [CLS] Komáromi:3 István [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-0.56114
-[CLS] Komáromi:3 István [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.35198
+[CLS] Komáromi:3 István [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.35199
+[CLS] Komáromi:3 István [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.68840
+[CLS] Komáromi:3 István [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , az , a ő magyarul",énekhang:2,0,énekhang:2,0,-3.55638
+[CLS] Komáromi:3 István [MASK] [MASK] játszik:2 . [SEP],##ttszik:2,énekhang:2,0,énekhang:2,0,-3.77575
 [CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-0.84168
-[CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.56943
+[CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.56944
+[CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] [MASK] játszik:2 . [SEP],klubon:2,orgona:2,0,orgona:2,0,-3.15404
+[CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] [MASK] játszik:2 . [SEP],cában:2,orgona:2,0,orgona:2,0,-3.34358
+[CLS] Alföldy:3 - Boruss:3 Csilla:3 [MASK] [MASK] játszik:2 . [SEP],együttesán:2,orgona:2,0,orgona:2,0,-3.77201
 [CLS] Sipőcz:4 Ernő:2 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-1.84844
 [CLS] Sipőcz:4 Ernő:2 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.07337
+[CLS] Sipőcz:4 Ernő:2 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.22171
+[CLS] Sipőcz:4 Ernő:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.46515
+[CLS] Sipőcz:4 Ernő:2 [MASK] játszik:2 . [SEP],##hez,gitár,0,gitár,0,-2.65095
 [CLS] Somogyi:3 - Tóth Dániel:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,orgona:2,0,orgona:2,0,-2.31269
-[CLS] Somogyi:3 - Tóth Dániel:3 [MASK] játszik:2 . [SEP],-,orgona:2,0,orgona:2,0,-2.60287
+[CLS] Somogyi:3 - Tóth Dániel:3 [MASK] játszik:2 . [SEP],-,orgona:2,0,orgona:2,0,-2.60288
+[CLS] Somogyi:3 - Tóth Dániel:3 [MASK] játszik:2 . [SEP],nem,orgona:2,0,orgona:2,0,-2.67709
+[CLS] Somogyi:3 - Tóth Dániel:3 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-3.54856
+[CLS] Somogyi:3 - Tóth Dániel:3 [MASK] játszik:2 . [SEP],együtt,orgona:2,0,orgona:2,0,-3.55193
 [CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.11932
-[CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],szerepet,énekhang:2,0,énekhang:2,0,-2.77510
+[CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],szerepet,énekhang:2,0,énekhang:2,0,-2.77511
+[CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],mellett,énekhang:2,0,énekhang:2,0,-2.93301
+[CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-2.95384
+[CLS] Végvári:3 Ádám:3 [MASK] játszik:2 . [SEP],is,énekhang:2,0,énekhang:2,0,-3.15389
 [CLS] Szamosi:3 Szabolcs:4 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.68538
 [CLS] Szamosi:3 Szabolcs:4 [MASK] játszik:2 . [SEP],##on,orgona:2,0,orgona:2,0,-2.36066
-[CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.34441
+[CLS] Szamosi:3 Szabolcs:4 [MASK] játszik:2 . [SEP],##án,orgona:2,0,orgona:2,0,-2.66574
+[CLS] Szamosi:3 Szabolcs:4 [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.73146
+[CLS] Szamosi:3 Szabolcs:4 [MASK] játszik:2 . [SEP],##ában,orgona:2,0,orgona:2,0,-3.14008
+[CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.34442
 [CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.77112
+[CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.64205
+[CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-3.35607
+[CLS] Dobszay:4 Péter [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.66115
 [CLS] Gerencsér:4 Ferenc [MASK] [MASK] [MASK] játszik:2 . [SEP],a labdarúgóban:2,cimbalom:3,0,cimbalom:3,0,-1.87793
 [CLS] Gerencsér:4 Ferenc [MASK] [MASK] játszik:2 . [SEP],klubán:2,cimbalom:3,0,cimbalom:3,0,-2.61744
-[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##t,cimbalom:3,0,cimbalom:3,0,-1.47815
-[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##ban,cimbalom:3,0,cimbalom:3,0,-1.58803
+[CLS] Gerencsér:4 Ferenc [MASK] [MASK] játszik:2 . [SEP],-ában:2,cimbalom:3,0,cimbalom:3,0,-2.87872
+[CLS] Gerencsér:4 Ferenc [MASK] játszik:2 . [SEP],##vel,cimbalom:3,0,cimbalom:3,0,-3.02297
+[CLS] Gerencsér:4 Ferenc [MASK] játszik:2 . [SEP],##nek,cimbalom:3,0,cimbalom:3,0,-3.07333
+[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##t,cimbalom:3,0,cimbalom:3,0,-1.47816
+[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##ban,cimbalom:3,0,cimbalom:3,0,-1.58804
+[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##hoz,cimbalom:3,0,cimbalom:3,0,-2.94710
+[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##sal,cimbalom:3,0,cimbalom:3,0,-3.04931
+[CLS] Szalai:3 András [MASK] játszik:2 . [SEP],##on,cimbalom:3,0,cimbalom:3,0,-3.06378
 [CLS] Egri:2 Péter [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-0.35524
-[CLS] Egri:2 Péter [MASK] [MASK] [MASK] játszik:2 . [SEP],sz - szerepet,énekhang:2,0,énekhang:2,0,-3.05821
+[CLS] Egri:2 Péter [MASK] [MASK] [MASK] játszik:2 . [SEP],sz - szerepet,énekhang:2,0,énekhang:2,0,-3.05822
+[CLS] Egri:2 Péter [MASK] [MASK] játszik:2 . [SEP],a szerepet,énekhang:2,0,énekhang:2,0,-3.42776
+[CLS] Egri:2 Péter [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , az , őr:2",énekhang:2,0,énekhang:2,0,-3.68743
+[CLS] Egri:2 Péter [MASK] [MASK] játszik:2 . [SEP],", is",énekhang:2,0,énekhang:2,0,-3.90355
 [CLS] Kárpáti:4 Sándor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.19313
 [CLS] Kárpáti:4 Sándor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.32285
+[CLS] Kárpáti:4 Sándor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.51800
+[CLS] Kárpáti:4 Sándor [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.02892
+[CLS] Kárpáti:4 Sándor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-3.36585
 [CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.79101
-[CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-3.05986
-[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.55349
-[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.48351
+[CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-3.05987
+[CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],után,énekhang:2,0,énekhang:2,0,-3.33720
+[CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-3.33827
+[CLS] Heatlie:2 Dávid:3 [MASK] játszik:2 . [SEP],##ként,énekhang:2,0,énekhang:2,0,-3.70704
+[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.55350
+[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.48352
+[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-2.50789
+[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.15929
+[CLS] Pikéthy:3 Tibor [MASK] játszik:2 . [SEP],##ról,orgona:2,0,orgona:2,0,-3.18831
 [CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.83218
-[CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##ról,énekhang:2,0,énekhang:2,0,-2.05650
+[CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##ról,énekhang:2,0,énekhang:2,0,-2.05651
+[CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##ral,énekhang:2,0,énekhang:2,0,-2.64092
+[CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##ra,énekhang:2,0,énekhang:2,0,-2.64977
+[CLS] Winand:2 Gábor [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.91672
 [CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-0.98304
-[CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##val,orgona:2,0,orgona:2,0,-2.40278
+[CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##val,orgona:2,0,orgona:2,0,-2.40279
+[CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##l,orgona:2,0,orgona:2,0,-2.71880
+[CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.99156
+[CLS] Mészáros:3 Zsolt:3 Máté:2 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-3.16636
 [CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],is,énekhang:2,0,énekhang:2,0,-2.10821
-[CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-2.82974
+[CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-2.82975
+[CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],szerepet,énekhang:2,0,énekhang:2,0,-2.94064
+[CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],oldalán,énekhang:2,0,énekhang:2,0,-3.51989
+[CLS] Babits:2 Marcella:2 [MASK] játszik:2 . [SEP],mellett,énekhang:2,0,énekhang:2,0,-3.71375
 [CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##ben,jazz violin,0,jazz violin,0,-1.13554
-[CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##nek,jazz violin,0,jazz violin,0,-2.58073
+[CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##nek,jazz violin,0,jazz violin,0,-2.58074
+[CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##től,jazz violin,0,jazz violin,0,-2.80753
+[CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##t,jazz violin,0,jazz violin,0,-2.96154
+[CLS] Daniel Weltlinger:2 [MASK] játszik:2 . [SEP],##tel,jazz violin,0,jazz violin,0,-3.09808
 [CLS] Wehner:2 Géza [MASK] [MASK] játszik:2 . [SEP],-t:2,orgona:2,0,orgona:2,0,-2.02524
 [CLS] Wehner:2 Géza [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.59987
+[CLS] Wehner:2 Géza [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.78675
+[CLS] Wehner:2 Géza [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.21825
+[CLS] Wehner:2 Géza [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-3.35156
 [CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.85737
-[CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.48881
+[CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.48882
+[CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##nál,orgona:2,0,orgona:2,0,-2.89051
+[CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.95660
+[CLS] Vasadi:2 Balogh:2 Lajos [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.16695
 [CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],##t,cimbalom:3,0,cimbalom:3,0,-1.81052
-[CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],##n,cimbalom:3,0,cimbalom:3,0,-2.14866
+[CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],##n,cimbalom:3,0,cimbalom:3,0,-2.14867
+[CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],is,cimbalom:3,0,cimbalom:3,0,-2.87995
+[CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],##nek,cimbalom:3,0,cimbalom:3,0,-3.18026
+[CLS] Gerencsérné:5 Szeverényi:4 Ilona [MASK] játszik:2 . [SEP],mellett,cimbalom:3,0,cimbalom:3,0,-3.39799
 [CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.95498
-[CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],oldalán,orgona:2,0,orgona:2,0,-2.74035
+[CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],oldalán,orgona:2,0,orgona:2,0,-2.74036
+[CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],után,orgona:2,0,orgona:2,0,-3.01960
+[CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],néven,orgona:2,0,orgona:2,0,-3.08660
+[CLS] Kovács Szilárd:3 [MASK] játszik:2 . [SEP],tiszteletére,orgona:2,0,orgona:2,0,-3.49222
 [CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.68978
-[CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.38714
+[CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.38715
+[CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.79407
+[CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-3.02057
+[CLS] Májer:2 Zoltán [MASK] játszik:2 . [SEP],##nál,orgona:2,0,orgona:2,0,-3.50519
 [CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.98803
-[CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.55452
-[CLS] Kutik:2 Rezső:3 [MASK] játszik:2 . [SEP],##vel,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-0.45598
-[CLS] Kutik:2 Rezső:3 [MASK] [MASK] játszik:2 . [SEP],:ján:2,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-2.99044
-[CLS] Mersei:2 Zsolt:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,klarinét:3,0,klarinét:3,0,-2.08796
+[CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.55453
+[CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.78223
+[CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##val,orgona:2,0,orgona:2,0,-2.84655
+[CLS] Hegedűs:4 Valér:2 [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-3.08010
+[CLS] Kutik:2 Rezső:3 [MASK] játszik:2 . [SEP],##vel,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-0.45599
+[CLS] Kutik:2 Rezső:3 [MASK] [MASK] játszik:2 . [SEP],:ján:2,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-2.99045
+[CLS] Kutik:2 Rezső:3 [MASK] játszik:2 . [SEP],##nek,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-3.17838
+[CLS] Kutik:2 Rezső:3 [MASK] játszik:2 . [SEP],##nél,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-3.35372
+[CLS] Kutik:2 Rezső:3 [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],- - dob is,klasszikus:3 gitár,0,klasszikus:3 gitár,0,-3.89867
+[CLS] Mersei:2 Zsolt:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,klarinét:3,0,klarinét:3,0,-2.08797
 [CLS] Mersei:2 Zsolt:3 [MASK] játszik:2 . [SEP],##ben,klarinét:3,0,klarinét:3,0,-2.80005
+[CLS] Mersei:2 Zsolt:3 [MASK] játszik:2 . [SEP],oldalán,klarinét:3,0,klarinét:3,0,-2.81516
+[CLS] Mersei:2 Zsolt:3 [MASK] játszik:2 . [SEP],szerepet,klarinét:3,0,klarinét:3,0,-2.83943
+[CLS] Mersei:2 Zsolt:3 [MASK] játszik:2 . [SEP],nem,klarinét:3,0,klarinét:3,0,-3.03899
 [CLS] Villányi:3 Veronika [MASK] játszik:2 . [SEP],mellett,pedálhárfa:6,0,pedálhárfa:6,0,-2.33726
-[CLS] Villányi:3 Veronika [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészban:2,pedálhárfa:6,0,pedálhárfa:6,0,-2.78685
+[CLS] Villányi:3 Veronika [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészban:2,pedálhárfa:6,0,pedálhárfa:6,0,-2.78686
+[CLS] Villányi:3 Veronika [MASK] játszik:2 . [SEP],##t,pedálhárfa:6,0,pedálhárfa:6,0,-3.21203
+[CLS] Villányi:3 Veronika [MASK] játszik:2 . [SEP],##ban,pedálhárfa:6,0,pedálhárfa:6,0,-3.28996
+[CLS] Villányi:3 Veronika [MASK] játszik:2 . [SEP],##n,pedálhárfa:6,0,pedálhárfa:6,0,-3.33566
 [CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##t,percussion,0,percussion,0,-1.91846
-[CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##vel,percussion,0,percussion,0,-2.15894
+[CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##vel,percussion,0,percussion,0,-2.15895
+[CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##hez,percussion,0,percussion,0,-2.22706
+[CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##ben,percussion,0,percussion,0,-2.33361
+[CLS] Varasdy:3 Ernő:2 [MASK] játszik:2 . [SEP],##nek,percussion,0,percussion,0,-2.41842
 [CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],##t,percussion,0,percussion,0,-1.36746
-[CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],##ban,percussion,0,percussion,0,-2.08505
+[CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],##ban,percussion,0,percussion,0,-2.08506
+[CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],##hoz,percussion,0,percussion,0,-2.17911
+[CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],##sal,percussion,0,percussion,0,-2.71023
+[CLS] Nevelő:2 János [MASK] játszik:2 . [SEP],szerepet,percussion,0,percussion,0,-3.18242
 [CLS] Holló:2 Aurél:2 [MASK] [MASK] játszik:2 . [SEP],##iát:2,percussion,0,percussion,0,-2.18447
-[CLS] Holló:2 Aurél:2 [MASK] [MASK] játszik:2 . [SEP],##iban:2,percussion,0,percussion,0,-2.44866
+[CLS] Holló:2 Aurél:2 [MASK] [MASK] játszik:2 . [SEP],##iban:2,percussion,0,percussion,0,-2.44867
+[CLS] Holló:2 Aurél:2 [MASK] [MASK] játszik:2 . [SEP],- is,percussion,0,percussion,0,-2.65222
+[CLS] Holló:2 Aurél:2 [MASK] játszik:2 . [SEP],##ában,percussion,0,percussion,0,-3.18857
+[CLS] Holló:2 Aurél:2 [MASK] játszik:2 . [SEP],##hez,percussion,0,percussion,0,-3.26704
 [CLS] Pogány:3 László [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-0.94499
-[CLS] Pogány:3 László [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.83740
+[CLS] Pogány:3 László [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.83741
+[CLS] Pogány:3 László [MASK] [MASK] játszik:2 . [SEP],labdarúgótszik:2,hegedű:3,0,hegedű:3,0,-3.12201
+[CLS] Pogány:3 László [MASK] [MASK] játszik:2 . [SEP],magyaret:2,hegedű:3,0,hegedű:3,0,-3.25397
+[CLS] Pogány:3 László [MASK] [MASK] játszik:2 . [SEP],dob szerepet,hegedű:3,0,hegedű:3,0,-3.54981
 [CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.08584
-[CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.20364
+[CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.20365
+[CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.92251
+[CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-3.01279
+[CLS] Balatoni:2 Sándor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.16191
 [CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],##ban,tárogató:3,0,tárogató:3,0,-1.18757
-[CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],##t,tárogató:3,0,tárogató:3,0,-1.79516
+[CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],##t,tárogató:3,0,tárogató:3,0,-1.79517
+[CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],##l,tárogató:3,0,tárogató:3,0,-2.95275
+[CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],##ben,tárogató:3,0,tárogató:3,0,-3.10413
+[CLS] Nagy Csaba:2 [MASK] játszik:2 . [SEP],mellett,tárogató:3,0,tárogató:3,0,-3.29834
 [CLS] Ducsai:2 Szabolcs:4 [MASK] játszik:2 . [SEP],##ban,trombita:3,0,trombita:3,0,-0.91748
 [CLS] Ducsai:2 Szabolcs:4 [MASK] játszik:2 . [SEP],##on,trombita:3,0,trombita:3,0,-2.07624
-[CLS] Doppler:3 Károly [MASK] [MASK] játszik:2 . [SEP],-ban:2,fuvola:2,0,fuvola:2,0,-1.63930
-[CLS] Doppler:3 Károly [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-2.18171
+[CLS] Ducsai:2 Szabolcs:4 [MASK] játszik:2 . [SEP],##hoz,trombita:3,0,trombita:3,0,-2.57020
+[CLS] Ducsai:2 Szabolcs:4 [MASK] játszik:2 . [SEP],##ában,trombita:3,0,trombita:3,0,-3.22191
+[CLS] Ducsai:2 Szabolcs:4 [MASK] játszik:2 . [SEP],##án,trombita:3,0,trombita:3,0,-3.31020
+[CLS] Doppler:3 Károly [MASK] [MASK] játszik:2 . [SEP],-ban:2,fuvola:2,0,fuvola:2,0,-1.63931
+[CLS] Doppler:3 Károly [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-2.18172
+[CLS] Doppler:3 Károly [MASK] játszik:2 . [SEP],##hoz,fuvola:2,0,fuvola:2,0,-3.06470
+[CLS] Doppler:3 Károly [MASK] játszik:2 . [SEP],##tól,fuvola:2,0,fuvola:2,0,-3.12185
+[CLS] Doppler:3 Károly [MASK] játszik:2 . [SEP],##nek,fuvola:2,0,fuvola:2,0,-3.50299
 [CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.26511
-[CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##l,brácsa:3,0,brácsa:3,0,-1.87388
+[CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##l,brácsa:3,0,brácsa:3,0,-1.87389
+[CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.31524
+[CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-3.41355
+[CLS] Molnár:2 Antal [MASK] játszik:2 . [SEP],##val,brácsa:3,0,brácsa:3,0,-3.65266
 "[CLS] Sánta:2 Ferenc , ifj:2 . [MASK] játszik:2 . [SEP]",is,hegedű:3,0,hegedű:3,0,-2.33648
 "[CLS] Sánta:2 Ferenc , ifj:2 . [MASK] játszik:2 . [SEP]",",",hegedű:3,0,hegedű:3,0,-3.06414
+"[CLS] Sánta:2 Ferenc , ifj:2 . [MASK] [MASK] játszik:2 . [SEP]",-ban:2,hegedű:3,0,hegedű:3,0,-3.34855
+"[CLS] Sánta:2 Ferenc , ifj:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP]",".n:2 a . - - , a -ben:2",hegedű:3,0,hegedű:3,0,-3.70666
+"[CLS] Sánta:2 Ferenc , ifj:2 . [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP]",A an:2 sz sz az szántr:4,hegedű:3,0,hegedű:3,0,-3.89209
 [CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.76975
-[CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.76420
+[CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.76421
+[CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.93935
+[CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.18235
+[CLS] Gergely:3 Ferenc [MASK] játszik:2 . [SEP],##et,orgona:2,0,orgona:2,0,-3.21851
 [CLS] Erdélyi:3 Tamás [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.16223
 [CLS] Erdélyi:3 Tamás [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.61793
+[CLS] Erdélyi:3 Tamás [MASK] játszik:2 . [SEP],##sal,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.05500
+[CLS] Erdélyi:3 Tamás [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.21245
+[CLS] Erdélyi:3 Tamás [MASK] játszik:2 . [SEP],##hoz,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.23721
 [CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] játszik:2 . [SEP],is,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.40021
-[CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] [MASK] [MASK] játszik:2 . [SEP],a zent:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.47344
+[CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] [MASK] [MASK] játszik:2 . [SEP],a zent:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.47345
+[CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] [MASK] játszik:2 . [SEP],atszik:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.76296
+[CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] [MASK] játszik:2 . [SEP],kor is,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.06875
+[CLS] Kőszegi:4 Imre ( zenész:2 ) [MASK] játszik:2 . [SEP],szerepet,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.12681
 [CLS] Varga Tibor [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.32737
 [CLS] Varga Tibor [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.14056
-[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##vel,hegedű:3,0,hegedű:3,0,-0.84848
-[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.01078
+[CLS] Varga Tibor [MASK] játszik:2 . [SEP],##ral,brácsa:3,0,brácsa:3,0,-2.87299
+[CLS] Varga Tibor [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.98783
+[CLS] Varga Tibor [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-3.38004
+[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##vel,hegedű:3,0,hegedű:3,0,-0.84849
+[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.01079
+[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##hez,hegedű:3,0,hegedű:3,0,-2.70531
+[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-2.77232
+[CLS] Novácsek:3 Ottokár:2 Jenő [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.94907
 [CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.83028
-[CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-2.60379
+[CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-2.60380
+[CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-3.22294
+[CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##nél,gitár,0,gitár,0,-3.50553
+[CLS] Sebő:3 Ferenc [MASK] játszik:2 . [SEP],##hez,gitár,0,gitár,0,-3.51772
 [CLS] Lehotka:3 Gábor [MASK] [MASK] játszik:2 . [SEP],-t:2,orgona:2,0,orgona:2,0,-1.99337
-[CLS] Lehotka:3 Gábor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.18135
+[CLS] Lehotka:3 Gábor [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-2.18136
+[CLS] Lehotka:3 Gábor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-2.34297
+[CLS] Lehotka:3 Gábor [MASK] játszik:2 . [SEP],##ról,orgona:2,0,orgona:2,0,-2.54667
+[CLS] Lehotka:3 Gábor [MASK] játszik:2 . [SEP],##ra,orgona:2,0,orgona:2,0,-2.85989
 [CLS] Lukács:3 Pál [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-0.78580
-[CLS] Lukács:3 Pál [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-2.84343
+[CLS] Lukács:3 Pál [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-2.84344
+[CLS] Lukács:3 Pál [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az az az a őben:2,brácsa:3,0,brácsa:3,0,-3.20143
+[CLS] Lukács:3 Pál [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-3.41271
+[CLS] Lukács:3 Pál [MASK] játszik:2 . [SEP],##lal,brácsa:3,0,brácsa:3,0,-3.72677
 [CLS] Bakfark:4 Bálint:3 [MASK] játszik:2 . [SEP],##ban,Lant:2,0,Lant:2,0,-1.92374
 [CLS] Bakfark:4 Bálint:3 [MASK] játszik:2 . [SEP],szerepet,Lant:2,0,Lant:2,0,-2.31514
+[CLS] Bakfark:4 Bálint:3 [MASK] játszik:2 . [SEP],##ján,Lant:2,0,Lant:2,0,-2.50487
+[CLS] Bakfark:4 Bálint:3 [MASK] játszik:2 . [SEP],##ben,Lant:2,0,Lant:2,0,-2.85044
+[CLS] Bakfark:4 Bálint:3 [MASK] játszik:2 . [SEP],mellett,Lant:2,0,Lant:2,0,-3.08523
 [CLS] Bazsinka:3 József [MASK] játszik:2 . [SEP],##ben,tuba:2,0,tuba:2,0,-1.82004
 [CLS] Bazsinka:3 József [MASK] [MASK] játszik:2 . [SEP],színészban:2,tuba:2,0,tuba:2,0,-2.41124
+[CLS] Bazsinka:3 József [MASK] játszik:2 . [SEP],##nek,tuba:2,0,tuba:2,0,-2.83729
+[CLS] Bazsinka:3 József [MASK] játszik:2 . [SEP],##t,tuba:2,0,tuba:2,0,-2.85552
+[CLS] Bazsinka:3 József [MASK] játszik:2 . [SEP],##en,tuba:2,0,tuba:2,0,-2.88721
 [CLS] Benkő:3 Dániel:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,Lant:2,0,Lant:2,0,-2.46363
 [CLS] Benkő:3 Dániel:3 [MASK] [MASK] játszik:2 . [SEP],dobtszik:2,Lant:2,0,Lant:2,0,-2.87941
+[CLS] Benkő:3 Dániel:3 [MASK] [MASK] játszik:2 . [SEP],aet:2,Lant:2,0,Lant:2,0,-3.08337
+[CLS] Benkő:3 Dániel:3 [MASK] [MASK] játszik:2 . [SEP],labdarúgóban:2,Lant:2,0,Lant:2,0,-3.29076
+[CLS] Benkő:3 Dániel:3 [MASK] játszik:2 . [SEP],nem,Lant:2,0,Lant:2,0,-3.44055
 [CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.80317
-[CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.20470
+[CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.20471
+[CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-2.50901
+[CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],szerepet,orgona:2,0,orgona:2,0,-2.77491
+[CLS] Karosi:2 Bálint:3 [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-3.41008
 [CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.91305
-[CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.34203
-[CLS] Bogányi:2 Bence:2 [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-0.97025
-[CLS] Bogányi:2 Bence:2 [MASK] játszik:2 . [SEP],##vel,fagott:2,0,fagott:2,0,-2.51017
+[CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.34204
+[CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##on,orgona:2,0,orgona:2,0,-3.26870
+[CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-3.47596
+[CLS] Szabó Balázs [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-3.69337
+[CLS] Bogányi:2 Bence:2 [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-0.97026
+[CLS] Bogányi:2 Bence:2 [MASK] játszik:2 . [SEP],##vel,fagott:2,0,fagott:2,0,-2.51018
+[CLS] Bogányi:2 Bence:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a . az az az a azn:2,fagott:2,0,fagott:2,0,-3.28677
+[CLS] Bogányi:2 Bence:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],- dobában:2,fagott:2,0,fagott:2,0,-3.68901
+[CLS] Bogányi:2 Bence:2 [MASK] [MASK] játszik:2 . [SEP],Istvánát:2,fagott:2,0,fagott:2,0,-3.86425
 [CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.22486
-[CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.37110
+[CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.37111
+[CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.61996
+[CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.07039
+[CLS] Sebestyén:4 János [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-3.70148
 [CLS] Debreczeni:4 Ferenc [MASK] [MASK] játszik:2 . [SEP],-t:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.02537
-[CLS] Debreczeni:4 Ferenc [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.59794
+[CLS] Debreczeni:4 Ferenc [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.59795
+[CLS] Debreczeni:4 Ferenc [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.75935
+[CLS] Debreczeni:4 Ferenc [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.96369
+[CLS] Debreczeni:4 Ferenc [MASK] játszik:2 . [SEP],##tel,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.29570
 [CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.48852
-[CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],mellett,csembaló:4,0,csembaló:4,0,-2.08392
-[CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-1.31881
+[CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],mellett,csembaló:4,0,csembaló:4,0,-2.08393
+[CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],##t,csembaló:4,0,csembaló:4,0,-2.84912
+[CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],##n,csembaló:4,0,csembaló:4,0,-3.34660
+[CLS] Dobozy:3 Borbála:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-3.42748
+[CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-1.31882
 [CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.49486
+[CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],együtt,brácsa:3,0,brácsa:3,0,-3.09264
+[CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-3.19889
+[CLS] Dávid:3 Gyula [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-3.32641
 [CLS] Lajkó:3 Félix [MASK] [MASK] játszik:2 . [SEP],-t:2,hegedű:3,0,hegedű:3,0,-1.57542
 [CLS] Lajkó:3 Félix [MASK] játszik:2 . [SEP],##en,hegedű:3,0,hegedű:3,0,-2.57252
+[CLS] Lajkó:3 Félix [MASK] játszik:2 . [SEP],szerepet,hegedű:3,0,hegedű:3,0,-2.67228
+[CLS] Lajkó:3 Félix [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.83760
+[CLS] Lajkó:3 Félix [MASK] játszik:2 . [SEP],##et,hegedű:3,0,hegedű:3,0,-3.01540
 [CLS] Eichinger:3 Tibor [MASK] játszik:2 . [SEP],##ral,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.91438
 [CLS] Eichinger:3 Tibor [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.92589
+[CLS] Eichinger:3 Tibor [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.83961
+[CLS] Eichinger:3 Tibor [MASK] játszik:2 . [SEP],##tel,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.85589
+[CLS] Eichinger:3 Tibor [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.15131
 [CLS] Fassang:3 László [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-0.99806
-[CLS] Fassang:3 László [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.18184
+[CLS] Fassang:3 László [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.18185
+[CLS] Fassang:3 László [MASK] [MASK] játszik:2 . [SEP],magyartszik:2,orgona:2,0,orgona:2,0,-3.07257
+[CLS] Fassang:3 László [MASK] [MASK] játszik:2 . [SEP],gitáret:2,orgona:2,0,orgona:2,0,-3.38185
+[CLS] Fassang:3 László [MASK] [MASK] játszik:2 . [SEP],a szerepet,orgona:2,0,orgona:2,0,-3.47033
 [CLS] Horváth Kornél:2 [MASK] játszik:2 . [SEP],##ával,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.99280
 [CLS] Horváth Kornél:2 [MASK] játszik:2 . [SEP],##ján,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.57537
-[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.48255
-[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.88526
+[CLS] Horváth Kornél:2 [MASK] játszik:2 . [SEP],néven,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.05141
+[CLS] Horváth Kornél:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.40958
+[CLS] Horváth Kornél:2 [MASK] játszik:2 . [SEP],##hoz,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.52331
+[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.48256
+[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.88527
+[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##ral,hegedű:3,0,hegedű:3,0,-2.87636
+[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-3.36842
+[CLS] Serly:2 Tibor [MASK] játszik:2 . [SEP],##hoz,hegedű:3,0,hegedű:3,0,-3.69274
 [CLS] Jeney:2 Zoltán [MASK] játszik:2 . [SEP],##t,fuvola:2,0,fuvola:2,0,-1.83381
-[CLS] Jeney:2 Zoltán [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-1.95946
+[CLS] Jeney:2 Zoltán [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-1.95947
+[CLS] Jeney:2 Zoltán [MASK] [MASK] játszik:2 . [SEP],színészban:2,fuvola:2,0,fuvola:2,0,-3.23689
+[CLS] Jeney:2 Zoltán [MASK] [MASK] játszik:2 . [SEP],aet:2,fuvola:2,0,fuvola:2,0,-3.29978
+[CLS] Jeney:2 Zoltán [MASK] játszik:2 . [SEP],##nek,fuvola:2,0,fuvola:2,0,-3.42607
 [CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.23635
-[CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.45477
-[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.31235
-[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-2.08883
+[CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.45478
+[CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],##et,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.79657
+[CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],szerepet,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.42414
+[CLS] Jávori:2 Vilmos:2 [MASK] játszik:2 . [SEP],néven,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.59688
+[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.31236
+[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-2.08884
+[CLS] Kokas:2 Katalin [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . az az a őn:2,hegedű:3,0,hegedű:3,0,-3.15493
+[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##nak,hegedű:3,0,hegedű:3,0,-3.42901
+[CLS] Kokas:2 Katalin [MASK] játszik:2 . [SEP],##hoz,hegedű:3,0,hegedű:3,0,-3.54611
 [CLS] Lakatos:3 György [MASK] [MASK] játszik:2 . [SEP],-t:2,fagott:2,0,fagott:2,0,-1.91706
-[CLS] Lakatos:3 György [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-2.54260
-[CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.78979
+[CLS] Lakatos:3 György [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-2.54261
+[CLS] Lakatos:3 György [MASK] játszik:2 . [SEP],##nek,fagott:2,0,fagott:2,0,-2.71090
+[CLS] Lakatos:3 György [MASK] játszik:2 . [SEP],szerepet,fagott:2,0,fagott:2,0,-2.86871
+[CLS] Lakatos:3 György [MASK] játszik:2 . [SEP],##hez,fagott:2,0,fagott:2,0,-3.00489
+[CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.78980
 [CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-1.85989
+[CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.23220
+[CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-2.99626
+[CLS] Pálúr:2 János [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.14872
 [CLS] Ráduly:3 Mihály [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.20749
 [CLS] Ráduly:3 Mihály [MASK] játszik:2 . [SEP],##t,szaxofon:4,0,szaxofon:4,0,-1.73301
-[CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##ban,tuba:2,0,tuba:2,0,-2.03439
+[CLS] Ráduly:3 Mihály [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-2.08541
+[CLS] Ráduly:3 Mihály [MASK] [MASK] játszik:2 . [SEP],magyartszik:2,szaxofon:4,0,szaxofon:4,0,-3.38103
+[CLS] Ráduly:3 Mihály [MASK] [MASK] játszik:2 . [SEP],hanget:2,szaxofon:4,0,szaxofon:4,0,-3.38805
+[CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##ban,tuba:2,0,tuba:2,0,-2.03440
 [CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##t,tuba:2,0,tuba:2,0,-2.22372
+[CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##et,tuba:2,0,tuba:2,0,-2.82856
+[CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##on,tuba:2,0,tuba:2,0,-3.11190
+[CLS] Szentpáli:3 Roland [MASK] játszik:2 . [SEP],##ben,tuba:2,0,tuba:2,0,-3.65910
 [CLS] Balázs Elemér:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.45268
-[CLS] Balázs Elemér:3 [MASK] játszik:2 . [SEP],##hez,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.70219
-[CLS] Roby:2 Lakatos:3 [MASK] játszik:2 . [SEP],##ban,jazz violin,0,jazz violin,0,-0.80526
-[CLS] Roby:2 Lakatos:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,jazz violin,0,jazz violin,0,-2.65700
-[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-0.77578
-[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##án,kürt:2,0,kürt:2,0,-2.40219
+[CLS] Balázs Elemér:3 [MASK] játszik:2 . [SEP],##hez,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.70220
+[CLS] Balázs Elemér:3 [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.92740
+[CLS] Balázs Elemér:3 [MASK] játszik:2 . [SEP],szerepet,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.06193
+[CLS] Balázs Elemér:3 [MASK] játszik:2 . [SEP],együtt,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.08849
+[CLS] Roby:2 Lakatos:3 [MASK] játszik:2 . [SEP],##ban,jazz violin,0,jazz violin,0,-0.80527
+[CLS] Roby:2 Lakatos:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,jazz violin,0,jazz violin,0,-2.65701
+[CLS] Roby:2 Lakatos:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . az a a anánban:4,jazz violin,0,jazz violin,0,-3.39129
+[CLS] Roby:2 Lakatos:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],je a annnrr:6 őban:2,jazz violin,0,jazz violin,0,-3.77665
+[CLS] Roby:2 Lakatos:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],is .rrrr:5 a őnt:2 ő,jazz violin,0,jazz violin,0,-3.89082
+[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-0.77579
+[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##án,kürt:2,0,kürt:2,0,-2.40220
+[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##ában,kürt:2,0,kürt:2,0,-2.76601
+[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##hoz,kürt:2,0,kürt:2,0,-2.90512
+[CLS] Zempléni:4 Szabolcs:4 [MASK] játszik:2 . [SEP],##on,kürt:2,0,kürt:2,0,-3.38940
 [CLS] Pertis:2 Zsuzsa:3 [MASK] [MASK] játszik:2 . [SEP],##nnaban:2,csembaló:4,0,csembaló:4,0,-0.84376
 [CLS] Pertis:2 Zsuzsa:3 [MASK] játszik:2 . [SEP],##n,csembaló:4,0,csembaló:4,0,-1.95773
-[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-1.54606
-[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.64603
+[CLS] Pertis:2 Zsuzsa:3 [MASK] játszik:2 . [SEP],##zsa,csembaló:4,0,csembaló:4,0,-2.39498
+[CLS] Pertis:2 Zsuzsa:3 [MASK] [MASK] játszik:2 . [SEP],##nt:2,csembaló:4,0,csembaló:4,0,-3.01289
+[CLS] Pertis:2 Zsuzsa:3 [MASK] [MASK] játszik:2 . [SEP],##nakában:2,csembaló:4,0,csembaló:4,0,-3.73371
+[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-1.54607
+[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.64604
+[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##val,brácsa:3,0,brácsa:3,0,-2.42541
+[CLS] Bársony:3 László [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-3.26991
+[CLS] Bársony:3 László [MASK] [MASK] játszik:2 . [SEP],aet:2,brácsa:3,0,brácsa:3,0,-3.40038
 [CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.77050
-[CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.03306
-[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##t,csembaló:4,0,csembaló:4,0,-1.31696
-[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.49694
+[CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.03307
+[CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],##vel,brácsa:3,0,brácsa:3,0,-3.25587
+[CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-3.37398
+[CLS] Koromzay:4 Dénes:3 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-3.69604
+[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##t,csembaló:4,0,csembaló:4,0,-1.31697
+[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.49695
+[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##hoz,csembaló:4,0,csembaló:4,0,-2.67638
+[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##on,csembaló:4,0,csembaló:4,0,-2.80488
+[CLS] Spányi:2 Miklós [MASK] játszik:2 . [SEP],##sal,csembaló:4,0,csembaló:4,0,-2.95977
 [CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],##nél,brácsa:3,0,brácsa:3,0,-2.57532
-[CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],##kel,brácsa:3,0,brácsa:3,0,-2.61800
+[CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],##kel,brácsa:3,0,brácsa:3,0,-2.61801
+[CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],##nel,brácsa:3,0,brácsa:3,0,-3.00833
+[CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],##c,brácsa:3,0,brácsa:3,0,-3.30378
+[CLS] Schiffer:2 Ervin:2 [MASK] játszik:2 . [SEP],nyelven,brácsa:3,0,brácsa:3,0,-3.45653
 [CLS] Lehner:2 Jenő [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-0.32360
-[CLS] Lehner:2 Jenő [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,hegedű:3,0,hegedű:3,0,-2.92046
+[CLS] Lehner:2 Jenő [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,hegedű:3,0,hegedű:3,0,-2.92047
+[CLS] Lehner:2 Jenő [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##t az az az a az .,hegedű:3,0,hegedű:3,0,-3.37689
+[CLS] Lehner:2 Jenő [MASK] [MASK] játszik:2 . [SEP],zenekaret:2,hegedű:3,0,hegedű:3,0,-3.47132
+[CLS] Lehner:2 Jenő [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-3.78927
 [CLS] Sárközy:4 Gergely:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.08125
 [CLS] Sárközy:4 Gergely:3 [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.51411
+[CLS] Sárközy:4 Gergely:3 [MASK] játszik:2 . [SEP],##nél,gitár,0,gitár,0,-3.14465
+[CLS] Sárközy:4 Gergely:3 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-3.36725
+[CLS] Sárközy:4 Gergely:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.52135
 [CLS] Szentmihályi:4 Gábor [MASK] játszik:2 . [SEP],##ban,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.46346
 [CLS] Szentmihályi:4 Gábor [MASK] játszik:2 . [SEP],##ról,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.42686
+[CLS] Szentmihályi:4 Gábor [MASK] játszik:2 . [SEP],##t,ütőhangszerek:5,0,ütőhangszerek:5,0,-3.02778
+[CLS] Szentmihályi:4 Gábor [MASK] játszik:2 . [SEP],##hoz,ütőhangszerek:5,0,ütőhangszerek:5,0,-3.18046
+[CLS] Szentmihályi:4 Gábor [MASK] játszik:2 . [SEP],##ral,ütőhangszerek:5,0,ütőhangszerek:5,0,-3.19950
 [CLS] Gianicelli:3 Károly [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-1.16993
-[CLS] Gianicelli:3 Károly [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.88532
+[CLS] Gianicelli:3 Károly [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.88533
+[CLS] Gianicelli:3 Károly [MASK] [MASK] játszik:2 . [SEP],##iában:2,nagybőgő:5,0,nagybőgő:5,0,-3.00295
+[CLS] Gianicelli:3 Károly [MASK] [MASK] játszik:2 . [SEP],##ttszik:2,nagybőgő:5,0,nagybőgő:5,0,-3.23730
+[CLS] Gianicelli:3 Károly [MASK] játszik:2 . [SEP],##on,nagybőgő:5,0,nagybőgő:5,0,-3.65241
 [CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-0.69809
-[CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.73476
+[CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.73477
+[CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-3.13890
+[CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##én,orgona:2,0,orgona:2,0,-3.48729
+[CLS] Pécsi:3 Sebestyén:4 [MASK] játszik:2 . [SEP],##n,orgona:2,0,orgona:2,0,-3.51262
 [CLS] István Vincze:3 [MASK] játszik:2 . [SEP],István,kürt:2,0,kürt:2,0,-1.63477
 [CLS] István Vincze:3 [MASK] játszik:2 . [SEP],##ben,kürt:2,0,kürt:2,0,-2.26728
-[CLS] Grencsó:4 István [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.11176
+[CLS] István Vincze:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##cs az az az a a szben:2,kürt:2,0,kürt:2,0,-3.14884
+[CLS] István Vincze:3 [MASK] [MASK] játszik:2 . [SEP],városen:2,kürt:2,0,kürt:2,0,-3.30907
+[CLS] István Vincze:3 [MASK] [MASK] játszik:2 . [SEP],##várn:2,kürt:2,0,kürt:2,0,-3.57036
+[CLS] Grencsó:4 István [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.11177
 [CLS] Grencsó:4 István [MASK] játszik:2 . [SEP],##t,szaxofon:4,0,szaxofon:4,0,-1.57666
+[CLS] Grencsó:4 István [MASK] [MASK] játszik:2 . [SEP],dobtszik:2,szaxofon:4,0,szaxofon:4,0,-3.25700
+[CLS] Grencsó:4 István [MASK] [MASK] játszik:2 . [SEP],aet:2,szaxofon:4,0,szaxofon:4,0,-3.58791
+[CLS] Grencsó:4 István [MASK] [MASK] játszik:2 . [SEP],gitár is,szaxofon:4,0,szaxofon:4,0,-3.82580
 [CLS] Szerémi:4 Gusztáv:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-0.54261
-[CLS] Szerémi:4 Gusztáv:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az az az , . . , az .ban:2",brácsa:3,0,brácsa:3,0,-3.06645
+[CLS] Szerémi:4 Gusztáv:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az az az , . . , az .ban:2",brácsa:3,0,brácsa:3,0,-3.06646
+[CLS] Szerémi:4 Gusztáv:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-3.40747
+[CLS] Szerémi:4 Gusztáv:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],". , , az az az a sz az .",brácsa:3,0,brácsa:3,0,-3.57828
+[CLS] Szerémi:4 Gusztáv:3 [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-3.82402
 [CLS] Cornell [MASK] [MASK] játszik:2 . [SEP],Cornellban:2,harmonika:2,0,harmonika:2,0,-1.87144
-[CLS] Cornell [MASK] játszik:2 . [SEP],Cornell,harmonika:2,0,harmonika:2,0,-3.23657
+[CLS] Cornell [MASK] játszik:2 . [SEP],Cornell,harmonika:2,0,harmonika:2,0,-3.23658
+[CLS] Cornell [MASK] játszik:2 . [SEP],SC,harmonika:2,0,harmonika:2,0,-3.35251
+[CLS] Cornell [MASK] játszik:2 . [SEP],University,harmonika:2,0,harmonika:2,0,-3.51450
+[CLS] Cornell [MASK] játszik:2 . [SEP],FC,harmonika:2,0,harmonika:2,0,-3.55973
 [CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.83275
-[CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-2.67434
+[CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-2.67435
+[CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-2.92544
+[CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],is,harmonika:2,0,harmonika:2,0,-3.26924
+[CLS] Szabó Ádám:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-3.31806
 [CLS] Peter Gritz:2 [MASK] [MASK] játszik:2 . [SEP],##nerben:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.78777
-[CLS] Peter Gritz:2 [MASK] játszik:2 . [SEP],##inger,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.92592
+[CLS] Peter Gritz:2 [MASK] játszik:2 . [SEP],##inger,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.92593
+[CLS] Peter Gritz:2 [MASK] játszik:2 . [SEP],##mann,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.02468
+[CLS] Peter Gritz:2 [MASK] játszik:2 . [SEP],##ky,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.23492
+[CLS] Peter Gritz:2 [MASK] [MASK] játszik:2 . [SEP],##ingl:2,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.45584
 [CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-1.34448
-[CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##sal,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.81295
+[CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##sal,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.81296
+[CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##nak,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.81979
+[CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.13197
+[CLS] Mohay:2 András [MASK] játszik:2 . [SEP],##on,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.67219
 [CLS] Temesváry:4 János [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.02787
-[CLS] Temesváry:4 János [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészban:2,hegedű:3,0,hegedű:3,0,-2.75622
-[CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.04476
+[CLS] Temesváry:4 János [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészban:2,hegedű:3,0,hegedű:3,0,-2.75623
+[CLS] Temesváry:4 János [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-3.01002
+[CLS] Temesváry:4 János [MASK] játszik:2 . [SEP],##sal,hegedű:3,0,hegedű:3,0,-3.10261
+[CLS] Temesváry:4 János [MASK] játszik:2 . [SEP],szerepet,hegedű:3,0,hegedű:3,0,-3.42660
+[CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.04477
 [CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.94519
+[CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##rel,zongora:2,0,zongora:2,0,-2.41197
+[CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##re,zongora:2,0,zongora:2,0,-2.64830
+[CLS] Wagner - Puskás:3 Péter [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-3.43405
 [CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-0.73815
-[CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.47824
+[CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.47825
+[CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##nek,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.48706
+[CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##nél,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.85906
+[CLS] Weisz:2 József [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.89650
 [CLS] Tóth Viktor [MASK] [MASK] játszik:2 . [SEP],-t:2,alto saxophone,0,alto saxophone,0,-2.10759
 [CLS] Tóth Viktor [MASK] játszik:2 . [SEP],##t,alto saxophone,0,alto saxophone,0,-2.56848
+[CLS] Tóth Viktor [MASK] játszik:2 . [SEP],##on,alto saxophone,0,alto saxophone,0,-3.22550
+[CLS] Tóth Viktor [MASK] játszik:2 . [SEP],##hoz,alto saxophone,0,alto saxophone,0,-3.24850
+[CLS] Tóth Viktor [MASK] játszik:2 . [SEP],oldalán,alto saxophone,0,alto saxophone,0,-3.44017
 [CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.54182
-[CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.63949
-[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-1.82459
-[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-2.35628
+[CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-1.63950
+[CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##ra,hegedű:3,0,hegedű:3,0,-2.72214
+[CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##ral,hegedű:3,0,hegedű:3,0,-2.85519
+[CLS] Sebald:2 Sándor [MASK] játszik:2 . [SEP],##ról,hegedű:3,0,hegedű:3,0,-3.31777
+[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-1.82460
+[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-2.35629
+[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##hez,hegedű:3,0,hegedű:3,0,-2.63043
+[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##en,hegedű:3,0,hegedű:3,0,-2.91384
+[CLS] Vashegyi:3 György [MASK] játszik:2 . [SEP],##től,hegedű:3,0,hegedű:3,0,-3.05233
 [CLS] Kollonay:3 Zoltán [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-2.03111
-[CLS] Kollonay:3 Zoltán [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.12744
-[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-1.88020
-[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.08307
+[CLS] Kollonay:3 Zoltán [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-2.12745
+[CLS] Kollonay:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],gitárban:2,zongora:2,0,zongora:2,0,-2.97574
+[CLS] Kollonay:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],színészet:2,zongora:2,0,zongora:2,0,-3.09013
+[CLS] Kollonay:3 Zoltán [MASK] játszik:2 . [SEP],##nál,zongora:2,0,zongora:2,0,-3.48705
+[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-1.88021
+[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.08308
+[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##nak,nagybőgő:5,0,nagybőgő:5,0,-3.11649
+[CLS] Tibay:2 Zoltán [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-3.16858
+[CLS] Tibay:2 Zoltán [MASK] [MASK] játszik:2 . [SEP],dobet:2,nagybőgő:5,0,nagybőgő:5,0,-3.75493
 [CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-1.28119
-[CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.05164
+[CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.05165
+[CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],szerepet,brácsa:3,0,brácsa:3,0,-3.03371
+[CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-3.13133
+[CLS] Tornyai:3 Péter [MASK] játszik:2 . [SEP],##vel,brácsa:3,0,brácsa:3,0,-3.30538
 [CLS] Mácsai:3 Zoltán [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.05267
-[CLS] Mácsai:3 Zoltán [MASK] játszik:2 . [SEP],##t,kürt:2,0,kürt:2,0,-1.93642
-[CLS] Sándor János [MASK] játszik:2 . [SEP],##t,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.88396
-[CLS] Sándor János [MASK] játszik:2 . [SEP],##ban,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.98667
+[CLS] Mácsai:3 Zoltán [MASK] játszik:2 . [SEP],##t,kürt:2,0,kürt:2,0,-1.93643
+[CLS] Mácsai:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],gitárban:2,kürt:2,0,kürt:2,0,-3.28377
+[CLS] Mácsai:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],színészet:2,kürt:2,0,kürt:2,0,-3.49150
+[CLS] Mácsai:3 Zoltán [MASK] [MASK] játszik:2 . [SEP],dob is,kürt:2,0,kürt:2,0,-3.68485
+[CLS] Sándor János [MASK] játszik:2 . [SEP],##t,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.88397
+[CLS] Sándor János [MASK] játszik:2 . [SEP],##ban,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.98668
+[CLS] Sándor János [MASK] játszik:2 . [SEP],##sal,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.10439
+[CLS] Sándor János [MASK] játszik:2 . [SEP],##nak,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.68476
+[CLS] Sándor János [MASK] játszik:2 . [SEP],##hoz,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.68795
 [CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##hez,brácsa:3,0,brácsa:3,0,-1.51247
-[CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-1.56017
+[CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-1.56018
+[CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.14844
+[CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##től,brácsa:3,0,brácsa:3,0,-3.16371
+[CLS] Janzer:2 György [MASK] játszik:2 . [SEP],##nél,brácsa:3,0,brácsa:3,0,-3.21941
 [CLS] Konrád:4 György [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-2.19932
-[CLS] Konrád:4 György [MASK] játszik:2 . [SEP],##hez,hegedű:3,0,hegedű:3,0,-2.73777
+[CLS] Konrád:4 György [MASK] játszik:2 . [SEP],##hez,hegedű:3,0,hegedű:3,0,-2.73778
+[CLS] Konrád:4 György [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-3.33782
+[CLS] Konrád:4 György [MASK] játszik:2 . [SEP],szerepet,hegedű:3,0,hegedű:3,0,-3.47959
+[CLS] Konrád:4 György [MASK] játszik:2 . [SEP],szerint,hegedű:3,0,hegedű:3,0,-3.59297
 [CLS] Faludy:3 Krisztina:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,fagott:2,0,fagott:2,0,-1.95081
-[CLS] Faludy:3 Krisztina:3 [MASK] játszik:2 . [SEP],is,fagott:2,0,fagott:2,0,-2.64898
+[CLS] Faludy:3 Krisztina:3 [MASK] játszik:2 . [SEP],is,fagott:2,0,fagott:2,0,-2.64899
+[CLS] Faludy:3 Krisztina:3 [MASK] játszik:2 . [SEP],szerepet,fagott:2,0,fagott:2,0,-3.09151
+[CLS] Faludy:3 Krisztina:3 [MASK] játszik:2 . [SEP],mellett,fagott:2,0,fagott:2,0,-3.29250
+[CLS] Faludy:3 Krisztina:3 [MASK] játszik:2 . [SEP],##ban,fagott:2,0,fagott:2,0,-3.63408
 [CLS] Virágh:3 András Gábor [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-0.86633
 [CLS] Virágh:3 András Gábor [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.70106
+[CLS] Virágh:3 András Gábor [MASK] játszik:2 . [SEP],##ról,orgona:2,0,orgona:2,0,-3.08743
+[CLS] Virágh:3 András Gábor [MASK] játszik:2 . [SEP],##ra,orgona:2,0,orgona:2,0,-3.28827
+[CLS] Virágh:3 András Gábor [MASK] játszik:2 . [SEP],##ral,orgona:2,0,orgona:2,0,-3.50088
 [CLS] Takács:2 Szilvia:3 [MASK] [MASK] játszik:2 . [SEP],##iban:2,csembaló:4,0,csembaló:4,0,-0.97381
 [CLS] Takács:2 Szilvia:3 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.67993
+[CLS] Takács:2 Szilvia:3 [MASK] [MASK] játszik:2 . [SEP],klubán:2,csembaló:4,0,csembaló:4,0,-3.04885
+[CLS] Takács:2 Szilvia:3 [MASK] játszik:2 . [SEP],##lban,csembaló:4,0,csembaló:4,0,-3.49919
+[CLS] Takács:2 Szilvia:3 [MASK] játszik:2 . [SEP],##jában,csembaló:4,0,csembaló:4,0,-3.59261
 [CLS] Both Lehel:2 [MASK] játszik:2 . [SEP],##le,zongora:2,0,zongora:2,0,-2.46294
-[CLS] Both Lehel:2 [MASK] [MASK] játszik:2 . [SEP],##leben:2,zongora:2,0,zongora:2,0,-2.63496
+[CLS] Both Lehel:2 [MASK] [MASK] játszik:2 . [SEP],##leben:2,zongora:2,0,zongora:2,0,-2.63497
+[CLS] Both Lehel:2 [MASK] játszik:2 . [SEP],##l,zongora:2,0,zongora:2,0,-2.90604
+[CLS] Both Lehel:2 [MASK] játszik:2 . [SEP],##e,zongora:2,0,zongora:2,0,-3.18114
+[CLS] Both Lehel:2 [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-3.53306
 [CLS] Malaric:2 Rudolf [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-2.36481
 [CLS] Malaric:2 Rudolf [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.64380
+[CLS] Malaric:2 Rudolf [MASK] játszik:2 . [SEP],##ján,nagybőgő:5,0,nagybőgő:5,0,-3.00003
+[CLS] Malaric:2 Rudolf [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-3.08471
+[CLS] Malaric:2 Rudolf [MASK] játszik:2 . [SEP],##on,nagybőgő:5,0,nagybőgő:5,0,-3.60999
 [CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##et,ütőhangszerek:5,0,ütőhangszerek:5,0,-1.58469
-[CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##ben,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.31536
+[CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##ben,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.31537
+[CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##t,ütőhangszerek:5,0,ütőhangszerek:5,0,-2.59552
+[CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##en,ütőhangszerek:5,0,ütőhangszerek:5,0,-3.00727
+[CLS] Sárosi:3 Ferenc [MASK] játszik:2 . [SEP],##ban,ütőhangszerek:5,0,ütőhangszerek:5,0,-3.40955
 [CLS] Salánki:3 Hédi:3 [MASK] játszik:2 . [SEP],szerepet,csembaló:4,0,csembaló:4,0,-1.93879
-[CLS] Salánki:3 Hédi:3 [MASK] [MASK] játszik:2 . [SEP],csapatában:2,csembaló:4,0,csembaló:4,0,-3.09571
+[CLS] Salánki:3 Hédi:3 [MASK] [MASK] játszik:2 . [SEP],csapatában:2,csembaló:4,0,csembaló:4,0,-3.09572
+[CLS] Salánki:3 Hédi:3 [MASK] játszik:2 . [SEP],között,csembaló:4,0,csembaló:4,0,-3.28845
+[CLS] Salánki:3 Hédi:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-3.36481
+[CLS] Salánki:3 Hédi:3 [MASK] játszik:2 . [SEP],mellett,csembaló:4,0,csembaló:4,0,-3.49399
 [CLS] Hara László [MASK] játszik:2 . [SEP],##t,fagott:2,0,fagott:2,0,-0.89105
-[CLS] Hara László [MASK] játszik:2 . [SEP],##val,fagott:2,0,fagott:2,0,-2.67608
+[CLS] Hara László [MASK] játszik:2 . [SEP],##val,fagott:2,0,fagott:2,0,-2.67609
+[CLS] Hara László [MASK] játszik:2 . [SEP],##ban,fagott:2,0,fagott:2,0,-2.71712
+[CLS] Hara László [MASK] játszik:2 . [SEP],##vel,fagott:2,0,fagott:2,0,-2.88730
+[CLS] Hara László [MASK] játszik:2 . [SEP],##nak,fagott:2,0,fagott:2,0,-3.59116
 [CLS] Ujházy:4 László [MASK] játszik:2 . [SEP],##t,klarinét:3,0,klarinét:3,0,-1.31219
-[CLS] Ujházy:4 László [MASK] játszik:2 . [SEP],##ban,klarinét:3,0,klarinét:3,0,-1.79919
+[CLS] Ujházy:4 László [MASK] játszik:2 . [SEP],##ban,klarinét:3,0,klarinét:3,0,-1.79920
+[CLS] Ujházy:4 László [MASK] [MASK] játszik:2 . [SEP],aban:2,klarinét:3,0,klarinét:3,0,-2.85604
+[CLS] Ujházy:4 László [MASK] játszik:2 . [SEP],##hoz,klarinét:3,0,klarinét:3,0,-3.16859
+[CLS] Ujházy:4 László [MASK] [MASK] játszik:2 . [SEP],gitáret:2,klarinét:3,0,klarinét:3,0,-3.33537
 [CLS] Péter János [MASK] játszik:2 . [SEP],##t,fuvola:2,0,fuvola:2,0,-1.72313
 [CLS] Péter János [MASK] játszik:2 . [SEP],##ban,fuvola:2,0,fuvola:2,0,-2.05388
+[CLS] Péter János [MASK] játszik:2 . [SEP],##sal,fuvola:2,0,fuvola:2,0,-2.32727
+[CLS] Péter János [MASK] játszik:2 . [SEP],##nak,fuvola:2,0,fuvola:2,0,-2.91380
+[CLS] Péter János [MASK] játszik:2 . [SEP],##hoz,fuvola:2,0,fuvola:2,0,-2.92054
 [CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.24028
-[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.10721
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.10722
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.43732
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.73419
+[CLS] Lukács:3 Péter [MASK] [MASK] játszik:2 . [SEP],magyaret:2,brácsa:3,0,brácsa:3,0,-3.68577
 [CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.24028
-[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.10721
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.10722
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.43732
+[CLS] Lukács:3 Péter [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.73419
+[CLS] Lukács:3 Péter [MASK] [MASK] játszik:2 . [SEP],magyaret:2,brácsa:3,0,brácsa:3,0,-3.68577
 [CLS] Hock:2 Ernő:2 [MASK] játszik:2 . [SEP],##vel,nagybőgő:5,0,nagybőgő:5,0,-1.42709
 [CLS] Hock:2 Ernő:2 [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-1.96929
+[CLS] Hock:2 Ernő:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.51729
+[CLS] Hock:2 Ernő:2 [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.59919
+[CLS] Hock:2 Ernő:2 [MASK] játszik:2 . [SEP],##hez,nagybőgő:5,0,nagybőgő:5,0,-2.66750
 [CLS] Bojtár:3 László [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-0.76799
 [CLS] Bojtár:3 László [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-2.07584
+[CLS] Bojtár:3 László [MASK] [MASK] játszik:2 . [SEP],magyartszik:2,orgona:2,0,orgona:2,0,-3.21212
+[CLS] Bojtár:3 László [MASK] [MASK] játszik:2 . [SEP],labdarúgóet:2,orgona:2,0,orgona:2,0,-3.39207
+[CLS] Bojtár:3 László [MASK] [MASK] játszik:2 . [SEP],- szerepet,orgona:2,0,orgona:2,0,-3.65271
 [CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-1.11454
-[CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.48310
-[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.87978
-[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##n,orgona:2,0,orgona:2,0,-2.24384
-[CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],szerepet,nagybőgő:5,0,nagybőgő:5,0,-1.84977
+[CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##en,orgona:2,0,orgona:2,0,-1.48311
+[CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.16689
+[CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##nél,orgona:2,0,orgona:2,0,-3.23029
+[CLS] Rákász:3 Gergely:3 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.49040
+[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##ban,orgona:2,0,orgona:2,0,-1.87979
+[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##n,orgona:2,0,orgona:2,0,-2.24385
+[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-2.59410
+[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##ján,orgona:2,0,orgona:2,0,-2.85065
+[CLS] Dankos:2 Attila [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-2.95527
+[CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],szerepet,nagybőgő:5,0,nagybőgő:5,0,-1.84978
 [CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-2.28129
-[CLS] Hermann László [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.05075
-[CLS] Hermann László [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.35122
+[CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],##vel,nagybőgő:5,0,nagybőgő:5,0,-3.22539
+[CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-3.34562
+[CLS] Lajhó:4 Géza [MASK] játszik:2 . [SEP],nem,nagybőgő:5,0,nagybőgő:5,0,-3.46088
+[CLS] Hermann László [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.05076
+[CLS] Hermann László [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.35123
+[CLS] Hermann László [MASK] játszik:2 . [SEP],##val,hegedű:3,0,hegedű:3,0,-2.49566
+[CLS] Hermann László [MASK] játszik:2 . [SEP],##n,hegedű:3,0,hegedű:3,0,-2.73009
+[CLS] Hermann László [MASK] játszik:2 . [SEP],##hoz,hegedű:3,0,hegedű:3,0,-3.43160
 [CLS] Szennai:3 Kálmán [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.12130
 [CLS] Szennai:3 Kálmán [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.38212
+[CLS] Szennai:3 Kálmán [MASK] játszik:2 . [SEP],##on,zongora:2,0,zongora:2,0,-3.13898
+[CLS] Szennai:3 Kálmán [MASK] játszik:2 . [SEP],##nak,zongora:2,0,zongora:2,0,-3.58472
+[CLS] Szennai:3 Kálmán [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-3.81250
 [CLS] Samu:2 László [MASK] játszik:2 . [SEP],##t,kürt:2,0,kürt:2,0,-1.49310
 [CLS] Samu:2 László [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.77511
+[CLS] Samu:2 László [MASK] játszik:2 . [SEP],##val,kürt:2,0,kürt:2,0,-2.20660
+[CLS] Samu:2 László [MASK] [MASK] játszik:2 . [SEP],szó szerepet,kürt:2,0,kürt:2,0,-3.44503
+[CLS] Samu:2 László [MASK] játszik:2 . [SEP],##hoz,kürt:2,0,kürt:2,0,-3.55583
 [CLS] Karasszon:3 Dezső:3 [MASK] játszik:2 . [SEP],##vel,orgona:2,0,orgona:2,0,-0.86716
-[CLS] Karasszon:3 Dezső:3 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.16323
+[CLS] Karasszon:3 Dezső:3 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.16324
+[CLS] Karasszon:3 Dezső:3 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.70749
+[CLS] Karasszon:3 Dezső:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", , , , ,pr:3 azént:2",orgona:2,0,orgona:2,0,-3.58603
+[CLS] Karasszon:3 Dezső:3 [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-3.71257
 [CLS] Zempléni:4 Tamás [MASK] játszik:2 . [SEP],##ban,kürt:2,0,kürt:2,0,-1.15526
 [CLS] Zempléni:4 Tamás [MASK] játszik:2 . [SEP],##t,kürt:2,0,kürt:2,0,-2.70119
+[CLS] Zempléni:4 Tamás [MASK] [MASK] játszik:2 . [SEP],atszik:2,kürt:2,0,kürt:2,0,-2.83232
+[CLS] Zempléni:4 Tamás [MASK] játszik:2 . [SEP],##on,kürt:2,0,kürt:2,0,-3.08880
+[CLS] Zempléni:4 Tamás [MASK] játszik:2 . [SEP],##sal,kürt:2,0,kürt:2,0,-3.58284
 [CLS] Hora János [MASK] játszik:2 . [SEP],##t,orgona:2,0,orgona:2,0,-1.47114
 [CLS] Hora János [MASK] játszik:2 . [SEP],##nak,orgona:2,0,orgona:2,0,-1.76743
+[CLS] Hora János [MASK] játszik:2 . [SEP],##sal,orgona:2,0,orgona:2,0,-2.35609
+[CLS] Hora János [MASK] játszik:2 . [SEP],##hoz,orgona:2,0,orgona:2,0,-3.04664
+[CLS] Hora János [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-3.46400
 [CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.19816
-[CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##en,énekhang:2,0,énekhang:2,0,-2.02148
+[CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##en,énekhang:2,0,énekhang:2,0,-2.02149
+[CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.91096
+[CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##et,énekhang:2,0,énekhang:2,0,-3.36742
+[CLS] Dargó:2 Gergely:3 [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-3.41087
 [CLS] Babicsek:3 Bernát:2 [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-0.74397
-[CLS] Babicsek:3 Bernát:2 [MASK] játszik:2 . [SEP],##ját,harmonika:2,0,harmonika:2,0,-2.50041
+[CLS] Babicsek:3 Bernát:2 [MASK] játszik:2 . [SEP],##ját,harmonika:2,0,harmonika:2,0,-2.50042
+[CLS] Babicsek:3 Bernát:2 [MASK] [MASK] játszik:2 . [SEP],herceg is,harmonika:2,0,harmonika:2,0,-2.83924
+[CLS] Babicsek:3 Bernát:2 [MASK] [MASK] játszik:2 . [SEP],##i szerepet,harmonika:2,0,harmonika:2,0,-3.27489
+[CLS] Babicsek:3 Bernát:2 [MASK] [MASK] játszik:2 . [SEP],##szját:2,harmonika:2,0,harmonika:2,0,-3.38946
 [CLS] Berecz:2 Mihály [MASK] játszik:2 . [SEP],##t,zongora:2,0,zongora:2,0,-1.40825
 [CLS] Berecz:2 Mihály [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.40964
+[CLS] Berecz:2 Mihály [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.38794
+[CLS] Berecz:2 Mihály [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-3.09084
+[CLS] Berecz:2 Mihály [MASK] [MASK] játszik:2 . [SEP],atszik:2,zongora:2,0,zongora:2,0,-3.65740
 [CLS] Czidra:3 László [MASK] játszik:2 . [SEP],##t,furulya:3,0,furulya:3,0,-0.72786
-[CLS] Czidra:3 László [MASK] [MASK] játszik:2 . [SEP],színészt:2,furulya:3,0,furulya:3,0,-2.17823
+[CLS] Czidra:3 László [MASK] [MASK] játszik:2 . [SEP],színészt:2,furulya:3,0,furulya:3,0,-2.17824
+[CLS] Czidra:3 László [MASK] [MASK] játszik:2 . [SEP],dobtszik:2,furulya:3,0,furulya:3,0,-2.72032
+[CLS] Czidra:3 László [MASK] játszik:2 . [SEP],##hoz,furulya:3,0,furulya:3,0,-3.21055
+[CLS] Czidra:3 László [MASK] [MASK] játszik:2 . [SEP],hangban:2,furulya:3,0,furulya:3,0,-3.40265
 [CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##t,furulya:3,0,furulya:3,0,-1.63217
-[CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##ban,furulya:3,0,furulya:3,0,-1.79846
+[CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##ban,furulya:3,0,furulya:3,0,-1.79847
+[CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##ról,furulya:3,0,furulya:3,0,-2.37282
+[CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##hoz,furulya:3,0,furulya:3,0,-2.83655
+[CLS] Kállay:3 Gábor [MASK] játszik:2 . [SEP],##ra,furulya:3,0,furulya:3,0,-3.07755
 [CLS] ifj:2 . Hara László [MASK] játszik:2 . [SEP],##t,fagott:2,0,fagott:2,0,-1.48953
 [CLS] ifj:2 . Hara László [MASK] játszik:2 . [SEP],is,fagott:2,0,fagott:2,0,-2.38680
-[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.12260
-[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.59579
+[CLS] ifj:2 . Hara László [MASK] játszik:2 . [SEP],##vel,fagott:2,0,fagott:2,0,-2.67203
+[CLS] ifj:2 . Hara László [MASK] játszik:2 . [SEP],##nek,fagott:2,0,fagott:2,0,-3.06587
+[CLS] ifj:2 . Hara László [MASK] játszik:2 . [SEP],##nak,fagott:2,0,fagott:2,0,-3.36185
+[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-1.12261
+[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.59580
+[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.66931
+[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##nak,énekhang:2,0,énekhang:2,0,-3.44126
+[CLS] Deák:2 Mihály [MASK] játszik:2 . [SEP],##hoz,énekhang:2,0,énekhang:2,0,-3.58313
 [CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-1.75551
-[CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.78712
+[CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.78713
+[CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##on,nagybőgő:5,0,nagybőgő:5,0,-3.04546
+[CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##hoz,nagybőgő:5,0,nagybőgő:5,0,-3.57956
+[CLS] Soós:2 Márton:2 [MASK] játszik:2 . [SEP],##et,nagybőgő:5,0,nagybőgő:5,0,-3.61882
 [CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##k,énekhang:2,0,énekhang:2,0,-2.03041
-[CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.59106
+[CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##t,énekhang:2,0,énekhang:2,0,-2.59107
+[CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##l,énekhang:2,0,énekhang:2,0,-3.08351
+[CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-3.40432
+[CLS] Pauk:2 Anna [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-3.45014
 [CLS] Rudas:3 Imre [MASK] játszik:2 . [SEP],##t,fagott:2,0,fagott:2,0,-1.47082
 [CLS] Rudas:3 Imre [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-2.15375
+[CLS] Rudas:3 Imre [MASK] játszik:2 . [SEP],szerepet,fagott:2,0,fagott:2,0,-2.98066
+[CLS] Rudas:3 Imre [MASK] játszik:2 . [SEP],##vel,fagott:2,0,fagott:2,0,-3.04748
+[CLS] Rudas:3 Imre [MASK] játszik:2 . [SEP],##ban,fagott:2,0,fagott:2,0,-3.17759
 [CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##ben,fagott:2,0,fagott:2,0,-1.73341
-[CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##nek,fagott:2,0,fagott:2,0,-1.81445
+[CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##nek,fagott:2,0,fagott:2,0,-1.81446
+[CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##hez,fagott:2,0,fagott:2,0,-2.00193
+[CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##t,fagott:2,0,fagott:2,0,-3.07021
+[CLS] Keszler:3 György [MASK] játszik:2 . [SEP],##től,fagott:2,0,fagott:2,0,-3.12642

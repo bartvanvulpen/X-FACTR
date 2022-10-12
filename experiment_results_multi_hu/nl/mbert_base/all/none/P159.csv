@@ -1,385 +1,961 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Vacansoleil:4 központja:3 [MASK] található . [SEP],is,Eindhoven,0,Eindhoven,0,-0.90346
 [CLS] Vacansoleil:4 központja:3 [MASK] található . [SEP],itt,Eindhoven,0,Eindhoven,0,-2.25590
+[CLS] Vacansoleil:4 központja:3 [MASK] található . [SEP],ott,Eindhoven,0,Eindhoven,0,-3.07460
+[CLS] Vacansoleil:4 központja:3 [MASK] található . [SEP],##ban,Eindhoven,0,Eindhoven,0,-3.14485
+[CLS] Vacansoleil:4 központja:3 [MASK] található . [SEP],közelében,Eindhoven,0,Eindhoven,0,-3.72390
 [CLS] KLM:2 Cityhopper:3 központja:3 [MASK] található . [SEP],is,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-0.77778
 [CLS] KLM:2 Cityhopper:3 központja:3 [MASK] található . [SEP],itt,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-1.39553
+[CLS] KLM:2 Cityhopper:3 központja:3 [MASK] [MASK] található . [SEP],a itt,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-2.80894
+[CLS] KLM:2 Cityhopper:3 központja:3 [MASK] [MASK] található . [SEP],- is,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-3.12572
+[CLS] KLM:2 Cityhopper:3 központja:3 [MASK] [MASK] található . [SEP],városben:2,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-3.50361
 [CLS] COVRA:3 központja:3 [MASK] található . [SEP],itt,Vlissingen:3,0,Vlissingen:3,0,-1.66195
 [CLS] COVRA:3 központja:3 [MASK] található . [SEP],is,Vlissingen:3,0,Vlissingen:3,0,-1.71772
+[CLS] COVRA:3 központja:3 [MASK] található . [SEP],ott,Vlissingen:3,0,Vlissingen:3,0,-2.31808
+[CLS] COVRA:3 központja:3 [MASK] található . [SEP],##ban,Vlissingen:3,0,Vlissingen:3,0,-3.17558
+[CLS] COVRA:3 központja:3 [MASK] található . [SEP],Budapesten,Vlissingen:3,0,Vlissingen:3,0,-3.36700
 [CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],is,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-1.38249
-[CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],itt,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-2.36899
+[CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],itt,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-2.36898
+[CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],közelében,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-2.39075
+[CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],mellett,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-2.85885
+[CLS] Corendon:3 Dutch Airlines központja:3 [MASK] található . [SEP],alatt,Haarlemmermeer:3,0,Haarlemmermeer:3,0,-3.28594
 [CLS] Douwe:2 Egberts:4 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.91231
 [CLS] Douwe:2 Egberts:4 központja:3 [MASK] [MASK] [MASK] található . [SEP],", -ban:2",Amszterdam:3,0,Amszterdam:3,0,-2.74706
+[CLS] Douwe:2 Egberts:4 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.98113
+[CLS] Douwe:2 Egberts:4 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.16191
+[CLS] Douwe:2 Egberts:4 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.19913
 [CLS] J . L . van den Heuvel:2 Orgelbouw:2 központja:3 [MASK] található . [SEP],is,Dordrecht,0,Dordrecht,0,-0.90845
 [CLS] J . L . van den Heuvel:2 Orgelbouw:2 központja:3 [MASK] található . [SEP],itt,Dordrecht,0,Dordrecht,0,-1.33745
+[CLS] J . L . van den Heuvel:2 Orgelbouw:2 központja:3 [MASK] [MASK] található . [SEP],- városban,Dordrecht,0,Dordrecht,0,-2.57997
+[CLS] J . L . van den Heuvel:2 Orgelbouw:2 központja:3 [MASK] [MASK] található . [SEP],a is,Dordrecht,0,Dordrecht,0,-3.15001
+[CLS] J . L . van den Heuvel:2 Orgelbouw:2 központja:3 [MASK] [MASK] található . [SEP],városben:2,Dordrecht,0,Dordrecht,0,-3.59012
 [CLS] Stork:3 B . V . központja:3 [MASK] található . [SEP],is,Naarden:2,0,Naarden:2,0,-1.32451
 [CLS] Stork:3 B . V . központja:3 [MASK] található . [SEP],itt,Naarden:2,0,Naarden:2,0,-2.35332
+[CLS] Stork:3 B . V . központja:3 [MASK] található . [SEP],alatt,Naarden:2,0,Naarden:2,0,-2.40342
+[CLS] Stork:3 B . V . központja:3 [MASK] található . [SEP],##ban,Naarden:2,0,Naarden:2,0,-2.85361
+[CLS] Stork:3 B . V . központja:3 [MASK] található . [SEP],mellett,Naarden:2,0,Naarden:2,0,-2.94397
 [CLS] Eyes + more központja:3 [MASK] található . [SEP],is,Hamburg,0,Hamburg,0,-1.49723
 [CLS] Eyes + more központja:3 [MASK] található . [SEP],itt,Hamburg,0,Hamburg,0,-2.21803
+[CLS] Eyes + more központja:3 [MASK] található . [SEP],nem,Hamburg,0,Hamburg,0,-2.71195
+[CLS] Eyes + more központja:3 [MASK] található . [SEP],##ban,Hamburg,0,Hamburg,0,-3.40235
+[CLS] Eyes + more központja:3 [MASK] található . [SEP],alatt,Hamburg,0,Hamburg,0,-3.55583
 [CLS] Gemalto:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.47247
 [CLS] Gemalto:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.94365
+[CLS] Gemalto:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.27463
+[CLS] Gemalto:3 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-3.44384
+[CLS] Gemalto:3 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.90571
 [CLS] VEON:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.49996
 [CLS] VEON:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-2.04024
+[CLS] VEON:3 központja:3 [MASK] található . [SEP],Budapesten,Amszterdam:3,0,Amszterdam:3,0,-2.74071
+[CLS] VEON:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.00992
+[CLS] VEON:3 központja:3 [MASK] található . [SEP],Magyarországon,Amszterdam:3,0,Amszterdam:3,0,-3.18383
 [CLS] Hitachi:2 Construction Machinery:2 központja:3 [MASK] található . [SEP],is,Oosterhout:3,0,Oosterhout:3,0,-1.04679
 [CLS] Hitachi:2 Construction Machinery:2 központja:3 [MASK] található . [SEP],itt,Oosterhout:3,0,Oosterhout:3,0,-1.98585
+[CLS] Hitachi:2 Construction Machinery:2 központja:3 [MASK] található . [SEP],alatt,Oosterhout:3,0,Oosterhout:3,0,-3.07509
+[CLS] Hitachi:2 Construction Machinery:2 központja:3 [MASK] található . [SEP],ott,Oosterhout:3,0,Oosterhout:3,0,-3.29945
+[CLS] Hitachi:2 Construction Machinery:2 központja:3 [MASK] található . [SEP],városban,Oosterhout:3,0,Oosterhout:3,0,-3.49676
 [CLS] Fair Wear:2 Foundation központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.02445
-[CLS] Fair Wear:2 Foundation központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.71060
-[CLS] Koni:2 B . V . központja:3 [MASK] található . [SEP],is,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-1.04311
+[CLS] Fair Wear:2 Foundation központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.71059
+[CLS] Fair Wear:2 Foundation központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.77968
+[CLS] Fair Wear:2 Foundation központja:3 [MASK] [MASK] található . [SEP],",ában:2",Amszterdam:3,0,Amszterdam:3,0,-3.45631
+[CLS] Fair Wear:2 Foundation központja:3 [MASK] [MASK] található . [SEP],isban:2,Amszterdam:3,0,Amszterdam:3,0,-3.72856
+[CLS] Koni:2 B . V . központja:3 [MASK] található . [SEP],is,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-1.04310
 [CLS] Koni:2 B . V . központja:3 [MASK] található . [SEP],itt,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-2.03795
+[CLS] Koni:2 B . V . központja:3 [MASK] [MASK] található . [SEP],városen:2,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-2.79021
+[CLS] Koni:2 B . V . központja:3 [MASK] [MASK] található . [SEP],Ko ben,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-3.27207
+[CLS] Koni:2 B . V . központja:3 [MASK] [MASK] található . [SEP],Debreceniában:2,Oud - Beijerland:3,0,Oud - Beijerland:3,0,-3.34605
 [CLS] Royal Dutch Mathematical Society központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.58897
-[CLS] Royal Dutch Mathematical Society központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.38013
-[CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],is,Zaandam:3,0,Zaandam:3,0,-1.74001
+[CLS] Royal Dutch Mathematical Society központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.38012
+[CLS] Royal Dutch Mathematical Society központja:3 [MASK] [MASK] található . [SEP],Amsterdamban:2,Amszterdam:3,0,Amszterdam:3,0,-3.11965
+[CLS] Royal Dutch Mathematical Society központja:3 [MASK] [MASK] található . [SEP],városben:2,Amszterdam:3,0,Amszterdam:3,0,-3.34577
+[CLS] Royal Dutch Mathematical Society központja:3 [MASK] [MASK] található . [SEP],-ában:2,Amszterdam:3,0,Amszterdam:3,0,-3.45239
+[CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],is,Zaandam:3,0,Zaandam:3,0,-1.74000
 [CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],itt,Zaandam:3,0,Zaandam:3,0,-1.98777
-[CLS] Audax:3 Groep:2 központja:3 [MASK] található . [SEP],is,Gilze:2,0,Gilze:2,0,-0.61634
+[CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],közelében,Zaandam:3,0,Zaandam:3,0,-2.74065
+[CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],ott,Zaandam:3,0,Zaandam:3,0,-2.79873
+[CLS] Albert Heijn:2 központja:3 [MASK] található . [SEP],alatt,Zaandam:3,0,Zaandam:3,0,-3.00441
+[CLS] Audax:3 Groep:2 központja:3 [MASK] található . [SEP],is,Gilze:2,0,Gilze:2,0,-0.61633
 [CLS] Audax:3 Groep:2 központja:3 [MASK] található . [SEP],itt,Gilze:2,0,Gilze:2,0,-2.15193
+[CLS] Audax:3 Groep:2 központja:3 [MASK] [MASK] található . [SEP],Eindhoven ben,Gilze:2,0,Gilze:2,0,-3.13172
+[CLS] Audax:3 Groep:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],is Haarlemban:2,Gilze:2,0,Gilze:2,0,-3.56731
+[CLS] Audax:3 Groep:2 központja:3 [MASK] [MASK] található . [SEP],Antwerpen is,Gilze:2,0,Gilze:2,0,-3.82426
 [CLS] Radarsoft:3 központja:3 [MASK] található . [SEP],is,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-1.06587
 [CLS] Radarsoft:3 központja:3 [MASK] található . [SEP],itt,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-1.36750
+[CLS] Radarsoft:3 központja:3 [MASK] található . [SEP],ott,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-2.82043
+[CLS] Radarsoft:3 központja:3 [MASK] található . [SEP],##ban,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-3.38549
+[CLS] Radarsoft:3 központja:3 [MASK] [MASK] található . [SEP],ittben:2,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-3.69198
 [CLS] Klene:2 központja:3 [MASK] található . [SEP],is,Hoorn:2 80,0,Hoorn:2 80,0,-1.65842
 [CLS] Klene:2 központja:3 [MASK] található . [SEP],itt,Hoorn:2 80,0,Hoorn:2 80,0,-1.68818
+[CLS] Klene:2 központja:3 [MASK] található . [SEP],ott,Hoorn:2 80,0,Hoorn:2 80,0,-2.63853
+[CLS] Klene:2 központja:3 [MASK] található . [SEP],##ban,Hoorn:2 80,0,Hoorn:2 80,0,-3.39798
+[CLS] Klene:2 központja:3 [MASK] található . [SEP],##ben,Hoorn:2 80,0,Hoorn:2 80,0,-3.45464
 [CLS] Mammoet:4 központja:3 [MASK] található . [SEP],is,Schiedam:3,0,Schiedam:3,0,-1.53391
 [CLS] Mammoet:4 központja:3 [MASK] található . [SEP],itt,Schiedam:3,0,Schiedam:3,0,-1.94391
-[CLS] Strukton:3 központja:3 [MASK] található . [SEP],itt,Utrecht,0,Utrecht,0,-1.40727
+[CLS] Mammoet:4 központja:3 [MASK] található . [SEP],alatt,Schiedam:3,0,Schiedam:3,0,-2.78195
+[CLS] Mammoet:4 központja:3 [MASK] található . [SEP],közelében,Schiedam:3,0,Schiedam:3,0,-2.93999
+[CLS] Mammoet:4 központja:3 [MASK] található . [SEP],ott,Schiedam:3,0,Schiedam:3,0,-3.03560
+[CLS] Strukton:3 központja:3 [MASK] található . [SEP],itt,Utrecht,0,Utrecht,0,-1.40726
 [CLS] Strukton:3 központja:3 [MASK] található . [SEP],ott,Utrecht,0,Utrecht,0,-2.14309
+[CLS] Strukton:3 központja:3 [MASK] található . [SEP],is,Utrecht,0,Utrecht,0,-2.23105
+[CLS] Strukton:3 központja:3 [MASK] [MASK] található . [SEP],",ában:2",Utrecht,0,Utrecht,0,-3.68367
+[CLS] Strukton:3 központja:3 [MASK] [MASK] található . [SEP],Debrecenben:2,Utrecht,0,Utrecht,0,-3.70181
 [CLS] J . B . Wolters:3 Publishing központja:3 [MASK] található . [SEP],is,Groningen,0,Groningen,0,-0.74014
 [CLS] J . B . Wolters:3 Publishing központja:3 [MASK] található . [SEP],itt,Groningen,0,Groningen,0,-2.26184
+[CLS] J . B . Wolters:3 Publishing központja:3 [MASK] [MASK] található . [SEP],isában:2,Groningen,0,Groningen,0,-3.04975
+[CLS] J . B . Wolters:3 Publishing központja:3 [MASK] [MASK] található . [SEP],Londonban:2,Groningen,0,Groningen,0,-3.26329
+[CLS] J . B . Wolters:3 Publishing központja:3 [MASK] [MASK] található . [SEP],ittben:2,Groningen,0,Groningen,0,-3.28784
 [CLS] Sikkens:3 központja:3 [MASK] található . [SEP],itt,Sassenheim:3,0,Sassenheim:3,0,-1.25252
 [CLS] Sikkens:3 központja:3 [MASK] található . [SEP],is,Sassenheim:3,0,Sassenheim:3,0,-2.01898
-[CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] található . [SEP],is,Arnhem,0,Arnhem,0,-0.44643
+[CLS] Sikkens:3 központja:3 [MASK] található . [SEP],ott,Sassenheim:3,0,Sassenheim:3,0,-2.49040
+[CLS] Sikkens:3 központja:3 [MASK] található . [SEP],közelében,Sassenheim:3,0,Sassenheim:3,0,-3.22781
+[CLS] Sikkens:3 központja:3 [MASK] található . [SEP],nem,Sassenheim:3,0,Sassenheim:3,0,-3.37493
+[CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] található . [SEP],is,Arnhem,0,Arnhem,0,-0.44642
 [CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] [MASK] található . [SEP],Haarlemban:2,Arnhem,0,Arnhem,0,-2.76266
-[CLS] Exor:2 központja:3 [MASK] található . [SEP],itt,Torino,0,Torino,0,-1.82558
+[CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] [MASK] található . [SEP],isben:2,Arnhem,0,Arnhem,0,-3.01930
+[CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] [MASK] található . [SEP],- városban,Arnhem,0,Arnhem,0,-3.13964
+[CLS] Algemene:3 Kunstzijde:2 Unie központja:3 [MASK] [MASK] található . [SEP],városában:2,Arnhem,0,Arnhem,0,-3.42493
+[CLS] Exor:2 központja:3 [MASK] található . [SEP],itt,Torino,0,Torino,0,-1.82557
 [CLS] Exor:2 központja:3 [MASK] található . [SEP],ott,Torino,0,Torino,0,-2.28468
+[CLS] Exor:2 központja:3 [MASK] található . [SEP],##ban,Torino,0,Torino,0,-2.35154
+[CLS] Exor:2 központja:3 [MASK] található . [SEP],is,Torino,0,Torino,0,-2.37222
+[CLS] Exor:2 központja:3 [MASK] található . [SEP],alatt,Torino,0,Torino,0,-2.79995
 [CLS] Eneco:2 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-2.05679
-[CLS] Eneco:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-2.07600
+[CLS] Eneco:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-2.07599
+[CLS] Eneco:2 központja:3 [MASK] található . [SEP],##ban,Rotterdam,0,Rotterdam,0,-2.58481
+[CLS] Eneco:2 központja:3 [MASK] található . [SEP],alatt,Rotterdam,0,Rotterdam,0,-2.83666
+[CLS] Eneco:2 központja:3 [MASK] található . [SEP],városban,Rotterdam,0,Rotterdam,0,-3.35654
 [CLS] uShip:3 központja:3 [MASK] található . [SEP],is,Austin,0,Austin,0,-1.26224
 [CLS] uShip:3 központja:3 [MASK] található . [SEP],itt,Austin,0,Austin,0,-1.78959
-[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.79196
-[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] [MASK] található . [SEP],isen:2,Amszterdam:3,0,Amszterdam:3,0,-2.45283
+[CLS] uShip:3 központja:3 [MASK] található . [SEP],ott,Austin,0,Austin,0,-2.90169
+[CLS] uShip:3 központja:3 [MASK] [MASK] található . [SEP],is ben,Austin,0,Austin,0,-3.62584
+[CLS] uShip:3 központja:3 [MASK] [MASK] található . [SEP],-ában:2,Austin,0,Austin,0,-3.68954
+[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.79195
+[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] [MASK] található . [SEP],isen:2,Amszterdam:3,0,Amszterdam:3,0,-2.45282
+[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.67549
+[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.07671
+[CLS] NRC:2 Handelsblad:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.64853
 [CLS] Wagenborg:2 központja:3 [MASK] található . [SEP],is,Delfzijl:4,0,Delfzijl:4,0,-1.81330
 [CLS] Wagenborg:2 központja:3 [MASK] található . [SEP],itt,Delfzijl:4,0,Delfzijl:4,0,-1.94771
+[CLS] Wagenborg:2 központja:3 [MASK] található . [SEP],közelében,Delfzijl:4,0,Delfzijl:4,0,-2.55505
+[CLS] Wagenborg:2 központja:3 [MASK] található . [SEP],ott,Delfzijl:4,0,Delfzijl:4,0,-2.72687
+[CLS] Wagenborg:2 központja:3 [MASK] található . [SEP],alatt,Delfzijl:4,0,Delfzijl:4,0,-3.32938
 [CLS] NLR:2 Air Transport Safety Institute központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.66633
 [CLS] NLR:2 Air Transport Safety Institute központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.76794
-[CLS] De Volksbank:3 központja:3 [MASK] található . [SEP],is,Croeselaan:4 1,0,Croeselaan:4 1,0,-0.93836
+[CLS] NLR:2 Air Transport Safety Institute központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.56427
+[CLS] NLR:2 Air Transport Safety Institute központja:3 [MASK] [MASK] található . [SEP],város itt,Amszterdam:3,0,Amszterdam:3,0,-3.36246
+[CLS] NLR:2 Air Transport Safety Institute központja:3 [MASK] [MASK] található . [SEP],azában:2,Amszterdam:3,0,Amszterdam:3,0,-3.54535
+[CLS] De Volksbank:3 központja:3 [MASK] található . [SEP],is,Croeselaan:4 1,0,Croeselaan:4 1,0,-0.93835
 [CLS] De Volksbank:3 központja:3 [MASK] található . [SEP],itt,Croeselaan:4 1,0,Croeselaan:4 1,0,-1.90347
-[CLS] Zilveren:2 Kruis:2 központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.74179
+[CLS] De Volksbank:3 központja:3 [MASK] található . [SEP],ott,Croeselaan:4 1,0,Croeselaan:4 1,0,-2.29283
+[CLS] De Volksbank:3 központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],. az az az az az az .en:2,Croeselaan:4 1,0,Croeselaan:4 1,0,-3.70279
+[CLS] De Volksbank:3 központja:3 [MASK] található . [SEP],van,Croeselaan:4 1,0,Croeselaan:4 1,0,-3.85239
+[CLS] Zilveren:2 Kruis:2 központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.74178
 [CLS] Zilveren:2 Kruis:2 központja:3 [MASK] [MASK] található . [SEP],Haarlem városban,Leiden,0,Leiden,0,-2.38760
+[CLS] Zilveren:2 Kruis:2 központja:3 [MASK] található . [SEP],ott,Leiden,0,Leiden,0,-2.92730
+[CLS] Zilveren:2 Kruis:2 központja:3 [MASK] található . [SEP],nem,Leiden,0,Leiden,0,-3.57232
+[CLS] Zilveren:2 Kruis:2 központja:3 [MASK] [MASK] található . [SEP],aben:2,Leiden,0,Leiden,0,-3.62923
 [CLS] Airbus Defence and Space Netherlands központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.76694
 [CLS] Airbus Defence and Space Netherlands központja:3 [MASK] [MASK] található . [SEP],Holland ben,Leiden,0,Leiden,0,-2.61657
-[CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.13939
+[CLS] Airbus Defence and Space Netherlands központja:3 [MASK] [MASK] található . [SEP],Belgiumában:2,Leiden,0,Leiden,0,-3.00481
+[CLS] Airbus Defence and Space Netherlands központja:3 [MASK] [MASK] található . [SEP],-iában:2,Leiden,0,Leiden,0,-3.22770
+[CLS] Airbus Defence and Space Netherlands központja:3 [MASK] [MASK] található . [SEP],Rotterdam városban,Leiden,0,Leiden,0,-3.30215
+[CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.13938
 [CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.65763
-[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-0.73655
-[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-1.72055
+[CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.24570
+[CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.39775
+[CLS] Just Eat Takeaway:2 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.47927
+[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-0.73654
+[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-1.72054
+[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] [MASK] található . [SEP],aben:2,Enschede:3,0,Enschede:3,0,-3.03832
+[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] található . [SEP],nem,Enschede:3,0,Enschede:3,0,-3.41222
+[CLS] Vredestein:3 Banden:2 B . V . központja:3 [MASK] [MASK] található . [SEP],az itt,Enschede:3,0,Enschede:3,0,-3.58669
 [CLS] Mokum:2 Records központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.20966
 [CLS] Mokum:2 Records központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.45015
+[CLS] Mokum:2 Records központja:3 [MASK] található . [SEP],Németországban,Amszterdam:3,0,Amszterdam:3,0,-2.88522
+[CLS] Mokum:2 Records központja:3 [MASK] található . [SEP],Magyarországon,Amszterdam:3,0,Amszterdam:3,0,-3.26227
+[CLS] Mokum:2 Records központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.54483
 [CLS] HES:2 International B . V . központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.67050
 [CLS] HES:2 International B . V . központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.97141
+[CLS] HES:2 International B . V . központja:3 [MASK] [MASK] található . [SEP],aában:2,Rotterdam,0,Rotterdam,0,-3.22886
+[CLS] HES:2 International B . V . központja:3 [MASK] [MASK] található . [SEP],város ben,Rotterdam,0,Rotterdam,0,-3.30730
+[CLS] HES:2 International B . V . központja:3 [MASK] [MASK] található . [SEP],itt is,Rotterdam,0,Rotterdam,0,-3.43105
 [CLS] ID & T központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.22874
-[CLS] ID & T központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.44931
+[CLS] ID & T központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.44930
+[CLS] ID & T központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.10100
+[CLS] ID & T központja:3 [MASK] [MASK] található . [SEP],-ban:2,Amszterdam:3,0,Amszterdam:3,0,-3.46588
+[CLS] ID & T központja:3 [MASK] [MASK] található . [SEP],Bostonben:2,Amszterdam:3,0,Amszterdam:3,0,-3.67510
 [CLS] Packard Bell központja:3 [MASK] [MASK] található . [SEP],város városban,Wijchen:3,0,Wijchen:3,0,-1.51043
-[CLS] Packard Bell központja:3 [MASK] található . [SEP],is,Wijchen:3,0,Wijchen:3,0,-1.66385
+[CLS] Packard Bell központja:3 [MASK] található . [SEP],is,Wijchen:3,0,Wijchen:3,0,-1.66384
+[CLS] Packard Bell központja:3 [MASK] található . [SEP],városban,Wijchen:3,0,Wijchen:3,0,-2.24435
+[CLS] Packard Bell központja:3 [MASK] található . [SEP],ott,Wijchen:3,0,Wijchen:3,0,-2.85076
+[CLS] Packard Bell központja:3 [MASK] található . [SEP],mellett,Wijchen:3,0,Wijchen:3,0,-3.55315
 [CLS] Brouwerij:3 De Molen:2 központja:3 [MASK] található . [SEP],is,Bodegraven:3,0,Bodegraven:3,0,-1.10370
 [CLS] Brouwerij:3 De Molen:2 központja:3 [MASK] található . [SEP],itt,Bodegraven:3,0,Bodegraven:3,0,-2.42465
+[CLS] Brouwerij:3 De Molen:2 központja:3 [MASK] található . [SEP],##ban,Bodegraven:3,0,Bodegraven:3,0,-2.82989
+[CLS] Brouwerij:3 De Molen:2 központja:3 [MASK] található . [SEP],mellett,Bodegraven:3,0,Bodegraven:3,0,-3.15554
+[CLS] Brouwerij:3 De Molen:2 központja:3 [MASK] található . [SEP],ott,Bodegraven:3,0,Bodegraven:3,0,-3.20826
 [CLS] Bank Mendes Gans:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.89468
 [CLS] Bank Mendes Gans:2 központja:3 [MASK] található . [SEP],mellett,Amszterdam:3,0,Amszterdam:3,0,-2.04885
-[CLS] Van Bommel:2 shoes:2 központja:3 [MASK] található . [SEP],is,Oisterwijk:3,0,Oisterwijk:3,0,-0.74814
+[CLS] Bank Mendes Gans:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.76261
+[CLS] Bank Mendes Gans:2 központja:3 [MASK] található . [SEP],területén,Amszterdam:3,0,Amszterdam:3,0,-2.82374
+[CLS] Bank Mendes Gans:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.99679
+[CLS] Van Bommel:2 shoes:2 központja:3 [MASK] található . [SEP],is,Oisterwijk:3,0,Oisterwijk:3,0,-0.74813
 [CLS] Van Bommel:2 shoes:2 központja:3 [MASK] található . [SEP],itt,Oisterwijk:3,0,Oisterwijk:3,0,-1.17678
+[CLS] Van Bommel:2 shoes:2 központja:3 [MASK] található . [SEP],ott,Oisterwijk:3,0,Oisterwijk:3,0,-2.75240
+[CLS] Van Bommel:2 shoes:2 központja:3 [MASK] [MASK] található . [SEP],aában:2,Oisterwijk:3,0,Oisterwijk:3,0,-3.23067
+[CLS] Van Bommel:2 shoes:2 központja:3 [MASK] [MASK] található . [SEP],Haarlemben:2,Oisterwijk:3,0,Oisterwijk:3,0,-3.61131
 [CLS] Vitens:2 központja:3 [MASK] található . [SEP],itt,Zwolle,0,Zwolle,0,-0.86709
 [CLS] Vitens:2 központja:3 [MASK] található . [SEP],ott,Zwolle,0,Zwolle,0,-2.18158
+[CLS] Vitens:2 központja:3 [MASK] található . [SEP],is,Zwolle,0,Zwolle,0,-2.81831
+[CLS] Vitens:2 központja:3 [MASK] található . [SEP],nem,Zwolle,0,Zwolle,0,-3.30035
+[CLS] Vitens:2 központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"azt:2 ,tében:3",Zwolle,0,Zwolle,0,-3.90254
 [CLS] PPF:2 Group központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.24621
 [CLS] PPF:2 Group központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.09346
+[CLS] PPF:2 Group központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.12207
+[CLS] PPF:2 Group központja:3 [MASK] található . [SEP],sem,Amszterdam:3,0,Amszterdam:3,0,-3.69963
+[CLS] PPF:2 Group központja:3 [MASK] található . [SEP],",",Amszterdam:3,0,Amszterdam:3,0,-3.85002
 [CLS] NXP:3 Semiconductors:4 központja:3 [MASK] található . [SEP],is,Eindhoven,0,Eindhoven,0,-1.06973
 [CLS] NXP:3 Semiconductors:4 központja:3 [MASK] található . [SEP],itt,Eindhoven,0,Eindhoven,0,-1.81536
+[CLS] NXP:3 Semiconductors:4 központja:3 [MASK] található . [SEP],mellett,Eindhoven,0,Eindhoven,0,-3.07286
+[CLS] NXP:3 Semiconductors:4 központja:3 [MASK] található . [SEP],##ban,Eindhoven,0,Eindhoven,0,-3.43238
+[CLS] NXP:3 Semiconductors:4 központja:3 [MASK] található . [SEP],közelében,Eindhoven,0,Eindhoven,0,-3.58178
 [CLS] Nederlandsche:2 Dok en Scheepsbouw:4 Maatschappij:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.37099
 [CLS] Nederlandsche:2 Dok en Scheepsbouw:4 Maatschappij:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.37314
+[CLS] Nederlandsche:2 Dok en Scheepsbouw:4 Maatschappij:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.58340
+[CLS] Nederlandsche:2 Dok en Scheepsbouw:4 Maatschappij:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.60655
+[CLS] Nederlandsche:2 Dok en Scheepsbouw:4 Maatschappij:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-3.15597
 [CLS] The Moscow Times központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.76439
 [CLS] The Moscow Times központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.39016
-[CLS] Nedap:2 központja:3 [MASK] található . [SEP],is,Groenlo:3,0,Groenlo:3,0,-1.76322
+[CLS] The Moscow Times központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.58248
+[CLS] The Moscow Times központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.97167
+[CLS] The Moscow Times központja:3 [MASK] található . [SEP],##kban,Amszterdam:3,0,Amszterdam:3,0,-2.99365
+[CLS] Nedap:2 központja:3 [MASK] található . [SEP],is,Groenlo:3,0,Groenlo:3,0,-1.76321
 [CLS] Nedap:2 központja:3 [MASK] található . [SEP],itt,Groenlo:3,0,Groenlo:3,0,-2.42111
-[CLS] Getronics:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.26296
+[CLS] Nedap:2 központja:3 [MASK] található . [SEP],alatt,Groenlo:3,0,Groenlo:3,0,-2.78086
+[CLS] Nedap:2 központja:3 [MASK] található . [SEP],nem,Groenlo:3,0,Groenlo:3,0,-2.79213
+[CLS] Nedap:2 központja:3 [MASK] található . [SEP],közelében,Groenlo:3,0,Groenlo:3,0,-2.98210
+[CLS] Getronics:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.26295
 [CLS] Getronics:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.62458
+[CLS] Getronics:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.98635
+[CLS] Getronics:3 központja:3 [MASK] [MASK] található . [SEP],Magyarországonában:2,Amszterdam:3,0,Amszterdam:3,0,-3.33492
+[CLS] Getronics:3 központja:3 [MASK] [MASK] található . [SEP],Budapestben:2,Amszterdam:3,0,Amszterdam:3,0,-3.44452
 [CLS] TopNotch:4 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.50123
 [CLS] TopNotch:4 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.57779
+[CLS] TopNotch:4 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.81552
+[CLS] TopNotch:4 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.39498
+[CLS] TopNotch:4 központja:3 [MASK] [MASK] található . [SEP],",ban:2",Amszterdam:3,0,Amszterdam:3,0,-3.63263
 [CLS] Auping:2 központja:3 [MASK] található . [SEP],is,Deventer:2,0,Deventer:2,0,-1.50999
 [CLS] Auping:2 központja:3 [MASK] található . [SEP],itt,Deventer:2,0,Deventer:2,0,-1.62345
+[CLS] Auping:2 központja:3 [MASK] található . [SEP],ott,Deventer:2,0,Deventer:2,0,-3.19075
+[CLS] Auping:2 központja:3 [MASK] található . [SEP],Budapesten,Deventer:2,0,Deventer:2,0,-3.54974
+[CLS] Auping:2 központja:3 [MASK] [MASK] található . [SEP],Hongkongban:2,Deventer:2,0,Deventer:2,0,-3.83552
 [CLS] Kristalunie:3 Maastricht központja:3 [MASK] [MASK] található . [SEP],Maastricht Maastricht,Maastricht,0,Maastricht,0,-0.41007
 [CLS] Kristalunie:3 Maastricht központja:3 [MASK] található . [SEP],területén,Maastricht,0,Maastricht,0,-1.65292
+[CLS] Kristalunie:3 Maastricht központja:3 [MASK] található . [SEP],##ban,Maastricht,0,Maastricht,0,-2.27337
+[CLS] Kristalunie:3 Maastricht központja:3 [MASK] található . [SEP],is,Maastricht,0,Maastricht,0,-2.45361
+[CLS] Kristalunie:3 Maastricht központja:3 [MASK] található . [SEP],mellett,Maastricht,0,Maastricht,0,-2.90543
 [CLS] Nederlandse Aardolie:3 Maatschappij:2 központja:3 [MASK] található . [SEP],is,Assen:2,0,Assen:2,0,-1.00338
 [CLS] Nederlandse Aardolie:3 Maatschappij:2 központja:3 [MASK] található . [SEP],itt,Assen:2,0,Assen:2,0,-2.20879
+[CLS] Nederlandse Aardolie:3 Maatschappij:2 központja:3 [MASK] található . [SEP],alatt,Assen:2,0,Assen:2,0,-2.92844
+[CLS] Nederlandse Aardolie:3 Maatschappij:2 központja:3 [MASK] található . [SEP],ott,Assen:2,0,Assen:2,0,-3.09096
+[CLS] Nederlandse Aardolie:3 Maatschappij:2 központja:3 [MASK] található . [SEP],##ban,Assen:2,0,Assen:2,0,-3.20589
 [CLS] The Enschedé:3 Font Foundry:2 központja:3 [MASK] található . [SEP],is,Hurwenen:4,0,Hurwenen:4,0,-0.98449
 [CLS] The Enschedé:3 Font Foundry:2 központja:3 [MASK] található . [SEP],itt,Hurwenen:4,0,Hurwenen:4,0,-1.30657
+[CLS] The Enschedé:3 Font Foundry:2 központja:3 [MASK] [MASK] található . [SEP],a itt,Hurwenen:4,0,Hurwenen:4,0,-2.69412
+[CLS] The Enschedé:3 Font Foundry:2 központja:3 [MASK] [MASK] található . [SEP],isában:2,Hurwenen:4,0,Hurwenen:4,0,-3.18253
+[CLS] The Enschedé:3 Font Foundry:2 központja:3 [MASK] [MASK] található . [SEP],azben:2,Hurwenen:4,0,Hurwenen:4,0,-3.47552
 [CLS] Dura:2 Vermeer:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.81604
 [CLS] Dura:2 Vermeer:2 központja:3 [MASK] található . [SEP],közelében,Rotterdam,0,Rotterdam,0,-2.08346
+[CLS] Dura:2 Vermeer:2 központja:3 [MASK] található . [SEP],mellett,Rotterdam,0,Rotterdam,0,-2.42010
+[CLS] Dura:2 Vermeer:2 központja:3 [MASK] található . [SEP],##ban,Rotterdam,0,Rotterdam,0,-2.68663
+[CLS] Dura:2 Vermeer:2 központja:3 [MASK] található . [SEP],alatt,Rotterdam,0,Rotterdam,0,-2.73869
 [CLS] GasTerra:3 központja:3 [MASK] található . [SEP],is,Groningen,0,Groningen,0,-1.59484
 [CLS] GasTerra:3 központja:3 [MASK] található . [SEP],itt,Groningen,0,Groningen,0,-2.41334
+[CLS] GasTerra:3 központja:3 [MASK] található . [SEP],ott,Groningen,0,Groningen,0,-3.16765
+[CLS] GasTerra:3 központja:3 [MASK] található . [SEP],##ban,Groningen,0,Groningen,0,-3.19551
+[CLS] GasTerra:3 központja:3 [MASK] található . [SEP],közelében,Groningen,0,Groningen,0,-3.35246
 [CLS] Hotel Des Indes:2 központja:3 [MASK] található . [SEP],is,The Hague,0,The Hague,0,-1.00862
 [CLS] Hotel Des Indes:2 központja:3 [MASK] található . [SEP],itt,The Hague,0,The Hague,0,-2.21044
+[CLS] Hotel Des Indes:2 központja:3 [MASK] található . [SEP],##ban,The Hague,0,The Hague,0,-2.33407
+[CLS] Hotel Des Indes:2 központja:3 [MASK] található . [SEP],ott,The Hague,0,The Hague,0,-2.47693
+[CLS] Hotel Des Indes:2 központja:3 [MASK] [MASK] található . [SEP],",ben:2",The Hague,0,The Hague,0,-3.61289
 [CLS] Droog:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.34288
 [CLS] Droog:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.83252
-[CLS] KEMA:3 központja:3 [MASK] található . [SEP],is,Arnhem,0,Arnhem,0,-1.42499
-[CLS] KEMA:3 központja:3 [MASK] található . [SEP],itt,Arnhem,0,Arnhem,0,-1.48491
+[CLS] Droog:2 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-2.97053
+[CLS] Droog:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.09712
+[CLS] Droog:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-3.45112
+[CLS] KEMA:3 központja:3 [MASK] található . [SEP],is,Arnhem,0,Arnhem,0,-1.42498
+[CLS] KEMA:3 központja:3 [MASK] található . [SEP],itt,Arnhem,0,Arnhem,0,-1.48490
+[CLS] KEMA:3 központja:3 [MASK] található . [SEP],ott,Arnhem,0,Arnhem,0,-2.99950
+[CLS] KEMA:3 központja:3 [MASK] található . [SEP],Budapesten,Arnhem,0,Arnhem,0,-3.10772
+[CLS] KEMA:3 központja:3 [MASK] [MASK] található . [SEP],város ben,Arnhem,0,Arnhem,0,-3.39365
 [CLS] Covens:2 & Mortier:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.21818
 [CLS] Covens:2 & Mortier:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.42481
+[CLS] Covens:2 & Mortier:2 központja:3 [MASK] [MASK] található . [SEP],a városban,Amszterdam:3,0,Amszterdam:3,0,-2.84339
+[CLS] Covens:2 & Mortier:2 központja:3 [MASK] [MASK] található . [SEP],ittban:2,Amszterdam:3,0,Amszterdam:3,0,-3.36159
+[CLS] Covens:2 & Mortier:2 központja:3 [MASK] [MASK] található . [SEP],az ben,Amszterdam:3,0,Amszterdam:3,0,-3.69407
 [CLS] Friesch:2 Dagblad:2 központja:3 [MASK] található . [SEP],is,Leeuwarden:3,0,Leeuwarden:3,0,-0.94774
 [CLS] Friesch:2 Dagblad:2 központja:3 [MASK] található . [SEP],ott,Leeuwarden:3,0,Leeuwarden:3,0,-1.99460
+[CLS] Friesch:2 Dagblad:2 központja:3 [MASK] található . [SEP],itt,Leeuwarden:3,0,Leeuwarden:3,0,-2.26493
+[CLS] Friesch:2 Dagblad:2 központja:3 [MASK] [MASK] található . [SEP],isben:2,Leeuwarden:3,0,Leeuwarden:3,0,-3.34016
+[CLS] Friesch:2 Dagblad:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],isözpontében:3,Leeuwarden:3,0,Leeuwarden:3,0,-3.79320
 [CLS] TP Vision központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.68045
 [CLS] TP Vision központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.64484
+[CLS] TP Vision központja:3 [MASK] [MASK] található . [SEP],2013ában:2,Amszterdam:3,0,Amszterdam:3,0,-3.25048
+[CLS] TP Vision központja:3 [MASK] [MASK] található . [SEP],az ben,Amszterdam:3,0,Amszterdam:3,0,-3.50067
+[CLS] TP Vision központja:3 [MASK] [MASK] található . [SEP],2011ben:2,Amszterdam:3,0,Amszterdam:3,0,-3.61872
 [CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],itt,Bunnik:3,0,Bunnik:3,0,-1.25086
-[CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],is,Bunnik:3,0,Bunnik:3,0,-1.44212
+[CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],is,Bunnik:3,0,Bunnik:3,0,-1.44211
+[CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],mellett,Bunnik:3,0,Bunnik:3,0,-3.30086
+[CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],alatt,Bunnik:3,0,Bunnik:3,0,-3.31689
+[CLS] Royal BAM:2 Group központja:3 [MASK] található . [SEP],ott,Bunnik:3,0,Bunnik:3,0,-3.51707
 [CLS] Ligue des Bibliothèques:2 Européennes:3 de Recherche központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-0.53681
 [CLS] Ligue des Bibliothèques:2 Européennes:3 de Recherche központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", a a aözpontban:3",Hága:2,0,Hága:2,0,-2.91675
-[CLS] SBM:2 Offshore:3 központja:3 [MASK] található . [SEP],is,Schiedam:3,0,Schiedam:3,0,-0.85770
+[CLS] Ligue des Bibliothèques:2 Européennes:3 de Recherche központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-3.08627
+[CLS] Ligue des Bibliothèques:2 Européennes:3 de Recherche központja:3 [MASK] [MASK] található . [SEP],Parisban:2,Hága:2,0,Hága:2,0,-3.53311
+[CLS] Ligue des Bibliothèques:2 Européennes:3 de Recherche központja:3 [MASK] [MASK] található . [SEP],aiában:2,Hága:2,0,Hága:2,0,-3.57835
+[CLS] SBM:2 Offshore:3 központja:3 [MASK] található . [SEP],is,Schiedam:3,0,Schiedam:3,0,-0.85769
 [CLS] SBM:2 Offshore:3 központja:3 [MASK] található . [SEP],itt,Schiedam:3,0,Schiedam:3,0,-1.56409
+[CLS] SBM:2 Offshore:3 központja:3 [MASK] található . [SEP],ott,Schiedam:3,0,Schiedam:3,0,-3.29182
+[CLS] SBM:2 Offshore:3 központja:3 [MASK] [MASK] található . [SEP],ittben:2,Schiedam:3,0,Schiedam:3,0,-3.55825
+[CLS] SBM:2 Offshore:3 központja:3 [MASK] [MASK] található . [SEP],az településen,Schiedam:3,0,Schiedam:3,0,-3.63388
 [CLS] Damen Schelde:3 Naval Shipbuilding:2 központja:3 [MASK] található . [SEP],itt,Vlissingen:3,0,Vlissingen:3,0,-1.19618
 [CLS] Damen Schelde:3 Naval Shipbuilding:2 központja:3 [MASK] található . [SEP],is,Vlissingen:3,0,Vlissingen:3,0,-1.46808
+[CLS] Damen Schelde:3 Naval Shipbuilding:2 központja:3 [MASK] [MASK] található . [SEP],a itt,Vlissingen:3,0,Vlissingen:3,0,-2.77581
+[CLS] Damen Schelde:3 Naval Shipbuilding:2 központja:3 [MASK] található . [SEP],ott,Vlissingen:3,0,Vlissingen:3,0,-3.42047
+[CLS] Damen Schelde:3 Naval Shipbuilding:2 központja:3 [MASK] található . [SEP],alatt,Vlissingen:3,0,Vlissingen:3,0,-3.66249
 [CLS] Fugro:2 központja:3 [MASK] található . [SEP],itt,Leidschendam:4 - Voorburg:2,0,Leidschendam:4 - Voorburg:2,0,-1.54179
 [CLS] Fugro:2 központja:3 [MASK] található . [SEP],is,Leidschendam:4 - Voorburg:2,0,Leidschendam:4 - Voorburg:2,0,-2.09044
+[CLS] Fugro:2 központja:3 [MASK] található . [SEP],ott,Leidschendam:4 - Voorburg:2,0,Leidschendam:4 - Voorburg:2,0,-2.23350
+[CLS] Fugro:2 központja:3 [MASK] található . [SEP],közelében,Leidschendam:4 - Voorburg:2,0,Leidschendam:4 - Voorburg:2,0,-3.39548
+[CLS] Fugro:2 központja:3 [MASK] található . [SEP],városban,Leidschendam:4 - Voorburg:2,0,Leidschendam:4 - Voorburg:2,0,-3.52003
 [CLS] Leidsch:3 Dagblad:2 központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.84012
 [CLS] Leidsch:3 Dagblad:2 központja:3 [MASK] [MASK] található . [SEP],Berlinen:2,Leiden,0,Leiden,0,-2.34172
+[CLS] Leidsch:3 Dagblad:2 központja:3 [MASK] található . [SEP],itt,Leiden,0,Leiden,0,-2.48019
+[CLS] Leidsch:3 Dagblad:2 központja:3 [MASK] található . [SEP],##ban,Leiden,0,Leiden,0,-3.09704
+[CLS] Leidsch:3 Dagblad:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],is Berlinében:2,Leiden,0,Leiden,0,-3.73981
 [CLS] Smit:2 International központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.80579
 [CLS] Smit:2 International központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-2.29154
-[CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.44777
+[CLS] Smit:2 International központja:3 [MASK] [MASK] található . [SEP],isban:2,Rotterdam,0,Rotterdam,0,-3.27372
+[CLS] Smit:2 International központja:3 [MASK] [MASK] található . [SEP],azben:2,Rotterdam,0,Rotterdam,0,-3.45909
+[CLS] Smit:2 International központja:3 [MASK] [MASK] található . [SEP],Londonában:2,Rotterdam,0,Rotterdam,0,-3.54664
+[CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.44776
 [CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.04222
+[CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.30954
+[CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.04446
+[CLS] Meulenhoff:3 központja:3 [MASK] található . [SEP],Németországban,Amszterdam:3,0,Amszterdam:3,0,-3.59136
 [CLS] CheapTickets:5 központja:3 [MASK] található . [SEP],itt,Oosterhout:3,0,Oosterhout:3,0,-1.45213
 [CLS] CheapTickets:5 központja:3 [MASK] található . [SEP],is,Oosterhout:3,0,Oosterhout:3,0,-1.77583
+[CLS] CheapTickets:5 központja:3 [MASK] található . [SEP],ott,Oosterhout:3,0,Oosterhout:3,0,-2.57625
+[CLS] CheapTickets:5 központja:3 [MASK] [MASK] található . [SEP],Londonban:2,Oosterhout:3,0,Oosterhout:3,0,-3.31783
+[CLS] CheapTickets:5 központja:3 [MASK] [MASK] található . [SEP],azben:2,Oosterhout:3,0,Oosterhout:3,0,-3.58244
 [CLS] DeKuyper:4 központja:3 [MASK] található . [SEP],is,Schiedam:3,0,Schiedam:3,0,-1.36352
 [CLS] DeKuyper:4 központja:3 [MASK] található . [SEP],itt,Schiedam:3,0,Schiedam:3,0,-1.43925
+[CLS] DeKuyper:4 központja:3 [MASK] található . [SEP],ott,Schiedam:3,0,Schiedam:3,0,-2.77547
+[CLS] DeKuyper:4 központja:3 [MASK] található . [SEP],nem,Schiedam:3,0,Schiedam:3,0,-3.59825
+[CLS] DeKuyper:4 központja:3 [MASK] található . [SEP],közelében,Schiedam:3,0,Schiedam:3,0,-3.78978
 [CLS] De Nederlandsche:2 Bank központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.36196
 [CLS] De Nederlandsche:2 Bank központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.81720
+[CLS] De Nederlandsche:2 Bank központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.52914
+[CLS] De Nederlandsche:2 Bank központja:3 [MASK] [MASK] [MASK] található . [SEP],Amsterdam bank ben,Amszterdam:3,0,Amszterdam:3,0,-3.12296
+[CLS] De Nederlandsche:2 Bank központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.37329
 [CLS] Eurailscout:4 központja:3 [MASK] található . [SEP],is,Berlin,0,Berlin,0,-1.58087
 [CLS] Eurailscout:4 központja:3 [MASK] található . [SEP],itt,Berlin,0,Berlin,0,-1.94102
+[CLS] Eurailscout:4 központja:3 [MASK] található . [SEP],közelében,Berlin,0,Berlin,0,-2.12691
+[CLS] Eurailscout:4 központja:3 [MASK] található . [SEP],##ban,Berlin,0,Berlin,0,-3.15833
+[CLS] Eurailscout:4 központja:3 [MASK] található . [SEP],alatt,Berlin,0,Berlin,0,-3.33074
 [CLS] VDL:3 Groep:2 központja:3 [MASK] található . [SEP],is,Eindhoven,0,Eindhoven,0,-0.53736
 [CLS] VDL:3 Groep:2 központja:3 [MASK] található . [SEP],itt,Eindhoven,0,Eindhoven,0,-1.99432
+[CLS] VDL:3 Groep:2 központja:3 [MASK] [MASK] található . [SEP],város ben,Eindhoven,0,Eindhoven,0,-2.96223
+[CLS] VDL:3 Groep:2 központja:3 [MASK] [MASK] található . [SEP],is is,Eindhoven,0,Eindhoven,0,-3.49752
+[CLS] VDL:3 Groep:2 központja:3 [MASK] [MASK] található . [SEP],a itt,Eindhoven,0,Eindhoven,0,-3.68055
 [CLS] Hope & Co . központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.22620
 [CLS] Hope & Co . központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.11510
+[CLS] Hope & Co . központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.96086
+[CLS] Hope & Co . központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.12616
+[CLS] Hope & Co . központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.20209
 [CLS] Trouw:3 központja:3 [MASK] található . [SEP],is,Trouw:3 building,0,Trouw:3 building,0,-1.33159
 [CLS] Trouw:3 központja:3 [MASK] található . [SEP],itt,Trouw:3 building,0,Trouw:3 building,0,-1.94635
+[CLS] Trouw:3 központja:3 [MASK] található . [SEP],ott,Trouw:3 building,0,Trouw:3 building,0,-2.98156
+[CLS] Trouw:3 központja:3 [MASK] található . [SEP],nem,Trouw:3 building,0,Trouw:3 building,0,-3.22812
+[CLS] Trouw:3 központja:3 [MASK] található . [SEP],##ban,Trouw:3 building,0,Trouw:3 building,0,-3.43910
 [CLS] Gemeente:2 Vervoer:2 Bedrijf:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.00047
 [CLS] Gemeente:2 Vervoer:2 Bedrijf:3 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.17815
+[CLS] Gemeente:2 Vervoer:2 Bedrijf:3 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.76364
+[CLS] Gemeente:2 Vervoer:2 Bedrijf:3 központja:3 [MASK] [MASK] található . [SEP],Amsterdamban:2,Amszterdam:3,0,Amszterdam:3,0,-2.99005
+[CLS] Gemeente:2 Vervoer:2 Bedrijf:3 központja:3 [MASK] [MASK] található . [SEP],is ben,Amszterdam:3,0,Amszterdam:3,0,-3.11304
 [CLS] Nettorama:3 központja:3 [MASK] található . [SEP],is,Oosterhout:3,0,Oosterhout:3,0,-2.01281
 [CLS] Nettorama:3 központja:3 [MASK] található . [SEP],alatt,Oosterhout:3,0,Oosterhout:3,0,-2.41347
-[CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] található . [SEP],is,Utrecht,0,Utrecht,0,-1.53998
+[CLS] Nettorama:3 központja:3 [MASK] található . [SEP],itt,Oosterhout:3,0,Oosterhout:3,0,-2.67637
+[CLS] Nettorama:3 központja:3 [MASK] található . [SEP],Budapesten,Oosterhout:3,0,Oosterhout:3,0,-2.74244
+[CLS] Nettorama:3 központja:3 [MASK] található . [SEP],##ban,Oosterhout:3,0,Oosterhout:3,0,-3.23268
+[CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] található . [SEP],is,Utrecht,0,Utrecht,0,-1.53997
 [CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] [MASK] található . [SEP],Hollandiában:2,Utrecht,0,Utrecht,0,-2.45613
+[CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] [MASK] található . [SEP],Belgiumban:2,Utrecht,0,Utrecht,0,-2.71484
+[CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] [MASK] található . [SEP],Haarlem -,Utrecht,0,Utrecht,0,-3.08307
+[CLS] Nationaal Instituut voor Budgetvoorlichting:4 ( Netherlands ) központja:3 [MASK] [MASK] található . [SEP],-ában:2,Utrecht,0,Utrecht,0,-3.14357
 [CLS] Van Berkel:3 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.20963
 [CLS] Van Berkel:3 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.53991
-[CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.73833
+[CLS] Van Berkel:3 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-2.90763
+[CLS] Van Berkel:3 központja:3 [MASK] található . [SEP],közelében,Rotterdam,0,Rotterdam,0,-3.47921
+[CLS] Van Berkel:3 központja:3 [MASK] található . [SEP],nem,Rotterdam,0,Rotterdam,0,-3.61112
+[CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-0.73832
 [CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] [MASK] található . [SEP],is itt,Leiden,0,Leiden,0,-2.53955
+[CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] található . [SEP],területén,Leiden,0,Leiden,0,-3.01188
+[CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] található . [SEP],alatt,Leiden,0,Leiden,0,-3.04401
+[CLS] N . V . Hollandsche:2 Constructie:3 Werkplaatsen:2 központja:3 [MASK] [MASK] található . [SEP],ittában:2,Leiden,0,Leiden,0,-3.35698
 [CLS] Budelse:2 Brouwerij:3 központja:3 [MASK] található . [SEP],is,Budel:2,0,Budel:2,0,-1.04837
 [CLS] Budelse:2 Brouwerij:3 központja:3 [MASK] található . [SEP],itt,Budel:2,0,Budel:2,0,-2.20084
+[CLS] Budelse:2 Brouwerij:3 központja:3 [MASK] található . [SEP],ott,Budel:2,0,Budel:2,0,-2.84767
+[CLS] Budelse:2 Brouwerij:3 központja:3 [MASK] található . [SEP],##ban,Budel:2,0,Budel:2,0,-3.12825
+[CLS] Budelse:2 Brouwerij:3 központja:3 [MASK] található . [SEP],##kban,Budel:2,0,Budel:2,0,-3.46834
 [CLS] De Maasbode:3 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.93348
 [CLS] De Maasbode:3 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.96275
-[CLS] De Telegraaf:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.84546
+[CLS] De Maasbode:3 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-2.60081
+[CLS] De Maasbode:3 központja:3 [MASK] található . [SEP],közelében,Rotterdam,0,Rotterdam,0,-3.36788
+[CLS] De Maasbode:3 központja:3 [MASK] található . [SEP],nem,Rotterdam,0,Rotterdam,0,-3.44883
+[CLS] De Telegraaf:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.84545
 [CLS] De Telegraaf:3 központja:3 [MASK] [MASK] található . [SEP],Amsterdam városban,Amszterdam:3,0,Amszterdam:3,0,-1.93779
+[CLS] De Telegraaf:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.42616
+[CLS] De Telegraaf:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Antwerpen - ben,Amszterdam:3,0,Amszterdam:3,0,-3.28348
+[CLS] De Telegraaf:3 központja:3 [MASK] [MASK] található . [SEP],városben:2,Amszterdam:3,0,Amszterdam:3,0,-3.62723
 [CLS] NIBC:3 Bank központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.70688
 [CLS] NIBC:3 Bank központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-1.81941
+[CLS] NIBC:3 Bank központja:3 [MASK] található . [SEP],alatt,Hága:2,0,Hága:2,0,-2.40432
+[CLS] NIBC:3 Bank központja:3 [MASK] található . [SEP],##ban,Hága:2,0,Hága:2,0,-2.82202
+[CLS] NIBC:3 Bank központja:3 [MASK] található . [SEP],ott,Hága:2,0,Hága:2,0,-3.38948
 [CLS] Leeuwarder:3 Courant:2 központja:3 [MASK] található . [SEP],is,Leeuwarden:3,0,Leeuwarden:3,0,-1.10865
 [CLS] Leeuwarder:3 Courant:2 központja:3 [MASK] található . [SEP],##ban,Leeuwarden:3,0,Leeuwarden:3,0,-2.23061
-[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],Scheveniben:4,The Hague,0,The Hague,0,-1.21625
-[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] található . [SEP],##ban,The Hague,0,The Hague,0,-1.75628
-[CLS] Moksel:3 központja:3 [MASK] [MASK] található . [SEP],város városban,Buchloe:3,0,Buchloe:3,0,-1.85208
+[CLS] Leeuwarder:3 Courant:2 központja:3 [MASK] található . [SEP],alatt,Leeuwarden:3,0,Leeuwarden:3,0,-2.70680
+[CLS] Leeuwarder:3 Courant:2 központja:3 [MASK] található . [SEP],itt,Leeuwarden:3,0,Leeuwarden:3,0,-2.99900
+[CLS] Leeuwarder:3 Courant:2 központja:3 [MASK] található . [SEP],ott,Leeuwarden:3,0,Leeuwarden:3,0,-3.11957
+[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] [MASK] [MASK] [MASK] található . [SEP],Scheveniben:4,The Hague,0,The Hague,0,-1.21624
+[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] található . [SEP],##ban,The Hague,0,The Hague,0,-1.75627
+[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] található . [SEP],alatt,The Hague,0,The Hague,0,-2.57315
+[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] található . [SEP],itt,The Hague,0,The Hague,0,-2.59304
+[CLS] Kurhaus:2 of Scheveningen:4 központja:3 [MASK] található . [SEP],körül,The Hague,0,The Hague,0,-3.24699
+[CLS] Moksel:3 központja:3 [MASK] [MASK] található . [SEP],város városban,Buchloe:3,0,Buchloe:3,0,-1.85207
 [CLS] Moksel:3 központja:3 [MASK] található . [SEP],közelében,Buchloe:3,0,Buchloe:3,0,-2.22866
+[CLS] Moksel:3 központja:3 [MASK] található . [SEP],alatt,Buchloe:3,0,Buchloe:3,0,-2.50462
+[CLS] Moksel:3 központja:3 [MASK] található . [SEP],is,Buchloe:3,0,Buchloe:3,0,-2.71111
+[CLS] Moksel:3 központja:3 [MASK] található . [SEP],##ban,Buchloe:3,0,Buchloe:3,0,-2.79699
 [CLS] Wavin:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Wavin:3,Zwolle,0,Zwolle,0,-1.43833
 [CLS] Wavin:3 központja:3 [MASK] található . [SEP],itt,Zwolle,0,Zwolle,0,-1.98137
+[CLS] Wavin:3 központja:3 [MASK] található . [SEP],közelében,Zwolle,0,Zwolle,0,-2.56437
+[CLS] Wavin:3 központja:3 [MASK] található . [SEP],alatt,Zwolle,0,Zwolle,0,-3.10364
+[CLS] Wavin:3 központja:3 [MASK] található . [SEP],ott,Zwolle,0,Zwolle,0,-3.52454
 [CLS] LeasePlan:4 Corporation központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.63837
 [CLS] LeasePlan:4 Corporation központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.67851
+[CLS] LeasePlan:4 Corporation központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.97531
+[CLS] LeasePlan:4 Corporation központja:3 [MASK] található . [SEP],városban,Amszterdam:3,0,Amszterdam:3,0,-3.19597
+[CLS] LeasePlan:4 Corporation központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.25911
 [CLS] Fabriekscomplex:5 Jannink:3 központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-1.18214
 [CLS] Fabriekscomplex:5 Jannink:3 központja:3 [MASK] található . [SEP],##ban,Enschede:3,0,Enschede:3,0,-2.58100
+[CLS] Fabriekscomplex:5 Jannink:3 központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-2.60311
+[CLS] Fabriekscomplex:5 Jannink:3 központja:3 [MASK] található . [SEP],területén,Enschede:3,0,Enschede:3,0,-2.86908
+[CLS] Fabriekscomplex:5 Jannink:3 központja:3 [MASK] található . [SEP],alatt,Enschede:3,0,Enschede:3,0,-2.93798
 [CLS] Noordhoff:2 Uitgevers:3 központja:3 [MASK] található . [SEP],is,Groningen,0,Groningen,0,-1.55925
 [CLS] Noordhoff:2 Uitgevers:3 központja:3 [MASK] található . [SEP],alatt,Groningen,0,Groningen,0,-1.99677
-[CLS] Royal Niestern:2 Sander központja:3 [MASK] található . [SEP],is,Farmsum:2,0,Farmsum:2,0,-0.65796
+[CLS] Noordhoff:2 Uitgevers:3 központja:3 [MASK] található . [SEP],##ban,Groningen,0,Groningen,0,-2.18498
+[CLS] Noordhoff:2 Uitgevers:3 központja:3 [MASK] [MASK] található . [SEP],városában:2,Groningen,0,Groningen,0,-3.04992
+[CLS] Noordhoff:2 Uitgevers:3 központja:3 [MASK] található . [SEP],közelében,Groningen,0,Groningen,0,-3.31483
+[CLS] Royal Niestern:2 Sander központja:3 [MASK] található . [SEP],is,Farmsum:2,0,Farmsum:2,0,-0.65795
 [CLS] Royal Niestern:2 Sander központja:3 [MASK] [MASK] található . [SEP],aben:2,Farmsum:2,0,Farmsum:2,0,-2.76413
-[CLS] Energiecentrale:3 Den Haag központja:3 [MASK] [MASK] [MASK] található . [SEP],", Haag Haag",The Hague,0,The Hague,0,-1.47539
+[CLS] Royal Niestern:2 Sander központja:3 [MASK] található . [SEP],itt,Farmsum:2,0,Farmsum:2,0,-2.95498
+[CLS] Royal Niestern:2 Sander központja:3 [MASK] található . [SEP],közelében,Farmsum:2,0,Farmsum:2,0,-3.39751
+[CLS] Royal Niestern:2 Sander központja:3 [MASK] [MASK] található . [SEP],itt ben,Farmsum:2,0,Farmsum:2,0,-3.86089
+[CLS] Energiecentrale:3 Den Haag központja:3 [MASK] [MASK] [MASK] található . [SEP],", Haag Haag",The Hague,0,The Hague,0,-1.47538
 [CLS] Energiecentrale:3 Den Haag központja:3 [MASK] található . [SEP],közelében,The Hague,0,The Hague,0,-2.53222
+[CLS] Energiecentrale:3 Den Haag központja:3 [MASK] található . [SEP],##ban,The Hague,0,The Hague,0,-2.60030
+[CLS] Energiecentrale:3 Den Haag központja:3 [MASK] található . [SEP],itt,The Hague,0,The Hague,0,-2.62605
+[CLS] Energiecentrale:3 Den Haag központja:3 [MASK] található . [SEP],mellett,The Hague,0,The Hague,0,-2.64045
 [CLS] Displeased:4 Records központja:3 [MASK] található . [SEP],is,Zaandam:3,0,Zaandam:3,0,-1.04009
 [CLS] Displeased:4 Records központja:3 [MASK] található . [SEP],itt,Zaandam:3,0,Zaandam:3,0,-2.08741
+[CLS] Displeased:4 Records központja:3 [MASK] [MASK] [MASK] található . [SEP],az York ben,Zaandam:3,0,Zaandam:3,0,-3.16923
+[CLS] Displeased:4 Records központja:3 [MASK] [MASK] [MASK] található . [SEP],és Angelesen:2,Zaandam:3,0,Zaandam:3,0,-3.53370
+[CLS] Displeased:4 Records központja:3 [MASK] [MASK] található . [SEP],városában:2,Zaandam:3,0,Zaandam:3,0,-3.65087
 [CLS] Zylom:3 központja:3 [MASK] található . [SEP],közelében,Eindhoven,0,Eindhoven,0,-1.87778
 [CLS] Zylom:3 központja:3 [MASK] található . [SEP],is,Eindhoven,0,Eindhoven,0,-2.34775
+[CLS] Zylom:3 központja:3 [MASK] található . [SEP],területén,Eindhoven,0,Eindhoven,0,-2.40196
+[CLS] Zylom:3 központja:3 [MASK] található . [SEP],alatt,Eindhoven,0,Eindhoven,0,-2.92783
+[CLS] Zylom:3 központja:3 [MASK] található . [SEP],mellett,Eindhoven,0,Eindhoven,0,-3.19829
 [CLS] Centre for Research on Multinational:2 Corporations:2 központja:3 [MASK] található . [SEP],is,Hollandia:2,0,Hollandia:2,0,-0.91579
 [CLS] Centre for Research on Multinational:2 Corporations:2 központja:3 [MASK] található . [SEP],itt,Hollandia:2,0,Hollandia:2,0,-2.59051
-[CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],is,Diemen:2,0,Diemen:2,0,-1.19704
+[CLS] Centre for Research on Multinational:2 Corporations:2 központja:3 [MASK] található . [SEP],alatt,Hollandia:2,0,Hollandia:2,0,-2.91407
+[CLS] Centre for Research on Multinational:2 Corporations:2 központja:3 [MASK] található . [SEP],##ban,Hollandia:2,0,Hollandia:2,0,-2.98986
+[CLS] Centre for Research on Multinational:2 Corporations:2 központja:3 [MASK] található . [SEP],területén,Hollandia:2,0,Hollandia:2,0,-3.01738
+[CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],is,Diemen:2,0,Diemen:2,0,-1.19703
 [CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],itt,Diemen:2,0,Diemen:2,0,-1.67724
-[CLS] ASR:2 Nederland központja:3 [MASK] található . [SEP],is,ASR:2 headquarters,0,ASR:2 headquarters,0,-0.82363
+[CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],alatt,Diemen:2,0,Diemen:2,0,-2.71772
+[CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],ott,Diemen:2,0,Diemen:2,0,-2.94678
+[CLS] Randstad:2 N . V . központja:3 [MASK] található . [SEP],közelében,Diemen:2,0,Diemen:2,0,-3.55427
+[CLS] ASR:2 Nederland központja:3 [MASK] található . [SEP],is,ASR:2 headquarters,0,ASR:2 headquarters,0,-0.82362
 [CLS] ASR:2 Nederland központja:3 [MASK] [MASK] [MASK] található . [SEP],és város ben,ASR:2 headquarters,0,ASR:2 headquarters,0,-2.70591
+[CLS] ASR:2 Nederland központja:3 [MASK] [MASK] található . [SEP],Eindhoven városban,ASR:2 headquarters,0,ASR:2 headquarters,0,-3.21843
+[CLS] ASR:2 Nederland központja:3 [MASK] [MASK] található . [SEP],Haarlem nem,ASR:2 headquarters,0,ASR:2 headquarters,0,-3.52516
+[CLS] ASR:2 Nederland központja:3 [MASK] [MASK] található . [SEP],",ában:2",ASR:2 headquarters,0,ASR:2 headquarters,0,-3.61443
 [CLS] AVEBE:3 központja:3 [MASK] található . [SEP],is,Veendam:3,0,Veendam:3,0,-1.55849
 [CLS] AVEBE:3 központja:3 [MASK] található . [SEP],itt,Veendam:3,0,Veendam:3,0,-1.64527
-[CLS] KPN:2 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-2.14283
+[CLS] AVEBE:3 központja:3 [MASK] található . [SEP],ott,Veendam:3,0,Veendam:3,0,-2.32921
+[CLS] AVEBE:3 központja:3 [MASK] található . [SEP],Budapesten,Veendam:3,0,Veendam:3,0,-3.13444
+[CLS] AVEBE:3 központja:3 [MASK] [MASK] található . [SEP],Kolozsvárában:2,Veendam:3,0,Veendam:3,0,-3.41098
+[CLS] KPN:2 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-2.14282
 [CLS] KPN:2 központja:3 [MASK] található . [SEP],##ban,Hága:2,0,Hága:2,0,-2.35949
+[CLS] KPN:2 központja:3 [MASK] található . [SEP],alatt,Hága:2,0,Hága:2,0,-2.40892
+[CLS] KPN:2 központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-2.63440
+[CLS] KPN:2 központja:3 [MASK] található . [SEP],##ben,Hága:2,0,Hága:2,0,-3.15993
 [CLS] Guerrilla:3 Games központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.44221
 [CLS] Guerrilla:3 Games központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.06422
+[CLS] Guerrilla:3 Games központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.02200
+[CLS] Guerrilla:3 Games központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.11564
+[CLS] Guerrilla:3 Games központja:3 [MASK] található . [SEP],magyarul,Amszterdam:3,0,Amszterdam:3,0,-3.49952
 [CLS] Veolia:2 Transport Nederland központja:3 [MASK] található . [SEP],is,Breda,0,Breda,0,-0.92875
 [CLS] Veolia:2 Transport Nederland központja:3 [MASK] található . [SEP],közelében,Breda,0,Breda,0,-2.62351
-[CLS] Gazelle:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Gazellában:3,Rheden:2,0,Rheden:2,0,-1.32634
+[CLS] Veolia:2 Transport Nederland központja:3 [MASK] [MASK] [MASK] található . [SEP],a városen:2,Breda,0,Breda,0,-3.01029
+[CLS] Veolia:2 Transport Nederland központja:3 [MASK] található . [SEP],##ban,Breda,0,Breda,0,-3.07071
+[CLS] Veolia:2 Transport Nederland központja:3 [MASK] található . [SEP],itt,Breda,0,Breda,0,-3.21457
+[CLS] Gazelle:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Gazellában:3,Rheden:2,0,Rheden:2,0,-1.32633
 [CLS] Gazelle:3 központja:3 [MASK] található . [SEP],is,Rheden:2,0,Rheden:2,0,-2.12442
+[CLS] Gazelle:3 központja:3 [MASK] található . [SEP],Olaszországban,Rheden:2,0,Rheden:2,0,-3.04934
+[CLS] Gazelle:3 központja:3 [MASK] található . [SEP],közelében,Rheden:2,0,Rheden:2,0,-3.06275
+[CLS] Gazelle:3 központja:3 [MASK] található . [SEP],alatt,Rheden:2,0,Rheden:2,0,-3.23416
 [CLS] Gunvor:2 központja:3 [MASK] található . [SEP],is,Genf,0,Genf,0,-2.00094
 [CLS] Gunvor:2 központja:3 [MASK] található . [SEP],itt,Genf,0,Genf,0,-2.03681
-[CLS] Rabobank:3 központja:3 [MASK] található . [SEP],itt,Utrecht,0,Utrecht,0,-1.65301
+[CLS] Gunvor:2 központja:3 [MASK] található . [SEP],ott,Genf,0,Genf,0,-2.64952
+[CLS] Gunvor:2 központja:3 [MASK] található . [SEP],közelében,Genf,0,Genf,0,-2.67410
+[CLS] Gunvor:2 központja:3 [MASK] található . [SEP],területén,Genf,0,Genf,0,-3.09182
+[CLS] Rabobank:3 központja:3 [MASK] található . [SEP],itt,Utrecht,0,Utrecht,0,-1.65300
 [CLS] Rabobank:3 központja:3 [MASK] található . [SEP],is,Utrecht,0,Utrecht,0,-1.75811
+[CLS] Rabobank:3 központja:3 [MASK] található . [SEP],Budapesten,Utrecht,0,Utrecht,0,-2.99290
+[CLS] Rabobank:3 központja:3 [MASK] található . [SEP],alatt,Utrecht,0,Utrecht,0,-3.08828
+[CLS] Rabobank:3 központja:3 [MASK] található . [SEP],Magyarországon,Utrecht,0,Utrecht,0,-3.33425
 [CLS] Perfetti:3 Van Melle:2 központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.37741
 [CLS] Perfetti:3 Van Melle:2 központja:3 [MASK] található . [SEP],itt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.98144
+[CLS] Perfetti:3 Van Melle:2 központja:3 [MASK] található . [SEP],alatt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.97081
+[CLS] Perfetti:3 Van Melle:2 központja:3 [MASK] található . [SEP],közelében,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.02695
+[CLS] Perfetti:3 Van Melle:2 központja:3 [MASK] található . [SEP],##ban,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.08683
 [CLS] ING:2 Group központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.37605
 [CLS] ING:2 Group központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.87238
-[CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.61500
+[CLS] ING:2 Group központja:3 [MASK] [MASK] [MASK] található . [SEP],az Yorkben:2,Amszterdam:3,0,Amszterdam:3,0,-3.20092
+[CLS] ING:2 Group központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.41414
+[CLS] ING:2 Group központja:3 [MASK] [MASK] található . [SEP],azban:2,Amszterdam:3,0,Amszterdam:3,0,-3.72538
+[CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.61499
 [CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.06957
+[CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.15685
+[CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.77907
+[CLS] lucas:2 bols:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-2.84269
 [CLS] STMicroelectronics:7 központja:3 [MASK] található . [SEP],is,Genf,0,Genf,0,-1.22739
 [CLS] STMicroelectronics:7 központja:3 [MASK] található . [SEP],itt,Genf,0,Genf,0,-1.47306
+[CLS] STMicroelectronics:7 központja:3 [MASK] található . [SEP],ott,Genf,0,Genf,0,-2.31771
+[CLS] STMicroelectronics:7 központja:3 [MASK] található . [SEP],városban,Genf,0,Genf,0,-3.47003
+[CLS] STMicroelectronics:7 központja:3 [MASK] található . [SEP],területén,Genf,0,Genf,0,-3.89120
 [CLS] ICI:2 Paris XL központja:3 [MASK] [MASK] található . [SEP],Parisban:2,Renswoude:4,0,Renswoude:4,0,-1.35451
 [CLS] ICI:2 Paris XL központja:3 [MASK] található . [SEP],is,Renswoude:4,0,Renswoude:4,0,-2.05040
-[CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],közelében,Nieuwegein:3,0,Nieuwegein:3,0,-1.62671
+[CLS] ICI:2 Paris XL központja:3 [MASK] található . [SEP],alatt,Renswoude:4,0,Renswoude:4,0,-2.36412
+[CLS] ICI:2 Paris XL központja:3 [MASK] található . [SEP],területén,Renswoude:4,0,Renswoude:4,0,-2.86044
+[CLS] ICI:2 Paris XL központja:3 [MASK] található . [SEP],mellett,Renswoude:4,0,Renswoude:4,0,-2.92332
+[CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],közelében,Nieuwegein:3,0,Nieuwegein:3,0,-1.62670
 [CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],is,Nieuwegein:3,0,Nieuwegein:3,0,-2.07298
-[CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.13371
+[CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],területén,Nieuwegein:3,0,Nieuwegein:3,0,-2.23772
+[CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],alatt,Nieuwegein:3,0,Nieuwegein:3,0,-2.30520
+[CLS] Ballast:2 Nedam:2 központja:3 [MASK] található . [SEP],##ban,Nieuwegein:3,0,Nieuwegein:3,0,-2.90959
+[CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.13370
 [CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],mellett,Rotterdam,0,Rotterdam,0,-2.39532
-[CLS] Polaroid:2 központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-1.39444
+[CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-2.55725
+[CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],városban,Rotterdam,0,Rotterdam,0,-3.51475
+[CLS] Louis Dreyfus Group központja:3 [MASK] található . [SEP],között,Rotterdam,0,Rotterdam,0,-3.54956
+[CLS] Polaroid:2 központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-1.39443
 [CLS] Polaroid:2 központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-1.70341
+[CLS] Polaroid:2 központja:3 [MASK] található . [SEP],ott,Enschede:3,0,Enschede:3,0,-2.49280
+[CLS] Polaroid:2 központja:3 [MASK] [MASK] található . [SEP],London ben,Enschede:3,0,Enschede:3,0,-3.49936
+[CLS] Polaroid:2 központja:3 [MASK] [MASK] található . [SEP],",ában:2",Enschede:3,0,Enschede:3,0,-3.51976
 [CLS] Armada központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.66533
 [CLS] Armada központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.84500
+[CLS] Armada központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.12905
+[CLS] Armada központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.59882
+[CLS] Armada központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.68973
 [CLS] Heineken:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.52818
 [CLS] Heineken:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.88282
+[CLS] Heineken:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.82719
+[CLS] Heineken:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.17026
+[CLS] Heineken:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-3.21856
 [CLS] DSM központja:3 [MASK] található . [SEP],is,Heerlen:2,0,Heerlen:2,0,-1.60214
 [CLS] DSM központja:3 [MASK] található . [SEP],##ban,Heerlen:2,0,Heerlen:2,0,-2.49828
-[CLS] Zeeman:2 központja:3 [MASK] található . [SEP],is,Alphen:2,0,Alphen:2,0,-1.37573
+[CLS] DSM központja:3 [MASK] található . [SEP],Magyarországon,Heerlen:2,0,Heerlen:2,0,-2.73848
+[CLS] DSM központja:3 [MASK] található . [SEP],##ában,Heerlen:2,0,Heerlen:2,0,-3.12833
+[CLS] DSM központja:3 [MASK] található . [SEP],Budapesten,Heerlen:2,0,Heerlen:2,0,-3.21083
+[CLS] Zeeman:2 központja:3 [MASK] található . [SEP],is,Alphen:2,0,Alphen:2,0,-1.37572
 [CLS] Zeeman:2 központja:3 [MASK] található . [SEP],itt,Alphen:2,0,Alphen:2,0,-2.29231
+[CLS] Zeeman:2 központja:3 [MASK] található . [SEP],közelében,Alphen:2,0,Alphen:2,0,-2.36454
+[CLS] Zeeman:2 központja:3 [MASK] található . [SEP],alatt,Alphen:2,0,Alphen:2,0,-3.24043
+[CLS] Zeeman:2 központja:3 [MASK] található . [SEP],városban,Alphen:2,0,Alphen:2,0,-3.36777
 [CLS] Spar:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.63195
 [CLS] Spar:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.07414
+[CLS] Spar:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.71931
+[CLS] Spar:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.24254
+[CLS] Spar:2 központja:3 [MASK] található . [SEP],##ben,Amszterdam:3,0,Amszterdam:3,0,-3.57394
 [CLS] Zentiva:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-2.03647
 [CLS] Zentiva:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.08812
+[CLS] Zentiva:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.56697
+[CLS] Zentiva:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.23808
+[CLS] Zentiva:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.39776
 [CLS] Royal Dutch Shell központja:3 [MASK] található . [SEP],is,Shell Centre,0,Shell Centre,0,-1.46457
 [CLS] Royal Dutch Shell központja:3 [MASK] található . [SEP],itt,Shell Centre,0,Shell Centre,0,-1.68303
+[CLS] Royal Dutch Shell központja:3 [MASK] található . [SEP],mellett,Shell Centre,0,Shell Centre,0,-2.82304
+[CLS] Royal Dutch Shell központja:3 [MASK] található . [SEP],közelében,Shell Centre,0,Shell Centre,0,-3.18366
+[CLS] Royal Dutch Shell központja:3 [MASK] található . [SEP],alatt,Shell Centre,0,Shell Centre,0,-3.33687
 [CLS] Royal Boskalis:3 Westminster központja:3 [MASK] [MASK] [MASK] található . [SEP],", Westminsterában:2",Papendrecht:3,0,Papendrecht:3,0,-1.73758
 [CLS] Royal Boskalis:3 Westminster központja:3 [MASK] található . [SEP],közelében,Papendrecht:3,0,Papendrecht:3,0,-1.95864
+[CLS] Royal Boskalis:3 Westminster központja:3 [MASK] található . [SEP],is,Papendrecht:3,0,Papendrecht:3,0,-2.02287
+[CLS] Royal Boskalis:3 Westminster központja:3 [MASK] található . [SEP],##ban,Papendrecht:3,0,Papendrecht:3,0,-2.50518
+[CLS] Royal Boskalis:3 Westminster központja:3 [MASK] található . [SEP],mellett,Papendrecht:3,0,Papendrecht:3,0,-3.22921
 [CLS] Abellio:2 központja:3 [MASK] található . [SEP],is,Utrecht,0,Utrecht,0,-1.36869
 [CLS] Abellio:2 központja:3 [MASK] található . [SEP],itt,Utrecht,0,Utrecht,0,-2.09511
+[CLS] Abellio:2 központja:3 [MASK] található . [SEP],ott,Utrecht,0,Utrecht,0,-2.44282
+[CLS] Abellio:2 központja:3 [MASK] található . [SEP],##ban,Utrecht,0,Utrecht,0,-2.89202
+[CLS] Abellio:2 központja:3 [MASK] található . [SEP],városban,Utrecht,0,Utrecht,0,-3.74845
 [CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.47037
-[CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.28459
+[CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.28458
+[CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.34172
+[CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.00078
+[CLS] Human Genome Organisation központja:3 [MASK] található . [SEP],##ában,Amszterdam:3,0,Amszterdam:3,0,-3.65197
 [CLS] DocMorris:4 központja:3 [MASK] található . [SEP],is,Heerlen:2,0,Heerlen:2,0,-1.60882
 [CLS] DocMorris:4 központja:3 [MASK] található . [SEP],itt,Heerlen:2,0,Heerlen:2,0,-2.35704
+[CLS] DocMorris:4 központja:3 [MASK] található . [SEP],Magyarországon,Heerlen:2,0,Heerlen:2,0,-2.71635
+[CLS] DocMorris:4 központja:3 [MASK] található . [SEP],nem,Heerlen:2,0,Heerlen:2,0,-3.26975
+[CLS] DocMorris:4 központja:3 [MASK] található . [SEP],magyarul,Heerlen:2,0,Heerlen:2,0,-3.28257
 [CLS] Triodos:2 Bank központja:3 [MASK] található . [SEP],is,Zeist:2,0,Zeist:2,0,-1.26824
 [CLS] Triodos:2 Bank központja:3 [MASK] található . [SEP],itt,Zeist:2,0,Zeist:2,0,-2.25558
+[CLS] Triodos:2 Bank központja:3 [MASK] található . [SEP],Budapesten,Zeist:2,0,Zeist:2,0,-2.70072
+[CLS] Triodos:2 Bank központja:3 [MASK] található . [SEP],ott,Zeist:2,0,Zeist:2,0,-2.86497
+[CLS] Triodos:2 Bank központja:3 [MASK] található . [SEP],##ban,Zeist:2,0,Zeist:2,0,-2.97466
 [CLS] Brill központja:3 [MASK] található . [SEP],is,Leiden,0,Leiden,0,-1.23568
 [CLS] Brill központja:3 [MASK] található . [SEP],alatt,Leiden,0,Leiden,0,-2.68061
+[CLS] Brill központja:3 [MASK] található . [SEP],mellett,Leiden,0,Leiden,0,-2.92239
+[CLS] Brill központja:3 [MASK] található . [SEP],közelében,Leiden,0,Leiden,0,-3.09943
+[CLS] Brill központja:3 [MASK] található . [SEP],itt,Leiden,0,Leiden,0,-3.18500
 [CLS] Gasunie:3 központja:3 [MASK] [MASK] található . [SEP],város városban,Groningen,0,Groningen,0,-1.76337
 [CLS] Gasunie:3 központja:3 [MASK] található . [SEP],is,Groningen,0,Groningen,0,-2.26507
-[CLS] Transavia:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-1.35357
-[CLS] Transavia:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-2.22334
-[CLS] NN Investment Partners központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.06998
+[CLS] Gasunie:3 központja:3 [MASK] található . [SEP],közelében,Groningen,0,Groningen,0,-2.50269
+[CLS] Gasunie:3 központja:3 [MASK] található . [SEP],mellett,Groningen,0,Groningen,0,-2.86252
+[CLS] Gasunie:3 központja:3 [MASK] található . [SEP],településen,Groningen,0,Groningen,0,-2.88446
+[CLS] Transavia:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-1.35356
+[CLS] Transavia:2 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-2.22333
+[CLS] Transavia:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-2.46449
+[CLS] Transavia:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-3.35622
+[CLS] Transavia:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3 - Schiphol:3 repülőtér:3,0,Amszterdam:3 - Schiphol:3 repülőtér:3,0,-3.46234
+[CLS] NN Investment Partners központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.06997
 [CLS] NN Investment Partners központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-2.03364
+[CLS] NN Investment Partners központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", -ában:2 . a , azban:2",Hága:2,0,Hága:2,0,-3.28951
+[CLS] NN Investment Partners központja:3 [MASK] található . [SEP],sem,Hága:2,0,Hága:2,0,-3.45315
+[CLS] NN Investment Partners központja:3 [MASK] [MASK] található . [SEP],isben:2,Hága:2,0,Hága:2,0,-3.59922
 [CLS] HTM:2 Personenvervoer:3 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.01483
 [CLS] HTM:2 Personenvervoer:3 központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-1.92562
+[CLS] HTM:2 Personenvervoer:3 központja:3 [MASK] [MASK] található . [SEP],város itt,Hága:2,0,Hága:2,0,-2.93912
+[CLS] HTM:2 Personenvervoer:3 központja:3 [MASK] [MASK] található . [SEP],a is,Hága:2,0,Hága:2,0,-3.29101
+[CLS] HTM:2 Personenvervoer:3 központja:3 [MASK] található . [SEP],közelében,Hága:2,0,Hága:2,0,-3.39932
 [CLS] NedCar:3 központja:3 [MASK] található . [SEP],is,Born,0,Born,0,-1.67102
 [CLS] NedCar:3 központja:3 [MASK] található . [SEP],itt,Born,0,Born,0,-1.85739
+[CLS] NedCar:3 központja:3 [MASK] található . [SEP],ott,Born,0,Born,0,-2.99926
+[CLS] NedCar:3 központja:3 [MASK] található . [SEP],alatt,Born,0,Born,0,-3.30463
+[CLS] NedCar:3 központja:3 [MASK] található . [SEP],közelében,Born,0,Born,0,-3.48219
 [CLS] Algemeen:3 Dagblad:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.86726
 [CLS] Algemeen:3 Dagblad:2 központja:3 [MASK] [MASK] található . [SEP],város városban,Rotterdam,0,Rotterdam,0,-2.17682
+[CLS] Algemeen:3 Dagblad:2 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-2.83885
+[CLS] Algemeen:3 Dagblad:2 központja:3 [MASK] található . [SEP],##ban,Rotterdam,0,Rotterdam,0,-2.92536
+[CLS] Algemeen:3 Dagblad:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],azécsében:3,Rotterdam,0,Rotterdam,0,-3.82718
 [CLS] Qiagen:2 központja:3 [MASK] [MASK] található . [SEP],Qien:2,Venlo:3,0,Venlo:3,0,-1.47843
 [CLS] Qiagen:2 központja:3 [MASK] található . [SEP],alatt,Venlo:3,0,Venlo:3,0,-2.17399
+[CLS] Qiagen:2 központja:3 [MASK] található . [SEP],is,Venlo:3,0,Venlo:3,0,-2.23038
+[CLS] Qiagen:2 központja:3 [MASK] található . [SEP],##ban,Venlo:3,0,Venlo:3,0,-2.89241
+[CLS] Qiagen:2 központja:3 [MASK] található . [SEP],itt,Venlo:3,0,Venlo:3,0,-3.37270
 [CLS] Keolis:2 Nederland központja:3 [MASK] található . [SEP],is,Deventer:2,0,Deventer:2,0,-1.54515
 [CLS] Keolis:2 Nederland központja:3 [MASK] található . [SEP],közelében,Deventer:2,0,Deventer:2,0,-2.37507
+[CLS] Keolis:2 Nederland központja:3 [MASK] található . [SEP],alatt,Deventer:2,0,Deventer:2,0,-3.14083
+[CLS] Keolis:2 Nederland központja:3 [MASK] található . [SEP],területén,Deventer:2,0,Deventer:2,0,-3.33667
+[CLS] Keolis:2 Nederland központja:3 [MASK] található . [SEP],##ban,Deventer:2,0,Deventer:2,0,-3.52288
 [CLS] Heijmans:3 központja:3 [MASK] található . [SEP],itt,Rosmalen:2,0,Rosmalen:2,0,-1.21048
 [CLS] Heijmans:3 központja:3 [MASK] található . [SEP],is,Rosmalen:2,0,Rosmalen:2,0,-1.87411
+[CLS] Heijmans:3 központja:3 [MASK] található . [SEP],ott,Rosmalen:2,0,Rosmalen:2,0,-2.26350
+[CLS] Heijmans:3 központja:3 [MASK] található . [SEP],nem,Rosmalen:2,0,Rosmalen:2,0,-3.09760
+[CLS] Heijmans:3 központja:3 [MASK] [MASK] található . [SEP],Utrechtában:2,Rosmalen:2,0,Rosmalen:2,0,-3.82219
 [CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] található . [SEP],is,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-0.92347
-[CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] található . [SEP],itt,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-1.07988
+[CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] található . [SEP],itt,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-1.07987
+[CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] található . [SEP],ott,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-2.90687
+[CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] [MASK] található . [SEP],is településen,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-3.19590
+[CLS] De Koningshoeven:4 Brewery:2 központja:3 [MASK] [MASK] található . [SEP],ezenban:2,Berkel:3 - Enschot:3,0,Berkel:3 - Enschot:3,0,-3.72932
 [CLS] LexisNexis:5 központja:3 [MASK] található . [SEP],is,Dayton,0,Dayton,0,-1.36547
 [CLS] LexisNexis:5 központja:3 [MASK] található . [SEP],itt,Dayton,0,Dayton,0,-2.14016
+[CLS] LexisNexis:5 központja:3 [MASK] található . [SEP],##ban,Dayton,0,Dayton,0,-2.58646
+[CLS] LexisNexis:5 központja:3 [MASK] található . [SEP],alatt,Dayton,0,Dayton,0,-2.72426
+[CLS] LexisNexis:5 központja:3 [MASK] [MASK] található . [SEP],Debreceniában:2,Dayton,0,Dayton,0,-3.67608
 [CLS] Atradius:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.66395
 [CLS] Atradius:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.89210
-[CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.49870
+[CLS] Atradius:3 központja:3 [MASK] található . [SEP],Budapesten,Amszterdam:3,0,Amszterdam:3,0,-2.57032
+[CLS] Atradius:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.98531
+[CLS] Atradius:3 központja:3 [MASK] található . [SEP],Magyarországon,Amszterdam:3,0,Amszterdam:3,0,-3.11191
+[CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.49869
 [CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.08979
-[CLS] DVS:3 Records központja:3 [MASK] található . [SEP],is,Hollandia:2,0,Hollandia:2,0,-0.72685
+[CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.47179
+[CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.04460
+[CLS] Blokker:2 Holding központja:3 [MASK] található . [SEP],mellett,Amszterdam:3,0,Amszterdam:3,0,-3.21878
+[CLS] DVS:3 Records központja:3 [MASK] található . [SEP],is,Hollandia:2,0,Hollandia:2,0,-0.72684
 [CLS] DVS:3 Records központja:3 [MASK] található . [SEP],itt,Hollandia:2,0,Hollandia:2,0,-2.19060
+[CLS] DVS:3 Records központja:3 [MASK] található . [SEP],Németországban,Hollandia:2,0,Hollandia:2,0,-3.15680
+[CLS] DVS:3 Records központja:3 [MASK] [MASK] [MASK] található . [SEP],is Angelesben:2,Hollandia:2,0,Hollandia:2,0,-3.46489
+[CLS] DVS:3 Records központja:3 [MASK] [MASK] [MASK] található . [SEP],szinténécsen:3,Hollandia:2,0,Hollandia:2,0,-3.63161
 [CLS] C & A központja:3 [MASK] található . [SEP],itt,Vilvoorde:4,0,Vilvoorde:4,0,-1.21514
 [CLS] C & A központja:3 [MASK] található . [SEP],is,Vilvoorde:4,0,Vilvoorde:4,0,-1.43107
+[CLS] C & A központja:3 [MASK] található . [SEP],ott,Vilvoorde:4,0,Vilvoorde:4,0,-2.90225
+[CLS] C & A központja:3 [MASK] [MASK] található . [SEP],szinténban:2,Vilvoorde:4,0,Vilvoorde:4,0,-3.51269
+[CLS] C & A központja:3 [MASK] [MASK] található . [SEP],Bostonában:2,Vilvoorde:4,0,Vilvoorde:4,0,-3.54001
 [CLS] HERE:3 Technologies központja:3 [MASK] található . [SEP],is,Eindhoven,0,Eindhoven,0,-1.15477
 [CLS] HERE:3 Technologies központja:3 [MASK] található . [SEP],itt,Eindhoven,0,Eindhoven,0,-1.35810
-[CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],Budapesten,Leidschenveen:4,0,Leidschenveen:4,0,-1.53815
+[CLS] HERE:3 Technologies központja:3 [MASK] található . [SEP],ott,Eindhoven,0,Eindhoven,0,-3.25090
+[CLS] HERE:3 Technologies központja:3 [MASK] található . [SEP],sem,Eindhoven,0,Eindhoven,0,-3.60917
+[CLS] HERE:3 Technologies központja:3 [MASK] [MASK] található . [SEP],-ben:2,Eindhoven,0,Eindhoven,0,-3.87038
+[CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],Budapesten,Leidschenveen:4,0,Leidschenveen:4,0,-1.53814
 [CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],itt,Leidschenveen:4,0,Leidschenveen:4,0,-2.11067
+[CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],Magyarországon,Leidschenveen:4,0,Leidschenveen:4,0,-2.28892
+[CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],ott,Leidschenveen:4,0,Leidschenveen:4,0,-3.05698
+[CLS] Nemzetközi Statisztikai:2 Intézet központja:3 [MASK] található . [SEP],##ban,Leidschenveen:4,0,Leidschenveen:4,0,-3.34096
 [CLS] KLM:2 központja:3 [MASK] található . [SEP],itt,Amstelveen:3,0,Amstelveen:3,0,-1.33532
-[CLS] KLM:2 központja:3 [MASK] található . [SEP],is,Amstelveen:3,0,Amstelveen:3,0,-1.51385
+[CLS] KLM:2 központja:3 [MASK] található . [SEP],is,Amstelveen:3,0,Amstelveen:3,0,-1.51384
+[CLS] KLM:2 központja:3 [MASK] található . [SEP],##ban,Amstelveen:3,0,Amstelveen:3,0,-3.17163
+[CLS] KLM:2 központja:3 [MASK] [MASK] található . [SEP],aban:2,Amstelveen:3,0,Amstelveen:3,0,-3.44780
+[CLS] KLM:2 központja:3 [MASK] [MASK] található . [SEP],-ában:2,Amstelveen:3,0,Amstelveen:3,0,-3.71581
 [CLS] RWE:2 központja:3 [MASK] található . [SEP],itt,Essen,0,Essen,0,-1.77749
 [CLS] RWE:2 központja:3 [MASK] található . [SEP],is,Essen,0,Essen,0,-2.04743
-[CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],is,Veldhoven:3,0,Veldhoven:3,0,-1.51090
+[CLS] RWE:2 központja:3 [MASK] található . [SEP],##ban,Essen,0,Essen,0,-2.16739
+[CLS] RWE:2 központja:3 [MASK] található . [SEP],közelében,Essen,0,Essen,0,-2.96066
+[CLS] RWE:2 központja:3 [MASK] található . [SEP],mellett,Essen,0,Essen,0,-3.30544
+[CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],is,Veldhoven:3,0,Veldhoven:3,0,-1.51089
 [CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],itt,Veldhoven:3,0,Veldhoven:3,0,-2.16201
+[CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],alatt,Veldhoven:3,0,Veldhoven:3,0,-2.90308
+[CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],mellett,Veldhoven:3,0,Veldhoven:3,0,-3.01984
+[CLS] ASML:2 Holding központja:3 [MASK] található . [SEP],##ban,Veldhoven:3,0,Veldhoven:3,0,-3.23041
 [CLS] Nobina:2 központja:3 [MASK] található . [SEP],is,Stockholm,0,Stockholm,0,-2.16107
 [CLS] Nobina:2 központja:3 [MASK] található . [SEP],itt,Stockholm,0,Stockholm,0,-2.29974
+[CLS] Nobina:2 központja:3 [MASK] található . [SEP],közelében,Stockholm,0,Stockholm,0,-2.35395
+[CLS] Nobina:2 központja:3 [MASK] található . [SEP],alatt,Stockholm,0,Stockholm,0,-2.55917
+[CLS] Nobina:2 központja:3 [MASK] található . [SEP],ott,Stockholm,0,Stockholm,0,-3.17802
 [CLS] Jumbo:2 shipping központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.88639
 [CLS] Jumbo:2 shipping központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.37769
+[CLS] Jumbo:2 shipping központja:3 [MASK] [MASK] található . [SEP],is itt,Rotterdam,0,Rotterdam,0,-3.30656
+[CLS] Jumbo:2 shipping központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-3.82002
+[CLS] Jumbo:2 shipping központja:3 [MASK] található . [SEP],mellett,Rotterdam,0,Rotterdam,0,-3.99741
 [CLS] Arcadis:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.89298
 [CLS] Arcadis:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.95848
+[CLS] Arcadis:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.05394
+[CLS] Arcadis:3 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.82377
+[CLS] Arcadis:3 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-2.95487
 [CLS] Het Financieele:4 Dagblad:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.67661
 [CLS] Het Financieele:4 Dagblad:2 központja:3 [MASK] [MASK] található . [SEP],Amsterdam városban,Amszterdam:3,0,Amszterdam:3,0,-2.64553
-[CLS] Atelier Van Lieshout:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.01078
+[CLS] Het Financieele:4 Dagblad:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-3.09332
+[CLS] Het Financieele:4 Dagblad:2 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-3.40024
+[CLS] Het Financieele:4 Dagblad:2 központja:3 [MASK] [MASK] található . [SEP],Antwerpenan:2,Amszterdam:3,0,Amszterdam:3,0,-3.61270
+[CLS] Atelier Van Lieshout:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.01077
 [CLS] Atelier Van Lieshout:2 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.95609
+[CLS] Atelier Van Lieshout:2 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-2.58800
+[CLS] Atelier Van Lieshout:2 központja:3 [MASK] [MASK] található . [SEP],Belgium városban,Rotterdam,0,Rotterdam,0,-3.08364
+[CLS] Atelier Van Lieshout:2 központja:3 [MASK] [MASK] található . [SEP],",iában:2",Rotterdam,0,Rotterdam,0,-3.47276
 [CLS] Bodewes:3 Shipyards:3 központja:3 [MASK] található . [SEP],itt,Hoogezand:4,0,Hoogezand:4,0,-0.49920
 [CLS] Bodewes:3 Shipyards:3 központja:3 [MASK] található . [SEP],is,Hoogezand:4,0,Hoogezand:4,0,-2.08171
-[CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],itt,Houston,0,Houston,0,-1.57830
+[CLS] Bodewes:3 Shipyards:3 központja:3 [MASK] található . [SEP],ott,Hoogezand:4,0,Hoogezand:4,0,-2.93144
+[CLS] Bodewes:3 Shipyards:3 központja:3 [MASK] található . [SEP],városban,Hoogezand:4,0,Hoogezand:4,0,-3.74280
+[CLS] Bodewes:3 Shipyards:3 központja:3 [MASK] [MASK] található . [SEP],Southampton településen,Hoogezand:4,0,Hoogezand:4,0,-3.90367
+[CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],itt,Houston,0,Houston,0,-1.57829
 [CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],is,Houston,0,Houston,0,-1.79221
+[CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],közelében,Houston,0,Houston,0,-1.85092
+[CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],mellett,Houston,0,Houston,0,-2.75633
+[CLS] LyondellBasell:4 központja:3 [MASK] található . [SEP],területén,Houston,0,Houston,0,-2.93678
 [CLS] Royal FloraHolland:4 központja:3 [MASK] található . [SEP],is,Aalsmeer:3,0,Aalsmeer:3,0,-1.25110
 [CLS] Royal FloraHolland:4 központja:3 [MASK] található . [SEP],itt,Aalsmeer:3,0,Aalsmeer:3,0,-1.76273
-[CLS] Vekoma:3 központja:3 [MASK] [MASK] található . [SEP],város városban,Vlodrop:3,0,Vlodrop:3,0,-1.58770
+[CLS] Royal FloraHolland:4 központja:3 [MASK] található . [SEP],ott,Aalsmeer:3,0,Aalsmeer:3,0,-2.62082
+[CLS] Royal FloraHolland:4 központja:3 [MASK] található . [SEP],##ban,Aalsmeer:3,0,Aalsmeer:3,0,-2.87059
+[CLS] Royal FloraHolland:4 központja:3 [MASK] található . [SEP],alatt,Aalsmeer:3,0,Aalsmeer:3,0,-3.19811
+[CLS] Vekoma:3 központja:3 [MASK] [MASK] található . [SEP],város városban,Vlodrop:3,0,Vlodrop:3,0,-1.58769
 [CLS] Vekoma:3 központja:3 [MASK] található . [SEP],közelében,Vlodrop:3,0,Vlodrop:3,0,-2.31013
-[CLS] Philips központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.25314
+[CLS] Vekoma:3 központja:3 [MASK] található . [SEP],is,Vlodrop:3,0,Vlodrop:3,0,-2.41562
+[CLS] Vekoma:3 központja:3 [MASK] található . [SEP],itt,Vlodrop:3,0,Vlodrop:3,0,-2.42402
+[CLS] Vekoma:3 központja:3 [MASK] található . [SEP],területén,Vlodrop:3,0,Vlodrop:3,0,-2.87488
+[CLS] Philips központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.25313
 [CLS] Philips központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.37751
-[CLS] FrieslandCampina:4 központja:3 [MASK] található . [SEP],is,Amersfoort:4,0,Amersfoort:4,0,-1.21423
+[CLS] Philips központja:3 [MASK] található . [SEP],mellett,Amszterdam:3,0,Amszterdam:3,0,-3.17627
+[CLS] Philips központja:3 [MASK] [MASK] található . [SEP],Philipsban:2,Amszterdam:3,0,Amszterdam:3,0,-3.64341
+[CLS] Philips központja:3 [MASK] [MASK] található . [SEP],is ben,Amszterdam:3,0,Amszterdam:3,0,-3.78700
+[CLS] FrieslandCampina:4 központja:3 [MASK] található . [SEP],is,Amersfoort:4,0,Amersfoort:4,0,-1.21422
 [CLS] FrieslandCampina:4 központja:3 [MASK] található . [SEP],itt,Amersfoort:4,0,Amersfoort:4,0,-2.05447
+[CLS] FrieslandCampina:4 központja:3 [MASK] [MASK] található . [SEP],város ben,Amersfoort:4,0,Amersfoort:4,0,-3.24901
+[CLS] FrieslandCampina:4 központja:3 [MASK] [MASK] található . [SEP],Hollandában:2,Amersfoort:4,0,Amersfoort:4,0,-3.32111
+[CLS] FrieslandCampina:4 központja:3 [MASK] [MASK] található . [SEP],Utrechtban:2,Amersfoort:4,0,Amersfoort:4,0,-3.54423
 [CLS] Accell:3 központja:3 [MASK] található . [SEP],itt,Heerenveen:3,0,Heerenveen:3,0,-1.44017
 [CLS] Accell:3 központja:3 [MASK] található . [SEP],is,Heerenveen:3,0,Heerenveen:3,0,-1.46767
-[CLS] Euronics:2 központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.93211
+[CLS] Accell:3 központja:3 [MASK] található . [SEP],ott,Heerenveen:3,0,Heerenveen:3,0,-2.81479
+[CLS] Accell:3 központja:3 [MASK] található . [SEP],Budapesten,Heerenveen:3,0,Heerenveen:3,0,-3.46717
+[CLS] Accell:3 központja:3 [MASK] [MASK] található . [SEP],Debrecenában:2,Heerenveen:3,0,Heerenveen:3,0,-3.56139
+[CLS] Euronics:2 központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.93210
 [CLS] Euronics:2 központja:3 [MASK] található . [SEP],Magyarországon,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.13687
-[CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.85462
+[CLS] Euronics:2 központja:3 [MASK] található . [SEP],itt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.30253
+[CLS] Euronics:2 központja:3 [MASK] található . [SEP],Németországban,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.46130
+[CLS] Euronics:2 központja:3 [MASK] található . [SEP],Budapesten,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.26776
+[CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.85461
 [CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.53170
+[CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.81721
+[CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-3.03186
+[CLS] Amsterdamsche:2 Droogdok:3 Maatschappij:2 központja:3 [MASK] található . [SEP],mellett,Amszterdam:3,0,Amszterdam:3,0,-3.28011
 [CLS] Vion:2 Food Group központja:3 [MASK] található . [SEP],itt,Boxtel:2,0,Boxtel:2,0,-1.15877
 [CLS] Vion:2 Food Group központja:3 [MASK] található . [SEP],is,Boxtel:2,0,Boxtel:2,0,-1.43513
+[CLS] Vion:2 Food Group központja:3 [MASK] [MASK] [MASK] található . [SEP],", - ben",Boxtel:2,0,Boxtel:2,0,-3.26718
+[CLS] Vion:2 Food Group központja:3 [MASK] található . [SEP],városban,Boxtel:2,0,Boxtel:2,0,-3.48898
+[CLS] Vion:2 Food Group központja:3 [MASK] található . [SEP],mellett,Boxtel:2,0,Boxtel:2,0,-3.68753
 [CLS] TUI:2 fly Netherlands központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-0.47922
 [CLS] TUI:2 fly Netherlands központja:3 [MASK] található . [SEP],itt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.36552
-[CLS] GfK:3 központja:3 [MASK] található . [SEP],itt,Nürnberg,0,Nürnberg,0,-1.91584
+[CLS] TUI:2 fly Netherlands központja:3 [MASK] [MASK] található . [SEP],is is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.26604
+[CLS] TUI:2 fly Netherlands központja:3 [MASK] [MASK] található . [SEP],a ben,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.34154
+[CLS] TUI:2 fly Netherlands központja:3 [MASK] [MASK] található . [SEP],Belgiumában:2,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.39511
+[CLS] GfK:3 központja:3 [MASK] található . [SEP],itt,Nürnberg,0,Nürnberg,0,-1.91583
 [CLS] GfK:3 központja:3 [MASK] található . [SEP],##ban,Nürnberg,0,Nürnberg,0,-2.11079
-[CLS] Stayokay:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.81660
+[CLS] GfK:3 központja:3 [MASK] található . [SEP],is,Nürnberg,0,Nürnberg,0,-2.32224
+[CLS] GfK:3 központja:3 [MASK] található . [SEP],alatt,Nürnberg,0,Nürnberg,0,-2.65807
+[CLS] GfK:3 központja:3 [MASK] található . [SEP],##ben,Nürnberg,0,Nürnberg,0,-2.66149
+[CLS] Stayokay:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.81659
 [CLS] Stayokay:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.37695
+[CLS] Stayokay:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-2.46075
+[CLS] Stayokay:3 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.57821
+[CLS] Stayokay:3 központja:3 [MASK] található . [SEP],közelében,Amszterdam:3,0,Amszterdam:3,0,-2.85899
 [CLS] Sparta B . V . központja:3 [MASK] található . [SEP],is,Apeldoorn:4,0,Apeldoorn:4,0,-0.92353
 [CLS] Sparta B . V . központja:3 [MASK] található . [SEP],itt,Apeldoorn:4,0,Apeldoorn:4,0,-1.89788
-[CLS] Timeless:2 Records központja:3 [MASK] található . [SEP],is,Wageningen:2,0,Wageningen:2,0,-0.95021
+[CLS] Sparta B . V . központja:3 [MASK] található . [SEP],ott,Apeldoorn:4,0,Apeldoorn:4,0,-2.54751
+[CLS] Sparta B . V . központja:3 [MASK] található . [SEP],##ban,Apeldoorn:4,0,Apeldoorn:4,0,-3.26769
+[CLS] Sparta B . V . központja:3 [MASK] [MASK] található . [SEP],aban:2,Apeldoorn:4,0,Apeldoorn:4,0,-3.48655
+[CLS] Timeless:2 Records központja:3 [MASK] található . [SEP],is,Wageningen:2,0,Wageningen:2,0,-0.95020
 [CLS] Timeless:2 Records központja:3 [MASK] található . [SEP],itt,Wageningen:2,0,Wageningen:2,0,-2.41692
-[CLS] Jopen:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],Jopenen:3,Haarlem,0,Haarlem,0,-1.79260
+[CLS] Timeless:2 Records központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],", - a . . - szen:2",Wageningen:2,0,Wageningen:2,0,-3.44256
+[CLS] Timeless:2 Records központja:3 [MASK] [MASK] [MASK] található . [SEP],"az ,en:2",Wageningen:2,0,Wageningen:2,0,-3.57026
+[CLS] Timeless:2 Records központja:3 [MASK] [MASK] található . [SEP],Boston városban,Wageningen:2,0,Wageningen:2,0,-3.77361
+[CLS] Jopen:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],Jopenen:3,Haarlem,0,Haarlem,0,-1.79259
 [CLS] Jopen:2 központja:3 [MASK] található . [SEP],itt,Haarlem,0,Haarlem,0,-2.22703
-[CLS] Martinair:2 központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.17910
+[CLS] Jopen:2 központja:3 [MASK] található . [SEP],alatt,Haarlem,0,Haarlem,0,-2.46715
+[CLS] Jopen:2 központja:3 [MASK] található . [SEP],közelében,Haarlem,0,Haarlem,0,-2.59467
+[CLS] Jopen:2 központja:3 [MASK] található . [SEP],ott,Haarlem,0,Haarlem,0,-3.00105
+[CLS] Martinair:2 központja:3 [MASK] található . [SEP],is,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.17909
 [CLS] Martinair:2 központja:3 [MASK] található . [SEP],itt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.77912
+[CLS] Martinair:2 központja:3 [MASK] található . [SEP],ott,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.59817
+[CLS] Martinair:2 központja:3 [MASK] található . [SEP],városban,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.19725
+[CLS] Martinair:2 központja:3 [MASK] található . [SEP],##ban,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.45482
 [CLS] Triumph Studios központja:3 [MASK] található . [SEP],is,Delft,0,Delft,0,-1.41190
 [CLS] Triumph Studios központja:3 [MASK] található . [SEP],itt,Delft,0,Delft,0,-2.51947
+[CLS] Triumph Studios központja:3 [MASK] található . [SEP],ott,Delft,0,Delft,0,-2.59572
+[CLS] Triumph Studios központja:3 [MASK] található . [SEP],##ban,Delft,0,Delft,0,-3.03438
+[CLS] Triumph Studios központja:3 [MASK] található . [SEP],##ben,Delft,0,Delft,0,-3.37897
 [CLS] Chipshol:3 központja:3 [MASK] [MASK] [MASK] található . [SEP],Chipshában:3,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-1.51690
 [CLS] Chipshol:3 központja:3 [MASK] található . [SEP],itt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.02714
-[CLS] Van Oord:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.87333
+[CLS] Chipshol:3 központja:3 [MASK] található . [SEP],közelében,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-2.17217
+[CLS] Chipshol:3 központja:3 [MASK] található . [SEP],alatt,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.05156
+[CLS] Chipshol:3 központja:3 [MASK] található . [SEP],ott,Schiphol:3 - Rijk,0,Schiphol:3 - Rijk,0,-3.13654
+[CLS] Van Oord:2 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-0.87332
 [CLS] Van Oord:2 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.61654
+[CLS] Van Oord:2 központja:3 [MASK] található . [SEP],nem,Rotterdam,0,Rotterdam,0,-3.13650
+[CLS] Van Oord:2 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-3.14489
+[CLS] Van Oord:2 központja:3 [MASK] található . [SEP],közelében,Rotterdam,0,Rotterdam,0,-3.39578
 [CLS] Tamoil:3 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.73702
 [CLS] Tamoil:3 központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-2.05467
-[CLS] Irdeto:3 központja:3 [MASK] található . [SEP],itt,Hoofddorp:4,0,Hoofddorp:4,0,-1.76436
+[CLS] Tamoil:3 központja:3 [MASK] található . [SEP],közelében,Hága:2,0,Hága:2,0,-2.78012
+[CLS] Tamoil:3 központja:3 [MASK] található . [SEP],alatt,Hága:2,0,Hága:2,0,-2.86621
+[CLS] Tamoil:3 központja:3 [MASK] található . [SEP],ott,Hága:2,0,Hága:2,0,-3.18368
+[CLS] Irdeto:3 központja:3 [MASK] található . [SEP],itt,Hoofddorp:4,0,Hoofddorp:4,0,-1.76435
 [CLS] Irdeto:3 központja:3 [MASK] található . [SEP],is,Hoofddorp:4,0,Hoofddorp:4,0,-2.26559
+[CLS] Irdeto:3 központja:3 [MASK] található . [SEP],ott,Hoofddorp:4,0,Hoofddorp:4,0,-2.61882
+[CLS] Irdeto:3 központja:3 [MASK] található . [SEP],közelében,Hoofddorp:4,0,Hoofddorp:4,0,-2.72980
+[CLS] Irdeto:3 központja:3 [MASK] található . [SEP],alatt,Hoofddorp:4,0,Hoofddorp:4,0,-2.91435
 [CLS] BearingPoint:4 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.32187
 [CLS] BearingPoint:4 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.59728
+[CLS] BearingPoint:4 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.80203
+[CLS] BearingPoint:4 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.24776
+[CLS] BearingPoint:4 központja:3 [MASK] [MASK] található . [SEP],", városban",Amszterdam:3,0,Amszterdam:3,0,-3.55102
 [CLS] Rotterdamse:2 Elektrische:3 Tram:2 központja:3 [MASK] [MASK] található . [SEP],Rotterdam városban,Rotterdam,0,Rotterdam,0,-0.60434
 [CLS] Rotterdamse:2 Elektrische:3 Tram:2 központja:3 [MASK] [MASK] [MASK] található . [SEP],a város városban,Rotterdam,0,Rotterdam,0,-2.50928
+[CLS] Rotterdamse:2 Elektrische:3 Tram:2 központja:3 [MASK] található . [SEP],##ban,Rotterdam,0,Rotterdam,0,-2.67572
+[CLS] Rotterdamse:2 Elektrische:3 Tram:2 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-2.76367
+[CLS] Rotterdamse:2 Elektrische:3 Tram:2 központja:3 [MASK] található . [SEP],alatt,Rotterdam,0,Rotterdam,0,-2.95287
 [CLS] MVRDV:3 központja:3 [MASK] található . [SEP],is,Rotterdam,0,Rotterdam,0,-1.39892
 [CLS] MVRDV:3 központja:3 [MASK] található . [SEP],itt,Rotterdam,0,Rotterdam,0,-1.76427
+[CLS] MVRDV:3 központja:3 [MASK] található . [SEP],##ban,Rotterdam,0,Rotterdam,0,-3.13950
+[CLS] MVRDV:3 központja:3 [MASK] található . [SEP],ott,Rotterdam,0,Rotterdam,0,-3.19696
+[CLS] MVRDV:3 központja:3 [MASK] található . [SEP],alatt,Rotterdam,0,Rotterdam,0,-3.45115
 [CLS] Wolters:3 Kluwer:3 központja:3 [MASK] található . [SEP],is,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-1.97263
 [CLS] Wolters:3 Kluwer:3 központja:3 [MASK] található . [SEP],közelében,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-2.26787
+[CLS] Wolters:3 Kluwer:3 központja:3 [MASK] található . [SEP],##ban,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-2.43984
+[CLS] Wolters:3 Kluwer:3 központja:3 [MASK] található . [SEP],alatt,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-2.66091
+[CLS] Wolters:3 Kluwer:3 központja:3 [MASK] található . [SEP],itt,Alphen:2 aan den Rijn:2,0,Alphen:2 aan den Rijn:2,0,-2.69822
 [CLS] De Volkskrant:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-0.65723
 [CLS] De Volkskrant:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.54053
+[CLS] De Volkskrant:3 központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.61480
+[CLS] De Volkskrant:3 központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],". , az az az az az azben:2",Amszterdam:3,0,Amszterdam:3,0,-3.85171
+[CLS] De Volkskrant:3 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.96763
 [CLS] ABN:2 AMRO:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.39225
 [CLS] ABN:2 AMRO:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-1.82868
+[CLS] ABN:2 AMRO:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.89246
+[CLS] ABN:2 AMRO:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-3.49059
+[CLS] ABN:2 AMRO:2 központja:3 [MASK] [MASK] található . [SEP],Stockholmban:2,Amszterdam:3,0,Amszterdam:3,0,-3.59860
 [CLS] Aegon:3 N . V . központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.15987
 [CLS] Aegon:3 N . V . központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-1.75079
+[CLS] Aegon:3 N . V . központja:3 [MASK] található . [SEP],alatt,Hága:2,0,Hága:2,0,-2.54823
+[CLS] Aegon:3 N . V . központja:3 [MASK] található . [SEP],ott,Hága:2,0,Hága:2,0,-3.22958
+[CLS] Aegon:3 N . V . központja:3 [MASK] található . [SEP],##ban,Hága:2,0,Hága:2,0,-3.50877
 [CLS] General Logistics:3 Systems központja:3 [MASK] található . [SEP],is,Oude Meer,0,Oude Meer,0,-1.32530
 [CLS] General Logistics:3 Systems központja:3 [MASK] található . [SEP],itt,Oude Meer,0,Oude Meer,0,-2.04087
+[CLS] General Logistics:3 Systems központja:3 [MASK] található . [SEP],ott,Oude Meer,0,Oude Meer,0,-2.37347
+[CLS] General Logistics:3 Systems központja:3 [MASK] található . [SEP],##ban,Oude Meer,0,Oude Meer,0,-2.86056
+[CLS] General Logistics:3 Systems központja:3 [MASK] található . [SEP],##kban,Oude Meer,0,Oude Meer,0,-3.58793
 [CLS] Connexxion:4 központja:3 [MASK] található . [SEP],is,Hilversum:3,0,Hilversum:3,0,-2.08207
-[CLS] Connexxion:4 központja:3 [MASK] található . [SEP],itt,Hilversum:3,0,Hilversum:3,0,-2.15490
+[CLS] Connexxion:4 központja:3 [MASK] található . [SEP],itt,Hilversum:3,0,Hilversum:3,0,-2.15489
+[CLS] Connexxion:4 központja:3 [MASK] található . [SEP],##ban,Hilversum:3,0,Hilversum:3,0,-2.82577
+[CLS] Connexxion:4 központja:3 [MASK] található . [SEP],közelében,Hilversum:3,0,Hilversum:3,0,-2.94616
+[CLS] Connexxion:4 központja:3 [MASK] található . [SEP],alatt,Hilversum:3,0,Hilversum:3,0,-3.01909
 [CLS] hema:2 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.22252
 [CLS] hema:2 központja:3 [MASK] található . [SEP],##ban,Amszterdam:3,0,Amszterdam:3,0,-2.57199
+[CLS] hema:2 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.92894
+[CLS] hema:2 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.94217
+[CLS] hema:2 központja:3 [MASK] található . [SEP],nem,Amszterdam:3,0,Amszterdam:3,0,-3.36977
 [CLS] ariston:2 központja:3 [MASK] található . [SEP],is,Fabriano:3,0,Fabriano:3,0,-1.12765
 [CLS] ariston:2 központja:3 [MASK] található . [SEP],itt,Fabriano:3,0,Fabriano:3,0,-2.42575
-[CLS] Grolsch:3 Brewery:2 központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-1.02096
+[CLS] ariston:2 központja:3 [MASK] található . [SEP],ott,Fabriano:3,0,Fabriano:3,0,-2.93434
+[CLS] ariston:2 központja:3 [MASK] található . [SEP],##ban,Fabriano:3,0,Fabriano:3,0,-3.05017
+[CLS] ariston:2 központja:3 [MASK] található . [SEP],alatt,Fabriano:3,0,Fabriano:3,0,-3.12749
+[CLS] Grolsch:3 Brewery:2 központja:3 [MASK] található . [SEP],itt,Enschede:3,0,Enschede:3,0,-1.02095
 [CLS] Grolsch:3 Brewery:2 központja:3 [MASK] található . [SEP],is,Enschede:3,0,Enschede:3,0,-1.45490
+[CLS] Grolsch:3 Brewery:2 központja:3 [MASK] található . [SEP],ott,Enschede:3,0,Enschede:3,0,-2.58152
+[CLS] Grolsch:3 Brewery:2 központja:3 [MASK] található . [SEP],városban,Enschede:3,0,Enschede:3,0,-3.41523
+[CLS] Grolsch:3 Brewery:2 központja:3 [MASK] [MASK] található . [SEP],isban:2,Enschede:3,0,Enschede:3,0,-3.95182
 [CLS] Vattenfall:3 Nederland központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.00689
 [CLS] Vattenfall:3 Nederland központja:3 [MASK] [MASK] található . [SEP],város városban,Amszterdam:3,0,Amszterdam:3,0,-2.28594
-[CLS] TomTom:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.85180
+[CLS] Vattenfall:3 Nederland központja:3 [MASK] található . [SEP],ott,Amszterdam:3,0,Amszterdam:3,0,-2.75249
+[CLS] Vattenfall:3 Nederland központja:3 [MASK] található . [SEP],városban,Amszterdam:3,0,Amszterdam:3,0,-3.09574
+[CLS] Vattenfall:3 Nederland központja:3 [MASK] található . [SEP],van,Amszterdam:3,0,Amszterdam:3,0,-3.48067
+[CLS] TomTom:3 központja:3 [MASK] található . [SEP],is,Amszterdam:3,0,Amszterdam:3,0,-1.85179
 [CLS] TomTom:3 központja:3 [MASK] található . [SEP],alatt,Amszterdam:3,0,Amszterdam:3,0,-2.36036
-[CLS] Elsevier központja:3 [MASK] található . [SEP],is,Millennium Tower,0,Millennium Tower,0,-1.26638
+[CLS] TomTom:3 központja:3 [MASK] található . [SEP],itt,Amszterdam:3,0,Amszterdam:3,0,-2.51389
+[CLS] TomTom:3 központja:3 [MASK] található . [SEP],Budapesten,Amszterdam:3,0,Amszterdam:3,0,-2.98450
+[CLS] TomTom:3 központja:3 [MASK] található . [SEP],Magyarországon,Amszterdam:3,0,Amszterdam:3,0,-3.17896
+[CLS] Elsevier központja:3 [MASK] található . [SEP],is,Millennium Tower,0,Millennium Tower,0,-1.26637
 [CLS] Elsevier központja:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] található . [SEP],"az . , . .ában:2",Millennium Tower,0,Millennium Tower,0,-2.98402
+[CLS] Elsevier központja:3 [MASK] található . [SEP],",",Millennium Tower,0,Millennium Tower,0,-3.07353
+[CLS] Elsevier központja:3 [MASK] található . [SEP],itt,Millennium Tower,0,Millennium Tower,0,-3.29918
+[CLS] Elsevier központja:3 [MASK] található . [SEP],alatt,Millennium Tower,0,Millennium Tower,0,-3.50212
 [CLS] Sdu:2 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.59696
 [CLS] Sdu:2 központja:3 [MASK] található . [SEP],közelében,Hága:2,0,Hága:2,0,-2.40519
+[CLS] Sdu:2 központja:3 [MASK] található . [SEP],alatt,Hága:2,0,Hága:2,0,-2.54771
+[CLS] Sdu:2 központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-3.33207
+[CLS] Sdu:2 központja:3 [MASK] található . [SEP],városban,Hága:2,0,Hága:2,0,-3.55241
 [CLS] Landal:2 Greenparks:3 központja:3 [MASK] található . [SEP],is,Hága:2,0,Hága:2,0,-1.36748
 [CLS] Landal:2 Greenparks:3 központja:3 [MASK] található . [SEP],itt,Hága:2,0,Hága:2,0,-1.56333
-[CLS] Corbion:3 N . V . központja:3 [MASK] [MASK] [MASK] található . [SEP],Corbioában:3,Diemen:2,0,Diemen:2,0,-0.92162
-[CLS] Corbion:3 N . V . központja:3 [MASK] található . [SEP],itt,Diemen:2,0,Diemen:2,0,-2.29999
+[CLS] Landal:2 Greenparks:3 központja:3 [MASK] található . [SEP],##ban,Hága:2,0,Hága:2,0,-2.68121
+[CLS] Landal:2 Greenparks:3 központja:3 [MASK] található . [SEP],ott,Hága:2,0,Hága:2,0,-2.77418
+[CLS] Landal:2 Greenparks:3 központja:3 [MASK] található . [SEP],közelében,Hága:2,0,Hága:2,0,-3.18451
+[CLS] Corbion:3 N . V . központja:3 [MASK] [MASK] [MASK] található . [SEP],Corbioában:3,Diemen:2,0,Diemen:2,0,-0.92161
+[CLS] Corbion:3 N . V . központja:3 [MASK] található . [SEP],itt,Diemen:2,0,Diemen:2,0,-2.29998
+[CLS] Corbion:3 N . V . központja:3 [MASK] található . [SEP],alatt,Diemen:2,0,Diemen:2,0,-2.76881
+[CLS] Corbion:3 N . V . központja:3 [MASK] található . [SEP],közelében,Diemen:2,0,Diemen:2,0,-2.98783
+[CLS] Corbion:3 N . V . központja:3 [MASK] található . [SEP],ott,Diemen:2,0,Diemen:2,0,-3.05331

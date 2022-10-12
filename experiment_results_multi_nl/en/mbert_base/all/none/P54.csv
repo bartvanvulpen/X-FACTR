@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Vedad:2 Ibišević:4 speelt met [MASK] [MASK] . [SEP],de club,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-2.34251
-[CLS] Vedad:2 Ibišević:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en -en:2,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-3.18337
-[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] [MASK] . [SEP],des:2,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-2.57111
-[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de enen:2,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-3.28937
+[CLS] Vedad:2 Ibišević:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en -en:2,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-3.18336
+[CLS] Vedad:2 Ibišević:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het - in enn:2,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-3.71865
+[CLS] Vedad:2 Ibišević:4 speelt met [MASK] . [SEP],voetbal,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-3.99460
+[CLS] Vedad:2 Ibišević:4 speelt met [MASK] . [SEP],Sport,Chicago Fire U - 23,0,Chicago Fire U - 23,0,-4.00750
+[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] [MASK] . [SEP],des:2,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-2.57112
+[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de enen:2,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-3.28936
+[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van -e:2,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-3.63644
+[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] . [SEP],Baseball,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-3.73389
+[CLS] Oguchi:2 Onyewu:3 speelt met [MASK] . [SEP],basketball,RAA:2 Louviéroise:4,0,RAA:2 Louviéroise:4,0,-3.85794
 [CLS] Michael Bradley speelt met [MASK] [MASK] . [SEP],de Bradley,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-1.52715
-[CLS] Michael Bradley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.14251
-[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],PSV,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-2.46738
-[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],voetbal,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-2.80534
-[CLS] Brian McBride:3 speelt met [MASK] . [SEP],piano,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.40772
-[CLS] Brian McBride:3 speelt met [MASK] . [SEP],gitaar,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.96186
-[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Rally,0,Rally,0,-2.44932
-[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Rally,0,Rally,0,-3.21352
-[CLS] Scott Zwizanski:4 speelt met [MASK] [MASK] . [SEP],des:2,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-2.43689
+[CLS] Michael Bradley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.14250
+[CLS] Michael Bradley speelt met [MASK] . [SEP],Bradley,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.34893
+[CLS] Michael Bradley speelt met [MASK] . [SEP],hockey,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.49700
+[CLS] Michael Bradley speelt met [MASK] . [SEP],piano,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.87804
+[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],PSV,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-2.46739
+[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],voetbal,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-2.80533
+[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],Feyenoord,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-3.37258
+[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],football,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-3.73728
+[CLS] Foluke:3 Akinradewo:4 speelt met [MASK] . [SEP],basketball,Hisamitsu:3 Springs,0,Hisamitsu:3 Springs,0,-3.94018
+[CLS] Brian McBride:3 speelt met [MASK] . [SEP],piano,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.40773
+[CLS] Brian McBride:3 speelt met [MASK] . [SEP],gitaar,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.96185
+[CLS] Brian McBride:3 speelt met [MASK] . [SEP],muziek,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.29753
+[CLS] Brian McBride:3 speelt met [MASK] . [SEP],drums,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.56675
+[CLS] Brian McBride:3 speelt met [MASK] . [SEP],orgel,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.80031
+[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Rally,0,Rally,0,-2.44933
+[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Rally,0,Rally,0,-3.21351
+[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een de enen:2,Rally,0,Rally,0,-3.58970
+[CLS] Charles Bradley Huff:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . -t:2",Rally,0,Rally,0,-3.85772
+[CLS] Charles Bradley Huff:2 speelt met [MASK] . [SEP],dr,Rally,0,Rally,0,-4.17067
+[CLS] Scott Zwizanski:4 speelt met [MASK] [MASK] . [SEP],des:2,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-2.43690
 [CLS] Scott Zwizanski:4 speelt met [MASK] . [SEP],muziek,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-2.93517
-[CLS] Kasey:2 Keller speelt met [MASK] [MASK] . [SEP],des:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.65232
-[CLS] Kasey:2 Keller speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.05692
+[CLS] Scott Zwizanski:4 speelt met [MASK] . [SEP],basketball,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-3.49257
+[CLS] Scott Zwizanski:4 speelt met [MASK] . [SEP],hockey,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-3.65084
+[CLS] Scott Zwizanski:4 speelt met [MASK] . [SEP],band,Kodakgallery:4 . com - Sierra Nevada,0,Kodakgallery:4 . com - Sierra Nevada,0,-3.81775
+[CLS] Kasey:2 Keller speelt met [MASK] [MASK] . [SEP],des:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.65233
+[CLS] Kasey:2 Keller speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.05691
+[CLS] Kasey:2 Keller speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de een . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.52067
+[CLS] Kasey:2 Keller speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of een en",Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.72090
+[CLS] Kasey:2 Keller speelt met [MASK] . [SEP],muziek,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-4.21785
 [CLS] Claudio Reyna:2 speelt met [MASK] [MASK] . [SEP],dena:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.23075
-[CLS] Claudio Reyna:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .o:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.06578
-[CLS] Adrian Griffin speelt met [MASK] [MASK] . [SEP],de Griffin,Milwaukee Bucks,0,Milwaukee Bucks,0,-2.17067
-[CLS] Adrian Griffin speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.00768
+[CLS] Claudio Reyna:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .o:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.06577
+[CLS] Claudio Reyna:2 speelt met [MASK] . [SEP],basketball,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.45210
+[CLS] Claudio Reyna:2 speelt met [MASK] . [SEP],links,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.76438
+[CLS] Claudio Reyna:2 speelt met [MASK] . [SEP],handball,VfL Wolfsburg,0,VfL Wolfsburg,0,-4.04204
+[CLS] Adrian Griffin speelt met [MASK] [MASK] . [SEP],de Griffin,Milwaukee Bucks,0,Milwaukee Bucks,0,-2.17068
+[CLS] Adrian Griffin speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.00767
+[CLS] Adrian Griffin speelt met [MASK] . [SEP],hockey,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.43927
+[CLS] Adrian Griffin speelt met [MASK] . [SEP],basketball,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.61224
+[CLS] Adrian Griffin speelt met [MASK] . [SEP],cricket,Milwaukee Bucks,0,Milwaukee Bucks,0,-3.66661
 [CLS] Bjørn Selander:2 speelt met [MASK] [MASK] . [SEP],deen:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.51363
 [CLS] Bjørn Selander:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.99082
-[CLS] Ken Hanson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Rally,0,Rally,0,-2.43410
-[CLS] Ken Hanson speelt met [MASK] [MASK] . [SEP],heten:2,Rally,0,Rally,0,-3.11978
-[CLS] Alfredo Morales speelt met [MASK] . [SEP],voetbal,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-2.24973
-[CLS] Alfredo Morales speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . de .,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-2.93789
+[CLS] Bjørn Selander:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.42890
+[CLS] Bjørn Selander:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . -e:2",Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.84953
+[CLS] Bjørn Selander:2 speelt met [MASK] . [SEP],speelt,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.97031
+[CLS] Ken Hanson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Rally,0,Rally,0,-2.43411
+[CLS] Ken Hanson speelt met [MASK] [MASK] . [SEP],heten:2,Rally,0,Rally,0,-3.11977
+[CLS] Ken Hanson speelt met [MASK] [MASK] . [SEP],Kens:2,Rally,0,Rally,0,-3.24606
+[CLS] Ken Hanson speelt met [MASK] [MASK] . [SEP],zijn band,Rally,0,Rally,0,-3.90491
+[CLS] Ken Hanson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van of enen:2,Rally,0,Rally,0,-4.24999
+[CLS] Alfredo Morales speelt met [MASK] . [SEP],voetbal,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-2.24974
+[CLS] Alfredo Morales speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . de .,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-2.93788
+[CLS] Alfredo Morales speelt met [MASK] . [SEP],baseball,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-3.30593
+[CLS] Alfredo Morales speelt met [MASK] . [SEP],Baseball,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-3.37486
+[CLS] Alfredo Morales speelt met [MASK] . [SEP],football,FC Ingolstadt 04,0,FC Ingolstadt 04,0,-3.46194
 [CLS] Fabian Johnson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.39623
-[CLS] Fabian Johnson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.23258
+[CLS] Fabian Johnson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.23257
+[CLS] Fabian Johnson speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en . .,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.63161
+[CLS] Fabian Johnson speelt met [MASK] . [SEP],Basketball,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.86854
+[CLS] Fabian Johnson speelt met [MASK] . [SEP],voetbal,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-4.02325
 [CLS] Desmond Penigar:3 speelt met [MASK] [MASK] . [SEP],des:2,Al - Hilal:2,0,Al - Hilal:2,0,-2.66142
 [CLS] Desmond Penigar:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Al - Hilal:2,0,Al - Hilal:2,0,-3.25935
-[CLS] Terrence:2 Boyd speelt met [MASK] [MASK] . [SEP],des:2,Rapid Wien,0,Rapid Wien,0,-2.48326
+[CLS] Desmond Penigar:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van en .,Al - Hilal:2,0,Al - Hilal:2,0,-3.65886
+[CLS] Desmond Penigar:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een -r:2",Al - Hilal:2,0,Al - Hilal:2,0,-3.84992
+[CLS] Desmond Penigar:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en van of eene:2,Al - Hilal:2,0,Al - Hilal:2,0,-4.22494
+[CLS] Terrence:2 Boyd speelt met [MASK] [MASK] . [SEP],des:2,Rapid Wien,0,Rapid Wien,0,-2.48327
 [CLS] Terrence:2 Boyd speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en enen:2,Rapid Wien,0,Rapid Wien,0,-3.43138
-[CLS] Ansu:2 Sesay:2 speelt met [MASK] [MASK] . [SEP],des:2,Greenville:2 Groove,0,Greenville:2 Groove,0,-2.60440
-[CLS] Ansu:2 Sesay:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de deen:2,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.26935
-[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-2.70645
-[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] . [SEP],Mario Elis:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-3.04649
+[CLS] Terrence:2 Boyd speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van .e:2,Rapid Wien,0,Rapid Wien,0,-3.76905
+[CLS] Terrence:2 Boyd speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een - .",Rapid Wien,0,Rapid Wien,0,-3.95075
+[CLS] Terrence:2 Boyd speelt met [MASK] . [SEP],orgel,Rapid Wien,0,Rapid Wien,0,-4.13143
+[CLS] Ansu:2 Sesay:2 speelt met [MASK] [MASK] . [SEP],des:2,Greenville:2 Groove,0,Greenville:2 Groove,0,-2.60441
+[CLS] Ansu:2 Sesay:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de deen:2,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.26934
+[CLS] Ansu:2 Sesay:2 speelt met [MASK] . [SEP],judo,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.57575
+[CLS] Ansu:2 Sesay:2 speelt met [MASK] . [SEP],basketball,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.65301
+[CLS] Ansu:2 Sesay:2 speelt met [MASK] . [SEP],hockey,Greenville:2 Groove,0,Greenville:2 Groove,0,-3.89286
+[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .e:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-2.70646
+[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] . [SEP],Mario Elis:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-3.04648
+[CLS] Mario Elie:2 speelt met [MASK] . [SEP],voetbal,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-3.27958
+[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn de , eens:2",Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-3.71627
+[CLS] Mario Elie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: - . -en:2,Portland Trail Blazers:3,0,Portland Trail Blazers:3,0,-4.00841
 [CLS] Bryan Arguez:3 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de Ar des:2,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-2.53271
-[CLS] Bryan Arguez:3 speelt met [MASK] . [SEP],voetbal,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-3.20240
-[CLS] Djiby:3 Fall speelt met [MASK] [MASK] . [SEP],des:2,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-2.74201
-[CLS] Djiby:3 Fall speelt met [MASK] [MASK] [MASK] . [SEP],D .en:2,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-3.28106
-[CLS] Chad Deering:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Deering:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.47088
-[CLS] Chad Deering:2 speelt met [MASK] [MASK] . [SEP],Deers:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.92598
+[CLS] Bryan Arguez:3 speelt met [MASK] . [SEP],voetbal,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-3.20239
+[CLS] Bryan Arguez:3 speelt met [MASK] . [SEP],hockey,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-3.40363
+[CLS] Bryan Arguez:3 speelt met [MASK] . [SEP],Baseball,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-4.02264
+[CLS] Bryan Arguez:3 speelt met [MASK] . [SEP],Sport,Hertha:2 BSC:2 II,0,Hertha:2 BSC:2 II,0,-4.16180
+[CLS] Djiby:3 Fall speelt met [MASK] [MASK] . [SEP],des:2,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-2.74202
+[CLS] Djiby:3 Fall speelt met [MASK] [MASK] [MASK] . [SEP],D .en:2,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-3.28105
+[CLS] Djiby:3 Fall speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een . - Fall,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-3.67318
+[CLS] Djiby:3 Fall speelt met [MASK] . [SEP],badminton,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-3.93656
+[CLS] Djiby:3 Fall speelt met [MASK] . [SEP],hockey,Lokomotiv:2 Moskou,0,Lokomotiv:2 Moskou,0,-4.05740
+[CLS] Chad Deering:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Deering:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.47089
+[CLS] Chad Deering:2 speelt met [MASK] [MASK] . [SEP],Deers:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.92597
+[CLS] Chad Deering:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het de -en:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.67951
+[CLS] Chad Deering:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . -en:2",VfL Wolfsburg,0,VfL Wolfsburg,0,-4.10918
+[CLS] Chad Deering:2 speelt met [MASK] . [SEP],muziek,VfL Wolfsburg,0,VfL Wolfsburg,0,-4.18250
 [CLS] Michael Friedman speelt met [MASK] . [SEP],piano,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-2.18824
-[CLS] Michael Friedman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , en des:2",EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.30150
-[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-2.37703
-[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-3.20027
+[CLS] Michael Friedman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , en des:2",EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.30149
+[CLS] Michael Friedman speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en -en:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.72888
+[CLS] Michael Friedman speelt met [MASK] [MASK] . [SEP],Michaelen:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.92895
+[CLS] Michael Friedman speelt met [MASK] [MASK] . [SEP],zijnn:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-4.15972
+[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de de des:2,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-2.37704
+[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-3.20026
+[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en .e:2,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-3.69686
+[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , als entie:2",Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-4.02254
+[CLS] Reggie Freeman speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijns:2 of een op,Stal Ostrów:2 Wielkopolski:3,0,Stal Ostrów:2 Wielkopolski:3,0,-4.18787
 [CLS] Benjamin King speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-2.32527
-[CLS] Benjamin King speelt met [MASK] [MASK] . [SEP],Benjamin muziek,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.10998
-[CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.39676
+[CLS] Benjamin King speelt met [MASK] [MASK] . [SEP],Benjamin muziek,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.10997
+[CLS] Benjamin King speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en ofe:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.61823
+[CLS] Benjamin King speelt met [MASK] [MASK] . [SEP],zijnen:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.82427
+[CLS] Benjamin King speelt met [MASK] [MASK] . [SEP],muziking:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-4.02209
+[CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-2.39677
 [CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en . .,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.17691
-[CLS] Kamani:2 Hill speelt met [MASK] . [SEP],hockey,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.35652
-[CLS] Kamani:2 Hill speelt met [MASK] [MASK] [MASK] . [SEP],demanis:3,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.07662
-[CLS] Joey Rosskopf:2 speelt met [MASK] [MASK] . [SEP],deen:2,BMC Racing,0,BMC Racing,0,-2.28152
-[CLS] Joey Rosskopf:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .en:2,BMC Racing,0,BMC Racing,0,-3.12769
-[CLS] John Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,BMC Racing,0,BMC Racing,0,-2.33125
-[CLS] John Murphy speelt met [MASK] [MASK] . [SEP],Johns:2,BMC Racing,0,BMC Racing,0,-3.16798
-[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] [MASK] [MASK] . [SEP],de -s:2,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-2.40271
-[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] . [SEP],PSV,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-3.00926
+[CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , als ene:2",Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.79123
+[CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de van -en:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-3.99224
+[CLS] John Anthony Brooks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van . vantie:2,Hertha:2 BSC:2,0,Hertha:2 BSC:2,0,-4.22481
+[CLS] Kamani:2 Hill speelt met [MASK] . [SEP],hockey,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.35653
+[CLS] Kamani:2 Hill speelt met [MASK] [MASK] [MASK] . [SEP],demanis:3,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.07661
+[CLS] Kamani:2 Hill speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . dee:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.76680
+[CLS] Kamani:2 Hill speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.96091
+[CLS] Kamani:2 Hill speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],Ka - vane:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-4.11632
+[CLS] Joey Rosskopf:2 speelt met [MASK] [MASK] . [SEP],deen:2,BMC Racing,0,BMC Racing,0,-2.28153
+[CLS] Joey Rosskopf:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .en:2,BMC Racing,0,BMC Racing,0,-3.12768
+[CLS] Joey Rosskopf:2 speelt met [MASK] . [SEP],zang,BMC Racing,0,BMC Racing,0,-3.54552
+[CLS] Joey Rosskopf:2 speelt met [MASK] . [SEP],gitaar,BMC Racing,0,BMC Racing,0,-3.56127
+[CLS] Joey Rosskopf:2 speelt met [MASK] . [SEP],drums,BMC Racing,0,BMC Racing,0,-3.79748
+[CLS] John Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,BMC Racing,0,BMC Racing,0,-2.33126
+[CLS] John Murphy speelt met [MASK] [MASK] . [SEP],Johns:2,BMC Racing,0,BMC Racing,0,-3.16797
+[CLS] John Murphy speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en ofen:2,BMC Racing,0,BMC Racing,0,-3.65660
+[CLS] John Murphy speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],John van van .,BMC Racing,0,BMC Racing,0,-3.97714
+[CLS] John Murphy speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn als eening:2,BMC Racing,0,BMC Racing,0,-4.14531
+[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] [MASK] [MASK] . [SEP],de -s:2,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-2.40272
+[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] . [SEP],PSV,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-3.00925
+[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] . [SEP],links,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-3.29034
+[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] . [SEP],Feyenoord,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-3.71658
+[CLS] Mahmoud:3 Abdul - Rauf:2 speelt met [MASK] . [SEP],AZ,Fenerbahçe Ülker:3,0,Fenerbahçe Ülker:3,0,-3.91313
 [CLS] Danny Pate:2 speelt met [MASK] [MASK] . [SEP],deen:2,Saeco:2,0,Saeco:2,0,-2.48110
 [CLS] Danny Pate:2 speelt met [MASK] [MASK] . [SEP],hets:2,Saeco:2,0,Saeco:2,0,-3.25513
+[CLS] Danny Pate:2 speelt met [MASK] [MASK] [MASK] . [SEP],Danny dee:2,Saeco:2,0,Saeco:2,0,-3.51035
+[CLS] Danny Pate:2 speelt met [MASK] [MASK] [MASK] . [SEP],een enn:2,Saeco:2,0,Saeco:2,0,-4.03334
+[CLS] Danny Pate:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van van eeno:2,Saeco:2,0,Saeco:2,0,-4.25242
 [CLS] Luis Flores speelt met [MASK] . [SEP],voetbal,Golden State Warriors,0,Golden State Warriors,0,-2.02920
-[CLS] Luis Flores speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Golden State Warriors,0,Golden State Warriors,0,-3.03963
-[CLS] Desmond Armstrong speelt met [MASK] . [SEP],piano,Maryland Bays:2,0,Maryland Bays:2,0,-2.41464
-[CLS] Desmond Armstrong speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Maryland Bays:2,0,Maryland Bays:2,0,-2.91000
-[CLS] Julian Kyer:2 speelt met [MASK] [MASK] . [SEP],deer:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.52909
-[CLS] Julian Kyer:2 speelt met [MASK] . [SEP],muziek,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.84574
-[CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.67560
+[CLS] Luis Flores speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Golden State Warriors,0,Golden State Warriors,0,-3.03962
+[CLS] Luis Flores speelt met [MASK] . [SEP],basketball,Golden State Warriors,0,Golden State Warriors,0,-3.47573
+[CLS] Luis Flores speelt met [MASK] . [SEP],tennis,Golden State Warriors,0,Golden State Warriors,0,-3.66535
+[CLS] Luis Flores speelt met [MASK] . [SEP],muziek,Golden State Warriors,0,Golden State Warriors,0,-3.70739
+[CLS] Desmond Armstrong speelt met [MASK] . [SEP],piano,Maryland Bays:2,0,Maryland Bays:2,0,-2.41465
+[CLS] Desmond Armstrong speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Maryland Bays:2,0,Maryland Bays:2,0,-2.90999
+[CLS] Desmond Armstrong speelt met [MASK] . [SEP],muziek,Maryland Bays:2,0,Maryland Bays:2,0,-3.22099
+[CLS] Desmond Armstrong speelt met [MASK] . [SEP],drums,Maryland Bays:2,0,Maryland Bays:2,0,-3.22170
+[CLS] Desmond Armstrong speelt met [MASK] . [SEP],orgel,Maryland Bays:2,0,Maryland Bays:2,0,-3.35463
+[CLS] Julian Kyer:2 speelt met [MASK] [MASK] . [SEP],deer:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.52910
+[CLS] Julian Kyer:2 speelt met [MASK] . [SEP],muziek,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.84573
+[CLS] Julian Kyer:2 speelt met [MASK] [MASK] . [SEP],hets:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.44049
+[CLS] Julian Kyer:2 speelt met [MASK] [MASK] [MASK] . [SEP],zijn -ers:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.74218
+[CLS] Julian Kyer:2 speelt met [MASK] [MASK] . [SEP],muzikers:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-4.16752
+[CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-2.67561
 [CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] . [SEP],O -en:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.19179
-[CLS] Eric Young speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . en de .,Rally,0,Rally,0,-2.50046
+[CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van - .,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.66177
+[CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],John de -t:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-3.88689
+[CLS] John O ' Brien speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van enl:2,ADO:2 Den Haag,0,ADO:2 Den Haag,0,-4.01845
+[CLS] Eric Young speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . en de .,Rally,0,Rally,0,-2.50047
 [CLS] Eric Young speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .s:2,Rally,0,Rally,0,-3.07253
-[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] . [SEP],des:2,Borussia Dortmund,0,Borussia Dortmund,0,-2.59982
-[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en -en:2,Borussia Dortmund,0,Borussia Dortmund,0,-3.04228
-[CLS] Michael Creed speelt met [MASK] [MASK] . [SEP],Michael Creed,Discovery Channel,0,Discovery Channel,0,-2.26449
+[CLS] Eric Young speelt met [MASK] . [SEP],muziek,Rally,0,Rally,0,-3.55203
+[CLS] Eric Young speelt met [MASK] . [SEP],orgel,Rally,0,Rally,0,-3.70461
+[CLS] Eric Young speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van . oftie:2,Rally,0,Rally,0,-4.16649
+[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] . [SEP],des:2,Borussia Dortmund,0,Borussia Dortmund,0,-2.59983
+[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en -en:2,Borussia Dortmund,0,Borussia Dortmund,0,-3.04227
+[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het . een enn:2,Borussia Dortmund,0,Borussia Dortmund,0,-3.44984
+[CLS] Jovan:2 Kirovski:3 speelt met [MASK] [MASK] [MASK] . [SEP],Ki .k:2,Borussia Dortmund,0,Borussia Dortmund,0,-3.79165
+[CLS] Jovan:2 Kirovski:3 speelt met [MASK] . [SEP],links,Borussia Dortmund,0,Borussia Dortmund,0,-4.10884
+[CLS] Michael Creed speelt met [MASK] [MASK] . [SEP],Michael Creed,Discovery Channel,0,Discovery Channel,0,-2.26450
 [CLS] Michael Creed speelt met [MASK] [MASK] . [SEP],des:2,Discovery Channel,0,Discovery Channel,0,-3.26761
-[CLS] Gale Agbossoumonde:5 speelt met [MASK] [MASK] . [SEP],des:2,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-2.25026
-[CLS] Gale Agbossoumonde:5 speelt met [MASK] [MASK] . [SEP],heten:2,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-3.25598
-[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Astana,0,Astana,0,-2.59036
-[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] . [SEP],zijn .man:2,Astana,0,Astana,0,-3.25415
-[CLS] Brandon Armstrong speelt met [MASK] . [SEP],Baseball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.39572
-[CLS] Brandon Armstrong speelt met [MASK] . [SEP],basketball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.79815
-[CLS] Frank Williams speelt met [MASK] [MASK] . [SEP],de Williams,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-1.65431
-[CLS] Frank Williams speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-3.05307
-[CLS] Eric Riley speelt met [MASK] [MASK] . [SEP],de Riley,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-1.94567
-[CLS] Eric Riley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-3.03651
+[CLS] Michael Creed speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en en .,Discovery Channel,0,Discovery Channel,0,-3.74861
+[CLS] Michael Creed speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , , of Creed",Discovery Channel,0,Discovery Channel,0,-3.98693
+[CLS] Michael Creed speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],Michael of of en,Discovery Channel,0,Discovery Channel,0,-4.22434
+[CLS] Gale Agbossoumonde:5 speelt met [MASK] [MASK] . [SEP],des:2,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-2.25027
+[CLS] Gale Agbossoumonde:5 speelt met [MASK] [MASK] . [SEP],heten:2,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-3.25597
+[CLS] Gale Agbossoumonde:5 speelt met [MASK] . [SEP],muziek,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-3.34105
+[CLS] Gale Agbossoumonde:5 speelt met [MASK] [MASK] [MASK] . [SEP],het inbal:2,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-3.84802
+[CLS] Gale Agbossoumonde:5 speelt met [MASK] . [SEP],links,Djurgårdens:4 IF,0,Djurgårdens:4 IF,0,-4.08856
+[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Astana,0,Astana,0,-2.59037
+[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] . [SEP],zijn .man:2,Astana,0,Astana,0,-3.25414
+[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn . een en .,Astana,0,Astana,0,-3.56409
+[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , van eenman:2",Astana,0,Astana,0,-3.86109
+[CLS] Evan Huffman:3 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],hem van vant:2,Astana,0,Astana,0,-4.17411
+[CLS] Brandon Armstrong speelt met [MASK] . [SEP],Baseball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.39573
+[CLS] Brandon Armstrong speelt met [MASK] . [SEP],basketball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.79814
+[CLS] Brandon Armstrong speelt met [MASK] . [SEP],baseball,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-2.99635
+[CLS] Brandon Armstrong speelt met [MASK] . [SEP],hockey,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-3.08662
+[CLS] Brandon Armstrong speelt met [MASK] . [SEP],voetbal,Brooklyn Nets:2,0,Brooklyn Nets:2,0,-4.05356
+[CLS] Frank Williams speelt met [MASK] [MASK] . [SEP],de Williams,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-1.65432
+[CLS] Frank Williams speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-3.05306
+[CLS] Frank Williams speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een de ent:2,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-3.57565
+[CLS] Frank Williams speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . een op,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-4.04926
+[CLS] Frank Williams speelt met [MASK] . [SEP],gitaar,Club Ciclista:3 Olímpico,0,Club Ciclista:3 Olímpico,0,-4.20845
+[CLS] Eric Riley speelt met [MASK] [MASK] . [SEP],de Riley,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-1.94568
+[CLS] Eric Riley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-3.03650
+[CLS] Eric Riley speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een en . .,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-3.66676
+[CLS] Eric Riley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . of en",Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-4.04463
+[CLS] Eric Riley speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van of eeno:2,Minnesota Timberwolves:4,0,Minnesota Timberwolves:4,0,-4.28328
 [CLS] Jesse Anthony speelt met [MASK] [MASK] . [SEP],de Anthony,Team Novo Nordisk,0,Team Novo Nordisk,0,-1.97403
-[CLS] Jesse Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de en .s:2,Team Novo Nordisk,0,Team Novo Nordisk,0,-3.40697
-[CLS] Justin Spinelli:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Spinelli:2,TVM:2,0,TVM:2,0,-2.42444
+[CLS] Jesse Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de en .s:2,Team Novo Nordisk,0,Team Novo Nordisk,0,-3.40696
+[CLS] Jesse Anthony speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een van -o:2,Team Novo Nordisk,0,Team Novo Nordisk,0,-3.93282
+[CLS] Jesse Anthony speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en ene:2,Team Novo Nordisk,0,Team Novo Nordisk,0,-4.19343
+[CLS] Jesse Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],:o:2 een een D,Team Novo Nordisk,0,Team Novo Nordisk,0,-4.44030
+[CLS] Justin Spinelli:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Spinelli:2,TVM:2,0,TVM:2,0,-2.42445
 [CLS] Justin Spinelli:2 speelt met [MASK] . [SEP],muziek,TVM:2,0,TVM:2,0,-3.24337
-[CLS] Matthew Busche:2 speelt met [MASK] [MASK] . [SEP],dee:2,Rally,0,Rally,0,-2.31152
-[CLS] Matthew Busche:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .e:2,Rally,0,Rally,0,-3.11679
-[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Rapid Wien,0,Rapid Wien,0,-2.46231
-[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,Rapid Wien,0,Rapid Wien,0,-3.24852
-[CLS] Mike Lapper:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Lapper:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.40884
-[CLS] Mike Lapper:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.26537
-[CLS] Nathan Brown speelt met [MASK] [MASK] . [SEP],de Brown,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-1.96052
-[CLS] Nathan Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .s:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.08244
+[CLS] Justin Spinelli:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de een enelli:2,TVM:2,0,TVM:2,0,-3.64497
+[CLS] Justin Spinelli:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , van vano:2",TVM:2,0,TVM:2,0,-3.93230
+[CLS] Justin Spinelli:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en van of een ),TVM:2,0,TVM:2,0,-4.15827
+[CLS] Matthew Busche:2 speelt met [MASK] [MASK] . [SEP],dee:2,Rally,0,Rally,0,-2.31153
+[CLS] Matthew Busche:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .e:2,Rally,0,Rally,0,-3.11678
+[CLS] Matthew Busche:2 speelt met [MASK] [MASK] [MASK] . [SEP],een -en:2,Rally,0,Rally,0,-3.47758
+[CLS] Matthew Busche:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn de , en .",Rally,0,Rally,0,-3.88472
+[CLS] Matthew Busche:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en van of eent:2,Rally,0,Rally,0,-4.30386
+[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Rapid Wien,0,Rapid Wien,0,-2.46232
+[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,Rapid Wien,0,Rapid Wien,0,-3.24851
+[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een enen:2,Rapid Wien,0,Rapid Wien,0,-3.66896
+[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , van -e:2",Rapid Wien,0,Rapid Wien,0,-4.09560
+[CLS] Matt Luzunaris:3 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn in in s,Rapid Wien,0,Rapid Wien,0,-4.24289
+[CLS] Mike Lapper:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Lapper:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.40885
+[CLS] Mike Lapper:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.26536
+[CLS] Mike Lapper:2 speelt met [MASK] . [SEP],muziek,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.40453
+[CLS] Mike Lapper:2 speelt met [MASK] [MASK] . [SEP],eenen:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.87436
+[CLS] Mike Lapper:2 speelt met [MASK] [MASK] . [SEP],Des:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-4.09218
+[CLS] Nathan Brown speelt met [MASK] [MASK] . [SEP],de Brown,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-1.96053
+[CLS] Nathan Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .s:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.08243
+[CLS] Nathan Brown speelt met [MASK] . [SEP],Baseball,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.61627
+[CLS] Nathan Brown speelt met [MASK] . [SEP],baseball,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.79397
+[CLS] Nathan Brown speelt met [MASK] . [SEP],muziek,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.79569
 [CLS] Eddy Hamel:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Hamel:2,AFC Ajax,0,AFC Ajax,0,-2.07593
-[CLS] Eddy Hamel:2 speelt met [MASK] . [SEP],voetbal,AFC Ajax,0,AFC Ajax,0,-2.62093
+[CLS] Eddy Hamel:2 speelt met [MASK] . [SEP],voetbal,AFC Ajax,0,AFC Ajax,0,-2.62092
+[CLS] Eddy Hamel:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een -en:2,AFC Ajax,0,AFC Ajax,0,-3.52770
+[CLS] Eddy Hamel:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. en en eene:2,AFC Ajax,0,AFC Ajax,0,-3.84097
+[CLS] Eddy Hamel:2 speelt met [MASK] . [SEP],basketball,AFC Ajax,0,AFC Ajax,0,-4.06199
 [CLS] Tyler Magner:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-2.63063
 [CLS] Tyler Magner:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .en:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.32109
+[CLS] Tyler Magner:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.63321
+[CLS] Tyler Magner:2 speelt met [MASK] [MASK] [MASK] . [SEP],Tyler deer:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.91085
+[CLS] Tyler Magner:2 speelt met [MASK] [MASK] [MASK] . [SEP],zijn Magn:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-4.24068
 [CLS] Alex Candelario:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-2.73464
 [CLS] Alex Candelario:3 speelt met [MASK] . [SEP],voetbal,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.19609
-[CLS] Lydia Vandenbergh:4 speelt met [MASK] [MASK] . [SEP],des:2,Central SC Cobras:2,0,Central SC Cobras:2,0,-2.48753
+[CLS] Alex Candelario:3 speelt met [MASK] . [SEP],piano,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.20262
+[CLS] Alex Candelario:3 speelt met [MASK] . [SEP],basketball,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.31370
+[CLS] Alex Candelario:3 speelt met [MASK] . [SEP],hockey,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.52153
+[CLS] Lydia Vandenbergh:4 speelt met [MASK] [MASK] . [SEP],des:2,Central SC Cobras:2,0,Central SC Cobras:2,0,-2.48754
 [CLS] Lydia Vandenbergh:4 speelt met [MASK] . [SEP],zang,Central SC Cobras:2,0,Central SC Cobras:2,0,-3.28499
-[CLS] Chad Haga:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Haga:2,Team DSM,0,Team DSM,0,-2.32807
+[CLS] Lydia Vandenbergh:4 speelt met [MASK] . [SEP],muziek,Central SC Cobras:2,0,Central SC Cobras:2,0,-3.40597
+[CLS] Lydia Vandenbergh:4 speelt met [MASK] . [SEP],kinderen,Central SC Cobras:2,0,Central SC Cobras:2,0,-3.63289
+[CLS] Lydia Vandenbergh:4 speelt met [MASK] . [SEP],R,Central SC Cobras:2,0,Central SC Cobras:2,0,-3.76385
+[CLS] Chad Haga:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Haga:2,Team DSM,0,Team DSM,0,-2.32808
 [CLS] Chad Haga:2 speelt met [MASK] . [SEP],hockey,Team DSM,0,Team DSM,0,-3.10388
-[CLS] Tiffany Weimer:2 speelt met [MASK] . [SEP],piano,Santos FC,0,Santos FC,0,-2.33246
-[CLS] Tiffany Weimer:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de de .,Santos FC,0,Santos FC,0,-3.17526
+[CLS] Chad Haga:2 speelt met [MASK] . [SEP],basketball,Team DSM,0,Team DSM,0,-3.52763
+[CLS] Chad Haga:2 speelt met [MASK] . [SEP],football,Team DSM,0,Team DSM,0,-3.95883
+[CLS] Chad Haga:2 speelt met [MASK] . [SEP],muziek,Team DSM,0,Team DSM,0,-4.06618
+[CLS] Tiffany Weimer:2 speelt met [MASK] . [SEP],piano,Santos FC,0,Santos FC,0,-2.33247
+[CLS] Tiffany Weimer:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de de .,Santos FC,0,Santos FC,0,-3.17525
+[CLS] Tiffany Weimer:2 speelt met [MASK] [MASK] [MASK] . [SEP],een .er:2,Santos FC,0,Santos FC,0,-3.60924
+[CLS] Tiffany Weimer:2 speelt met [MASK] . [SEP],kinderen,Santos FC,0,Santos FC,0,-4.01309
+[CLS] Tiffany Weimer:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"en van , ofe:2",Santos FC,0,Santos FC,0,-4.25828
 [CLS] Gavin Mannion:2 speelt met [MASK] . [SEP],piano,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-2.35393
 [CLS] Gavin Mannion:2 speelt met [MASK] . [SEP],muziek,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.04566
-[CLS] Jeremiah:3 White speelt met [MASK] [MASK] . [SEP],des:2,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-2.66315
-[CLS] Jeremiah:3 White speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .en:2,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-3.36283
-[CLS] Mike Hercus:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Hercus:2,Sale Sharks,0,Sale Sharks,0,-2.50462
-[CLS] Mike Hercus:2 speelt met [MASK] [MASK] . [SEP],hetcus:2,Sale Sharks,0,Sale Sharks,0,-3.25193
-[CLS] Paul Emerick:3 speelt met [MASK] [MASK] . [SEP],deen:2,Dragons,0,Dragons,0,-2.31320
-[CLS] Paul Emerick:3 speelt met [MASK] [MASK] . [SEP],hets:2,Dragons,0,Dragons,0,-3.04707
-[CLS] Aaron Swinson:3 speelt met [MASK] [MASK] [MASK] . [SEP],Swinson:3,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-2.51832
-[CLS] Aaron Swinson:3 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-2.74876
-[CLS] Ben Davis speelt met [MASK] [MASK] . [SEP],Ben Davis,Idaho Stampede:3,0,Idaho Stampede:3,0,-0.71978
-[CLS] Ben Davis speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de een . .,Idaho Stampede:3,0,Idaho Stampede:3,0,-3.22817
-[CLS] Billy Keys speelt met [MASK] [MASK] . [SEP],de Keys,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-1.16156
+[CLS] Gavin Mannion:2 speelt met [MASK] . [SEP],gitaar,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.06604
+[CLS] Gavin Mannion:2 speelt met [MASK] . [SEP],zang,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.47489
+[CLS] Gavin Mannion:2 speelt met [MASK] . [SEP],orgel,Jelly:2 Belly:2 - Maxxis:2,0,Jelly:2 Belly:2 - Maxxis:2,0,-3.74771
+[CLS] Jeremiah:3 White speelt met [MASK] [MASK] . [SEP],des:2,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-2.66316
+[CLS] Jeremiah:3 White speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .en:2,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-3.36282
+[CLS] Jeremiah:3 White speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of - .",MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-3.66057
+[CLS] Jeremiah:3 White speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de van ene:2,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-3.92058
+[CLS] Jeremiah:3 White speelt met [MASK] . [SEP],band,MGS:2 Panserraikos:4,0,MGS:2 Panserraikos:4,0,-4.16590
+[CLS] Mike Hercus:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Hercus:2,Sale Sharks,0,Sale Sharks,0,-2.50463
+[CLS] Mike Hercus:2 speelt met [MASK] [MASK] . [SEP],hetcus:2,Sale Sharks,0,Sale Sharks,0,-3.25192
+[CLS] Mike Hercus:2 speelt met [MASK] . [SEP],muziek,Sale Sharks,0,Sale Sharks,0,-3.36683
+[CLS] Mike Hercus:2 speelt met [MASK] [MASK] . [SEP],eens:2,Sale Sharks,0,Sale Sharks,0,-3.92836
+[CLS] Mike Hercus:2 speelt met [MASK] [MASK] . [SEP],Her muziek,Sale Sharks,0,Sale Sharks,0,-4.23020
+[CLS] Paul Emerick:3 speelt met [MASK] [MASK] . [SEP],deen:2,Dragons,0,Dragons,0,-2.31321
+[CLS] Paul Emerick:3 speelt met [MASK] [MASK] . [SEP],hets:2,Dragons,0,Dragons,0,-3.04706
+[CLS] Paul Emerick:3 speelt met [MASK] . [SEP],muziek,Dragons,0,Dragons,0,-3.19505
+[CLS] Paul Emerick:3 speelt met [MASK] . [SEP],gitaar,Dragons,0,Dragons,0,-3.81753
+[CLS] Paul Emerick:3 speelt met [MASK] . [SEP],zang,Dragons,0,Dragons,0,-3.97492
+[CLS] Aaron Swinson:3 speelt met [MASK] [MASK] [MASK] . [SEP],Swinson:3,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-2.51833
+[CLS] Aaron Swinson:3 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-2.74875
+[CLS] Aaron Swinson:3 speelt met [MASK] . [SEP],Baseball,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-3.51919
+[CLS] Aaron Swinson:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een en en",CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-3.85543
+[CLS] Aaron Swinson:3 speelt met [MASK] . [SEP],baseball,CB Villa de Los Barrios,0,CB Villa de Los Barrios,0,-4.05986
+[CLS] Ben Davis speelt met [MASK] [MASK] . [SEP],Ben Davis,Idaho Stampede:3,0,Idaho Stampede:3,0,-0.71979
+[CLS] Ben Davis speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de een . .,Idaho Stampede:3,0,Idaho Stampede:3,0,-3.22816
+[CLS] Ben Davis speelt met [MASK] . [SEP],basketball,Idaho Stampede:3,0,Idaho Stampede:3,0,-3.42969
+[CLS] Ben Davis speelt met [MASK] . [SEP],piano,Idaho Stampede:3,0,Idaho Stampede:3,0,-3.81835
+[CLS] Ben Davis speelt met [MASK] . [SEP],baseball,Idaho Stampede:3,0,Idaho Stampede:3,0,-4.05306
+[CLS] Billy Keys speelt met [MASK] [MASK] . [SEP],de Keys,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-1.16157
 [CLS] Billy Keys speelt met [MASK] . [SEP],gitaar,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-2.47362
+[CLS] Billy Keys speelt met [MASK] . [SEP],zang,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-3.31259
+[CLS] Billy Keys speelt met [MASK] . [SEP],muziek,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-3.53474
+[CLS] Billy Keys speelt met [MASK] . [SEP],drums,Fargo - Moorhead:2 Beez:2,0,Fargo - Moorhead:2 Beez:2,0,-3.62873
 [CLS] Rodney Monroe speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-2.34089
-[CLS] Rodney Monroe speelt met [MASK] [MASK] . [SEP],des:2,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-3.12616
-[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] . [SEP],des:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-2.60891
-[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn . en .en:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.49305
-[CLS] Sylvester Norris ( basketball ) speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-2.69238
+[CLS] Rodney Monroe speelt met [MASK] [MASK] . [SEP],des:2,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-3.12615
+[CLS] Rodney Monroe speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het van -e:2,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-3.71070
+[CLS] Rodney Monroe speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of eno:2",Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-3.96330
+[CLS] Rodney Monroe speelt met [MASK] . [SEP],basketball,Keravnos:3 B . C .,0,Keravnos:3 B . C .,0,-4.06299
+[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] . [SEP],des:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-2.60892
+[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn . en .en:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.49304
+[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en een ener:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.71004
+[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het van van -t:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-4.05587
+[CLS] Roscoe:2 Pondexter:3 speelt met [MASK] [MASK] [MASK] . [SEP],zijn alsn:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-4.23779
+[CLS] Sylvester Norris ( basketball ) speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-2.69239
 [CLS] Sylvester Norris ( basketball ) speelt met [MASK] . [SEP],baseball,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.04274
-[CLS] Alex Ely:2 speelt met [MASK] . [SEP],hockey,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-2.42363
-[CLS] Alex Ely:2 speelt met [MASK] . [SEP],basketball,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-2.95378
-[CLS] D . J . Countess speelt met [MASK] [MASK] [MASK] . [SEP],D . J,Provincial Osorno:2,0,Provincial Osorno:2,0,-1.37584
+[CLS] Sylvester Norris ( basketball ) speelt met [MASK] . [SEP],basketball,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.33883
+[CLS] Sylvester Norris ( basketball ) speelt met [MASK] . [SEP],Raleigh,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-3.34227
+[CLS] Sylvester Norris ( basketball ) speelt met [MASK] . [SEP],MLB,Roseto:2 Sharks,0,Roseto:2 Sharks,0,-4.30270
+[CLS] Alex Ely:2 speelt met [MASK] . [SEP],hockey,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-2.42364
+[CLS] Alex Ely:2 speelt met [MASK] . [SEP],basketball,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-2.95377
+[CLS] Alex Ely:2 speelt met [MASK] . [SEP],voetbal,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-3.03092
+[CLS] Alex Ely:2 speelt met [MASK] . [SEP],piano,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-3.85057
+[CLS] Alex Ely:2 speelt met [MASK] . [SEP],muziek,Philadelphia Spartans:2,0,Philadelphia Spartans:2,0,-3.96829
+[CLS] D . J . Countess speelt met [MASK] [MASK] [MASK] . [SEP],D . J,Provincial Osorno:2,0,Provincial Osorno:2,0,-1.37585
 [CLS] D . J . Countess speelt met [MASK] . [SEP],R,Provincial Osorno:2,0,Provincial Osorno:2,0,-3.44807
-[CLS] Danny Barrera:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-2.54340
+[CLS] D . J . Countess speelt met [MASK] [MASK] [MASK] . [SEP],R ens:2,Provincial Osorno:2,0,Provincial Osorno:2,0,-3.74837
+[CLS] D . J . Countess speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het de van J,Provincial Osorno:2,0,Provincial Osorno:2,0,-4.01021
+[CLS] D . J . Countess speelt met [MASK] . [SEP],Dr,Provincial Osorno:2,0,Provincial Osorno:2,0,-4.18684
+[CLS] Danny Barrera:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-2.54341
 [CLS] Danny Barrera:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .o:2,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-3.26219
-[CLS] David Quesada:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-2.65911
-[CLS] David Quesada:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en . .,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-3.47332
-[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-2.52350
-[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en - club,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-3.16857
+[CLS] Danny Barrera:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-3.74962
+[CLS] Danny Barrera:2 speelt met [MASK] [MASK] [MASK] . [SEP],Danny eno:2,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-4.00371
+[CLS] Danny Barrera:2 speelt met [MASK] . [SEP],muziek,Sacramento USL:2 Pro team,0,Sacramento USL:2 Pro team,0,-4.08576
+[CLS] David Quesada:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-2.65912
+[CLS] David Quesada:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en . .,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-3.47331
+[CLS] David Quesada:2 speelt met [MASK] . [SEP],gitaar,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-3.67696
+[CLS] David Quesada:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het van een -o:2,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-3.93136
+[CLS] David Quesada:2 speelt met [MASK] . [SEP],hockey,Los Angeles Galaxy,0,Los Angeles Galaxy,0,-4.36822
+[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-2.52351
+[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en - club,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-3.16856
+[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en een . B,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-3.45398
+[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: - . enen:2,FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-3.90191
+[CLS] Ivan Mršić:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , in een speelt",FK Pelister:2 Bitola:2,0,FK Pelister:2 Bitola:2,0,-4.03050
 [CLS] Korab:2 Syla:2 speelt met [MASK] [MASK] . [SEP],des:2,KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-2.41147
-[CLS] Korab:2 Syla:2 speelt met [MASK] . [SEP],basketball,KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-3.15226
-[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-2.77816
-[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en de enen:2,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-3.37279
-[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,New England Revolution,0,New England Revolution,0,-2.61383
-[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,New England Revolution,0,New England Revolution,0,-3.46566
-[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,CF Montréal,0,CF Montréal,0,-2.33167
-[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,CF Montréal,0,CF Montréal,0,-2.84727
-[CLS] Phillip Gaimon:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-2.69789
-[CLS] Phillip Gaimon:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.30009
-[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Botafogo FR,0,Botafogo FR,0,-2.60155
-[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: de en .en:2,Botafogo FR,0,Botafogo FR,0,-3.22916
-[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.59956
-[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .en:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.32201
+[CLS] Korab:2 Syla:2 speelt met [MASK] . [SEP],basketball,KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-3.15225
+[CLS] Korab:2 Syla:2 speelt met [MASK] . [SEP],voetbal,KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-3.42176
+[CLS] Korab:2 Syla:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , . - .",KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-3.81741
+[CLS] Korab:2 Syla:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn - een een en,KF:2 Kukësi:3,0,KF:2 Kukësi:3,0,-4.19708
+[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-2.77817
+[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en de enen:2,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-3.37278
+[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] . [SEP],basketball,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-3.63213
+[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] . [SEP],bl,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-3.98251
+[CLS] Ladule:3 Lako:2 LoSarah:4 speelt met [MASK] . [SEP],badminton,FK Bregalnica:3 Štip:2,0,FK Bregalnica:3 Štip:2,0,-4.18130
+[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,New England Revolution,0,New England Revolution,0,-2.61384
+[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,New England Revolution,0,New England Revolution,0,-3.46565
+[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van enen:2,New England Revolution,0,New England Revolution,0,-3.75269
+[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] . [SEP],een enn:2,New England Revolution,0,New England Revolution,0,-4.07501
+[CLS] Matt Okoh:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],en in .n:2,New England Revolution,0,New England Revolution,0,-4.39749
+[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,CF Montréal,0,CF Montréal,0,-2.33168
+[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,CF Montréal,0,CF Montréal,0,-2.84726
+[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en enen:2,CF Montréal,0,CF Montréal,0,-3.40890
+[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , een en en",CF Montréal,0,CF Montréal,0,-3.74829
+[CLS] Nigel Henry speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],R of ofe:2,CF Montréal,0,CF Montréal,0,-4.20904
+[CLS] Phillip Gaimon:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-2.69790
+[CLS] Phillip Gaimon:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.30008
+[CLS] Phillip Gaimon:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.59011
+[CLS] Phillip Gaimon:2 speelt met [MASK] . [SEP],muziek,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.74450
+[CLS] Phillip Gaimon:2 speelt met [MASK] . [SEP],piano,EF Education First Pro Cycling,0,EF Education First Pro Cycling,0,-3.84930
+[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Botafogo FR,0,Botafogo FR,0,-2.60156
+[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: de en .en:2,Botafogo FR,0,Botafogo FR,0,-3.22915
+[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en . en .,Botafogo FR,0,Botafogo FR,0,-3.60213
+[CLS] Windsor del Llano speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],eens:2 van -o:2,Botafogo FR,0,Botafogo FR,0,-3.78534
+[CLS] Windsor del Llano speelt met [MASK] . [SEP],R,Botafogo FR,0,Botafogo FR,0,-4.11667
+[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] . [SEP],de .s:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.59957
+[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .en:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.32200
+[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . enn:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.66241
+[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"haar , van - s",VfL Wolfsburg,0,VfL Wolfsburg,0,-4.10148
+[CLS] Nancy Augustyniak:3 Goffi:2 speelt met [MASK] . [SEP],s,VfL Wolfsburg,0,VfL Wolfsburg,0,-4.20617
 [CLS] Kenneth Kronholm:3 speelt met [MASK] [MASK] [MASK] . [SEP],Kronholm:3,Hansa Rostock,0,Hansa Rostock,0,-1.77401
-[CLS] Kenneth Kronholm:3 speelt met [MASK] . [SEP],voetbal,Hansa Rostock,0,Hansa Rostock,0,-3.04029
-[CLS] Carter Jones speelt met [MASK] [MASK] . [SEP],de Jones,Team DSM,0,Team DSM,0,-1.92505
-[CLS] Carter Jones speelt met [MASK] [MASK] . [SEP],hets:2,Team DSM,0,Team DSM,0,-3.23514
-[CLS] Garrett Muagututia:4 speelt met [MASK] [MASK] . [SEP],des:2,Sporting Lissabon,0,Sporting Lissabon,0,-2.71137
+[CLS] Kenneth Kronholm:3 speelt met [MASK] . [SEP],voetbal,Hansa Rostock,0,Hansa Rostock,0,-3.04028
+[CLS] Kenneth Kronholm:3 speelt met [MASK] . [SEP],basketball,Hansa Rostock,0,Hansa Rostock,0,-3.37376
+[CLS] Kenneth Kronholm:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . eent:2",Hansa Rostock,0,Hansa Rostock,0,-4.06522
+[CLS] Kenneth Kronholm:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - van ene:2,Hansa Rostock,0,Hansa Rostock,0,-4.22882
+[CLS] Carter Jones speelt met [MASK] [MASK] . [SEP],de Jones,Team DSM,0,Team DSM,0,-1.92506
+[CLS] Carter Jones speelt met [MASK] [MASK] . [SEP],hets:2,Team DSM,0,Team DSM,0,-3.23513
+[CLS] Carter Jones speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en . .,Team DSM,0,Team DSM,0,-3.64137
+[CLS] Carter Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , . en op",Team DSM,0,Team DSM,0,-4.00094
+[CLS] Carter Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijns:2 of -en:2,Team DSM,0,Team DSM,0,-4.34952
+[CLS] Garrett Muagututia:4 speelt met [MASK] [MASK] . [SEP],des:2,Sporting Lissabon,0,Sporting Lissabon,0,-2.71138
 [CLS] Garrett Muagututia:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Sporting Lissabon,0,Sporting Lissabon,0,-3.42967
+[CLS] Garrett Muagututia:4 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van -a:2,Sporting Lissabon,0,Sporting Lissabon,0,-3.66277
+[CLS] Garrett Muagututia:4 speelt met [MASK] . [SEP],muziek,Sporting Lissabon,0,Sporting Lissabon,0,-3.82540
+[CLS] Garrett Muagututia:4 speelt met [MASK] . [SEP],voetbal,Sporting Lissabon,0,Sporting Lissabon,0,-3.87651
 [CLS] Karel Blitz speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,AFC Ajax,0,AFC Ajax,0,-2.39162
-[CLS] Karel Blitz speelt met [MASK] . [SEP],piano,AFC Ajax,0,AFC Ajax,0,-3.05037
-[CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,SE Palmeiras,0,SE Palmeiras,0,-2.62198
+[CLS] Karel Blitz speelt met [MASK] . [SEP],piano,AFC Ajax,0,AFC Ajax,0,-3.05036
+[CLS] Karel Blitz speelt met [MASK] . [SEP],gitaar,AFC Ajax,0,AFC Ajax,0,-3.42001
+[CLS] Karel Blitz speelt met [MASK] [MASK] . [SEP],het gitaar,AFC Ajax,0,AFC Ajax,0,-3.71294
+[CLS] Karel Blitz speelt met [MASK] . [SEP],fl,AFC Ajax,0,AFC Ajax,0,-4.10595
+[CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,SE Palmeiras,0,SE Palmeiras,0,-2.62199
 [CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,SE Palmeiras,0,SE Palmeiras,0,-3.30781
-[CLS] Natalie Hagglund:3 speelt met [MASK] . [SEP],piano,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-2.51228
-[CLS] Natalie Hagglund:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .en:2,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-3.24647
-[CLS] Bruno Bonicontro:4 speelt met [MASK] [MASK] . [SEP],des:2,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-2.59456
-[CLS] Bruno Bonicontro:4 speelt met [MASK] . [SEP],voetbal,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-2.98490
-[CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-2.41727
+[CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een - .,SE Palmeiras,0,SE Palmeiras,0,-3.53248
+[CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . eent:2",SE Palmeiras,0,SE Palmeiras,0,-4.05654
+[CLS] Tyrone Curnell:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],met van van ene:2,SE Palmeiras,0,SE Palmeiras,0,-4.15957
+[CLS] Natalie Hagglund:3 speelt met [MASK] . [SEP],piano,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-2.51229
+[CLS] Natalie Hagglund:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .en:2,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-3.24646
+[CLS] Natalie Hagglund:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-3.66233
+[CLS] Natalie Hagglund:3 speelt met [MASK] . [SEP],kinderen,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-3.92100
+[CLS] Natalie Hagglund:3 speelt met [MASK] . [SEP],zang,Voléro:2 Zürich,0,Voléro:2 Zürich,0,-3.96148
+[CLS] Bruno Bonicontro:4 speelt met [MASK] [MASK] . [SEP],des:2,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-2.59457
+[CLS] Bruno Bonicontro:4 speelt met [MASK] . [SEP],voetbal,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-2.98489
+[CLS] Bruno Bonicontro:4 speelt met [MASK] . [SEP],piano,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-3.15897
+[CLS] Bruno Bonicontro:4 speelt met [MASK] . [SEP],basketball,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-3.69748
+[CLS] Bruno Bonicontro:4 speelt met [MASK] . [SEP],hockey,Ipatinga:3 FC,0,Ipatinga:3 FC,0,-3.74091
+[CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-2.41728
 [CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.31139
-[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Lupus:2 Racing,0,Lupus:2 Racing,0,-2.36106
-[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . .s:2,Lupus:2 Racing,0,Lupus:2 Racing,0,-3.32240
-[CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.87641
+[CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en .e:2,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-3.73744
+[CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van en .,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-4.06817
+[CLS] Robin Carpenter speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van . een op,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,Holowesko:3 - Citadel:3 - Hincapie:3 Sportswear:2,0,-4.25326
+[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Lupus:2 Racing,0,Lupus:2 Racing,0,-2.36107
+[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . .s:2,Lupus:2 Racing,0,Lupus:2 Racing,0,-3.32239
+[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het van -e:2,Lupus:2 Racing,0,Lupus:2 Racing,0,-3.71806
+[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en eenen:2,Lupus:2 Racing,0,Lupus:2 Racing,0,-4.12420
+[CLS] Kyle Murphy speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van van een D,Lupus:2 Racing,0,Lupus:2 Racing,0,-4.34575
+[CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.87642
 [CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .en:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.46189
-[CLS] Stephen Bassett:2 speelt met [MASK] . [SEP],piano,Jamis:2,0,Jamis:2,0,-2.50351
-[CLS] Stephen Bassett:2 speelt met [MASK] . [SEP],gitaar,Jamis:2,0,Jamis:2,0,-2.87250
-[CLS] Colin Joyce speelt met [MASK] [MASK] . [SEP],de Joyce,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.34561
-[CLS] Colin Joyce speelt met [MASK] . [SEP],gitaar,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.97649
+[CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn . een enn:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.75468
+[CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het met van - .,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-4.00870
+[CLS] Keegan:2 Swirbul:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],met van in int:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-4.12608
+[CLS] Stephen Bassett:2 speelt met [MASK] . [SEP],piano,Jamis:2,0,Jamis:2,0,-2.50352
+[CLS] Stephen Bassett:2 speelt met [MASK] . [SEP],gitaar,Jamis:2,0,Jamis:2,0,-2.87249
+[CLS] Stephen Bassett:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of enen:2",Jamis:2,0,Jamis:2,0,-3.50425
+[CLS] Stephen Bassett:2 speelt met [MASK] . [SEP],muziek,Jamis:2,0,Jamis:2,0,-3.57322
+[CLS] Stephen Bassett:2 speelt met [MASK] [MASK] . [SEP],heten:2,Jamis:2,0,Jamis:2,0,-3.94509
+[CLS] Colin Joyce speelt met [MASK] [MASK] . [SEP],de Joyce,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.34562
+[CLS] Colin Joyce speelt met [MASK] . [SEP],gitaar,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-2.97648
+[CLS] Colin Joyce speelt met [MASK] . [SEP],muziek,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.13731
+[CLS] Colin Joyce speelt met [MASK] . [SEP],zang,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-3.90962
+[CLS] Colin Joyce speelt met [MASK] [MASK] . [SEP],eenen:2,Axeon:3 - Hagens:2 Berman:2,0,Axeon:3 - Hagens:2 Berman:2,0,-4.28539
 [CLS] Emerson Oronte:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . en des:2,Rally,0,Rally,0,-2.74513
-[CLS] Emerson Oronte:2 speelt met [MASK] . [SEP],voetbal,Rally,0,Rally,0,-2.97750
-[CLS] Brandon McNulty:5 speelt met [MASK] [MASK] . [SEP],des:2,Rally,0,Rally,0,-2.56748
-[CLS] Brandon McNulty:5 speelt met [MASK] . [SEP],basketball,Rally,0,Rally,0,-3.20348
-[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] [MASK] . [SEP],des:2,SE Palmeiras,0,SE Palmeiras,0,-2.49110
-[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] . [SEP],voetbal,SE Palmeiras,0,SE Palmeiras,0,-3.16413
-[CLS] Sepp:2 Kuss:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],dep:2 des:2,Rally,0,Rally,0,-2.25393
-[CLS] Sepp:2 Kuss:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Rally,0,Rally,0,-3.07366
-[CLS] Hannah Keane speelt met [MASK] [MASK] . [SEP],de Keane,SC Braga,0,SC Braga,0,-1.73915
-[CLS] Hannah Keane speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van .s:2,SC Braga,0,SC Braga,0,-3.42364
-[CLS] Graham Smith speelt met [MASK] [MASK] . [SEP],de Smith,Reading United A . C .,0,Reading United A . C .,0,-2.17137
+[CLS] Emerson Oronte:2 speelt met [MASK] . [SEP],voetbal,Rally,0,Rally,0,-2.97749
+[CLS] Emerson Oronte:2 speelt met [MASK] . [SEP],basketball,Rally,0,Rally,0,-3.34639
+[CLS] Emerson Oronte:2 speelt met [MASK] . [SEP],PSV,Rally,0,Rally,0,-3.53849
+[CLS] Emerson Oronte:2 speelt met [MASK] . [SEP],Sport,Rally,0,Rally,0,-3.90458
+[CLS] Brandon McNulty:5 speelt met [MASK] [MASK] . [SEP],des:2,Rally,0,Rally,0,-2.56749
+[CLS] Brandon McNulty:5 speelt met [MASK] . [SEP],basketball,Rally,0,Rally,0,-3.20347
+[CLS] Brandon McNulty:5 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van .t:2,Rally,0,Rally,0,-3.67873
+[CLS] Brandon McNulty:5 speelt met [MASK] . [SEP],voetbal,Rally,0,Rally,0,-3.81931
+[CLS] Brandon McNulty:5 speelt met [MASK] . [SEP],Baseball,Rally,0,Rally,0,-3.92632
+[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] [MASK] . [SEP],des:2,SE Palmeiras,0,SE Palmeiras,0,-2.49111
+[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] . [SEP],voetbal,SE Palmeiras,0,SE Palmeiras,0,-3.16412
+[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een ene:2,SE Palmeiras,0,SE Palmeiras,0,-3.68994
+[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] . [SEP],basketball,SE Palmeiras,0,SE Palmeiras,0,-3.94858
+[CLS] Antwaine:3 Wiggins:2 speelt met [MASK] . [SEP],PSV,SE Palmeiras,0,SE Palmeiras,0,-4.06492
+[CLS] Sepp:2 Kuss:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],dep:2 des:2,Rally,0,Rally,0,-2.25394
+[CLS] Sepp:2 Kuss:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Rally,0,Rally,0,-3.07365
+[CLS] Sepp:2 Kuss:2 speelt met [MASK] . [SEP],voetbal,Rally,0,Rally,0,-3.50460
+[CLS] Sepp:2 Kuss:2 speelt met [MASK] . [SEP],Feyenoord,Rally,0,Rally,0,-3.78109
+[CLS] Sepp:2 Kuss:2 speelt met [MASK] . [SEP],links,Rally,0,Rally,0,-3.86648
+[CLS] Hannah Keane speelt met [MASK] [MASK] . [SEP],de Keane,SC Braga,0,SC Braga,0,-1.73916
+[CLS] Hannah Keane speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van .s:2,SC Braga,0,SC Braga,0,-3.42363
+[CLS] Hannah Keane speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het . vane:2,SC Braga,0,SC Braga,0,-3.70185
+[CLS] Hannah Keane speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van .en:2,SC Braga,0,SC Braga,0,-3.96102
+[CLS] Hannah Keane speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . een de",SC Braga,0,SC Braga,0,-4.16573
+[CLS] Graham Smith speelt met [MASK] [MASK] . [SEP],de Smith,Reading United A . C .,0,Reading United A . C .,0,-2.17138
 [CLS] Graham Smith speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Reading United A . C .,0,Reading United A . C .,0,-2.93974
-[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] . [SEP],des:2,Aevolo:3,0,Aevolo:3,0,-2.45154
-[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Aevolo:3,0,Aevolo:3,0,-3.10004
-[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] . [SEP],des:2,Jong Ajax,0,Jong Ajax,0,-2.33849
-[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .s:2,Jong Ajax,0,Jong Ajax,0,-3.18778
-[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] . [SEP],deen:2,Aevolo:3,0,Aevolo:3,0,-2.10688
-[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] . [SEP],hets:2,Aevolo:3,0,Aevolo:3,0,-3.21615
+[CLS] Graham Smith speelt met [MASK] . [SEP],piano,Reading United A . C .,0,Reading United A . C .,0,-3.30701
+[CLS] Graham Smith speelt met [MASK] . [SEP],voetbal,Reading United A . C .,0,Reading United A . C .,0,-3.38819
+[CLS] Graham Smith speelt met [MASK] . [SEP],band,Reading United A . C .,0,Reading United A . C .,0,-3.72982
+[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] . [SEP],des:2,Aevolo:3,0,Aevolo:3,0,-2.45155
+[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Aevolo:3,0,Aevolo:3,0,-3.10003
+[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . en .,Aevolo:3,0,Aevolo:3,0,-3.47546
+[CLS] Gage:2 Hecht:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een -n:2",Aevolo:3,0,Aevolo:3,0,-3.90156
+[CLS] Gage:2 Hecht:2 speelt met [MASK] . [SEP],ko,Aevolo:3,0,Aevolo:3,0,-3.98877
+[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] . [SEP],des:2,Jong Ajax,0,Jong Ajax,0,-2.33850
+[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .s:2,Jong Ajax,0,Jong Ajax,0,-3.18777
+[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , . enen:2",Jong Ajax,0,Jong Ajax,0,-3.66646
+[CLS] Sergiño:3 Dest:2 speelt met [MASK] [MASK] . [SEP],een clubs,Jong Ajax,0,Jong Ajax,0,-4.01202
+[CLS] Sergiño:3 Dest:2 speelt met [MASK] . [SEP],bl,Jong Ajax,0,Jong Ajax,0,-4.25531
+[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] . [SEP],deen:2,Aevolo:3,0,Aevolo:3,0,-2.10689
+[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] . [SEP],hets:2,Aevolo:3,0,Aevolo:3,0,-3.21614
+[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een - .,Aevolo:3,0,Aevolo:3,0,-3.64902
+[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , van eene:2",Aevolo:3,0,Aevolo:3,0,-3.94790
+[CLS] Riley Sheenan:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],haaren:2 of en muziek,Aevolo:3,0,Aevolo:3,0,-4.23254
 [CLS] Tyler Stites:2 speelt met [MASK] [MASK] . [SEP],des:2,Aevolo:3,0,Aevolo:3,0,-2.59437
-[CLS] Tyler Stites:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Aevolo:3,0,Aevolo:3,0,-3.13822
-[CLS] Magnus Sheffield speelt met [MASK] [MASK] . [SEP],de Sheffield,Rally,0,Rally,0,-1.60570
+[CLS] Tyler Stites:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Aevolo:3,0,Aevolo:3,0,-3.13821
+[CLS] Tyler Stites:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , of enen:2",Aevolo:3,0,Aevolo:3,0,-3.68476
+[CLS] Tyler Stites:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . of ),Aevolo:3,0,Aevolo:3,0,-3.87739
+[CLS] Tyler Stites:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van van eene:2,Aevolo:3,0,Aevolo:3,0,-4.15658
+[CLS] Magnus Sheffield speelt met [MASK] [MASK] . [SEP],de Sheffield,Rally,0,Rally,0,-1.60571
 [CLS] Magnus Sheffield speelt met [MASK] . [SEP],voetbal,Rally,0,Rally,0,-2.98523
-[CLS] Johnny Cardoso speelt met [MASK] . [SEP],piano,SC Internacional,0,SC Internacional,0,-2.01392
-[CLS] Johnny Cardoso speelt met [MASK] . [SEP],gitaar,SC Internacional,0,SC Internacional,0,-3.20761
-[CLS] Tony Woodcock:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Arsenal FC,0,Arsenal FC,0,-2.38378
-[CLS] Tony Woodcock:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Arsenal FC,0,Arsenal FC,0,-3.15186
+[CLS] Magnus Sheffield speelt met [MASK] . [SEP],Sheffield,Rally,0,Rally,0,-3.21485
+[CLS] Magnus Sheffield speelt met [MASK] . [SEP],PSV,Rally,0,Rally,0,-3.54184
+[CLS] Magnus Sheffield speelt met [MASK] . [SEP],Hockey,Rally,0,Rally,0,-3.77594
+[CLS] Johnny Cardoso speelt met [MASK] . [SEP],piano,SC Internacional,0,SC Internacional,0,-2.01393
+[CLS] Johnny Cardoso speelt met [MASK] . [SEP],gitaar,SC Internacional,0,SC Internacional,0,-3.20760
+[CLS] Johnny Cardoso speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],heto:2 en ens:2,SC Internacional,0,SC Internacional,0,-3.65651
+[CLS] Johnny Cardoso speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en . eene:2,SC Internacional,0,SC Internacional,0,-3.91274
+[CLS] Johnny Cardoso speelt met [MASK] [MASK] . [SEP],eena:2,SC Internacional,0,SC Internacional,0,-4.21900
+[CLS] Tony Woodcock:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Arsenal FC,0,Arsenal FC,0,-2.38379
+[CLS] Tony Woodcock:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Arsenal FC,0,Arsenal FC,0,-3.15185
+[CLS] Tony Woodcock:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of -en:2,Arsenal FC,0,Arsenal FC,0,-3.45061
+[CLS] Tony Woodcock:2 speelt met [MASK] . [SEP],hockey,Arsenal FC,0,Arsenal FC,0,-3.94044
+[CLS] Tony Woodcock:2 speelt met [MASK] . [SEP],drums,Arsenal FC,0,Arsenal FC,0,-4.00109
 [CLS] Shaun Wright - Phillips speelt met [MASK] [MASK] . [SEP],des:2,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-2.48780
-[CLS] Shaun Wright - Phillips speelt met [MASK] . [SEP],hockey,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-2.96681
-[CLS] Harry Welfare speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-2.54598
-[CLS] Harry Welfare speelt met [MASK] . [SEP],voetbal,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-3.05442
+[CLS] Shaun Wright - Phillips speelt met [MASK] . [SEP],hockey,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-2.96680
+[CLS] Shaun Wright - Phillips speelt met [MASK] . [SEP],voetbal,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-3.31354
+[CLS] Shaun Wright - Phillips speelt met [MASK] . [SEP],basketball,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-3.94110
+[CLS] Shaun Wright - Phillips speelt met [MASK] . [SEP],men,Queens Park Rangers FC,0,Queens Park Rangers FC,0,-4.08448
+[CLS] Harry Welfare speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de . .,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-2.54599
+[CLS] Harry Welfare speelt met [MASK] . [SEP],voetbal,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-3.05441
+[CLS] Harry Welfare speelt met [MASK] [MASK] . [SEP],hetw:2,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-3.76725
+[CLS] Harry Welfare speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],: van een .,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-4.22376
+[CLS] Harry Welfare speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: en een -o:2,Northern Nomads:2 F . C .,0,Northern Nomads:2 F . C .,0,-4.33965
 [CLS] Susie:2 Wolff speelt met [MASK] [MASK] . [SEP],des:2,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-2.62513
 [CLS] Susie:2 Wolff speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en een .e:2,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-3.65115
+[CLS] Susie:2 Wolff speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en en .,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-3.81404
+[CLS] Susie:2 Wolff speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],haar van van eenen:2,Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-4.02675
+[CLS] Susie:2 Wolff speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , op - op",Mücke:2 Motorsport,0,Mücke:2 Motorsport,0,-4.32984
 [CLS] Mark Fotheringham:4 speelt met [MASK] [MASK] . [SEP],des:2,Dundee FC,0,Dundee FC,0,-2.58571
-[CLS] Mark Fotheringham:4 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een de des:2,Dundee FC,0,Dundee FC,0,-3.21660
+[CLS] Mark Fotheringham:4 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een de des:2,Dundee FC,0,Dundee FC,0,-3.21659
+[CLS] Mark Fotheringham:4 speelt met [MASK] . [SEP],hockey,Dundee FC,0,Dundee FC,0,-3.54752
+[CLS] Mark Fotheringham:4 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],F - int:2,Dundee FC,0,Dundee FC,0,-4.00146
+[CLS] Mark Fotheringham:4 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en .ers:2,Dundee FC,0,Dundee FC,0,-4.33063
 [CLS] Kevin Kerr speelt met [MASK] . [SEP],hockey,Pittsburgh Riverhounds:3,0,Pittsburgh Riverhounds:3,0,-1.98693
 [CLS] Kevin Kerr speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Pittsburgh Riverhounds:3,0,Pittsburgh Riverhounds:3,0,-3.02828
-[CLS] Gareth Cooper speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.08488
+[CLS] Kevin Kerr speelt met [MASK] . [SEP],tennis,Pittsburgh Riverhounds:3,0,Pittsburgh Riverhounds:3,0,-3.54686
+[CLS] Kevin Kerr speelt met [MASK] . [SEP],badminton,Pittsburgh Riverhounds:3,0,Pittsburgh Riverhounds:3,0,-3.70395
+[CLS] Kevin Kerr speelt met [MASK] . [SEP],basketball,Pittsburgh Riverhounds:3,0,Pittsburgh Riverhounds:3,0,-3.73971
+[CLS] Gareth Cooper speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.08489
 [CLS] Gareth Cooper speelt met [MASK] . [SEP],clubs,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33241
-[CLS] Luke Charteris:2 speelt met [MASK] [MASK] . [SEP],des:2,USA Perpignan:3,0,USA Perpignan:3,0,-2.20630
-[CLS] Luke Charteris:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,USA Perpignan:3,0,USA Perpignan:3,0,-3.22176
-[CLS] Andy Powell speelt met [MASK] [MASK] . [SEP],de Powell,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-1.85925
-[CLS] Andy Powell speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.17618
-[CLS] Darren Mackie:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Mackie:2,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-2.52611
-[CLS] Darren Mackie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .ie:2,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-3.20388
-[CLS] Lloyd Burns speelt met [MASK] [MASK] . [SEP],de Burns,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.84952
+[CLS] Gareth Cooper speelt met [MASK] . [SEP],cricket,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.52969
+[CLS] Gareth Cooper speelt met [MASK] . [SEP],football,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.71519
+[CLS] Gareth Cooper speelt met [MASK] . [SEP],tennis,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.73683
+[CLS] Luke Charteris:2 speelt met [MASK] [MASK] . [SEP],des:2,USA Perpignan:3,0,USA Perpignan:3,0,-2.20631
+[CLS] Luke Charteris:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,USA Perpignan:3,0,USA Perpignan:3,0,-3.22175
+[CLS] Luke Charteris:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of enis:2,USA Perpignan:3,0,USA Perpignan:3,0,-3.62587
+[CLS] Luke Charteris:2 speelt met [MASK] . [SEP],voetbal,USA Perpignan:3,0,USA Perpignan:3,0,-3.71909
+[CLS] Luke Charteris:2 speelt met [MASK] . [SEP],hockey,USA Perpignan:3,0,USA Perpignan:3,0,-3.89094
+[CLS] Andy Powell speelt met [MASK] [MASK] . [SEP],de Powell,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-1.85926
+[CLS] Andy Powell speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en des:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.17617
+[CLS] Andy Powell speelt met [MASK] . [SEP],drums,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.49311
+[CLS] Andy Powell speelt met [MASK] . [SEP],band,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.51052
+[CLS] Andy Powell speelt met [MASK] . [SEP],muziek,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-4.04189
+[CLS] Darren Mackie:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Mackie:2,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-2.52612
+[CLS] Darren Mackie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .ie:2,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-3.20387
+[CLS] Darren Mackie:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het de -en:2,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-3.59544
+[CLS] Darren Mackie:2 speelt met [MASK] . [SEP],voetbal,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-3.88267
+[CLS] Darren Mackie:2 speelt met [MASK] . [SEP],piano,Inverness:3 Caledonian:2 Thistle:2 FC,0,Inverness:3 Caledonian:2 Thistle:2 FC,0,-4.20182
+[CLS] Lloyd Burns speelt met [MASK] [MASK] . [SEP],de Burns,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.84953
 [CLS] Lloyd Burns speelt met [MASK] . [SEP],Burns,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.96925
+[CLS] Lloyd Burns speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en - .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.63384
+[CLS] Lloyd Burns speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , een op op",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.98190
+[CLS] Lloyd Burns speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],R of en muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.25134
 [CLS] Ian Gough:2 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.48242
-[CLS] Ian Gough:2 speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.06934
-[CLS] Brian O ' Neil speelt met [MASK] [MASK] . [SEP],de band,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.32192
-[CLS] Brian O ' Neil speelt met [MASK] [MASK] [MASK] . [SEP],de .en:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.04807
+[CLS] Ian Gough:2 speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.06933
+[CLS] Ian Gough:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of eenen:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.52058
+[CLS] Ian Gough:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een ene:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.83167
+[CLS] Ian Gough:2 speelt met [MASK] . [SEP],zang,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.19656
+[CLS] Brian O ' Neil speelt met [MASK] [MASK] . [SEP],de band,VfL Wolfsburg,0,VfL Wolfsburg,0,-2.32193
+[CLS] Brian O ' Neil speelt met [MASK] [MASK] [MASK] . [SEP],de .en:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.04806
+[CLS] Brian O ' Neil speelt met [MASK] [MASK] . [SEP],zijns:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.61781
+[CLS] Brian O ' Neil speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het van enn:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.76284
+[CLS] Brian O ' Neil speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],Brian de ine:2,VfL Wolfsburg,0,VfL Wolfsburg,0,-3.97844
 [CLS] Colin Charvis:3 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.48812
-[CLS] Colin Charvis:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.21162
-[CLS] Gareth Wyatt speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.55740
-[CLS] Gareth Wyatt speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.98167
-[CLS] Michael Owen ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in ins:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.93827
-[CLS] Michael Owen ( rugby player ) speelt met [MASK] . [SEP],PSV,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.28015
-[CLS] Colin Bell speelt met [MASK] [MASK] . [SEP],de Bell,Leicester City FC,0,Leicester City FC,0,-1.96860
-[CLS] Colin Bell speelt met [MASK] . [SEP],voetbal,Leicester City FC,0,Leicester City FC,0,-2.95542
+[CLS] Colin Charvis:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.21161
+[CLS] Colin Charvis:3 speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.58579
+[CLS] Colin Charvis:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een -e:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.89702
+[CLS] Colin Charvis:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en van van een ),Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.19882
+[CLS] Gareth Wyatt speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de en de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.55741
+[CLS] Gareth Wyatt speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.98166
+[CLS] Gareth Wyatt speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.63401
+[CLS] Gareth Wyatt speelt met [MASK] . [SEP],basketball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.82899
+[CLS] Gareth Wyatt speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.83110
+[CLS] Michael Owen ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in ins:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.93828
+[CLS] Michael Owen ( rugby player ) speelt met [MASK] . [SEP],PSV,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.28014
+[CLS] Michael Owen ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Rs:2 de den:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.84632
+[CLS] Michael Owen ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],O de op -en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.07456
+[CLS] Michael Owen ( rugby player ) speelt met [MASK] [MASK] . [SEP],Owenwen:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.19569
+[CLS] Colin Bell speelt met [MASK] [MASK] . [SEP],de Bell,Leicester City FC,0,Leicester City FC,0,-1.96861
+[CLS] Colin Bell speelt met [MASK] . [SEP],voetbal,Leicester City FC,0,Leicester City FC,0,-2.95541
+[CLS] Colin Bell speelt met [MASK] . [SEP],muziek,Leicester City FC,0,Leicester City FC,0,-3.40646
+[CLS] Colin Bell speelt met [MASK] . [SEP],hockey,Leicester City FC,0,Leicester City FC,0,-3.59868
+[CLS] Colin Bell speelt met [MASK] . [SEP],tennis,Leicester City FC,0,Leicester City FC,0,-3.65040
 [CLS] Dan Lydiate:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.59143
-[CLS] Dan Lydiate:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.37639
-[CLS] Jim Blair speelt met [MASK] [MASK] . [SEP],de Blair,Hibernian:3 FC,0,Hibernian:3 FC,0,-1.98471
-[CLS] Jim Blair speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Hibernian:3 FC,0,Hibernian:3 FC,0,-3.37079
-[CLS] Lee Byrne speelt met [MASK] [MASK] . [SEP],de Byrne,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.85012
-[CLS] Lee Byrne speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33514
-[CLS] Eric Dier:2 speelt met [MASK] [MASK] . [SEP],der:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-2.22263
-[CLS] Eric Dier:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-3.39982
-[CLS] Mark Farrington:2 speelt met [MASK] [MASK] . [SEP],derington:2,Willem II,0,Willem II,0,-1.45439
-[CLS] Mark Farrington:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en . .,Willem II,0,Willem II,0,-3.27422
+[CLS] Dan Lydiate:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.37638
+[CLS] Dan Lydiate:2 speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.58577
+[CLS] Dan Lydiate:2 speelt met [MASK] [MASK] [MASK] . [SEP],een Lit:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.91755
+[CLS] Dan Lydiate:2 speelt met [MASK] . [SEP],m,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.20505
+[CLS] Jim Blair speelt met [MASK] [MASK] . [SEP],de Blair,Hibernian:3 FC,0,Hibernian:3 FC,0,-1.98472
+[CLS] Jim Blair speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Hibernian:3 FC,0,Hibernian:3 FC,0,-3.37078
+[CLS] Jim Blair speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het van ofen:2,Hibernian:3 FC,0,Hibernian:3 FC,0,-3.68249
+[CLS] Jim Blair speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en vane:2,Hibernian:3 FC,0,Hibernian:3 FC,0,-4.00047
+[CLS] Jim Blair speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van als eeno:2,Hibernian:3 FC,0,Hibernian:3 FC,0,-4.25649
+[CLS] Lee Byrne speelt met [MASK] [MASK] . [SEP],de Byrne,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.85013
+[CLS] Lee Byrne speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33513
+[CLS] Lee Byrne speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.59347
+[CLS] Lee Byrne speelt met [MASK] . [SEP],zang,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.60443
+[CLS] Lee Byrne speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.69166
+[CLS] Eric Dier:2 speelt met [MASK] [MASK] . [SEP],der:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-2.22264
+[CLS] Eric Dier:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-3.39981
+[CLS] Eric Dier:2 speelt met [MASK] [MASK] [MASK] . [SEP],het .n:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-3.67574
+[CLS] Eric Dier:2 speelt met [MASK] [MASK] [MASK] . [SEP],een ener:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-3.96024
+[CLS] Eric Dier:2 speelt met [MASK] [MASK] . [SEP],Det:2,Sporting Clube de Portugal B,0,Sporting Clube de Portugal B,0,-4.15149
+[CLS] Mark Farrington:2 speelt met [MASK] [MASK] . [SEP],derington:2,Willem II,0,Willem II,0,-1.45440
+[CLS] Mark Farrington:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en . .,Willem II,0,Willem II,0,-3.27421
+[CLS] Mark Farrington:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en in - club,Willem II,0,Willem II,0,-3.43753
+[CLS] Mark Farrington:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],": , of enen:2",Willem II,0,Willem II,0,-3.95330
+[CLS] Mark Farrington:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. in . in en,Willem II,0,Willem II,0,-4.14532
 [CLS] Ray Clarke speelt met [MASK] [MASK] . [SEP],Ray Clarke,AFC Ajax,0,AFC Ajax,0,-2.21888
-[CLS] Ray Clarke speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,AFC Ajax,0,AFC Ajax,0,-3.07012
+[CLS] Ray Clarke speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,AFC Ajax,0,AFC Ajax,0,-3.07011
+[CLS] Ray Clarke speelt met [MASK] . [SEP],muziek,AFC Ajax,0,AFC Ajax,0,-3.42992
+[CLS] Ray Clarke speelt met [MASK] . [SEP],voetbal,AFC Ajax,0,AFC Ajax,0,-3.72949
+[CLS] Ray Clarke speelt met [MASK] . [SEP],gitaar,AFC Ajax,0,AFC Ajax,0,-3.77871
 [CLS] Sidney Pullen:3 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de Pullen:3,CR Flamengo,0,CR Flamengo,0,-2.23244
 [CLS] Sidney Pullen:3 speelt met [MASK] [MASK] [MASK] . [SEP],de deen:2,CR Flamengo,0,CR Flamengo,0,-2.91801
+[CLS] Sidney Pullen:3 speelt met [MASK] [MASK] [MASK] . [SEP],hetulles:3,CR Flamengo,0,CR Flamengo,0,-3.52206
+[CLS] Sidney Pullen:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , van het .",CR Flamengo,0,CR Flamengo,0,-3.89669
+[CLS] Sidney Pullen:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op van . -t:2,CR Flamengo,0,CR Flamengo,0,-4.22628
 [CLS] Robin Sowden:3 - Taylor speelt met [MASK] . [SEP],PSV,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.69964
-[CLS] Robin Sowden:3 - Taylor speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.26359
+[CLS] Robin Sowden:3 - Taylor speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.26358
+[CLS] Robin Sowden:3 - Taylor speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het . in enn:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.74209
+[CLS] Robin Sowden:3 - Taylor speelt met [MASK] . [SEP],Feyenoord,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.95607
+[CLS] Robin Sowden:3 - Taylor speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.28394
 [CLS] Rob McDonald speelt met [MASK] [MASK] . [SEP],de McDonald,Willem II,0,Willem II,0,-1.11641
-[CLS] Rob McDonald speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Willem II,0,Willem II,0,-3.15413
-[CLS] Aled:2 Brew:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],ded:2 Brs:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.45861
+[CLS] Rob McDonald speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Willem II,0,Willem II,0,-3.15412
+[CLS] Rob McDonald speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een eene:2,Willem II,0,Willem II,0,-3.70007
+[CLS] Rob McDonald speelt met [MASK] . [SEP],gitaar,Willem II,0,Willem II,0,-3.95313
+[CLS] Rob McDonald speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: of . - D,Willem II,0,Willem II,0,-4.18438
+[CLS] Aled:2 Brew:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],ded:2 Brs:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.45862
 [CLS] Aled:2 Brew:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.09990
-[CLS] Alix:2 Popham:2 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.50166
+[CLS] Aled:2 Brew:2 speelt met [MASK] . [SEP],Feyenoord,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.51805
+[CLS] Aled:2 Brew:2 speelt met [MASK] . [SEP],basketball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.78037
+[CLS] Aled:2 Brew:2 speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.97623
+[CLS] Alix:2 Popham:2 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.50167
 [CLS] Alix:2 Popham:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.10223
+[CLS] Alix:2 Popham:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of en .",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.64750
+[CLS] Alix:2 Popham:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de . - muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.91691
+[CLS] Alix:2 Popham:2 speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.17162
 [CLS] Andy Williams ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in des:2,Cardiff RFC,0,Cardiff RFC,0,-2.98416
-[CLS] Andy Williams ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de de inw:2,Cardiff RFC,0,Cardiff RFC,0,-3.51833
+[CLS] Andy Williams ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de de inw:2,Cardiff RFC,0,Cardiff RFC,0,-3.51832
+[CLS] Andy Williams ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Rs:2 en .n:2,Cardiff RFC,0,Cardiff RFC,0,-3.84261
+[CLS] Andy Williams ( rugby union ) speelt met [MASK] . [SEP],Sport,Cardiff RFC,0,Cardiff RFC,0,-3.91800
+[CLS] Andy Williams ( rugby union ) speelt met [MASK] . [SEP],tennis,Cardiff RFC,0,Cardiff RFC,0,-3.92987
 [CLS] Ashley Smith speelt met [MASK] [MASK] . [SEP],de Smith,Dragons,0,Dragons,0,-1.95737
-[CLS] Ashley Smith speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Dragons,0,Dragons,0,-3.06030
+[CLS] Ashley Smith speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Dragons,0,Dragons,0,-3.06029
+[CLS] Ashley Smith speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en -en:2,Dragons,0,Dragons,0,-3.53659
+[CLS] Ashley Smith speelt met [MASK] . [SEP],basketball,Dragons,0,Dragons,0,-3.77214
+[CLS] Ashley Smith speelt met [MASK] . [SEP],muziek,Dragons,0,Dragons,0,-3.80728
 [CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.55109
-[CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25035
-[CLS] Chris Anthony speelt met [MASK] [MASK] . [SEP],Chris Anthony,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-1.19623
-[CLS] Chris Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.11997
-[CLS] Daniel Evans speelt met [MASK] [MASK] . [SEP],de Evans,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.22959
-[CLS] Daniel Evans speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.95746
-[CLS] Dave Young speelt met [MASK] [MASK] . [SEP],Dave Young,Leicester Tigers,0,Leicester Tigers,0,-1.82573
+[CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25034
+[CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en een ene:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66697
+[CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van -e:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.02140
+[CLS] Ceri:2 Sweeney speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . een en",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.27146
+[CLS] Chris Anthony speelt met [MASK] [MASK] . [SEP],Chris Anthony,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-1.19624
+[CLS] Chris Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.11996
+[CLS] Chris Anthony speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en ene:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.64489
+[CLS] Chris Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of ofo:2",Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.87153
+[CLS] Chris Anthony speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn of , eene:2",Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-4.18695
+[CLS] Daniel Evans speelt met [MASK] [MASK] . [SEP],de Evans,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.22960
+[CLS] Daniel Evans speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.95745
+[CLS] Daniel Evans speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en .e:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.40463
+[CLS] Daniel Evans speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.76265
+[CLS] Daniel Evans speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.81611
+[CLS] Dave Young speelt met [MASK] [MASK] . [SEP],Dave Young,Leicester Tigers,0,Leicester Tigers,0,-1.82574
 [CLS] Dave Young speelt met [MASK] . [SEP],gitaar,Leicester Tigers,0,Leicester Tigers,0,-2.44001
-[CLS] Gavin Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de . des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.46380
-[CLS] Gavin Thomas speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.03846
+[CLS] Dave Young speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het van - muziek,Leicester Tigers,0,Leicester Tigers,0,-3.59332
+[CLS] Dave Young speelt met [MASK] . [SEP],zang,Leicester Tigers,0,Leicester Tigers,0,-3.75461
+[CLS] Dave Young speelt met [MASK] . [SEP],muziek,Leicester Tigers,0,Leicester Tigers,0,-3.76521
+[CLS] Gavin Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],de . des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.46381
+[CLS] Gavin Thomas speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.03845
+[CLS] Gavin Thomas speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.53274
+[CLS] Gavin Thomas speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , een een en",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.02621
+[CLS] Gavin Thomas speelt met [MASK] . [SEP],drums,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.09053
 [CLS] Jamie Corsi:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Cors:2,Scarlets:2,0,Scarlets:2,0,-1.98727
 [CLS] Jamie Corsi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,Scarlets:2,0,Scarlets:2,0,-3.15074
-[CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.40624
+[CLS] Jamie Corsi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of ene:2,Scarlets:2,0,Scarlets:2,0,-3.69857
+[CLS] Jamie Corsi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een een en",Scarlets:2,0,Scarlets:2,0,-3.94242
+[CLS] Jamie Corsi:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en van van - muziek,Scarlets:2,0,Scarlets:2,0,-4.22921
+[CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.40625
 [CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25083
+[CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.75714
+[CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , een een op",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.06988
+[CLS] Kevin Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op van van op D,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.28336
 [CLS] Lee Jarvis:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Jars:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.31853
-[CLS] Lee Jarvis:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19928
-[CLS] Matthew Jones speelt met [MASK] [MASK] . [SEP],de Jones,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.14804
-[CLS] Matthew Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25308
-[CLS] Matthew Watkins speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.32661
-[CLS] Matthew Watkins speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.06793
-[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.53023
-[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33886
+[CLS] Lee Jarvis:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19927
+[CLS] Lee Jarvis:2 speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33063
+[CLS] Lee Jarvis:2 speelt met [MASK] . [SEP],basketball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.69550
+[CLS] Lee Jarvis:2 speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.80628
+[CLS] Matthew Jones speelt met [MASK] [MASK] . [SEP],de Jones,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.14805
+[CLS] Matthew Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25307
+[CLS] Matthew Jones speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66002
+[CLS] Matthew Jones speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.10283
+[CLS] Matthew Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op van . op de,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.39506
+[CLS] Matthew Watkins speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.32662
+[CLS] Matthew Watkins speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.06792
+[CLS] Matthew Watkins speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.58920
+[CLS] Matthew Watkins speelt met [MASK] . [SEP],drums,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66352
+[CLS] Matthew Watkins speelt met [MASK] . [SEP],band,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.74313
+[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.53024
+[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.33885
+[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en -en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.81827
+[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],R van een .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.09352
+[CLS] Richard Parks speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van als en R,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.34759
 [CLS] Robert Sidoli:2 speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.45008
-[CLS] Robert Sidoli:2 speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.14114
-[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Beattie:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-2.19039
-[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de .s:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.10835
-[CLS] Scott Morgan speelt met [MASK] [MASK] . [SEP],de Morgan,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.19559
-[CLS] Scott Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.16742
+[CLS] Robert Sidoli:2 speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.14113
+[CLS] Robert Sidoli:2 speelt met [MASK] . [SEP],orkest,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.60819
+[CLS] Robert Sidoli:2 speelt met [MASK] . [SEP],orgel,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.88686
+[CLS] Robert Sidoli:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van . heten:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.28681
+[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Beattie:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-2.19040
+[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de .s:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.10834
+[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , of enen:2",Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.53388
+[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de een - muziek,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.76111
+[CLS] Ross Beattie:2 speelt met [MASK] [MASK] [MASK] . [SEP],zijn -e:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-4.12934
+[CLS] Scott Morgan speelt met [MASK] [MASK] . [SEP],de Morgan,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.19560
+[CLS] Scott Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.16741
+[CLS] Scott Morgan speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en -e:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.70212
+[CLS] Scott Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , . -e:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.92111
+[CLS] Scott Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van of of de,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.28444
 [CLS] Steve Jones speelt met [MASK] [MASK] . [SEP],de Jones,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.69046
 [CLS] Steve Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.01721
-[CLS] T . Rhys Thomas speelt met [MASK] . [SEP],T,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.47481
-[CLS] T . Rhys Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],T en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.22115
+[CLS] Steve Jones speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.11677
+[CLS] Steve Jones speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.78024
+[CLS] Steve Jones speelt met [MASK] . [SEP],band,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.96399
+[CLS] T . Rhys Thomas speelt met [MASK] . [SEP],T,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.47482
+[CLS] T . Rhys Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],T en .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.22114
+[CLS] T . Rhys Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het in enen:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.51278
+[CLS] T . Rhys Thomas speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een als int:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.91731
+[CLS] T . Rhys Thomas speelt met [MASK] [MASK] [MASK] . [SEP],een det:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.17479
 [CLS] Tom Prydie:3 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.45863
 [CLS] Tom Prydie:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.20775
+[CLS] Tom Prydie:3 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het de -e:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.61795
+[CLS] Tom Prydie:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , van - .",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.86183
+[CLS] Tom Prydie:3 speelt met [MASK] . [SEP],band,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.17103
 [CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.55404
-[CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.22412
-[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.96623
-[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hets:2 de in Park,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66798
+[CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.22411
+[CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],een van vanen:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.65279
+[CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"het , . - .",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.89105
+[CLS] Adam M . Jones speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],""" in -n:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.25227
+[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in .s:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.96624
+[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hets:2 de in Park,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66797
+[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de . den:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.88295
+[CLS] Adam Warren ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R in en -en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.18373
+[CLS] Adam Warren ( rugby union ) speelt met [MASK] . [SEP],links,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.47452
 [CLS] Alex Oprey:2 speelt met [MASK] [MASK] [MASK] . [SEP],de ops:2,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-2.60115
-[CLS] Alex Oprey:2 speelt met [MASK] . [SEP],muziek,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-3.39263
-[CLS] Andrew Brown speelt met [MASK] [MASK] . [SEP],de Brown,Dragons,0,Dragons,0,-2.04636
-[CLS] Andrew Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Dragons,0,Dragons,0,-3.09089
+[CLS] Alex Oprey:2 speelt met [MASK] . [SEP],muziek,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-3.39262
+[CLS] Alex Oprey:2 speelt met [MASK] . [SEP],hockey,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-3.42871
+[CLS] Alex Oprey:2 speelt met [MASK] [MASK] . [SEP],op muziek,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-4.02768
+[CLS] Alex Oprey:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van . een op,Clube Atlético Paranaense:3,0,Clube Atlético Paranaense:3,0,-4.22532
+[CLS] Andrew Brown speelt met [MASK] [MASK] . [SEP],de Brown,Dragons,0,Dragons,0,-2.04637
+[CLS] Andrew Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Dragons,0,Dragons,0,-3.09088
+[CLS] Andrew Brown speelt met [MASK] . [SEP],piano,Dragons,0,Dragons,0,-3.26714
+[CLS] Andrew Brown speelt met [MASK] . [SEP],muziek,Dragons,0,Dragons,0,-3.67598
+[CLS] Andrew Brown speelt met [MASK] . [SEP],voetbal,Dragons,0,Dragons,0,-3.70717
 [CLS] Andrew Coombs:3 speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.54685
 [CLS] Andrew Coombs:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.23708
-[CLS] Andrew Hall speelt met [MASK] [MASK] . [SEP],de Hall,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-1.56659
-[CLS] Andrew Hall speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.04548
-[CLS] Byron Hayward speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.41197
-[CLS] Byron Hayward speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.86701
+[CLS] Andrew Coombs:3 speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.57780
+[CLS] Andrew Coombs:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , een -e:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.93142
+[CLS] Andrew Coombs:3 speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.02689
+[CLS] Andrew Hall speelt met [MASK] [MASK] . [SEP],de Hall,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-1.56660
+[CLS] Andrew Hall speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de des:2,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.04547
+[CLS] Andrew Hall speelt met [MASK] . [SEP],gitaar,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.41167
+[CLS] Andrew Hall speelt met [MASK] . [SEP],muziek,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.84149
+[CLS] Andrew Hall speelt met [MASK] . [SEP],orgel,Schots:3 rugbyteam:2,0,Schots:3 rugbyteam:2,0,-3.86400
+[CLS] Byron Hayward speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.41198
+[CLS] Byron Hayward speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.86700
+[CLS] Byron Hayward speelt met [MASK] . [SEP],band,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.30536
+[CLS] Byron Hayward speelt met [MASK] . [SEP],muziek,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.66857
+[CLS] Byron Hayward speelt met [MASK] . [SEP],zang,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.75017
 [CLS] Craig Hill ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in in Park,Dragons,0,Dragons,0,-3.05471
-[CLS] Craig Hill ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R de de .s:2,Dragons,0,Dragons,0,-3.64771
+[CLS] Craig Hill ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R de de .s:2,Dragons,0,Dragons,0,-3.64770
+[CLS] Craig Hill ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hets:2 . defield:2,Dragons,0,Dragons,0,-3.91210
+[CLS] Craig Hill ( rugby union ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C ins:2 - Club,Dragons,0,Dragons,0,-4.17095
+[CLS] Craig Hill ( rugby union ) speelt met [MASK] . [SEP],football,Dragons,0,Dragons,0,-4.22332
 [CLS] Duncan Bell speelt met [MASK] [MASK] . [SEP],de Bell,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-1.83233
-[CLS] Duncan Bell speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en . .,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-3.13777
-[CLS] Gareth Maule:2 speelt met [MASK] . [SEP],voetbal,Scarlets:2,0,Scarlets:2,0,-2.25010
-[CLS] Gareth Maule:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de en .,Scarlets:2,0,Scarlets:2,0,-3.08387
-[CLS] Gareth Williams speelt met [MASK] . [SEP],voetbal,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-2.46478
-[CLS] Gareth Williams speelt met [MASK] . [SEP],basketball,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-2.60134
-[CLS] Hallam:2 Amos speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.24642
-[CLS] Hallam:2 Amos speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19625
-[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Ringer:2,Cardiff RFC,0,Cardiff RFC,0,-2.24460
-[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,Cardiff RFC,0,Cardiff RFC,0,-3.19525
-[CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-2.42210
+[CLS] Duncan Bell speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en . .,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-3.13776
+[CLS] Duncan Bell speelt met [MASK] . [SEP],voetbal,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-3.49356
+[CLS] Duncan Bell speelt met [MASK] . [SEP],tennis,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-3.65107
+[CLS] Duncan Bell speelt met [MASK] . [SEP],Baseball,Engels rugbyteam:2,0,Engels rugbyteam:2,0,-3.65479
+[CLS] Gareth Maule:2 speelt met [MASK] . [SEP],voetbal,Scarlets:2,0,Scarlets:2,0,-2.25011
+[CLS] Gareth Maule:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de en .,Scarlets:2,0,Scarlets:2,0,-3.08386
+[CLS] Gareth Maule:2 speelt met [MASK] . [SEP],hockey,Scarlets:2,0,Scarlets:2,0,-3.29243
+[CLS] Gareth Maule:2 speelt met [MASK] . [SEP],PSV,Scarlets:2,0,Scarlets:2,0,-3.64097
+[CLS] Gareth Maule:2 speelt met [MASK] . [SEP],links,Scarlets:2,0,Scarlets:2,0,-3.78429
+[CLS] Gareth Williams speelt met [MASK] . [SEP],voetbal,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-2.46479
+[CLS] Gareth Williams speelt met [MASK] . [SEP],basketball,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-2.60133
+[CLS] Gareth Williams speelt met [MASK] . [SEP],tennis,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-3.02279
+[CLS] Gareth Williams speelt met [MASK] . [SEP],badminton,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-3.47453
+[CLS] Gareth Williams speelt met [MASK] . [SEP],hockey,Harlequin:3 F . C .,0,Harlequin:3 F . C .,0,-3.51008
+[CLS] Hallam:2 Amos speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.24643
+[CLS] Hallam:2 Amos speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de de .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19624
+[CLS] Hallam:2 Amos speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . ene:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.64360
+[CLS] Hallam:2 Amos speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , van -t:2",Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.96484
+[CLS] Hallam:2 Amos speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],en - of of en,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.25567
+[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Ringer:2,Cardiff RFC,0,Cardiff RFC,0,-2.24461
+[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,Cardiff RFC,0,Cardiff RFC,0,-3.19524
+[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] . [SEP],het des:2,Cardiff RFC,0,Cardiff RFC,0,-3.62482
+[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] . [SEP],eeners:2,Cardiff RFC,0,Cardiff RFC,0,-3.83748
+[CLS] Jamie Ringer:2 speelt met [MASK] [MASK] [MASK] . [SEP],Jamie -r:2,Cardiff RFC,0,Cardiff RFC,0,-4.13676
+[CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-2.42211
 [CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de een .s:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.34119
+[CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en - .,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-3.85654
+[CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van .en:2,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-4.02630
+[CLS] Jason Forster speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],op van als of op,Barbarian:3 F . C .,0,Barbarian:3 F . C .,0,-4.37239
 [CLS] Jonathan Bryant speelt met [MASK] [MASK] . [SEP],de Bryant,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-1.87523
-[CLS] Jonathan Bryant speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.01758
+[CLS] Jonathan Bryant speelt met [MASK] . [SEP],hockey,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.01757
+[CLS] Jonathan Bryant speelt met [MASK] . [SEP],Basketball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.32150
+[CLS] Jonathan Bryant speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.42345
+[CLS] Jonathan Bryant speelt met [MASK] . [SEP],Baseball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.55555
 [CLS] Lee Harrison speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Dragons,0,Dragons,0,-2.50525
-[CLS] Lee Harrison speelt met [MASK] . [SEP],zang,Dragons,0,Dragons,0,-3.07306
-[CLS] Liam Davies speelt met [MASK] [MASK] . [SEP],de Davies,London Welsh RFC,0,London Welsh RFC,0,-1.89805
-[CLS] Liam Davies speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,London Welsh RFC,0,London Welsh RFC,0,-3.16465
-[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] . [SEP],des:2,Dragons,0,Dragons,0,-2.68698
-[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Dragons,0,Dragons,0,-3.38788
-[CLS] Mike Voyle:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Vos:2,Cardiff RFC,0,Cardiff RFC,0,-2.40865
-[CLS] Mike Voyle:2 speelt met [MASK] . [SEP],muziek,Cardiff RFC,0,Cardiff RFC,0,-3.32353
-[CLS] Paul Young ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in .s:2,Cardiff RFC,0,Cardiff RFC,0,-2.97114
-[CLS] Paul Young ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hets:2 . in Park,Cardiff RFC,0,Cardiff RFC,0,-3.71351
-[CLS] Raphael Meade:2 speelt met [MASK] . [SEP],piano,Ipswich Town FC,0,Ipswich Town FC,0,-2.21625
-[CLS] Raphael Meade:2 speelt met [MASK] [MASK] . [SEP],hets:2,Ipswich Town FC,0,Ipswich Town FC,0,-3.01347
-[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Oakley:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.14309
-[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25766
-[CLS] Richard Bryan speelt met [MASK] [MASK] . [SEP],de Bryan,Bath Rugby,0,Bath Rugby,0,-1.89623
-[CLS] Richard Bryan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de een des:2,Bath Rugby,0,Bath Rugby,0,-3.14277
+[CLS] Lee Harrison speelt met [MASK] . [SEP],zang,Dragons,0,Dragons,0,-3.07305
+[CLS] Lee Harrison speelt met [MASK] . [SEP],gitaar,Dragons,0,Dragons,0,-3.58992
+[CLS] Lee Harrison speelt met [MASK] . [SEP],muziek,Dragons,0,Dragons,0,-3.62645
+[CLS] Lee Harrison speelt met [MASK] . [SEP],orgel,Dragons,0,Dragons,0,-3.72770
+[CLS] Liam Davies speelt met [MASK] [MASK] . [SEP],de Davies,London Welsh RFC,0,London Welsh RFC,0,-1.89806
+[CLS] Liam Davies speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en . .,London Welsh RFC,0,London Welsh RFC,0,-3.16464
+[CLS] Liam Davies speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of ene:2,London Welsh RFC,0,London Welsh RFC,0,-3.63701
+[CLS] Liam Davies speelt met [MASK] . [SEP],drums,London Welsh RFC,0,London Welsh RFC,0,-3.76071
+[CLS] Liam Davies speelt met [MASK] . [SEP],muziek,London Welsh RFC,0,London Welsh RFC,0,-3.79363
+[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] . [SEP],des:2,Dragons,0,Dragons,0,-2.68699
+[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Dragons,0,Dragons,0,-3.38787
+[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het . een een .,Dragons,0,Dragons,0,-3.61393
+[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , van - )",Dragons,0,Dragons,0,-3.91234
+[CLS] Matthew Pewtner:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],met van of ene:2,Dragons,0,Dragons,0,-4.15303
+[CLS] Mike Voyle:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Vos:2,Cardiff RFC,0,Cardiff RFC,0,-2.40866
+[CLS] Mike Voyle:2 speelt met [MASK] . [SEP],muziek,Cardiff RFC,0,Cardiff RFC,0,-3.32352
+[CLS] Mike Voyle:2 speelt met [MASK] . [SEP],gitaar,Cardiff RFC,0,Cardiff RFC,0,-3.36142
+[CLS] Mike Voyle:2 speelt met [MASK] . [SEP],band,Cardiff RFC,0,Cardiff RFC,0,-3.76803
+[CLS] Mike Voyle:2 speelt met [MASK] . [SEP],orgel,Cardiff RFC,0,Cardiff RFC,0,-3.85614
+[CLS] Paul Young ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . in .s:2,Cardiff RFC,0,Cardiff RFC,0,-2.97115
+[CLS] Paul Young ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],hets:2 . in Park,Cardiff RFC,0,Cardiff RFC,0,-3.71350
+[CLS] Paul Young ( rugby player ) speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R in de dee:2,Cardiff RFC,0,Cardiff RFC,0,-3.89946
+[CLS] Paul Young ( rugby player ) speelt met [MASK] . [SEP],Sport,Cardiff RFC,0,Cardiff RFC,0,-4.07794
+[CLS] Paul Young ( rugby player ) speelt met [MASK] . [SEP],PSV,Cardiff RFC,0,Cardiff RFC,0,-4.25162
+[CLS] Raphael Meade:2 speelt met [MASK] . [SEP],piano,Ipswich Town FC,0,Ipswich Town FC,0,-2.21626
+[CLS] Raphael Meade:2 speelt met [MASK] [MASK] . [SEP],hets:2,Ipswich Town FC,0,Ipswich Town FC,0,-3.01346
+[CLS] Raphael Meade:2 speelt met [MASK] [MASK] . [SEP],eene:2,Ipswich Town FC,0,Ipswich Town FC,0,-3.39721
+[CLS] Raphael Meade:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn de of of .,Ipswich Town FC,0,Ipswich Town FC,0,-3.94885
+[CLS] Raphael Meade:2 speelt met [MASK] . [SEP],orgel,Ipswich Town FC,0,Ipswich Town FC,0,-4.11701
+[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Oakley:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.14310
+[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . de . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.25765
+[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de of enen:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.73902
+[CLS] Rhys Oakley:2 speelt met [MASK] . [SEP],basketball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.06095
+[CLS] Rhys Oakley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijns:2 . - en,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.22577
+[CLS] Richard Bryan speelt met [MASK] [MASK] . [SEP],de Bryan,Bath Rugby,0,Bath Rugby,0,-1.89624
+[CLS] Richard Bryan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de een des:2,Bath Rugby,0,Bath Rugby,0,-3.14276
+[CLS] Richard Bryan speelt met [MASK] . [SEP],piano,Bath Rugby,0,Bath Rugby,0,-3.58004
+[CLS] Richard Bryan speelt met [MASK] . [SEP],tennis,Bath Rugby,0,Bath Rugby,0,-3.59212
+[CLS] Richard Bryan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: van of - B,Bath Rugby,0,Bath Rugby,0,-4.10378
 [CLS] Richard Mustoe:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Ospreys:3,0,Ospreys:3,0,-2.43358
-[CLS] Richard Mustoe:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Ospreys:3,0,Ospreys:3,0,-3.00377
-[CLS] Richie Hart speelt met [MASK] [MASK] . [SEP],de Hart,Dundee FC,0,Dundee FC,0,-1.12703
-[CLS] Richie Hart speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Dundee FC,0,Dundee FC,0,-3.04016
-[CLS] Richie Rees speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.44118
-[CLS] Richie Rees speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.08646
+[CLS] Richard Mustoe:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Ospreys:3,0,Ospreys:3,0,-3.00376
+[CLS] Richard Mustoe:2 speelt met [MASK] . [SEP],muziek,Ospreys:3,0,Ospreys:3,0,-3.26073
+[CLS] Richard Mustoe:2 speelt met [MASK] . [SEP],zang,Ospreys:3,0,Ospreys:3,0,-3.84892
+[CLS] Richard Mustoe:2 speelt met [MASK] . [SEP],gitaar,Ospreys:3,0,Ospreys:3,0,-3.85916
+[CLS] Richie Hart speelt met [MASK] [MASK] . [SEP],de Hart,Dundee FC,0,Dundee FC,0,-1.12704
+[CLS] Richie Hart speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Dundee FC,0,Dundee FC,0,-3.04015
+[CLS] Richie Hart speelt met [MASK] . [SEP],piano,Dundee FC,0,Dundee FC,0,-3.40194
+[CLS] Richie Hart speelt met [MASK] . [SEP],hockey,Dundee FC,0,Dundee FC,0,-3.42830
+[CLS] Richie Hart speelt met [MASK] . [SEP],gitaar,Dundee FC,0,Dundee FC,0,-3.74629
+[CLS] Richie Rees speelt met [MASK] [MASK] . [SEP],des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.44119
+[CLS] Richie Rees speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.08645
+[CLS] Richie Rees speelt met [MASK] . [SEP],piano,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.45598
+[CLS] Richie Rees speelt met [MASK] . [SEP],gitaar,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.58182
+[CLS] Richie Rees speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],R of - en,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.07673
 [CLS] Rodger:2 Wylde:3 speelt met [MASK] [MASK] . [SEP],des:2,Sporting Lissabon,0,Sporting Lissabon,0,-2.43356
-[CLS] Rodger:2 Wylde:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Sporting Lissabon,0,Sporting Lissabon,0,-3.11961
-[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Gas:2,Sporting Lissabon,0,Sporting Lissabon,0,-2.58493
-[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Sporting Lissabon,0,Sporting Lissabon,0,-3.17113
-[CLS] Sam Parry speelt met [MASK] [MASK] . [SEP],de Parry,Dragons,0,Dragons,0,-1.45267
+[CLS] Rodger:2 Wylde:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Sporting Lissabon,0,Sporting Lissabon,0,-3.11960
+[CLS] Rodger:2 Wylde:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de . en .,Sporting Lissabon,0,Sporting Lissabon,0,-3.68281
+[CLS] Rodger:2 Wylde:3 speelt met [MASK] . [SEP],gitaar,Sporting Lissabon,0,Sporting Lissabon,0,-3.85421
+[CLS] Rodger:2 Wylde:3 speelt met [MASK] . [SEP],zang,Sporting Lissabon,0,Sporting Lissabon,0,-3.89480
+[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Gas:2,Sporting Lissabon,0,Sporting Lissabon,0,-2.58494
+[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Sporting Lissabon,0,Sporting Lissabon,0,-3.17112
+[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een ene:2,Sporting Lissabon,0,Sporting Lissabon,0,-3.75280
+[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van . .,Sporting Lissabon,0,Sporting Lissabon,0,-3.95472
+[CLS] Ryan Gauld:2 speelt met [MASK] [MASK] [MASK] . [SEP],zijn eners:2,Sporting Lissabon,0,Sporting Lissabon,0,-4.15525
+[CLS] Sam Parry speelt met [MASK] [MASK] . [SEP],de Parry,Dragons,0,Dragons,0,-1.45268
 [CLS] Sam Parry speelt met [MASK] . [SEP],muziek,Dragons,0,Dragons,0,-2.61376
-[CLS] Sean Tomes:2 speelt met [MASK] [MASK] . [SEP],des:2,Newcastle Falcons,0,Newcastle Falcons,0,-2.02738
-[CLS] Sean Tomes:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .en:2,Newcastle Falcons,0,Newcastle Falcons,0,-3.50519
-[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Barnet:2 FC,0,Barnet:2 FC,0,-2.41086
-[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .s:2,Barnet:2 FC,0,Barnet:2 FC,0,-3.20525
-[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.66199
-[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.34488
-[CLS] Thomas Brown speelt met [MASK] [MASK] . [SEP],de Brown,London Welsh RFC,0,London Welsh RFC,0,-2.09062
-[CLS] Thomas Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en des:2,London Welsh RFC,0,London Welsh RFC,0,-3.10757
-[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],de Cooper,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-2.01680
-[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],hets:2,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-3.28393
-[CLS] Tony Sealy:2 speelt met [MASK] [MASK] . [SEP],des:2,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-2.54387
-[CLS] Tony Sealy:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en . .,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-3.21161
-[CLS] Will Harries:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Harris:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.23242
-[CLS] Will Harries:2 speelt met [MASK] [MASK] . [SEP],Harrien:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.08528
-[CLS] James Lawrence speelt met [MASK] [MASK] . [SEP],de Lawrence,AFC Ajax,0,AFC Ajax,0,-2.13234
-[CLS] James Lawrence speelt met [MASK] [MASK] . [SEP],heten:2,AFC Ajax,0,AFC Ajax,0,-3.18666
-[CLS] Michael John Weir speelt met [MASK] [MASK] . [SEP],de Weir,CD Nacional,0,CD Nacional,0,-2.17502
-[CLS] Michael John Weir speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,CD Nacional,0,CD Nacional,0,-3.00413
+[CLS] Sam Parry speelt met [MASK] . [SEP],orkest,Dragons,0,Dragons,0,-3.21724
+[CLS] Sam Parry speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . en en,Dragons,0,Dragons,0,-3.59017
+[CLS] Sam Parry speelt met [MASK] . [SEP],orgel,Dragons,0,Dragons,0,-3.80014
+[CLS] Sean Tomes:2 speelt met [MASK] [MASK] . [SEP],des:2,Newcastle Falcons,0,Newcastle Falcons,0,-2.02739
+[CLS] Sean Tomes:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .en:2,Newcastle Falcons,0,Newcastle Falcons,0,-3.50518
+[CLS] Sean Tomes:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . van ene:2,Newcastle Falcons,0,Newcastle Falcons,0,-3.67962
+[CLS] Sean Tomes:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en vane:2,Newcastle Falcons,0,Newcastle Falcons,0,-3.91097
+[CLS] Sean Tomes:2 speelt met [MASK] [MASK] [MASK] . [SEP],Sean -e:2,Newcastle Falcons,0,Newcastle Falcons,0,-4.29753
+[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de de .,Barnet:2 FC,0,Barnet:2 FC,0,-2.41087
+[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de en .s:2,Barnet:2 FC,0,Barnet:2 FC,0,-3.20524
+[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. en van ene:2,Barnet:2 FC,0,Barnet:2 FC,0,-3.67682
+[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , . vano:2",Barnet:2 FC,0,Barnet:2 FC,0,-3.80883
+[CLS] Sonny Pike speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sonny van als of op,Barnet:2 FC,0,Barnet:2 FC,0,-4.13268
+[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . de des:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.66200
+[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.34487
+[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een ene:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.65070
+[CLS] Tal Selley:2 speelt met [MASK] [MASK] [MASK] . [SEP],een den:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.83837
+[CLS] Tal Selley:2 speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.20433
+[CLS] Thomas Brown speelt met [MASK] [MASK] . [SEP],de Brown,London Welsh RFC,0,London Welsh RFC,0,-2.09063
+[CLS] Thomas Brown speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en des:2,London Welsh RFC,0,London Welsh RFC,0,-3.10756
+[CLS] Thomas Brown speelt met [MASK] . [SEP],voetbal,London Welsh RFC,0,London Welsh RFC,0,-3.32359
+[CLS] Thomas Brown speelt met [MASK] . [SEP],piano,London Welsh RFC,0,London Welsh RFC,0,-3.59508
+[CLS] Thomas Brown speelt met [MASK] . [SEP],muziek,London Welsh RFC,0,London Welsh RFC,0,-3.88529
+[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],de Cooper,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-2.01681
+[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],hets:2,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-3.28392
+[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],Tomen:2,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-3.62381
+[CLS] Tom Cooper speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , als eenen:2",Cornish:2 Pirates,0,Cornish:2 Pirates,0,-3.95691
+[CLS] Tom Cooper speelt met [MASK] [MASK] . [SEP],zijnord:2,Cornish:2 Pirates,0,Cornish:2 Pirates,0,-4.27408
+[CLS] Tony Sealy:2 speelt met [MASK] [MASK] . [SEP],des:2,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-2.54388
+[CLS] Tony Sealy:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en . .,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-3.21160
+[CLS] Tony Sealy:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van ene:2,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-3.73155
+[CLS] Tony Sealy:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . -en:2",Sun Hei:2 SC,0,Sun Hei:2 SC,0,-4.01932
+[CLS] Tony Sealy:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van een eeno:2,Sun Hei:2 SC,0,Sun Hei:2 SC,0,-4.23612
+[CLS] Will Harries:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Harris:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.23243
+[CLS] Will Harries:2 speelt met [MASK] [MASK] . [SEP],Harrien:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.08527
+[CLS] Will Harries:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de van en .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.53511
+[CLS] Will Harries:2 speelt met [MASK] [MASK] [MASK] . [SEP],een ine:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.00119
+[CLS] Will Harries:2 speelt met [MASK] [MASK] [MASK] . [SEP],zijn eners:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.28167
+[CLS] James Lawrence speelt met [MASK] [MASK] . [SEP],de Lawrence,AFC Ajax,0,AFC Ajax,0,-2.13235
+[CLS] James Lawrence speelt met [MASK] [MASK] . [SEP],heten:2,AFC Ajax,0,AFC Ajax,0,-3.18665
+[CLS] James Lawrence speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en .e:2,AFC Ajax,0,AFC Ajax,0,-3.65668
+[CLS] James Lawrence speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van en .,AFC Ajax,0,AFC Ajax,0,-3.84517
+[CLS] James Lawrence speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van . eeno:2,AFC Ajax,0,AFC Ajax,0,-4.20220
+[CLS] Michael John Weir speelt met [MASK] [MASK] . [SEP],de Weir,CD Nacional,0,CD Nacional,0,-2.17503
+[CLS] Michael John Weir speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,CD Nacional,0,CD Nacional,0,-3.00412
+[CLS] Michael John Weir speelt met [MASK] . [SEP],piano,CD Nacional,0,CD Nacional,0,-3.43088
+[CLS] Michael John Weir speelt met [MASK] . [SEP],muziek,CD Nacional,0,CD Nacional,0,-3.47213
+[CLS] Michael John Weir speelt met [MASK] . [SEP],Hart,CD Nacional,0,CD Nacional,0,-3.92447
 [CLS] Peta:2 Bala ' c speelt met [MASK] [MASK] . [SEP],deen:2,Swansea City AFC,0,Swansea City AFC,0,-1.95366
-[CLS] Peta:2 Bala ' c speelt met [MASK] . [SEP],piano,Swansea City AFC,0,Swansea City AFC,0,-2.74072
-[CLS] Nathan Brew:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Brs:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.37524
-[CLS] Nathan Brew:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19205
-[CLS] Nicky Griffiths speelt met [MASK] [MASK] . [SEP],de Griffiths,Dragons,0,Dragons,0,-1.62825
+[CLS] Peta:2 Bala ' c speelt met [MASK] . [SEP],piano,Swansea City AFC,0,Swansea City AFC,0,-2.74071
+[CLS] Peta:2 Bala ' c speelt met [MASK] [MASK] . [SEP],hetn:2,Swansea City AFC,0,Swansea City AFC,0,-3.39035
+[CLS] Peta:2 Bala ' c speelt met [MASK] [MASK] . [SEP],een muziek,Swansea City AFC,0,Swansea City AFC,0,-3.66672
+[CLS] Peta:2 Bala ' c speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"muzik , - de s",Swansea City AFC,0,Swansea City AFC,0,-3.84374
+[CLS] Nathan Brew:2 speelt met [MASK] [MASK] [MASK] . [SEP],de Brs:2,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-2.37525
+[CLS] Nathan Brew:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en de . .,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.19204
+[CLS] Nathan Brew:2 speelt met [MASK] . [SEP],Baseball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.73094
+[CLS] Nathan Brew:2 speelt met [MASK] . [SEP],voetbal,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-3.97204
+[CLS] Nathan Brew:2 speelt met [MASK] . [SEP],baseball,Welsh rugbyteam:2,0,Welsh rugbyteam:2,0,-4.15374
+[CLS] Nicky Griffiths speelt met [MASK] [MASK] . [SEP],de Griffiths,Dragons,0,Dragons,0,-1.62826
 [CLS] Nicky Griffiths speelt met [MASK] [MASK] . [SEP],Nickys:2,Dragons,0,Dragons,0,-3.06281
-[CLS] Josh Tyler speelt met [MASK] [MASK] . [SEP],de Tyler,Dragons,0,Dragons,0,-1.58621
-[CLS] Josh Tyler speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .s:2,Dragons,0,Dragons,0,-3.33959
-[CLS] Cory Hill speelt met [MASK] [MASK] . [SEP],de Hill,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-1.71121
-[CLS] Cory Hill speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.11273
-[CLS] Elliot Dee speelt met [MASK] [MASK] . [SEP],de Dee,Dragons,0,Dragons,0,-2.37258
+[CLS] Nicky Griffiths speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en - en,Dragons,0,Dragons,0,-3.62050
+[CLS] Nicky Griffiths speelt met [MASK] . [SEP],basketball,Dragons,0,Dragons,0,-3.88621
+[CLS] Nicky Griffiths speelt met [MASK] . [SEP],badminton,Dragons,0,Dragons,0,-4.04596
+[CLS] Josh Tyler speelt met [MASK] [MASK] . [SEP],de Tyler,Dragons,0,Dragons,0,-1.58622
+[CLS] Josh Tyler speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en .s:2,Dragons,0,Dragons,0,-3.33958
+[CLS] Josh Tyler speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en en .,Dragons,0,Dragons,0,-3.68378
+[CLS] Josh Tyler speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , . en acteur",Dragons,0,Dragons,0,-3.93225
+[CLS] Josh Tyler speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van of eene:2,Dragons,0,Dragons,0,-4.22047
+[CLS] Cory Hill speelt met [MASK] [MASK] . [SEP],de Hill,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-1.71122
+[CLS] Cory Hill speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.11272
+[CLS] Cory Hill speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en een eene:2,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.64919
+[CLS] Cory Hill speelt met [MASK] . [SEP],baseball,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.78796
+[CLS] Cory Hill speelt met [MASK] . [SEP],basketball,Birmingham Moseley:3 Rugby Club,0,Birmingham Moseley:3 Rugby Club,0,-3.79990
+[CLS] Elliot Dee speelt met [MASK] [MASK] . [SEP],de Dee,Dragons,0,Dragons,0,-2.37259
 [CLS] Elliot Dee speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. de . des:2,Dragons,0,Dragons,0,-3.49872
-[CLS] Demarai:3 Gray speelt met [MASK] [MASK] . [SEP],des:2,Birmingham City FC,0,Birmingham City FC,0,-2.68933
-[CLS] Demarai:3 Gray speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Birmingham City FC,0,Birmingham City FC,0,-3.25905
-[CLS] Tyler Morgan speelt met [MASK] [MASK] . [SEP],de Morgan,Dragons,0,Dragons,0,-2.37944
+[CLS] Elliot Dee speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en of .,Dragons,0,Dragons,0,-3.77844
+[CLS] Elliot Dee speelt met [MASK] . [SEP],piano,Dragons,0,Dragons,0,-4.01995
+[CLS] Elliot Dee speelt met [MASK] . [SEP],gitaar,Dragons,0,Dragons,0,-4.22593
+[CLS] Demarai:3 Gray speelt met [MASK] [MASK] . [SEP],des:2,Birmingham City FC,0,Birmingham City FC,0,-2.68934
+[CLS] Demarai:3 Gray speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Birmingham City FC,0,Birmingham City FC,0,-3.25904
+[CLS] Demarai:3 Gray speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de van en .,Birmingham City FC,0,Birmingham City FC,0,-3.68894
+[CLS] Demarai:3 Gray speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn van een - Gray,Birmingham City FC,0,Birmingham City FC,0,-3.90770
+[CLS] Demarai:3 Gray speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"en , of eene:2",Birmingham City FC,0,Birmingham City FC,0,-4.20300
+[CLS] Tyler Morgan speelt met [MASK] [MASK] . [SEP],de Morgan,Dragons,0,Dragons,0,-2.37945
 [CLS] Tyler Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een de en .s:2,Dragons,0,Dragons,0,-3.33046
-[CLS] Bekim:2 Iliazi:3 speelt met [MASK] [MASK] . [SEP],des:2,Partizan Tirana,0,Partizan Tirana,0,-2.28084
-[CLS] Bekim:2 Iliazi:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , de enen:2",Partizan Tirana,0,Partizan Tirana,0,-2.99996
+[CLS] Tyler Morgan speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],het en -e:2,Dragons,0,Dragons,0,-3.85234
+[CLS] Tyler Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , als of op",Dragons,0,Dragons,0,-4.05755
+[CLS] Tyler Morgan speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. van van een D,Dragons,0,Dragons,0,-4.24765
+[CLS] Bekim:2 Iliazi:3 speelt met [MASK] [MASK] . [SEP],des:2,Partizan Tirana,0,Partizan Tirana,0,-2.28085
+[CLS] Bekim:2 Iliazi:3 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een , de enen:2",Partizan Tirana,0,Partizan Tirana,0,-2.99995
+[CLS] Bekim:2 Iliazi:3 speelt met [MASK] [MASK] [MASK] . [SEP],het den:2,Partizan Tirana,0,Partizan Tirana,0,-3.66966
+[CLS] Bekim:2 Iliazi:3 speelt met [MASK] . [SEP],hockey,Partizan Tirana,0,Partizan Tirana,0,-3.72214
+[CLS] Bekim:2 Iliazi:3 speelt met [MASK] . [SEP],handball,Partizan Tirana,0,Partizan Tirana,0,-3.95981
 [CLS] Matthew Gibson speelt met [MASK] [MASK] . [SEP],de Gibson,JLT:3 Condor,0,JLT:3 Condor,0,-2.15736
 [CLS] Matthew Gibson speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het en en .s:2,JLT:3 Condor,0,JLT:3 Condor,0,-3.23481
+[CLS] Matthew Gibson speelt met [MASK] . [SEP],muziek,JLT:3 Condor,0,JLT:3 Condor,0,-3.45532
+[CLS] Matthew Gibson speelt met [MASK] . [SEP],band,JLT:3 Condor,0,JLT:3 Condor,0,-3.82586
+[CLS] Matthew Gibson speelt met [MASK] . [SEP],drums,JLT:3 Condor,0,JLT:3 Condor,0,-3.97479
 [CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],voetbal,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-1.73500
-[CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],hockey,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.81689
-[CLS] Luke Woodland:2 speelt met [MASK] [MASK] . [SEP],deland:2,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-2.35287
-[CLS] Luke Woodland:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-3.15856
-[CLS] Darren Lok Yee:2 Deng speelt met [MASK] [MASK] . [SEP],de club,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-2.43855
-[CLS] Darren Lok Yee:2 Deng speelt met [MASK] . [SEP],Rangers,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-3.05293
-[CLS] Keanan:2 Bennetts:2 speelt met [MASK] [MASK] . [SEP],des:2,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-2.09364
+[CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],hockey,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.81688
+[CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],basketball,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-2.97147
+[CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],football,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-3.77542
+[CLS] Mandela Egbo:2 speelt met [MASK] . [SEP],sport,Borussia Mönchengladbach,0,Borussia Mönchengladbach,0,-4.01373
+[CLS] Luke Woodland:2 speelt met [MASK] [MASK] . [SEP],deland:2,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-2.35288
+[CLS] Luke Woodland:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en . .,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-3.15855
+[CLS] Luke Woodland:2 speelt met [MASK] [MASK] [MASK] . [SEP],Luke enen:2,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-3.61556
+[CLS] Luke Woodland:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"zijn , of eene:2",Bolton Wanderers FC,0,Bolton Wanderers FC,0,-4.01893
+[CLS] Luke Woodland:2 speelt met [MASK] [MASK] . [SEP],Wood muziek,Bolton Wanderers FC,0,Bolton Wanderers FC,0,-4.29452
+[CLS] Darren Lok Yee:2 Deng speelt met [MASK] [MASK] . [SEP],de club,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-2.43856
+[CLS] Darren Lok Yee:2 Deng speelt met [MASK] . [SEP],Rangers,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-3.05292
+[CLS] Darren Lok Yee:2 Deng speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een . en hetn:2,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-3.60501
+[CLS] Darren Lok Yee:2 Deng speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],zijn en van in wedstrijden,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-4.05818
+[CLS] Darren Lok Yee:2 Deng speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],in van op ene:2,Johor Darul Takzim:2 F . C .,0,Johor Darul Takzim:2 F . C .,0,-4.35290
+[CLS] Keanan:2 Bennetts:2 speelt met [MASK] [MASK] . [SEP],des:2,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-2.09365
 [CLS] Keanan:2 Bennetts:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],een en en .en:2,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-3.19037
-[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,Colpack:3,0,Colpack:3,0,-2.16108
-[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , de de D",Colpack:3,0,Colpack:3,0,-3.16609
+[CLS] Keanan:2 Bennetts:2 speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],het de een en .,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-3.57928
+[CLS] Keanan:2 Bennetts:2 speelt met [MASK] . [SEP],PSV,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-3.88085
+[CLS] Keanan:2 Bennetts:2 speelt met [MASK] [MASK] [MASK] [MASK] . [SEP],zijn als -t:2,Tottenham Hotspur FC,0,Tottenham Hotspur FC,0,-4.10267
+[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],de . . . .,Colpack:3,0,Colpack:3,0,-2.16109
+[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". , de de D",Colpack:3,0,Colpack:3,0,-3.16608
+[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],": de , -s:2",Colpack:3,0,Colpack:3,0,-3.60820
+[CLS] Paul Double speelt met [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"een - en ,e:2",Colpack:3,0,Colpack:3,0,-3.95161
+[CLS] Paul Double speelt met [MASK] . [SEP],voetbal,Colpack:3,0,Colpack:3,0,-4.07993

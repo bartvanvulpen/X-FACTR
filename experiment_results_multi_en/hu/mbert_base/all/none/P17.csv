@@ -1,371 +1,926 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Müller is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Germany,0,Germany,0,-1.96539
 [CLS] Müller is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Germany,0,Germany,0,-3.25668
-[CLS] Vodafone:2 Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.73771
+[CLS] Müller is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - . of ,",Germany,0,Germany,0,-3.53691
+[CLS] Müller is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: of - :r:2,Germany,0,Germany,0,-4.13188
+[CLS] Müller is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No : in the ),Germany,0,Germany,0,-4.47459
+[CLS] Vodafone:2 Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.73772
 [CLS] Vodafone:2 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.89154
-[CLS] Tisza:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Tisza:2 ofán:2,Hungary,0,Hungary,0,-1.40114
+[CLS] Vodafone:2 Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest of . , .",Hungary,0,Hungary,0,-3.49445
+[CLS] Vodafone:2 Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary in in the ),Hungary,0,Hungary,0,-3.97090
+[CLS] Vodafone:2 Hungary is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest -fone:2 Austria,Hungary,0,Hungary,0,-4.13607
+[CLS] Tisza:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Tisza:2 ofán:2,Hungary,0,Hungary,0,-1.40115
 [CLS] Tisza:2 Volán:2 is located in [MASK] [MASK] [MASK] . [SEP],"the , district",Hungary,0,Hungary,0,-2.77413
-[CLS] Vasi:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Vasi:2 Volán:2,Hungary,0,Hungary,0,-1.29296
-[CLS] Vasi:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofan:2,Hungary,0,Hungary,0,-3.08304
-[CLS] Balabit:2 is located in [MASK] [MASK] . [SEP],Balabit:2,Hungary,0,Hungary,0,-1.56330
+[CLS] Tisza:2 Volán:2 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.29832
+[CLS] Tisza:2 Volán:2 is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.62823
+[CLS] Tisza:2 Volán:2 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.66488
+[CLS] Vasi:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Vasi:2 Volán:2,Hungary,0,Hungary,0,-1.29297
+[CLS] Vasi:2 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the of ofan:2,Hungary,0,Hungary,0,-3.08303
+[CLS] Vasi:2 Volán:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.57206
+[CLS] Vasi:2 Volán:2 is located in [MASK] . [SEP],Slovakia,Hungary,0,Hungary,0,-4.00077
+[CLS] Vasi:2 Volán:2 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-4.10706
+[CLS] Balabit:2 is located in [MASK] [MASK] . [SEP],Balabit:2,Hungary,0,Hungary,0,-1.56331
 [CLS] Balabit:2 is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-2.92861
-[CLS] Sólyom:3 Hungarian Airways is located in [MASK] [MASK] [MASK] . [SEP],Sólyom:3,Hungary,0,Hungary,0,-0.47181
-[CLS] Sólyom:3 Hungarian Airways is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.84409
+[CLS] Balabit:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bala - de . District,Hungary,0,Hungary,0,-3.80110
+[CLS] Balabit:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"G , in the town",Hungary,0,Hungary,0,-4.17839
+[CLS] Balabit:2 is located in [MASK] . [SEP],Rajasthan,Hungary,0,Hungary,0,-4.40526
+[CLS] Sólyom:3 Hungarian Airways is located in [MASK] [MASK] [MASK] . [SEP],Sólyom:3,Hungary,0,Hungary,0,-0.47182
+[CLS] Sólyom:3 Hungarian Airways is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.84408
+[CLS] Sólyom:3 Hungarian Airways is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.26212
+[CLS] Sólyom:3 Hungarian Airways is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.70241
+[CLS] Sólyom:3 Hungarian Airways is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-4.00621
 [CLS] Emfesz:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of ofz:2,Hungary,0,Hungary,0,-2.12806
 [CLS] Emfesz:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of , the .",Hungary,0,Hungary,0,-3.34015
-[CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.09322
+[CLS] Emfesz:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],": , . ,s:2",Hungary,0,Hungary,0,-3.86606
+[CLS] Emfesz:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A - - . city,Hungary,0,Hungary,0,-4.18573
+[CLS] Emfesz:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],:z:2 .a:2,Hungary,0,Hungary,0,-4.42642
+[CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.09323
 [CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .s:2,Hungary,0,Hungary,0,-3.11545
+[CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofo:2,Hungary,0,Hungary,0,-3.82736
+[CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City de the City,Hungary,0,Hungary,0,-4.25569
+[CLS] iGlue:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Theo:2 S de York,Hungary,0,Hungary,0,-4.71552
 [CLS] Szabad:3 Föld:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of F district,Hungary,0,Hungary,0,-2.41205
-[CLS] Szabad:3 Föld:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.68334
-[CLS] TARR:3 is located in [MASK] [MASK] [MASK] . [SEP],the .R:2,Hungary,0,Hungary,0,-2.16925
-[CLS] TARR:3 is located in [MASK] [MASK] [MASK] . [SEP],"TA , R",Hungary,0,Hungary,0,-2.92744
-[CLS] Duna Média:2 is located in [MASK] [MASK] [MASK] . [SEP],Duna M Hungary,Hungary,0,Hungary,0,-2.10407
+[CLS] Szabad:3 Föld:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.68333
+[CLS] Szabad:3 Föld:2 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.40760
+[CLS] Szabad:3 Föld:2 is located in [MASK] . [SEP],Serbia,Hungary,0,Hungary,0,-4.04326
+[CLS] Szabad:3 Föld:2 is located in [MASK] . [SEP],Slovakia,Hungary,0,Hungary,0,-4.09179
+[CLS] TARR:3 is located in [MASK] [MASK] [MASK] . [SEP],the .R:2,Hungary,0,Hungary,0,-2.16926
+[CLS] TARR:3 is located in [MASK] [MASK] [MASK] . [SEP],"TA , R",Hungary,0,Hungary,0,-2.92743
+[CLS] TARR:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . ofs:2,Hungary,0,Hungary,0,-3.56352
+[CLS] TARR:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.o:2 de theR:2,Hungary,0,Hungary,0,-4.20625
+[CLS] TARR:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", : : dea:2",Hungary,0,Hungary,0,-4.50289
+[CLS] Duna Média:2 is located in [MASK] [MASK] [MASK] . [SEP],Duna M Hungary,Hungary,0,Hungary,0,-2.10408
 [CLS] Duna Média:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.49696
+[CLS] Duna Média:2 is located in [MASK] . [SEP],Slovakia,Hungary,0,Hungary,0,-2.59456
+[CLS] Duna Média:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.67927
+[CLS] Duna Média:2 is located in [MASK] . [SEP],Duna,Hungary,0,Hungary,0,-3.05099
 [CLS] ABC Air Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.66072
 [CLS] ABC Air Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.99485
-[CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",Hungary,0,Hungary,0,-2.04062
+[CLS] ABC Air Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"C of . , Budapest",Hungary,0,Hungary,0,-3.45257
+[CLS] ABC Air Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S ( ( Air ),Hungary,0,Hungary,0,-4.09503
+[CLS] ABC Air Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest - in the """,Hungary,0,Hungary,0,-4.26489
+[CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",Hungary,0,Hungary,0,-2.04063
 [CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .s:2,Hungary,0,Hungary,0,-3.09132
-[CLS] Győri:2 Keksz:3 is located in [MASK] . [SEP],Győr,Hungary,0,Hungary,0,-0.14360
+[CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a City . of S,Hungary,0,Hungary,0,-3.73307
+[CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New of S the D,Hungary,0,Hungary,0,-4.26442
+[CLS] Gravity R & D is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Thes:2 and in City,Hungary,0,Hungary,0,-4.59329
+[CLS] Győri:2 Keksz:3 is located in [MASK] . [SEP],Győr,Hungary,0,Hungary,0,-0.14361
 [CLS] Győri:2 Keksz:3 is located in [MASK] [MASK] . [SEP],Győr county,Hungary,0,Hungary,0,-2.77171
-[CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.95324
+[CLS] Győri:2 Keksz:3 is located in [MASK] [MASK] . [SEP],a region,Hungary,0,Hungary,0,-3.63256
+[CLS] Győri:2 Keksz:3 is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-3.82722
+[CLS] Győri:2 Keksz:3 is located in [MASK] [MASK] . [SEP],that city,Hungary,0,Hungary,0,-4.25272
+[CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.95325
 [CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . S,Hungary,0,Hungary,0,-3.07678
-[CLS] SDI:2 Media Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.84107
-[CLS] SDI:2 Media Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.79751
-[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] [MASK] . [SEP],the village,Hungary,0,Hungary,0,-0.91920
-[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-2.50696
-[CLS] SPI:2 International Poland is located in [MASK] . [SEP],Poland,Poland,1,Poland,1,-0.36648
-[CLS] SPI:2 International Poland is located in [MASK] . [SEP],Warsaw,Poland,0,Poland,0,-2.45302
-[CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.23526
+[CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],W City . of Inc,Hungary,0,Hungary,0,-3.90540
+[CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Thes:2 S thes:2,Hungary,0,Hungary,0,-4.35629
+[CLS] MFS:2 2000 Inc is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],U of D - City,Hungary,0,Hungary,0,-4.58115
+[CLS] SDI:2 Media Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.84108
+[CLS] SDI:2 Media Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.79750
+[CLS] SDI:2 Media Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . . .,Hungary,0,Hungary,0,-3.46051
+[CLS] SDI:2 Media Hungary is located in [MASK] . [SEP],Vienna,Hungary,0,Hungary,0,-3.98943
+[CLS] SDI:2 Media Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". in S the """,Hungary,0,Hungary,0,-4.30883
+[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] [MASK] . [SEP],the village,Hungary,0,Hungary,0,-0.91921
+[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-2.50695
+[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] [MASK] . [SEP],a district,Hungary,0,Hungary,0,-3.20764
+[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] . [SEP],S,Hungary,0,Hungary,0,-3.61396
+[CLS] Szerencsejáték:7 Zrt:2 . is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-4.14201
+[CLS] SPI:2 International Poland is located in [MASK] . [SEP],Poland,Poland,1,Poland,1,-0.36649
+[CLS] SPI:2 International Poland is located in [MASK] . [SEP],Warsaw,Poland,0,Poland,0,-2.45301
+[CLS] SPI:2 International Poland is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Warsaw of . of .,Poland,0,Poland,0,-3.38081
+[CLS] SPI:2 International Poland is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Polish - Poland Poland ),Poland,0,Poland,0,-3.79318
+[CLS] SPI:2 International Poland is located in [MASK] [MASK] [MASK] . [SEP],Polish and Kraków,Poland,0,Poland,0,-4.15884
+[CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.23527
 [CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . S,Hungary,0,Hungary,0,-3.29354
+[CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of . ofs:2,Hungary,0,Hungary,0,-4.06086
+[CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Newo:2 S theo:2,Hungary,0,Hungary,0,-4.41365
+[CLS] ExperiDance:4 Production is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No City de - City,Hungary,0,Hungary,0,-4.58296
 [CLS] St . Stephen Association is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,s:2",Hungary,0,Hungary,0,-1.82439
 [CLS] St . Stephen Association is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . .,Hungary,0,Hungary,0,-2.75902
+[CLS] St . Stephen Association is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Sts:2 of S,Hungary,0,Hungary,0,-3.62193
+[CLS] St . Stephen Association is located in [MASK] [MASK] [MASK] . [SEP],San of St,Hungary,0,Hungary,0,-4.15020
+[CLS] St . Stephen Association is located in [MASK] [MASK] [MASK] . [SEP],S -e:2,Hungary,0,Hungary,0,-4.38256
 [CLS] Cirko:2 Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.24074
 [CLS] Cirko:2 Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ci . of .s:2,Hungary,0,Hungary,0,-2.97475
+[CLS] Cirko:2 Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San de de ofo:2,Hungary,0,Hungary,0,-3.51734
+[CLS] Cirko:2 Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"la of . de ,",Hungary,0,Hungary,0,-3.89929
+[CLS] Cirko:2 Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Eloo:3 the S,Hungary,0,Hungary,0,-4.34505
 [CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-2.13898
-[CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,a:2",Hungary,0,Hungary,0,-3.22382
-[CLS] PannonPharma:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Pannon:2 ofharma:3,Hungary,0,Hungary,0,-1.32417
+[CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,a:2",Hungary,0,Hungary,0,-3.22381
+[CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],la of de .s:2,Hungary,0,Hungary,0,-3.68527
+[CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San de . theo:2,Hungary,0,Hungary,0,-4.20885
+[CLS] Mozinet:3 is located in [MASK] [MASK] [MASK] . [SEP],Mu -a:2,Hungary,0,Hungary,0,-4.40006
+[CLS] PannonPharma:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Pannon:2 ofharma:3,Hungary,0,Hungary,0,-1.32418
 [CLS] PannonPharma:5 ( Hungary ) is located in [MASK] [MASK] . [SEP],Pan city,Hungary,0,Hungary,0,-2.59648
+[CLS] PannonPharma:5 ( Hungary ) is located in [MASK] [MASK] . [SEP],this district,Hungary,0,Hungary,0,-2.99839
+[CLS] PannonPharma:5 ( Hungary ) is located in [MASK] [MASK] . [SEP],that village,Hungary,0,Hungary,0,-3.90580
+[CLS] PannonPharma:5 ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-4.19081
 [CLS] Sager:2 Pharma:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.76586
 [CLS] Sager:2 Pharma:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Sage of ,arma:2",Hungary,0,Hungary,0,-2.82144
-[CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of Hungary",Hungary,0,Hungary,0,-1.99488
+[CLS] Sager:2 Pharma:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a ,r:2 ,arma:2",Hungary,0,Hungary,0,-3.39799
+[CLS] Sager:2 Pharma:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S of , .s:2",Hungary,0,Hungary,0,-3.89202
+[CLS] Sager:2 Pharma:2 ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-4.12261
+[CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of Hungary",Hungary,0,Hungary,0,-1.99489
 [CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . ( - Hungary,Hungary,0,Hungary,0,-3.17975
+[CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S ( , , Lab",Hungary,0,Hungary,0,-3.54922
+[CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest - - the Budapest,Hungary,0,Hungary,0,-3.86832
+[CLS] Search - Lab ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary of . ins:2,Hungary,0,Hungary,0,-4.17971
 [CLS] Financial Research ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.31640
 [CLS] Financial Research ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.77565
+[CLS] Financial Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary ( in Budapest,Hungary,0,Hungary,0,-3.54213
+[CLS] Financial Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],a of . University,Hungary,0,Hungary,0,-3.76356
+[CLS] Financial Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Financial capital in . Budapest,Hungary,0,Hungary,0,-4.05988
 [CLS] BorsodChem:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],BorsodChem:5,Hungary,0,Hungary,0,-1.73409
 [CLS] BorsodChem:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of ofm:2,Hungary,0,Hungary,0,-2.76799
-[CLS] Cinema City Hungary is located in [MASK] [MASK] [MASK] . [SEP],Cinema City Hungary,Hungary,0,Hungary,0,-0.48163
+[CLS] BorsodChem:5 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.46281
+[CLS] BorsodChem:5 is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.74262
+[CLS] BorsodChem:5 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-4.15365
+[CLS] Cinema City Hungary is located in [MASK] [MASK] [MASK] . [SEP],Cinema City Hungary,Hungary,0,Hungary,0,-0.48164
 [CLS] Cinema City Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.52947
+[CLS] Cinema City Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Cinema of . the City,Hungary,0,Hungary,0,-3.51368
+[CLS] Cinema City Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest City Cinema . .,Hungary,0,Hungary,0,-3.74099
+[CLS] Cinema City Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S - the in city,Hungary,0,Hungary,0,-4.22310
 [CLS] Waberer:3 ' s International Nyrt:2 is located in [MASK] [MASK] [MASK] . [SEP],Waber:3,Hungary,0,Hungary,0,-0.90405
 [CLS] Waberer:3 ' s International Nyrt:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of . )",Hungary,0,Hungary,0,-2.98718
-[CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Balatonboglár:5,Hungary,0,Hungary,0,-0.20252
+[CLS] Waberer:3 ' s International Nyrt:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . W ins:2,Hungary,0,Hungary,0,-3.73668
+[CLS] Waberer:3 ' s International Nyrt:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of . of York,Hungary,0,Hungary,0,-4.13743
+[CLS] Waberer:3 ' s International Nyrt:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New in ( Newrt:2,Hungary,0,Hungary,0,-4.43155
+[CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Balatonboglár:5,Hungary,0,Hungary,0,-0.20253
 [CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-2.16235
-[CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,o:2",Hungary,0,Hungary,0,-2.27064
+[CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.65810
+[CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.99723
+[CLS] Balatonboglári:5 Borgazdasági:4 Ltd . is located in [MASK] [MASK] [MASK] . [SEP],Buopa:3,Hungary,0,Hungary,0,-4.20200
+[CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,o:2",Hungary,0,Hungary,0,-2.27065
 [CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of ofs:2,Hungary,0,Hungary,0,-3.06885
-[CLS] Geonardo:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-1.58190
-[CLS] Geonardo:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-2.78024
+[CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . . .,Hungary,0,Hungary,0,-3.76386
+[CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Theo:2 . City,Hungary,0,Hungary,0,-4.11025
+[CLS] ArrivaBus:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],A City ina:2,Hungary,0,Hungary,0,-4.51713
+[CLS] Geonardo:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-1.58191
+[CLS] Geonardo:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-2.78023
+[CLS] Geonardo:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],a valley,Hungary,0,Hungary,0,-3.65524
+[CLS] Geonardo:3 ( Hungary ) is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-3.83434
+[CLS] Geonardo:3 ( Hungary ) is located in [MASK] . [SEP],Slovenia,Hungary,0,Hungary,0,-3.94796
 [CLS] Transman:2 Consulting:3 for Transport System Management is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"theman:2 , ,man:2",Hungary,0,Hungary,0,-1.77958
 [CLS] Transman:2 Consulting:3 for Transport System Management is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"New , City New Texas",Hungary,0,Hungary,0,-3.67393
-[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.73575
-[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] . [SEP],this region,Hungary,0,Hungary,0,-2.66021
+[CLS] Transman:2 Consulting:3 for Transport System Management is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Co . ( . California,Hungary,0,Hungary,0,-4.31164
+[CLS] Transman:2 Consulting:3 for Transport System Management is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Tuston:3 in ),Hungary,0,Hungary,0,-4.47733
+[CLS] Transman:2 Consulting:3 for Transport System Management is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sann:2 County of Canada,Hungary,0,Hungary,0,-4.55226
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.73576
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] . [SEP],this region,Hungary,0,Hungary,0,-2.66020
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of -car:2 city,Hungary,0,Hungary,0,-3.78387
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],3 - . Cars:2,Hungary,0,Hungary,0,-4.24021
+[CLS] 3R:2 Agrocarbon:4 ( Hungary ) is located in [MASK] [MASK] . [SEP],a centre,Hungary,0,Hungary,0,-4.36975
 [CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],theárs:3,Hungary,0,Hungary,0,-1.55363
-[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.42636
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.42635
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a (s:2 the Hungary,Hungary,0,Hungary,0,-3.26558
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.84175
+[CLS] Kortárs:3 Könyvkiadói:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"K - , - Budapest",Hungary,0,Hungary,0,-4.05989
 [CLS] Nap:2 Kiadó ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.44305
 [CLS] Nap:2 Kiadó ( Hungary ) is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-3.08777
+[CLS] Nap:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.49946
+[CLS] Nap:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-4.01695
+[CLS] Nap:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-4.02969
 [CLS] ProVideo:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , ,o:2",Hungary,0,Hungary,0,-1.75169
 [CLS] ProVideo:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of of City,Hungary,0,Hungary,0,-2.85878
+[CLS] ProVideo:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a City de . .,Hungary,0,Hungary,0,-3.61331
+[CLS] ProVideo:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El of . thes:2,Hungary,0,Hungary,0,-4.00452
+[CLS] ProVideo:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],La de S de city,Hungary,0,Hungary,0,-4.43109
 [CLS] Central European University Press is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , Europe",Hungary,0,Hungary,0,-2.12841
 [CLS] Central European University Press is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Central . , , .",Hungary,0,Hungary,0,-2.97873
-[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.07020
-[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . City,Hungary,0,Hungary,0,-2.88960
+[CLS] Central European University Press is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.06130
+[CLS] Central European University Press is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.12438
+[CLS] Central European University Press is located in [MASK] [MASK] [MASK] . [SEP],Central ands:2,Hungary,0,Hungary,0,-4.09733
+[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.07021
+[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . City,Hungary,0,Hungary,0,-2.88959
+[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City . ofo:2,Hungary,0,Hungary,0,-3.58435
+[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El ofo:2 thes:2,Hungary,0,Hungary,0,-4.23660
+[CLS] K & H Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ao:2 de in York,Hungary,0,Hungary,0,-4.32756
 [CLS] Világgazdaság:5 is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-2.14026
 [CLS] Világgazdaság:5 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-2.93944
-[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-2.13748
-[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,o:2",Hungary,0,Hungary,0,-3.20248
-[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],N - Gene,Hungary,0,Hungary,0,-0.69208
-[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],the . gene,Hungary,0,Hungary,0,-2.60648
-[CLS] Budapest Film is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.55049
+[CLS] Világgazdaság:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest of . the Hungary,Hungary,0,Hungary,0,-3.88671
+[CLS] Világgazdaság:5 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-4.06962
+[CLS] Világgazdaság:5 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-4.27442
+[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-2.13749
+[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,o:2",Hungary,0,Hungary,0,-3.20247
+[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],la of . .s:2,Hungary,0,Hungary,0,-3.79356
+[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ao:2 de the city,Hungary,0,Hungary,0,-4.23283
+[CLS] MOKÉP:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San deo:2 dea:2,Hungary,0,Hungary,0,-4.51835
+[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],N - Gene,Hungary,0,Hungary,0,-0.69209
+[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],the . gene,Hungary,0,Hungary,0,-2.60647
+[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"N , N the gene",Hungary,0,Hungary,0,-3.33861
+[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S of - in Hungary,Hungary,0,Hungary,0,-3.92570
+[CLS] N - Gene ( Hungary ) is located in [MASK] [MASK] . [SEP],a village,Hungary,0,Hungary,0,-4.19751
+[CLS] Budapest Film is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.55050
 [CLS] Budapest Film is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , Hungary",Hungary,0,Hungary,0,-2.50181
+[CLS] Budapest Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of . , )",Hungary,0,Hungary,0,-3.37890
+[CLS] Budapest Film is located in [MASK] [MASK] [MASK] [MASK] . [SEP],S Budapest . ),Hungary,0,Hungary,0,-3.95341
+[CLS] Budapest Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S Budapest de thes:2,Hungary,0,Hungary,0,-4.31304
 [CLS] Lukács:3 és Társa:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-1.36558
 [CLS] Lukács:3 és Társa:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the district - thers:2,Hungary,0,Hungary,0,-2.67432
-[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.92867
+[CLS] Lukács:3 és Társa:2 ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.32083
+[CLS] Lukács:3 és Társa:2 ( Hungary ) is located in [MASK] . [SEP],north,Hungary,0,Hungary,0,-3.49265
+[CLS] Lukács:3 és Társa:2 ( Hungary ) is located in [MASK] . [SEP],south,Hungary,0,Hungary,0,-3.74042
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.92868
 [CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.62009
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.20992
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.33574
+[CLS] MFKK:3 Invention:2 and Research Center Services ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Fks:3,Hungary,0,Hungary,0,-4.11415
 [CLS] Research and Development for Silicates:3 and Ceramics:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , California",Hungary,0,Hungary,0,-2.25410
 [CLS] Research and Development for Silicates:3 and Ceramics:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of . York,Hungary,0,Hungary,0,-3.54846
-[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.58698
-[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.63399
+[CLS] Research and Development for Silicates:3 and Ceramics:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of .,Hungary,0,Hungary,0,-4.13652
+[CLS] Research and Development for Silicates:3 and Ceramics:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S and S in Canada,Hungary,0,Hungary,0,-4.29157
+[CLS] Research and Development for Silicates:3 and Ceramics:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The City ( thes:2,Hungary,0,Hungary,0,-4.47041
+[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.58699
+[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.63398
+[CLS] ASL:2 Airlines Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . of ),Hungary,0,Hungary,0,-3.39724
+[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.95707
+[CLS] ASL:2 Airlines Hungary is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.95936
 [CLS] Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Tisza:2 of district,Hungary,0,Hungary,0,-1.22757
 [CLS] Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-1.98073
+[CLS] Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is located in [MASK] [MASK] . [SEP],this village,Hungary,0,Hungary,0,-3.23443
+[CLS] Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.86623
+[CLS] Tiszai:3 Vegyi:2 Kombinát:3 Nyrt:2 . is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-4.05814
 [CLS] Szeged Transport Ltd . is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-0.00565
 [CLS] Szeged Transport Ltd . is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-2.41460
+[CLS] Szeged Transport Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"S Szeged , , S",Hungary,0,Hungary,0,-3.28012
+[CLS] Szeged Transport Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . . ),Hungary,0,Hungary,0,-3.58839
+[CLS] Szeged Transport Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a - in the city,Hungary,0,Hungary,0,-4.25581
 [CLS] Borsod:3 Brewery:2 is located in [MASK] [MASK] [MASK] . [SEP],Borsod:3,Hungary,0,Hungary,0,-0.06247
 [CLS] Borsod:3 Brewery:2 is located in [MASK] [MASK] . [SEP],Borso:2,Hungary,0,Hungary,0,-2.82018
+[CLS] Borsod:3 Brewery:2 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.70445
+[CLS] Borsod:3 Brewery:2 is located in [MASK] . [SEP],Bo,Hungary,0,Hungary,0,-3.92105
+[CLS] Borsod:3 Brewery:2 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-4.37456
 [CLS] Gaijin:3 Entertainment is located in [MASK] . [SEP],Tokyo,Hungary,0,Hungary,0,-1.96612
 [CLS] Gaijin:3 Entertainment is located in [MASK] . [SEP],Osaka,Hungary,0,Hungary,0,-2.34039
+[CLS] Gaijin:3 Entertainment is located in [MASK] . [SEP],Japan,Hungary,0,Hungary,0,-2.83290
+[CLS] Gaijin:3 Entertainment is located in [MASK] . [SEP],Sapporo,Hungary,0,Hungary,0,-3.11220
+[CLS] Gaijin:3 Entertainment is located in [MASK] . [SEP],Shanghai,Hungary,0,Hungary,0,-3.59515
 [CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"theigo:2 ,s:2",Hungary,0,Hungary,0,-2.26671
-[CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , ,s:2",Hungary,0,Hungary,0,-3.34319
-[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , California",Hungary,0,Hungary,0,-2.06485
+[CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , ,s:2",Hungary,0,Hungary,0,-3.34318
+[CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],la of de theo:2,Hungary,0,Hungary,0,-3.79043
+[CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The de . . ),Hungary,0,Hungary,0,-4.29789
+[CLS] Vertigo:2 Média:2 is located in [MASK] [MASK] [MASK] . [SEP],L ofa:2,Hungary,0,Hungary,0,-4.62416
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , California",Hungary,0,Hungary,0,-2.06486
 [CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] . [SEP],San . City,Hungary,0,Hungary,0,-3.86783
-[CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.59726
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New .o:2 in Texas,Hungary,0,Hungary,0,-4.17850
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Lasa:3 New York,Hungary,0,Hungary,0,-4.39857
+[CLS] Enviroinvest:4 Environmental and Biotechnological:3 Corp is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El Citys:2 of ),Hungary,0,Hungary,0,-4.58239
+[CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.59727
 [CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Vic , , , )",Hungary,0,Hungary,0,-2.93354
+[CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] . [SEP],Vic village,Hungary,0,Hungary,0,-3.41463
+[CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Vi - ( .m:2,Hungary,0,Hungary,0,-3.98075
+[CLS] Vichem:2 Chemie ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest ( - in city,Hungary,0,Hungary,0,-4.10565
 [CLS] Hungarian Geological Society is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-1.92601
 [CLS] Hungarian Geological Society is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.31639
+[CLS] Hungarian Geological Society is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.17474
+[CLS] Hungarian Geological Society is located in [MASK] . [SEP],Hungarian,Hungary,0,Hungary,0,-3.61921
+[CLS] Hungarian Geological Society is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.68674
 [CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.12398
-[CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .o:2,Hungary,0,Hungary,0,-2.98281
+[CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .o:2,Hungary,0,Hungary,0,-2.98280
+[CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Hungary,0,Hungary,0,-3.62573
+[CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Noo:2 de the S,Hungary,0,Hungary,0,-4.24566
+[CLS] Filmservice:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],La deo:2 de City,Hungary,0,Hungary,0,-4.56438
 [CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",Hungary,0,Hungary,0,-2.01170
-[CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of of California,Hungary,0,Hungary,0,-3.37944
+[CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of of California,Hungary,0,Hungary,0,-3.37943
+[CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a City . . ),Hungary,0,Hungary,0,-4.14399
+[CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of City in City,Hungary,0,Hungary,0,-4.32332
+[CLS] Inforg:2 - M & M Film is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San Yorks:2 News:2,Hungary,0,Hungary,0,-4.48696
 [CLS] ARC:2 buses in Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.89178
 [CLS] ARC:2 buses in Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.10324
+[CLS] ARC:2 buses in Hungary is located in [MASK] [MASK] [MASK] . [SEP],Hungary iny:2,Hungary,0,Hungary,0,-3.49716
+[CLS] ARC:2 buses in Hungary is located in [MASK] [MASK] [MASK] [MASK] . [SEP],a ( in ),Hungary,0,Hungary,0,-3.91822
+[CLS] ARC:2 buses in Hungary is located in [MASK] [MASK] [MASK] . [SEP],a ofs:2,Hungary,0,Hungary,0,-4.07407
 [CLS] Varga Studio is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-2.31911
 [CLS] Varga Studio is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.87911
-[CLS] Big Bang Media is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.22728
+[CLS] Varga Studio is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.42332
+[CLS] Varga Studio is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.57003
+[CLS] Varga Studio is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.68130
+[CLS] Big Bang Media is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.22729
 [CLS] Big Bang Media is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The . of ofs:2,Hungary,0,Hungary,0,-3.11817
+[CLS] Big Bang Media is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New of . . York,Hungary,0,Hungary,0,-3.74483
+[CLS] Big Bang Media is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No City S the City,Hungary,0,Hungary,0,-4.27782
+[CLS] Big Bang Media is located in [MASK] [MASK] . [SEP],North Town,Hungary,0,Hungary,0,-4.60258
 [CLS] Innomed:3 Medical is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.18089
 [CLS] Innomed:3 Medical is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .s:2,Hungary,0,Hungary,0,-2.85208
+[CLS] Innomed:3 Medical is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No of . ofo:2,Hungary,0,Hungary,0,-3.86189
+[CLS] Innomed:3 Medical is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 de the City,Hungary,0,Hungary,0,-4.41188
+[CLS] Innomed:3 Medical is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Theos:3 det:2,Hungary,0,Hungary,0,-4.66504
 [CLS] CityLine:3 Hungary is located in [MASK] [MASK] [MASK] [MASK] . [SEP],CityL:2 of Hungary,Hungary,0,Hungary,0,-1.66989
 [CLS] CityLine:3 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.96061
-[CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Mexico",Hungary,0,Hungary,0,-2.34865
+[CLS] CityLine:3 Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . . . .,Hungary,0,Hungary,0,-3.50632
+[CLS] CityLine:3 Hungary is located in [MASK] . [SEP],Vienna,Hungary,0,Hungary,0,-3.92934
+[CLS] CityLine:3 Hungary is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-4.02038
+[CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Mexico",Hungary,0,Hungary,0,-2.34866
 [CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of ofs:2,Hungary,0,Hungary,0,-3.57426
-[CLS] Corvinno:3 Technology Transfer is located in [MASK] [MASK] [MASK] . [SEP],Corvinno:3,Hungary,0,Hungary,0,-0.15939
+[CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of de . .,Hungary,0,Hungary,0,-4.22152
+[CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Lao:2 . theo:2,Hungary,0,Hungary,0,-4.49918
+[CLS] MOLTRADE:5 - Mineralimpex:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El ando:2 de City,Hungary,0,Hungary,0,-4.68199
+[CLS] Corvinno:3 Technology Transfer is located in [MASK] [MASK] [MASK] . [SEP],Corvinno:3,Hungary,0,Hungary,0,-0.15940
 [CLS] Corvinno:3 Technology Transfer is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the ,nono:3",Hungary,0,Hungary,0,-2.81536
+[CLS] Corvinno:3 Technology Transfer is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.28042
+[CLS] Corvinno:3 Technology Transfer is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Coo:2 . .,Hungary,0,Hungary,0,-4.05988
+[CLS] Corvinno:3 Technology Transfer is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-4.18571
 [CLS] Argumentum:4 Kiadó ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Argumentum:4 ),Hungary,0,Hungary,0,-1.54279
 [CLS] Argumentum:4 Kiadó ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of of Hungary,Hungary,0,Hungary,0,-3.02176
-[CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , Hungary",Hungary,0,Hungary,0,-2.14479
+[CLS] Argumentum:4 Kiadó ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.47987
+[CLS] Argumentum:4 Kiadó ( Hungary ) is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.60066
+[CLS] Argumentum:4 Kiadó ( Hungary ) is located in [MASK] . [SEP],Prague,Hungary,0,Hungary,0,-3.92964
+[CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , Hungary",Hungary,0,Hungary,0,-2.14480
 [CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Pro , of . Hungary",Hungary,0,Hungary,0,-2.66046
-[CLS] Meditop:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],Meditop:2,Hungary,0,Hungary,0,-0.44393
-[CLS] Meditop:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-3.17422
+[CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S ( ( in .,Hungary,0,Hungary,0,-3.53858
+[CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a and . of Technology,Hungary,0,Hungary,0,-3.74911
+[CLS] ProDSP:3 Technologies ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],P of and thes:2,Hungary,0,Hungary,0,-4.18251
+[CLS] Meditop:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],Meditop:2,Hungary,0,Hungary,0,-0.44394
+[CLS] Meditop:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-3.17421
+[CLS] Meditop:2 ( Hungary ) is located in [MASK] . [SEP],Slovenia,Hungary,0,Hungary,0,-3.59030
+[CLS] Meditop:2 ( Hungary ) is located in [MASK] . [SEP],Italy,Hungary,0,Hungary,0,-3.61331
+[CLS] Meditop:2 ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.69398
 [CLS] FumoPrep:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],FumoPrep:5,Hungary,0,Hungary,0,-0.92076
 [CLS] FumoPrep:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Fu of , Hungary",Hungary,0,Hungary,0,-2.97322
-[CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , York",Hungary,0,Hungary,0,-2.06549
+[CLS] FumoPrep:5 ( Hungary ) is located in [MASK] [MASK] . [SEP],its district,Hungary,0,Hungary,0,-3.81399
+[CLS] FumoPrep:5 ( Hungary ) is located in [MASK] [MASK] . [SEP],a town,Hungary,0,Hungary,0,-4.14194
+[CLS] FumoPrep:5 ( Hungary ) is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-4.32012
+[CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , York",Hungary,0,Hungary,0,-2.06550
 [CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],United . of . California,Hungary,0,Hungary,0,-3.60497
+[CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Us:2 . United County,Hungary,0,Hungary,0,-3.97651
+[CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City County of Co,Hungary,0,Hungary,0,-4.18375
+[CLS] United Bulb:2 and Electricity:2 Co . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Northo:2 City New Hampshire,Hungary,0,Hungary,0,-4.45315
 [CLS] Roche ( Hungary ) is located in [MASK] [MASK] . [SEP],the Roche,Hungary,0,Hungary,0,-0.34910
 [CLS] Roche ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Roche same region,Hungary,0,Hungary,0,-2.81339
+[CLS] Roche ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . - , France",Hungary,0,Hungary,0,-3.72843
+[CLS] Roche ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],R R . region,Hungary,0,Hungary,0,-4.05737
+[CLS] Roche ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],its of the - region,Hungary,0,Hungary,0,-4.49038
 [CLS] Fényszóró:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of ofó:2,Hungary,0,Hungary,0,-2.10925
-[CLS] Fényszóró:5 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"F . , district",Hungary,0,Hungary,0,-3.09392
-[CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],thewatech:3,Hungary,0,Hungary,0,-1.09129
+[CLS] Fényszóró:5 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"F . , district",Hungary,0,Hungary,0,-3.09391
+[CLS] Fényszóró:5 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],aó:2 . District,Hungary,0,Hungary,0,-3.47341
+[CLS] Fényszóró:5 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.79222
+[CLS] Fényszóró:5 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.83492
+[CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],thewatech:3,Hungary,0,Hungary,0,-1.09130
 [CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],this city,Hungary,0,Hungary,0,-2.59521
+[CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],a town,Hungary,0,Hungary,0,-3.28425
+[CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],that river,Hungary,0,Hungary,0,-3.54579
+[CLS] Inwatech:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],its district,Hungary,0,Hungary,0,-3.81849
 [CLS] Novartis:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-1.21200
 [CLS] Novartis:3 ( Hungary ) is located in [MASK] . [SEP],Italy,Hungary,0,Hungary,0,-2.90827
+[CLS] Novartis:3 ( Hungary ) is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.24995
+[CLS] Novartis:3 ( Hungary ) is located in [MASK] . [SEP],Slovenia,Hungary,0,Hungary,0,-3.58330
+[CLS] Novartis:3 ( Hungary ) is located in [MASK] . [SEP],north,Hungary,0,Hungary,0,-3.72743
 [CLS] BioTalentum:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],BioT:2 oftum:2,Hungary,0,Hungary,0,-1.49685
-[CLS] BioTalentum:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the ofalenm:3,Hungary,0,Hungary,0,-2.80123
-[CLS] Slot Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Slot , , Singapore",Hungary,0,Hungary,0,-2.12246
+[CLS] BioTalentum:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the ofalenm:3,Hungary,0,Hungary,0,-2.80122
+[CLS] BioTalentum:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . - .m:2,Hungary,0,Hungary,0,-3.78453
+[CLS] BioTalentum:4 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],a - - Hungary,Hungary,0,Hungary,0,-4.11968
+[CLS] BioTalentum:4 ( Hungary ) is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-4.30324
+[CLS] Slot Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Slot , , Singapore",Hungary,0,Hungary,0,-2.12247
 [CLS] Slot Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Slot . of ofs:2,Hungary,0,Hungary,0,-3.09343
-[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.13376
-[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of of ),Hungary,0,Hungary,0,-3.66527
+[CLS] Slot Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . . S,Hungary,0,Hungary,0,-3.82727
+[CLS] Slot Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S - the the ),Hungary,0,Hungary,0,-4.29838
+[CLS] Slot Consulting:3 is located in [MASK] . [SEP],Jakarta,Hungary,0,Hungary,0,-4.45097
+[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.13377
+[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of of ),Hungary,0,Hungary,0,-3.66526
+[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S - ( . City,Hungary,0,Hungary,0,-4.11681
+[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],North of . in California,Hungary,0,Hungary,0,-4.32875
+[CLS] Systemexpert:3 Consulting:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 City the York,Hungary,0,Hungary,0,-4.48353
 [CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Germany,0,Germany,0,-2.29129
-[CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Germany,0,Germany,0,-3.32115
+[CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Germany,0,Germany,0,-3.32114
+[CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A of . .o:2,Germany,0,Germany,0,-3.75453
+[CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] . [SEP],Al ofa:2,Germany,0,Germany,0,-4.17984
+[CLS] ALDI:2 Süd is located in [MASK] [MASK] [MASK] . [SEP],ADe:3,Germany,0,Germany,0,-4.22081
 [CLS] Pécs:2 Organ Manufactory:3 is located in [MASK] [MASK] . [SEP],Pécs:2,Hungary,0,Hungary,0,-0.33037
 [CLS] Pécs:2 Organ Manufactory:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Hungary",Hungary,0,Hungary,0,-2.93034
-[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] [MASK] . [SEP],the village,Hungary,0,Hungary,0,-1.75810
+[CLS] Pécs:2 Organ Manufactory:3 is located in [MASK] [MASK] [MASK] . [SEP],"Pi ,écs:2",Hungary,0,Hungary,0,-3.52855
+[CLS] Pécs:2 Organ Manufactory:3 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.90547
+[CLS] Pécs:2 Organ Manufactory:3 is located in [MASK] . [SEP],Pest,Hungary,0,Hungary,0,-4.03318
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] [MASK] . [SEP],the village,Hungary,0,Hungary,0,-1.75811
 [CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-3.41582
-[CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Szuro:3,Hungary,0,Hungary,0,-0.90811
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.54850
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] . [SEP],village,Hungary,0,Hungary,0,-3.75389
+[CLS] MÁV:3 - HÉV:3 Helyiérdekű:5 Vasút:2 Zrt:2 . is located in [MASK] . [SEP],this,Hungary,0,Hungary,0,-4.11539
+[CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Szuro:3,Hungary,0,Hungary,0,-0.90812
 [CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S .zuro:3 Hungary,Hungary,0,Hungary,0,-2.69862
-[CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Teva:2 of Hungary,Hungary,0,Hungary,0,-1.76635
+[CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , , )",Hungary,0,Hungary,0,-3.58948
+[CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary So:2 the city,Hungary,0,Hungary,0,-4.00629
+[CLS] Szuro:3 Trade ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],s of . . City,Hungary,0,Hungary,0,-4.21084
+[CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Teva:2 of Hungary,Hungary,0,Hungary,0,-1.76636
 [CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , Hungary",Hungary,0,Hungary,0,-2.83806
-[CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Pharma:2 Hungary,Hungary,0,Hungary,0,-1.44959
+[CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ( theva:2",Hungary,0,Hungary,0,-3.53934
+[CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],T of . .s:2,Hungary,0,Hungary,0,-3.84251
+[CLS] Teva:2 Pharmaceuticals:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The ( - ina:2,Hungary,0,Hungary,0,-4.13165
+[CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],Pharma:2 Hungary,Hungary,0,Hungary,0,-1.44960
 [CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.47710
+[CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"aarma:2 , , .",Hungary,0,Hungary,0,-3.30446
+[CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],P of ( . P,Hungary,0,Hungary,0,-3.64892
+[CLS] Pharma:2 Patent ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The ( . ins:2,Hungary,0,Hungary,0,-3.88753
 [CLS] Sanofi:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],the region,Hungary,0,Hungary,0,-1.21464
-[CLS] Sanofi:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],this village,Hungary,0,Hungary,0,-3.00223
+[CLS] Sanofi:3 ( Hungary ) is located in [MASK] [MASK] . [SEP],this village,Hungary,0,Hungary,0,-3.00222
+[CLS] Sanofi:3 ( Hungary ) is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-3.29394
+[CLS] Sanofi:3 ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.33067
+[CLS] Sanofi:3 ( Hungary ) is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.60181
 [CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.97165
-[CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],thek:2 ofcs:2,Hungary,0,Hungary,0,-2.63245
-[CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.43499
+[CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],thek:2 ofcs:2,Hungary,0,Hungary,0,-2.63244
+[CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"at . ,s:2",Hungary,0,Hungary,0,-3.58877
+[CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a - - . .,Hungary,0,Hungary,0,-3.96246
+[CLS] Ateknea:3 Solutions ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A ( and incs:2,Hungary,0,Hungary,0,-4.13138
+[CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.43500
 [CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Bala of ( the Hungary,Hungary,0,Hungary,0,-3.10410
+[CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.51168
+[CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.85617
+[CLS] Balassi:2 Kiadó ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-4.29774
 [CLS] Cereal:2 Research ( Hungary ) is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-1.72815
 [CLS] Cereal:2 Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ce , ( the Hungary",Hungary,0,Hungary,0,-2.81236
-[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],themunoGenes:5,Hungary,0,Hungary,0,-1.51980
-[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.55326
+[CLS] Cereal:2 Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"areal:2 , , .",Hungary,0,Hungary,0,-3.67444
+[CLS] Cereal:2 Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],ce of .reals:3,Hungary,0,Hungary,0,-3.91214
+[CLS] Cereal:2 Research ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C ( Ce in University,Hungary,0,Hungary,0,-4.03435
+[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],themunoGenes:5,Hungary,0,Hungary,0,-1.51981
+[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.55325
+[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.72479
+[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"in , - thees:2",Hungary,0,Hungary,0,-4.08398
+[CLS] ImmunoGenes:5 ( Hungary ) is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-4.24406
 [CLS] Raiffeisen:3 Bank Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.98492
 [CLS] Raiffeisen:3 Bank Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.38312
+[CLS] Raiffeisen:3 Bank Hungary is located in [MASK] [MASK] [MASK] . [SEP],the -y:2,Hungary,0,Hungary,0,-3.51699
+[CLS] Raiffeisen:3 Bank Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S - - . Romania,Hungary,0,Hungary,0,-3.89049
+[CLS] Raiffeisen:3 Bank Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of in the .,Hungary,0,Hungary,0,-4.19864
 [CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the of of Hungary,Hungary,0,Hungary,0,-1.42562
-[CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary of ( the ),Hungary,0,Hungary,0,-2.79349
+[CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Hungary of ( the ),Hungary,0,Hungary,0,-2.79348
+[CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],a .y:2,Hungary,0,Hungary,0,-3.68180
+[CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],S ofs:2,Hungary,0,Hungary,0,-3.91816
+[CLS] Johnson & Johnson ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest and and . .,Hungary,0,Hungary,0,-4.04173
 [CLS] Campden:2 BRI:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],Camp town,Hungary,0,Hungary,0,-0.97717
 [CLS] Campden:2 BRI:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],theden:2,Hungary,0,Hungary,0,-1.34924
+[CLS] Campden:2 BRI:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],this village,Hungary,0,Hungary,0,-3.07865
+[CLS] Campden:2 BRI:2 ( Hungary ) is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.98167
+[CLS] Campden:2 BRI:2 ( Hungary ) is located in [MASK] . [SEP],this,Hungary,0,Hungary,0,-4.21187
 [CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the ' Harmattan:3,Hungary,0,Hungary,0,-0.96658
-[CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],L . of of ),Hungary,0,Hungary,0,-2.96957
+[CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],L . of of ),Hungary,0,Hungary,0,-2.96956
+[CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],a ( inn:2,Hungary,0,Hungary,0,-3.73512
+[CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] . [SEP],Rome,Hungary,0,Hungary,0,-4.11147
+[CLS] L ' Harmattan:3 ( Hungary ) is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-4.12723
 [CLS] Veiki:2 - VNL:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],theiki:2 - VNL:2,Hungary,0,Hungary,0,-1.41250
 [CLS] Veiki:2 - VNL:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Vei:2 of of ),Hungary,0,Hungary,0,-2.70921
+[CLS] Veiki:2 - VNL:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],Ve province,Hungary,0,Hungary,0,-3.30381
+[CLS] Veiki:2 - VNL:2 ( Hungary ) is located in [MASK] . [SEP],Slovakia,Hungary,0,Hungary,0,-3.74367
+[CLS] Veiki:2 - VNL:2 ( Hungary ) is located in [MASK] . [SEP],Serbia,Hungary,0,Hungary,0,-3.90587
 [CLS] Brainvest:2 ( Hungary ) is located in [MASK] [MASK] [MASK] . [SEP],the Brainvest:2,Hungary,0,Hungary,0,-0.69095
 [CLS] Brainvest:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],Brain region,Hungary,0,Hungary,0,-2.50322
-[CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],R of of Hungary,Hungary,0,Hungary,0,-2.01260
+[CLS] Brainvest:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-3.23132
+[CLS] Brainvest:2 ( Hungary ) is located in [MASK] [MASK] . [SEP],its city,Hungary,0,Hungary,0,-3.86543
+[CLS] Brainvest:2 ( Hungary ) is located in [MASK] . [SEP],village,Hungary,0,Hungary,0,-4.24453
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] . [SEP],R of of Hungary,Hungary,0,Hungary,0,-2.01261
 [CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R ( ( R Hungary,Hungary,0,Hungary,0,-2.61756
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , - thes:2",Hungary,0,Hungary,0,-3.65645
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-4.01867
+[CLS] Ráció:2 Kiadói:2 ( Hungary ) is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-4.39852
 [CLS] National Land Mortgage:2 Institute is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,s:2",Hungary,0,Hungary,0,-2.05086
 [CLS] National Land Mortgage:2 Institute is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . .,Hungary,0,Hungary,0,-3.60391
-[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of , .",Hungary,0,Hungary,0,-2.35510
-[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"F , of district",Hungary,0,Hungary,0,-3.20836
-[CLS] RTL Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.17193
+[CLS] National Land Mortgage:2 Institute is located in [MASK] [MASK] . [SEP],Sans:2,Hungary,0,Hungary,0,-3.92771
+[CLS] National Land Mortgage:2 Institute is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Co Citys:2 New York,Hungary,0,Hungary,0,-4.35702
+[CLS] National Land Mortgage:2 Institute is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Northoo:3 in ),Hungary,0,Hungary,0,-4.64404
+[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of , .",Hungary,0,Hungary,0,-2.35511
+[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"F , of district",Hungary,0,Hungary,0,-3.20835
+[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],F of . .s:2,Hungary,0,Hungary,0,-3.63272
+[CLS] FŐMTERV:5 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-4.35010
+[CLS] FŐMTERV:5 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ao:2 and in city,Hungary,0,Hungary,0,-4.54338
+[CLS] RTL Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.17194
 [CLS] RTL Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.68644
-[CLS] Hungarian State Railways is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.65925
-[CLS] Hungarian State Railways is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.09374
+[CLS] RTL Hungary is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.03878
+[CLS] RTL Hungary is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.66660
+[CLS] RTL Hungary is located in [MASK] . [SEP],Győr,Hungary,0,Hungary,0,-4.02610
+[CLS] Hungarian State Railways is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.65926
+[CLS] Hungarian State Railways is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.09373
+[CLS] Hungarian State Railways is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . the Railways,Hungary,0,Hungary,0,-3.54222
+[CLS] Hungarian State Railways is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - in , Budapest",Hungary,0,Hungary,0,-3.93294
+[CLS] Hungarian State Railways is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-4.17684
 [CLS] dm:2 - drogerie:2 markt is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of of Netherlands",Germany,0,Germany,0,-2.26882
-[CLS] dm:2 - drogerie:2 markt is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a - , , city",Germany,0,Germany,0,-3.33923
-[CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of of Hungary",Hungary,0,Hungary,0,-2.29958
+[CLS] dm:2 - drogerie:2 markt is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a - , , city",Germany,0,Germany,0,-3.33922
+[CLS] dm:2 - drogerie:2 markt is located in [MASK] . [SEP],Mechelen,Germany,0,Germany,0,-3.98825
+[CLS] dm:2 - drogerie:2 markt is located in [MASK] [MASK] [MASK] . [SEP],Br ando:2,Germany,0,Germany,0,-4.26773
+[CLS] dm:2 - drogerie:2 markt is located in [MASK] [MASK] [MASK] . [SEP],Sc ofn:2,Germany,0,Germany,0,-4.34709
+[CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of of Hungary",Hungary,0,Hungary,0,-2.29959
 [CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , , )",Hungary,0,Hungary,0,-3.20481
+[CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.70733
+[CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.82880
+[CLS] Magyar Távirati:3 Iroda:2 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-4.20369
 [CLS] Eötvös:4 Loránd:2 University is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.06348
 [CLS] Eötvös:4 Loránd:2 University is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-2.05226
-[CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] . [SEP],"G , France",Hungary,0,Hungary,0,-1.89595
+[CLS] Eötvös:4 Loránd:2 University is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-2.67222
+[CLS] Eötvös:4 Loránd:2 University is located in [MASK] . [SEP],Kolozsvár,Hungary,0,Hungary,0,-3.53308
+[CLS] Eötvös:4 Loránd:2 University is located in [MASK] . [SEP],Győr,Hungary,0,Hungary,0,-3.55694
+[CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] . [SEP],"G , France",Hungary,0,Hungary,0,-1.89596
 [CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Café G of Paris,Hungary,0,Hungary,0,-2.92274
+[CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of de the .,Hungary,0,Hungary,0,-3.62302
+[CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],La . G de ),Hungary,0,Hungary,0,-3.98271
+[CLS] Café Gerbeaud:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Café Café the . Paris,Hungary,0,Hungary,0,-4.15799
 [CLS] MOL:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.13874
 [CLS] MOL:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .o:2,Hungary,0,Hungary,0,-3.00892
-[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.13176
-[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of .s:2,Hungary,0,Hungary,0,-3.17504
-[CLS] Beol:2 . hu is located in [MASK] [MASK] . [SEP],theol:2,Hungary,0,Hungary,0,-2.16131
+[CLS] MOL:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Elo:2 . ofs:2,Hungary,0,Hungary,0,-3.77292
+[CLS] MOL:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No of de the City,Hungary,0,Hungary,0,-4.25816
+[CLS] MOL:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New deo:2 de Mexico,Hungary,0,Hungary,0,-4.51581
+[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.13177
+[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of .s:2,Hungary,0,Hungary,0,-3.17503
+[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of de ofo:2,Hungary,0,Hungary,0,-3.76584
+[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El de . de District,Hungary,0,Hungary,0,-4.04156
+[CLS] CBA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],NooooA:5,Hungary,0,Hungary,0,-4.38331
+[CLS] Beol:2 . hu is located in [MASK] [MASK] . [SEP],theol:2,Hungary,0,Hungary,0,-2.16132
 [CLS] Beol:2 . hu is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Be . ofu:2,Hungary,0,Hungary,0,-2.89487
+[CLS] Beol:2 . hu is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Be - . ,o:2",Hungary,0,Hungary,0,-3.57877
+[CLS] Beol:2 . hu is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of - thea:2,Hungary,0,Hungary,0,-4.19449
+[CLS] Beol:2 . hu is located in [MASK] [MASK] [MASK] [MASK] . [SEP],The - in Hu,Hungary,0,Hungary,0,-4.50775
 [CLS] Dunaújváros:4 Iron and Steel Plant is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Dunaújváros:4,Hungary,0,Hungary,0,-0.25997
 [CLS] Dunaújváros:4 Iron and Steel Plant is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"theúj:3 , Budapest",Hungary,0,Hungary,0,-2.47524
+[CLS] Dunaújváros:4 Iron and Steel Plant is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.30515
+[CLS] Dunaújváros:4 Iron and Steel Plant is located in [MASK] . [SEP],village,Hungary,0,Hungary,0,-3.49506
+[CLS] Dunaújváros:4 Iron and Steel Plant is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.63497
 [CLS] Délmagyarország:7 is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-1.43828
 [CLS] Délmagyarország:7 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.59723
+[CLS] Délmagyarország:7 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.06166
+[CLS] Délmagyarország:7 is located in [MASK] [MASK] . [SEP],that county,Hungary,0,Hungary,0,-3.73143
+[CLS] Délmagyarország:7 is located in [MASK] [MASK] . [SEP],District districts,Hungary,0,Hungary,0,-3.97544
 [CLS] Újpesti:3 Cérnagyár:5 is located in [MASK] [MASK] . [SEP],thepest:2,Hungary,0,Hungary,0,-0.67297
 [CLS] Újpesti:3 Cérnagyár:5 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.35714
-[CLS] Graboplast:3 Zrt:2 . is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.34158
+[CLS] Újpesti:3 Cérnagyár:5 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-2.99146
+[CLS] Újpesti:3 Cérnagyár:5 is located in [MASK] . [SEP],Pest,Hungary,0,Hungary,0,-3.46451
+[CLS] Újpesti:3 Cérnagyár:5 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.80231
+[CLS] Graboplast:3 Zrt:2 . is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.34159
 [CLS] Graboplast:3 Zrt:2 . is located in [MASK] [MASK] . [SEP],this city,Hungary,0,Hungary,0,-3.16724
-[CLS] Kossuth Kiadó is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-1.94081
+[CLS] Graboplast:3 Zrt:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofs:2,Hungary,0,Hungary,0,-3.69124
+[CLS] Graboplast:3 Zrt:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sop:2 and thet:2,Hungary,0,Hungary,0,-4.30073
+[CLS] Graboplast:3 Zrt:2 . is located in [MASK] . [SEP],S,Hungary,0,Hungary,0,-4.47810
+[CLS] Kossuth Kiadó is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-1.94082
 [CLS] Kossuth Kiadó is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-2.68224
+[CLS] Kossuth Kiadó is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.21069
+[CLS] Kossuth Kiadó is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.21318
+[CLS] Kossuth Kiadó is located in [MASK] . [SEP],Kossuth,Hungary,0,Hungary,0,-3.35369
 [CLS] Rába:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of R .,Hungary,0,Hungary,0,-1.97880
 [CLS] Rába:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],R . ofs:2,Hungary,0,Hungary,0,-2.92318
-[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] . [SEP],Pest,Hungary,0,Hungary,0,-0.05136
-[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],thei:2 of of Hungary,Hungary,0,Hungary,0,-2.37110
-[CLS] Magyar Kurír:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.73965
+[CLS] Rába:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"la , , thes:2",Hungary,0,Hungary,0,-3.74140
+[CLS] Rába:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],R de . dea:2,Hungary,0,Hungary,0,-4.02369
+[CLS] Rába:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],S de .ña:2,Hungary,0,Hungary,0,-4.40285
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] . [SEP],Pest,Hungary,0,Hungary,0,-0.05137
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],thei:2 of of Hungary,Hungary,0,Hungary,0,-2.37109
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Buda . Pest Pest Budapest,Hungary,0,Hungary,0,-3.01955
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of ( in ),Hungary,0,Hungary,0,-3.58658
+[CLS] Pesti:2 Magyar Kereskedelmi:4 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest - . .y:2,Hungary,0,Hungary,0,-3.84096
+[CLS] Magyar Kurír:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.73966
 [CLS] Magyar Kurír:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.97680
+[CLS] Magyar Kurír:2 is located in [MASK] [MASK] [MASK] . [SEP],Magyar .y:2,Hungary,0,Hungary,0,-3.38944
+[CLS] Magyar Kurír:2 is located in [MASK] [MASK] [MASK] . [SEP],Hungary in Hungarian,Hungary,0,Hungary,0,-3.77751
+[CLS] Magyar Kurír:2 is located in [MASK] [MASK] [MASK] . [SEP],Hungarian of Budapest,Hungary,0,Hungary,0,-3.92281
 [CLS] Semmelweis:3 University is located in [MASK] [MASK] [MASK] . [SEP],Semmelweis:3,Hungary,0,Hungary,0,-0.94144
 [CLS] Semmelweis:3 University is located in [MASK] [MASK] [MASK] [MASK] . [SEP],themelweis:3 Hungary,Hungary,0,Hungary,0,-2.76600
-[CLS] University of Szeged is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-0.00233
+[CLS] Semmelweis:3 University is located in [MASK] . [SEP],Dresden,Hungary,0,Hungary,0,-3.20382
+[CLS] Semmelweis:3 University is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.23494
+[CLS] Semmelweis:3 University is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.31078
+[CLS] University of Szeged is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-0.00234
 [CLS] University of Szeged is located in [MASK] [MASK] . [SEP],the city,Hungary,0,Hungary,0,-2.37567
+[CLS] University of Szeged is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest of , , Budapest",Hungary,0,Hungary,0,-3.54515
+[CLS] University of Szeged is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S Szeged . . S,Hungary,0,Hungary,0,-3.92945
+[CLS] University of Szeged is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a - S in Hungary,Hungary,0,Hungary,0,-4.41856
 [CLS] Blikk:3 is located in [MASK] [MASK] [MASK] . [SEP],Blikk:3,Hungary,0,Hungary,0,-1.28093
 [CLS] Blikk:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the of , district",Hungary,0,Hungary,0,-3.10516
+[CLS] Blikk:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , thes:2",Hungary,0,Hungary,0,-3.52052
+[CLS] Blikk:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"A - . , city",Hungary,0,Hungary,0,-4.03312
+[CLS] Blikk:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],A - thee:2,Hungary,0,Hungary,0,-4.51623
 [CLS] Budapesti Közlekedési:5 Központ:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.21772
 [CLS] Budapesti Közlekedési:5 Központ:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest Street of Hungary,Hungary,0,Hungary,0,-2.41350
+[CLS] Budapesti Közlekedési:5 Központ:2 is located in [MASK] [MASK] . [SEP],Bol Street,Hungary,0,Hungary,0,-2.82071
+[CLS] Budapesti Közlekedési:5 Központ:2 is located in [MASK] [MASK] . [SEP],B building,Hungary,0,Hungary,0,-3.09898
+[CLS] Budapesti Közlekedési:5 Központ:2 is located in [MASK] [MASK] . [SEP],Central City,Hungary,0,Hungary,0,-3.43722
 [CLS] Gedeon:3 Richter Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , )",Hungary,0,Hungary,0,-2.22956
 [CLS] Gedeon:3 Richter Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],G . of . .,Hungary,0,Hungary,0,-3.16353
-[CLS] Corvinus:3 University of Budapest is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.12676
+[CLS] Gedeon:3 Richter Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New of . of York,Hungary,0,Hungary,0,-4.00607
+[CLS] Gedeon:3 Richter Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Cooo:3 in Zealand,Hungary,0,Hungary,0,-4.12505
+[CLS] Gedeon:3 Richter Ltd . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Gason:3 New California,Hungary,0,Hungary,0,-4.43702
+[CLS] Corvinus:3 University of Budapest is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.12677
 [CLS] Corvinus:3 University of Budapest is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the city of Hungary,Hungary,0,Hungary,0,-2.44403
+[CLS] Corvinus:3 University of Budapest is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest University in University,Hungary,0,Hungary,0,-2.97008
+[CLS] Corvinus:3 University of Budapest is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],C of Budapest Budapest ),Hungary,0,Hungary,0,-3.61181
+[CLS] Corvinus:3 University of Budapest is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a - University .s:2,Hungary,0,Hungary,0,-4.06588
 [CLS] Fórum:3 Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-0.97630
-[CLS] Fórum:3 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.40034
-[CLS] Budapest University of Technology and Economics is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.58925
+[CLS] Fórum:3 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.40033
+[CLS] Fórum:3 Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"F , the , .",Hungary,0,Hungary,0,-3.79007
+[CLS] Fórum:3 Hungary is located in [MASK] [MASK] [MASK] . [SEP],Hungary -y:2,Hungary,0,Hungary,0,-4.03238
+[CLS] Fórum:3 Hungary is located in [MASK] [MASK] [MASK] . [SEP],S ins:2,Hungary,0,Hungary,0,-4.12903
+[CLS] Budapest University of Technology and Economics is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.58926
 [CLS] Budapest University of Technology and Economics is located in [MASK] [MASK] [MASK] [MASK] . [SEP],the Budapest of Hungary,Hungary,0,Hungary,0,-2.14849
-[CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , . .",Hungary,0,Hungary,0,-2.18348
+[CLS] Budapest University of Technology and Economics is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Buda University Budapest University,Hungary,0,Hungary,0,-3.13143
+[CLS] Budapest University of Technology and Economics is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Buda University University in ),Hungary,0,Hungary,0,-3.65702
+[CLS] Budapest University of Technology and Economics is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],", in in .s:2",Hungary,0,Hungary,0,-4.10695
+[CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , . .",Hungary,0,Hungary,0,-2.18349
 [CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"la . of ,o:2",Hungary,0,Hungary,0,-3.00959
-[CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , York",Hungary,0,Hungary,0,-1.98877
+[CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El de de ofs:2,Hungary,0,Hungary,0,-3.50875
+[CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . dete:2,Hungary,0,Hungary,0,-3.71766
+[CLS] MTVA:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San : : the ,",Hungary,0,Hungary,0,-4.25472
+[CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , York",Hungary,0,Hungary,0,-1.98878
 [CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . .,Hungary,0,Hungary,0,-3.02077
-[CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.80278
+[CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City . ofs:2,Hungary,0,Hungary,0,-3.56682
+[CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a York S in City,Hungary,0,Hungary,0,-3.94687
+[CLS] Singer and Wolfner:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No ofs:2 the California,Hungary,0,Hungary,0,-4.56201
+[CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.80279
 [CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . . . Co,Hungary,0,Hungary,0,-2.76931
-[CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.84350
+[CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],U County of of County,Hungary,0,Hungary,0,-3.74114
+[CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Wo:2 S thes:2,Hungary,0,Hungary,0,-4.27106
+[CLS] State Printing Company is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Co Cityo:2 S S,Hungary,0,Hungary,0,-4.42251
+[CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.84351
 [CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of .s:2,Hungary,0,Hungary,0,-3.12770
+[CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . of S,Hungary,0,Hungary,0,-3.81123
+[CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 S ino:2,Hungary,0,Hungary,0,-4.38143
+[CLS] Ganz:2 Works is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],". - in the ,",Hungary,0,Hungary,0,-4.65655
 [CLS] A Szabadság:4 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.35339
 [CLS] A Szabadság:4 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.02626
-[CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] . [SEP],Ajka:2,Hungary,0,Hungary,0,-1.29418
+[CLS] A Szabadság:4 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.84822
+[CLS] A Szabadság:4 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.94543
+[CLS] A Szabadság:4 is located in [MASK] . [SEP],Serbia,Hungary,0,Hungary,0,-4.40632
+[CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] . [SEP],Ajka:2,Hungary,0,Hungary,0,-1.29419
 [CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] . [SEP],thej:2,Hungary,0,Hungary,0,-2.26322
+[CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a .a:2 ofa:2,Hungary,0,Hungary,0,-3.43915
+[CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] . [SEP],aa:2,Hungary,0,Hungary,0,-3.81926
+[CLS] Ajka:2 Alumina:3 Plant is located in [MASK] [MASK] [MASK] . [SEP],S ofr:2,Hungary,0,Hungary,0,-4.10140
 [CLS] Magyar Pénzverő:4 Zrt:2 . is located in [MASK] [MASK] . [SEP],the village,Hungary,0,Hungary,0,-1.54823
 [CLS] Magyar Pénzverő:4 Zrt:2 . is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-3.08173
-[CLS] University of Miskolc:3 is located in [MASK] [MASK] [MASK] . [SEP],Miskolc:3,Hungary,0,Hungary,0,-0.08131
+[CLS] Magyar Pénzverő:4 Zrt:2 . is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.65322
+[CLS] Magyar Pénzverő:4 Zrt:2 . is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.88468
+[CLS] Magyar Pénzverő:4 Zrt:2 . is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-4.01768
+[CLS] University of Miskolc:3 is located in [MASK] [MASK] [MASK] . [SEP],Miskolc:3,Hungary,0,Hungary,0,-0.08132
 [CLS] University of Miskolc:3 is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-2.20460
+[CLS] University of Miskolc:3 is located in [MASK] . [SEP],there,Hungary,0,Hungary,0,-3.20881
+[CLS] University of Miskolc:3 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.33312
+[CLS] University of Miskolc:3 is located in [MASK] . [SEP],city,Hungary,0,Hungary,0,-3.35277
 [CLS] Volánbusz:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],theánbusz:4,Hungary,0,Hungary,0,-1.33540
-[CLS] Volánbusz:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Volan:2 ofs:2,Hungary,0,Hungary,0,-3.09548
+[CLS] Volánbusz:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Volan:2 ofs:2,Hungary,0,Hungary,0,-3.09547
+[CLS] Volánbusz:4 is located in [MASK] [MASK] . [SEP],this district,Hungary,0,Hungary,0,-3.82770
+[CLS] Volánbusz:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],la Vol . .z:2,Hungary,0,Hungary,0,-4.05472
+[CLS] Volánbusz:4 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-4.18696
 [CLS] Smartwings:3 Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.52448
 [CLS] Smartwings:3 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.60772
+[CLS] Smartwings:3 Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Smart of . ins:2,Hungary,0,Hungary,0,-3.56847
+[CLS] Smartwings:3 Hungary is located in [MASK] . [SEP],Vienna,Hungary,0,Hungary,0,-3.77917
+[CLS] Smartwings:3 Hungary is located in [MASK] [MASK] [MASK] . [SEP],Hungary .y:2,Hungary,0,Hungary,0,-3.95468
 [CLS] Pick Szeged is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-0.45491
 [CLS] Pick Szeged is located in [MASK] [MASK] . [SEP],Pick city,Hungary,0,Hungary,0,-2.95345
+[CLS] Pick Szeged is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Szeged Szeged Szeged Szeged Budapest,Hungary,0,Hungary,0,-3.51705
+[CLS] Pick Szeged is located in [MASK] [MASK] [MASK] [MASK] . [SEP],a of Pick Hungary,Hungary,0,Hungary,0,-3.94488
+[CLS] Pick Szeged is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest - ,s:2",Hungary,0,Hungary,0,-4.32363
 [CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , . .",Hungary,0,Hungary,0,-2.06783
-[CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of ,s:2",Hungary,0,Hungary,0,-2.89217
+[CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"San , of ,s:2",Hungary,0,Hungary,0,-2.89216
+[CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No of . of S,Hungary,0,Hungary,0,-3.67828
+[CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a : de the ,",Hungary,0,Hungary,0,-4.29761
+[CLS] Digic:2 Pictures is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The de S de Inc,Hungary,0,Hungary,0,-4.51956
 [CLS] Egis:2 Pharmaceuticals:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , .",Hungary,0,Hungary,0,-2.24497
 [CLS] Egis:2 Pharmaceuticals:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"E , of .s:2",Hungary,0,Hungary,0,-2.94072
+[CLS] Egis:2 Pharmaceuticals:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],as:2 . ofo:2,Hungary,0,Hungary,0,-3.77159
+[CLS] Egis:2 Pharmaceuticals:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sanos:3 in S,Hungary,0,Hungary,0,-4.14784
+[CLS] Egis:2 Pharmaceuticals:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Agiso:3 the ),Hungary,0,Hungary,0,-4.32594
 [CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] . [SEP],Franklin,Hungary,0,Hungary,0,-0.87931
-[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] [MASK] . [SEP],Franklin Street,Hungary,0,Hungary,0,-2.63187
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] [MASK] . [SEP],Franklin Street,Hungary,0,Hungary,0,-2.63186
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] [MASK] . [SEP],this town,Hungary,0,Hungary,0,-4.00182
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] [MASK] . [SEP],New district,Hungary,0,Hungary,0,-4.25314
+[CLS] Franklin Irodalmi:2 és Nyomdai:3 Rt . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],G - district in Hungary,Hungary,0,Hungary,0,-4.51192
 [CLS] Magyar Posta:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.81009
 [CLS] Magyar Posta:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.54112
-[CLS] Pázmány:3 Péter Catholic University is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Budapest",Hungary,0,Hungary,0,-1.69742
+[CLS] Magyar Posta:2 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.33648
+[CLS] Magyar Posta:2 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.43532
+[CLS] Magyar Posta:2 is located in [MASK] . [SEP],Košice,Hungary,0,Hungary,0,-3.86082
+[CLS] Pázmány:3 Péter Catholic University is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , Budapest",Hungary,0,Hungary,0,-1.69743
 [CLS] Pázmány:3 Péter Catholic University is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],P . of of Hungary,Hungary,0,Hungary,0,-2.69152
-[CLS] Magyar Suzuki is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-2.14513
+[CLS] Pázmány:3 Péter Catholic University is located in [MASK] [MASK] [MASK] . [SEP],Buda .y:2,Hungary,0,Hungary,0,-3.75193
+[CLS] Pázmány:3 Péter Catholic University is located in [MASK] [MASK] [MASK] . [SEP],the of Hungary,Hungary,0,Hungary,0,-3.89825
+[CLS] Pázmány:3 Péter Catholic University is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-4.13351
+[CLS] Magyar Suzuki is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-2.14514
 [CLS] Magyar Suzuki is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Hungary,0,Hungary,0,-3.06281
+[CLS] Magyar Suzuki is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . ofo:2,Hungary,0,Hungary,0,-3.58861
+[CLS] Magyar Suzuki is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.71873
+[CLS] Magyar Suzuki is located in [MASK] . [SEP],Slovakia,Hungary,0,Hungary,0,-3.85718
 [CLS] Magyar Telekom:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.49851
 [CLS] Magyar Telekom:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.88917
-[CLS] Alexandra Kiadó is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-1.96100
-[CLS] Alexandra Kiadó is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.13044
+[CLS] Magyar Telekom:2 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.30104
+[CLS] Magyar Telekom:2 is located in [MASK] [MASK] [MASK] . [SEP],Magyar and Budapest,Hungary,0,Hungary,0,-3.85661
+[CLS] Magyar Telekom:2 is located in [MASK] [MASK] [MASK] . [SEP],S -ly:2,Hungary,0,Hungary,0,-3.88742
+[CLS] Alexandra Kiadó is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of of .,Hungary,0,Hungary,0,-1.96101
+[CLS] Alexandra Kiadó is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.13043
+[CLS] Alexandra Kiadó is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.40141
+[CLS] Alexandra Kiadó is located in [MASK] . [SEP],Sibiu,Hungary,0,Hungary,0,-3.74174
+[CLS] Alexandra Kiadó is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.83834
 [CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , York",Hungary,0,Hungary,0,-2.06327
-[CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The . of . .,Hungary,0,Hungary,0,-2.99866
-[CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.97297
+[CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The . of . .,Hungary,0,Hungary,0,-2.99865
+[CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New of . ofs:2,Hungary,0,Hungary,0,-3.52897
+[CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San York S the City,Hungary,0,Hungary,0,-4.03986
+[CLS] Gramy:2 Records is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No City the in Records,Hungary,0,Hungary,0,-4.43970
+[CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-1.97298
 [CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . City,Hungary,0,Hungary,0,-2.93724
+[CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City . ofs:2,Hungary,0,Hungary,0,-3.59167
+[CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of de theo:2,Hungary,0,Hungary,0,-4.07589
+[CLS] InterCom:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a Center S de S,Hungary,0,Hungary,0,-4.48200
 [CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , California",Hungary,0,Hungary,0,-2.18865
-[CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Dan . of .s:2,Hungary,0,Hungary,0,-3.20496
-[CLS] Hajdú:3 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ha .ú:2 Volán:2,Hungary,0,Hungary,0,-1.78242
+[CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Dan . of .s:2,Hungary,0,Hungary,0,-3.20495
+[CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] . [SEP],San York,Hungary,0,Hungary,0,-3.79291
+[CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],aubis:3 in City,Hungary,0,Hungary,0,-4.06711
+[CLS] Danubius:3 Hotels Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The City City the York,Hungary,0,Hungary,0,-4.29493
+[CLS] Hajdú:3 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Ha .ú:2 Volán:2,Hungary,0,Hungary,0,-1.78243
 [CLS] Hajdú:3 Volán:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the of of ofón:2,Hungary,0,Hungary,0,-2.81124
+[CLS] Hajdú:3 Volán:2 is located in [MASK] [MASK] . [SEP],a province,Hungary,0,Hungary,0,-3.70390
+[CLS] Hajdú:3 Volán:2 is located in [MASK] . [SEP],Serbia,Hungary,0,Hungary,0,-4.11079
+[CLS] Hajdú:3 Volán:2 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-4.28213
 [CLS] Budapest Aircraft Service is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.50024
 [CLS] Budapest Aircraft Service is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.34715
+[CLS] Budapest Aircraft Service is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Hungary of , of .",Hungary,0,Hungary,0,-3.31276
+[CLS] Budapest Aircraft Service is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a Budapest . the ),Hungary,0,Hungary,0,-3.84811
+[CLS] Budapest Aircraft Service is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S - Hungary Budapests:2,Hungary,0,Hungary,0,-4.01302
 [CLS] Dreher:2 Breweries:2 is located in [MASK] [MASK] . [SEP],Dreher:2,Hungary,0,Hungary,0,-1.21457
 [CLS] Dreher:2 Breweries:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New . of ofs:2,Hungary,0,Hungary,0,-3.29076
-[CLS] OTP:2 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , .",Hungary,0,Hungary,0,-2.04551
+[CLS] Dreher:2 Breweries:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sans:2 . . S,Hungary,0,Hungary,0,-3.86384
+[CLS] Dreher:2 Breweries:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],North ofs:2 in County,Hungary,0,Hungary,0,-4.32265
+[CLS] Dreher:2 Breweries:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a City S the ,",Hungary,0,Hungary,0,-4.49670
+[CLS] OTP:2 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , .",Hungary,0,Hungary,0,-2.04552
 [CLS] OTP:2 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of .o:2",Hungary,0,Hungary,0,-2.93744
-[CLS] Magvető:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of Magó:2,Hungary,0,Hungary,0,-1.94076
+[CLS] OTP:2 Bank is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. of . ofs:2,Hungary,0,Hungary,0,-3.63164
+[CLS] OTP:2 Bank is located in [MASK] . [SEP],Tunis,Hungary,0,Hungary,0,-4.12088
+[CLS] OTP:2 Bank is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-4.19054
+[CLS] Magvető:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of Magó:2,Hungary,0,Hungary,0,-1.94077
 [CLS] Magvető:2 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-2.48616
+[CLS] Magvető:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"a - ,cs:2",Hungary,0,Hungary,0,-3.55430
+[CLS] Magvető:2 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.93956
+[CLS] Magvető:2 is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-4.17668
 [CLS] Nemzeti Sport is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.78092
 [CLS] Nemzeti Sport is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-2.57694
-[CLS] Pécs:2 Brewery:2 is located in [MASK] [MASK] . [SEP],Pécs:2,Hungary,0,Hungary,0,-0.22712
+[CLS] Nemzeti Sport is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of de the capital,Hungary,0,Hungary,0,-3.58010
+[CLS] Nemzeti Sport is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.83416
+[CLS] Nemzeti Sport is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.88886
+[CLS] Pécs:2 Brewery:2 is located in [MASK] [MASK] . [SEP],Pécs:2,Hungary,0,Hungary,0,-0.22713
 [CLS] Pécs:2 Brewery:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , of Hungary",Hungary,0,Hungary,0,-3.02252
-[CLS] Hungarian National Bank is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.87006
-[CLS] Hungarian National Bank is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.70268
-[CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,s:2",Hungary,0,Hungary,0,-2.03596
+[CLS] Pécs:2 Brewery:2 is located in [MASK] . [SEP],P,Hungary,0,Hungary,0,-3.32735
+[CLS] Pécs:2 Brewery:2 is located in [MASK] [MASK] [MASK] . [SEP],Pi ofly:2,Hungary,0,Hungary,0,-3.92071
+[CLS] Pécs:2 Brewery:2 is located in [MASK] [MASK] [MASK] . [SEP],Pe . district,Hungary,0,Hungary,0,-4.05101
+[CLS] Hungarian National Bank is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.87007
+[CLS] Hungarian National Bank is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.70267
+[CLS] Hungarian National Bank is located in [MASK] [MASK] [MASK] . [SEP],Hungary iny:2,Hungary,0,Hungary,0,-3.16242
+[CLS] Hungarian National Bank is located in [MASK] [MASK] [MASK] . [SEP],the - capital,Hungary,0,Hungary,0,-3.52985
+[CLS] Hungarian National Bank is located in [MASK] [MASK] [MASK] . [SEP],Buda ofa:2,Hungary,0,Hungary,0,-3.87721
+[CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,s:2",Hungary,0,Hungary,0,-2.03597
 [CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of . .,Hungary,0,Hungary,0,-3.07545
-[CLS] Magyar Hírlap:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.99782
-[CLS] Magyar Hírlap:3 is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.02022
+[CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a City . of City,Hungary,0,Hungary,0,-3.55235
+[CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New of S the County,Hungary,0,Hungary,0,-4.23548
+[CLS] CadLine:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Thess:3 ino:2,Hungary,0,Hungary,0,-4.58980
+[CLS] Magyar Hírlap:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.99783
+[CLS] Magyar Hírlap:3 is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.02021
+[CLS] Magyar Hírlap:3 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.20201
+[CLS] Magyar Hírlap:3 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.70751
+[CLS] Magyar Hírlap:3 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.89974
 [CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , Hungary",Hungary,0,Hungary,0,-2.18057
-[CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.25939
+[CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-3.25938
+[CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.36142
+[CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.64377
+[CLS] MAL:2 Hungarian Aluminium:3 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.90845
 [CLS] Raaberbahn:4 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Raaberbahn:4,Austria,0,Austria,0,-0.55793
 [CLS] Raaberbahn:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Ra - , the .",Austria,0,Austria,0,-3.23583
-[CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] . [SEP],Pannonia:3,Hungary,0,Hungary,0,-0.52625
+[CLS] Raaberbahn:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a of - , city",Austria,0,Austria,0,-3.64018
+[CLS] Raaberbahn:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"R , . .h:2",Austria,0,Austria,0,-4.05279
+[CLS] Raaberbahn:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],A Ra in -s:2,Austria,0,Austria,0,-4.44332
+[CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] . [SEP],Pannonia:3,Hungary,0,Hungary,0,-0.52626
 [CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the ,iaia:3",Hungary,0,Hungary,0,-2.98304
+[CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Kno:2 ofa:2,Hungary,0,Hungary,0,-3.53017
+[CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Luiaian:3 Hungary,Hungary,0,Hungary,0,-3.98845
+[CLS] Pannonia:3 Film Studio is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Ta:2 in Italy,Hungary,0,Hungary,0,-4.06311
 [CLS] Törley:3 is located in [MASK] [MASK] [MASK] . [SEP],"the ,ley:2",Hungary,0,Hungary,0,-1.93687
 [CLS] Törley:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , ,s:2",Hungary,0,Hungary,0,-3.16912
-[CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.19062
+[CLS] Törley:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],North of . .ley:2,Hungary,0,Hungary,0,-3.76010
+[CLS] Törley:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],T - and the town,Hungary,0,Hungary,0,-4.07820
+[CLS] Törley:3 is located in [MASK] [MASK] . [SEP],Westley:2,Hungary,0,Hungary,0,-4.32697
+[CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.19063
 [CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-1.68037
-[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] [MASK] . [SEP],Herend:2,Hungary,0,Hungary,0,-0.44767
-[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-3.06371
+[CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.22879
+[CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Kolozsvár,Hungary,0,Hungary,0,-3.64044
+[CLS] Akadémiai:2 Kiadó is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.74576
+[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] [MASK] . [SEP],Herend:2,Hungary,0,Hungary,0,-0.44768
+[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-3.06370
+[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] [MASK] . [SEP],hered:2,Hungary,0,Hungary,0,-3.60544
+[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] . [SEP],nearby,Hungary,0,Hungary,0,-4.06164
+[CLS] Herend:2 Porcelain:3 Manufactory:3 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-4.14798
 [CLS] Videoton:2 is located in [MASK] [MASK] . [SEP],theton:2,Hungary,0,Hungary,0,-1.50127
 [CLS] Videoton:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , .ton:2",Hungary,0,Hungary,0,-2.88031
-[CLS] Leder:2 und Schuh:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-2.01077
+[CLS] Videoton:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . of City,Hungary,0,Hungary,0,-3.46882
+[CLS] Videoton:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],New City de thes:2,Hungary,0,Hungary,0,-4.15332
+[CLS] Videoton:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],The City in County,Hungary,0,Hungary,0,-4.57327
+[CLS] Leder:2 und Schuh:3 is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-2.01078
 [CLS] Leder:2 und Schuh:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"a , ,s:2",Hungary,0,Hungary,0,-3.54802
-[CLS] Népszava:3 is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-1.43075
-[CLS] Népszava:3 is located in [MASK] [MASK] [MASK] . [SEP],Népsza:2 district,Hungary,0,Hungary,0,-2.89150
-[CLS] Európa Publishing is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.31653
+[CLS] Leder:2 und Schuh:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Led , and ,e:2",Hungary,0,Hungary,0,-3.88599
+[CLS] Leder:2 und Schuh:3 is located in [MASK] [MASK] . [SEP],a city,Hungary,0,Hungary,0,-4.14567
+[CLS] Leder:2 und Schuh:3 is located in [MASK] . [SEP],Heidelberg,Hungary,0,Hungary,0,-4.43839
+[CLS] Népszava:3 is located in [MASK] [MASK] . [SEP],the district,Hungary,0,Hungary,0,-1.43076
+[CLS] Népszava:3 is located in [MASK] [MASK] [MASK] . [SEP],Népsza:2 district,Hungary,0,Hungary,0,-2.89149
+[CLS] Népszava:3 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.12744
+[CLS] Népszava:3 is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.48926
+[CLS] Népszava:3 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.57343
+[CLS] Európa Publishing is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.31654
 [CLS] Európa Publishing is located in [MASK] . [SEP],Belgrade,Hungary,0,Hungary,0,-2.56699
-[CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.27210
+[CLS] Európa Publishing is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-2.99195
+[CLS] Európa Publishing is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.07209
+[CLS] Európa Publishing is located in [MASK] . [SEP],Madrid,Hungary,0,Hungary,0,-3.67578
+[CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , , .",Hungary,0,Hungary,0,-2.27211
 [CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San . of .o:2,Hungary,0,Hungary,0,-3.14958
+[CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El of . ofs:2,Hungary,0,Hungary,0,-3.83664
+[CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],.o:2 de theg:2,Hungary,0,Hungary,0,-4.34562
+[CLS] MVM:2 Group is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],No -o:2 dea:2,Hungary,0,Hungary,0,-4.54086
 [CLS] Móra:2 Ferenc Könyvkiadó:3 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-1.55226
 [CLS] Móra:2 Ferenc Könyvkiadó:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"M . , , Budapest",Hungary,0,Hungary,0,-2.46828
+[CLS] Móra:2 Ferenc Könyvkiadó:3 is located in [MASK] [MASK] [MASK] . [SEP],theóraa:3,Hungary,0,Hungary,0,-3.53719
+[CLS] Móra:2 Ferenc Könyvkiadó:3 is located in [MASK] . [SEP],town,Hungary,0,Hungary,0,-3.64227
+[CLS] Móra:2 Ferenc Könyvkiadó:3 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.72446
 [CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],thera:2,Hungary,0,Hungary,0,-1.82152
-[CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],Ó district,Hungary,0,Hungary,0,-2.62705
-[CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.39638
+[CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],Ó district,Hungary,0,Hungary,0,-2.62704
+[CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],thisa:2,Hungary,0,Hungary,0,-3.82490
+[CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],that town,Hungary,0,Hungary,0,-4.03495
+[CLS] 168 Óra:2 is located in [MASK] [MASK] . [SEP],a city,Hungary,0,Hungary,0,-4.10738
+[CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-0.39639
 [CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Budapest Budapest of Hungary,Hungary,0,Hungary,0,-2.09529
-[CLS] Zen Studios is located in [MASK] . [SEP],Zen,Hungary,0,Hungary,0,-1.79705
+[CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],B . Budapest in ),Hungary,0,Hungary,0,-3.19099
+[CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] [MASK] [MASK] . [SEP],B .s:2,Hungary,0,Hungary,0,-3.62950
+[CLS] Budapesti Közlekedési:5 Zrt:2 . is located in [MASK] [MASK] . [SEP],Bs:2,Hungary,0,Hungary,0,-3.98896
+[CLS] Zen Studios is located in [MASK] . [SEP],Zen,Hungary,0,Hungary,0,-1.79706
 [CLS] Zen Studios is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Zen of of Zen,Hungary,0,Hungary,0,-2.86898
-[CLS] Athenaeum:2 Nyomda:3 is located in [MASK] [MASK] [MASK] . [SEP],Nyomda:3,Hungary,0,Hungary,0,-0.37613
+[CLS] Zen Studios is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"No of . of ,",Hungary,0,Hungary,0,-3.69476
+[CLS] Zen Studios is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The : : the ),Hungary,0,Hungary,0,-4.02955
+[CLS] Zen Studios is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],. - the : :,Hungary,0,Hungary,0,-4.30074
+[CLS] Athenaeum:2 Nyomda:3 is located in [MASK] [MASK] [MASK] . [SEP],Nyomda:3,Hungary,0,Hungary,0,-0.37614
 [CLS] Athenaeum:2 Nyomda:3 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],theom:2 ofa:2,Hungary,0,Hungary,0,-2.74891
-[CLS] ELMŰ:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-2.11210
+[CLS] Athenaeum:2 Nyomda:3 is located in [MASK] . [SEP],Nairobi,Hungary,0,Hungary,0,-3.42812
+[CLS] Athenaeum:2 Nyomda:3 is located in [MASK] . [SEP],Lagos,Hungary,0,Hungary,0,-3.85718
+[CLS] Athenaeum:2 Nyomda:3 is located in [MASK] . [SEP],Tokyo,Hungary,0,Hungary,0,-4.28625
+[CLS] ELMŰ:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],the . of . .,Hungary,0,Hungary,0,-2.11211
 [CLS] ELMŰ:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , , of )",Hungary,0,Hungary,0,-3.09460
+[CLS] ELMŰ:3 is located in [MASK] . [SEP],Szeged,Hungary,0,Hungary,0,-3.51319
+[CLS] ELMŰ:3 is located in [MASK] . [SEP],Debrecen,Hungary,0,Hungary,0,-3.89850
+[CLS] ELMŰ:3 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-4.28641
 [CLS] DMSONE:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . , , .",Hungary,0,Hungary,0,-2.13940
 [CLS] DMSONE:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a , of .o:2",Hungary,0,Hungary,0,-2.95632
+[CLS] DMSONE:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . ofs:2,Hungary,0,Hungary,0,-3.54403
+[CLS] DMSONE:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Elo:2 de thee:2,Hungary,0,Hungary,0,-4.46884
+[CLS] DMSONE:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The Cityo:2 dea:2,Hungary,0,Hungary,0,-4.72034
 [CLS] Mafilm:2 is located in [MASK] [MASK] . [SEP],Mafilm:2,Hungary,0,Hungary,0,-1.97333
 [CLS] Mafilm:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , ,o:2",Hungary,0,Hungary,0,-3.31821
+[CLS] Mafilm:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],la of de .s:2,Hungary,0,Hungary,0,-3.86958
+[CLS] Mafilm:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],",oo:3 thete:2",Hungary,0,Hungary,0,-4.36267
+[CLS] Mafilm:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],: - . dee:2,Hungary,0,Hungary,0,-4.43727
 [CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"Phil , , .",Hungary,0,Hungary,0,-1.92322
-[CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] . [SEP],theo:2,Hungary,0,Hungary,0,-2.78200
+[CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] . [SEP],theo:2,Hungary,0,Hungary,0,-2.78199
+[CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of . ofo:2,Hungary,0,Hungary,0,-3.68259
+[CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Sans:2 S the S,Hungary,0,Hungary,0,-4.20108
+[CLS] Philos:2 Laboratories:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Theos:3 in Inc,Hungary,0,Hungary,0,-4.27520
 [CLS] Wizz:2 Air is located in [MASK] [MASK] [MASK] . [SEP],"Wi , Air",Hungary,0,Hungary,0,-1.69491
 [CLS] Wizz:2 Air is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of ofs:2,Hungary,0,Hungary,0,-3.07270
-[CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] . [SEP],theholder:2,Hungary,0,Hungary,0,-2.03241
+[CLS] Wizz:2 Air is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],San of . .o:2,Hungary,0,Hungary,0,-3.64128
+[CLS] Wizz:2 Air is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Theo:2 de the Air,Hungary,0,Hungary,0,-4.27740
+[CLS] Wizz:2 Air is located in [MASK] [MASK] [MASK] . [SEP],Co of S,Hungary,0,Hungary,0,-4.56498
+[CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] . [SEP],theholder:2,Hungary,0,Hungary,0,-2.03242
 [CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] . [SEP],Be town,Hungary,0,Hungary,0,-2.77552
+[CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a City . ofs:2,Hungary,0,Hungary,0,-3.80177
+[CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],S of S the County,Hungary,0,Hungary,0,-4.38492
+[CLS] Beholder:2 Kft:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Be cityo:2 Ko:2,Hungary,0,Hungary,0,-4.62481
 [CLS] Tungsram:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the . of , .",Hungary,0,Hungary,0,-2.21412
-[CLS] Tungsram:3 is located in [MASK] [MASK] [MASK] . [SEP],thegm:3,Hungary,0,Hungary,0,-3.13510
-[CLS] Kispesti:3 Erőmű:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kispest:2 of Kispest:2,Hungary,0,Hungary,0,-0.65737
-[CLS] Kispesti:3 Erőmű:4 is located in [MASK] [MASK] . [SEP],Kis town,Hungary,0,Hungary,0,-2.00657
-[CLS] Libri Publishing Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.20440
+[CLS] Tungsram:3 is located in [MASK] [MASK] [MASK] . [SEP],thegm:3,Hungary,0,Hungary,0,-3.13509
+[CLS] Tungsram:3 is located in [MASK] [MASK] [MASK] . [SEP],"Tu , district",Hungary,0,Hungary,0,-3.69395
+[CLS] Tungsram:3 is located in [MASK] [MASK] [MASK] . [SEP],Mugsra:3,Hungary,0,Hungary,0,-3.95923
+[CLS] Tungsram:3 is located in [MASK] . [SEP],Karnataka,Hungary,0,Hungary,0,-4.34888
+[CLS] Kispesti:3 Erőmű:4 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Kispest:2 of Kispest:2,Hungary,0,Hungary,0,-0.65738
+[CLS] Kispesti:3 Erőmű:4 is located in [MASK] [MASK] . [SEP],Kis town,Hungary,0,Hungary,0,-2.00656
+[CLS] Kispesti:3 Erőmű:4 is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.08048
+[CLS] Kispesti:3 Erőmű:4 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.72053
+[CLS] Kispesti:3 Erőmű:4 is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-3.91298
+[CLS] Libri Publishing Hungary is located in [MASK] . [SEP],Hungary,Hungary,1,Hungary,1,-1.20441
 [CLS] Libri Publishing Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-2.11689
-[CLS] Littke:3 sparkling:3 wine factory is located in [MASK] [MASK] [MASK] . [SEP],Littke:3,Hungary,0,Hungary,0,-0.19688
+[CLS] Libri Publishing Hungary is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"Budapest of . , Budapest",Hungary,0,Hungary,0,-3.28482
+[CLS] Libri Publishing Hungary is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.93313
+[CLS] Libri Publishing Hungary is located in [MASK] . [SEP],Vienna,Hungary,0,Hungary,0,-4.13485
+[CLS] Littke:3 sparkling:3 wine factory is located in [MASK] [MASK] [MASK] . [SEP],Littke:3,Hungary,0,Hungary,0,-0.19689
 [CLS] Littke:3 sparkling:3 wine factory is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the ,ke:2 Germany",Hungary,0,Hungary,0,-2.88308
-[CLS] Yettel:2 Hungary is located in [MASK] [MASK] [MASK] . [SEP],thetel:2 Hungary,Hungary,0,Hungary,0,-1.45092
+[CLS] Littke:3 sparkling:3 wine factory is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Le:2 in Denmark,Hungary,0,Hungary,0,-3.58822
+[CLS] Littke:3 sparkling:3 wine factory is located in [MASK] [MASK] [MASK] [MASK] . [SEP],Rt:2 ofke:2,Hungary,0,Hungary,0,-3.74491
+[CLS] Littke:3 sparkling:3 wine factory is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-4.20195
+[CLS] Yettel:2 Hungary is located in [MASK] [MASK] [MASK] . [SEP],thetel:2 Hungary,Hungary,0,Hungary,0,-1.45093
 [CLS] Yettel:2 Hungary is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.21467
+[CLS] Yettel:2 Hungary is located in [MASK] . [SEP],Romania,Hungary,0,Hungary,0,-3.60390
+[CLS] Yettel:2 Hungary is located in [MASK] . [SEP],Italy,Hungary,0,Hungary,0,-3.96408
+[CLS] Yettel:2 Hungary is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-4.10439
 [CLS] Escalion:3 is located in [MASK] [MASK] [MASK] . [SEP],Escalion:3,Hungary,0,Hungary,0,-1.57451
-[CLS] Escalion:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"la , , ,o:2",Hungary,0,Hungary,0,-3.08628
-[CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.18763
+[CLS] Escalion:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"la , , ,o:2",Hungary,0,Hungary,0,-3.08627
+[CLS] Escalion:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a of de .s:2,Hungary,0,Hungary,0,-3.45329
+[CLS] Escalion:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],El de . dea:2,Hungary,0,Hungary,0,-3.89852
+[CLS] Escalion:3 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Las:2 : the city,Hungary,0,Hungary,0,-4.31880
+[CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] [MASK] . [SEP],the town,Hungary,0,Hungary,0,-1.18764
 [CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"M town , of town",Hungary,0,Hungary,0,-2.91621
+[CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] . [SEP],it,Hungary,0,Hungary,0,-3.86238
+[CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] . [SEP],Milan,Hungary,0,Hungary,0,-3.97316
+[CLS] MÁV:3 - START:2 Zrt:2 . is located in [MASK] . [SEP],the,Hungary,0,Hungary,0,-3.98889
 [CLS] ORIONELEC:4 PHILIPPINES:7 INC:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , ,o:2",Hungary,0,Hungary,0,-2.35061
 [CLS] ORIONELEC:4 PHILIPPINES:7 INC:2 is located in [MASK] [MASK] [MASK] . [SEP],Or .a:2,Hungary,0,Hungary,0,-3.58259
+[CLS] ORIONELEC:4 PHILIPPINES:7 INC:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],Oroo:3 . ),Hungary,0,Hungary,0,-3.86277
+[CLS] ORIONELEC:4 PHILIPPINES:7 INC:2 is located in [MASK] [MASK] [MASK] . [SEP],R ofe:2,Hungary,0,Hungary,0,-4.23791
+[CLS] ORIONELEC:4 PHILIPPINES:7 INC:2 is located in [MASK] [MASK] [MASK] . [SEP],So inn:2,Hungary,0,Hungary,0,-4.50366
 [CLS] Audi Hungaria:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"the , of of .",Hungary,0,Hungary,0,-2.19437
 [CLS] Audi Hungaria:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],"a . , .o:2",Hungary,0,Hungary,0,-3.14473
+[CLS] Audi Hungaria:2 is located in [MASK] . [SEP],Rome,Hungary,0,Hungary,0,-3.60838
+[CLS] Audi Hungaria:2 is located in [MASK] . [SEP],Budapest,Hungary,0,Hungary,0,-3.62675
+[CLS] Audi Hungaria:2 is located in [MASK] . [SEP],Bratislava,Hungary,0,Hungary,0,-3.91543
 [CLS] RTL Saleshouse:2 is located in [MASK] [MASK] [MASK] [MASK] . [SEP],"the , , Germany",Hungary,0,Hungary,0,-2.14004
-[CLS] RTL Saleshouse:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of ofs:2,Hungary,0,Hungary,0,-3.11795
+[CLS] RTL Saleshouse:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],a . of ofs:2,Hungary,0,Hungary,0,-3.11794
+[CLS] RTL Saleshouse:2 is located in [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP],The of . . ),Hungary,0,Hungary,0,-3.73940
+[CLS] RTL Saleshouse:2 is located in [MASK] . [SEP],Leipzig,Hungary,0,Hungary,0,-4.16730
+[CLS] RTL Saleshouse:2 is located in [MASK] . [SEP],Düsseldorf,Hungary,0,Hungary,0,-4.42475

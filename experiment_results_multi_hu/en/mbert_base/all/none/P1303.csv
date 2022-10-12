@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] B . B . King [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.94214
-[CLS] B . B . King [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-1.88017
+[CLS] B . B . King [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-1.88018
+[CLS] B . B . King [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.81760
+[CLS] B . B . King [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.22636
+[CLS] B . B . King [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.63171
 [CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-1.77583
-[CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.13994
+[CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.13995
+[CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.24305
+[CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],##val,gitár,0,gitár,0,-3.33105
+[CLS] Joe Satriani:3 [MASK] játszik:2 . [SEP],között,gitár,0,gitár,0,-3.62795
 [CLS] Billy Joel [MASK] [MASK] játszik:2 . [SEP],- is,harmonika:2,0,harmonika:2,0,-1.84757
-[CLS] Billy Joel [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.66875
+[CLS] Billy Joel [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.66876
+[CLS] Billy Joel [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.89209
+[CLS] Billy Joel [MASK] játszik:2 . [SEP],##ral,harmonika:2,0,harmonika:2,0,-2.96656
+[CLS] Billy Joel [MASK] játszik:2 . [SEP],##hez,harmonika:2,0,harmonika:2,0,-3.42892
 [CLS] Sheryl:2 Crow [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.40868
 [CLS] Sheryl:2 Crow [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.21163
+[CLS] Sheryl:2 Crow [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.42665
+[CLS] Sheryl:2 Crow [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-2.58669
+[CLS] Sheryl:2 Crow [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.93295
 [CLS] Willie Nelson [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-1.07943
-[CLS] Willie Nelson [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.69137
+[CLS] Willie Nelson [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.69138
+[CLS] Willie Nelson [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"- a , az - .",gitár,0,gitár,0,-3.33076
+[CLS] Willie Nelson [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , a - , az",gitár,0,gitár,0,-3.59995
+[CLS] Willie Nelson [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-3.68024
 [CLS] Charlie Creath:3 [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-0.69445
-[CLS] Charlie Creath:3 [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.58533
+[CLS] Charlie Creath:3 [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-1.58534
+[CLS] Charlie Creath:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a az az az az azr:2,szaxofon:4,0,szaxofon:4,0,-3.28668
+[CLS] Charlie Creath:3 [MASK] [MASK] játszik:2 . [SEP],név is,szaxofon:4,0,szaxofon:4,0,-3.51546
+[CLS] Charlie Creath:3 [MASK] [MASK] játszik:2 . [SEP],együttes t,szaxofon:4,0,szaxofon:4,0,-3.60612
 [CLS] Pat Metheny:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.67125
-[CLS] Pat Metheny:3 [MASK] [MASK] játszik:2 . [SEP],nap szerepet,gitár,0,gitár,0,-3.30531
-[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.58324
-[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.62572
+[CLS] Pat Metheny:3 [MASK] [MASK] játszik:2 . [SEP],nap szerepet,gitár,0,gitár,0,-3.30532
+[CLS] Pat Metheny:3 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.54014
+[CLS] Pat Metheny:3 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-3.55049
+[CLS] Pat Metheny:3 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.64389
+[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.58325
+[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.62573
+[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-3.01850
+[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],között,gitár,0,gitár,0,-3.34538
+[CLS] Billy Ray Cyrus [MASK] játszik:2 . [SEP],##hoz,gitár,0,gitár,0,-3.40823
 [CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],##et,harmonika:2,0,harmonika:2,0,-1.44293
-[CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],szerepet,harmonika:2,0,harmonika:2,0,-1.65742
-[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-1.76720
-[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-2.86795
+[CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],szerepet,harmonika:2,0,harmonika:2,0,-1.65743
+[CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.11088
+[CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.58191
+[CLS] Julieta:2 Venegas:2 [MASK] játszik:2 . [SEP],##tel,harmonika:2,0,harmonika:2,0,-3.84576
+[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-1.76721
+[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-2.86796
+[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.06093
+[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-3.22288
+[CLS] Amanda Michalka:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-3.30015
 [CLS] Doyle Bramhall:3 II [MASK] [MASK] játszik:2 . [SEP],- ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.01661
-[CLS] Doyle Bramhall:3 II [MASK] játszik:2 . [SEP],között,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.44660
+[CLS] Doyle Bramhall:3 II [MASK] játszik:2 . [SEP],között,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.44661
+[CLS] Doyle Bramhall:3 II [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.58602
+[CLS] Doyle Bramhall:3 II [MASK] játszik:2 . [SEP],néven,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.92193
+[CLS] Doyle Bramhall:3 II [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.22090
 [CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.77167
-[CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.46590
-[CLS] Mark Arm [MASK] [MASK] játszik:2 . [SEP],##ouren:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.41069
-[CLS] Mark Arm [MASK] [MASK] [MASK] játszik:2 . [SEP],##aghyban:3,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94166
+[CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.46591
+[CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],##ből,gitár,0,gitár,0,-3.11608
+[CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.36513
+[CLS] Joe Dassin:2 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.56552
+[CLS] Mark Arm [MASK] [MASK] játszik:2 . [SEP],##ouren:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.41070
+[CLS] Mark Arm [MASK] [MASK] [MASK] játszik:2 . [SEP],##aghyban:3,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94167
+[CLS] Mark Arm [MASK] [MASK] játszik:2 . [SEP],##enanban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.17347
+[CLS] Mark Arm [MASK] [MASK] játszik:2 . [SEP],##anit:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.50326
+[CLS] Mark Arm [MASK] játszik:2 . [SEP],##ey,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.63217
 [CLS] Corey Taylor [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.36794
 [CLS] Corey Taylor [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.11241
+[CLS] Corey Taylor [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.21319
+[CLS] Corey Taylor [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.42044
+[CLS] Corey Taylor [MASK] játszik:2 . [SEP],##től,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.74017
 [CLS] Jeff Hanneman:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-1.98919
-[CLS] Jeff Hanneman:2 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.46820
+[CLS] Jeff Hanneman:2 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.46821
+[CLS] Jeff Hanneman:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.61013
+[CLS] Jeff Hanneman:2 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.66860
+[CLS] Jeff Hanneman:2 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.11471
 [CLS] Layne:2 Staley:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.86723
-[CLS] Layne:2 Staley:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.00995
-[CLS] Carl Perkins [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.31217
-[CLS] Carl Perkins [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.51943
+[CLS] Layne:2 Staley:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.00996
+[CLS] Layne:2 Staley:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.31075
+[CLS] Layne:2 Staley:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94300
+[CLS] Layne:2 Staley:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.23514
+[CLS] Carl Perkins [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.31218
+[CLS] Carl Perkins [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.51944
+[CLS] Carl Perkins [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az a a az , a",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.37530
+[CLS] Carl Perkins [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a , , a sz ő",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.57742
+[CLS] Carl Perkins [MASK] játszik:2 . [SEP],##hez,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.85528
 [CLS] Billy Preston [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.39412
-[CLS] Billy Preston [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.31073
-[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.51146
-[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.94204
-[CLS] Lead Belly:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,harmonika:2,0,harmonika:2,0,-1.81028
-[CLS] Lead Belly:2 [MASK] játszik:2 . [SEP],-,harmonika:2,0,harmonika:2,0,-2.39420
-[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##hez,zongora:2,0,zongora:2,0,-1.90850
-[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##ken,zongora:2,0,zongora:2,0,-2.36356
+[CLS] Billy Preston [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-2.31074
+[CLS] Billy Preston [MASK] játszik:2 . [SEP],mellett,zongora:2,0,zongora:2,0,-2.64381
+[CLS] Billy Preston [MASK] játszik:2 . [SEP],##ral,zongora:2,0,zongora:2,0,-2.96665
+[CLS] Billy Preston [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-2.97772
+[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.51147
+[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.94205
+[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.40516
+[CLS] Eric Johnson [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.03807
+[CLS] Eric Johnson [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-3.32982
+[CLS] Lead Belly:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,harmonika:2,0,harmonika:2,0,-1.81029
+[CLS] Lead Belly:2 [MASK] játszik:2 . [SEP],-,harmonika:2,0,harmonika:2,0,-2.39421
+[CLS] Lead Belly:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.02581
+[CLS] Lead Belly:2 [MASK] játszik:2 . [SEP],nem,harmonika:2,0,harmonika:2,0,-3.26336
+[CLS] Lead Belly:2 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.39595
+[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##hez,zongora:2,0,zongora:2,0,-1.90851
+[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##ken,zongora:2,0,zongora:2,0,-2.36357
+[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],által,zongora:2,0,zongora:2,0,-2.52756
+[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##nek,zongora:2,0,zongora:2,0,-2.69972
+[CLS] Alan Menken:2 [MASK] játszik:2 . [SEP],##nel,zongora:2,0,zongora:2,0,-2.87569
 [CLS] Corey Harris [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-0.69217
-[CLS] Corey Harris [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.09429
+[CLS] Corey Harris [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.09430
+[CLS] Corey Harris [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.68371
+[CLS] Corey Harris [MASK] játszik:2 . [SEP],##tel,gitár,0,gitár,0,-3.61873
+[CLS] Corey Harris [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-3.68278
 [CLS] Robert Berry [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.88332
-[CLS] Robert Berry [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.88061
+[CLS] Robert Berry [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.88062
+[CLS] Robert Berry [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.07335
+[CLS] Robert Berry [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.10114
+[CLS] Robert Berry [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.58329
 [CLS] Scott Weiland:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.98053
-[CLS] Scott Weiland:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18023
-[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.55746
-[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.67941
+[CLS] Scott Weiland:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18024
+[CLS] Scott Weiland:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.23533
+[CLS] Scott Weiland:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.47661
+[CLS] Scott Weiland:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.34121
+[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.55747
+[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.67942
+[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.40396
+[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.60749
+[CLS] Gil Goldstein [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-2.81409
 [CLS] Kelly Gray [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.80850
-[CLS] Kelly Gray [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.38709
+[CLS] Kelly Gray [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.38710
+[CLS] Kelly Gray [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.50549
+[CLS] Kelly Gray [MASK] játszik:2 . [SEP],##től,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.75467
+[CLS] Kelly Gray [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.53056
 [CLS] David Hidalgo [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-1.86608
-[CLS] David Hidalgo [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.10606
+[CLS] David Hidalgo [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.10607
+[CLS] David Hidalgo [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.51209
+[CLS] David Hidalgo [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-3.20316
+[CLS] David Hidalgo [MASK] játszik:2 . [SEP],##l,harmonika:2,0,harmonika:2,0,-3.36429
 [CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.49401
-[CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.64575
+[CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.64576
+[CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-2.75308
+[CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.22937
+[CLS] Bill Frisell:3 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.29037
 [CLS] John Abercrombie:4 [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-1.87408
-[CLS] John Abercrombie:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],az aában:2,gitár,0,gitár,0,-2.75789
+[CLS] John Abercrombie:4 [MASK] [MASK] [MASK] játszik:2 . [SEP],az aában:2,gitár,0,gitár,0,-2.75790
+[CLS] John Abercrombie:4 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-2.96291
+[CLS] John Abercrombie:4 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.17769
+[CLS] John Abercrombie:4 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.25155
 [CLS] Sister Rosetta:2 Tharpe:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],a -ban:2,gitár,0,gitár,0,-1.86134
-[CLS] Sister Rosetta:2 Tharpe:3 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-2.72176
-[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-0.94853
-[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.61435
+[CLS] Sister Rosetta:2 Tharpe:3 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-2.72177
+[CLS] Sister Rosetta:2 Tharpe:3 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-2.79809
+[CLS] Sister Rosetta:2 Tharpe:3 [MASK] játszik:2 . [SEP],-,gitár,0,gitár,0,-2.84455
+[CLS] Sister Rosetta:2 Tharpe:3 [MASK] játszik:2 . [SEP],néven,gitár,0,gitár,0,-3.03501
+[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-0.94854
+[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.61436
+[CLS] Pauline Oliveros:2 [MASK] [MASK] játszik:2 . [SEP],színészt:2,harmonika:2,0,harmonika:2,0,-2.99686
+[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],##z,harmonika:2,0,harmonika:2,0,-3.39055
+[CLS] Pauline Oliveros:2 [MASK] játszik:2 . [SEP],szerepet,harmonika:2,0,harmonika:2,0,-3.73574
 [CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-2.46254
-[CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.77639
+[CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.77640
+[CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.82325
+[CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.14836
+[CLS] Kaki:2 King [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-3.42541
 [CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##chtben:2,harmonika:2,0,harmonika:2,0,-2.63760
-[CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##yen:2,harmonika:2,0,harmonika:2,0,-3.14235
+[CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##yen:2,harmonika:2,0,harmonika:2,0,-3.14236
+[CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##rban:2,harmonika:2,0,harmonika:2,0,-3.20599
+[CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##xt:2,harmonika:2,0,harmonika:2,0,-3.30532
+[CLS] Daniel Sea [MASK] [MASK] játszik:2 . [SEP],##rayl:2,harmonika:2,0,harmonika:2,0,-3.49223
 [CLS] Scott Storch:3 [MASK] játszik:2 . [SEP],##ben,electronic keyboard,0,electronic keyboard,0,-0.99207
-[CLS] Scott Storch:3 [MASK] játszik:2 . [SEP],##ban,electronic keyboard,0,electronic keyboard,0,-1.50969
+[CLS] Scott Storch:3 [MASK] játszik:2 . [SEP],##ban,electronic keyboard,0,electronic keyboard,0,-1.50970
+[CLS] Scott Storch:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az a az az a",electronic keyboard,0,electronic keyboard,0,-3.37234
+[CLS] Scott Storch:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", ann:2 az an an an . an",electronic keyboard,0,electronic keyboard,0,-3.64219
+[CLS] Scott Storch:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an az az an az az am az .,electronic keyboard,0,electronic keyboard,0,-3.79251
 [CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.67709
-[CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-2.19221
-[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.08944
-[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.82270
+[CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-2.19222
+[CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.24340
+[CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-3.08183
+[CLS] Roy Bittan:2 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-3.37020
+[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.08945
+[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.82271
+[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.36089
+[CLS] Peter Cetera:2 [MASK] játszik:2 . [SEP],között,harmonika:2,0,harmonika:2,0,-3.46530
+[CLS] Peter Cetera:2 [MASK] [MASK] játszik:2 . [SEP],né ban,harmonika:2,0,harmonika:2,0,-3.75756
 [CLS] Amy Denio:2 [MASK] játszik:2 . [SEP],##vel,szaxofon:4,0,szaxofon:4,0,-1.19042
 [CLS] Amy Denio:2 [MASK] játszik:2 . [SEP],##val,szaxofon:4,0,szaxofon:4,0,-2.17244
+[CLS] Amy Denio:2 [MASK] játszik:2 . [SEP],##ban,szaxofon:4,0,szaxofon:4,0,-3.31952
+[CLS] Amy Denio:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"a , , annnt:4",szaxofon:4,0,szaxofon:4,0,-3.65083
+[CLS] Amy Denio:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],aznnn:4 ap:2 .,szaxofon:4,0,szaxofon:4,0,-3.88395
 [CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.77248
-[CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.21352
+[CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.21353
+[CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.88549
+[CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.06296
+[CLS] James Hetfield:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.15100
 [CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##t,klarinét:3,0,klarinét:3,0,-1.28559
-[CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##ben,klarinét:3,0,klarinét:3,0,-2.15597
-[CLS] Andrea Parkins:2 [MASK] [MASK] játszik:2 . [SEP],##onban:2,harmonika:2,0,harmonika:2,0,-1.26450
-[CLS] Andrea Parkins:2 [MASK] játszik:2 . [SEP],##on,harmonika:2,0,harmonika:2,0,-1.64983
+[CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##ben,klarinét:3,0,klarinét:3,0,-2.15598
+[CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##nek,klarinét:3,0,klarinét:3,0,-2.71072
+[CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##en,klarinét:3,0,klarinét:3,0,-3.50450
+[CLS] Sonny Fortune [MASK] játszik:2 . [SEP],##ban,klarinét:3,0,klarinét:3,0,-3.55957
+[CLS] Andrea Parkins:2 [MASK] [MASK] játszik:2 . [SEP],##onban:2,harmonika:2,0,harmonika:2,0,-1.26451
+[CLS] Andrea Parkins:2 [MASK] játszik:2 . [SEP],##on,harmonika:2,0,harmonika:2,0,-1.64984
+[CLS] Andrea Parkins:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.53681
+[CLS] Andrea Parkins:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.58027
+[CLS] Andrea Parkins:2 [MASK] [MASK] játszik:2 . [SEP],##ford is,harmonika:2,0,harmonika:2,0,-3.54292
 [CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.91721
-[CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.67393
-[CLS] Eugene Hütz:2 [MASK] játszik:2 . [SEP],##mann,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.59791
+[CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.67394
+[CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.78837
+[CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-3.11613
+[CLS] Nils Lofgren:3 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.26029
+[CLS] Eugene Hütz:2 [MASK] játszik:2 . [SEP],##mann,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.59792
 [CLS] Eugene Hütz:2 [MASK] [MASK] játszik:2 . [SEP],##mannban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.51997
-[CLS] Eddie Willis [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.68387
-[CLS] Eddie Willis [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.08577
+[CLS] Eugene Hütz:2 [MASK] [MASK] játszik:2 . [SEP],##icht:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.86706
+[CLS] Eugene Hütz:2 [MASK] [MASK] játszik:2 . [SEP],##bergnek:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.10868
+[CLS] Eugene Hütz:2 [MASK] [MASK] játszik:2 . [SEP],##owen:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.41639
+[CLS] Eddie Willis [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.68388
+[CLS] Eddie Willis [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.08578
+[CLS] Eddie Willis [MASK] játszik:2 . [SEP],##től,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.54245
+[CLS] Eddie Willis [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.60080
+[CLS] Eddie Willis [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.76497
 [CLS] John Linnell:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.16251
-[CLS] John Linnell:2 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-2.55770
+[CLS] John Linnell:2 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-2.55771
+[CLS] John Linnell:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.89819
+[CLS] John Linnell:2 [MASK] játszik:2 . [SEP],##hez,harmonika:2,0,harmonika:2,0,-3.55244
+[CLS] John Linnell:2 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-3.66701
 [CLS] Arthur Barrow [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.33887
-[CLS] Arthur Barrow [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.35880
+[CLS] Arthur Barrow [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.35881
+[CLS] Arthur Barrow [MASK] játszik:2 . [SEP],által,basszusgitár:4,0,basszusgitár:4,0,-2.26448
+[CLS] Arthur Barrow [MASK] játszik:2 . [SEP],mellett,basszusgitár:4,0,basszusgitár:4,0,-3.35467
+[CLS] Arthur Barrow [MASK] játszik:2 . [SEP],##t,basszusgitár:4,0,basszusgitár:4,0,-3.54169
 [CLS] Louis Nelson Delisle:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,harmonika:2,0,harmonika:2,0,-1.66588
-[CLS] Louis Nelson Delisle:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.90086
+[CLS] Louis Nelson Delisle:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.90087
+[CLS] Louis Nelson Delisle:3 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-2.94815
+[CLS] Louis Nelson Delisle:3 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.46224
+[CLS] Louis Nelson Delisle:3 [MASK] játszik:2 . [SEP],után,harmonika:2,0,harmonika:2,0,-3.47303
 [CLS] Vince Gill [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.58880
-[CLS] Vince Gill [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-2.68246
+[CLS] Vince Gill [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-2.68247
+[CLS] Vince Gill [MASK] játszik:2 . [SEP],##től,gitár,0,gitár,0,-2.72504
+[CLS] Vince Gill [MASK] [MASK] játszik:2 . [SEP],##i együtt,gitár,0,gitár,0,-3.37171
+[CLS] Vince Gill [MASK] [MASK] játszik:2 . [SEP],##ett t,gitár,0,gitár,0,-3.42060
 [CLS] Frank Gambale:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,gitár,0,gitár,0,-2.09258
-[CLS] Frank Gambale:3 [MASK] [MASK] játszik:2 . [SEP],napt:2,gitár,0,gitár,0,-2.71614
+[CLS] Frank Gambale:3 [MASK] [MASK] játszik:2 . [SEP],napt:2,gitár,0,gitár,0,-2.71615
+[CLS] Frank Gambale:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],az angolt:2,gitár,0,gitár,0,-3.15494
+[CLS] Frank Gambale:3 [MASK] játszik:2 . [SEP],néven,gitár,0,gitár,0,-3.27770
+[CLS] Frank Gambale:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.32400
 [CLS] Dave Alvin [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-2.74359
-[CLS] Dave Alvin [MASK] [MASK] játszik:2 . [SEP],Alvin is,gitár,0,gitár,0,-2.93350
+[CLS] Dave Alvin [MASK] [MASK] játszik:2 . [SEP],Alvin is,gitár,0,gitár,0,-2.93351
+[CLS] Dave Alvin [MASK] [MASK] játszik:2 . [SEP],##eban:2,gitár,0,gitár,0,-3.38235
+[CLS] Dave Alvin [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-3.40152
+[CLS] Dave Alvin [MASK] játszik:2 . [SEP],##al,gitár,0,gitár,0,-3.51824
 [CLS] Dean Brown [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.40257
-[CLS] Dean Brown [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.67196
+[CLS] Dean Brown [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.67197
+[CLS] Dean Brown [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-2.70698
+[CLS] Dean Brown [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.79205
+[CLS] Dean Brown [MASK] [MASK] játszik:2 . [SEP],néában:2,gitár,0,gitár,0,-3.81720
 [CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.97353
-[CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##val,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.39133
+[CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##val,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.39134
+[CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##v,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.62572
+[CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.66179
+[CLS] Edward Pursino:3 [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.23842
 [CLS] Tyler Bates [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.45458
-[CLS] Tyler Bates [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.03680
+[CLS] Tyler Bates [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.03681
+[CLS] Tyler Bates [MASK] játszik:2 . [SEP],##től,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.57617
+[CLS] Tyler Bates [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.05387
+[CLS] Tyler Bates [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.10525
 [CLS] Steve Wariner:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.00076
-[CLS] Steve Wariner:2 [MASK] játszik:2 . [SEP],##ben,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.26334
+[CLS] Steve Wariner:2 [MASK] játszik:2 . [SEP],##ben,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.26335
+[CLS] Steve Wariner:2 [MASK] játszik:2 . [SEP],##nek,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.41788
+[CLS] Steve Wariner:2 [MASK] játszik:2 . [SEP],által,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.11650
+[CLS] Steve Wariner:2 [MASK] játszik:2 . [SEP],##t,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.22871
 [CLS] Mark Turner [MASK] játszik:2 . [SEP],##ban,basszusklarinét:5,0,basszusklarinét:5,0,-1.36611
-[CLS] Mark Turner [MASK] játszik:2 . [SEP],##ben,basszusklarinét:5,0,basszusklarinét:5,0,-1.91793
+[CLS] Mark Turner [MASK] játszik:2 . [SEP],##ben,basszusklarinét:5,0,basszusklarinét:5,0,-1.91794
+[CLS] Mark Turner [MASK] játszik:2 . [SEP],##nek,basszusklarinét:5,0,basszusklarinét:5,0,-3.05672
+[CLS] Mark Turner [MASK] játszik:2 . [SEP],##en,basszusklarinét:5,0,basszusklarinét:5,0,-3.48147
+[CLS] Mark Turner [MASK] játszik:2 . [SEP],mellett,basszusklarinét:5,0,basszusklarinét:5,0,-3.56538
 [CLS] Creed Bratton:3 [MASK] játszik:2 . [SEP],##ban,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-0.64410
-[CLS] Creed Bratton:3 [MASK] játszik:2 . [SEP],##ben,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-1.42545
-[CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##laneben:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.66265
+[CLS] Creed Bratton:3 [MASK] játszik:2 . [SEP],##ben,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-1.42546
+[CLS] Creed Bratton:3 [MASK] játszik:2 . [SEP],oldalán,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.21927
+[CLS] Creed Bratton:3 [MASK] játszik:2 . [SEP],mellett,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.24774
+[CLS] Creed Bratton:3 [MASK] [MASK] játszik:2 . [SEP],együttesben:2,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.84274
+[CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##laneben:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.66266
 [CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##nessban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.21614
+[CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##lyen:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.32296
+[CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##leyn:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.87396
+[CLS] Marty McFly:4 [MASK] [MASK] játszik:2 . [SEP],##llanon:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.16505
 [CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.86217
-[CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.01579
+[CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.01580
+[CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.39557
+[CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.10274
+[CLS] Vladimir Kuzmin:3 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.30972
 [CLS] Vinnie:2 Stigma:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.25093
-[CLS] Vinnie:2 Stigma:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.65430
-[CLS] Fred Smith [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.33874
-[CLS] Fred Smith [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.97820
-[CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.97884
+[CLS] Vinnie:2 Stigma:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.65431
+[CLS] Vinnie:2 Stigma:2 [MASK] játszik:2 . [SEP],is,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.12343
+[CLS] Vinnie:2 Stigma:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.59756
+[CLS] Vinnie:2 Stigma:2 [MASK] játszik:2 . [SEP],nem,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.65348
+[CLS] Fred Smith [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.33875
+[CLS] Fred Smith [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.97821
+[CLS] Fred Smith [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.70380
+[CLS] Fred Smith [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , az a az a",gitár,0,gitár,0,-3.74157
+[CLS] Fred Smith [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-3.82670
+[CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-0.97885
 [CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.80436
+[CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.15638
+[CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],között,gitár,0,gitár,0,-3.23692
+[CLS] Ezra Koenig:3 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-3.68344
 [CLS] David Prichard:2 [MASK] [MASK] játszik:2 . [SEP],- ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.16894
-[CLS] David Prichard:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.54778
+[CLS] David Prichard:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.54779
+[CLS] David Prichard:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.84027
+[CLS] David Prichard:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94307
+[CLS] David Prichard:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.98965
 [CLS] Donnie:2 Dacus:2 [MASK] játszik:2 . [SEP],##t,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.16835
-[CLS] Donnie:2 Dacus:2 [MASK] [MASK] játszik:2 . [SEP],##tban:2,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.79662
-[CLS] Derek Youngsma:2 [MASK] játszik:2 . [SEP],##rk,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.68987
-[CLS] Derek Youngsma:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],.n:2 a an:2 .nt:2 a,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.17506
+[CLS] Donnie:2 Dacus:2 [MASK] [MASK] játszik:2 . [SEP],##tban:2,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-2.79663
+[CLS] Donnie:2 Dacus:2 [MASK] [MASK] játszik:2 . [SEP],##sz is,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.13340
+[CLS] Donnie:2 Dacus:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az a , , a a an:2 a",akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.51068
+[CLS] Donnie:2 Dacus:2 [MASK] [MASK] játszik:2 . [SEP],##onl:2,akusztikus:3 gitár,0,akusztikus:3 gitár,0,-3.82435
+[CLS] Derek Youngsma:2 [MASK] játszik:2 . [SEP],##rk,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.68988
+[CLS] Derek Youngsma:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],.n:2 a an:2 .nt:2 a,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.17507
+[CLS] Derek Youngsma:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##r ann:3 a a .t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.37889
+[CLS] Derek Youngsma:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##n az az az azntp:3 .,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.70429
+[CLS] Derek Youngsma:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", ,n:2 , ,pnt:3",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.83672
 [CLS] J . Robbins [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.24481
-[CLS] J . Robbins [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.50782
+[CLS] J . Robbins [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.50783
+[CLS] J . Robbins [MASK] játszik:2 . [SEP],##et,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.67698
+[CLS] J . Robbins [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.72534
+[CLS] J . Robbins [MASK] játszik:2 . [SEP],-,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.90679
 [CLS] Lou A . Kouvaris:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.96266
-[CLS] Lou A . Kouvaris:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71790
+[CLS] Lou A . Kouvaris:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71791
+[CLS] Lou A . Kouvaris:3 [MASK] játszik:2 . [SEP],##on,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.13554
+[CLS] Lou A . Kouvaris:3 [MASK] játszik:2 . [SEP],##ában,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.41612
+[CLS] Lou A . Kouvaris:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.41987
 [CLS] Ryan Mendez:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.20304
-[CLS] Ryan Mendez:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71895
+[CLS] Ryan Mendez:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71896
+[CLS] Ryan Mendez:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.84873
+[CLS] Ryan Mendez:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94614
+[CLS] Ryan Mendez:2 [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.18984
 [CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.95749
-[CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.99641
+[CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.99642
+[CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18416
+[CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##tt,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.84402
+[CLS] Michael Keene:2 [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.27224
 [CLS] Don Wilson [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.92190
-[CLS] Don Wilson [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.34721
+[CLS] Don Wilson [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.34722
+[CLS] Don Wilson [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.69481
+[CLS] Don Wilson [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.04749
+[CLS] Don Wilson [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.08863
 [CLS] Jon Sholle:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,bendzsó:3,0,bendzsó:3,0,-1.88943
-[CLS] Jon Sholle:3 [MASK] játszik:2 . [SEP],által,bendzsó:3,0,bendzsó:3,0,-2.69169
+[CLS] Jon Sholle:3 [MASK] játszik:2 . [SEP],által,bendzsó:3,0,bendzsó:3,0,-2.69170
+[CLS] Jon Sholle:3 [MASK] játszik:2 . [SEP],mellett,bendzsó:3,0,bendzsó:3,0,-2.70887
+[CLS] Jon Sholle:3 [MASK] játszik:2 . [SEP],nem,bendzsó:3,0,bendzsó:3,0,-2.88423
+[CLS] Jon Sholle:3 [MASK] játszik:2 . [SEP],-,bendzsó:3,0,bendzsó:3,0,-3.05245
 [CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.23648
-[CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.79074
+[CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.79075
+[CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.49819
+[CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-3.38495
+[CLS] Julian Koster:2 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-3.39333
 [CLS] Visitante:3 [MASK] játszik:2 . [SEP],szerepet,harmonika:2,0,harmonika:2,0,-1.54612
-[CLS] Visitante:3 [MASK] játszik:2 . [SEP],nem,harmonika:2,0,harmonika:2,0,-1.94292
+[CLS] Visitante:3 [MASK] játszik:2 . [SEP],nem,harmonika:2,0,harmonika:2,0,-1.94293
+[CLS] Visitante:3 [MASK] játszik:2 . [SEP],is,harmonika:2,0,harmonika:2,0,-2.72558
+[CLS] Visitante:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az az a a , .r:2",harmonika:2,0,harmonika:2,0,-3.56681
+[CLS] Visitante:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.70097
 [CLS] Steve Smyth:2 [MASK] játszik:2 . [SEP],##e,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.62261
-[CLS] Steve Smyth:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18189
+[CLS] Steve Smyth:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18190
+[CLS] Steve Smyth:2 [MASK] [MASK] játszik:2 . [SEP],-nek:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.96683
+[CLS] Steve Smyth:2 [MASK] játszik:2 . [SEP],##on,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.20669
+[CLS] Steve Smyth:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.73996
 [CLS] Tommy Skeoch:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.45067
-[CLS] Tommy Skeoch:3 [MASK] [MASK] játszik:2 . [SEP],gitárt:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.00990
-[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.41530
-[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.25527
+[CLS] Tommy Skeoch:3 [MASK] [MASK] játszik:2 . [SEP],gitárt:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.00991
+[CLS] Tommy Skeoch:3 [MASK] [MASK] játszik:2 . [SEP],##iban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.35155
+[CLS] Tommy Skeoch:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",nn:3 , , , azán:2",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.68640
+[CLS] Tommy Skeoch:3 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.75698
+[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.41531
+[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.25528
+[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##nél,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.30231
+[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.73421
+[CLS] Dallas Toler:2 - Wade [MASK] játszik:2 . [SEP],##n,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.83304
 [CLS] Chris Hayes [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.59172
-[CLS] Chris Hayes [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94710
+[CLS] Chris Hayes [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.94711
+[CLS] Chris Hayes [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.02570
+[CLS] Chris Hayes [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.35997
+[CLS] Chris Hayes [MASK] játszik:2 . [SEP],##et,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.41023
 [CLS] Bob Spalding:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.56108
 [CLS] Bob Spalding:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.66307
+[CLS] Bob Spalding:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.42298
+[CLS] Bob Spalding:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.42764
+[CLS] Bob Spalding:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.78627
 [CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##ban,citera:2,0,citera:2,0,-1.27613
-[CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##ában,citera:2,0,citera:2,0,-2.99414
+[CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##ában,citera:2,0,citera:2,0,-2.99415
+[CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##t,citera:2,0,citera:2,0,-3.11963
+[CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##n,citera:2,0,citera:2,0,-3.47696
+[CLS] Laraaji:2 [MASK] játszik:2 . [SEP],##ben,citera:2,0,citera:2,0,-3.87889
 [CLS] Jack Conte [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.39609
-[CLS] Jack Conte [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.81772
+[CLS] Jack Conte [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.81773
+[CLS] Jack Conte [MASK] játszik:2 . [SEP],##n,harmonika:2,0,harmonika:2,0,-2.90779
+[CLS] Jack Conte [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.22834
+[CLS] Jack Conte [MASK] játszik:2 . [SEP],##tt,harmonika:2,0,harmonika:2,0,-3.39271
 [CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.54393
-[CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-1.81102
+[CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-1.81103
+[CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.36927
+[CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.43495
+[CLS] T . Corey Brennan [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-2.98498
 [CLS] Brent Mason [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.38060
-[CLS] Brent Mason [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-2.03601
+[CLS] Brent Mason [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-2.03602
+[CLS] Brent Mason [MASK] játszik:2 . [SEP],között,basszusgitár:4,0,basszusgitár:4,0,-3.10081
+[CLS] Brent Mason [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-3.35219
+[CLS] Brent Mason [MASK] játszik:2 . [SEP],mellett,basszusgitár:4,0,basszusgitár:4,0,-3.47928
 [CLS] Scott Holiday [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.38211
 [CLS] Scott Holiday [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.59567
+[CLS] Scott Holiday [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.96250
+[CLS] Scott Holiday [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.59328
+[CLS] Scott Holiday [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.45608
 [CLS] Monte Money [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . ő ő,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.24028
-[CLS] Monte Money [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az az az ő,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.82696
+[CLS] Monte Money [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az az az az az ő,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.82697
+[CLS] Monte Money [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.87397
+[CLS] Monte Money [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.35948
+[CLS] Monte Money [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.52727
 [CLS] Miles Joseph [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.08257
-[CLS] Miles Joseph [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.55384
+[CLS] Miles Joseph [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.55385
+[CLS] Miles Joseph [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.81739
+[CLS] Miles Joseph [MASK] játszik:2 . [SEP],##on,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.01578
+[CLS] Miles Joseph [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.55538
 [CLS] Brittany Howard [MASK] [MASK] játszik:2 . [SEP],-t:2,gitár,0,gitár,0,-2.41589
-[CLS] Brittany Howard [MASK] [MASK] játszik:2 . [SEP],színész is,gitár,0,gitár,0,-2.54335
+[CLS] Brittany Howard [MASK] [MASK] játszik:2 . [SEP],színész is,gitár,0,gitár,0,-2.54336
+[CLS] Brittany Howard [MASK] [MASK] játszik:2 . [SEP],angolban:2,gitár,0,gitár,0,-3.27868
+[CLS] Brittany Howard [MASK] [MASK] [MASK] játszik:2 . [SEP],ésnőát:3,gitár,0,gitár,0,-3.52528
+[CLS] Brittany Howard [MASK] játszik:2 . [SEP],##et,gitár,0,gitár,0,-3.73927
 [CLS] Oz Chiri:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],. . . . . .nn:3,gitár,0,gitár,0,-2.89612
-[CLS] Oz Chiri:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az . az az az őt:2,gitár,0,gitár,0,-3.11877
+[CLS] Oz Chiri:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az . az az az őt:2,gitár,0,gitár,0,-3.11878
+[CLS] Oz Chiri:2 [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-3.43678
+[CLS] Oz Chiri:2 [MASK] játszik:2 . [SEP],nem,gitár,0,gitár,0,-3.63540
+[CLS] Oz Chiri:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"Lu ,nn:3 ant:2 .",gitár,0,gitár,0,-4.02284
 [CLS] Britt Lightning [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.56006
-[CLS] Britt Lightning [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18118
+[CLS] Britt Lightning [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.18119
+[CLS] Britt Lightning [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.53870
+[CLS] Britt Lightning [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , , az az .",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.88245
+[CLS] Britt Lightning [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"##e , az az az azt:2",elektromos:3 gitár,0,elektromos:3 gitár,0,-4.13649
 [CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.56668
-[CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.58604
+[CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.58605
+[CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.64410
+[CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.89742
+[CLS] Tim Henson:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.12709
 [CLS] George Davis [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-1.54879
 [CLS] George Davis [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.07515
+[CLS] George Davis [MASK] játszik:2 . [SEP],##on,gitár,0,gitár,0,-2.21924
+[CLS] George Davis [MASK] játszik:2 . [SEP],##tel,gitár,0,gitár,0,-2.79096
+[CLS] George Davis [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.92709
 [CLS] Steve Childers:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.64314
 [CLS] Steve Childers:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.06168
+[CLS] Steve Childers:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.93459
+[CLS] Steve Childers:2 [MASK] játszik:2 . [SEP],-,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.28830
+[CLS] Steve Childers:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.36392
 [CLS] Jim Durkin:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.85410
-[CLS] Jim Durkin:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.37329
+[CLS] Jim Durkin:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.37330
+[CLS] Jim Durkin:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.49544
+[CLS] Jim Durkin:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.03594
+[CLS] Jim Durkin:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.08542
 [CLS] Jerry Fogle:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.84384
-[CLS] Jerry Fogle:3 [MASK] játszik:2 . [SEP],néven,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71034
+[CLS] Jerry Fogle:3 [MASK] játszik:2 . [SEP],néven,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.71035
+[CLS] Jerry Fogle:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", a a , , .r:2",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.20844
+[CLS] Jerry Fogle:3 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.50192
+[CLS] Jerry Fogle:3 [MASK] játszik:2 . [SEP],is,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.59789
 [CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.39471
-[CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.55915
+[CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.55916
+[CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.06947
+[CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.39283
+[CLS] Alex Snowden:2 [MASK] játszik:2 . [SEP],##nél,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.60440
 [CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.04180
-[CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.16058
+[CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.16059
+[CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##et,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.65104
+[CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.75189
+[CLS] Xavier Xerxes:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.93209
 [CLS] Leila:2 Abdul - Rauf:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.03992
-[CLS] Leila:2 Abdul - Rauf:2 [MASK] játszik:2 . [SEP],nem,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.76859
+[CLS] Leila:2 Abdul - Rauf:2 [MASK] játszik:2 . [SEP],nem,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.76860
+[CLS] Leila:2 Abdul - Rauf:2 [MASK] játszik:2 . [SEP],##et,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.90617
+[CLS] Leila:2 Abdul - Rauf:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.22549
+[CLS] Leila:2 Abdul - Rauf:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.33045
 [CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.67637
-[CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.28391
+[CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.28392
+[CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.35524
+[CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.39061
+[CLS] Mike Flyntz:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.74003
 [CLS] Bobby Koelble:3 [MASK] [MASK] játszik:2 . [SEP],##ttben:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.09201
-[CLS] Bobby Koelble:3 [MASK] játszik:2 . [SEP],##n,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.73318
-[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.36496
-[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-2.70776
+[CLS] Bobby Koelble:3 [MASK] játszik:2 . [SEP],##n,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.73319
+[CLS] Bobby Koelble:3 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.90611
+[CLS] Bobby Koelble:3 [MASK] [MASK] játszik:2 . [SEP],##t is,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.21903
+[CLS] Bobby Koelble:3 [MASK] játszik:2 . [SEP],##nc,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.33006
+[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.36497
+[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],néven,énekhang:2,0,énekhang:2,0,-2.70777
+[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],.,énekhang:2,0,énekhang:2,0,-3.33315
+[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],által,énekhang:2,0,énekhang:2,0,-3.38432
+[CLS] Steve Conn:2 [MASK] játszik:2 . [SEP],mellett,énekhang:2,0,énekhang:2,0,-3.42972
 [CLS] Aaron Lebos:2 [MASK] [MASK] játszik:2 . [SEP],##zkiban:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.98443
-[CLS] Aaron Lebos:2 [MASK] [MASK] játszik:2 . [SEP],##zt:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.28895
+[CLS] Aaron Lebos:2 [MASK] [MASK] játszik:2 . [SEP],##zt:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.28896
+[CLS] Aaron Lebos:2 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.80150
+[CLS] Aaron Lebos:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az az aznt:2 az .",elektromos:3 gitár,0,elektromos:3 gitár,0,-3.55671
+[CLS] Aaron Lebos:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],##snnnnntnt:7,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.80397
 [CLS] Taylor Swift [MASK] [MASK] játszik:2 . [SEP],- is,bendzsó:3,0,bendzsó:3,0,-1.66755
-[CLS] Taylor Swift [MASK] játszik:2 . [SEP],##en,bendzsó:3,0,bendzsó:3,0,-2.16449
-[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.50843
-[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.27948
+[CLS] Taylor Swift [MASK] játszik:2 . [SEP],##en,bendzsó:3,0,bendzsó:3,0,-2.16450
+[CLS] Taylor Swift [MASK] játszik:2 . [SEP],##et,bendzsó:3,0,bendzsó:3,0,-2.28858
+[CLS] Taylor Swift [MASK] játszik:2 . [SEP],##t,bendzsó:3,0,bendzsó:3,0,-2.44769
+[CLS] Taylor Swift [MASK] játszik:2 . [SEP],##nek,bendzsó:3,0,bendzsó:3,0,-2.62398
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.50844
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.27949
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.70153
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-2.90821
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.95290
 [CLS] Nigel Kennedy [MASK] [MASK] játszik:2 . [SEP],-t:2,jazz violin,0,jazz violin,0,-1.52415
-[CLS] Nigel Kennedy [MASK] játszik:2 . [SEP],##t,jazz violin,0,jazz violin,0,-2.08382
+[CLS] Nigel Kennedy [MASK] játszik:2 . [SEP],##t,jazz violin,0,jazz violin,0,-2.08383
+[CLS] Nigel Kennedy [MASK] játszik:2 . [SEP],##ben,jazz violin,0,jazz violin,0,-2.18397
+[CLS] Nigel Kennedy [MASK] játszik:2 . [SEP],##vel,jazz violin,0,jazz violin,0,-2.21840
+[CLS] Nigel Kennedy [MASK] játszik:2 . [SEP],##ban,jazz violin,0,jazz violin,0,-3.21469
 [CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.66103
-[CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.49895
+[CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.49896
+[CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.21571
+[CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.49515
+[CLS] Peter Hammill:2 [MASK] játszik:2 . [SEP],után,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.60911
 [CLS] Muzio:2 Clementi:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,zongora:2,0,zongora:2,0,-1.66331
-[CLS] Muzio:2 Clementi:2 [MASK] játszik:2 . [SEP],nem,zongora:2,0,zongora:2,0,-2.57919
+[CLS] Muzio:2 Clementi:2 [MASK] játszik:2 . [SEP],nem,zongora:2,0,zongora:2,0,-2.57920
+[CLS] Muzio:2 Clementi:2 [MASK] játszik:2 . [SEP],-,zongora:2,0,zongora:2,0,-2.72086
+[CLS] Muzio:2 Clementi:2 [MASK] játszik:2 . [SEP],között,zongora:2,0,zongora:2,0,-3.48884
+[CLS] Muzio:2 Clementi:2 [MASK] játszik:2 . [SEP],szerint,zongora:2,0,zongora:2,0,-3.57097
 [CLS] Brian Jones [MASK] játszik:2 . [SEP],##ban,szájharmonika:6,0,szájharmonika:6,0,-1.60503
-[CLS] Brian Jones [MASK] játszik:2 . [SEP],##ben,szájharmonika:6,0,szájharmonika:6,0,-2.74311
+[CLS] Brian Jones [MASK] játszik:2 . [SEP],##ben,szájharmonika:6,0,szájharmonika:6,0,-2.74312
+[CLS] Brian Jones [MASK] játszik:2 . [SEP],##et,szájharmonika:6,0,szájharmonika:6,0,-2.80792
+[CLS] Brian Jones [MASK] játszik:2 . [SEP],##t,szájharmonika:6,0,szájharmonika:6,0,-2.98527
+[CLS] Brian Jones [MASK] játszik:2 . [SEP],##nek,szájharmonika:6,0,szájharmonika:6,0,-3.30894
 [CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-1.89572
-[CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.51120
-[CLS] Van Morrison [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.32291
-[CLS] Van Morrison [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.42279
+[CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.51121
+[CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.90206
+[CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-3.24581
+[CLS] Rebecca Clarke [MASK] játszik:2 . [SEP],mellett,hegedű:3,0,hegedű:3,0,-3.37408
+[CLS] Van Morrison [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.32292
+[CLS] Van Morrison [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.42280
+[CLS] Van Morrison [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.84970
+[CLS] Van Morrison [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-3.24938
+[CLS] Van Morrison [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.63477
 [CLS] Hamilton Harty:2 [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.92043
-[CLS] Hamilton Harty:2 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-2.02030
+[CLS] Hamilton Harty:2 [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-2.02031
+[CLS] Hamilton Harty:2 [MASK] játszik:2 . [SEP],##án,zongora:2,0,zongora:2,0,-3.21016
+[CLS] Hamilton Harty:2 [MASK] [MASK] játszik:2 . [SEP],együttest:2,zongora:2,0,zongora:2,0,-3.52362
+[CLS] Hamilton Harty:2 [MASK] játszik:2 . [SEP],##ában,zongora:2,0,zongora:2,0,-3.65772
 [CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],##ben,orgona:2,0,orgona:2,0,-2.01181
-[CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],által,orgona:2,0,orgona:2,0,-2.08444
+[CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],által,orgona:2,0,orgona:2,0,-2.08445
+[CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],mellett,orgona:2,0,orgona:2,0,-2.78729
+[CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],között,orgona:2,0,orgona:2,0,-2.91660
+[CLS] Rick Wakeman:2 [MASK] játszik:2 . [SEP],##nek,orgona:2,0,orgona:2,0,-2.94211
 [CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.03094
-[CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-2.03565
+[CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-2.03566
+[CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-2.49314
+[CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-3.01348
+[CLS] Bill Wyman:2 [MASK] játszik:2 . [SEP],által,basszusgitár:4,0,basszusgitár:4,0,-3.24460
 [CLS] Jack Bruce [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.14313
-[CLS] Jack Bruce [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.05921
+[CLS] Jack Bruce [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.05922
+[CLS] Jack Bruce [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-2.98974
+[CLS] Jack Bruce [MASK] játszik:2 . [SEP],által,basszusgitár:4,0,basszusgitár:4,0,-3.09155
+[CLS] Jack Bruce [MASK] játszik:2 . [SEP],ben,basszusgitár:4,0,basszusgitár:4,0,-3.21417
 [CLS] Keith Emerson [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-1.76064
-[CLS] Keith Emerson [MASK] játszik:2 . [SEP],között,zongora:2,0,zongora:2,0,-2.94138
+[CLS] Keith Emerson [MASK] játszik:2 . [SEP],között,zongora:2,0,zongora:2,0,-2.94139
+[CLS] Keith Emerson [MASK] játszik:2 . [SEP],##ról,zongora:2,0,zongora:2,0,-3.03829
+[CLS] Keith Emerson [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-3.06931
+[CLS] Keith Emerson [MASK] játszik:2 . [SEP],##en,zongora:2,0,zongora:2,0,-3.28816
 [CLS] Greg Lake [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-1.49568
-[CLS] Greg Lake [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-1.71413
-[CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.09933
+[CLS] Greg Lake [MASK] játszik:2 . [SEP],##nek,énekhang:2,0,énekhang:2,0,-1.71414
+[CLS] Greg Lake [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.09698
+[CLS] Greg Lake [MASK] játszik:2 . [SEP],##vel,énekhang:2,0,énekhang:2,0,-3.48507
+[CLS] Greg Lake [MASK] játszik:2 . [SEP],##ből,énekhang:2,0,énekhang:2,0,-3.49144
+[CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.09934
 [CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.91329
+[CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##z,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.66578
+[CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.81017
+[CLS] Chris Tsangarides:4 [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.10691
 [CLS] Trevor Pinnock:2 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-1.53959
 [CLS] Trevor Pinnock:2 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.63737
+[CLS] Trevor Pinnock:2 [MASK] játszik:2 . [SEP],##en,csembaló:4,0,csembaló:4,0,-2.98957
+[CLS] Trevor Pinnock:2 [MASK] játszik:2 . [SEP],##nek,csembaló:4,0,csembaló:4,0,-2.99430
+[CLS] Trevor Pinnock:2 [MASK] játszik:2 . [SEP],##et,csembaló:4,0,csembaló:4,0,-3.57187
 [CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.35881
-[CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-1.41695
+[CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-1.41696
+[CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##en,csembaló:4,0,csembaló:4,0,-2.07368
+[CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##on,csembaló:4,0,csembaló:4,0,-3.38829
+[CLS] Christopher Hogwood:3 [MASK] játszik:2 . [SEP],##t,csembaló:4,0,csembaló:4,0,-3.55073
 [CLS] Les Reed [MASK] játszik:2 . [SEP],##ben,zongora:2,0,zongora:2,0,-1.77191
 [CLS] Les Reed [MASK] játszik:2 . [SEP],##ban,zongora:2,0,zongora:2,0,-2.61104
+[CLS] Les Reed [MASK] [MASK] játszik:2 . [SEP],-t:2,zongora:2,0,zongora:2,0,-3.08251
+[CLS] Les Reed [MASK] [MASK] játszik:2 . [SEP],##eben:2,zongora:2,0,zongora:2,0,-3.49383
+[CLS] Les Reed [MASK] [MASK] játszik:2 . [SEP],##us együtt,zongora:2,0,zongora:2,0,-3.54207
 [CLS] Jocelyn:3 Pook:2 [MASK] [MASK] játszik:2 . [SEP],##wichban:2,brácsa:3,0,brácsa:3,0,-2.01604
 [CLS] Jocelyn:3 Pook:2 [MASK] [MASK] játszik:2 . [SEP],Poben:2,brácsa:3,0,brácsa:3,0,-2.81266
+[CLS] Jocelyn:3 Pook:2 [MASK] [MASK] játszik:2 . [SEP],##fordt:2,brácsa:3,0,brácsa:3,0,-3.13503
+[CLS] Jocelyn:3 Pook:2 [MASK] játszik:2 . [SEP],##man,brácsa:3,0,brácsa:3,0,-3.56361
+[CLS] Jocelyn:3 Pook:2 [MASK] [MASK] játszik:2 . [SEP],po is,brácsa:3,0,brácsa:3,0,-3.64607
 [CLS] Martin Barre [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.78228
 [CLS] Martin Barre [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.12874
+[CLS] Martin Barre [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.69187
+[CLS] Martin Barre [MASK] [MASK] játszik:2 . [SEP],##nekl:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.17951
+[CLS] Martin Barre [MASK] [MASK] játszik:2 . [SEP],##n ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.71284
 [CLS] Sting [MASK] [MASK] játszik:2 . [SEP],##rayt:2,gitár,0,gitár,0,-1.95605
-[CLS] Sting [MASK] [MASK] játszik:2 . [SEP],##er is,gitár,0,gitár,0,-2.66634
-[CLS] Dave Holland [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.84446
-[CLS] Dave Holland [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.62085
+[CLS] Sting [MASK] [MASK] játszik:2 . [SEP],##er is,gitár,0,gitár,0,-2.66635
+[CLS] Sting [MASK] játszik:2 . [SEP],##től,gitár,0,gitár,0,-3.22833
+[CLS] Sting [MASK] játszik:2 . [SEP],##er,gitár,0,gitár,0,-3.28890
+[CLS] Sting [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-3.30233
+[CLS] Dave Holland [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.84447
+[CLS] Dave Holland [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.62086
+[CLS] Dave Holland [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-3.03547
+[CLS] Dave Holland [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-3.06158
+[CLS] Dave Holland [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-3.24181
 [CLS] Jeff Clyne:2 [MASK] [MASK] játszik:2 . [SEP],- is,gitár,0,gitár,0,-2.10361
 [CLS] Jeff Clyne:2 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.38224
+[CLS] Jeff Clyne:2 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.76559
+[CLS] Jeff Clyne:2 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-3.17821
+[CLS] Jeff Clyne:2 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-3.40195
 [CLS] Roy Babbington:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.01496
-[CLS] Roy Babbington:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.60215
-[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.06086
-[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.68005
+[CLS] Roy Babbington:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.60216
+[CLS] Roy Babbington:3 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-2.50729
+[CLS] Roy Babbington:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],és színészában:2,gitár,0,gitár,0,-3.43201
+[CLS] Roy Babbington:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],- .et:2,gitár,0,gitár,0,-3.76137
+[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.06087
+[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.68006
+[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-2.95624
+[CLS] Gavin Bryars:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],az a an an an a amnte:3,nagybőgő:5,0,nagybőgő:5,0,-3.59269
+[CLS] Gavin Bryars:3 [MASK] játszik:2 . [SEP],által,nagybőgő:5,0,nagybőgő:5,0,-3.77098
 [CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.18838
-[CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],##z,brácsa:3,0,brácsa:3,0,-2.46975
+[CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],##z,brácsa:3,0,brácsa:3,0,-2.46976
+[CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-2.51362
+[CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],néven,brácsa:3,0,brácsa:3,0,-3.53389
+[CLS] Lionel Tertis:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-3.71940
 [CLS] Raymond Leppard:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,csembaló:4,0,csembaló:4,0,-1.79543
-[CLS] Raymond Leppard:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-2.42897
+[CLS] Raymond Leppard:3 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-2.42898
+[CLS] Raymond Leppard:3 [MASK] játszik:2 . [SEP],##hez,csembaló:4,0,csembaló:4,0,-2.83083
+[CLS] Raymond Leppard:3 [MASK] játszik:2 . [SEP],által,csembaló:4,0,csembaló:4,0,-2.85119
+[CLS] Raymond Leppard:3 [MASK] játszik:2 . [SEP],-,csembaló:4,0,csembaló:4,0,-2.98936
 [CLS] Ivor:2 Bolton [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-0.55027
-[CLS] Ivor:2 Bolton [MASK] [MASK] játszik:2 . [SEP],Boltont:2,csembaló:4,0,csembaló:4,0,-2.69798
-[CLS] Ray Shulman:2 [MASK] [MASK] játszik:2 . [SEP],- ban,gitár,0,gitár,0,-1.87279
+[CLS] Ivor:2 Bolton [MASK] [MASK] játszik:2 . [SEP],Boltont:2,csembaló:4,0,csembaló:4,0,-2.69799
+[CLS] Ivor:2 Bolton [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-3.03269
+[CLS] Ivor:2 Bolton [MASK] [MASK] játszik:2 . [SEP],csapatban:2,csembaló:4,0,csembaló:4,0,-3.38827
+[CLS] Ivor:2 Bolton [MASK] [MASK] játszik:2 . [SEP],együttesában:2,csembaló:4,0,csembaló:4,0,-3.84750
+[CLS] Ray Shulman:2 [MASK] [MASK] játszik:2 . [SEP],- ban,gitár,0,gitár,0,-1.87280
 [CLS] Ray Shulman:2 [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-2.11539
+[CLS] Ray Shulman:2 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-3.00578
+[CLS] Ray Shulman:2 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-3.01105
+[CLS] Ray Shulman:2 [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-3.10435
 [CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-1.93186
-[CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.15654
+[CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.15655
+[CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],mellett,hegedű:3,0,hegedű:3,0,-2.83759
+[CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],##nél,hegedű:3,0,hegedű:3,0,-2.86482
+[CLS] Dave Swarbrick:4 [MASK] játszik:2 . [SEP],által,hegedű:3,0,hegedű:3,0,-2.95341
 [CLS] Roy Wood [MASK] játszik:2 . [SEP],##en,duda,0,duda,0,-1.13551
-[CLS] Roy Wood [MASK] játszik:2 . [SEP],##ben,duda,0,duda,0,-1.58537
+[CLS] Roy Wood [MASK] játszik:2 . [SEP],##ben,duda,0,duda,0,-1.58538
+[CLS] Roy Wood [MASK] [MASK] játszik:2 . [SEP],##en ban,duda,0,duda,0,-2.65097
+[CLS] Roy Wood [MASK] [MASK] játszik:2 . [SEP],-ben:2,duda,0,duda,0,-2.97863
+[CLS] Roy Wood [MASK] [MASK] játszik:2 . [SEP],angolen:2,duda,0,duda,0,-3.68568
 [CLS] Robert Thurston:3 Dart:2 [MASK] játszik:2 . [SEP],##ben,csembaló:4,0,csembaló:4,0,-0.62708
-[CLS] Robert Thurston:3 Dart:2 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.69160
+[CLS] Robert Thurston:3 Dart:2 [MASK] játszik:2 . [SEP],##ban,csembaló:4,0,csembaló:4,0,-1.69161
+[CLS] Robert Thurston:3 Dart:2 [MASK] [MASK] játszik:2 . [SEP],családában:2,csembaló:4,0,csembaló:4,0,-3.39702
+[CLS] Robert Thurston:3 Dart:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az a , , a a aán:2 sz az",csembaló:4,0,csembaló:4,0,-3.64909
+[CLS] Robert Thurston:3 Dart:2 [MASK] [MASK] játszik:2 . [SEP],Devonon:2,csembaló:4,0,csembaló:4,0,-3.93079
 [CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.54149
-[CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.05951
+[CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.05952
+[CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-2.38272
+[CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],néven,nagybőgő:5,0,nagybőgő:5,0,-3.18637
+[CLS] Coleridge:2 Goode:2 [MASK] játszik:2 . [SEP],között,nagybőgő:5,0,nagybőgő:5,0,-3.41083
 [CLS] Alex James [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.60678
-[CLS] Alex James [MASK] játszik:2 . [SEP],##t,basszusgitár:4,0,basszusgitár:4,0,-2.58949
+[CLS] Alex James [MASK] játszik:2 . [SEP],##t,basszusgitár:4,0,basszusgitár:4,0,-2.58950
+[CLS] Alex James [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-2.76083
+[CLS] Alex James [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-3.09527
+[CLS] Alex James [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-3.65914
 [CLS] Danny Thompson [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-0.67881
 [CLS] Danny Thompson [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.03280
-[CLS] Dave Green [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.13500
-[CLS] Dave Green [MASK] játszik:2 . [SEP],##man,nagybőgő:5,0,nagybőgő:5,0,-2.19164
+[CLS] Danny Thompson [MASK] játszik:2 . [SEP],által,nagybőgő:5,0,nagybőgő:5,0,-3.00949
+[CLS] Danny Thompson [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-3.11825
+[CLS] Danny Thompson [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-3.69627
+[CLS] Dave Green [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.13501
+[CLS] Dave Green [MASK] játszik:2 . [SEP],##man,nagybőgő:5,0,nagybőgő:5,0,-2.19165
+[CLS] Dave Green [MASK] [MASK] játszik:2 . [SEP],gitárban:2,nagybőgő:5,0,nagybőgő:5,0,-3.06859
+[CLS] Dave Green [MASK] [MASK] játszik:2 . [SEP],##sben:2,nagybőgő:5,0,nagybőgő:5,0,-3.57964
+[CLS] Dave Green [MASK] [MASK] játszik:2 . [SEP],dobnek:2,nagybőgő:5,0,nagybőgő:5,0,-3.69720
 [CLS] Dill:2 Katz [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.02646
 [CLS] Dill:2 Katz [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-1.26010
-[CLS] Dominic Lash:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.96897
-[CLS] Dominic Lash:2 [MASK] [MASK] játszik:2 . [SEP],##nekban:2,nagybőgő:5,0,nagybőgő:5,0,-2.96251
+[CLS] Dill:2 Katz [MASK] [MASK] játszik:2 . [SEP],##en is,nagybőgő:5,0,nagybőgő:5,0,-3.15085
+[CLS] Dill:2 Katz [MASK] [MASK] játszik:2 . [SEP],##on filmben,nagybőgő:5,0,nagybőgő:5,0,-3.36963
+[CLS] Dill:2 Katz [MASK] [MASK] játszik:2 . [SEP],##erben:2,nagybőgő:5,0,nagybőgő:5,0,-3.73056
+[CLS] Dominic Lash:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.96898
+[CLS] Dominic Lash:2 [MASK] [MASK] játszik:2 . [SEP],##nekban:2,nagybőgő:5,0,nagybőgő:5,0,-2.96252
+[CLS] Dominic Lash:2 [MASK] [MASK] játszik:2 . [SEP],- is,nagybőgő:5,0,nagybőgő:5,0,-3.24523
+[CLS] Dominic Lash:2 [MASK] játszik:2 . [SEP],ki,nagybőgő:5,0,nagybőgő:5,0,-3.52342
+[CLS] Dominic Lash:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-3.60462
 [CLS] Doug Scarratt:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.17403
-[CLS] Doug Scarratt:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.61976
+[CLS] Doug Scarratt:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.61977
+[CLS] Doug Scarratt:3 [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.68867
+[CLS] Doug Scarratt:3 [MASK] játszik:2 . [SEP],mellett,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.49859
+[CLS] Doug Scarratt:3 [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.64647
 [CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.23637
-[CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.45610
+[CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.45611
+[CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-2.81105
+[CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],##hez,basszusgitár:4,0,basszusgitár:4,0,-2.84689
+[CLS] Herbie:2 Flowers [MASK] játszik:2 . [SEP],mellett,basszusgitár:4,0,basszusgitár:4,0,-3.27747
 [CLS] John Edwards [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.05172
-[CLS] John Edwards [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.32639
+[CLS] John Edwards [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.32640
+[CLS] John Edwards [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-2.63699
+[CLS] John Edwards [MASK] játszik:2 . [SEP],által,nagybőgő:5,0,nagybőgő:5,0,-3.23956
+[CLS] John Edwards [MASK] [MASK] [MASK] játszik:2 . [SEP],és angolán:2,nagybőgő:5,0,nagybőgő:5,0,-3.93835
 [CLS] Paul Westwood [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.16597
 [CLS] Paul Westwood [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.35913
+[CLS] Paul Westwood [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-2.52464
+[CLS] Paul Westwood [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az , , az azr:2",basszusgitár:4,0,basszusgitár:4,0,-3.56018
+[CLS] Paul Westwood [MASK] [MASK] [MASK] játszik:2 . [SEP],", ,án:2",basszusgitár:4,0,basszusgitár:4,0,-3.88608
 [CLS] Len Howard [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-0.91273
-[CLS] Len Howard [MASK] [MASK] játszik:2 . [SEP],színész ban,brácsa:3,0,brácsa:3,0,-2.72153
-[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-1.77407
-[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.87764
+[CLS] Len Howard [MASK] [MASK] játszik:2 . [SEP],színész ban,brácsa:3,0,brácsa:3,0,-2.72154
+[CLS] Len Howard [MASK] [MASK] játszik:2 . [SEP],ést:2,brácsa:3,0,brácsa:3,0,-3.47075
+[CLS] Len Howard [MASK] [MASK] játszik:2 . [SEP],Howard nem,brácsa:3,0,brácsa:3,0,-3.63193
+[CLS] Len Howard [MASK] [MASK] játszik:2 . [SEP],", és",brácsa:3,0,brácsa:3,0,-3.77124
+[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-1.77408
+[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.87765
+[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.16925
+[CLS] Nikki Iles:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],",nn:3 aán:2 . .",harmonika:2,0,harmonika:2,0,-3.54470
+[CLS] Nikki Iles:2 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.72690
 [CLS] Paul Rogers [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.28338
-[CLS] Paul Rogers [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.70154
+[CLS] Paul Rogers [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.70155
+[CLS] Paul Rogers [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.30819
+[CLS] Paul Rogers [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-3.38853
+[CLS] Paul Rogers [MASK] játszik:2 . [SEP],által,nagybőgő:5,0,nagybőgő:5,0,-3.42394
 [CLS] Geoffrey Richardson [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-1.20761
-[CLS] Geoffrey Richardson [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.02656
-[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.09566
-[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.18150
-[CLS] Steve Berry [MASK] játszik:2 . [SEP],##ben,gordonka:3,0,gordonka:3,0,-1.62566
-[CLS] Steve Berry [MASK] [MASK] játszik:2 . [SEP],-t:2,gordonka:3,0,gordonka:3,0,-2.45559
+[CLS] Geoffrey Richardson [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.02657
+[CLS] Geoffrey Richardson [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-2.55773
+[CLS] Geoffrey Richardson [MASK] [MASK] [MASK] játszik:2 . [SEP],- a ban,gitár,0,gitár,0,-3.59479
+[CLS] Geoffrey Richardson [MASK] játszik:2 . [SEP],között,gitár,0,gitár,0,-3.75060
+[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.09567
+[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.18151
+[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],által,harmonika:2,0,harmonika:2,0,-3.27734
+[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-3.46521
+[CLS] Jack Emblow:3 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.84220
+[CLS] Steve Berry [MASK] játszik:2 . [SEP],##ben,gordonka:3,0,gordonka:3,0,-1.62567
+[CLS] Steve Berry [MASK] [MASK] játszik:2 . [SEP],-t:2,gordonka:3,0,gordonka:3,0,-2.45560
+[CLS] Steve Berry [MASK] játszik:2 . [SEP],##t,gordonka:3,0,gordonka:3,0,-2.83552
+[CLS] Steve Berry [MASK] játszik:2 . [SEP],##en,gordonka:3,0,gordonka:3,0,-2.88727
+[CLS] Steve Berry [MASK] játszik:2 . [SEP],##man,gordonka:3,0,gordonka:3,0,-2.99332
 [CLS] Stuart Cable [MASK] játszik:2 . [SEP],##ben,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.12732
-[CLS] Stuart Cable [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.33819
+[CLS] Stuart Cable [MASK] játszik:2 . [SEP],##en,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.33820
+[CLS] Stuart Cable [MASK] játszik:2 . [SEP],##ban,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.43440
+[CLS] Stuart Cable [MASK] játszik:2 . [SEP],##t,dobfelszerelés:5,0,dobfelszerelés:5,0,-2.67536
+[CLS] Stuart Cable [MASK] játszik:2 . [SEP],##n,dobfelszerelés:5,0,dobfelszerelés:5,0,-3.03711
 [CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],nem,electronic keyboard,0,electronic keyboard,0,-2.13525
-[CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],##ban,electronic keyboard,0,electronic keyboard,0,-2.70875
+[CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],##ban,electronic keyboard,0,electronic keyboard,0,-2.70876
+[CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],mellett,electronic keyboard,0,electronic keyboard,0,-3.33447
+[CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],néven,electronic keyboard,0,electronic keyboard,0,-3.38734
+[CLS] Mira Aroyo:3 [MASK] játszik:2 . [SEP],##ben,electronic keyboard,0,electronic keyboard,0,-3.50939
 [CLS] Neil Hannon:2 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-1.82033
-[CLS] Neil Hannon:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.30945
+[CLS] Neil Hannon:2 [MASK] játszik:2 . [SEP],##ben,énekhang:2,0,énekhang:2,0,-2.30946
+[CLS] Neil Hannon:2 [MASK] játszik:2 . [SEP],mellett,énekhang:2,0,énekhang:2,0,-2.54405
+[CLS] Neil Hannon:2 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],an aznnn:4 a anr:2,énekhang:2,0,énekhang:2,0,-3.39627
+[CLS] Neil Hannon:2 [MASK] játszik:2 . [SEP],által,énekhang:2,0,énekhang:2,0,-3.51955
 [CLS] Paul Coletti:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,brácsa:3,0,brácsa:3,0,-1.88314
-[CLS] Paul Coletti:2 [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.24277
+[CLS] Paul Coletti:2 [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.24278
+[CLS] Paul Coletti:2 [MASK] játszik:2 . [SEP],##vel,brácsa:3,0,brácsa:3,0,-2.68830
+[CLS] Paul Coletti:2 [MASK] játszik:2 . [SEP],##val,brácsa:3,0,brácsa:3,0,-2.69924
+[CLS] Paul Coletti:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.74606
 [CLS] Lawrence Power [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-1.07080
-[CLS] Lawrence Power [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.71528
+[CLS] Lawrence Power [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.71529
+[CLS] Lawrence Power [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-3.04045
+[CLS] Lawrence Power [MASK] [MASK] játszik:2 . [SEP],aben:2,brácsa:3,0,brácsa:3,0,-3.47132
+[CLS] Lawrence Power [MASK] [MASK] játszik:2 . [SEP],angolen:2,brácsa:3,0,brácsa:3,0,-3.53264
 [CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.16637
-[CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-2.36606
-[CLS] Simon Streatfeild:4 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-1.24202
-[CLS] Simon Streatfeild:4 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.14657
-[CLS] Abi Fry [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.12778
+[CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],##hoz,brácsa:3,0,brácsa:3,0,-2.36607
+[CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.49090
+[CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-3.65801
+[CLS] Maxim Rysanov:4 [MASK] játszik:2 . [SEP],##hez,brácsa:3,0,brácsa:3,0,-3.83384
+[CLS] Simon Streatfeild:4 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-1.24203
+[CLS] Simon Streatfeild:4 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.14658
+[CLS] Simon Streatfeild:4 [MASK] játszik:2 . [SEP],##et,brácsa:3,0,brácsa:3,0,-2.75342
+[CLS] Simon Streatfeild:4 [MASK] [MASK] játszik:2 . [SEP],##sen:2,brácsa:3,0,brácsa:3,0,-3.14317
+[CLS] Simon Streatfeild:4 [MASK] [MASK] játszik:2 . [SEP],##enon:2,brácsa:3,0,brácsa:3,0,-3.38310
+[CLS] Abi Fry [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.12779
 [CLS] Abi Fry [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-2.96558
+[CLS] Abi Fry [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-3.26375
+[CLS] Abi Fry [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-3.35153
+[CLS] Abi Fry [MASK] játszik:2 . [SEP],##e,brácsa:3,0,brácsa:3,0,-3.47204
 [CLS] Arthur Elwell:2 Fisher [MASK] [MASK] játszik:2 . [SEP],- ban,brácsa:3,0,brácsa:3,0,-1.66446
-[CLS] Arthur Elwell:2 Fisher [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.48106
+[CLS] Arthur Elwell:2 Fisher [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.48107
+[CLS] Arthur Elwell:2 Fisher [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.58869
+[CLS] Arthur Elwell:2 Fisher [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-3.16912
+[CLS] Arthur Elwell:2 Fisher [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-3.41922
 [CLS] Ashan:2 Pillai:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,brácsa:3,0,brácsa:3,0,-1.88331
-[CLS] Ashan:2 Pillai:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.62986
+[CLS] Ashan:2 Pillai:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.62987
+[CLS] Ashan:2 Pillai:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.81833
+[CLS] Ashan:2 Pillai:3 [MASK] játszik:2 . [SEP],is,brácsa:3,0,brácsa:3,0,-3.15416
+[CLS] Ashan:2 Pillai:3 [MASK] játszik:2 . [SEP],oldalán,brácsa:3,0,brácsa:3,0,-3.17820
 [CLS] Bill Wells [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.10125
-[CLS] Bill Wells [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.43739
+[CLS] Bill Wells [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.43740
+[CLS] Bill Wells [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-2.46623
+[CLS] Bill Wells [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-3.09048
+[CLS] Bill Wells [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-3.42266
 [CLS] Billy Reid [MASK] [MASK] játszik:2 . [SEP],-t:2,harmonika:2,0,harmonika:2,0,-1.81475
-[CLS] Billy Reid [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.19452
+[CLS] Billy Reid [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-2.19453
+[CLS] Billy Reid [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-2.96045
+[CLS] Billy Reid [MASK] játszik:2 . [SEP],##hez,harmonika:2,0,harmonika:2,0,-3.23437
+[CLS] Billy Reid [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.35657
 [CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],mellett,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.32911
-[CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],##ban,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.57202
+[CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],##ban,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.57203
+[CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],##ben,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-2.68423
+[CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],##nál,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-3.00727
+[CLS] Blair Cowan:2 [MASK] játszik:2 . [SEP],oldalán,billentyűs:4 hangszerek:3,0,billentyűs:4 hangszerek:3,0,-3.02601
 [CLS] Claude Hobday:3 [MASK] [MASK] játszik:2 . [SEP],-t:2,nagybőgő:5,0,nagybőgő:5,0,-1.97775
 [CLS] Claude Hobday:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.37826
+[CLS] Claude Hobday:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.58002
+[CLS] Claude Hobday:3 [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.78019
+[CLS] Claude Hobday:3 [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-2.99241
 [CLS] Dave Richmond [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.74783
 [CLS] Dave Richmond [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-3.04028
+[CLS] Dave Richmond [MASK] játszik:2 . [SEP],##ról,basszusgitár:4,0,basszusgitár:4,0,-3.28604
+[CLS] Dave Richmond [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-3.30749
+[CLS] Dave Richmond [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-3.44937
 [CLS] Dave Swift [MASK] játszik:2 . [SEP],##en,gitár,0,gitár,0,-0.85961
-[CLS] Dave Swift [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.97581
+[CLS] Dave Swift [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.97582
+[CLS] Dave Swift [MASK] [MASK] játszik:2 . [SEP],##enban:2,gitár,0,gitár,0,-3.44540
+[CLS] Dave Swift [MASK] [MASK] játszik:2 . [SEP],Swift t,gitár,0,gitár,0,-3.69333
+[CLS] Dave Swift [MASK] [MASK] játszik:2 . [SEP],isen:2,gitár,0,gitár,0,-3.77822
 [CLS] David Fletcher [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-1.49537
-[CLS] David Fletcher [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-1.98275
+[CLS] David Fletcher [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-1.98276
+[CLS] David Fletcher [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.34270
+[CLS] David Fletcher [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-3.02616
+[CLS] David Fletcher [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-3.61052
 [CLS] Dean Garcia [MASK] játszik:2 . [SEP],##t,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.76598
-[CLS] Dean Garcia [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.53436
-[CLS] Dennis Berry [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-0.84521
+[CLS] Dean Garcia [MASK] játszik:2 . [SEP],##vel,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.53437
+[CLS] Dean Garcia [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.54833
+[CLS] Dean Garcia [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.61804
+[CLS] Dean Garcia [MASK] játszik:2 . [SEP],##l,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.21541
+[CLS] Dennis Berry [MASK] játszik:2 . [SEP],##ben,szaxofon:4,0,szaxofon:4,0,-0.84522
 [CLS] Dennis Berry [MASK] játszik:2 . [SEP],##t,szaxofon:4,0,szaxofon:4,0,-2.66879
-[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-1.57239
-[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##on,harmonika:2,0,harmonika:2,0,-1.91559
+[CLS] Dennis Berry [MASK] játszik:2 . [SEP],##nek,szaxofon:4,0,szaxofon:4,0,-2.68184
+[CLS] Dennis Berry [MASK] játszik:2 . [SEP],##en,szaxofon:4,0,szaxofon:4,0,-2.78739
+[CLS] Dennis Berry [MASK] játszik:2 . [SEP],##vel,szaxofon:4,0,szaxofon:4,0,-3.21340
+[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##en,harmonika:2,0,harmonika:2,0,-1.57240
+[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##on,harmonika:2,0,harmonika:2,0,-1.91560
+[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.20556
+[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.33801
+[CLS] Geraint:2 Watkins [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.34714
 [CLS] Helen Callus:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,brácsa:3,0,brácsa:3,0,-2.20600
-[CLS] Helen Callus:2 [MASK] játszik:2 . [SEP],néven,brácsa:3,0,brácsa:3,0,-2.69049
+[CLS] Helen Callus:2 [MASK] játszik:2 . [SEP],néven,brácsa:3,0,brácsa:3,0,-2.69050
+[CLS] Helen Callus:2 [MASK] játszik:2 . [SEP],is,brácsa:3,0,brácsa:3,0,-3.18014
+[CLS] Helen Callus:2 [MASK] játszik:2 . [SEP],-,brácsa:3,0,brácsa:3,0,-3.27022
+[CLS] Helen Callus:2 [MASK] játszik:2 . [SEP],nem,brácsa:3,0,brácsa:3,0,-3.45897
 [CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.64474
-[CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.70283
-[CLS] John Porter [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.49525
-[CLS] John Porter [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.52232
+[CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-1.70284
+[CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.94518
+[CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-3.33832
+[CLS] Henry Myerscough:3 [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-3.59669
+[CLS] John Porter [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.49526
+[CLS] John Porter [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.52233
+[CLS] John Porter [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.35040
+[CLS] John Porter [MASK] játszik:2 . [SEP],##nek,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.45243
+[CLS] John Porter [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.66549
 [CLS] Jon Thorne [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-2.03913
-[CLS] Jon Thorne [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-2.25323
+[CLS] Jon Thorne [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-2.25324
+[CLS] Jon Thorne [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.94115
+[CLS] Jon Thorne [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-3.07523
+[CLS] Jon Thorne [MASK] játszik:2 . [SEP],##l,nagybőgő:5,0,nagybőgő:5,0,-3.65324
 [CLS] Kate St John [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-1.04859
-[CLS] Kate St John [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.71982
+[CLS] Kate St John [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.71983
+[CLS] Kate St John [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"is , , az az az az azt:2",harmonika:2,0,harmonika:2,0,-3.33431
+[CLS] Kate St John [MASK] [MASK] játszik:2 . [SEP],csapat is,harmonika:2,0,harmonika:2,0,-3.60133
+[CLS] Kate St John [MASK] [MASK] [MASK] játszik:2 . [SEP],nevű .t:2,harmonika:2,0,harmonika:2,0,-3.99492
 [CLS] King Creosote:4 [MASK] [MASK] játszik:2 . [SEP],-ban:2,harmonika:2,0,harmonika:2,0,-1.62703
-[CLS] King Creosote:4 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.23766
+[CLS] King Creosote:4 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-2.23767
+[CLS] King Creosote:4 [MASK] játszik:2 . [SEP],tagja,harmonika:2,0,harmonika:2,0,-2.52308
+[CLS] King Creosote:4 [MASK] játszik:2 . [SEP],néven,harmonika:2,0,harmonika:2,0,-3.10294
+[CLS] King Creosote:4 [MASK] [MASK] játszik:2 . [SEP],zenekaren:2,harmonika:2,0,harmonika:2,0,-3.59448
 [CLS] Mairi:2 Campbell [MASK] [MASK] játszik:2 . [SEP],-t:2,brácsa:3,0,brácsa:3,0,-1.85542
-[CLS] Mairi:2 Campbell [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.31925
+[CLS] Mairi:2 Campbell [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.31926
+[CLS] Mairi:2 Campbell [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-2.48420
+[CLS] Mairi:2 Campbell [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.49509
+[CLS] Mairi:2 Campbell [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-2.65359
 [CLS] Pete Fijalkowski:3 [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-1.63726
 [CLS] Pete Fijalkowski:3 [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-2.41371
+[CLS] Pete Fijalkowski:3 [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.60140
+[CLS] Pete Fijalkowski:3 [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.86622
+[CLS] Pete Fijalkowski:3 [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.96582
 [CLS] Rodney Slatford:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-0.69111
-[CLS] Rodney Slatford:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.06458
+[CLS] Rodney Slatford:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.06459
+[CLS] Rodney Slatford:3 [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],", az az a az azn:2",nagybőgő:5,0,nagybőgő:5,0,-3.33915
+[CLS] Rodney Slatford:3 [MASK] [MASK] játszik:2 . [SEP],angolában:2,nagybőgő:5,0,nagybőgő:5,0,-3.48530
+[CLS] Rodney Slatford:3 [MASK] [MASK] játszik:2 . [SEP],játékos ban,nagybőgő:5,0,nagybőgő:5,0,-3.70785
 [CLS] Roger Chase [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-1.50220
-[CLS] Roger Chase [MASK] játszik:2 . [SEP],##vel,brácsa:3,0,brácsa:3,0,-1.77467
+[CLS] Roger Chase [MASK] játszik:2 . [SEP],##vel,brácsa:3,0,brácsa:3,0,-1.77468
+[CLS] Roger Chase [MASK] játszik:2 . [SEP],##t,brácsa:3,0,brácsa:3,0,-2.81496
+[CLS] Roger Chase [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-3.16345
+[CLS] Roger Chase [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-3.78414
 [CLS] Sheila Nelson [MASK] játszik:2 . [SEP],##nek,hegedű:3,0,hegedű:3,0,-2.07250
-[CLS] Sheila Nelson [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.64726
+[CLS] Sheila Nelson [MASK] játszik:2 . [SEP],##t,hegedű:3,0,hegedű:3,0,-2.64727
+[CLS] Sheila Nelson [MASK] játszik:2 . [SEP],-,hegedű:3,0,hegedű:3,0,-2.94168
+[CLS] Sheila Nelson [MASK] játszik:2 . [SEP],nem,hegedű:3,0,hegedű:3,0,-3.39377
+[CLS] Sheila Nelson [MASK] játszik:2 . [SEP],is,hegedű:3,0,hegedű:3,0,-3.43941
 [CLS] Simon Little [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.02072
-[CLS] Simon Little [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.13426
+[CLS] Simon Little [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.13427
+[CLS] Simon Little [MASK] [MASK] játszik:2 . [SEP],##field ban,gitár,0,gitár,0,-3.06544
+[CLS] Simon Little [MASK] [MASK] játszik:2 . [SEP],aet:2,gitár,0,gitár,0,-3.30810
+[CLS] Simon Little [MASK] [MASK] játszik:2 . [SEP],##fordben:2,gitár,0,gitár,0,-3.44253
 [CLS] Tim Van Eyken:3 [MASK] játszik:2 . [SEP],##ben,harmonika:2,0,harmonika:2,0,-1.01554
 [CLS] Tim Van Eyken:3 [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-1.91903
-[CLS] Will Starr [MASK] [MASK] játszik:2 . [SEP],- ban,harmonika:2,0,harmonika:2,0,-1.96915
-[CLS] Will Starr [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a a a a aán:2 a,harmonika:2,0,harmonika:2,0,-3.01403
+[CLS] Tim Van Eyken:3 [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.34112
+[CLS] Tim Van Eyken:3 [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.62124
+[CLS] Tim Van Eyken:3 [MASK] játszik:2 . [SEP],##hez,harmonika:2,0,harmonika:2,0,-3.69416
+[CLS] Will Starr [MASK] [MASK] játszik:2 . [SEP],- ban,harmonika:2,0,harmonika:2,0,-1.96916
+[CLS] Will Starr [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],a a a a a aán:2 a,harmonika:2,0,harmonika:2,0,-3.01404
+[CLS] Will Starr [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-3.31138
+[CLS] Will Starr [MASK] játszik:2 . [SEP],mellett,harmonika:2,0,harmonika:2,0,-3.60579
+[CLS] Will Starr [MASK] játszik:2 . [SEP],oldalán,harmonika:2,0,harmonika:2,0,-3.64168
 [CLS] Arnie:2 Somogyi:3 [MASK] [MASK] játszik:2 . [SEP],-ban:2,nagybőgő:5,0,nagybőgő:5,0,-1.49335
-[CLS] Arnie:2 Somogyi:3 [MASK] [MASK] játszik:2 . [SEP],városában:2,nagybőgő:5,0,nagybőgő:5,0,-2.55060
+[CLS] Arnie:2 Somogyi:3 [MASK] [MASK] játszik:2 . [SEP],városában:2,nagybőgő:5,0,nagybőgő:5,0,-2.55061
+[CLS] Arnie:2 Somogyi:3 [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-2.91484
+[CLS] Arnie:2 Somogyi:3 [MASK] játszik:2 . [SEP],szerepet,nagybőgő:5,0,nagybőgő:5,0,-3.24385
+[CLS] Arnie:2 Somogyi:3 [MASK] [MASK] játszik:2 . [SEP],Andrásen:2,nagybőgő:5,0,nagybőgő:5,0,-3.63476
 [CLS] Alison Rayner:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-0.65445
-[CLS] Alison Rayner:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.53089
+[CLS] Alison Rayner:2 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.53090
+[CLS] Alison Rayner:2 [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-3.13202
+[CLS] Alison Rayner:2 [MASK] játszik:2 . [SEP],##hez,nagybőgő:5,0,nagybőgő:5,0,-3.66469
+[CLS] Alison Rayner:2 [MASK] [MASK] [MASK] játszik:2 . [SEP],angol éset:2,nagybőgő:5,0,nagybőgő:5,0,-3.83810
 [CLS] Benny Gallagher [MASK] játszik:2 . [SEP],##nek,harmonika:2,0,harmonika:2,0,-1.42038
-[CLS] Benny Gallagher [MASK] [MASK] játszik:2 . [SEP],Gallagher Gallagher,harmonika:2,0,harmonika:2,0,-2.15901
+[CLS] Benny Gallagher [MASK] [MASK] játszik:2 . [SEP],Gallagher Gallagher,harmonika:2,0,harmonika:2,0,-2.15902
+[CLS] Benny Gallagher [MASK] játszik:2 . [SEP],##ban,harmonika:2,0,harmonika:2,0,-2.31303
+[CLS] Benny Gallagher [MASK] játszik:2 . [SEP],##t,harmonika:2,0,harmonika:2,0,-2.40964
+[CLS] Benny Gallagher [MASK] játszik:2 . [SEP],##nak,harmonika:2,0,harmonika:2,0,-3.50602
 [CLS] John Thomas [MASK] játszik:2 . [SEP],##en,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.00545
-[CLS] John Thomas [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.37044
+[CLS] John Thomas [MASK] játszik:2 . [SEP],által,elektromos:3 gitár,0,elektromos:3 gitár,0,-2.37045
+[CLS] John Thomas [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.18833
+[CLS] John Thomas [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.25671
+[CLS] John Thomas [MASK] [MASK] játszik:2 . [SEP],Johnában:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.90017
 [CLS] Nilüfer:3 Yanya:2 [MASK] játszik:2 . [SEP],##ban,énekhang:2,0,énekhang:2,0,-2.13697
-[CLS] Nilüfer:3 Yanya:2 [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az az az ,ában:2",énekhang:2,0,énekhang:2,0,-3.02992
-[CLS] Freddie Logan [MASK] [MASK] játszik:2 . [SEP],-t:2,nagybőgő:5,0,nagybőgő:5,0,-1.87577
+[CLS] Nilüfer:3 Yanya:2 [MASK] [MASK] [MASK] [MASK] [MASK] játszik:2 . [SEP],"az az az ,ában:2",énekhang:2,0,énekhang:2,0,-3.02993
+[CLS] Nilüfer:3 Yanya:2 [MASK] játszik:2 . [SEP],##p,énekhang:2,0,énekhang:2,0,-3.30708
+[CLS] Nilüfer:3 Yanya:2 [MASK] játszik:2 . [SEP],##val,énekhang:2,0,énekhang:2,0,-3.37204
+[CLS] Nilüfer:3 Yanya:2 [MASK] játszik:2 . [SEP],tarafından,énekhang:2,0,énekhang:2,0,-3.70927
+[CLS] Freddie Logan [MASK] [MASK] játszik:2 . [SEP],-t:2,nagybőgő:5,0,nagybőgő:5,0,-1.87578
 [CLS] Freddie Logan [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-2.40888
+[CLS] Freddie Logan [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.85861
+[CLS] Freddie Logan [MASK] játszik:2 . [SEP],##et,nagybőgő:5,0,nagybőgő:5,0,-3.36913
+[CLS] Freddie Logan [MASK] játszik:2 . [SEP],##nek,nagybőgő:5,0,nagybőgő:5,0,-3.41560
 [CLS] Mal Spooner:3 [MASK] játszik:2 . [SEP],##ben,elektromos:3 gitár,0,elektromos:3 gitár,0,-0.56722
-[CLS] Mal Spooner:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.62133
+[CLS] Mal Spooner:3 [MASK] játszik:2 . [SEP],##ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-1.62134
+[CLS] Mal Spooner:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],az színészt:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.33796
+[CLS] Mal Spooner:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],és a ban,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.61707
+[CLS] Mal Spooner:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz gitárben:2,elektromos:3 gitár,0,elektromos:3 gitár,0,-3.70518
 [CLS] Simon Whistler:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-0.52840
-[CLS] Simon Whistler:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.20497
+[CLS] Simon Whistler:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.20498
+[CLS] Simon Whistler:3 [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-3.23669
+[CLS] Simon Whistler:3 [MASK] [MASK] [MASK] játszik:2 . [SEP],sz színészt:2,brácsa:3,0,brácsa:3,0,-3.73833
+[CLS] Simon Whistler:3 [MASK] játszik:2 . [SEP],##en,brácsa:3,0,brácsa:3,0,-3.78295
 [CLS] Robert Smissen:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,brácsa:3,0,brácsa:3,0,-2.24759
-[CLS] Robert Smissen:2 [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.34952
+[CLS] Robert Smissen:2 [MASK] játszik:2 . [SEP],##nek,brácsa:3,0,brácsa:3,0,-2.34953
+[CLS] Robert Smissen:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-3.02271
+[CLS] Robert Smissen:2 [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-3.22239
+[CLS] Robert Smissen:2 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-3.41681
 [CLS] Conor:2 Chaplin [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-1.16222
-[CLS] Conor:2 Chaplin [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.89100
-[CLS] Jack Cole [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.47432
-[CLS] Jack Cole [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.53858
-[CLS] Steve Mair:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,nagybőgő:5,0,nagybőgő:5,0,-1.70663
-[CLS] Steve Mair:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.92688
+[CLS] Conor:2 Chaplin [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-1.89101
+[CLS] Conor:2 Chaplin [MASK] játszik:2 . [SEP],##en,nagybőgő:5,0,nagybőgő:5,0,-1.91627
+[CLS] Conor:2 Chaplin [MASK] [MASK] játszik:2 . [SEP],Chaplin filmben,nagybőgő:5,0,nagybőgő:5,0,-3.43432
+[CLS] Conor:2 Chaplin [MASK] játszik:2 . [SEP],##t,nagybőgő:5,0,nagybőgő:5,0,-3.62236
+[CLS] Jack Cole [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-2.47433
+[CLS] Jack Cole [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.53859
+[CLS] Jack Cole [MASK] [MASK] játszik:2 . [SEP],hangban:2,gitár,0,gitár,0,-3.26817
+[CLS] Jack Cole [MASK] játszik:2 . [SEP],mellett,gitár,0,gitár,0,-3.34453
+[CLS] Jack Cole [MASK] játszik:2 . [SEP],##n,gitár,0,gitár,0,-3.35425
+[CLS] Steve Mair:2 [MASK] [MASK] játszik:2 . [SEP],-t:2,nagybőgő:5,0,nagybőgő:5,0,-1.70664
+[CLS] Steve Mair:2 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-2.92689
+[CLS] Steve Mair:2 [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-3.13200
+[CLS] Steve Mair:2 [MASK] játszik:2 . [SEP],is,nagybőgő:5,0,nagybőgő:5,0,-3.25031
+[CLS] Steve Mair:2 [MASK] játszik:2 . [SEP],néven,nagybőgő:5,0,nagybőgő:5,0,-3.45190
 [CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.41842
-[CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.82732
+[CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.82733
+[CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],is,brácsa:3,0,brácsa:3,0,-3.07950
+[CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],nem,brácsa:3,0,brácsa:3,0,-3.17499
+[CLS] Rob Brophy:3 [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-3.58967
 [CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],##ben,nagybőgő:5,0,nagybőgő:5,0,-0.96891
-[CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.89126
+[CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],##ban,nagybőgő:5,0,nagybőgő:5,0,-2.89127
+[CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],néven,nagybőgő:5,0,nagybőgő:5,0,-3.22477
+[CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],mellett,nagybőgő:5,0,nagybőgő:5,0,-3.39044
+[CLS] Laurence Ungless:3 [MASK] játszik:2 . [SEP],által,nagybőgő:5,0,nagybőgő:5,0,-3.44725
 [CLS] Paul McCartney [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.16904
-[CLS] Paul McCartney [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.23880
+[CLS] Paul McCartney [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.23881
+[CLS] Paul McCartney [MASK] játszik:2 . [SEP],által,basszusgitár:4,0,basszusgitár:4,0,-2.90988
+[CLS] Paul McCartney [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-3.15103
+[CLS] Paul McCartney [MASK] játszik:2 . [SEP],##t,basszusgitár:4,0,basszusgitár:4,0,-3.16569
 [CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],##ban,basszusgitár:4,0,basszusgitár:4,0,-1.64067
-[CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.86352
+[CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],##ben,basszusgitár:4,0,basszusgitár:4,0,-1.86353
+[CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],##nek,basszusgitár:4,0,basszusgitár:4,0,-2.24642
+[CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],##en,basszusgitár:4,0,basszusgitár:4,0,-3.13622
+[CLS] Mike Oldfield:2 [MASK] játszik:2 . [SEP],mellett,basszusgitár:4,0,basszusgitár:4,0,-3.30358
 [CLS] Adele [MASK] játszik:2 . [SEP],is,gitár,0,gitár,0,-2.31927
-[CLS] Adele [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.73923
+[CLS] Adele [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.73924
+[CLS] Adele [MASK] játszik:2 . [SEP],##l,gitár,0,gitár,0,-3.30357
+[CLS] Adele [MASK] játszik:2 . [SEP],-,gitár,0,gitár,0,-3.49588
+[CLS] Adele [MASK] játszik:2 . [SEP],##vel,gitár,0,gitár,0,-3.74823
 [CLS] Alma Deutscher [MASK] játszik:2 . [SEP],##ban,hegedű:3,0,hegedű:3,0,-2.62161
-[CLS] Alma Deutscher [MASK] [MASK] játszik:2 . [SEP],- nem,hegedű:3,0,hegedű:3,0,-2.93529
+[CLS] Alma Deutscher [MASK] [MASK] játszik:2 . [SEP],- nem,hegedű:3,0,hegedű:3,0,-2.93530
+[CLS] Alma Deutscher [MASK] játszik:2 . [SEP],##ben,hegedű:3,0,hegedű:3,0,-2.98540
+[CLS] Alma Deutscher [MASK] játszik:2 . [SEP],nem,hegedű:3,0,hegedű:3,0,-3.38496
+[CLS] Alma Deutscher [MASK] játszik:2 . [SEP],is,hegedű:3,0,hegedű:3,0,-3.46838
 [CLS] John Cale:2 [MASK] játszik:2 . [SEP],##ben,brácsa:3,0,brácsa:3,0,-1.57400
-[CLS] John Cale:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.56938
-[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.50843
-[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.27948
+[CLS] John Cale:2 [MASK] játszik:2 . [SEP],##ban,brácsa:3,0,brácsa:3,0,-2.56939
+[CLS] John Cale:2 [MASK] játszik:2 . [SEP],által,brácsa:3,0,brácsa:3,0,-2.84020
+[CLS] John Cale:2 [MASK] játszik:2 . [SEP],mellett,brácsa:3,0,brácsa:3,0,-2.95717
+[CLS] John Cale:2 [MASK] játszik:2 . [SEP],alatt,brácsa:3,0,brácsa:3,0,-3.58931
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ben,gitár,0,gitár,0,-1.50844
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##ban,gitár,0,gitár,0,-2.27949
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##t,gitár,0,gitár,0,-2.70153
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],által,gitár,0,gitár,0,-2.90821
+[CLS] Eric Clapton [MASK] játszik:2 . [SEP],##nek,gitár,0,gitár,0,-2.95290

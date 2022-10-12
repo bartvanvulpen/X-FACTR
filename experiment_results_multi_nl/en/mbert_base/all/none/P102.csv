@@ -1,401 +1,1001 @@
 sentence,prediction,gold_inflection,is_same,gold_original,is_same,log_prob
 [CLS] Jeremiah:3 Clemens is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.09107
 [CLS] Jeremiah:3 Clemens is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.91402
+[CLS] Jeremiah:3 Clemens is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.16103
+[CLS] Jeremiah:3 Clemens is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.50438
+[CLS] Jeremiah:3 Clemens is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.04919
 [CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.45617
-[CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.84668
+[CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.84669
+[CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],Labour,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.31717
+[CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.63586
+[CLS] Edith Wilson is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.68043
 [CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.39908
-[CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],Italiaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.21570
-[CLS] John A . Carroll is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.61693
-[CLS] John A . Carroll is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , , - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.26037
-[CLS] June Lockhart:2 is lid van de [MASK] politieke partij . [SEP],lokale,California Republican Party,0,California Republican Party,0,-1.87160
-[CLS] June Lockhart:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Newhart:2 , de",California Republican Party,0,California Republican Party,0,-3.16845
+[CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],Italiaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.21571
+[CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.01292
+[CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],sociale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.43908
+[CLS] Carly:2 Fiorina:3 is lid van de [MASK] politieke partij . [SEP],regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.59947
+[CLS] John A . Carroll is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.61692
+[CLS] John A . Carroll is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , , - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.26038
+[CLS] John A . Carroll is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],deC:2 Party Party de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.69779
+[CLS] John A . Carroll is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ds:2 'e:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.09218
+[CLS] John A . Carroll is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],GreenA:2 ' ' politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.31583
+[CLS] June Lockhart:2 is lid van de [MASK] politieke partij . [SEP],lokale,California Republican Party,0,California Republican Party,0,-1.87159
+[CLS] June Lockhart:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Newhart:2 , de",California Republican Party,0,California Republican Party,0,-3.16846
+[CLS] June Lockhart:2 is lid van de [MASK] politieke partij . [SEP],Britse,California Republican Party,0,California Republican Party,0,-3.33399
+[CLS] June Lockhart:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,California Republican Party,0,California Republican Party,0,-3.47990
+[CLS] June Lockhart:2 is lid van de [MASK] politieke partij . [SEP],katholieke,California Republican Party,0,California Republican Party,0,-3.73909
 [CLS] Charles Anderson is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.20936
 [CLS] Charles Anderson is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.19390
+[CLS] Charles Anderson is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.65269
+[CLS] Charles Anderson is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.74485
+[CLS] Charles Anderson is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.10381
 [CLS] Oakley:2 C . Curtis is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.68062
 [CLS] Oakley:2 C . Curtis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"K , - - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.45466
+[CLS] Oakley:2 C . Curtis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A . Party een de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.69576
+[CLS] Oakley:2 C . Curtis is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ConC:2 Partye:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.11511
+[CLS] Oakley:2 C . Curtis is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.26330
 "[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] politieke partij . [SEP]",lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.60539
-"[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP]",GreenC:2 Party - de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.25768
+"[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP]",GreenC:2 Party - de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.25769
+"[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] [MASK] politieke partij . [SEP]",NP -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.61795
+"[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] politieke partij . [SEP]",Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.83011
+"[CLS] John R . McKernan:5 , Jr . is lid van de [MASK] politieke partij . [SEP]",regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.17887
 [CLS] Preston Smith is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.90174
 [CLS] Preston Smith is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17210
+[CLS] Preston Smith is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New Party Party een,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.61359
+[CLS] Preston Smith is lid van de [MASK] [MASK] politieke partij . [SEP],des:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.97840
+[CLS] Preston Smith is lid van de [MASK] politieke partij . [SEP],andere,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.24448
 [CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.62894
-[CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],Moody,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.21358
+[CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],Moody,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.21359
+[CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.54911
+[CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.68525
+[CLS] Dan Moody is lid van de [MASK] politieke partij . [SEP],andere,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.21020
 [CLS] Joshua Baker is lid van de [MASK] politieke partij . [SEP],lokale,Unionist:2 Party,0,Unionist:2 Party,0,-0.96315
-[CLS] Joshua Baker is lid van de [MASK] [MASK] politieke partij . [SEP],Zoe:2,Unionist:2 Party,0,Unionist:2 Party,0,-3.16860
+[CLS] Joshua Baker is lid van de [MASK] [MASK] politieke partij . [SEP],Zoe:2,Unionist:2 Party,0,Unionist:2 Party,0,-3.16861
+[CLS] Joshua Baker is lid van de [MASK] [MASK] politieke partij . [SEP],Nigeriaelijke:2,Unionist:2 Party,0,Unionist:2 Party,0,-3.47326
+[CLS] Joshua Baker is lid van de [MASK] [MASK] politieke partij . [SEP],Jamaicas:2,Unionist:2 Party,0,Unionist:2 Party,0,-3.70439
+[CLS] Joshua Baker is lid van de [MASK] politieke partij . [SEP],Britse,Unionist:2 Party,0,Unionist:2 Party,0,-4.13399
 [CLS] Dale Bumpers:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.13410
-[CLS] Dale Bumpers:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"D ,s:2 - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.33358
+[CLS] Dale Bumpers:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"D ,s:2 - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.33359
+[CLS] Dale Bumpers:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"demper:2 ,s:2 de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.74310
+[CLS] Dale Bumpers:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.93835
+[CLS] Dale Bumpers:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.01361
 [CLS] David I . Walsh is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.84879
-[CLS] David I . Walsh is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.33576
+[CLS] David I . Walsh is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.33577
+[CLS] David I . Walsh is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"N , Walsh van de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.60695
+[CLS] David I . Walsh is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.86164
+[CLS] David I . Walsh is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.93042
 [CLS] Octaviano:3 Ambrosio:3 Larrazolo:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.37744
 [CLS] Octaviano:3 Ambrosio:3 Larrazolo:4 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.23359
+[CLS] Octaviano:3 Ambrosio:3 Larrazolo:4 is lid van de [MASK] politieke partij . [SEP],partij,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.35963
+[CLS] Octaviano:3 Ambrosio:3 Larrazolo:4 is lid van de [MASK] politieke partij . [SEP],PSD,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.42506
+[CLS] Octaviano:3 Ambrosio:3 Larrazolo:4 is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.60772
 [CLS] James Sevier:2 Conway is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.08505
 [CLS] James Sevier:2 Conway is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.08939
+[CLS] James Sevier:2 Conway is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.58906
+[CLS] James Sevier:2 Conway is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],De .s:2 van politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.07730
+[CLS] James Sevier:2 Conway is lid van de [MASK] politieke partij . [SEP],partij,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.19789
 [CLS] Nathaniel Pitcher:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.90544
 [CLS] Nathaniel Pitcher:2 is lid van de [MASK] politieke partij . [SEP],primaire,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.76297
+[CLS] Nathaniel Pitcher:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.05027
+[CLS] Nathaniel Pitcher:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.31294
+[CLS] Nathaniel Pitcher:2 is lid van de [MASK] politieke partij . [SEP],partij,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.07344
 [CLS] Henry Dodge is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.94877
 [CLS] Henry Dodge is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"News:2 , de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38491
+[CLS] Henry Dodge is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.72479
+[CLS] Henry Dodge is lid van de [MASK] [MASK] politieke partij . [SEP],Democrats:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.96998
+[CLS] Henry Dodge is lid van de [MASK] [MASK] politieke partij . [SEP],deanse:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.17239
 [CLS] Lucius F . C . Garvin:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.04836
 [CLS] Lucius F . C . Garvin:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"F , , - de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.19837
+[CLS] Lucius F . C . Garvin:3 is lid van de [MASK] politieke partij . [SEP],andere,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.75807
+[CLS] Lucius F . C . Garvin:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.84705
+[CLS] Lucius F . C . Garvin:3 is lid van de [MASK] politieke partij . [SEP],Romeinse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.85920
 [CLS] Ned McWherter:4 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.88820
 [CLS] Ned McWherter:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Newc:2 , - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.09568
+[CLS] Ned McWherter:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],DC:2 Party een de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.63322
+[CLS] Ned McWherter:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.90804
+[CLS] Ned McWherter:4 is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.15093
 [CLS] Francis T . Nicholls:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.47913
 [CLS] Francis T . Nicholls:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.77555
+[CLS] Francis T . Nicholls:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.25347
+[CLS] Francis T . Nicholls:3 is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.76877
+[CLS] Francis T . Nicholls:3 is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.94291
 [CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.15292
-[CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],primaire,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.31550
+[CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],primaire,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.31551
+[CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.15907
+[CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.60083
+[CLS] Nathaniel P . Tallmadge:3 is lid van de [MASK] politieke partij . [SEP],regionale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.18563
 [CLS] William H . Murray is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.86591
 [CLS] William H . Murray is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.25978
+[CLS] William H . Murray is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.39908
+[CLS] William H . Murray is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.67151
+[CLS] William H . Murray is lid van de [MASK] [MASK] politieke partij . [SEP],New Party,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.25569
 [CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.07414
-[CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.37021
+[CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.37022
+[CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.47581
+[CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],SP,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.18514
+[CLS] Silas:2 A . Holcomb:3 is lid van de [MASK] politieke partij . [SEP],de,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.20520
 [CLS] Julius Caldeen:3 Gunter:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.71866
 [CLS] Julius Caldeen:3 Gunter:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.81868
-[CLS] Thomas Clarke Rye:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.98744
+[CLS] Julius Caldeen:3 Gunter:2 is lid van de [MASK] politieke partij . [SEP],SP,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.29980
+[CLS] Julius Caldeen:3 Gunter:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.49337
+[CLS] Julius Caldeen:3 Gunter:2 is lid van de [MASK] politieke partij . [SEP],Friese,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.59268
+[CLS] Thomas Clarke Rye:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.98743
 [CLS] Thomas Clarke Rye:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.56713
+[CLS] Thomas Clarke Rye:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ClarkeC:2 Party ' de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.65954
+[CLS] Thomas Clarke Rye:2 is lid van de [MASK] politieke partij . [SEP],Labour,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.98401
+[CLS] Thomas Clarke Rye:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.10501
 [CLS] Earl L . Brewer is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.69100
-[CLS] Earl L . Brewer is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de , - - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.16733
+[CLS] Earl L . Brewer is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de , - - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.16734
+[CLS] Earl L . Brewer is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Con . Party Party de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.46881
+[CLS] Earl L . Brewer is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],De . Partye:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.99902
+[CLS] Earl L . Brewer is lid van de [MASK] [MASK] politieke partij . [SEP],Trumps:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.19391
 [CLS] John H . Sununu:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.63587
-[CLS] John H . Sununu:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.16418
-[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.97008
-[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.66898
+[CLS] John H . Sununu:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.16419
+[CLS] John H . Sununu:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Sunelijke:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.78207
+[CLS] John H . Sununu:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Taiwananse:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.09698
+[CLS] John H . Sununu:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Zambiaese:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.22289
+[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.97007
+[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.66899
+[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.38679
+[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.65556
+[CLS] Harold Stassen:2 is lid van de [MASK] politieke partij . [SEP],Belgische,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.91464
 [CLS] Garrey:3 Carruthers:3 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.86422
-[CLS] Garrey:3 Carruthers:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"G ,ers:2 - -",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.34149
+[CLS] Garrey:3 Carruthers:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"G ,ers:2 - -",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.34150
+[CLS] Garrey:3 Carruthers:3 is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.45925
+[CLS] Garrey:3 Carruthers:3 is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.66429
+[CLS] Garrey:3 Carruthers:3 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.83178
 [CLS] Bob Gibbs is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.80590
 [CLS] Bob Gibbs is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ss:2 - een,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.37183
+[CLS] Bob Gibbs is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],des:2 - - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.74922
+[CLS] Bob Gibbs is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"DeCs:3 van ,",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.16123
+[CLS] Bob Gibbs is lid van de [MASK] politieke partij . [SEP],regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.36235
 [CLS] Coe:2 I . Crawford is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.10576
 [CLS] Coe:2 I . Crawford is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"De:2 , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.22587
+[CLS] Coe:2 I . Crawford is lid van de [MASK] [MASK] politieke partij . [SEP],De:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.40690
+[CLS] Coe:2 I . Crawford is lid van de [MASK] politieke partij . [SEP],zwarte,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.98871
+[CLS] Coe:2 I . Crawford is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.21629
 [CLS] William D . Williamson is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.21553
-[CLS] William D . Williamson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],D . - - -,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.20584
+[CLS] William D . Williamson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],D . - - -,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.20585
+[CLS] William D . Williamson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , Williamson Williamson de",Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.48609
+[CLS] William D . Williamson is lid van de [MASK] politieke partij . [SEP],Verenigde,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.99720
+[CLS] William D . Williamson is lid van de [MASK] politieke partij . [SEP],de,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.08556
 [CLS] William Tudor Gardiner is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.02624
 [CLS] William Tudor Gardiner is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.37195
-[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-1.81400
-[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],Franse,Whig:2 Party,0,Whig:2 Party,0,-2.94634
+[CLS] William Tudor Gardiner is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],W Party - een -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.60263
+[CLS] William Tudor Gardiner is lid van de [MASK] politieke partij . [SEP],parlementaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.79474
+[CLS] William Tudor Gardiner is lid van de [MASK] politieke partij . [SEP],Labour,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.80380
+[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-1.81399
+[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],Franse,Whig:2 Party,0,Whig:2 Party,0,-2.94635
+[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],politieke,Whig:2 Party,0,Whig:2 Party,0,-3.19645
+[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],primaire,Whig:2 Party,0,Whig:2 Party,0,-3.32141
+[CLS] Charles Paine:2 is lid van de [MASK] politieke partij . [SEP],Britse,Whig:2 Party,0,Whig:2 Party,0,-3.51083
 [CLS] James B . Edwards is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.91882
-[CLS] James B . Edwards is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A , , - -",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.25138
+[CLS] James B . Edwards is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A , , - -",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.25139
+[CLS] James B . Edwards is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],de . Party een de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.57604
+[CLS] James B . Edwards is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],deC:2 Partye:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.09954
+[CLS] James B . Edwards is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"GreenC:2 ' Party ,",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.34087
 [CLS] John Philo:2 Hoyt:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.20561
-[CLS] John Philo:2 Hoyt:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Po:2 , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.26272
+[CLS] John Philo:2 Hoyt:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Po:2 , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.26273
+[CLS] John Philo:2 Hoyt:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],KP:2 Party Party de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.79774
+[CLS] John Philo:2 Hoyt:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Lopo:3 eene:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.15081
+[CLS] John Philo:2 Hoyt:2 is lid van de [MASK] politieke partij . [SEP],Europese,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.24224
 [CLS] John N . Irwin is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.87391
-[CLS] John N . Irwin is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New . Party - een,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.28710
+[CLS] John N . Irwin is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New . Party - een,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.28711
+[CLS] John N . Irwin is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"N ' , Party de",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.75014
+[CLS] John N . Irwin is lid van de [MASK] politieke partij . [SEP],Verenigde,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.05612
+[CLS] John N . Irwin is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.24082
 [CLS] Edward W . Hoch:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.30428
 [CLS] Edward W . Hoch:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.20809
+[CLS] Edward W . Hoch:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.24258
+[CLS] Edward W . Hoch:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A ,ch:2 een politieke",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.04266
+[CLS] Edward W . Hoch:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],PCs:3 Partye:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.22194
 [CLS] William Borah:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.65016
-[CLS] William Borah:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Bah:2 - - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.05747
+[CLS] William Borah:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Bah:2 - - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.05748
+[CLS] William Borah:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Aho:2 , een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.68101
+[CLS] William Borah:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Naai:3 de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.89038
+[CLS] William Borah:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Bss:3 ' ,",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.16904
 [CLS] George B . Shaw is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.18280
 [CLS] George B . Shaw is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.89181
+[CLS] George B . Shaw is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de Party , een de",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.44170
+[CLS] George B . Shaw is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.74358
+[CLS] George B . Shaw is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.87893
 [CLS] Henry Baldwin is lid van de [MASK] [MASK] politieke partij . [SEP],Baldwin -,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.31970
 [CLS] Henry Baldwin is lid van de [MASK] politieke partij . [SEP],Baldwin,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.29197
-[CLS] Clair Engle:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.41117
-[CLS] Clair Engle:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],dee:2 - een,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.44635
+[CLS] Henry Baldwin is lid van de [MASK] politieke partij . [SEP],politieke,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.47985
+[CLS] Henry Baldwin is lid van de [MASK] politieke partij . [SEP],Britse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.93212
+[CLS] Henry Baldwin is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.01691
+[CLS] Clair Engle:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.41116
+[CLS] Clair Engle:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],dee:2 - een,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.44636
+[CLS] Clair Engle:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Cone:2 - een de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.61325
+[CLS] Clair Engle:2 is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.01221
+[CLS] Clair Engle:2 is lid van de [MASK] politieke partij . [SEP],andere,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.11224
 [CLS] Clara G . McMillan:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.77897
-[CLS] Clara G . McMillan:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.82984
+[CLS] Clara G . McMillan:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.82985
+[CLS] Clara G . McMillan:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"NC:2 , Party de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.67557
+[CLS] Clara G . McMillan:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.94789
+[CLS] Clara G . McMillan:3 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.14627
 [CLS] Clarence MacGregor:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.81013
-[CLS] Clarence MacGregor:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ConC:2 - - de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.34088
+[CLS] Clarence MacGregor:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ConC:2 - - de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.34089
+[CLS] Clarence MacGregor:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],MGs:3 een -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.63968
+[CLS] Clarence MacGregor:4 is lid van de [MASK] politieke partij . [SEP],regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.08907
+[CLS] Clarence MacGregor:4 is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.21205
 [CLS] Clark MacGregor:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.60800
-[CLS] Clark MacGregor:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.24679
+[CLS] Clark MacGregor:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.24680
+[CLS] Clark MacGregor:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],NewGs:3 een -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.58387
+[CLS] Clark MacGregor:4 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.94070
+[CLS] Clark MacGregor:4 is lid van de [MASK] [MASK] politieke partij . [SEP],New lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.25222
 [CLS] Clayton R . Lusk:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.30226
 [CLS] Clayton R . Lusk:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.07093
+[CLS] Clayton R . Lusk:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.37294
+[CLS] Clayton R . Lusk:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Missouris:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.03927
+[CLS] Clayton R . Lusk:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],LP:2 ' eene:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.16893
 [CLS] Clifford McIntire:5 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.75740
-[CLS] Clifford McIntire:5 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ConC:2 Party - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.14142
+[CLS] Clifford McIntire:5 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],ConC:2 Party - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.14143
+[CLS] Clifford McIntire:5 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Nc:2 , Party de",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.54745
+[CLS] Clifford McIntire:5 is lid van de [MASK] politieke partij . [SEP],regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.04079
+[CLS] Clifford McIntire:5 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],DM:2 ' ' politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.26869
 [CLS] Robert Nodar:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.97066
-[CLS] Robert Nodar:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.87200
+[CLS] Robert Nodar:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.87201
+[CLS] Robert Nodar:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Noanse:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.50432
+[CLS] Robert Nodar:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Somalis:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.61686
+[CLS] Robert Nodar:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Senegali:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.76591
 [CLS] Louis Freeh:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.83433
-[CLS] Louis Freeh:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.82119
+[CLS] Louis Freeh:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.82120
+[CLS] Louis Freeh:2 is lid van de [MASK] politieke partij . [SEP],Franse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.52476
+[CLS] Louis Freeh:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Afn:2 'e:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.03141
+[CLS] Louis Freeh:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Frae:3 ,",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.25590
 [CLS] Samuel F . Hersey:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.15840
-[CLS] Samuel F . Hersey:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"P . , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.29804
+[CLS] Samuel F . Hersey:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"P . , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.29805
+[CLS] Samuel F . Hersey:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.52660
+[CLS] Samuel F . Hersey:2 is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.03757
+[CLS] Samuel F . Hersey:2 is lid van de [MASK] politieke partij . [SEP],Verenigde,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.11911
 [CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.55407
-[CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.33754
+[CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.33755
+[CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.56167
+[CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.72097
+[CLS] Conrad Baker is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.25675
 [CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.43384
-[CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17797
-[CLS] Francis Preston Blair is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Blair - Blair , een",Free Soil:2 Party,0,Free Soil:2 Party,0,-1.88264
-[CLS] Francis Preston Blair is lid van de [MASK] politieke partij . [SEP],lokale,Free Soil:2 Party,0,Free Soil:2 Party,0,-2.46743
+[CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17798
+[CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.26459
+[CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.73202
+[CLS] Robert Lee Moore is lid van de [MASK] politieke partij . [SEP],Verenigde,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.99904
+[CLS] Francis Preston Blair is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Blair - Blair , een",Free Soil:2 Party,0,Free Soil:2 Party,0,-1.88263
+[CLS] Francis Preston Blair is lid van de [MASK] politieke partij . [SEP],lokale,Free Soil:2 Party,0,Free Soil:2 Party,0,-2.46744
+[CLS] Francis Preston Blair is lid van de [MASK] politieke partij . [SEP],Labour,Free Soil:2 Party,0,Free Soil:2 Party,0,-2.70257
+[CLS] Francis Preston Blair is lid van de [MASK] politieke partij . [SEP],politieke,Free Soil:2 Party,0,Free Soil:2 Party,0,-2.96238
+[CLS] Francis Preston Blair is lid van de [MASK] politieke partij . [SEP],parlementaire,Free Soil:2 Party,0,Free Soil:2 Party,0,-3.52311
 [CLS] John Conness:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.13516
-[CLS] John Conness:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.10141
+[CLS] John Conness:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.10142
+[CLS] John Conness:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],John - Party een -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38981
+[CLS] John Conness:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.69002
+[CLS] John Conness:2 is lid van de [MASK] politieke partij . [SEP],Labour,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.96945
 [CLS] John William Davis is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.13075
-[CLS] John William Davis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"deP:2 , - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.12830
+[CLS] John William Davis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"deP:2 , - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.12831
+[CLS] John William Davis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Con , - een -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.72680
+[CLS] John William Davis is lid van de [MASK] politieke partij . [SEP],de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.90046
+[CLS] John William Davis is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],", .s:2 de politieke",Democratische:2 Partij,0,Democratische:2 Partij,0,-4.19421
 [CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.05323
-[CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],Friese,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17267
+[CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],Friese,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17268
+[CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38619
+[CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.76342
+[CLS] Lloyd Blankfein:4 is lid van de [MASK] politieke partij . [SEP],DS,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.87749
 [CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.39978
-[CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17669
+[CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17670
+[CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.17929
+[CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.87121
+[CLS] Joseph W . Chalmers:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.87277
 [CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.91155
-[CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.93978
+[CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.93979
+[CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38112
+[CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.81979
+[CLS] John Bryson:3 is lid van de [MASK] politieke partij . [SEP],Labour,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.92885
 [CLS] Robert A . Grant is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.66453
 [CLS] Robert A . Grant is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.73624
+[CLS] Robert A . Grant is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.06067
+[CLS] Robert A . Grant is lid van de [MASK] politieke partij . [SEP],Verenigde,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.71094
+[CLS] Robert A . Grant is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.89453
 [CLS] John Armstrong is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-0.99483
-[CLS] John Armstrong is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Cons:2 - een,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.31814
+[CLS] John Armstrong is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Cons:2 - een,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.31815
+[CLS] John Armstrong is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Con ofs:2 - -,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.70733
+[CLS] John Armstrong is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.03594
+[CLS] John Armstrong is lid van de [MASK] politieke partij . [SEP],primaire,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-4.04245
 [CLS] Harold L . Runnels:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.26602
-[CLS] Harold L . Runnels:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.01672
+[CLS] Harold L . Runnels:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.01673
+[CLS] Harold L . Runnels:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.21840
+[CLS] Harold L . Runnels:2 is lid van de [MASK] [MASK] politieke partij . [SEP],VSs:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.94541
+[CLS] Harold L . Runnels:2 is lid van de [MASK] politieke partij . [SEP],primaire,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.13464
 [CLS] Harry W . Musselwhite:5 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.97406
 [CLS] Harry W . Musselwhite:5 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],SP:2 Party - de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.26848
+[CLS] Harry W . Musselwhite:5 is lid van de [MASK] [MASK] politieke partij . [SEP],Greenelijke:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.62691
+[CLS] Harry W . Musselwhite:5 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.97072
+[CLS] Harry W . Musselwhite:5 is lid van de [MASK] politieke partij . [SEP],SP,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.10673
 [CLS] Stephen A . Rudd:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.20883
-[CLS] Stephen A . Rudd:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.81624
+[CLS] Stephen A . Rudd:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.81625
+[CLS] Stephen A . Rudd:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A . - Party de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.39952
+[CLS] Stephen A . Rudd:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.87848
+[CLS] Stephen A . Rudd:2 is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.98161
 [CLS] David J . O ' Connell is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.61380
-[CLS] David J . O ' Connell is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],D ' Party - een,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.16784
+[CLS] David J . O ' Connell is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],D ' Party - een,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.16785
+[CLS] David J . O ' Connell is lid van de [MASK] [MASK] politieke partij . [SEP],Laboure:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.59683
+[CLS] David J . O ' Connell is lid van de [MASK] [MASK] politieke partij . [SEP],Greens:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.94797
+[CLS] David J . O ' Connell is lid van de [MASK] [MASK] politieke partij . [SEP],Democrat Party,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.08063
 [CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.34491
-[CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.75992
+[CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.75993
+[CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.12173
+[CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],VS,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.43767
+[CLS] William F . De Saussure is lid van de [MASK] politieke partij . [SEP],de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.62759
 [CLS] Kirtland:3 I . Perky:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.86676
 [CLS] Kirtland:3 I . Perky:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Trtland:3 - de,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.31660
+[CLS] Kirtland:3 I . Perky:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.79657
+[CLS] Kirtland:3 I . Perky:2 is lid van de [MASK] politieke partij . [SEP],andere,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.95164
+[CLS] Kirtland:3 I . Perky:2 is lid van de [MASK] politieke partij . [SEP],volgende,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.16663
 [CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.86595
-[CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.94283
+[CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.94284
+[CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.21892
+[CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.26664
+[CLS] John Alexander Cocke:2 is lid van de [MASK] politieke partij . [SEP],Europese,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.29934
 [CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.25874
-[CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Lhamham:3 - -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.20050
+[CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Lhamham:3 - -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.20051
+[CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] politieke partij . [SEP],volgende,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.60135
+[CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.62097
+[CLS] Henderson Lovelace:2 Lanham:2 is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.63050
 [CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.29428
-[CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Gould , Party - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.19133
+[CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Gould , Party - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.19134
+[CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],S Party - een -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.50152
+[CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] [MASK] politieke partij . [SEP],Ze Party,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.69549
+[CLS] Samuel Wadsworth:3 Gould is lid van de [MASK] politieke partij . [SEP],liberale,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.83355
 [CLS] Henry D . Flood is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.71239
-[CLS] Henry D . Flood is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , , - de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38888
+[CLS] Henry D . Flood is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , , - de",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38889
+[CLS] Henry D . Flood is lid van de [MASK] [MASK] politieke partij . [SEP],Marylande:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.62413
+[CLS] Henry D . Flood is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.95585
+[CLS] Henry D . Flood is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A 'ing:2 ' politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.31910
 [CLS] Henry D . Moorman:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.87549
-[CLS] Henry D . Moorman:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"R . , - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38548
+[CLS] Henry D . Moorman:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"R . , - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.38549
+[CLS] Henry D . Moorman:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.66021
+[CLS] Henry D . Moorman:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Democrats:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.17253
+[CLS] Henry D . Moorman:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],DMs:3 : politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.33412
 [CLS] Henry E . Stubbs:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.09923
-[CLS] Henry E . Stubbs:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.19204
+[CLS] Henry E . Stubbs:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.19205
+[CLS] Henry E . Stubbs:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.45460
+[CLS] Henry E . Stubbs:3 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Con .s:2 een,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.03218
+[CLS] Henry E . Stubbs:3 is lid van de [MASK] politieke partij . [SEP],de,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.10108
 [CLS] Henry Marchmore:2 Shaw is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.91047
-[CLS] Henry Marchmore:2 Shaw is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.65893
+[CLS] Henry Marchmore:2 Shaw is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.65894
+[CLS] Henry Marchmore:2 Shaw is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],De Party - een -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.55083
+[CLS] Henry Marchmore:2 Shaw is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"dess:3 Party ,",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.97275
+[CLS] Henry Marchmore:2 Shaw is lid van de [MASK] [MASK] politieke partij . [SEP],deale:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.29846
 [CLS] Henry P . Haun:2 is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.18812
 [CLS] Henry P . Haun:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Ha . , - een",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.14385
+[CLS] Henry P . Haun:2 is lid van de [MASK] politieke partij . [SEP],politieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.49763
+[CLS] Henry P . Haun:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Noordanse:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.98116
+[CLS] Henry P . Haun:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Verenigdes:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.31242
 [CLS] Henry Smith is lid van de [MASK] politieke partij . [SEP],lokale,Union Labor Party,0,Union Labor Party,0,-0.89255
 [CLS] Henry Smith is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , Party een de",Union Labor Party,0,Union Labor Party,0,-3.29644
+[CLS] Henry Smith is lid van de [MASK] politieke partij . [SEP],politieke,Union Labor Party,0,Union Labor Party,0,-3.67548
+[CLS] Henry Smith is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A of - van ,",Union Labor Party,0,Union Labor Party,0,-4.13549
+[CLS] Henry Smith is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Union Labor Party,0,Union Labor Party,0,-4.33620
 [CLS] Herbert Aptheker:4 is lid van de [MASK] politieke partij . [SEP],lokale,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.03573
 [CLS] Herbert Aptheker:4 is lid van de [MASK] politieke partij . [SEP],SPD,Peace and Freedom Party,0,Peace and Freedom Party,0,-2.30881
-[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.32693
-[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.55025
+[CLS] Herbert Aptheker:4 is lid van de [MASK] politieke partij . [SEP],Duitse,Peace and Freedom Party,0,Peace and Freedom Party,0,-3.11381
+[CLS] Herbert Aptheker:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Peace and Freedom Party,0,Peace and Freedom Party,0,-3.62262
+[CLS] Herbert Aptheker:4 is lid van de [MASK] politieke partij . [SEP],SP,Peace and Freedom Party,0,Peace and Freedom Party,0,-3.73693
+[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.32692
+[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.55026
+[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.13536
+[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.78184
+[CLS] Hugh Judson:2 Kilpatrick:4 is lid van de [MASK] politieke partij . [SEP],regionale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.86034
 [CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.41965
-[CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.36390
+[CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.36391
+[CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.63395
+[CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.67887
+[CLS] Lucien B . Caswell:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.03616
 "[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.15599
-"[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.04678
+"[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.04679
+"[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.40601
+"[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.49039
+"[CLS] Hunter Holmes Moss , Jr . is lid van de [MASK] politieke partij . [SEP]",zwarte,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.04670
 [CLS] John Wesley Crockett:3 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-1.16586
 [CLS] John Wesley Crockett:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Whig:2 Party,0,Whig:2 Party,0,-3.06086
+[CLS] John Wesley Crockett:3 is lid van de [MASK] politieke partij . [SEP],politieke,Whig:2 Party,0,Whig:2 Party,0,-3.29573
+[CLS] John Wesley Crockett:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Whig:2 Party,0,Whig:2 Party,0,-3.31863
+[CLS] John Wesley Crockett:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A . Party van ,",Whig:2 Party,0,Whig:2 Party,0,-4.15968
 [CLS] Toby Roth is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.67622
-[CLS] Toby Roth is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.99309
+[CLS] Toby Roth is lid van de [MASK] politieke partij . [SEP],Britse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.99310
+[CLS] Toby Roth is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.41270
+[CLS] Toby Roth is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A 's:2 ,",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.10711
+[CLS] Toby Roth is lid van de [MASK] politieke partij . [SEP],de,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.24771
 [CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],lokale,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-1.37497
-[CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],Britse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.66690
+[CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],Britse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-2.66691
+[CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],politieke,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.19969
+[CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],Labour,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.20588
+[CLS] Martin Kinsley:3 is lid van de [MASK] politieke partij . [SEP],Engelse,Democratisch:2 - Republikeinse:3 Partij,0,Democratisch:2 - Republikeinse:3 Partij,0,-3.27542
 [CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-1.16995
-[CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],politieke,Whig:2 Party,0,Whig:2 Party,0,-3.25621
+[CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],politieke,Whig:2 Party,0,Whig:2 Party,0,-3.25622
+[CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],Britse,Whig:2 Party,0,Whig:2 Party,0,-3.70314
+[CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],andere,Whig:2 Party,0,Whig:2 Party,0,-3.94836
+[CLS] Spencer Jarnagin:3 is lid van de [MASK] politieke partij . [SEP],regionale,Whig:2 Party,0,Whig:2 Party,0,-4.22713
 [CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.87071
-[CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.08148
+[CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.08149
+[CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],Verenigde,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.29485
+[CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],zwarte,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.61935
+[CLS] Truman H . Aldrich:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.72131
 [CLS] Joe Skeen:3 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.79990
 [CLS] Joe Skeen:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Joe S , - de",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.17304
+[CLS] Joe Skeen:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de , - een -",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.55533
+[CLS] Joe Skeen:3 is lid van de [MASK] politieke partij . [SEP],andere,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.02136
+[CLS] Joe Skeen:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],G 'en:2 'e:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.20299
 [CLS] Montgomery Blair is lid van de [MASK] [MASK] politieke partij . [SEP],Blair -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.71095
 [CLS] Montgomery Blair is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.15525
+[CLS] Montgomery Blair is lid van de [MASK] politieke partij . [SEP],Blair,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.23693
+[CLS] Montgomery Blair is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.42375
+[CLS] Montgomery Blair is lid van de [MASK] politieke partij . [SEP],nationale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.68312
 [CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.17642
-[CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],Deense,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.01233
+[CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],Deense,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.01234
+[CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],Zweedse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.80053
+[CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],Duitse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.62703
+[CLS] Luther Youngdahl:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.06905
 [CLS] Mark H . Dunnell:2 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.10259
-[CLS] Mark H . Dunnell:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.21677
-"[CLS] Mark Hopkins , Jr . is lid van de [MASK] politieke partij . [SEP]",lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.26144
-"[CLS] Mark Hopkins , Jr . is lid van de [MASK] [MASK] politieke partij . [SEP]",Marylande:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.10977
-[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],Duitse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.77082
-[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],SPD,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.60288
+[CLS] Mark H . Dunnell:2 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.21678
+[CLS] Mark H . Dunnell:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.54233
+[CLS] Mark H . Dunnell:2 is lid van de [MASK] [MASK] politieke partij . [SEP],NPs:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.07230
+[CLS] Mark H . Dunnell:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Verenigde Party,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.28631
+"[CLS] Mark Hopkins , Jr . is lid van de [MASK] politieke partij . [SEP]",lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.26143
+"[CLS] Mark Hopkins , Jr . is lid van de [MASK] [MASK] politieke partij . [SEP]",Marylande:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.10978
+"[CLS] Mark Hopkins , Jr . is lid van de [MASK] [MASK] politieke partij . [SEP]",Baltimore -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.33784
+"[CLS] Mark Hopkins , Jr . is lid van de [MASK] politieke partij . [SEP]",zwarte,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.46398
+"[CLS] Mark Hopkins , Jr . is lid van de [MASK] politieke partij . [SEP]",primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.68158
+[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],Duitse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.77081
+[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],SPD,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.60289
+[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],Duits,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.07127
+[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.18491
+[CLS] Mark Neumann is lid van de [MASK] politieke partij . [SEP],Poolse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.52655
 [CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],SPD,Whig:2 Party,0,Whig:2 Party,0,-2.26360
-[CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-2.43373
+[CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],lokale,Whig:2 Party,0,Whig:2 Party,0,-2.43374
+[CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],Duitse,Whig:2 Party,0,Whig:2 Party,0,-2.51070
+[CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],DS,Whig:2 Party,0,Whig:2 Party,0,-3.55767
+[CLS] Martin Welker:3 is lid van de [MASK] politieke partij . [SEP],politieke,Whig:2 Party,0,Whig:2 Party,0,-3.58134
 [CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.04392
-[CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],Duitse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.65703
+[CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],Duitse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.65704
+[CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.15756
+[CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.72625
+[CLS] Marty Nothstein:3 is lid van de [MASK] politieke partij . [SEP],SPD,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.96867
 [CLS] Matthew G . Martínez is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.81511
-[CLS] Matthew G . Martínez is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"New . , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.29244
-[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.67181
-[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.53060
+[CLS] Matthew G . Martínez is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"New . , - een",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.29245
+[CLS] Matthew G . Martínez is lid van de [MASK] politieke partij . [SEP],primaire,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.70440
+[CLS] Matthew G . Martínez is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.71084
+[CLS] Matthew G . Martínez is lid van de [MASK] [MASK] politieke partij . [SEP],PP -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.94320
+[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.67180
+[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],Britse,Democratische:2 Partij,0,Democratische:2 Partij,0,-2.53061
+[CLS] Maurice Connolly is lid van de [MASK] [MASK] politieke partij . [SEP],Labourelijke:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.41112
+[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],katholieke,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.52789
+[CLS] Maurice Connolly is lid van de [MASK] politieke partij . [SEP],Europese,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.71483
 [CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.87605
-[CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.11556
+[CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.11557
+[CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.53914
+[CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],SP,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.67606
+[CLS] Maurice E . Crumpacker:4 is lid van de [MASK] politieke partij . [SEP],VS,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.19085
 [CLS] Mel Levine is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-1.74070
-[CLS] Mel Levine is lid van de [MASK] [MASK] politieke partij . [SEP],Levinee:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.47015
+[CLS] Mel Levine is lid van de [MASK] [MASK] politieke partij . [SEP],Levinee:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.47016
+[CLS] Mel Levine is lid van de [MASK] [MASK] politieke partij . [SEP],Israëls:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.71675
+[CLS] Mel Levine is lid van de [MASK] politieke partij . [SEP],Joodse,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.97182
+[CLS] Mel Levine is lid van de [MASK] politieke partij . [SEP],regionale,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.19654
 [CLS] Melbourne H . Ford is lid van de [MASK] politieke partij . [SEP],lokale,Democratische:2 Partij,0,Democratische:2 Partij,0,-0.89898
-[CLS] Melbourne H . Ford is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"M . , - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.02490
+[CLS] Melbourne H . Ford is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"M . , - -",Democratische:2 Partij,0,Democratische:2 Partij,0,-3.02491
+[CLS] Melbourne H . Ford is lid van de [MASK] [MASK] politieke partij . [SEP],Liberal -,Democratische:2 Partij,0,Democratische:2 Partij,0,-3.78337
+[CLS] Melbourne H . Ford is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],O ' Partye:2,Democratische:2 Partij,0,Democratische:2 Partij,0,-4.05372
+[CLS] Melbourne H . Ford is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A , Party Party ,",Democratische:2 Partij,0,Democratische:2 Partij,0,-4.22345
 [CLS] Melvin Maas is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.01052
 [CLS] Melvin Maas is lid van de [MASK] politieke partij . [SEP],Nederlandse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.41811
+[CLS] Melvin Maas is lid van de [MASK] politieke partij . [SEP],Belgische,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.05085
+[CLS] Melvin Maas is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.22060
+[CLS] Melvin Maas is lid van de [MASK] politieke partij . [SEP],Nederlands,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.27956
 [CLS] Meshack:3 Franklin is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-1.35930
 [CLS] Meshack:3 Franklin is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-2.92115
+[CLS] Meshack:3 Franklin is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.16614
+[CLS] Meshack:3 Franklin is lid van de [MASK] [MASK] politieke partij . [SEP],Pennsylvanias:2,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.91287
+[CLS] Meshack:3 Franklin is lid van de [MASK] politieke partij . [SEP],zwarte,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.23179
 [CLS] W . Sterling Cole is lid van de [MASK] politieke partij . [SEP],lokale,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-0.91656
-[CLS] W . Sterling Cole is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],SC:2 - - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.23144
-[CLS] Ida Copeland is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.10210
+[CLS] W . Sterling Cole is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],SC:2 - - -,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.23145
+[CLS] W . Sterling Cole is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"A , Party : de",Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-3.62503
+[CLS] W . Sterling Cole is lid van de [MASK] politieke partij . [SEP],politieke,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.03770
+[CLS] W . Sterling Cole is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Republikeinse:3 Partij,0,Republikeinse:3 Partij,0,-4.06386
+[CLS] Ida Copeland is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.10209
 [CLS] Ida Copeland is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ss:2 - een,Conservative Party,0,Conservative Party,0,-3.39779
+[CLS] Ida Copeland is lid van de [MASK] politieke partij . [SEP],Copeland,Conservative Party,0,Conservative Party,0,-3.66754
+[CLS] Ida Copeland is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.81543
+[CLS] Ida Copeland is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-4.16369
 [CLS] Jennette:2 Arnold is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.13064
-[CLS] Jennette:2 Arnold is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-2.72638
+[CLS] Jennette:2 Arnold is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-2.72639
+[CLS] Jennette:2 Arnold is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Rss:3 een -,Labour - partij,0,Labour - partij,0,-3.75714
+[CLS] Jennette:2 Arnold is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.92799
+[CLS] Jennette:2 Arnold is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-4.17121
 [CLS] Ion Hamilton Benn:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.36431
-[CLS] Ion Hamilton Benn:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Conn:2 , - de",Conservative Party,0,Conservative Party,0,-3.36773
+[CLS] Ion Hamilton Benn:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Conn:2 , - de",Conservative Party,0,Conservative Party,0,-3.36774
+[CLS] Ion Hamilton Benn:2 is lid van de [MASK] politieke partij . [SEP],regionale,Conservative Party,0,Conservative Party,0,-3.57580
+[CLS] Ion Hamilton Benn:2 is lid van de [MASK] politieke partij . [SEP],nationale,Conservative Party,0,Conservative Party,0,-3.58013
+[CLS] Ion Hamilton Benn:2 is lid van de [MASK] politieke partij . [SEP],PSD,Conservative Party,0,Conservative Party,0,-3.78908
 [CLS] Ivan Neill is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-1.11420
-[CLS] Ivan Neill is lid van de [MASK] [MASK] politieke partij . [SEP],Ulster -,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-2.82349
+[CLS] Ivan Neill is lid van de [MASK] [MASK] politieke partij . [SEP],Ulster -,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-2.82350
+[CLS] Ivan Neill is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.59905
+[CLS] Ivan Neill is lid van de [MASK] politieke partij . [SEP],Nationale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.76460
+[CLS] Ivan Neill is lid van de [MASK] politieke partij . [SEP],nationale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.76923
 [CLS] Stuart Hughes is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.13512
 [CLS] Stuart Hughes is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.85940
+[CLS] Stuart Hughes is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-3.07075
+[CLS] Stuart Hughes is lid van de [MASK] [MASK] politieke partij . [SEP],Welshelijke:2,Conservative Party,0,Conservative Party,0,-3.92412
+[CLS] Stuart Hughes is lid van de [MASK] [MASK] politieke partij . [SEP],Liberal Party,Conservative Party,0,Conservative Party,0,-4.16763
 [CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.89088
-[CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.38507
+[CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.38508
+[CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-3.05517
+[CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],Engelse,Conservative Party,0,Conservative Party,0,-3.21191
+[CLS] John Stuart Wheeler is lid van de [MASK] politieke partij . [SEP],Europese,Conservative Party,0,Conservative Party,0,-3.21550
 [CLS] Susan Lawrence is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.29864
 [CLS] Susan Lawrence is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-2.90990
+[CLS] Susan Lawrence is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.60138
+[CLS] Susan Lawrence is lid van de [MASK] politieke partij . [SEP],primaire,Labour - partij,0,Labour - partij,0,-3.96902
+[CLS] Susan Lawrence is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-4.03291
 [CLS] Syd Rapson:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.82061
-[CLS] Syd Rapson:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Spson:2 - een,Labour - partij,0,Labour - partij,0,-3.37470
-[CLS] T . E . Utley:2 is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-0.85612
+[CLS] Syd Rapson:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Spson:2 - een,Labour - partij,0,Labour - partij,0,-3.37471
+[CLS] Syd Rapson:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],SP:2 Party een -,Labour - partij,0,Labour - partij,0,-3.61689
+[CLS] Syd Rapson:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"dess:3 : ,",Labour - partij,0,Labour - partij,0,-4.14073
+[CLS] Syd Rapson:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"PP:2 Party ,",Labour - partij,0,Labour - partij,0,-4.23014
+[CLS] T . E . Utley:2 is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-0.85611
 [CLS] T . E . Utley:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Unitedley:2 , - een",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.30667
+[CLS] T . E . Utley:2 is lid van de [MASK] politieke partij . [SEP],regionale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.76883
+[CLS] T . E . Utley:2 is lid van de [MASK] politieke partij . [SEP],andere,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.02833
+[CLS] T . E . Utley:2 is lid van de [MASK] politieke partij . [SEP],politieke,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.15558
 [CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] politieke partij . [SEP],lokale,Welsh Labour,0,Welsh Labour,0,-0.85459
-[CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Dn:2 ' - een,Welsh Labour,0,Welsh Labour,0,-3.38882
+[CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Dn:2 ' - een,Welsh Labour,0,Welsh Labour,0,-3.38883
+[CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] politieke partij . [SEP],politieke,Welsh Labour,0,Welsh Labour,0,-3.76857
+[CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] politieke partij . [SEP],primaire,Welsh Labour,0,Welsh Labour,0,-3.90554
+[CLS] Tamsin:2 Dunwoody:4 is lid van de [MASK] politieke partij . [SEP],Britse,Welsh Labour,0,Welsh Labour,0,-4.14402
 [CLS] Terry Sutton is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Democrats,0,Liberal Democrats,0,-0.88920
 [CLS] Terry Sutton is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Democrats,0,Liberal Democrats,0,-2.77541
+[CLS] Terry Sutton is lid van de [MASK] politieke partij . [SEP],Engelse,Liberal Democrats,0,Liberal Democrats,0,-3.53214
+[CLS] Terry Sutton is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Democrats,0,Liberal Democrats,0,-3.69819
+[CLS] Terry Sutton is lid van de [MASK] politieke partij . [SEP],Labour,Liberal Democrats,0,Liberal Democrats,0,-3.76512
 [CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.27040
-[CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.37794
+[CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.37795
+[CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-3.48120
+[CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],SP,Conservative Party,0,Conservative Party,0,-3.73790
+[CLS] Thelma:2 Cazalet:3 - Keir:2 is lid van de [MASK] politieke partij . [SEP],Franse,Conservative Party,0,Conservative Party,0,-3.75919
 [CLS] Loel:2 Guinness is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.16871
-[CLS] Loel:2 Guinness is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.10204
-[CLS] Thomas Broad is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-0.99442
-[CLS] Thomas Broad is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-2.71288
+[CLS] Loel:2 Guinness is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.10205
+[CLS] Loel:2 Guinness is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Scsk:3 - -,Conservative Party,0,Conservative Party,0,-3.79801
+[CLS] Loel:2 Guinness is lid van de [MASK] politieke partij . [SEP],Belgische,Conservative Party,0,Conservative Party,0,-4.16302
+[CLS] Loel:2 Guinness is lid van de [MASK] politieke partij . [SEP],Nederlands,Conservative Party,0,Conservative Party,0,-4.17836
+[CLS] Thomas Broad is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-0.99441
+[CLS] Thomas Broad is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-2.71289
+[CLS] Thomas Broad is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],National ' ' een,Liberal Party,0,Liberal Party,0,-3.49734
+[CLS] Thomas Broad is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Be Party Party ,",Liberal Party,0,Liberal Party,0,-3.84075
+[CLS] Thomas Broad is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-4.03542
 [CLS] Thomas Browne Wallace is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-0.60727
 [CLS] Thomas Browne Wallace is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"W , Party - de",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.26532
+[CLS] Thomas Browne Wallace is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ss:2 - een -,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.61662
+[CLS] Thomas Browne Wallace is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de ofs:2 van ,",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.93679
+[CLS] Thomas Browne Wallace is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A ' Wallace en politieke,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.08547
 [CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-1.10716
-[CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.32873
+[CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.32874
+[CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.66877
+[CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.77073
+[CLS] Thomas Charles Pleydell:3 Calley:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Liberal Unionist:2 Party,0,Liberal Unionist:2 Party,0,-3.87183
 "[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-0.96638
 "[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.13568
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.23027
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 is lid van de [MASK] [MASK] politieke partij . [SEP]",Conservatives:2,Conservative Party,0,Conservative Party,0,-3.81704
+"[CLS] Thomas Dugdale:3 , 1st Baron Crathorne:3 is lid van de [MASK] [MASK] politieke partij . [SEP]",So Labour,Conservative Party,0,Conservative Party,0,-4.01557
 [CLS] Thomas E . Sotheron:3 - Estcourt:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.89135
 [CLS] Thomas E . Sotheron:3 - Estcourt:2 is lid van de [MASK] politieke partij . [SEP],Europese,Conservative Party,0,Conservative Party,0,-3.25163
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.37142
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 is lid van de [MASK] politieke partij . [SEP],primaire,Conservative Party,0,Conservative Party,0,-3.75960
+[CLS] Thomas E . Sotheron:3 - Estcourt:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Conservative Party,0,Conservative Party,0,-3.76209
 [CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-1.51910
-[CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-2.84218
+[CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-2.84219
+[CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Liberal Party,0,Liberal Party,0,-3.10842
+[CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],partij,Liberal Party,0,Liberal Party,0,-3.96985
+[CLS] Thomas Gardner Horridge:3 is lid van de [MASK] politieke partij . [SEP],SP,Liberal Party,0,Liberal Party,0,-4.03341
 [CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-1.16987
-[CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-2.42224
+[CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-2.42225
+[CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-3.34610
+[CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],parlementaire,Liberal Party,0,Liberal Party,0,-3.48178
+[CLS] Thomas Henry Parry is lid van de [MASK] politieke partij . [SEP],Labour,Liberal Party,0,Liberal Party,0,-3.85699
 [CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-0.96204
-[CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] [MASK] politieke partij . [SEP],Labourelijke:2,Liberal Party,0,Liberal Party,0,-3.26212
+[CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] [MASK] politieke partij . [SEP],Labourelijke:2,Liberal Party,0,Liberal Party,0,-3.26213
+[CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-3.50238
+[CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] politieke partij . [SEP],katholieke,Liberal Party,0,Liberal Party,0,-3.94305
+[CLS] Thomas Kincaid:3 - Smith is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Liberal Party,0,Liberal Party,0,-3.98044
 [CLS] Thomas Maule:2 Guthrie is lid van de [MASK] politieke partij . [SEP],lokale,National Liberal Party,0,National Liberal Party,0,-1.35099
-[CLS] Thomas Maule:2 Guthrie is lid van de [MASK] politieke partij . [SEP],primaire,National Liberal Party,0,National Liberal Party,0,-3.27023
+[CLS] Thomas Maule:2 Guthrie is lid van de [MASK] politieke partij . [SEP],primaire,National Liberal Party,0,National Liberal Party,0,-3.27024
+[CLS] Thomas Maule:2 Guthrie is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"W , , Party -",National Liberal Party,0,National Liberal Party,0,-3.58572
+[CLS] Thomas Maule:2 Guthrie is lid van de [MASK] politieke partij . [SEP],SP,National Liberal Party,0,National Liberal Party,0,-3.92233
+[CLS] Thomas Maule:2 Guthrie is lid van de [MASK] politieke partij . [SEP],de,National Liberal Party,0,National Liberal Party,0,-4.09011
 [CLS] Tom Bradley is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.67063
-[CLS] Tom Bradley is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Bradleys:2 - een,Labour - partij,0,Labour - partij,0,-3.33313
-[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.53059
-[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-2.81546
+[CLS] Tom Bradley is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Bradleys:2 - een,Labour - partij,0,Labour - partij,0,-3.33314
+[CLS] Tom Bradley is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Des:2 - - -,Labour - partij,0,Labour - partij,0,-3.74014
+[CLS] Tom Bradley is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"R of Party van ,",Labour - partij,0,Labour - partij,0,-4.15877
+[CLS] Tom Bradley is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],DeA:2 Partye:2,Labour - partij,0,Labour - partij,0,-4.41565
+[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.53058
+[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-2.81547
+[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],Europese,Labour - partij,0,Labour - partij,0,-3.64282
+[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.77216
+[CLS] Tom Litterick:3 is lid van de [MASK] politieke partij . [SEP],DS,Labour - partij,0,Labour - partij,0,-3.83086
 [CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Democratic Party,0,Ulster Democratic Party,0,-1.25230
-[CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Democratic Party,0,Ulster Democratic Party,0,-3.03004
+[CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Democratic Party,0,Ulster Democratic Party,0,-3.03005
+[CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],Engelse,Ulster Democratic Party,0,Ulster Democratic Party,0,-3.06845
+[CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],politieke,Ulster Democratic Party,0,Ulster Democratic Party,0,-3.66837
+[CLS] Tommy English is lid van de [MASK] politieke partij . [SEP],Labour,Ulster Democratic Party,0,Ulster Democratic Party,0,-4.21596
 [CLS] Tommy Graham is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.96923
 [CLS] Tommy Graham is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.45363
+[CLS] Tommy Graham is lid van de [MASK] [MASK] politieke partij . [SEP],Ulstere:2,Labour - partij,0,Labour - partij,0,-3.65237
+[CLS] Tommy Graham is lid van de [MASK] [MASK] politieke partij . [SEP],des:2,Labour - partij,0,Labour - partij,0,-4.04844
+[CLS] Tommy Graham is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-4.19772
 "[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-1.03342
-"[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.57650
-[CLS] William Whiteley:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.65798
+"[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.57651
+"[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.61117
+"[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",politieke,Conservative Party,0,Conservative Party,0,-2.84172
+"[CLS] William Ward , 3rd Earl of Dudley is lid van de [MASK] politieke partij . [SEP]",parlementaire,Conservative Party,0,Conservative Party,0,-3.39337
+[CLS] William Whiteley:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.65797
 [CLS] William Whiteley:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de - , de",Labour - partij,0,Labour - partij,0,-3.10838
+[CLS] William Whiteley:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"W , - een -",Labour - partij,0,Labour - partij,0,-3.61235
+[CLS] William Whiteley:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.70013
+[CLS] William Whiteley:2 is lid van de [MASK] [MASK] politieke partij . [SEP],Greens:2,Labour - partij,0,Labour - partij,0,-4.00814
 [CLS] William Whitlock:3 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.61900
-[CLS] William Whitlock:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Phit:2 - - een,Labour - partij,0,Labour - partij,0,-3.06096
+[CLS] William Whitlock:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Phit:2 - - een,Labour - partij,0,Labour - partij,0,-3.06097
+[CLS] William Whitlock:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"G , , Party -",Labour - partij,0,Labour - partij,0,-3.56930
+[CLS] William Whitlock:3 is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-3.71837
+[CLS] William Whitlock:3 is lid van de [MASK] [MASK] politieke partij . [SEP],de Party,Labour - partij,0,Labour - partij,0,-4.05152
 "[CLS] Hilton Young , 1st Baron Kennet:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-1.37421
 "[CLS] Hilton Young , 1st Baron Kennet:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-1.56791
+"[CLS] Hilton Young , 1st Baron Kennet:2 is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-3.05772
+"[CLS] Hilton Young , 1st Baron Kennet:2 is lid van de [MASK] politieke partij . [SEP]",Engelse,Conservative Party,0,Conservative Party,0,-3.83336
+"[CLS] Hilton Young , 1st Baron Kennet:2 is lid van de [MASK] politieke partij . [SEP]",andere,Conservative Party,0,Conservative Party,0,-3.89369
 "[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-0.93769
-"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.23287
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.23288
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",politieke,Conservative Party,0,Conservative Party,0,-2.49646
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-3.17905
+"[CLS] Robert Gascoyne:3 - Cecil , 6th Marquess:2 of Salisbury is lid van de [MASK] politieke partij . [SEP]",parlementaire,Conservative Party,0,Conservative Party,0,-3.25403
 [CLS] Paul Hamlyn:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.44891
 [CLS] Paul Hamlyn:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.53754
+[CLS] Paul Hamlyn:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.26070
+[CLS] Paul Hamlyn:2 is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-3.43894
+[CLS] Paul Hamlyn:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-3.85177
 [CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.00002
-[CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.46996
+[CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.46997
+[CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.33370
+[CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-3.54477
+[CLS] John Cockcroft:3 is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-3.68757
 [CLS] Victor Goodhew:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.00691
-[CLS] Victor Goodhew:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.27679
+[CLS] Victor Goodhew:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.27680
+[CLS] Victor Goodhew:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"W , , een de",Conservative Party,0,Conservative Party,0,-3.73783
+[CLS] Victor Goodhew:3 is lid van de [MASK] politieke partij . [SEP],primaire,Conservative Party,0,Conservative Party,0,-3.97186
+[CLS] Victor Goodhew:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-4.10472
 [CLS] John Haslam:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.99331
 [CLS] John Haslam:2 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.02008
+[CLS] John Haslam:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"G ,lam:2 een de",Conservative Party,0,Conservative Party,0,-3.72000
+[CLS] John Haslam:2 is lid van de [MASK] politieke partij . [SEP],Engelse,Conservative Party,0,Conservative Party,0,-4.11646
+[CLS] John Haslam:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-4.28409
 [CLS] Henry Newton Knights is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.57996
 [CLS] Henry Newton Knights is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"New , , - de",Conservative Party,0,Conservative Party,0,-3.19137
-[CLS] Michael Mates:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.70702
-[CLS] Michael Mates:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New - - een,Conservative Party,0,Conservative Party,0,-3.38002
+[CLS] Henry Newton Knights is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],K ofs:2 een -,Conservative Party,0,Conservative Party,0,-3.65287
+[CLS] Henry Newton Knights is lid van de [MASK] politieke partij . [SEP],Engelse,Conservative Party,0,Conservative Party,0,-3.85585
+[CLS] Henry Newton Knights is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.91419
+[CLS] Michael Mates:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.70701
+[CLS] Michael Mates:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New - - een,Conservative Party,0,Conservative Party,0,-3.38003
+[CLS] Michael Mates:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.48250
+[CLS] Michael Mates:2 is lid van de [MASK] politieke partij . [SEP],Poolse,Conservative Party,0,Conservative Party,0,-3.51496
+[CLS] Michael Mates:2 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.79142
 [CLS] Joseph Nall:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.85723
-[CLS] Joseph Nall:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Nll:2 , de",Conservative Party,0,Conservative Party,0,-3.36566
+[CLS] Joseph Nall:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Nll:2 , de",Conservative Party,0,Conservative Party,0,-3.36567
+[CLS] Joseph Nall:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Newlls:3 een de,Conservative Party,0,Conservative Party,0,-3.77830
+[CLS] Joseph Nall:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.84217
+[CLS] Joseph Nall:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-3.91822
 [CLS] John Macnamara:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.77327
-[CLS] John Macnamara:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],MM:2 - - -,Conservative Party,0,Conservative Party,0,-3.28833
+[CLS] John Macnamara:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],MM:2 - - -,Conservative Party,0,Conservative Party,0,-3.28834
+[CLS] John Macnamara:3 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Naara:4 de,Conservative Party,0,Conservative Party,0,-3.89370
+[CLS] John Macnamara:3 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Musa:3 de,Conservative Party,0,Conservative Party,0,-4.07708
+[CLS] John Macnamara:3 is lid van de [MASK] [MASK] politieke partij . [SEP],Macs:2,Conservative Party,0,Conservative Party,0,-4.20195
 "[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-1.74478
-"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-1.74509
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-1.74510
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.45308
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",Europese,Conservative Party,0,Conservative Party,0,-3.53008
+"[CLS] Ian Orr:2 - Ewing , Baron Orr:2 - Ewing is lid van de [MASK] politieke partij . [SEP]",Ulster,Conservative Party,0,Conservative Party,0,-3.84543
 [CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],West Bromwich:3 -,Conservative Party,0,Conservative Party,0,-1.25806
-[CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-1.56193
+[CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-1.56194
+[CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] politieke partij . [SEP],parlementaire,Conservative Party,0,Conservative Party,0,-2.76200
+[CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.10917
+[CLS] Alexander Ramsay ( West Bromwich:3 MP ) is lid van de [MASK] politieke partij . [SEP],SNP,Conservative Party,0,Conservative Party,0,-3.15392
 "[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-0.68888
-"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.70517
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.70518
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.92394
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",politieke,Conservative Party,0,Conservative Party,0,-3.73900
+"[CLS] Ernest Pollock:2 , 1st Viscount Hanworth:2 is lid van de [MASK] politieke partij . [SEP]",andere,Conservative Party,0,Conservative Party,0,-3.92398
 [CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.05015
-[CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.96796
+[CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.96797
+[CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ass:3 een -,Conservative Party,0,Conservative Party,0,-3.82570
+[CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] politieke partij . [SEP],Engelse,Conservative Party,0,Conservative Party,0,-4.12959
+[CLS] Ivor:2 Stanbrook:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-4.14619
 [CLS] Marshall Stevens is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.52123
 [CLS] Marshall Stevens is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.05333
+[CLS] Marshall Stevens is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Conservative Party,0,Conservative Party,0,-3.25338
+[CLS] Marshall Stevens is lid van de [MASK] politieke partij . [SEP],primaire,Conservative Party,0,Conservative Party,0,-3.71126
+[CLS] Marshall Stevens is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.78485
 [CLS] Henry Studholme:4 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.63530
-[CLS] Henry Studholme:4 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.26418
-"[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-0.57221
+[CLS] Henry Studholme:4 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.26419
+[CLS] Henry Studholme:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Rs:2 Party een -,Conservative Party,0,Conservative Party,0,-3.68527
+[CLS] Henry Studholme:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"G ofse:3 ,",Conservative Party,0,Conservative Party,0,-4.09999
+[CLS] Henry Studholme:4 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-4.15973
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-0.57220
 "[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.60960
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-2.94289
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] [MASK] politieke partij . [SEP]",Green Labour,Conservative Party,0,Conservative Party,0,-3.89995
+"[CLS] John Vaughan - Morgan , Baron Reigate:2 is lid van de [MASK] [MASK] politieke partij . [SEP]",Conservatives:2,Conservative Party,0,Conservative Party,0,-3.99278
 [CLS] John Lee is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.53350
 [CLS] John Lee is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Con ' - een,Labour - partij,0,Labour - partij,0,-3.38089
-[CLS] John Hanna Robb is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-0.81173
-[CLS] John Hanna Robb is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"T , Party - de",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.45795
-[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-1.11880
-[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.38615
+[CLS] John Lee is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.71383
+[CLS] John Lee is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-3.93037
+[CLS] John Lee is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-3.98275
+[CLS] John Hanna Robb is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-0.81172
+[CLS] John Hanna Robb is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"T , Party - de",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.45796
+[CLS] John Hanna Robb is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],AP:2 - een -,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.76142
+[CLS] John Hanna Robb is lid van de [MASK] politieke partij . [SEP],Nederlandse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.86866
+[CLS] John Hanna Robb is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.08581
+[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-1.11879
+[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.38616
+[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],regionale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.64996
+[CLS] Josias:2 Cunningham is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Con , Party : ,",Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.21771
+[CLS] Josias:2 Cunningham is lid van de [MASK] politieke partij . [SEP],andere,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-4.36459
 "[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",Britse,Labour - partij,0,Labour - partij,0,-1.27107
-"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-2.68942
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-2.68943
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",Engelse,Labour - partij,0,Labour - partij,0,-2.99072
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",Engels,Labour - partij,0,Labour - partij,0,-3.22107
+"[CLS] Alicia Kennedy , Baroness:2 Kennedy of Cradley:3 is lid van de [MASK] politieke partij . [SEP]",Europese,Labour - partij,0,Labour - partij,0,-3.59568
 "[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Conservative Party,0,Conservative Party,0,-1.63644
 "[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Conservative Party,0,Conservative Party,0,-1.84531
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 is lid van de [MASK] politieke partij . [SEP]",Labour,Conservative Party,0,Conservative Party,0,-2.80733
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 is lid van de [MASK] politieke partij . [SEP]",parlementaire,Conservative Party,0,Conservative Party,0,-3.34422
+"[CLS] Martin Noel - Buxton:2 , 3rd Baron Noel - Buxton:2 is lid van de [MASK] politieke partij . [SEP]",Europese,Conservative Party,0,Conservative Party,0,-3.66396
 [CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.04930
-[CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.32985
+[CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.32986
+[CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],SP,Conservative Party,0,Conservative Party,0,-3.61802
+[CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.75872
+[CLS] Lena Moncrieff:3 Westropp:3 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Conservative Party,0,Conservative Party,0,-4.04381
 "[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-1.28651
-"[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Labour - partij,0,Labour - partij,0,-2.01799
+"[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",Britse,Labour - partij,0,Labour - partij,0,-2.01800
+"[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",Labour,Labour - partij,0,Labour - partij,0,-3.51785
+"[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",andere,Labour - partij,0,Labour - partij,0,-3.83400
+"[CLS] John Mackie:2 , Baron John - Mackie:2 is lid van de [MASK] politieke partij . [SEP]",katholieke,Labour - partij,0,Labour - partij,0,-3.95097
 [CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-1.23780
-[CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-3.13146
+[CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-3.13147
+[CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-3.37746
+[CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Liberal Party,0,Liberal Party,0,-3.80040
+[CLS] Herbert Willison:2 is lid van de [MASK] politieke partij . [SEP],de,Liberal Party,0,Liberal Party,0,-4.05294
 [CLS] Roy Wilson ( British politician ) is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-1.60105
-[CLS] Roy Wilson ( British politician ) is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-1.89656
+[CLS] Roy Wilson ( British politician ) is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-1.89657
+[CLS] Roy Wilson ( British politician ) is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-3.24850
+[CLS] Roy Wilson ( British politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Party Party - een de,Conservative Party,0,Conservative Party,0,-3.58307
+[CLS] Roy Wilson ( British politician ) is lid van de [MASK] politieke partij . [SEP],parlementaire,Conservative Party,0,Conservative Party,0,-3.79917
 [CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],lokale,Liberal Party,0,Liberal Party,0,-1.69040
-[CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-3.28542
+[CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],politieke,Liberal Party,0,Liberal Party,0,-3.28543
+[CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Liberal Party,0,Liberal Party,0,-3.42107
+[CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],Britse,Liberal Party,0,Liberal Party,0,-3.43401
+[CLS] Francis Norie:2 - Miller is lid van de [MASK] politieke partij . [SEP],Europese,Liberal Party,0,Liberal Party,0,-3.56444
 [CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.26583
-[CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.11469
+[CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.11470
+[CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.53432
+[CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.59440
+[CLS] Reginald Purbrick:4 is lid van de [MASK] politieke partij . [SEP],regionale,Conservative Party,0,Conservative Party,0,-3.78705
 [CLS] William Ward Warner is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.44337
 [CLS] William Ward Warner is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],New Party - een,Conservative Party,0,Conservative Party,0,-3.08217
+[CLS] William Ward Warner is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.30283
+[CLS] William Ward Warner is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.49549
+[CLS] William Ward Warner is lid van de [MASK] politieke partij . [SEP],Verenigde,Conservative Party,0,Conservative Party,0,-3.83415
 [CLS] Charles Price ( Welsh politician ) is lid van de [MASK] politieke partij . [SEP],Welsh,Conservative Party,0,Conservative Party,0,-0.47143
-[CLS] Charles Price ( Welsh politician ) is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],S Welsh Welsh -,Conservative Party,0,Conservative Party,0,-2.89982
+[CLS] Charles Price ( Welsh politician ) is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],S Welsh Welsh -,Conservative Party,0,Conservative Party,0,-2.89983
+[CLS] Charles Price ( Welsh politician ) is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-3.32904
+[CLS] Charles Price ( Welsh politician ) is lid van de [MASK] [MASK] [MASK] politieke partij . [SEP],Gss:3,Conservative Party,0,Conservative Party,0,-3.60553
+[CLS] Charles Price ( Welsh politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ls:2 Welsh of politieke,Conservative Party,0,Conservative Party,0,-3.98481
 [CLS] Wilfrid:3 Wills:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.38900
-[CLS] Wilfrid:3 Wills:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Ws:2 , - -",Conservative Party,0,Conservative Party,0,-3.10318
-[CLS] Fred Marshall ( British politician ) is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-1.24605
+[CLS] Wilfrid:3 Wills:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Ws:2 , - -",Conservative Party,0,Conservative Party,0,-3.10319
+[CLS] Wilfrid:3 Wills:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.35704
+[CLS] Wilfrid:3 Wills:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.43668
+[CLS] Wilfrid:3 Wills:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-3.98531
+[CLS] Fred Marshall ( British politician ) is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-1.24604
 [CLS] Fred Marshall ( British politician ) is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-2.34159
+[CLS] Fred Marshall ( British politician ) is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-2.84679
+[CLS] Fred Marshall ( British politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],W Marshall - ( de,Labour - partij,0,Labour - partij,0,-3.57701
+[CLS] Fred Marshall ( British politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],G of ( en politieke,Labour - partij,0,Labour - partij,0,-3.83289
 [CLS] Harry Hynd:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.35549
-[CLS] Harry Hynd:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Knd:2 - de,Labour - partij,0,Labour - partij,0,-3.25104
+[CLS] Harry Hynd:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Knd:2 - de,Labour - partij,0,Labour - partij,0,-3.25105
+[CLS] Harry Hynd:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.55906
+[CLS] Harry Hynd:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-3.76052
+[CLS] Harry Hynd:2 is lid van de [MASK] politieke partij . [SEP],andere,Labour - partij,0,Labour - partij,0,-3.85965
 [CLS] Adam Hunter ( politician ) is lid van de [MASK] [MASK] [MASK] politieke partij . [SEP],Hunter Hunter -,Labour - partij,0,Labour - partij,0,-1.44794
-[CLS] Adam Hunter ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S Hunter - , -",Labour - partij,0,Labour - partij,0,-3.03558
+[CLS] Adam Hunter ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S Hunter - , -",Labour - partij,0,Labour - partij,0,-3.03559
+[CLS] Adam Hunter ( politician ) is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.28605
+[CLS] Adam Hunter ( politician ) is lid van de [MASK] politieke partij . [SEP],volgende,Labour - partij,0,Labour - partij,0,-3.76059
+[CLS] Adam Hunter ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"de ,er:2 . ,",Labour - partij,0,Labour - partij,0,-4.02492
 [CLS] Margaret McKay is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.70340
-[CLS] Margaret McKay is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.74974
+[CLS] Margaret McKay is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.74975
+[CLS] Margaret McKay is lid van de [MASK] [MASK] politieke partij . [SEP],Ulstere:2,Labour - partij,0,Labour - partij,0,-3.34090
+[CLS] Margaret McKay is lid van de [MASK] politieke partij . [SEP],parlementaire,Labour - partij,0,Labour - partij,0,-3.63515
+[CLS] Margaret McKay is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.64594
 [CLS] James Melville ( politician ) is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.76877
-[CLS] James Melville ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , Party - een",Labour - partij,0,Labour - partij,0,-3.17687
-[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.33171
-[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.04565
+[CLS] James Melville ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S , Party - een",Labour - partij,0,Labour - partij,0,-3.17688
+[CLS] James Melville ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Mo . , Party (",Labour - partij,0,Labour - partij,0,-3.63804
+[CLS] James Melville ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],M of Melville ' de,Labour - partij,0,Labour - partij,0,-3.88295
+[CLS] James Melville ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Nss:3 . ,",Labour - partij,0,Labour - partij,0,-3.97477
+[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.33170
+[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.04566
+[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.65319
+[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],Ulster,Conservative Party,0,Conservative Party,0,-3.69260
+[CLS] Douglas Coghill:3 is lid van de [MASK] politieke partij . [SEP],Labour,Conservative Party,0,Conservative Party,0,-3.93893
 [CLS] Leonard Banning:2 is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.39963
-[CLS] Leonard Banning:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.19348
+[CLS] Leonard Banning:2 is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.19349
+[CLS] Leonard Banning:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Rs:2 - een -,Conservative Party,0,Conservative Party,0,-3.82568
+[CLS] Leonard Banning:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.93273
+[CLS] Leonard Banning:2 is lid van de [MASK] politieke partij . [SEP],DS,Conservative Party,0,Conservative Party,0,-3.96557
 [CLS] David Abrahams:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.13649
-[CLS] David Abrahams:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.09110
+[CLS] David Abrahams:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.09111
+[CLS] David Abrahams:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"D , - een -",Labour - partij,0,Labour - partij,0,-3.71751
+[CLS] David Abrahams:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-3.82066
+[CLS] David Abrahams:2 is lid van de [MASK] politieke partij . [SEP],DS,Labour - partij,0,Labour - partij,0,-4.08211
 "[CLS] Roy Hughes , Baron Islwyn:3 is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-0.47158
 "[CLS] Roy Hughes , Baron Islwyn:3 is lid van de [MASK] politieke partij . [SEP]",Labour,Labour - partij,0,Labour - partij,0,-2.81265
+"[CLS] Roy Hughes , Baron Islwyn:3 is lid van de [MASK] politieke partij . [SEP]",Britse,Labour - partij,0,Labour - partij,0,-3.44021
+"[CLS] Roy Hughes , Baron Islwyn:3 is lid van de [MASK] [MASK] politieke partij . [SEP]",Conservatives:2,Labour - partij,0,Labour - partij,0,-3.67023
+"[CLS] Roy Hughes , Baron Islwyn:3 is lid van de [MASK] [MASK] politieke partij . [SEP]",Unionis -,Labour - partij,0,Labour - partij,0,-3.75624
 [CLS] William Dickson is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.67363
 [CLS] William Dickson is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-3.36620
+[CLS] William Dickson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],K of Party - -,Conservative Party,0,Conservative Party,0,-3.75595
+[CLS] William Dickson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Ss:2 - van ,",Conservative Party,0,Conservative Party,0,-4.08170
+[CLS] William Dickson is lid van de [MASK] [MASK] politieke partij . [SEP],Yukon lokale,Conservative Party,0,Conservative Party,0,-4.33891
 [CLS] Alex Story is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.92014
 [CLS] Alex Story is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],As:2 - een,Conservative Party,0,Conservative Party,0,-3.53553
+[CLS] Alex Story is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A of - een -,Conservative Party,0,Conservative Party,0,-3.85780
+[CLS] Alex Story is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-4.12334
+[CLS] Alex Story is lid van de [MASK] politieke partij . [SEP],de,Conservative Party,0,Conservative Party,0,-4.13435
 [CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],lokale,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-1.50152
-[CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],Britse,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.91907
+[CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],Britse,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.91908
+[CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],Labour,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.23410
+[CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],katholieke,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.54798
+[CLS] Paul Maguire is lid van de [MASK] politieke partij . [SEP],Ulster,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.72810
 [CLS] Samuel Clowes:3 ( Labour politician ) is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-0.24496
 [CLS] Samuel Clowes:3 ( Labour politician ) is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Ws:2 Labour -,Labour - partij,0,Labour - partij,0,-2.85454
+[CLS] Samuel Clowes:3 ( Labour politician ) is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Cl - -e:2,Labour - partij,0,Labour - partij,0,-3.26614
+[CLS] Samuel Clowes:3 ( Labour politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"( , Labourse:3",Labour - partij,0,Labour - partij,0,-3.61480
+[CLS] Samuel Clowes:3 ( Labour politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],K ( - -s:2,Labour - partij,0,Labour - partij,0,-3.86113
 [CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.78967
-[CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.77225
+[CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.77226
+[CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],primaire,Labour - partij,0,Labour - partij,0,-3.48898
+[CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.58767
+[CLS] Lucy Anderson is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.61680
 [CLS] Noel Williams is lid van de [MASK] politieke partij . [SEP],lokale,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-0.89860
-[CLS] Noel Williams is lid van de [MASK] politieke partij . [SEP],Britse,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.75548
+[CLS] Noel Williams is lid van de [MASK] politieke partij . [SEP],Britse,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-2.75549
+[CLS] Noel Williams is lid van de [MASK] [MASK] politieke partij . [SEP],Williamss:2,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.00675
+[CLS] Noel Williams is lid van de [MASK] [MASK] politieke partij . [SEP],Westelijke:2,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.79389
+[CLS] Noel Williams is lid van de [MASK] [MASK] politieke partij . [SEP],Jamaicaale:2,Alliance Party of Northern Ireland,0,Alliance Party of Northern Ireland,0,-3.95211
 [CLS] Karin Smyth:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour - partij,0,Labour - partij,0,-2.15129
 [CLS] Karin Smyth:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-2.22926
+[CLS] Karin Smyth:2 is lid van de [MASK] politieke partij . [SEP],Friese,Labour - partij,0,Labour - partij,0,-3.07323
+[CLS] Karin Smyth:2 is lid van de [MASK] politieke partij . [SEP],Belgische,Labour - partij,0,Labour - partij,0,-3.64714
+[CLS] Karin Smyth:2 is lid van de [MASK] politieke partij . [SEP],Europese,Labour - partij,0,Labour - partij,0,-3.71329
 "[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] politieke partij . [SEP]",Britse,Labour - partij,0,Labour - partij,0,-1.62083
-"[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-2.10460
-[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.44574
-[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.55866
-[CLS] Andrew Alexander is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.14874
+"[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] politieke partij . [SEP]",lokale,Labour - partij,0,Labour - partij,0,-2.10461
+"[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP]",Scs:2 - en de,Labour - partij,0,Labour - partij,0,-3.52301
+"[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] [MASK] politieke partij . [SEP]",Australians:2,Labour - partij,0,Labour - partij,0,-3.65128
+"[CLS] Sydney Arnold , 1st Baron Arnold is lid van de [MASK] politieke partij . [SEP]",andere,Labour - partij,0,Labour - partij,0,-3.89402
+[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.44573
+[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.55867
+[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.47637
+[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],Europese,Labour - partij,0,Labour - partij,0,-3.80072
+[CLS] John Bird is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-3.90879
+[CLS] Andrew Alexander is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.14873
 [CLS] Andrew Alexander is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.76023
+[CLS] Andrew Alexander is lid van de [MASK] politieke partij . [SEP],nationale,Conservative Party,0,Conservative Party,0,-3.39089
+[CLS] Andrew Alexander is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.76987
+[CLS] Andrew Alexander is lid van de [MASK] [MASK] politieke partij . [SEP],de lokale,Conservative Party,0,Conservative Party,0,-4.40231
 [CLS] Kirsty:3 Blackman:2 is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-0.86739
 [CLS] Kirsty:3 Blackman:2 is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"S - , de",Scottish National Party,0,Scottish National Party,0,-3.34587
+[CLS] Kirsty:3 Blackman:2 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],demanman:3 een de,Scottish National Party,0,Scottish National Party,0,-3.68133
+[CLS] Kirsty:3 Blackman:2 is lid van de [MASK] politieke partij . [SEP],andere,Scottish National Party,0,Scottish National Party,0,-4.07225
+[CLS] Kirsty:3 Blackman:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Scottish National Party,0,Scottish National Party,0,-4.09952
 [CLS] Chris Law ( politician ) is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-0.81129
-[CLS] Chris Law ( politician ) is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-3.09175
+[CLS] Chris Law ( politician ) is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-3.09176
+[CLS] Chris Law ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Law . - Law (,Scottish National Party,0,Scottish National Party,0,-3.53246
+[CLS] Chris Law ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"The , Party ' de",Scottish National Party,0,Scottish National Party,0,-3.79002
+[CLS] Chris Law ( politician ) is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"dess:3 Party ,",Scottish National Party,0,Scottish National Party,0,-3.99255
 [CLS] Tommy Sheppard is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-0.89807
-[CLS] Tommy Sheppard is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"des:2 , een",Scottish National Party,0,Scottish National Party,0,-3.14021
+[CLS] Tommy Sheppard is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"des:2 , een",Scottish National Party,0,Scottish National Party,0,-3.14022
+[CLS] Tommy Sheppard is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],S ofs:2 een -,Scottish National Party,0,Scottish National Party,0,-3.54106
+[CLS] Tommy Sheppard is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"United , - en ,",Scottish National Party,0,Scottish National Party,0,-3.97529
+[CLS] Tommy Sheppard is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"Ty:2 Party ,",Scottish National Party,0,Scottish National Party,0,-4.27599
 [CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-1.42372
-[CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-2.91081
-[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-1.43857
-[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-2.70279
+[CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-2.91082
+[CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],Britse,Scottish National Party,0,Scottish National Party,0,-3.33596
+[CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Scottish National Party,0,Scottish National Party,0,-3.94955
+[CLS] Richard Arkless:2 is lid van de [MASK] politieke partij . [SEP],andere,Scottish National Party,0,Scottish National Party,0,-4.02657
+[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-1.43856
+[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-2.70280
+[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],Britse,Scottish National Party,0,Scottish National Party,0,-2.76978
+[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],partij,Scottish National Party,0,Scottish National Party,0,-3.85494
+[CLS] Phil Boswell:2 is lid van de [MASK] politieke partij . [SEP],andere,Scottish National Party,0,Scottish National Party,0,-4.01324
 [CLS] Owen Thompson is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-0.83083
-[CLS] Owen Thompson is lid van de [MASK] [MASK] politieke partij . [SEP],Laboure:2,Scottish National Party,0,Scottish National Party,0,-3.22991
+[CLS] Owen Thompson is lid van de [MASK] [MASK] politieke partij . [SEP],Laboure:2,Scottish National Party,0,Scottish National Party,0,-3.22992
+[CLS] Owen Thompson is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Rss:3 een -,Scottish National Party,0,Scottish National Party,0,-3.73827
+[CLS] Owen Thompson is lid van de [MASK] politieke partij . [SEP],Labour,Scottish National Party,0,Scottish National Party,0,-3.84177
+[CLS] Owen Thompson is lid van de [MASK] politieke partij . [SEP],regionale,Scottish National Party,0,Scottish National Party,0,-4.10952
 [CLS] Judith Cummins:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.30561
 [CLS] Judith Cummins:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.87000
+[CLS] Judith Cummins:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-2.87719
+[CLS] Judith Cummins:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-2.91626
+[CLS] Judith Cummins:2 is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-4.00072
 [CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.57502
-[CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.53926
+[CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.53927
+[CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.30452
+[CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-3.54300
+[CLS] Vicky Foxcroft:2 is lid van de [MASK] politieke partij . [SEP],Belgische,Labour - partij,0,Labour - partij,0,-3.89684
 [CLS] Margaret Greenwood is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.47343
 [CLS] Margaret Greenwood is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-2.40350
-[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour Co - operative,0,Labour Co - operative,0,-1.66733
-[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour Co - operative,0,Labour Co - operative,0,-2.56615
+[CLS] Margaret Greenwood is lid van de [MASK] politieke partij . [SEP],Labour,Labour - partij,0,Labour - partij,0,-2.84348
+[CLS] Margaret Greenwood is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-3.47303
+[CLS] Margaret Greenwood is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.55423
+[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour Co - operative,0,Labour Co - operative,0,-1.66732
+[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour Co - operative,0,Labour Co - operative,0,-2.56616
+[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour Co - operative,0,Labour Co - operative,0,-3.00446
+[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour Co - operative,0,Labour Co - operative,0,-3.33172
+[CLS] Louise Haigh:2 is lid van de [MASK] politieke partij . [SEP],andere,Labour Co - operative,0,Labour Co - operative,0,-3.88076
 [CLS] Carolyn Harris is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.96224
-[CLS] Carolyn Harris is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.29306
+[CLS] Carolyn Harris is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour - partij,0,Labour - partij,0,-3.29307
+[CLS] Carolyn Harris is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-3.36522
+[CLS] Carolyn Harris is lid van de [MASK] [MASK] politieke partij . [SEP],deelijke:2,Labour - partij,0,Labour - partij,0,-3.90175
+[CLS] Carolyn Harris is lid van de [MASK] politieke partij . [SEP],de,Labour - partij,0,Labour - partij,0,-4.30291
 [CLS] Rosemary Hall is lid van de [MASK] politieke partij . [SEP],lokale,Scottish National Party,0,Scottish National Party,0,-1.24188
 [CLS] Rosemary Hall is lid van de [MASK] politieke partij . [SEP],Britse,Scottish National Party,0,Scottish National Party,0,-2.54718
+[CLS] Rosemary Hall is lid van de [MASK] politieke partij . [SEP],politieke,Scottish National Party,0,Scottish National Party,0,-3.39943
+[CLS] Rosemary Hall is lid van de [MASK] politieke partij . [SEP],Labour,Scottish National Party,0,Scottish National Party,0,-3.67664
+[CLS] Rosemary Hall is lid van de [MASK] politieke partij . [SEP],katholieke,Scottish National Party,0,Scottish National Party,0,-3.83325
 [CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],lokale,Labour Co - operative,0,Labour Co - operative,0,-2.08425
-[CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour Co - operative,0,Labour Co - operative,0,-2.52818
+[CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],Britse,Labour Co - operative,0,Labour Co - operative,0,-2.52819
+[CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],Nederlandse,Labour Co - operative,0,Labour Co - operative,0,-3.41209
+[CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],politieke,Labour Co - operative,0,Labour Co - operative,0,-3.48227
+[CLS] Rachael:3 Maskell:2 is lid van de [MASK] politieke partij . [SEP],Amerikaanse,Labour Co - operative,0,Labour Co - operative,0,-3.63924
 [CLS] Mick Costello is lid van de [MASK] politieke partij . [SEP],Britse,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-1.56290
 [CLS] Mick Costello is lid van de [MASK] politieke partij . [SEP],lokale,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-2.01826
-[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.71708
-[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.68068
+[CLS] Mick Costello is lid van de [MASK] politieke partij . [SEP],andere,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-2.79419
+[CLS] Mick Costello is lid van de [MASK] politieke partij . [SEP],Engelse,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-3.21884
+[CLS] Mick Costello is lid van de [MASK] politieke partij . [SEP],Europese,Communist Party of Great Britain,0,Communist Party of Great Britain,0,-3.57258
+[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-1.71707
+[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],Britse,Conservative Party,0,Conservative Party,0,-2.68069
+[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.24947
+[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],katholieke,Conservative Party,0,Conservative Party,0,-3.44791
+[CLS] Kate Rock is lid van de [MASK] politieke partij . [SEP],Nederlandse,Conservative Party,0,Conservative Party,0,-3.84587
 [CLS] Ross Thomson is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.82807
-[CLS] Ross Thomson is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Scs:2 - de,Conservative Party,0,Conservative Party,0,-3.34738
+[CLS] Ross Thomson is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Scs:2 - de,Conservative Party,0,Conservative Party,0,-3.34739
+[CLS] Ross Thomson is lid van de [MASK] [MASK] politieke partij . [SEP],Ulsters:2,Conservative Party,0,Conservative Party,0,-3.50104
+[CLS] Ross Thomson is lid van de [MASK] politieke partij . [SEP],politieke,Conservative Party,0,Conservative Party,0,-3.77238
+[CLS] Ross Thomson is lid van de [MASK] politieke partij . [SEP],primaire,Conservative Party,0,Conservative Party,0,-3.94994
 [CLS] Richard Leonard is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-1.40174
-[CLS] Richard Leonard is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-2.66799
-[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],lokale,Scottish Conservative Party,0,Scottish Conservative Party,0,-0.93110
-[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],Britse,Scottish Conservative Party,0,Scottish Conservative Party,0,-2.47321
-[CLS] Neil McEvoy:4 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.97599
+[CLS] Richard Leonard is lid van de [MASK] politieke partij . [SEP],politieke,Labour - partij,0,Labour - partij,0,-2.66800
+[CLS] Richard Leonard is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],des:2 Party de,Labour - partij,0,Labour - partij,0,-3.54455
+[CLS] Richard Leonard is lid van de [MASK] [MASK] politieke partij . [SEP],partij Party,Labour - partij,0,Labour - partij,0,-3.79504
+[CLS] Richard Leonard is lid van de [MASK] [MASK] politieke partij . [SEP],deelijke:2,Labour - partij,0,Labour - partij,0,-4.05946
+[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],lokale,Scottish Conservative Party,0,Scottish Conservative Party,0,-0.93109
+[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],Britse,Scottish Conservative Party,0,Scottish Conservative Party,0,-2.47322
+[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],politieke,Scottish Conservative Party,0,Scottish Conservative Party,0,-3.75476
+[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],katholieke,Scottish Conservative Party,0,Scottish Conservative Party,0,-3.99638
+[CLS] Graham Simpson is lid van de [MASK] politieke partij . [SEP],regionale,Scottish Conservative Party,0,Scottish Conservative Party,0,-4.01768
+[CLS] Neil McEvoy:4 is lid van de [MASK] politieke partij . [SEP],lokale,Labour - partij,0,Labour - partij,0,-0.97598
 [CLS] Neil McEvoy:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Conc:2 Party - een,Labour - partij,0,Labour - partij,0,-3.04765
+[CLS] Neil McEvoy:4 is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],"NewC:2 , Party de",Labour - partij,0,Labour - partij,0,-3.46568
+[CLS] Neil McEvoy:4 is lid van de [MASK] politieke partij . [SEP],katholieke,Labour - partij,0,Labour - partij,0,-3.81979
+[CLS] Neil McEvoy:4 is lid van de [MASK] politieke partij . [SEP],Britse,Labour - partij,0,Labour - partij,0,-3.83884
 [CLS] Philip Smith is lid van de [MASK] politieke partij . [SEP],lokale,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-1.33246
 [CLS] Philip Smith is lid van de [MASK] politieke partij . [SEP],Britse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-2.86953
+[CLS] Philip Smith is lid van de [MASK] politieke partij . [SEP],politieke,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.16395
+[CLS] Philip Smith is lid van de [MASK] politieke partij . [SEP],Nederlandse,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.79138
+[CLS] Philip Smith is lid van de [MASK] politieke partij . [SEP],Europese,Ulster Unionist:2 Party,0,Ulster Unionist:2 Party,0,-3.79928
 [CLS] Nickie:2 Aiken is lid van de [MASK] politieke partij . [SEP],lokale,Conservative Party,0,Conservative Party,0,-0.73169
-[CLS] Nickie:2 Aiken is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],des:2 - een,Conservative Party,0,Conservative Party,0,-3.33337
+[CLS] Nickie:2 Aiken is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],des:2 - een,Conservative Party,0,Conservative Party,0,-3.33338
+[CLS] Nickie:2 Aiken is lid van de [MASK] [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],A of - - -,Conservative Party,0,Conservative Party,0,-3.76027
+[CLS] Nickie:2 Aiken is lid van de [MASK] politieke partij . [SEP],primaire,Conservative Party,0,Conservative Party,0,-4.13016
+[CLS] Nickie:2 Aiken is lid van de [MASK] [MASK] [MASK] [MASK] politieke partij . [SEP],Spn:2 :e:2,Conservative Party,0,Conservative Party,0,-4.36465
