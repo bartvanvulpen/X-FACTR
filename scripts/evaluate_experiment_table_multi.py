@@ -48,9 +48,45 @@ def compute_precision(in_file: str, eval: EvalContext, prettify_out_file: str=No
                 else:
                     correct_multi += right
                     total_mutli += 1
-    return correct / (total or 1)/ len(r.result['pred']), \
-           correct_single / (total_single or 1)/ len(r.result['pred']), \
-           correct_multi / (total_mutli or 1)/ len(r.result['pred']), \
+    return correct / (total or 1), \
+           correct_single / (total_single or 1), \
+           correct_multi / (total_mutli or 1), \
+           total, total_single, total_mutli
+
+
+def compute_accuracy(in_file: str, eval: EvalContext, prettify_out_file: str=None, only_count: bool=False) \
+        -> Tuple[float, float, float, int, int, int]:
+    headers = ['sentence', 'prediction', 'gold', 'is_same', 'confidence', 'is_single_word', 'sub_uri', 'obj_uri']
+    result: List[LamaPredictions] = load_result(in_file)
+    correct = total = 0
+    correct_single = total_single = 0
+    correct_multi = total_mutli = 0
+    with CsvLogFileContext(prettify_out_file, headers=headers) as csv_file:
+        for r in result:
+            has_correct = 0
+            for i in range(len(r.result['pred'])):
+                r.result['pred_log_prob'] = [[0]]*len(r.result['pred'])
+                r.result['pred_log_prob'][i] = [1]
+                if eval.skip_cate and r.is_cate(eval.entity2iscate):
+                    continue
+                right = 0
+                if not only_count:
+                    right = int(r.eval(eval))
+                    if csv_file:
+                        r.prettify(csv_file, eval)
+                has_correct += right
+            has_correct = 1 if has_correct else 0
+            correct += has_correct
+            total += 1
+            if r.is_single_word:
+                correct_single += has_correct
+                total_single += 1
+            else:
+                correct_multi += has_correct
+                total_mutli += 1
+    return correct / (total or 1), \
+           correct_single / (total_single or 1), \
+           correct_multi / (total_mutli or 1), \
            total, total_single, total_mutli
 
 
@@ -78,7 +114,7 @@ if __name__ == '__main__':
     print('Reading result files...')
 
     if args.metric == 'accuracy':
-        metric = compute_acc
+        metric = compute_accuracy
     elif args.metric == 'precision':
         metric = compute_precision
     else:
