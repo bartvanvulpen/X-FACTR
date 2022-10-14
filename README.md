@@ -16,7 +16,7 @@ for investigating language bias in pretrained multilingual language models
 TODO
 
 ### Environment setup
-Simply run the following bash script (some libraries might have to be installed manually via pip, depending on the OS):
+Run the following bash script (some libraries might have to be installed manually via pip, depending on the OS):
 ```shell
 bash setup.sh
 ```
