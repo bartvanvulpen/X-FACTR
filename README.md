@@ -21,6 +21,15 @@ Run the following bash script (some libraries might have to be installed manuall
 bash setup.sh
 ```
 ### Running the data creation scripts
+#### Running wikidata queries
+```shell
+python query_data.py
+```
+
+#### create files using retrieved data
+```shell
+python formatting.py
+```
 
 ### Running the experiments
 #### Single prediction (```--lang``` can be ```en```, ```nl```, ```hu```)
@@ -32,8 +41,20 @@ python scripts/run_experiment.py --lang=en
 python scripts/run_experiment.py --lang=en
 ```
 ### Evaluation scripts
+#### Single predicition accuracy
+```shell
+python scripts/evaluate_experiment_table.py
+```
 
-TODO
+#### Multi prediction top n accuracy
+```shell
+python scripts/evaluate_experiment_table_multi.py
+```
+
+#### Multi prediction precision at k
+```shell
+python scripts/evaluate_experiment_table_multi.py --metric precision
+```
 
 
 
