@@ -30,12 +30,12 @@ Run the following bash script (some libraries might have to be installed manuall
 bash setup.sh
 ```
 ### Running the data creation scripts
-#### Running wikidata queries
+#### Running Wikidata queries
 ```shell
 python query_data.py
 ```
 
-#### create files using retrieved data
+#### Create files using retrieved data
 ```shell
 python formatting.py
 ```
@@ -64,24 +64,3 @@ python scripts/evaluate_experiment_table_multi.py
 ```shell
 python scripts/evaluate_experiment_table_multi.py --metric precision
 ```
-
-
-
-
-
-
-[//]: # (Typical usage of probing &#40;the script should be called from the base folder&#41;:  )
-
-[//]: # (python .\scripts\probe.py --pids "P36" --pred_dir experiment_results --log_dir experiment_results --lang en --num_mask 1   )
-
-[//]: # (useful arguments:  )
-
-[//]: # (pids - prompt ids connected with a , -> "P36,P20"   )
-
-[//]: # (pred_dir & log_dir - path to save the prediction and log files &#40;jsonl and csv&#41; -> experiment_results  )
-
-[//]: # (lang - language to use -> en   )
-
-[//]: # (num_mask - number of word to predict &#40;starting from 1&#41; -> 1  )
-
-[//]: # (prompts - path of the folder which contains prompts for the model to use -> "own_prompts_en" )
