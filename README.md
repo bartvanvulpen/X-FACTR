@@ -13,6 +13,14 @@ for investigating language bias in pretrained multilingual language models
 
 ```scripts/run_multi_experiment.py```: script to run the multi prediction experiments for a specific prompt language
 
+```query_data.py```: script to run wikidata queries, creates jsondict.p
+
+```formatting.py```: script to create all the data files using jsondict.p
+
+```scripts/evaluate_experiments_table.py```: script to create a results table for the single prediction results
+
+```scripts/evaluate_experiments_table_multi.py```: script to create a results table for the multi prediction results
+
 TODO
 
 ### Environment setup
