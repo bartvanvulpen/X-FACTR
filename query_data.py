@@ -1,5 +1,8 @@
+from qwikidata.sparql import (get_subclasses_of_item,
+                              return_sparql_query_results)
 from copy import deepcopy
 from collections import defaultdict
+import pickle
 jsondict = defaultdict(dict)
 for lang in ['en', 'nl', 'hu']:
     if lang == 'en':
@@ -128,3 +131,4 @@ for lang in ['en', 'nl', 'hu']:
     jsondict[lang]['P159']=deepcopy(jsons)
     jsondict[lang]['P17']=deepcopy(jsons)
 
+pickle.dump(jsondict, open("jsondict.p", "wb"))
