@@ -1,6 +1,6 @@
 # Investigating language bias in pretrained multilingual language models
 
-In this repo, you will find modified and expanded code of: 
+In this repo, you will find the modified and expanded code of: 
 > [X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models](https://arxiv.org/abs/2010.06189)
 >
 > Zhengbao Jiang, Antonios Anastasopoulos, Jun Araki, Haibo Ding, Graham Neubig
@@ -21,7 +21,8 @@ for investigating language bias in pretrained multilingual language models
 
 ```scripts/evaluate_experiments_table_multi.py```: script to create a results table for the multi prediction results
 
-TODO
+```evaluate_results.py```: script to evaluate the result tables for our experiments and to create summarized and example
+tables for our paper
 
 ### Environment setup
 Run the following bash script (some libraries might have to be installed manually via pip, depending on the OS):
